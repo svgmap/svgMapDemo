@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14062.5 -3796.875 140.625 140.625" go:dataArea="14062.5 -3796.875 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,名取医院,宮城県角田市角田字南６１-１,内科　神経内科　外科　皮膚科,,,9" xlink:title="名取医院" transform="ref(svg,14078.1104,-3796.8673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）仙南ジェロントピア診療所,宮城県伊具郡丸森町舘矢間松掛字宮田６７,内科,,,9" xlink:title="（特養）仙南ジェロントピア診療所" transform="ref(svg,14075.8911,-3793.8162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,登米整形外科・外科医院,宮城県伊具郡丸森町字千刈場７,外科　整形外科　皮膚科,,,9" xlink:title="登米整形外科・外科医院" transform="ref(svg,14076.8124,-3791.3424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本医院,宮城県伊具郡丸森町字町西６２-１,内科　外科,,,9" xlink:title="山本医院" transform="ref(svg,14076.1426,-3791.4073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三澤医院,宮城県伊具郡丸森町大館３-１１０,内科,,,9" xlink:title="三澤医院" transform="ref(svg,14076.3584,-3792.297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大張診療所,宮城県伊具郡丸森町大張川張字宮田３,内科,,,9" xlink:title="大張診療所" transform="ref(svg,14067.7707,-3793.7142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊地内科医院,宮城県亘理郡山元町浅生原字作田山２-７２,内科　小児科,,,9" xlink:title="菊地内科医院" transform="ref(svg,14087.6765,-3796.3128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松村クリニック,宮城県亘理郡山元町坂元字道合７０,内科　小児科　外科　整形外科　小児外科　皮膚科　泌尿器科,,,9" xlink:title="松村クリニック" transform="ref(svg,14089.7248,-3792.539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやま荘診療所,宮城県亘理郡山元町高瀬字合戦原１１１-１１,内科,,,9" xlink:title="みやま荘診療所" transform="ref(svg,14089.8056,-3794.1869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）宮城病院診療部,宮城県亘理郡山元町高瀬字合戦原１００,内科　呼吸器科　循環器科　小児科　外科　整形外科　放射線科　歯科,,,9" xlink:title="厚生労働省第二（共済）宮城病院診療部" transform="ref(svg,14089.2706,-3794.2254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）いわき病院所属所,福島県いわき市平豊間字兔渡路２９１,内科　呼吸器科　小児科　眼科　放射線科　歯科,,,9" xlink:title="厚生労働省第二（共済）いわき病院所属所" transform="ref(svg,14096.5457,-3698.0745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎医院産婦人科・小児科・内科,福島県いわき市平字釜の内２-３,内科　小児科　産科　婦人科　麻酔科,,,9" xlink:title="山崎医院産婦人科・小児科・内科" transform="ref(svg,14089.3664,-3704.8414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白木沢産婦人科,福島県いわき市平字月見町５１-４,産科　婦人科,,,9" xlink:title="白木沢産婦人科" transform="ref(svg,14089.8097,-3705.2431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田泌尿器科・産婦人科医院,福島県いわき市平字作町２-８-１,泌尿器科　産科　婦人科　麻酔科,,,9" xlink:title="森田泌尿器科・産婦人科医院" transform="ref(svg,14090.3474,-3704.9329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福田小児科医院,福島県いわき市平下荒川字川前７１-１,小児科,,,9" xlink:title="福田小児科医院" transform="ref(svg,14090.791,-3703.9472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,舟田内科,福島県いわき市郷ヶ丘２-５-２,内科　呼吸器科　循環器科　小児科,,,9" xlink:title="舟田内科" transform="ref(svg,14090.3425,-3702.5082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松村健診センター,福島県いわき市平字小太郎町１-８,内科　外科　婦人科　眼科　耳鼻咽喉科,,,9" xlink:title="松村健診センター" transform="ref(svg,14089.1667,-3705.2233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福島県赤十字血液センターいわき出張所,福島県いわき市中央台飯野５-１-１,内科,,,9" xlink:title="福島県赤十字血液センターいわき出張所" transform="ref(svg,14091.0999,-3702.0841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）福島県保健衛生協会いわき診療所,福島県いわき市小島町２-１４-７,内科　婦人科,,,9" xlink:title="（公財）福島県保健衛生協会いわき診療所" transform="ref(svg,14088.459,-3704.6723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永井眼科,福島県いわき市平字童子町２-７,眼科,,,9" xlink:title="永井眼科" transform="ref(svg,14088.7846,-3705.2619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若松医院,福島県いわき市平字大町２４,内科　小児科,,,9" xlink:title="若松医院" transform="ref(svg,14089.5067,-3705.3447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長谷川整形外科医院,福島県いわき市平字五色町７８,整形外科　リハビリテーション科,,,9" xlink:title="長谷川整形外科医院" transform="ref(svg,14090.4374,-3705.3367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野の花ホーム診療所,福島県いわき市平上平窪字羽黒４０-５１,内科　整形外科　胃腸科　外科　肛門科　リハビリテーション科,,,9" xlink:title="野の花ホーム診療所" transform="ref(svg,14088.9533,-3709.5066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志賀整形外科・外科,福島県いわき市平字鍛冶町２７,整形外科　外科　リウマチ科,,,9" xlink:title="志賀整形外科・外科" transform="ref(svg,14088.8546,-3705.4122)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田整形外科医院,福島県いわき市平字研町５,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="吉田整形外科医院" transform="ref(svg,14088.4599,-3705.5285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）亀齢荘医務室,福島県いわき市平山崎字熊ノ宮３０,内科,,,9" xlink:title="（特養）亀齢荘医務室" transform="ref(svg,14094.0053,-3705.6976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白井外科胃腸科医院,福島県いわき市平下平窪字味噌農２５-５,内科　胃腸科　小児科　外科　整形外科　肛門科　リハビリテーション科,,,9" xlink:title="白井外科胃腸科医院" transform="ref(svg,14088.1193,-3707.7177)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう外科胃腸科,福島県いわき市平中神谷字柳橋２１,内科　胃腸科　小児科　外科　整形外科　皮膚科　肛門科　リハビリテーション科,,,9" xlink:title="さとう外科胃腸科" transform="ref(svg,14093.8433,-3706.4214)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田皮膚科医院,福島県いわき市平字三倉６５-５,皮膚科,,,9" xlink:title="和田皮膚科医院" transform="ref(svg,14090.048,-3705.1614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）蓮沼医院,福島県いわき市平字尼子町２-１９,内科　小児科　皮膚科　放射線科,,,9" xlink:title="（医）蓮沼医院" transform="ref(svg,14088.3893,-3705.2141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木村眼科クリニック,福島県いわき市平字下の町７-４,眼科,,,9" xlink:title="木村眼科クリニック" transform="ref(svg,14089.3859,-3704.9678)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南白土ごとう医院,福島県いわき市平南白土２-１-６,内科　胃腸科　外科　整形外科　皮膚科　泌尿器科　肛門科　リハビリテーション科　放射線科,,,9" xlink:title="南白土ごとう医院" transform="ref(svg,14090.6174,-3704.6176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）幸寿苑医務室,福島県いわき市平上平窪字原田１３-１,内科　外科　整形外科,,,9" xlink:title="（特養）幸寿苑医務室" transform="ref(svg,14087.3873,-3710.0585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田耳鼻咽喉科医院,福島県いわき市平字研町１１,耳鼻咽喉科,,,9" xlink:title="和田耳鼻咽喉科医院" transform="ref(svg,14088.4274,-3705.4713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）昭栄会佐藤クリニック,福島県いわき市平字小太郎町３-７,内科　胃腸科　循環器科　小児科　心療内科,,,9" xlink:title="（医）昭栄会佐藤クリニック" transform="ref(svg,14089.377,-3705.1964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂本整形外科医院,福島県いわき市平豊間字柳町４７,整形外科,,,9" xlink:title="坂本整形外科医院" transform="ref(svg,14096.8624,-3699.2077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）酒井医院,福島県いわき市平字南町１２,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）酒井医院" transform="ref(svg,14089.1542,-3705.4441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さいとう胃腸科外科医院,福島県いわき市平字南町５６,内科　胃腸科　外科　肛門科　リハビリテーション科,,,9" xlink:title="（医）さいとう胃腸科外科医院" transform="ref(svg,14089.3317,-3705.4927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ストレスクリニック,福島県いわき市平字田町１-７,内科　心療内科　神経科　精神科,,,9" xlink:title="（医）ストレスクリニック" transform="ref(svg,14089.272,-3705.6616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清水医院,福島県いわき市平字田町７５-１,内科　眼科,,,9" xlink:title="（医）清水医院" transform="ref(svg,14088.9226,-3705.7005)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）医和生会山内クリニック,福島県いわき市平谷川瀬字三十九町１９-３,内科　循環器科,,,9" xlink:title="（医）医和生会山内クリニック" transform="ref(svg,14089.2064,-3704.8071)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺クリニック,福島県いわき市平字南町２０,内科　小児科　外科,,,9" xlink:title="渡辺クリニック" transform="ref(svg,14089.2548,-3705.4436)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横川内科医院,福島県いわき市平下神谷字立田帯１３-１,内科　消化器科　循環器科　小児科　皮膚科,,,9" xlink:title="横川内科医院" transform="ref(svg,14093.8791,-3706.5157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑風会小野整形外科医院,福島県いわき市平谷川瀬字仲山町５８,整形外科　リハビリテーション科,,,9" xlink:title="（医）緑風会小野整形外科医院" transform="ref(svg,14089.637,-3704.7648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石井内科クリニック,福島県いわき市中央台鹿島３-３５-３,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="（医）石井内科クリニック" transform="ref(svg,14092.3678,-3700.4327)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ながい小児科,福島県いわき市平上荒川字長尾１６,小児科,,,9" xlink:title="（医）ながい小児科" transform="ref(svg,14089.114,-3703.5827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひらくぼ内科クリニック,福島県いわき市平下平窪１-２-６,内科　消化器科　胃腸科　リハビリテーション科,,,9" xlink:title="ひらくぼ内科クリニック" transform="ref(svg,14088.241,-3707.3513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こまつ内科,福島県いわき市平下神谷字仲田１３５,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="（医）こまつ内科" transform="ref(svg,14095.3484,-3707.5949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひまわり荘医務室,福島県いわき市平上片寄上ノ内１９３,内科,,,9" xlink:title="（特養）ひまわり荘医務室" transform="ref(svg,14091.5185,-3708.0472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村田耳鼻咽喉科,福島県いわき市平中平窪字細田町３-２,内科　耳鼻咽喉科　アレルギー科,,,9" xlink:title="村田耳鼻咽喉科" transform="ref(svg,14087.6743,-3708.4523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,医療センター片寄診療所,福島県いわき市平上片寄字上ノ内１９３,内科　整形外科　歯科,,,9" xlink:title="医療センター片寄診療所" transform="ref(svg,14091.5185,-3708.0472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田友愛クリニック,福島県いわき市平字田町１２０ラトブ２Ｆ,眼科,,,9" xlink:title="山田友愛クリニック" transform="ref(svg,14089.1657,-3705.7015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口医院,福島県いわき市平字作町３-２-９,内科　消化器科　循環器科　小児科　放射線科,,,9" xlink:title="山口医院" transform="ref(svg,14090.3924,-3704.8984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき整形外科,福島県いわき市平谷川瀬字明治町６０,内科　整形外科　形成外科　リウマチ科　リハビリテーション科,,,9" xlink:title="いわき整形外科" transform="ref(svg,14088.9917,-3704.8192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁愛会明治団地さとう医院,福島県いわき市明治団地８５-１,内科,,,9" xlink:title="（医）仁愛会明治団地さとう医院" transform="ref(svg,14088.729,-3703.8777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,櫻井耳鼻咽喉科,福島県いわき市平字倉前１１３,耳鼻咽喉科　気管食道科,,,9" xlink:title="櫻井耳鼻咽喉科" transform="ref(svg,14089.97,-3704.8516)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千寿会相田整形外科,福島県いわき市平中平窪字西高砂３-４,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）千寿会相田整形外科" transform="ref(svg,14087.2635,-3708.6059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）光芝会ヤマノ眼科,福島県いわき市中央台鹿島３-３５-１,眼科,,,9" xlink:title="（医）光芝会ヤマノ眼科" transform="ref(svg,14092.345,-3700.4726)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,じんぼ内科クリニック,福島県いわき市平字五色町６４,内科　胃腸科　循環器科　呼吸器科　消化器科　小児科,,,9" xlink:title="じんぼ内科クリニック" transform="ref(svg,14090.3418,-3705.4025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新妻医院,福島県いわき市郷ヶ丘２-４０-４,内科　呼吸器科　胃腸科　外科　整形外科　皮膚科,,,9" xlink:title="新妻医院" transform="ref(svg,14090.7147,-3702.4849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くさの内科・眼科,福島県いわき市平字鎌田町４０,内科　眼科　呼吸器科　消化器科　循環器科　アレルギー科　小児科　皮膚科　リハビリテーション科,,,9" xlink:title="くさの内科・眼科" transform="ref(svg,14090.3805,-3705.5753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかいけ耳鼻咽喉科クリニック,福島県いわき市郷ヶ丘２-５５-２,耳鼻咽喉科,,,9" xlink:title="あかいけ耳鼻咽喉科クリニック" transform="ref(svg,14090.3369,-3702.9295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あさうら会須田医院,福島県いわき市小島町１-５-２,内科　胃腸科　循環器科　小児科　外科　整形外科　脳神経外科　皮膚科　肛門科　リハビリテーション科,,,9" xlink:title="（医）あさうら会須田医院" transform="ref(svg,14088.1691,-3705.043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくだ町産婦人科医院,福島県いわき市平字佃町５-４,産婦人科,,,9" xlink:title="つくだ町産婦人科医院" transform="ref(svg,14089.5142,-3705.1783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき脳神経外科,福島県いわき市平字紺屋町５,脳神経外科　内科　神経内科　整形外科　リハビリテーション科　歯科,,,9" xlink:title="いわき脳神経外科" transform="ref(svg,14088.5385,-3705.5174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおくぼ胃と腸・内科クリニック,福島県いわき市平字童子町２-２２,消化器科　内科　循環器科　呼吸器科　リハビリテーション科　小児科,,,9" xlink:title="おおくぼ胃と腸・内科クリニック" transform="ref(svg,14088.6268,-3705.2155)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまぎわこどもクリニック,福島県いわき市郷ヶ丘２-１０-１,小児科,,,9" xlink:title="やまぎわこどもクリニック" transform="ref(svg,14090.483,-3702.5538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,そのだ内科クリニック,福島県いわき市小島町３-６-２３,内科　消化器科　呼吸器科　神経科　リハビリテーション科　心療内科　小児科,,,9" xlink:title="そのだ内科クリニック" transform="ref(svg,14088.5626,-3704.6709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）金生皮膚科医院,福島県いわき市平字月見町３３-２,皮膚科,,,9" xlink:title="（医）金生皮膚科医院" transform="ref(svg,14089.7247,-3705.1928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,月川レディースクリニック,福島県いわき市平字童子町２-６,内科　婦人科　産科,,,9" xlink:title="月川レディースクリニック" transform="ref(svg,14088.7451,-3705.2519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安盛会安濃胃腸科内科医院,福島県いわき市平字菱川町７-１０,内科　心療内科　呼吸器科　循環器科,,,9" xlink:title="（医）安盛会安濃胃腸科内科医院" transform="ref(svg,14089.0559,-3705.0084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,城北内科胃腸科クリニック,福島県いわき市平幕ノ内字高田１８-８,内科　胃腸科,,,9" xlink:title="城北内科胃腸科クリニック" transform="ref(svg,14089.9955,-3706.7017)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺内科胃腸科,福島県いわき市平字倉前１１３-１,内科　呼吸器科　胃腸科　循環器科　リウマチ科　小児科　リハビリテーション科,,,9" xlink:title="渡辺内科胃腸科" transform="ref(svg,14089.9691,-3704.8504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中野内科クリニック,福島県いわき市平字鍛冶町１３,内科　神経内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="中野内科クリニック" transform="ref(svg,14088.9684,-3705.4646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかにし内科クリニック,福島県いわき市平北白土字宮前５８-１,内科　呼吸器科　消化器科　リウマチ科　放射線科,,,9" xlink:title="なかにし内科クリニック" transform="ref(svg,14091.1106,-3704.9362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志賀リウマチ整形クリニック,福島県いわき市平上荒川字堀ノ内１６-１,整形外科　リウマチ科　形成外科　リハビリテーション科　麻酔科,,,9" xlink:title="志賀リウマチ整形クリニック" transform="ref(svg,14089.0048,-3703.7069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安島内科クリニック,福島県いわき市郷ヶ丘２-３３-１,内科　消化器科　循環器科　呼吸器科　リハビリテーション科,,,9" xlink:title="安島内科クリニック" transform="ref(svg,14090.3986,-3702.4415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平中央医院,福島県いわき市平字小太郎町４-７,産婦人科　漢方内科,,,9" xlink:title="平中央医院" transform="ref(svg,14089.2681,-3705.1806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）だいた耳鼻咽喉科クリニック,福島県いわき市平字四町目２１-１６,耳鼻咽喉科,,,9" xlink:title="（医）だいた耳鼻咽喉科クリニック" transform="ref(svg,14089.5006,-3705.6649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大瀧内科・小児科クリニック,福島県いわき市平字下の町４-９,内科　小児科　消化器科　循環器科　呼吸器科,,,9" xlink:title="大瀧内科・小児科クリニック" transform="ref(svg,14089.4256,-3705.0548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中央台遠藤内科クリニック,福島県いわき市中央台高久２-２２-１,内科　消化器科　循環器科　呼吸器科　小児科,,,9" xlink:title="中央台遠藤内科クリニック" transform="ref(svg,14092.7349,-3700.8704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山桜会光皮フ科クリニック,福島県いわき市中央台鹿島２-２９-１,アレルギー科　皮膚科,,,9" xlink:title="（医）山桜会光皮フ科クリニック" transform="ref(svg,14092.4916,-3700.2591)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）りんさく福祉会（特養）望洋荘医務室,福島県いわき市平豊間字合磯３９,内科,,,9" xlink:title="（福）りんさく福祉会（特養）望洋荘医務室" transform="ref(svg,14096.1619,-3697.8692)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もみじ町内科胃腸科医院,福島県いわき市平字紅葉町３８-２,内科　消化器科　循環器科　呼吸器科　小児科　リウマチ科,,,9" xlink:title="もみじ町内科胃腸科医院" transform="ref(svg,14088.8718,-3706.4851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ノブマタニティークリニック,福島県いわき市中央台飯野４-１８-２,産科　婦人科　麻酔科,,,9" xlink:title="ノブマタニティークリニック" transform="ref(svg,14091.3852,-3701.8077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こころのクリニック,福島県いわき市平字四町目２２-７,心療内科　内科　神経科　精神科,,,9" xlink:title="こころのクリニック" transform="ref(svg,14089.4068,-3705.6269)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はなまる共和国医務室,福島県いわき市平上荒川字林作２０７-５,内科　外科,,,9" xlink:title="（特養）はなまる共和国医務室" transform="ref(svg,14087.905,-3702.4234)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき市徳風園医務室,福島県いわき市平下高久字中谷地５８-１,内科,,,9" xlink:title="いわき市徳風園医務室" transform="ref(svg,14096.821,-3703.0788)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志賀内科クリニック,福島県いわき市平字五町目１７-１０,内科　消化器科　循環器科　小児科,,,9" xlink:title="志賀内科クリニック" transform="ref(svg,14089.5997,-3705.658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たいら六町目内科,福島県いわき市平六町目１-１,内科,,,9" xlink:title="たいら六町目内科" transform="ref(svg,14089.8894,-3705.6422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,草野老人内科,福島県いわき市平泉崎字向原１７-１,内科,,,9" xlink:title="草野老人内科" transform="ref(svg,14094.9195,-3707.4149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,見城整形外科クリニック,福島県いわき市中央台飯野３-３３-４,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="見城整形外科クリニック" transform="ref(svg,14091.5044,-3701.2948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こやま内科胃腸科クリニック,福島県いわき市平字愛谷町４-５-３,内科　消化器科　外科　小児科,,,9" xlink:title="こやま内科胃腸科クリニック" transform="ref(svg,14090.959,-3705.0992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはしクリニック,福島県いわき市平上荒川字安草１６-２,内科　外科　胃腸科　肛門科　リハビリテーション科,,,9" xlink:title="たかはしクリニック" transform="ref(svg,14089.4413,-3703.7975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ネモト内科クリニック,福島県いわき市平字新田前１-１６,内科　糖尿病内科　消化器内科　内視鏡内科,,,9" xlink:title="（医）ネモト内科クリニック" transform="ref(svg,14089.641,-3705.0978)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高倉基整形外科,福島県いわき市中央台鹿島２-２８-１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="高倉基整形外科" transform="ref(svg,14092.438,-3700.3329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あんざいクリニック,福島県いわき市平下荒川字大作１３３-５,内科,,,9" xlink:title="あんざいクリニック" transform="ref(svg,14090.3999,-3703.5086)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき健康管理センター,福島県いわき市中央台飯野４-９-２,内科　胃腸科　婦人科,,,9" xlink:title="いわき健康管理センター" transform="ref(svg,14092.0004,-3701.7428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田まさふみ整形外科,福島県いわき市平字仲間町７６,整形外科　リハビリテーション科,,,9" xlink:title="吉田まさふみ整形外科" transform="ref(svg,14089.6494,-3705.9005)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ニュータウン腎・内科クリニック,福島県いわき市中央台高久２-２６-２,内科,,,9" xlink:title="ニュータウン腎・内科クリニック" transform="ref(svg,14092.8311,-3701.0026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしおか内科胃腸科,福島県いわき市平下平窪山土内町７-５,内科　内視鏡内科　小児科,,,9" xlink:title="よしおか内科胃腸科" transform="ref(svg,14087.7995,-3708.284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわきタウン形成外科クリニック,福島県いわき市平字三町目２８-１,形成外科　美容外科　皮膚科,,,9" xlink:title="いわきタウン形成外科クリニック" transform="ref(svg,14089.2198,-3705.6227)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くさのファミリー内科クリニック,福島県いわき市平上荒川字長尾４１-１２,内科　消化器内科　呼吸器内科　小児科　循環器内科,,,9" xlink:title="くさのファミリー内科クリニック" transform="ref(svg,14089.059,-3703.2515)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠藤クリニック,福島県いわき市平字尼子町１-９加登屋サンハイツ尼子町１Ｆ,内科　消化器内科　放射線科,,,9" xlink:title="遠藤クリニック" transform="ref(svg,14088.4653,-3705.0915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）ときわ会竹林貞吉記念クリニック,福島県いわき市平字堂根町２-３,内科　人工透析内科　腎臓内科　循環器内科　神経内科　整形外科,,,9" xlink:title="（公財）ときわ会竹林貞吉記念クリニック" transform="ref(svg,14089.075,-3705.2669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本町通りクリニック,福島県いわき市平字四町目７,内科　放射線科　心療内科　消化器内科　精神科,,,9" xlink:title="本町通りクリニック" transform="ref(svg,14089.3828,-3705.5819)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島田眼科医院,福島県いわき市平字菱川町１-２,眼科,,,9" xlink:title="島田眼科医院" transform="ref(svg,14089.0815,-3705.1014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とも内科クリニック,福島県いわき市郷ヶ丘４-１８-１,内科,,,9" xlink:title="とも内科クリニック" transform="ref(svg,14091.5235,-3702.9276)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき平競輪場医務室,福島県いわき市平谷川瀬字西作１,内科　外科,,,9" xlink:title="いわき平競輪場医務室" transform="ref(svg,14089.1467,-3704.5359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博文会ラルースクリニック,福島県いわき市平字三倉６５-５三倉サンライフ１Ｆ,心療内科　精神科　内科,,,9" xlink:title="（医）博文会ラルースクリニック" transform="ref(svg,14090.0504,-3705.1616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわきたいら心療内科,福島県いわき市平字研町１,精神科　心療内科　内科,,,9" xlink:title="いわきたいら心療内科" transform="ref(svg,14088.4446,-3705.5849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さがわ耳鼻咽喉科,福島県いわき市平字月見町４８-５,耳鼻咽喉科,,,9" xlink:title="さがわ耳鼻咽喉科" transform="ref(svg,14089.8883,-3705.2653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）水谷消化器科外科医院,福島県いわき市郷ヶ丘１-１５-４,消化器内科　外科　内科,,,9" xlink:title="（医）水谷消化器科外科医院" transform="ref(svg,14089.9767,-3702.6733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,自由ヶ丘さとうクリニック眼科,福島県いわき市自由ヶ丘３７-４,眼科,,,9" xlink:title="自由ヶ丘さとうクリニック眼科" transform="ref(svg,14089.2895,-3702.893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石井内科クリニック飯野,福島県いわき市中央台飯野３-３３-１,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="（医）石井内科クリニック飯野" transform="ref(svg,14091.5504,-3701.3117)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中央台たなか眼科,福島県いわき市中央台高久２-８-１,眼科,,,9" xlink:title="中央台たなか眼科" transform="ref(svg,14092.7144,-3700.6651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のぐち形成外科クリニック,福島県いわき市自由ヶ丘３７-１０,形成外科　美容外科　美容皮膚科,,,9" xlink:title="のぐち形成外科クリニック" transform="ref(svg,14089.3995,-3702.7732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高木内科医院,福島県いわき市小名浜寺廻町１４-２０,内科　呼吸器科　消化器科　循環器科　小児科　皮膚科,,,9" xlink:title="（医）高木内科医院" transform="ref(svg,14089.9126,-3695.2413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加沢医院,福島県いわき市小名浜愛宕上３-２,内科　消化器科　外科　放射線科,,,9" xlink:title="加沢医院" transform="ref(svg,14089.5837,-3695.5288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠藤邦夫医院,福島県いわき市小名浜字定西７７-１,内科　呼吸器科　循環器科,,,9" xlink:title="遠藤邦夫医院" transform="ref(svg,14090.1398,-3694.9685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堺化学工業（株）小名浜事業所診療所,福島県いわき市泉町下川字田宿１１０,内科,,,9" xlink:title="堺化学工業（株）小名浜事業所診療所" transform="ref(svg,14086.6187,-3693.6244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,賀沢内科胃腸科医院,福島県いわき市小名浜岡小名字馬上前１１-７,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="賀沢内科胃腸科医院" transform="ref(svg,14090.3694,-3696.3462)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,熊谷内科診療所,福島県いわき市泉町滝尻字六枚内３１-３,内科　小児科　アレルギー科,,,9" xlink:title="熊谷内科診療所" transform="ref(svg,14086.6666,-3694.9945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恒英会永井整形外科,福島県いわき市小名浜西君ヶ塚町１９-９,整形外科　形成外科　リハビリテーション科　放射線科　美容外科,,,9" xlink:title="（医）恒英会永井整形外科" transform="ref(svg,14089.2778,-3695.6876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）ときわ会泉中央クリニック,福島県いわき市泉町滝尻字中ノ坪７,内科　外科　肛門科　リハビリテーション科　人工透析内科,,,9" xlink:title="（公財）ときわ会泉中央クリニック" transform="ref(svg,14086.7601,-3695.5203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）翔洋会日本化成クリニック,福島県いわき市小名浜字高山３４,内科　消化器科　外科　小児科,,,9" xlink:title="（医）翔洋会日本化成クリニック" transform="ref(svg,14089.0244,-3694.5805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）くさのクリニック,福島県いわき市泉玉露５-１７-６,内科　呼吸器科　胃腸科　小児科　リハビリテーション科,,,9" xlink:title="（医）くさのクリニック" transform="ref(svg,14085.0833,-3695.9951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）原田小児科医院,福島県いわき市小名浜大原小滝町７-１,小児科,,,9" xlink:title="（医）原田小児科医院" transform="ref(svg,14089.38,-3696.4797)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かしまレディースクリニック,福島県いわき市鹿島町船戸字沼田１３-１,内科　婦人科,,,9" xlink:title="かしまレディースクリニック" transform="ref(svg,14090.111,-3698.5284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かしむら婦人科クリニック,福島県いわき市泉玉露３-１-５,婦人科,,,9" xlink:title="かしむら婦人科クリニック" transform="ref(svg,14085.4211,-3695.9399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日産自動車（健保）いわき地区診療所,福島県いわき市泉町下川字大剣３８６,内科,,,9" xlink:title="日産自動車（健保）いわき地区診療所" transform="ref(svg,14084.8653,-3693.3935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こどもクリニックすずき,福島県いわき市泉町６-５-６,内科　小児科,,,9" xlink:title="こどもクリニックすずき" transform="ref(svg,14085.6454,-3694.5184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじい医院,福島県いわき市泉町１-３-１３,内科　消化器科　循環器科　小児科　リハビリテーション科　アレルギー科,,,9" xlink:title="ふじい医院" transform="ref(svg,14085.4995,-3695.3341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,後田内科クリニック,福島県いわき市小名浜字橋本５-１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="後田内科クリニック" transform="ref(svg,14090.8844,-3694.9911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）にしやま耳鼻咽喉科医院,福島県いわき市泉玉露５-７-７,耳鼻咽喉科,,,9" xlink:title="（医）にしやま耳鼻咽喉科医院" transform="ref(svg,14085.165,-3695.9937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たく整形外科医院,福島県いわき市泉玉露２-１４-２４,整形外科,,,9" xlink:title="たく整形外科医院" transform="ref(svg,14084.9434,-3695.6271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ささき内科クリニック,福島県いわき市泉町３-１-２,内科　呼吸器科,,,9" xlink:title="ささき内科クリニック" transform="ref(svg,14085.5153,-3695.233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木内科胃腸科,福島県いわき市小名浜南君ケ塚４-１１,内科　胃腸科,,,9" xlink:title="佐々木内科胃腸科" transform="ref(svg,14090.1408,-3695.6115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ましこ皮フ科クリニック,福島県いわき市泉玉露５-７-１０,皮膚科,,,9" xlink:title="（医）ましこ皮フ科クリニック" transform="ref(svg,14085.3633,-3695.9796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おざかクリニック,福島県いわき市泉町滝尻字下谷地２１,内科　消化器科　外科,,,9" xlink:title="おざかクリニック" transform="ref(svg,14086.0466,-3695.132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泉やまのべ眼科,福島県いわき市泉玉露５-１７-１５,眼科,,,9" xlink:title="泉やまのべ眼科" transform="ref(svg,14085.1103,-3695.9848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村岡産婦人科医院,福島県いわき市小名浜岡小名４-７-１,内科　小児科　産婦人科,,,9" xlink:title="村岡産婦人科医院" transform="ref(svg,14091.0426,-3696.2054)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保田眼科,福島県いわき市小名浜字横町３７,眼科,,,9" xlink:title="久保田眼科" transform="ref(svg,14090.5194,-3694.9219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）悠泉会いずみ整形外科クリニック,福島県いわき市泉町滝尻字定ノ田２２９-３,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）悠泉会いずみ整形外科クリニック" transform="ref(svg,14086.0594,-3695.6891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）かしま荘医務室,福島県いわき市鹿島町下蔵持字中沢目２４,内科,,,9" xlink:title="（特養）かしま荘医務室" transform="ref(svg,14091.0898,-3699.2509)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）パテラやまぐち整形外科,福島県いわき市鹿島町走熊字小神山４０-６,整形外科　リハビリテーション科,,,9" xlink:title="（医）パテラやまぐち整形外科" transform="ref(svg,14090.7204,-3699.4253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林胃腸科肛門科医院,福島県いわき市小名浜字元分２２,内科　肛門科　外科　胃腸科　麻酔科,,,9" xlink:title="小林胃腸科肛門科医院" transform="ref(svg,14090.7128,-3694.7558)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,社団（医）養生会クリニックかしま,福島県いわき市鹿島町下蔵持字里屋３-１,内科　消化器内科　循環器内科　呼吸器内科　腎臓内科（人工透析）　糖尿病内科　腎臓内科　泌尿器科　神経内科　心療内科　外科　消化器外科　乳腺外科　整形外科　総合診療科　皮膚科　リハビリテーション科　放射線科　婦人科　麻酔科,,,9" xlink:title="社団（医）養生会クリニックかしま" transform="ref(svg,14090.959,-3699.2711)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小名浜生協病院付属せいきょうクリニック,福島県いわき市小名浜岡小名字山の神４０,内科　消化器科　循環器科　小児科　呼吸器科　整形外科,,,9" xlink:title="小名浜生協病院付属せいきょうクリニック" transform="ref(svg,14090.9579,-3697.0959)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）道済会みちや内科・胃腸科,福島県いわき市小名浜住吉字道下３３-１,内科　消化器科　循環器科　呼吸器科,,,9" xlink:title="（医）道済会みちや内科・胃腸科" transform="ref(svg,14088.7247,-3698.0734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正風会石井正記念石井医院,福島県いわき市小名浜字本町６０,内科　胃腸科　外科　皮膚科　性病科　アレルギー科,,,9" xlink:title="（医）正風会石井正記念石井医院" transform="ref(svg,14090.4156,-3694.9619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こんない子供クリニック,福島県いわき市小名浜岡小名１-２-１,小児科,,,9" xlink:title="こんない子供クリニック" transform="ref(svg,14090.9166,-3696.101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,門屋整形・内科,福島県いわき市小名浜字鳥居北５５-２,内科　小児科　整形外科　リハビリテーション科,,,9" xlink:title="門屋整形・内科" transform="ref(svg,14088.8724,-3695.0735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みずたに耳鼻咽喉科医院,福島県いわき市小名浜愛宕町１-５,耳鼻咽喉科,,,9" xlink:title="みずたに耳鼻咽喉科医院" transform="ref(svg,14089.6198,-3695.096)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すみたか内科クリニック,福島県いわき市泉町滝尻字定ノ田２２２,内科　消化器科　呼吸器科,,,9" xlink:title="すみたか内科クリニック" transform="ref(svg,14086.0605,-3695.5613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山クリニック,福島県いわき市小名浜西町１-３,外科　内科　胃腸科　肛門科　リハビリテーション科,,,9" xlink:title="中山クリニック" transform="ref(svg,14090.1445,-3695.0499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すみのやリウマチ整形外科,福島県いわき市小名浜住吉字冠木１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="すみのやリウマチ整形外科" transform="ref(svg,14088.7794,-3697.7651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林眼科医院,福島県いわき市小名浜南君ヶ塚町６-１７,眼科,,,9" xlink:title="小林眼科医院" transform="ref(svg,14090.2433,-3695.666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）翔洋会磐城中央病院附属診療所,福島県いわき市小名浜南君ケ塚町１６-１３,内科　消化器科　整形外科　リハビリテーション科,,,9" xlink:title="（医）翔洋会磐城中央病院附属診療所" transform="ref(svg,14089.8536,-3695.6562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）パライソごしき医務室,福島県いわき市鹿島町久保字仲田１０-１,内科,,,9" xlink:title="（特養）パライソごしき医務室" transform="ref(svg,14090.8095,-3699.1459)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき麻酔と痛みのクリニック,福島県いわき市鹿島町走熊字渡折４-１,麻酔科,,,9" xlink:title="いわき麻酔と痛みのクリニック" transform="ref(svg,14091.0626,-3699.5839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山医院,福島県いわき市中之作字川岸３７,内科,,,9" xlink:title="中山医院" transform="ref(svg,14094.8434,-3696.063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いずみ心療内科クリニック,福島県いわき市泉町滝尻字定ノ田２５２,心療内科　内科　精神科,,,9" xlink:title="いずみ心療内科クリニック" transform="ref(svg,14085.9308,-3695.4911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふかや耳鼻咽喉科,福島県いわき市小名浜住吉字搦２３-１,耳鼻咽喉科,,,9" xlink:title="ふかや耳鼻咽喉科" transform="ref(svg,14088.62,-3698.069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）寿限無医務室,福島県いわき市泉町本谷大田２３-１,内科,,,9" xlink:title="（特養）寿限無医務室" transform="ref(svg,14087.1922,-3696.7423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しがこどもクリニック,福島県いわき市鹿島町久保字反町２６-１,小児科　アレルギー科　小児内分泌科,,,9" xlink:title="しがこどもクリニック" transform="ref(svg,14090.6017,-3698.8707)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）洋向台クリニック,福島県いわき市洋向台４-１-２,内科　外科　胃腸内科　循環器内科　呼吸器内科　小児科　肛門外科,,,9" xlink:title="（医）洋向台クリニック" transform="ref(svg,14093.4032,-3696.4949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たらちね検診センター,福島県いわき市小名浜花畑町１１-３,内科,,,9" xlink:title="たらちね検診センター" transform="ref(svg,14090.3575,-3695.431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いいづかクリニック,福島県いわき市小名浜中町境１７-１２,外科　消化器内科　乳腺外科　内科　肛門外科,,,9" xlink:title="いいづかクリニック" transform="ref(svg,14089.7213,-3695.4924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながせ皮フ科クリニック,福島県いわき市小名浜林城字辻前３-１,皮膚科,,,9" xlink:title="ながせ皮フ科クリニック" transform="ref(svg,14089.2731,-3698.3996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おちあい内科消化器科クリニック,福島県いわき市小名浜岡小名１-２-３,内科　消化器科,,,9" xlink:title="おちあい内科消化器科クリニック" transform="ref(svg,14090.9204,-3696.0682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）りゅうじん医務室,福島県いわき市洋向台１-３９-２,内科,,,9" xlink:title="地域密着型（特養）りゅうじん医務室" transform="ref(svg,14093.9807,-3696.8768)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき市千寿荘診療所,福島県いわき市江畑町塙３４-２,内科　外科,,,9" xlink:title="いわき市千寿荘診療所" transform="ref(svg,14079.2675,-3693.5383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松崎内科,福島県いわき市植田町本町２-４-７,内科　呼吸器科　循環器科　小児科,,,9" xlink:title="（医）松崎内科" transform="ref(svg,14079.9664,-3691.6424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山野辺眼科医院,福島県いわき市植田町中央２-１０-４,眼科,,,9" xlink:title="（医）山野辺眼科医院" transform="ref(svg,14079.9494,-3692.0004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅原医院,福島県いわき市植田町中央１-１１-３,産科　婦人科,,,9" xlink:title="菅原医院" transform="ref(svg,14079.7867,-3691.9173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）双美会クリニック田畑,福島県いわき市中岡町３-７-３,内科　胃腸科　循環器科　麻酔科,,,9" xlink:title="（医）双美会クリニック田畑" transform="ref(svg,14078.2654,-3692.1472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本医院,福島県いわき市植田町中央３-７-１３,内科　消化器科　胃腸科　外科　肛門科,,,9" xlink:title="橋本医院" transform="ref(svg,14079.7986,-3692.3634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科いわき医院,福島県いわき市植田町中央２-３-１５,耳鼻咽喉科,,,9" xlink:title="耳鼻咽喉科いわき医院" transform="ref(svg,14079.9192,-3691.9529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤マタニティークリニック,福島県いわき市勿来町窪田町通１-１２４,産科　婦人科　内科,,,9" xlink:title="佐藤マタニティークリニック" transform="ref(svg,14077.0511,-3688.8718)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）愛誠会（特養）せいざん荘医務室,福島県いわき市植田町堂ノ作４９-１,内科　神経科　外科,,,9" xlink:title="（福）愛誠会（特養）せいざん荘医務室" transform="ref(svg,14079.1758,-3693.0585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花田内科クリニック,福島県いわき市錦町綾ノ内１１９,内科　消化器科　小児科　リハビリテーション科,,,9" xlink:title="花田内科クリニック" transform="ref(svg,14078.4129,-3691.0207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）ハートフルなこそ医務室,福島県いわき市勿来町白米長澤８,内科　外科　整形外科,,,9" xlink:title="（福）ハートフルなこそ医務室" transform="ref(svg,14074.1609,-3689.6297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ちょう整形外科,福島県いわき市佐糠町東１-１５-５,整形外科　リハビリテーション科,,,9" xlink:title="（医）ちょう整形外科" transform="ref(svg,14080.4533,-3691.9393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわぶちクリニック,福島県いわき市錦町竹ノ花４５,内科,,,9" xlink:title="いわぶちクリニック" transform="ref(svg,14078.9032,-3690.4294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すけがわ内科クリニック,福島県いわき市植田町根小屋３０９-３,内科　循環器科　胃腸科　呼吸器科　小児科,,,9" xlink:title="すけがわ内科クリニック" transform="ref(svg,14078.6571,-3691.777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆうクリニック,福島県いわき市植田町本町２-５-７,内科　外科　泌尿器科　呼吸器科　整形外科　肛門科　胃腸科　耳鼻咽喉科　循環器科　脳神経外科　リハビリテーション科　小児科　皮膚科,,,9" xlink:title="ゆうクリニック" transform="ref(svg,14079.9757,-3691.7253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つりまき眼科医院,福島県いわき市植田町横町３-２,眼科,,,9" xlink:title="つりまき眼科医院" transform="ref(svg,14079.5164,-3691.7904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきら整形外科,福島県いわき市中岡町４-６-５,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="あきら整形外科" transform="ref(svg,14078.0404,-3692.1425)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さいとう内科クリニック,福島県いわき市佐糠町東１-１５-４,内科,,,9" xlink:title="（医）さいとう内科クリニック" transform="ref(svg,14080.4897,-3691.9646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおはらこどもクリニック,福島県いわき市東田町２-１７-１,小児科,,,9" xlink:title="おおはらこどもクリニック" transform="ref(svg,14080.245,-3692.0537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よこぎ内科胃腸科クリニック,福島県いわき市勿来町窪田町通４-８,内科　消化器科　呼吸器科　循環器科　小児科,,,9" xlink:title="よこぎ内科胃腸科クリニック" transform="ref(svg,14076.1671,-3689.0989)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺婦人科内科クリニック,福島県いわき市東田町２-１５-８,内科　婦人科,,,9" xlink:title="渡辺婦人科内科クリニック" transform="ref(svg,14080.4263,-3692.0781)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森のこどもクリニック,福島県いわき市植田町月山下６２-８,小児科　アレルギー科　皮膚科,,,9" xlink:title="森のこどもクリニック" transform="ref(svg,14078.6529,-3692.3103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢野内科胃腸科,福島県いわき市東田町２-２-１７,内科　胃腸科　小児科　皮膚科,,,9" xlink:title="矢野内科胃腸科" transform="ref(svg,14080.3669,-3692.3087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クレハいわき事業所診療室,福島県いわき市錦町落合１６,内科,,,9" xlink:title="クレハいわき事業所診療室" transform="ref(svg,14077.5569,-3690.4157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,緑川内科クリニック,福島県いわき市錦町中迎１-３-４,消化器内科　糖尿病内科　循環器内科　呼吸器内科,,,9" xlink:title="緑川内科クリニック" transform="ref(svg,14079.1312,-3690.7716)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いいづか眼科クリニック,福島県いわき市錦町綾ノ内１２２,眼科,,,9" xlink:title="いいづか眼科クリニック" transform="ref(svg,14078.3357,-3691.0157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なこそ整形外科クリニック,福島県いわき市勿来町窪田町通２-５７-１,整形外科　リハビリテーション科,,,9" xlink:title="なこそ整形外科クリニック" transform="ref(svg,14076.5782,-3688.9201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき南クリニック,福島県いわき市植田町中央３-１-７,内科　心療内科　精神科,,,9" xlink:title="いわき南クリニック" transform="ref(svg,14079.722,-3692.1356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）ゆ・の・あ医務室,福島県いわき市勿来町白米酒井原１１６-１,内科　外科　整形外科,,,9" xlink:title="地域密着型（特養）ゆ・の・あ医務室" transform="ref(svg,14074.2274,-3689.5893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,籠倉医院,福島県いわき市常磐湯本町吹谷８０,内科　放射線科,,,9" xlink:title="籠倉医院" transform="ref(svg,14084.775,-3700.7648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,品川リフラクトリーズ（株）東日本工場診療所,福島県いわき市常磐岩ヶ岡町岩崎１-１,内科　外科　皮膚科　泌尿器科　眼科,,,9" xlink:title="品川リフラクトリーズ（株）東日本工場診療所" transform="ref(svg,14086.41,-3698.0921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野崎整形外科医院,福島県いわき市常磐湯本町字三函１７２,整形外科　リハビリテーション科,,,9" xlink:title="野崎整形外科医院" transform="ref(svg,14084.5643,-3701.0605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,悠々の里医務室,福島県いわき市常磐上矢田町頭田４３,内科,,,9" xlink:title="悠々の里医務室" transform="ref(svg,14089.8992,-3702.1196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）いわさき荘医務室,福島県いわき市常磐上湯長谷町上ノ台８８-１,内科,,,9" xlink:title="（特養）いわさき荘医務室" transform="ref(svg,14083.8489,-3700.3506)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）尚誠会根本内科胃腸科医院,福島県いわき市常磐湯本町天王崎１-８０,内科　消化器科,,,9" xlink:title="（医）尚誠会根本内科胃腸科医院" transform="ref(svg,14084.8448,-3700.848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古河電池（株）いわき事業所診療所,福島県いわき市常磐下船尾町杭出作２３-６,内科　外科,,,9" xlink:title="古河電池（株）いわき事業所診療所" transform="ref(svg,14087.3931,-3700.1125)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）春陽会春山医院,福島県いわき市常磐下湯長谷町２-１,神経科　内科　胃腸科　小児科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）春陽会春山医院" transform="ref(svg,14085.597,-3699.1122)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博玲会はたの眼科,福島県いわき市常磐関船町上関１１１,眼科,,,9" xlink:title="（医）博玲会はたの眼科" transform="ref(svg,14085.6703,-3700.0984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大瀧医院,福島県いわき市常磐上湯長谷町扇田１２-１,内科　胃腸科　小児科　外科　整形外科　リハビリテーション科,,,9" xlink:title="大瀧医院" transform="ref(svg,14084.4424,-3699.5557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリナップ（株）いわき事業所南診療所,福島県いわき市常磐水野谷町亀ノ尾８５-１３,内科　外科,,,9" xlink:title="クリナップ（株）いわき事業所南診療所" transform="ref(svg,14087.7253,-3700.3034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）心生会織内医院,福島県いわき市常磐関船町迎１６,内科　胃腸科　小児科　循環器科　リハビリテーション科,,,9" xlink:title="（医）心生会織内医院" transform="ref(svg,14085.0876,-3700.2106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀清会加沢胃腸整形外科,福島県いわき市常磐水野谷町千代鶴１９４,内科　胃腸科　外科　整形外科　肛門科,,,9" xlink:title="（医）秀清会加沢胃腸整形外科" transform="ref(svg,14086.0564,-3700.3715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むらまつ小児科,福島県いわき市常磐関船町上関４７-１、４８-１（仮換地７街区２２）,小児科,,,9" xlink:title="むらまつ小児科" transform="ref(svg,14085.4523,-3700.0892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のざわ整形外科,福島県いわき市常磐下湯長谷町道下５９,整形外科　リハビリテーション科,,,9" xlink:title="のざわ整形外科" transform="ref(svg,14085.4251,-3699.1524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀友会箱崎医院,福島県いわき市常磐関船町塚ノ越５８,内科　小児科　泌尿器科,,,9" xlink:title="（医）秀友会箱崎医院" transform="ref(svg,14085.6931,-3699.7254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉成内科,福島県いわき市常磐上湯長谷町堀ノ内７２-５,内科　消化器科　呼吸器科,,,9" xlink:title="吉成内科" transform="ref(svg,14084.278,-3700.1162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正勝会常磐腎ひ尿器クリニック,福島県いわき市常磐下船尾町古内２９２-６,内科　泌尿器科,,,9" xlink:title="（医）正勝会常磐腎ひ尿器クリニック" transform="ref(svg,14087.0568,-3698.5754)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かとう内科クリニック,福島県いわき市常磐西郷町字岩崎２８-１,内科　呼吸器科　胃腸科　循環器科　小児科,,,9" xlink:title="（医）かとう内科クリニック" transform="ref(svg,14085.9614,-3698.5487)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かもめクリニック,福島県いわき市草木台５-８,腎臓内科（人工透析）,,,9" xlink:title="かもめクリニック" transform="ref(svg,14087.4978,-3701.9273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺産科婦人科,福島県いわき市常磐関船町塚ノ越６２,産科　婦人科,,,9" xlink:title="渡辺産科婦人科" transform="ref(svg,14085.7571,-3699.7147)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき草木台総合クリニック,福島県いわき市草木台５-１-５,消化器科　小児科　婦人科　肛門科　外科　内科　歯科　循環器科　胃腸科　呼吸器科　皮膚科　リハビリテーション科　脳神経外科　乳腺外科　小児歯科　口腔外科,,,9" xlink:title="いわき草木台総合クリニック" transform="ref(svg,14087.3839,-3701.8659)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,タカハシ皮フ科クリニック,福島県いわき市常磐関船町塚ノ越４６,皮膚科,,,9" xlink:title="タカハシ皮フ科クリニック" transform="ref(svg,14085.7106,-3699.7935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,そえだ医院,福島県いわき市常磐湯本町吹谷５５-１,内科　外科　小児科　アレルギー科　皮膚科,,,9" xlink:title="そえだ医院" transform="ref(svg,14084.4832,-3700.6217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかもと内科胃腸科クリニック,福島県いわき市常磐関船町上関２４-１,内科　消化器内科　循環器内科　呼吸器内科,,,9" xlink:title="さかもと内科胃腸科クリニック" transform="ref(svg,14085.3942,-3700.1095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,比佐医院,福島県いわき市常磐湯本町三函５８-１,内科　胃腸内科　小児科　皮膚科,,,9" xlink:title="比佐医院" transform="ref(svg,14084.6793,-3701.3033)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しんせつ館ゆもと医務室,福島県いわき市常磐湯本町日渡７４-１３,内科,,,9" xlink:title="しんせつ館ゆもと医務室" transform="ref(svg,14084.0657,-3701.7813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かたよせクリニック産科・婦人科,福島県いわき市常磐西郷町金山７０-１,産科　婦人科　内科,,,9" xlink:title="かたよせクリニック産科・婦人科" transform="ref(svg,14085.6498,-3698.5145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せき整形外科クリニック,福島県いわき市常磐西郷町岩崎１７-１,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="せき整形外科クリニック" transform="ref(svg,14085.98,-3698.5998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき市休日夜間急病診療所,福島県いわき市内郷御厩町久世原１６,内科　小児科,,,9" xlink:title="いわき市休日夜間急病診療所" transform="ref(svg,14086.7899,-3704.2018)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき婦人科,福島県いわき市内郷綴町大木下３-２,内科　泌尿器科　皮膚科　婦人科,,,9" xlink:title="いわき婦人科" transform="ref(svg,14085.6924,-3703.5003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相原小児科医院,福島県いわき市内郷御厩町４-１１,内科　小児科,,,9" xlink:title="相原小児科医院" transform="ref(svg,14087.3252,-3705.128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明生会高原整形外科,福島県いわき市内郷綴町川原田１２６,整形外科　リハビリテーション科,,,9" xlink:title="（医）明生会高原整形外科" transform="ref(svg,14085.911,-3703.7523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ひるた内科医院,福島県いわき市内郷綴町川原田１２８,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）ひるた内科医院" transform="ref(svg,14085.9338,-3703.7648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小池整形・外科内科胃腸科,福島県いわき市内郷綴町金谷９-１,整形外科　外科　内科　胃腸科　リハビリテーション科　皮膚科　泌尿器科　麻酔科,,,9" xlink:title="小池整形・外科内科胃腸科" transform="ref(svg,14086.1003,-3703.7237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）聖徳荘医務室,福島県いわき市内郷宮町金坂１８４-３,内科,,,9" xlink:title="（特養）聖徳荘医務室" transform="ref(svg,14084.6247,-3704.3965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀誠会下遠野内科胃腸科クリニック,福島県いわき市内郷内町立町７０-２,消化器科　呼吸器科　循環器科　小児科　外科,,,9" xlink:title="（医）秀誠会下遠野内科胃腸科クリニック" transform="ref(svg,14084.9567,-3703.6816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）タウンズクリニック,福島県いわき市内郷御厩町久世原２６９,内科　放射線科,,,9" xlink:title="（医）タウンズクリニック" transform="ref(svg,14087.0025,-3704.4506)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき市保健所,福島県いわき市内郷高坂町四方木田１９１,内科,,,9" xlink:title="いわき市保健所" transform="ref(svg,14086.359,-3704.3883)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）磐陽会高坂クリニック,福島県いわき市内郷宮町金坂１７２-２１,内科　老年内科　消化器内科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）磐陽会高坂クリニック" transform="ref(svg,14084.4383,-3704.6323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くにい内科クリニック,福島県いわき市内郷高坂町大町２６-８,内科　循環器科　消化器科　呼吸器科,,,9" xlink:title="くにい内科クリニック" transform="ref(svg,14086.2662,-3704.5655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こまつ眼科クリニック,福島県いわき市内郷高坂町大町１-８,眼科,,,9" xlink:title="こまつ眼科クリニック" transform="ref(svg,14086.182,-3704.4777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおいし耳鼻咽喉科,福島県いわき市内郷綴町川原田１２２,耳鼻咽喉科　アレルギー科,,,9" xlink:title="おおいし耳鼻咽喉科" transform="ref(svg,14085.8938,-3703.7125)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たねだ内科クリニック,福島県いわき市内郷御厩町３-８２-２,内科　循環器内科　呼吸器内科　消化器内科　糖尿病内科,,,9" xlink:title="たねだ内科クリニック" transform="ref(svg,14087.113,-3704.9366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はままつ眼科クリニック,福島県いわき市内郷綴町大木下２１-１,眼科,,,9" xlink:title="はままつ眼科クリニック" transform="ref(svg,14085.9974,-3703.6003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）ときわ会いわき泌尿器科,福島県いわき市内郷綴町沼尻６２,泌尿器科　人工透析内科　内科,,,9" xlink:title="（公財）ときわ会いわき泌尿器科" transform="ref(svg,14086.1521,-3703.9386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）りんさく福祉会地域密着型介護老人福祉施設せんしょう苑医務室,福島県いわき市内郷御厩町４-８２-１,内科,,,9" xlink:title="（福）りんさく福祉会地域密着型介護老人福祉施設せんしょう苑医務室" transform="ref(svg,14087.6577,-3705.158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木村クリニック,福島県いわき市四倉町上仁井田字南浜４６,内科　婦人科　リハビリテーション科,,,9" xlink:title="木村クリニック" transform="ref(svg,14097.9325,-3709.3251)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリナップ（株）いわき事業所診療所,福島県いわき市四倉町細谷字小橋前５２,内科　消化器科　放射線科,,,9" xlink:title="クリナップ（株）いわき事業所診療所" transform="ref(svg,14096.6815,-3708.5167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,老人ホーム楽寿荘医務室,福島県いわき市四倉町上仁井田字横川６７,内科　外科,,,9" xlink:title="老人ホーム楽寿荘医務室" transform="ref(svg,14097.9061,-3709.087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅波整形外科小児科,福島県いわき市四倉町字東１-４０-３,内科　小児科　外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="菅波整形外科小児科" transform="ref(svg,14098.4257,-3710.0144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大田皮フ科医院,福島県いわき市四倉町字西１-２-１２,内科　皮膚科,,,9" xlink:title="大田皮フ科医院" transform="ref(svg,14098.2249,-3710.1843)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木田医院,福島県いわき市四倉町字東４-９-１,内科　消化器科　肛門科,,,9" xlink:title="（医）木田医院" transform="ref(svg,14098.869,-3710.774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰成会木村医院,福島県いわき市四倉町字西３-１４-９,内科　呼吸器科　消化器科　外科　リハビリテーション科,,,9" xlink:title="（医）泰成会木村医院" transform="ref(svg,14098.7134,-3710.6279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長瀬内科胃腸科,福島県いわき市四倉町上仁井田字北姥田６-１,内科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="長瀬内科胃腸科" transform="ref(svg,14097.78,-3709.6133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,額賀胃腸科内科醫院,福島県いわき市四倉町字６-１０５,内科　胃腸科　小児科　泌尿器科　整形外科,,,9" xlink:title="額賀胃腸科内科醫院" transform="ref(svg,14099.29,-3710.9709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野クリニック,福島県いわき市四倉町玉山字砂子田２,内科　胃腸科　小児科　泌尿器科　整形外科,,,9" xlink:title="大野クリニック" transform="ref(svg,14094.9597,-3711.4888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西山眼科医院,福島県いわき市四倉町字西３-６-１,眼科,,,9" xlink:title="西山眼科医院" transform="ref(svg,14098.5471,-3710.4985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅波クリニック,福島県いわき市四倉町字東３-５１,外科　整形外科　泌尿器科　皮膚科　内科　リハビリテーション科,,,9" xlink:title="菅波クリニック" transform="ref(svg,14098.8223,-3710.6254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）美波会菅波医院,福島県いわき市四倉町字東１-５４,内科　整形外科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）美波会菅波医院" transform="ref(svg,14098.566,-3710.0105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松医院,福島県いわき市遠野町上遠野字本町８４,内科,,,9" xlink:title="小松医院" transform="ref(svg,14074.7401,-3700.814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松医院入遠野出張診療所,福島県いわき市遠野町入遠野字前田３７-２,内科,,,9" xlink:title="小松医院入遠野出張診療所" transform="ref(svg,14070.8838,-3703.4992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）誠心会やしおみ荘,福島県いわき市遠野町上遠野字堀切２７,内科　精神科　外科,,,9" xlink:title="（福）誠心会やしおみ荘" transform="ref(svg,14074.6148,-3701.0417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,老人ホーム高砂荘医務室,福島県いわき市遠野町上遠野字沢繁１６-１７,内科,,,9" xlink:title="老人ホーム高砂荘医務室" transform="ref(svg,14078.3276,-3700.5744)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）誠心会ふじみの園,福島県いわき市遠野町上根本字白坂３８４-１,内科,,,9" xlink:title="（福）誠心会ふじみの園" transform="ref(svg,14072.5889,-3703.1929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こじま内科,福島県いわき市遠野町上遠野字太田２０-３,内科　消化器科　肛門科,,,9" xlink:title="こじま内科" transform="ref(svg,14074.6445,-3700.6443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いがらし内科,福島県いわき市小川町高萩字下川原１５-１,内科　呼吸器科　消化器科　循環器科　小児科　リハビリテーション科　アレルギー科,,,9" xlink:title="いがらし内科" transform="ref(svg,14086.0583,-3712.7248)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,草野医院,福島県いわき市小川町高萩字上代８９-２,内科　小児科　外科　循環器科,,,9" xlink:title="草野医院" transform="ref(svg,14086.0012,-3712.4024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）猪狩医院,福島県いわき市好間町下好間字叶田６３,内科　胃腸科　小児科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）猪狩医院" transform="ref(svg,14086.3111,-3705.9995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高畑内科循環器科,福島県いわき市好間町下好間字一町坪４９-３,内科　循環器科,,,9" xlink:title="高畑内科循環器科" transform="ref(svg,14086.202,-3705.7631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アルパイン（株）診療所,福島県いわき市好間工業団地２０-１,内科,,,9" xlink:title="アルパイン（株）診療所" transform="ref(svg,14085.1745,-3707.9048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,そうまクリニック,福島県いわき市好間町下好間字鬼越１０１-１,内科　神経内科　小児科,,,9" xlink:title="そうまクリニック" transform="ref(svg,14087.1541,-3705.8893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いわき秀生会よしま金成クリニック,福島県いわき市好間町上好間字洞３４-１,内科　胃腸内科　外科　呼吸器内科,,,9" xlink:title="（医）いわき秀生会よしま金成クリニック" transform="ref(svg,14084.6954,-3706.9799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）いわきの里医務室,福島県いわき市好間町北好間字外川原３３-１,内科,,,9" xlink:title="（福）いわきの里医務室" transform="ref(svg,14085.6514,-3706.4814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）福島県労働保健センター附属好間診療所,福島県いわき市好間工業団地２７-７,内科　婦人科,,,9" xlink:title="（公財）福島県労働保健センター附属好間診療所" transform="ref(svg,14084.3209,-3707.6562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき市国民健康保険田人診療所,福島県いわき市田人町旅人字下平石１９１,内科　小児科　外科,,,9" xlink:title="いわき市国民健康保険田人診療所" transform="ref(svg,14070.4834,-3695.2212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）翠祥園医務室,福島県いわき市久之浜町末続字深谷３３-１,内科　外科,,,9" xlink:title="（特養）翠祥園医務室" transform="ref(svg,14099.9515,-3716.6759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あべクリニック,福島県いわき市久之浜町久之浜字九反坪１１,内科　呼吸器科　循環器科　外科　泌尿器科　婦人科,,,9" xlink:title="あべクリニック" transform="ref(svg,14099.6699,-3714.0296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あさうら会久之浜医院,福島県いわき市久之浜町久之浜字中町２０,内科　胃腸科　外科　循環器科　小児科　整形外科　脳神経外科　皮膚科　肛門科　リハビリテーション科,,,9" xlink:title="（医）あさうら会久之浜医院" transform="ref(svg,14099.8185,-3714.0943)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,霊山トレーニングセンター診療所,福島県伊達市霊山町石田字彦平１-１８,小児科　精神科　神経科,,,9" xlink:title="霊山トレーニングセンター診療所" transform="ref(svg,14073.5389,-3776.2674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川俣町国民健康保健山木屋診療所,福島県伊達郡川俣町山木屋字大清水２,内科　小児科　外科,,,9" xlink:title="川俣町国民健康保健山木屋診療所" transform="ref(svg,14067.0808,-3760.6562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥秋医院,福島県田村市船引町上移字町１３０-２,内科,,,9" xlink:title="奥秋医院" transform="ref(svg,14065.8102,-3751.4423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）都路まどか荘診療所,福島県田村市都路町古道字寺下６０,内科,,,9" xlink:title="（特養）都路まどか荘診療所" transform="ref(svg,14079.1652,-3743.4036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白岩医院,福島県田村市常葉町常葉字内町４８,内科　循環器内科　小児科　外科　産婦人科　麻酔科,,,9" xlink:title="白岩医院" transform="ref(svg,14064.5926,-3743.9884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）脳神経疾患研究所附属総合南東北病院附属大越診療所,福島県田村市大越町上大越字古川１００,内科　外科　脳神経外科　消化器内科　循環器内科,,,9" xlink:title="（一財）脳神経疾患研究所附属総合南東北病院附属大越診療所" transform="ref(svg,14062.5501,-3739.2305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青山医院,福島県田村市常葉町常葉字荒町４８,内科　外科　内視鏡内科　脳神経外科,,,9" xlink:title="青山医院" transform="ref(svg,14064.1752,-3743.883)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）脳神経疾患研究所附属総合南東北病院附属滝根診療所,福島県田村市滝根町神俣字町５２,内科　外科　小児科　循環器内科　眼科,,,9" xlink:title="（一財）脳神経疾患研究所附属総合南東北病院附属滝根診療所" transform="ref(svg,14065.7454,-3732.5706)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田村市立都路診療所,福島県田村市都路町古道字寺下５０,内科　整形外科,,,9" xlink:title="田村市立都路診療所" transform="ref(svg,14079.2416,-3743.415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ときわ荘診療所,福島県田村市常葉町常葉字長縄５-１,内科,,,9" xlink:title="（特養）ときわ荘診療所" transform="ref(svg,14064.5019,-3743.5959)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かみや内科クリニック,福島県田村郡小野町大字小野新町字宿ノ後３３,内科　小児科,,,9" xlink:title="かみや内科クリニック" transform="ref(svg,14062.5849,-3728.3975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいとう医院本院,福島県田村郡小野町大字小野新町字中通５９-１,内科　循環器科　小児科　外科　整形外科　皮膚科　泌尿器科　理学診療科,,,9" xlink:title="さいとう医院本院" transform="ref(svg,14063.1491,-3728.0523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）朝陽会橋本医院,福島県田村郡小野町大字谷津作字馬場７０-１,内科　胃腸科　アレルギー科　小児科,,,9" xlink:title="（医）朝陽会橋本医院" transform="ref(svg,14063.5417,-3727.4183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）島貫整形外科,福島県田村郡小野町大字小野新町字中通１５６,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）島貫整形外科" transform="ref(svg,14062.8008,-3728.3433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石塚医院,福島県田村郡小野町大字小野新町字品ノ木１２３,内科　小児科,,,9" xlink:title="石塚医院" transform="ref(svg,14062.6799,-3728.6921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）啓誠福祉会（特養）さくら医務室,福島県田村郡小野町大字小野新町字団子田３６-１,内科,,,9" xlink:title="（福）啓誠福祉会（特養）さくら医務室" transform="ref(svg,14063.433,-3728.5752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,亘理内科小児科医院,福島県南相馬市原町区東町３-３０,内科　小児科,,,9" xlink:title="亘理内科小児科医院" transform="ref(svg,14096.5123,-3764.2297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高野眼科医院,福島県南相馬市原町区本町２-５６,眼科,,,9" xlink:title="高野眼科医院" transform="ref(svg,14095.8455,-3764.1837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福島県相双保健所,福島県南相馬市原町区錦町１-３０,内科　精神科　呼吸器科　小児科　整形外科,,,9" xlink:title="福島県相双保健所" transform="ref(svg,14097.2496,-3764.023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）福島県保健衛生協会相双診療所,福島県南相馬市原町区青葉町２-６２-１,内科　外科　婦人科,,,9" xlink:title="（公財）福島県保健衛生協会相双診療所" transform="ref(svg,14097.5624,-3763.1968)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長寿荘医務室,福島県南相馬市原町区小川町４０９,内科　外科,,,9" xlink:title="（特養）長寿荘医務室" transform="ref(svg,14096.0915,-3764.8294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志賀医院,福島県南相馬市原町区国見町２-６４-１,内科　神経科　胃腸科　循環器科　皮膚科　泌尿器科　リハビリテーション科　放射線科,,,9" xlink:title="志賀医院" transform="ref(svg,14095.2963,-3762.9712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふりど循環器科,福島県南相馬市原町区上渋佐字原田２３８,内科　呼吸器科　循環器科,,,9" xlink:title="ふりど循環器科" transform="ref(svg,14099.4727,-3763.6762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林眼科医院,福島県南相馬市原町区南町１-１５５,眼科,,,9" xlink:title="小林眼科医院" transform="ref(svg,14095.9094,-3763.8257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西潤マタニティクリニック,福島県南相馬市原町区大町１-９９,内科　小児科　産婦人科　麻酔科,,,9" xlink:title="西潤マタニティクリニック" transform="ref(svg,14096.0782,-3763.9524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石原クリニック,福島県南相馬市原町区南町４-２５-５,内科　小児科　胃腸科,,,9" xlink:title="石原クリニック" transform="ref(svg,14095.8496,-3762.9842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）福寿園医務室,福島県南相馬市原町区高見町２-７０,内科　精神科,,,9" xlink:title="（特養）福寿園医務室" transform="ref(svg,14098.5122,-3763.5462)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若盛耳鼻咽喉科医院,福島県南相馬市原町区二見町１-４３,小児科　耳鼻咽喉科　気管食道科,,,9" xlink:title="若盛耳鼻咽喉科医院" transform="ref(svg,14096.6866,-3763.5404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）マルイ眼科,福島県南相馬市原町区本陣前１-８３-３,眼科,,,9" xlink:title="（医）マルイ眼科" transform="ref(svg,14095.6826,-3762.6698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディースクリニックはらまち,福島県南相馬市原町区西町２-７１-１,産科　婦人科,,,9" xlink:title="レディースクリニックはらまち" transform="ref(svg,14095.279,-3763.4905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こいずみクリニック,福島県南相馬市原町区大町３-７７,内科　胃腸科　小児科　外科　肛門科,,,9" xlink:title="こいずみクリニック" transform="ref(svg,14096.8278,-3763.899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はらまち心療内科クリニック,福島県南相馬市原町区旭町４-１７-１,精神科　心療内科　神経科　内科　小児科,,,9" xlink:title="はらまち心療内科クリニック" transform="ref(svg,14097.2564,-3763.573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しんどうクリニック,福島県南相馬市原町区大木戸字松島３１８-１４,内科　循環器科　小児科,,,9" xlink:title="しんどうクリニック" transform="ref(svg,14094.3765,-3762.4915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひぐちクリニック,福島県南相馬市原町区日の出町１２５-２,内科　消化器科,,,9" xlink:title="ひぐちクリニック" transform="ref(svg,14098.2766,-3763.2501)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ときわ整形外科,福島県南相馬市原町区大木戸字松島３０４-２６,整形外科　リハビリテーション科,,,9" xlink:title="ときわ整形外科" transform="ref(svg,14094.1079,-3762.6315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南相馬市原町保健センター,福島県南相馬市原町区小川町３２２-１,内科　小児科　整形外科　婦人科　歯科,,,9" xlink:title="南相馬市原町保健センター" transform="ref(svg,14095.7048,-3764.5105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）菅原医院,福島県南相馬市鹿島区鹿島字町１５３,内科　呼吸器科　胃腸科　循環器科　小児科,,,9" xlink:title="（医）菅原医院" transform="ref(svg,14096.7013,-3770.1994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田村内科医院,福島県南相馬市鹿島区横手字町田４６,内科　循環器科　小児科,,,9" xlink:title="（医）田村内科医院" transform="ref(svg,14096.1712,-3771.1491)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）万葉園医務室,福島県南相馬市鹿島区西町３-３,内科,,,9" xlink:title="（特養）万葉園医務室" transform="ref(svg,14096.041,-3770.9154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南相馬市高松ホーム医務室,福島県南相馬市原町区上北高平字高松３８７,内科　精神科,,,9" xlink:title="南相馬市高松ホーム医務室" transform="ref(svg,14095.9739,-3765.9823)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たなべクリニック,福島県南相馬市原町区南町３-９０,外科　内科　リハビリテーション科　肛門科　皮膚科,,,9" xlink:title="たなべクリニック" transform="ref(svg,14095.7759,-3763.3181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うめだ腎泌尿器科,福島県南相馬市原町区上町３-１２-１,泌尿器科　内科,,,9" xlink:title="うめだ腎泌尿器科" transform="ref(svg,14094.9336,-3762.9813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）竹水園医務室,福島県南相馬市原町区長野字南原４１,内科,,,9" xlink:title="（特養）竹水園医務室" transform="ref(svg,14094.2751,-3765.1721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おがたメンタルクリニック,福島県南相馬市原町区旭町１-４６-１,内科　心療内科　精神科,,,9" xlink:title="おがたメンタルクリニック" transform="ref(svg,14096.7222,-3763.7728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しいな脳神経外科クリニック,福島県南相馬市原町区東町１-７２-２,脳神経科　外科　内科　外科　リハビリテーション科　麻酔科,,,9" xlink:title="しいな脳神経外科クリニック" transform="ref(svg,14096.1524,-3764.2095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南相馬中央医院,福島県南相馬市原町区橋本町１-３-２,内科　婦人科　循環器内科,,,9" xlink:title="南相馬中央医院" transform="ref(svg,14096.1775,-3763.6061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おのだ内科クリニック,福島県南相馬市原町区大町１-３,内科　消化器科　呼吸器科　循環器科　アレルギー科,,,9" xlink:title="（医）おのだ内科クリニック" transform="ref(svg,14096.1072,-3764.1329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上町内科皮フ科クリニック原町仮診療所,福島県南相馬市原町区北町２７７-１,内科　皮膚科　循環器内科　消化器内科　呼吸器内科　小児科,,,9" xlink:title="上町内科皮フ科クリニック原町仮診療所" transform="ref(svg,14095.2602,-3764.6392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,絆診療所,福島県南相馬市鹿島区寺内字三里１-２４,内科　外科,,,9" xlink:title="絆診療所" transform="ref(svg,14095.233,-3770.3571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺クリニック,福島県南相馬市原町区西町１-５０,内科　整形外科　脳神経科　外科,,,9" xlink:title="渡辺クリニック" transform="ref(svg,14095.1359,-3763.83)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,駒場内科医院,福島県南相馬市原町区三島町２-２０２-１,内科　消化器内科　小児科,,,9" xlink:title="駒場内科医院" transform="ref(svg,14095.522,-3763.8442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井口医院,福島県相馬市中村字桜ヶ丘２７,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="井口医院" transform="ref(svg,14092.0436,-3780.1643)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）相馬福祉会（特養）相馬ホーム医務室,福島県相馬市小泉字高池７１８,内科,,,9" xlink:title="（福）相馬福祉会（特養）相馬ホーム医務室" transform="ref(svg,14091.7483,-3781.0605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏村内科胃腸科,福島県相馬市中村２-３-５,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="柏村内科胃腸科" transform="ref(svg,14092.5287,-3779.91)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒川耳鼻咽喉科医院,福島県相馬市中村字荒井町３４,耳鼻咽喉科　気管食道科,,,9" xlink:title="荒川耳鼻咽喉科医院" transform="ref(svg,14092.1084,-3780.2504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相双眼科医院,福島県相馬市中村字川沼２３５,内科　眼科,,,9" xlink:title="相双眼科医院" transform="ref(svg,14091.5215,-3780.4126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉野診療所,福島県相馬市玉野字町５６-１,内科　呼吸器科　胃腸科　循環器科　小児科　外科　小児外科　皮膚科,,,9" xlink:title="玉野診療所" transform="ref(svg,14071.5191,-3776.8861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杉本医院,福島県相馬市小泉字高池６４８-５,内科　神経内科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="（医）杉本医院" transform="ref(svg,14092.1852,-3780.882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひかりクリニック,福島県相馬市中村字桜ヶ丘１５１-２,皮膚科,,,9" xlink:title="ひかりクリニック" transform="ref(svg,14091.7265,-3780.2334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あらき産婦人科クリニック,福島県相馬市馬場野字山越５５,内科　小児科　産婦人科,,,9" xlink:title="（医）あらき産婦人科クリニック" transform="ref(svg,14093.1974,-3779.1901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふなばし内科クリニック,福島県相馬市中村字塚田２８-８,内科　胃腸科,,,9" xlink:title="ふなばし内科クリニック" transform="ref(svg,14091.1736,-3780.3635)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）羽根田医院,福島県相馬市沖ノ内２-１１-１,内科　呼吸器科　循環器科　小児科,,,9" xlink:title="（医）羽根田医院" transform="ref(svg,14093.0896,-3780.682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米村胃腸科内科医院,福島県相馬市中村１-３-１０,内科　消化器科,,,9" xlink:title="米村胃腸科内科医院" transform="ref(svg,14092.2547,-3780.2659)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部クリニック,福島県相馬市中村１-１４-２,内科　呼吸器科　消化器科　胃腸科　循環器科　整形外科　外科,,,9" xlink:title="阿部クリニック" transform="ref(svg,14092.473,-3780.1411)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまぐち小児科医院,福島県相馬市中村１-３-２７,小児科,,,9" xlink:title="やまぐち小児科医院" transform="ref(svg,14092.2719,-3780.268)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大石医院,福島県相馬市中村字大町４７,内科　小児科,,,9" xlink:title="大石医院" transform="ref(svg,14092.0034,-3779.7397)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふきのとう苑医務室,福島県相馬市富沢字松道１９,神経内科　内科,,,9" xlink:title="ふきのとう苑医務室" transform="ref(svg,14091.7024,-3775.5038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八巻クリニック,福島県相馬市中村１-８-９,整形外科　リハビリテーション科,,,9" xlink:title="八巻クリニック" transform="ref(svg,14092.5387,-3780.093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,早川医院,福島県相馬市中村字泉町９-１,内科　消化器科　小児科,,,9" xlink:title="早川医院" transform="ref(svg,14092.3373,-3780.5745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜ヶ丘さいとう整形外科,福島県相馬市中村字桜ヶ丘２０８,整形外科　リハビリテーション科,,,9" xlink:title="桜ヶ丘さいとう整形外科" transform="ref(svg,14091.3586,-3780.237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みずこし眼科クリニック,福島県相馬市中村字宇多川町１３-８,眼科,,,9" xlink:title="みずこし眼科クリニック" transform="ref(svg,14092.3607,-3779.6688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すぎやまこどもクリニック,福島県相馬市大曲字大毛内５１-１,小児科　アレルギー科,,,9" xlink:title="すぎやまこどもクリニック" transform="ref(svg,14093.1183,-3779.3097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＩＨＩ相馬診療所,福島県相馬市大野台１-２-３,内科,,,9" xlink:title="ＩＨＩ相馬診療所" transform="ref(svg,14088.4701,-3783.493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいとう皮ふ科医院,福島県相馬市塚ノ町１-１２-３,皮膚科,,,9" xlink:title="さいとう皮ふ科医院" transform="ref(svg,14092.7402,-3780.3241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浜通りふれあい診療所,福島県相馬市沖の内１-２-１０,内科　小児科　アレルギー科,,,9" xlink:title="浜通りふれあい診療所" transform="ref(svg,14092.7422,-3780.4607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メンタルクリニックなごみ,福島県相馬市沖ノ内１-２-８,精神科　心療内科,,,9" xlink:title="メンタルクリニックなごみ" transform="ref(svg,14092.7785,-3780.4138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菜のはなこどもクリニック,福島県相馬市中村字川沼３０７,小児科　アレルギー科,,,9" xlink:title="菜のはなこどもクリニック" transform="ref(svg,14091.3503,-3780.4082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたなべ胃腸内科,福島県相馬市大曲字大毛内７７-１,内科　胃腸内科,,,9" xlink:title="わたなべ胃腸内科" transform="ref(svg,14093.2902,-3779.2976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）新地ホーム医務室,福島県相馬郡新地町小川字川向１８,内科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="（特養）新地ホーム医務室" transform="ref(svg,14091.7747,-3786.3718)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新地町保健センター,福島県相馬郡新地町谷地小屋字樋掛田４０-１,内科　歯科,,,9" xlink:title="新地町保健センター" transform="ref(svg,14091.9592,-3787.6358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅野医院,福島県相馬郡新地町谷地小屋字萩崎６１-１,内科　小児科　外科　整形外科　肛門科　婦人科　リハビリテーション科,,,9" xlink:title="菅野医院" transform="ref(svg,14092.0759,-3787.5594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠藤内科医院,福島県相馬郡新地町小川字清水小路８-５,内科　呼吸器内科　胃腸内科　循環器内科　小児科,,,9" xlink:title="遠藤内科医院" transform="ref(svg,14091.8705,-3786.9618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）なごみの里福田医務室,福島県相馬郡新地町大字福田字清水１７６,内科,,,9" xlink:title="（特養）なごみの里福田医務室" transform="ref(svg,14089.8246,-3788.9738)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いいたてホーム医務室,福島県相馬郡飯舘村伊丹沢字伊丹沢５７１,内科,,,9" xlink:title="いいたてホーム医務室" transform="ref(svg,14073.4714,-3767.8121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広野町保健センター,福島県双葉郡広野町大字中央台１-７,内科,,,9" xlink:title="広野町保健センター" transform="ref(svg,14099.0527,-3721.2001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬場医院,福島県双葉郡広野町大字下浅見川字築地２５,内科　小児科　外科　整形外科　脳神経科　外科,,,9" xlink:title="馬場医院" transform="ref(svg,14099.8569,-3721.2531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）花ぶさ苑医務室,福島県双葉郡広野町大字下北迫字東町２１１-２,内科　精神科,,,9" xlink:title="（特養）花ぶさ苑医務室" transform="ref(svg,14100.6739,-3721.9647)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京電力（株）福島第二原子力発電所診療所,福島県双葉郡楢葉町大字波倉字小浜作１２,内科　精神科　外科,,,9" xlink:title="東京電力（株）福島第二原子力発電所診療所" transform="ref(svg,14102.5785,-3731.5175)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川内村国民健康保険診療所,福島県双葉郡川内村大字下川内字坂シ内１３３-５,内科　歯科　精神科　整形外科　眼科　心療内科,,,9" xlink:title="川内村国民健康保険診療所" transform="ref(svg,14083.7733,-3733.1875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京電力（株）福島第一原子力発電所診療所,福島県双葉郡大熊町大字夫沢字北原２２,内科　精神科,,,9" xlink:title="東京電力（株）福島第一原子力発電所診療所" transform="ref(svg,14103.2734,-3742.1084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京電力（株）福島第一廃炉推進カンパニー診療所,福島県双葉郡大熊町大字夫沢字北原２２,内科,,,9" xlink:title="東京電力（株）福島第一廃炉推進カンパニー診療所" transform="ref(svg,14103.2734,-3742.1084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浪江町応急仮設診療所,福島県双葉郡浪江町大字幾世橋字六反田７-２,内科　外科　消化器内科　肛門外科　小児科,,,9" xlink:title="浪江町応急仮設診療所" transform="ref(svg,14099.9473,-3749.4888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立厚生医院,茨城県日立市鮎川町５-９-９,内科　外科　こう門科,,,9" xlink:title="日立厚生医院" transform="ref(svg,14063.5892,-3656.8991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小川医院,茨城県日立市相賀町５-１,内科　糖尿病内科,,,9" xlink:title="（医）小川医院" transform="ref(svg,14066.0309,-3658.2687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大塚小児科医院,茨城県日立市若葉町３-１２-１,小児科,,,9" xlink:title="大塚小児科医院" transform="ref(svg,14065.7529,-3659.9952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小泉胃腸科外科医院,茨城県日立市若葉町１-９-１,内科　消化器科　外科　整形外科　皮膚科　泌尿器科,,,9" xlink:title="小泉胃腸科外科医院" transform="ref(svg,14065.7386,-3659.5009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,茨城県日立市宮田町３-５-１８,内科　小児科,,,9" xlink:title="鈴木医院" transform="ref(svg,14065.5777,-3660.4876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立化成（株）山崎事業所山崎診療所,茨城県日立市東町４-１３-１,内科　外科　皮膚科,,,9" xlink:title="日立化成（株）山崎事業所山崎診療所" transform="ref(svg,14066.9776,-3660.1898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱日立パワーシステムズ（株）日立工場海岸診療所,茨城県日立市幸町３-１-１,内科,,,9" xlink:title="三菱日立パワーシステムズ（株）日立工場海岸診療所" transform="ref(svg,14065.2945,-3658.307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）日立製作所電力グループ日立事業所山手診療所,茨城県日立市白銀町１-１-１,内科　外科　皮膚科,,,9" xlink:title="（株）日立製作所電力グループ日立事業所山手診療所" transform="ref(svg,14065.1655,-3660.5109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立金属（株）電線工場電線診療所,茨城県日立市助川町３-１-１,内科　外科　皮膚科,,,9" xlink:title="日立金属（株）電線工場電線診療所" transform="ref(svg,14064.8689,-3659.6518)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立金属（株）日高工場日高診療所,茨城県日立市日高町５-１-１,内科　外科　皮膚科,,,9" xlink:title="日立金属（株）日高工場日高診療所" transform="ref(svg,14068.1626,-3663.6356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,樋口医院,茨城県日立市中成沢町３-１０-１４,内科　小児科　産婦人科　皮膚科　泌尿器科,,,9" xlink:title="樋口医院" transform="ref(svg,14063.6941,-3657.4641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫野産婦人科医院,茨城県日立市弁天町１-１２-３,産婦人科,,,9" xlink:title="姫野産婦人科医院" transform="ref(svg,14065.3293,-3659.3411)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福地耳鼻咽喉科医院,茨城県日立市若葉町１-１８-１７,耳鼻咽喉科,,,9" xlink:title="福地耳鼻咽喉科医院" transform="ref(svg,14065.7333,-3659.4346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤沢小児科医院,茨城県日立市諏訪町３-１-２３,小児科,,,9" xlink:title="藤沢小児科医院" transform="ref(svg,14062.7356,-3656.5334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本眼科医院,茨城県日立市平和町２-７-１,眼科,,,9" xlink:title="山本眼科医院" transform="ref(svg,14065.8283,-3659.6016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立金属（株）日高工場豊浦分工場豊浦診療所,茨城県日立市川尻町４-１０-１,内科　外科　皮膚科,,,9" xlink:title="日立金属（株）日高工場豊浦分工場豊浦診療所" transform="ref(svg,14069.5591,-3666.4517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）日立市萬春園診療所,茨城県日立市鮎川町２-６-３８,内科　精神科,,,9" xlink:title="（特養）日立市萬春園診療所" transform="ref(svg,14063.7461,-3656.7227)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鹿島クリニック,茨城県日立市鹿島町１-１１-７日専ビル２階,内科　小児科,,,9" xlink:title="鹿島クリニック" transform="ref(svg,14065.2208,-3659.4408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小泉チルドレンズクリニック,茨城県日立市鮎川町３-１-２１,小児科,,,9" xlink:title="（医）小泉チルドレンズクリニック" transform="ref(svg,14063.9444,-3656.4205)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田村内科医院,茨城県日立市若葉町３-１-２３,内科　小児科,,,9" xlink:title="（医）田村内科医院" transform="ref(svg,14066.1557,-3660.0958)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）日立製作所日立健康管理センタ,茨城県日立市会瀬町４-３-１６,内科　整形外科　放射線科,,,9" xlink:title="（株）日立製作所日立健康管理センタ" transform="ref(svg,14064.5873,-3658.345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村田眼科医院,茨城県日立市幸町２-１４-５,眼科,,,9" xlink:title="村田眼科医院" transform="ref(svg,14065.7879,-3658.8324)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高山整形外科医院,茨城県日立市滑川町２-３-２９,内科　整形外科　リハビリテーション科,,,9" xlink:title="高山整形外科医院" transform="ref(svg,14066.7498,-3661.3447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴原皮膚科,茨城県日立市助川町１-７-９,皮膚科,,,9" xlink:title="柴原皮膚科" transform="ref(svg,14065.1562,-3659.8591)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立金属（株）高砂工場高砂診療所,茨城県日立市砂沢町８８０,内科　外科　皮膚科,,,9" xlink:title="日立金属（株）高砂工場高砂診療所" transform="ref(svg,14068.0015,-3665.5706)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立整形外科,茨城県日立市鹿島町１-２１-４,心療内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="日立整形外科" transform="ref(svg,14065.2028,-3659.3401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立北クリニック,茨城県日立市川尻町５-２９-１５,内科　小児科　外科　脳神経外科　皮膚科,,,9" xlink:title="日立北クリニック" transform="ref(svg,14069.1847,-3666.1533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石医院,茨城県高萩市東本町３-３５,内科　消化器科　外科　眼科,,,9" xlink:title="（医）石医院" transform="ref(svg,14071.9504,-3671.7386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）日立さくらクリニック,茨城県日立市田尻町４-４９-１５,内科　外科　脳神経外科,,,9" xlink:title="（医）日立さくらクリニック" transform="ref(svg,14067.7685,-3662.2529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天谷医院,茨城県日立市若葉町３-７-１３,皮膚科　泌尿器科,,,9" xlink:title="天谷医院" transform="ref(svg,14066.0246,-3659.9998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡クリニック,茨城県高萩市下手綱６５３,内科　外科　脳神経外科,,,9" xlink:title="松岡クリニック" transform="ref(svg,14071.0616,-3673.5384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ユニマテック（株）社内診療所,茨城県北茨城市磯原町上相田８３１-２,内科,,,9" xlink:title="ユニマテック（株）社内診療所" transform="ref(svg,14071.6089,-3680.5968)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立花クリニック,茨城県日立市幸町１-７-７ニュークリニックス日立３階,内科　小児科,,,9" xlink:title="立花クリニック" transform="ref(svg,14065.7824,-3659.2783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なめき皮フ科クリニック,茨城県日立市田尻町４-４９-２１,アレルギー科　皮膚科,,,9" xlink:title="なめき皮フ科クリニック" transform="ref(svg,14067.7253,-3662.2838)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木胃腸科外科,茨城県日立市折笠町５６４-２,内科　消化器科　外科,,,9" xlink:title="佐々木胃腸科外科" transform="ref(svg,14069.0878,-3665.4584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,友愛クリニック,茨城県北茨城市磯原町磯原１１９１-１０,内科　小児科　産婦人科　皮膚科　泌尿器科,,,9" xlink:title="友愛クリニック" transform="ref(svg,14074.3601,-3679.8873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永山医院,茨城県日立市日高町２-７-６,内科　皮膚科　放射線科,,,9" xlink:title="永山医院" transform="ref(svg,14067.8033,-3663.7697)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）松濤会（特養）銀砂台診療所,茨城県日立市砂沢町１１５５-１,内科,,,9" xlink:title="（福）松濤会（特養）銀砂台診療所" transform="ref(svg,14067.0574,-3665.3012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サン豊浦医務室,茨城県日立市川尻町７５８-２７,内科,,,9" xlink:title="（特養）サン豊浦医務室" transform="ref(svg,14068.9497,-3666.0164)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大津町クリニック,茨城県北茨城市大津町２６５０-６８,内科　循環器科　リウマチ科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="大津町クリニック" transform="ref(svg,14078.6445,-3683.1036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,茨城県赤十字血液センター日立出張所,茨城県日立市幸町１-４-１,内科,,,9" xlink:title="茨城県赤十字血液センター日立出張所" transform="ref(svg,14066.0447,-3659.1933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かもめ・大津港クリニック,茨城県北茨城市大津町北町４３２-１,内科,,,9" xlink:title="かもめ・大津港クリニック" transform="ref(svg,14077.7755,-3684.7938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北茨城中央クリニック,茨城県北茨城市磯原町豊田１-３６,内科　泌尿器科,,,9" xlink:title="北茨城中央クリニック" transform="ref(svg,14073.6942,-3679.3548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たばたクリニック,茨城県高萩市高戸３８２-１,内科　呼吸器科　消化器科　皮膚科,,,9" xlink:title="たばたクリニック" transform="ref(svg,14071.8054,-3672.6347)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博順会高萩クリニック,茨城県高萩市秋山６２５,内科　整形外科,,,9" xlink:title="（医）博順会高萩クリニック" transform="ref(svg,14068.497,-3671.528)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十王ひがし野クリニック,茨城県日立市十王町伊師３４５６-７,内科　皮膚科　泌尿器科,,,9" xlink:title="十王ひがし野クリニック" transform="ref(svg,14070.6348,-3668.0798)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かもしたクリニック,茨城県日立市中成沢町４-１７-２２,産婦人科　皮膚科,,,9" xlink:title="かもしたクリニック" transform="ref(svg,14064.2221,-3657.6856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤医院,茨城県日立市神峰町１-１０-２０,内科,,,9" xlink:title="佐藤医院" transform="ref(svg,14065.3625,-3659.6509)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かもめ・日立クリニック,茨城県日立市東滑川町１-３１８６,腎臓内科　人工透析,,,9" xlink:title="かもめ・日立クリニック" transform="ref(svg,14066.8151,-3660.729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ナリタコンタクトクリニック,茨城県日立市幸町１-１６-１イトーヨーカドー３階,眼科,,,9" xlink:title="ナリタコンタクトクリニック" transform="ref(svg,14065.903,-3659.1771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,栗山整形外科,茨城県日立市日高町３-８-３,内科　外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="栗山整形外科" transform="ref(svg,14068.6407,-3663.8387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福地レディースクリニック,茨城県日立市鹿島町２-１７-４,婦人科,,,9" xlink:title="福地レディースクリニック" transform="ref(svg,14064.8746,-3659.143)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,身体障害者療護施設愛正園診療所,茨城県高萩市下手綱１９５１-２０,内科　外科　皮膚科,,,9" xlink:title="身体障害者療護施設愛正園診療所" transform="ref(svg,14068.8684,-3672.7548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大山医院,茨城県日立市中成沢町２-２１-７,内科,,,9" xlink:title="大山医院" transform="ref(svg,14063.7888,-3657.8184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真寿会西成田医院,茨城県日立市西成沢町２-２-１,内科　リウマチ科,,,9" xlink:title="（医）真寿会西成田医院" transform="ref(svg,14063.5093,-3657.7262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さおとめ眼科,茨城県日立市本宮町２-７-２８,眼科,,,9" xlink:title="さおとめ眼科" transform="ref(svg,14066.23,-3660.1947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福島クリニック,茨城県日立市十王町友部東２-５-５,内科　循環器科　外科　整形外科,,,9" xlink:title="福島クリニック" transform="ref(svg,14068.7283,-3666.9517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおたしろクリニック,茨城県日立市平和町１-１７-１５,内科　消化器内科（内視鏡）　女性乳腺内科　肛門内科,,,9" xlink:title="おおたしろクリニック" transform="ref(svg,14065.959,-3659.3178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽費老人ホーム豊浦の郷医務室,茨城県日立市川尻町７７３-１,内科,,,9" xlink:title="軽費老人ホーム豊浦の郷医務室" transform="ref(svg,14069.0144,-3666.0528)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,樋渡医院,茨城県高萩市大和町２-５９,消化器科　外科　こう門科,,,9" xlink:title="樋渡医院" transform="ref(svg,14071.293,-3671.2935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）鮎川さくら館,茨城県日立市国分町３-１２-１０,内科　眼科,,,9" xlink:title="（特養）鮎川さくら館" transform="ref(svg,14064.953,-3656.703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはぎ眼科,茨城県高萩市本町２-８８-３,眼科,,,9" xlink:title="たかはぎ眼科" transform="ref(svg,14071.0219,-3671.6067)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あおぞらクリニック,茨城県北茨城市中郷町上桜井２５４７,内科　小児科,,,9" xlink:title="あおぞらクリニック" transform="ref(svg,14072.7944,-3677.7474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十王医院,茨城県日立市十王町友部１５８４-１,内科　小児科　外科　耳鼻咽喉科　皮膚科　泌尿器科,,,9" xlink:title="十王医院" transform="ref(svg,14068.2797,-3667.5939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかの循環器科内科クリニック,茨城県北茨城市中郷町上桜井２８２９,内科　リハビリテーション科　循環器内科,,,9" xlink:title="なかの循環器科内科クリニック" transform="ref(svg,14073.2317,-3677.5576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,グルコピア日立,茨城県日立市東滑川町１-３８-１０,内科　糖尿病内科,,,9" xlink:title="グルコピア日立" transform="ref(svg,14066.934,-3660.7361)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ないとうクリニック,茨城県日立市東滑川町２-２３-３,内科　外科　整形外科　脳神経外科,,,9" xlink:title="ないとうクリニック" transform="ref(svg,14067.5898,-3660.8397)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）エスコート磯原医務室,茨城県北茨城市華川町車１１４５-６５,内科　整形外科,,,9" xlink:title="（特養）エスコート磯原医務室" transform="ref(svg,14073.9702,-3681.8242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまがた内科医院,茨城県日立市川尻町１-３５-７,内科,,,9" xlink:title="やまがた内科医院" transform="ref(svg,14069.746,-3665.4242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立メディカルスパクリニック,茨城県日立市東滑川町５-１２-１,内科　呼吸器科　消化器科　循環器科　精神科　心療内科　整形外科　形成外科　美容外科　皮膚科　美容皮膚科,,,9" xlink:title="日立メディカルスパクリニック" transform="ref(svg,14067.9642,-3661.6037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）愛正会やすらぎの丘温泉病院付属安良川クリニック,茨城県高萩市安良川９６３-８,内科　外科,,,9" xlink:title="（医）愛正会やすらぎの丘温泉病院付属安良川クリニック" transform="ref(svg,14070.7579,-3671.0433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）高萩聖孝園,茨城県高萩市上手綱２,内科,,,9" xlink:title="（特養）高萩聖孝園" transform="ref(svg,14070.3016,-3673.5811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひたちの森すこやかビレッジ,茨城県日立市東滑川町５-１０-３,内科　呼吸器科,,,9" xlink:title="（特養）ひたちの森すこやかビレッジ" transform="ref(svg,14068.0683,-3661.6391)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖麗会聖麗メモリアル高鈴,茨城県日立市高鈴町１-１８-１,脳神経外科,,,9" xlink:title="（医）聖麗会聖麗メモリアル高鈴" transform="ref(svg,14064.5065,-3659.8954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわい整形外科クリニック,茨城県日立市日高町１-２７-８,整形外科　リハビリテーション科,,,9" xlink:title="かわい整形外科クリニック" transform="ref(svg,14067.4152,-3663.7106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いそはらクリニック,茨城県北茨城市磯原町磯原４-１１２-２,内科　小児科　外科　皮膚科,,,9" xlink:title="いそはらクリニック" transform="ref(svg,14074.0238,-3679.5081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田尻眼科クリニック,茨城県日立市田尻町４-３６-５,眼科,,,9" xlink:title="田尻眼科クリニック" transform="ref(svg,14068.0416,-3662.4049)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）愛正会一想園診療所,茨城県日立市田尻町２-８-１０,内科,,,9" xlink:title="（福）愛正会一想園診療所" transform="ref(svg,14066.6881,-3663.362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にいさと眼科クリニック,茨城県北茨城市磯原町磯原２-１７７,眼科,,,9" xlink:title="にいさと眼科クリニック" transform="ref(svg,14074.1989,-3679.139)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とじま耳鼻咽喉科クリニック,茨城県日立市幸町１-７-７ニュークリニックス日立４階,耳鼻咽喉科,,,9" xlink:title="とじま耳鼻咽喉科クリニック" transform="ref(svg,14065.7855,-3659.2848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立花医院,茨城県高萩市東本町１-８１,外科　整形外科　皮膚科　放射線科,,,9" xlink:title="立花医院" transform="ref(svg,14071.8179,-3671.2924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宍戸小児科,茨城県高萩市安良川２７２-１４３,小児科,,,9" xlink:title="宍戸小児科" transform="ref(svg,14071.5185,-3671.0816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滝川医院,茨城県高萩市春日町２-６４,内科　整形外科　リハビリテーション科,,,9" xlink:title="滝川医院" transform="ref(svg,14071.5559,-3671.6445)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アステラスファーマテック（株）健康管理室,茨城県高萩市赤浜１６０-２,内科　外科　泌尿器科,,,9" xlink:title="アステラスファーマテック（株）健康管理室" transform="ref(svg,14072.5498,-3673.0532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永山耳鼻咽喉科眼科医院,茨城県高萩市大和町１-７,眼科　耳鼻咽喉科,,,9" xlink:title="永山耳鼻咽喉科眼科医院" transform="ref(svg,14071.5283,-3671.322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,諸原産婦人科医院,茨城県高萩市高戸２８８,内科　産婦人科,,,9" xlink:title="諸原産婦人科医院" transform="ref(svg,14072.0002,-3672.1017)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北茨城市立水沼診療所,茨城県北茨城市華川町花園８８,内科,,,9" xlink:title="北茨城市立水沼診療所" transform="ref(svg,14065.7699,-3686.1708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ときわの杜診療所,茨城県北茨城市関本町福田１８７５-１,内科,,,9" xlink:title="（特養）ときわの杜診療所" transform="ref(svg,14076.039,-3685.4389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設ひまわり荘診療所,茨城県北茨城市関本町福田１８７１-１,内科,,,9" xlink:title="障害者支援施設ひまわり荘診療所" transform="ref(svg,14076.1426,-3685.383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,社団（医）至誠会北茨城クリニック,茨城県北茨城市大津町北町１-４-８,内科　消化器科　循環器科　外科　整形外科　リハビリテーション科,,,9" xlink:title="社団（医）至誠会北茨城クリニック" transform="ref(svg,14077.9548,-3684.8284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒川内科医院,茨城県北茨城市磯原町豊田１１５８-４６,内科,,,9" xlink:title="荒川内科医院" transform="ref(svg,14072.6822,-3679.2157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）松籟荘診療所,茨城県高萩市下手綱１９５１-８,内科　整形外科　リハビリテーション科,,,9" xlink:title="（特養）松籟荘診療所" transform="ref(svg,14069.1017,-3672.8092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平川医院,茨城県北茨城市中郷町汐見ヶ丘１０-１１０-８,内科　耳鼻咽喉科,,,9" xlink:title="平川医院" transform="ref(svg,14072.8096,-3676.7916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高林眼科クリニック,茨城県北茨城市磯原町本町１-７-１０,眼科,,,9" xlink:title="高林眼科クリニック" transform="ref(svg,14074.3344,-3678.8586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内田医院,茨城県高萩市大和町２-１６,内科　小児科　精神科　神経科　心療内科　婦人科　皮膚科,,,9" xlink:title="（医）内田医院" transform="ref(svg,14071.3703,-3671.2181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはし小児科医院,茨城県日立市十王町友部東３-８-１４,小児科,,,9" xlink:title="たかはし小児科医院" transform="ref(svg,14068.7474,-3666.8211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川内科クリニック,茨城県高萩市安良川１９５-３,内科　消化器科,,,9" xlink:title="石川内科クリニック" transform="ref(svg,14070.9744,-3670.7615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川尻整形外科,茨城県日立市川尻町３-１９-１３,内科　整形外科　リハビリテーション科,,,9" xlink:title="川尻整形外科" transform="ref(svg,14070.7129,-3665.872)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川内科ファミリークリニック,茨城県日立市桜川町３-１１-１５,内科　消化器科　小児科　心療内科　肝臓内科,,,9" xlink:title="石川内科ファミリークリニック" transform="ref(svg,14063.1377,-3656.3757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新島スカイクリニック,茨城県日立市鮎川町３-１-２１,内科　消化器科　肝臓内科,,,9" xlink:title="新島スカイクリニック" transform="ref(svg,14063.9444,-3656.4205)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠之会廣橋クリニック,茨城県北茨城市大津町２５１９,内科　精神科　神経内科　整形外科　歯科,,,9" xlink:title="（医）誠之会廣橋クリニック" transform="ref(svg,14078.3528,-3683.7264)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14132.8125 -4359.375 35.15625 35.15625" go:dataArea="14132.8125 -4359.375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（特養）希久の園診療所,北海道石狩市八幡町字高岡２７-９,内科,,,9" xlink:title="（特養）希久の園診療所" transform="ref(svg,14142.2479,-4325.4568)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あつた中央クリニック,北海道石狩市厚田区別狩１７,内科　小児科　外科,,,9" xlink:title="あつた中央クリニック" transform="ref(svg,14143.631,-4339.8122)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚田みよし園診療所,北海道石狩市厚田区厚田１８９-１,内科,,,9" xlink:title="厚田みよし園診療所" transform="ref(svg,14143.5338,-4340.2109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚田保健センター,北海道石狩市厚田区厚田４５-５,内科　小児科　歯科,,,9" xlink:title="厚田保健センター" transform="ref(svg,14143.4061,-4339.9564)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石狩市介護老人福祉施設はまますあいどまり医務室,北海道石狩市浜益区実田９３-１７,内科　外科,,,9" xlink:title="石狩市介護老人福祉施設はまますあいどまり医務室" transform="ref(svg,14142.5904,-4358.5594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康和会月形診療所,北海道樺戸郡月形町１０１１,内科　消化器科　歯科　整形外科　精神科　眼科　耳鼻いんこう科　皮膚科,,,9" xlink:title="（医）康和会月形診療所" transform="ref(svg,14167.4442,-4334.0719)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,月形町保健福祉総合センター,北海道樺戸郡月形町字月形１４６６-１,内科　小児科,,,9" xlink:title="月形町保健福祉総合センター" transform="ref(svg,14167.4446,-4334.0709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）月形愛光園,北海道樺戸郡月形町４６-３０,内科,,,9" xlink:title="（特養）月形愛光園" transform="ref(svg,14166.1283,-4333.1778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,月形藤の園医務室,北海道樺戸郡月形町字当別原野４１７,内科　外科,,,9" xlink:title="月形藤の園医務室" transform="ref(svg,14161.9053,-4330.9395)" x="0" y="0"/>
+</g>
+</svg>

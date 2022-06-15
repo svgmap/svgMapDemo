@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13587.890625 -3480.46875 17.578125 17.578125" go:dataArea="13587.890625 -3480.46875 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（特養）加茂きはだ園診療所,京都府木津川市加茂町銭司西畑２４,内科　精神科,,,9" xlink:title="（特養）加茂きはだ園診療所" transform="ref(svg,13588.3117,-3476.5196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伊左治医院,京都府相楽郡笠置町笠置浜５９-１,内科　皮膚科　小児科　外科,,,9" xlink:title="（医）伊左治医院" transform="ref(svg,13593.7103,-3475.785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）わらく医務室,京都府相楽郡和束町釜塚縄手２５,内科　外科,,,9" xlink:title="（特養）わらく医務室" transform="ref(svg,13590.6289,-3479.4621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）柳沢活道ケ丘診療所,京都府相楽郡和束町白栖南半田１２,内科　小児科　リハビリテーション科,,,9" xlink:title="（医）柳沢活道ケ丘診療所" transform="ref(svg,13589.5084,-3479.6429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）南医院,京都府相楽郡和束町中平田２７-１,内科　胃腸科　循環器科,,,9" xlink:title="（医）南医院" transform="ref(svg,13590.881,-3480.2198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和束町国民健康保険診療所,京都府相楽郡和束町南川口４４,内科　外科,,,9" xlink:title="和束町国民健康保険診療所" transform="ref(svg,13590.4332,-3479.5138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）竹澤内科小児科医院,京都府相楽郡南山城村北大河原釜の子２９-３０８,内科　小児科,,,9" xlink:title="（医）竹澤内科小児科医院" transform="ref(svg,13602.0612,-3476.7954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正和会野村医院,奈良県山辺郡山添村大字大西５０２-１,内科　放射線科,,,9" xlink:title="（医）正和会野村医院" transform="ref(svg,13604.1399,-3468.082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山添村国民健康保険豊原診療所,奈良県山辺郡山添村三ケ谷大字９７０,内科　精神科　小児科　外科,,,9" xlink:title="山添村国民健康保険豊原診療所" transform="ref(svg,13602.6349,-3465.459)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山添村国民健康保険東山診療所,奈良県山辺郡山添村桐山６２-１,内科　精神科　小児科　外科,,,9" xlink:title="山添村国民健康保険東山診療所" transform="ref(svg,13597.4188,-3468.1906)" x="0" y="0"/>
+</g>
+</svg>

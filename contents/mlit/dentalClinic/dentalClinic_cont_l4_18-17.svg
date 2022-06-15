@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="dentalClinic_l5_36-34.svg" x="14062.5" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="dentalClinic/lvl8/tile36_34.png" preserveAspectRatio="none" x="14062.5" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="dentalClinic_l5_37-34.svg" x="14203.125" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="dentalClinic/lvl8/tile37_34.png" preserveAspectRatio="none" x="14203.125" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="dentalClinic_l5_36-35.svg" x="14062.5" y="-4078.125" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="dentalClinic/lvl8/tile36_35.png" preserveAspectRatio="none" x="14062.5" y="-4078.125" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+</svg>

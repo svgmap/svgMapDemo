@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13078.125 -3445.3125 35.15625 35.15625" go:dataArea="13078.125 -3445.3125 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（医）青雲会青柳内科医院,山口県下関市菊川町下岡枝３７５-１,内科　循環器内科　消化器内科（胃腸内科）　小児科　リハビリテーション科,,,9" xlink:title="（医）青雲会青柳内科医院" transform="ref(svg,13103.5133,-3412.5694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あめやまクリニック,山口県下関市菊川町大字田部１１４８-５,内科　外科　リハビリテーション科　麻酔科,,,9" xlink:title="あめやまクリニック" transform="ref(svg,13103.3596,-3411.4905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）江本外科胃腸科医院,山口県下関市菊川町下岡枝１７０-３,消化器・胃腸科,,,9" xlink:title="（医）江本外科胃腸科医院" transform="ref(svg,13103.2875,-3412.3827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小田医院,山口県下関市豊田町大字殿敷１８１０,内科　小児科　消化器内科（胃腸内科）,,,9" xlink:title="小田医院" transform="ref(svg,13107.9403,-3420.3553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）きくがわ苑医務室,山口県下関市菊川町大字下岡枝１０６４,内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="（特養）きくがわ苑医務室" transform="ref(svg,13104.1552,-3412.6364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）若草会木本クリニック,山口県下関市豊北町大字阿川３７９６-１,内科　循環器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="（医）若草会木本クリニック" transform="ref(svg,13092.5766,-3433.9476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）喜楽園医務室,山口県下関市豊田町大字中村８２１-１,内科,,,9" xlink:title="（特養）喜楽園医務室" transform="ref(svg,13107.1485,-3419.3994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら医院,山口県下関市豊北町大字神田字松ノ下２６９-４,内科　小児科　外科,,,9" xlink:title="さくら医院" transform="ref(svg,13091.7985,-3430.6214)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サテライト梨花の里アスピア医務室,山口県下関市豊北町大字滝部２９６９-１,内科,,,9" xlink:title="サテライト梨花の里アスピア医務室" transform="ref(svg,13094.9774,-3428.9325)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ＳＵＮ医務室,山口県下関市豊浦町吉永１８１９-１,内科　リハビリテーション科,,,9" xlink:title="（特養）ＳＵＮ医務室" transform="ref(svg,13092.3044,-3413.984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,重本内科,山口県下関市豊浦町大字黒井２３６６-１,内科　呼吸器内科　循環器内科　小児科,,,9" xlink:title="重本内科" transform="ref(svg,13091.0513,-3412.7653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下関市島戸診療所,山口県下関市豊北町大字神田４０２５-２,内科,,,9" xlink:title="下関市島戸診療所" transform="ref(svg,13090.0912,-3435.5161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下関市立角島診療所,山口県下関市豊北町大字角島１４１８-４,内科　外科　小児科,,,9" xlink:title="下関市立角島診療所" transform="ref(svg,13086.7088,-3435.5548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下関市立豊田中央病院殿居診療所,山口県下関市豊田町大字荒木５１-２,内科　外科,,,9" xlink:title="下関市立豊田中央病院殿居診療所" transform="ref(svg,13104.2816,-3425.2865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム松涛園医務室,山口県下関市豊北町大字神田上１８９３,内科,,,9" xlink:title="養護老人ホーム松涛園医務室" transform="ref(svg,13087.8374,-3429.4224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,じょうのクリニック,山口県下関市豊浦町大字宇賀７４４４-２,内科　外科　リハビリテーション科,,,9" xlink:title="じょうのクリニック" transform="ref(svg,13093.2232,-3420.8575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）白滝荘診療所,山口県下関市豊北町田耕２４２６-１,内科,,,9" xlink:title="（特養）白滝荘診療所" transform="ref(svg,13098.8537,-3427.1497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しんむら医院,山口県下関市豊浦町大字小串１９４-３,内科　小児科　胃腸内科　循環器内科　呼吸器内科　リハビリテーション科,,,9" xlink:title="（医）しんむら医院" transform="ref(svg,13092.9521,-3417.0608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たきべ診療所,山口県下関市豊北町大字滝部３６６９-１,内科　外科,,,9" xlink:title="たきべ診療所" transform="ref(svg,13094.4167,-3428.3759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千葉クリニック,山口県下関市豊田町大字中村字古市６-１,外科　胃腸科　肛門外科　麻酔科,,,9" xlink:title="千葉クリニック" transform="ref(svg,13107.824,-3420.0429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永山医院,山口県下関市豊浦町大字川棚字石橋６９２０-１,内科　耳鼻科,,,9" xlink:title="（医）永山医院" transform="ref(svg,13092.3449,-3414.7649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永山医院室津診療所,山口県下関市豊浦町大字室津下字松原２１-９１,内科,,,9" xlink:title="（医）永山医院室津診療所" transform="ref(svg,13089.1977,-3413.2582)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）にじの丘医務室,山口県下関市菊川町大字田部２２３-９,内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="地域密着型（特養）にじの丘医務室" transform="ref(svg,13103.9878,-3411.5296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,二武整形・リウマチクリニック,山口県下関市豊浦町大字吉永１８４４,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="二武整形・リウマチクリニック" transform="ref(svg,13092.0542,-3414.175)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はまさきクリニック,山口県下関市豊浦町大字吉永字無田１７２０-１,内科　消化器内科（胃腸内科）　放射線科　外科　整形外科　麻酔科　リハビリテーション科　消化器外科（胃腸外科）　乳腺外科　肛門外科,,,9" xlink:title="はまさきクリニック" transform="ref(svg,13091.7588,-3413.8934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井クリニック,山口県下関市豊北町大字滝部３１４６-２,内科　麻酔科,,,9" xlink:title="藤井クリニック" transform="ref(svg,13094.8576,-3428.938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじかわクリニック,山口県下関市豊浦町大字川棚７２８７-５,内科　消化器内科　リハビリテーション科,,,9" xlink:title="ふじかわクリニック" transform="ref(svg,13092.0745,-3414.2554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤本医院,山口県下関市豊浦町大字川棚６９２３-１,外科　内科　消化器内科　肛門外科　麻酔科,,,9" xlink:title="（医）藤本医院" transform="ref(svg,13092.4265,-3414.7121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤本医院湯玉診療所,山口県下関市豊浦町大字宇賀７３５８-４,外科　内科　消化器内科,,,9" xlink:title="（医）藤本医院湯玉診療所" transform="ref(svg,13093.3028,-3420.7669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）豊寿苑医務室,山口県下関市豊浦町大字厚母郷４４２,内科　外科　整形外科,,,9" xlink:title="（特養）豊寿苑医務室" transform="ref(svg,13090.5371,-3411.8764)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ほたるホームとよた医務室,山口県下関市豊田町大字荒木５１-２,内科,,,9" xlink:title="（特養）ほたるホームとよた医務室" transform="ref(svg,13104.2816,-3425.2865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）梨花の里医務室,山口県下関市豊北町大字滝部１０４２-１,内科,,,9" xlink:title="（特養）梨花の里医務室" transform="ref(svg,13094.9577,-3429.2584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田医院,山口県下関市豊北町神田上２７６２-１,内科,,,9" xlink:title="和田医院" transform="ref(svg,13089.3141,-3428.6786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木村クリニック,山口県長門市油谷新別名９５３-２,眼科　内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="木村クリニック" transform="ref(svg,13105.7692,-3437.3664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸嶋医院,山口県長門市油谷向津具下３３６９-２,内科　循環器内科　外科,,,9" xlink:title="戸嶋医院" transform="ref(svg,13097.4816,-3440.7936)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,友近内科循環器科医院,山口県長門市油谷新別名９９９-１０,内科　循環器内科,,,9" xlink:title="友近内科循環器科医院" transform="ref(svg,13106.0166,-3437.3306)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養寿苑診療所,山口県長門市油谷向津具上３４４,内科,,,9" xlink:title="養寿苑診療所" transform="ref(svg,13098.2666,-3440.7073)" x="0" y="0"/>
+</g>
+</svg>

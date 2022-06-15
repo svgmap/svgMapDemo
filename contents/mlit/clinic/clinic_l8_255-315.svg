@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13482.421875 -3462.890625 17.578125 17.578125" go:dataArea="13482.421875 -3462.890625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,中井内科医院,兵庫県淡路市尾崎１５６２,呼吸器内科　循環器内科　糖尿病内科,,,9" xlink:title="中井内科医院" transform="ref(svg,13486.0923,-3449.4588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向田医院,兵庫県淡路市郡家７２-１２,内科,,,9" xlink:title="向田医院" transform="ref(svg,13484.5989,-3447.0999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細原医院,兵庫県淡路市多賀１２７５,内科　小児科,,,9" xlink:title="細原医院" transform="ref(svg,13484.8023,-3446.841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田医院,兵庫県淡路市江井２６９５,内科　消化器科,,,9" xlink:title="太田医院" transform="ref(svg,13482.656,-3446.4546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,淡路市国民健康保険北淡診療所,兵庫県淡路市育波４８０-５,内科　心療内科　精神科　神経内科　眼科　呼吸器内科,,,9" xlink:title="淡路市国民健康保険北淡診療所" transform="ref(svg,13488.5435,-3452.5907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大橋医院,兵庫県淡路市育波１２２,内科　小児科,,,9" xlink:title="大橋医院" transform="ref(svg,13489.2244,-3452.7346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆうらぎ,兵庫県淡路市育波５５８-２,内科,,,9" xlink:title="（特養）ゆうらぎ" transform="ref(svg,13488.4083,-3452.4663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中田医院,兵庫県淡路市富島８７２-１０,内科　循環器科　リハビリテーション科,,,9" xlink:title="中田医院" transform="ref(svg,13493.3468,-3454.5822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フローラほくだん医務室,兵庫県淡路市野島貴船２４６-１,内科,,,9" xlink:title="フローラほくだん医務室" transform="ref(svg,13497.5128,-3458.4245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あわじ荘診療所,兵庫県淡路市野島貴船２２９-１,内科　精神科,,,9" xlink:title="（特養）あわじ荘診療所" transform="ref(svg,13497.4266,-3458.4209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,淡路市国民健康保険仁井診療所,兵庫県淡路市仁井６５,内科　外科,,,9" xlink:title="淡路市国民健康保険仁井診療所" transform="ref(svg,13494.7116,-3453.1343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡本医院,兵庫県淡路市佐野２０１５-４,内科　外科,,,9" xlink:title="岡本医院" transform="ref(svg,13493.4728,-3446.0954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中医院,兵庫県淡路市久留麻１８４２-２,内科　外科　リハビリテーション科,,,9" xlink:title="田中医院" transform="ref(svg,13498.7673,-3452.1182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有馬内科・消化器科,兵庫県淡路市久留麻神田１９０７マンション北の街２Ｆ,内科　消化器科,,,9" xlink:title="有馬内科・消化器科" transform="ref(svg,13498.8157,-3452.2288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）ほほえみ診療所,兵庫県淡路市久留麻２８-４１,内科,,,9" xlink:title="地域密着型（特養）ほほえみ診療所" transform="ref(svg,13499.2577,-3453.3774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内田医院,兵庫県淡路市仮屋２４７-２,内科　小児科　麻酔科,,,9" xlink:title="内田医院" transform="ref(svg,13498.7096,-3451.5591)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,淡路栄光園診療所,兵庫県淡路市岩屋３３７３,内科　循環器科　リハビリテーション科,,,9" xlink:title="淡路栄光園診療所" transform="ref(svg,13499.4608,-3458.6231)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,聖隷ホームカーネーションホーム診療所,兵庫県淡路市久留麻１８６３,内科,,,9" xlink:title="聖隷ホームカーネーションホーム診療所" transform="ref(svg,13498.7065,-3452.394)" x="0" y="0"/>
+</g>
+</svg>

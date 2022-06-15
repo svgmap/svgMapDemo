@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13007.8125 -3269.53125 35.15625 35.15625" go:dataArea="13007.8125 -3269.53125 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,さとう内科医院,長崎県南島原市北有馬町丁３３-１,リハビリテーション科　呼吸器科　循環器科　消化器科　内科,,,9" xlink:title="さとう内科医院" transform="ref(svg,13024.3216,-3265.4901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しおた内科胃腸科医院,長崎県南島原市口之津町甲２１４６-２,胃腸科　内科,,,9" xlink:title="しおた内科胃腸科医院" transform="ref(svg,13018.5138,-3260.864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つねおかクリニック,長崎県南島原市有家町久保２１-１,リハビリテーション科　外科　消化器内科　内科　乳腺外科,,,9" xlink:title="つねおかクリニック" transform="ref(svg,13030.4221,-3266.6132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アメニティいわど医務室,長崎県南島原市加津佐町乙９,内科,,,9" xlink:title="アメニティいわど医務室" transform="ref(svg,13015.8332,-3263.1719)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いその産婦人科,長崎県南島原市西有家町須川１７９２,産婦人科,,,9" xlink:title="（医）いその産婦人科" transform="ref(svg,13029.0397,-3265.975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永田内科泌尿器科医院,長崎県南島原市西有家町須川６１-２,リハビリテーション科　消化器科　内科　泌尿器科,,,9" xlink:title="（医）永田内科泌尿器科医院" transform="ref(svg,13029.895,-3265.5866)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）薫風会石川内科医院,長崎県南島原市西有家町里坊２５-１,リハビリテーション科　神経内科　内科,,,9" xlink:title="（医）薫風会石川内科医院" transform="ref(svg,13029.9584,-3266.0714)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）坂上整形外科,長崎県南島原市有家町山川３７８-１,整形外科,,,9" xlink:title="（医）坂上整形外科" transform="ref(svg,13031.3632,-3266.3947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善仁会栗原医院,長崎県南島原市加津佐町乙３０８９-１,こう門科　リハビリテーション科　外科　呼吸器科　小児科　小児外科　消化器科　性病科　整形外科　内科　皮膚泌尿器科　放射線科,,,9" xlink:title="（医）善仁会栗原医院" transform="ref(svg,13016.6045,-3262.7886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内田医院,長崎県南島原市西有家町須川１６６６-１,小児科　内科,,,9" xlink:title="（医）内田医院" transform="ref(svg,13029.1294,-3265.9747)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泌尿器科・皮ふ科菅医院,長崎県雲仙市南串山町甲２２３２,泌尿器科　皮膚科,,,9" xlink:title="（医）泌尿器科・皮ふ科菅医院" transform="ref(svg,13015.9131,-3268.4666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）本多南光堂医院,長崎県南島原市南有馬町丁４１０,リハビリテーション科　外科　整形外科　内科　皮膚科,,,9" xlink:title="（医）本多南光堂医院" transform="ref(svg,13025.215,-3264.106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）有心会池田循環器科内科,長崎県南島原市有家町山川３４７-１,呼吸器科　循環器科　小児科　消化器科　内科,,,9" xlink:title="（医）有心会池田循環器科内科" transform="ref(svg,13031.3544,-3266.2939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）祐和会伊崎医院,長崎県南島原市西有家町里坊１１８,眼科,,,9" xlink:title="（医）祐和会伊崎医院" transform="ref(svg,13029.9328,-3266.1816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）森医院,長崎県南島原市加津佐町乙３２５９-１,こう門科　リハビリテーション科　胃腸科　外科　内科,,,9" xlink:title="（医）森医院" transform="ref(svg,13016.7119,-3263.0423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上医院,長崎県南島原市加津佐町乙４８４-３,外科　整形外科　内科,,,9" xlink:title="井上医院" transform="ref(svg,13015.3397,-3263.0782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京泊馬場医院,長崎県雲仙市南串山町丙９８９９-１,リハビリテーション科　産科　内科　婦人科,,,9" xlink:title="京泊馬場医院" transform="ref(svg,13014.7219,-3267.9833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菜の花クリニック,長崎県南島原市南有馬町乙１５６５-１,こう門科　リハビリテーション科　胃腸科　外科　内科,,,9" xlink:title="菜の花クリニック" transform="ref(svg,13024.8267,-3263.2546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山北クリニック,長崎県南島原市口之津町甲２１６５-２,リハビリテーション科　小児科　内科,,,9" xlink:title="山北クリニック" transform="ref(svg,13018.3384,-3261.0263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）恵光会養護老人ホーム大乗苑医務室,長崎県南島原市加津佐町己２２２５-イ,外科　内科,,,9" xlink:title="（福）恵光会養護老人ホーム大乗苑医務室" transform="ref(svg,13017.1383,-3261.5698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小嶺整形外科クリニック,長崎県南島原市有家町山川１２０４-１,リウマチ科　リハビリテーション科　整形外科,,,9" xlink:title="小嶺整形外科クリニック" transform="ref(svg,13030.4665,-3266.306)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,植木内科医院,長崎県南島原市口之津町甲１６４２,リハビリテーション科　胃腸科　小児科　内科,,,9" xlink:title="植木内科医院" transform="ref(svg,13018.5896,-3260.6891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅耳鼻咽喉科,長崎県雲仙市南串山町甲２２３２-３,耳鼻いんこう科,,,9" xlink:title="菅耳鼻咽喉科" transform="ref(svg,13015.8671,-3268.5131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田医院,長崎県南島原市布津町甲１,内科　放射線科,,,9" xlink:title="池田医院" transform="ref(svg,13034.4054,-3267.2365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村医院,長崎県南島原市南有馬町乙２２７４,小児科　内科,,,9" xlink:title="中村医院" transform="ref(svg,13024.501,-3263.0804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡部眼科医院,長崎県南島原市口之津町丙２０９１,眼科,,,9" xlink:title="渡部眼科医院" transform="ref(svg,13018.7613,-3261.3059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あけぼの荘医務室,長崎県南島原市布津町乙１８６２-２,内科,,,9" xlink:title="（特養）あけぼの荘医務室" transform="ref(svg,13035.3032,-3269.4126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）玉成園医務室,長崎県南島原市口之津町甲１１９０-１,外科　内科,,,9" xlink:title="（特養）玉成園医務室" transform="ref(svg,13018.8083,-3260.533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）有馬荘医務室,長崎県南島原市北有馬町甲３１８１-８,内科,,,9" xlink:title="（特養）有馬荘医務室" transform="ref(svg,13019.5247,-3267.3101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）緑が丘荘医務室,長崎県南島原市加津佐町丙１８５５-２,内科,,,9" xlink:title="（特養）緑が丘荘医務室" transform="ref(svg,13017.0822,-3263.6015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北有馬クリニック,長崎県南島原市北有馬町己７６０-１,こう門科　リハビリテーション科　外科　消化器科　整形外科,,,9" xlink:title="北有馬クリニック" transform="ref(svg,13025.7823,-3265.4497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,明島整形外科医院,長崎県南島原市布津町乙１８５９-２,リウマチ科　リハビリテーション科　整形外科　内科,,,9" xlink:title="明島整形外科医院" transform="ref(svg,13035.3369,-3269.4531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天草ふれあいクリニック,熊本県天草市丸尾町１６-３４,内科　外科　リハビリテーション科　放射線科　呼吸器内科　消化器内科,,,9" xlink:title="天草ふれあいクリニック" transform="ref(svg,13018.5904,-3247.2092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲村医院,熊本県天草市本渡町本渡８４８-６,内科　精神科　神経内科,,,9" xlink:title="稲村医院" transform="ref(svg,13017.5639,-3245.9838)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うらた眼科,熊本県天草市亀場町亀川１１０,眼科,,,9" xlink:title="うらた眼科" transform="ref(svg,13020.3779,-3244.158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大塚泌尿器科クリニック,熊本県天草市東浜町１４-１５,泌尿器科　麻酔科,,,9" xlink:title="大塚泌尿器科クリニック" transform="ref(svg,13019.1192,-3245.8239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおどうクリニック,熊本県天草市亀場町亀川１７３１-１,内科　循環器科,,,9" xlink:title="おおどうクリニック" transform="ref(svg,13019.5754,-3244.1719)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おくむら皮ふ科,熊本県天草市南新町４-１３,皮膚科,,,9" xlink:title="おくむら皮ふ科" transform="ref(svg,13019.4312,-3245.2915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鬼塚クリニック,熊本県天草市亀場町食場９８４-１,心療内科　産科　婦人科,,,9" xlink:title="鬼塚クリニック" transform="ref(svg,13019.0896,-3243.4561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわはら眼科クリニック,熊本県天草市八幡町７-２６,眼科,,,9" xlink:title="かわはら眼科クリニック" transform="ref(svg,13018.8521,-3246.6762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木山・中村クリニック,熊本県天草市小松原町１６-１３,内科　循環器内科,,,9" xlink:title="木山・中村クリニック" transform="ref(svg,13019.0046,-3246.0483)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,熊本県天草保健所,熊本県天草市今釜新町３５３０,内科　小児科,,,9" xlink:title="熊本県天草保健所" transform="ref(svg,13019.4841,-3246.1193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,酒井外科・内科医院,熊本県天草市港町１６-１１,内科　外科　整形外科　リハビリテーション科　呼吸器内科　消化器内科,,,9" xlink:title="酒井外科・内科医院" transform="ref(svg,13019.5946,-3245.541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,定医院,熊本県天草市南新町７-１,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="定医院" transform="ref(svg,13019.4658,-3245.4279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,産科・婦人科本原クリニック,熊本県天草市古川町１０-２５,産科　婦人科,,,9" xlink:title="産科・婦人科本原クリニック" transform="ref(svg,13018.5765,-3245.4131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一社）天草郡市医師会立天草地域健診センター,熊本県天草市亀場町食場１１８１-１,内科　循環器科　外科　脳神経外科　放射線科,,,9" xlink:title="（一社）天草郡市医師会立天草地域健診センター" transform="ref(svg,13018.0668,-3243.3079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,星光園医務室,熊本県天草市北原町８-３７,内科,,,9" xlink:title="星光園医務室" transform="ref(svg,13018.6324,-3246.587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立田医院,熊本県天草市佐伊津町５３８０,外科　整形外科,,,9" xlink:title="立田医院" transform="ref(svg,13018.8554,-3249.5613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴崎内科医院,熊本県天草市大浜町２-４０,内科　消化器科　循環器科,,,9" xlink:title="鶴崎内科医院" transform="ref(svg,13019.125,-3245.9332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）慈晃園,熊本県天草市佐伊津町９２８,内科,,,9" xlink:title="（特養）慈晃園" transform="ref(svg,13019.4137,-3248.6077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とりや耳鼻科,熊本県天草市南新町７-１５パサージュみなみ２Ｆ,耳鼻いんこう科,,,9" xlink:title="とりや耳鼻科" transform="ref(svg,13019.4908,-3245.3929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしきど整形外科,熊本県天草市東浜町１９-３,整形外科　リハビリテーション科,,,9" xlink:title="にしきど整形外科" transform="ref(svg,13019.0248,-3245.825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東整形外科,熊本県天草市南新町３-２１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="東整形外科" transform="ref(svg,13019.2995,-3245.4165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,開内科医院,熊本県天草市下浦町２０９０-１,内科,,,9" xlink:title="開内科医院" transform="ref(svg,13022.239,-3242.4445)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福本医院,熊本県天草市楠浦町２５９,内科,,,9" xlink:title="福本医院" transform="ref(svg,13020.7541,-3242.2841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀田循環器内科,熊本県天草市船之尾町８-３２,内科　循環器科,,,9" xlink:title="堀田循環器内科" transform="ref(svg,13018.7183,-3245.7303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松雄会松田整形外科医院,熊本県天草市東町７-１２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）松雄会松田整形外科医院" transform="ref(svg,13020.1475,-3245.193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,毛利内科,熊本県天草市本町下河内８４３-１,内科　消化器科,,,9" xlink:title="毛利内科" transform="ref(svg,13016.7201,-3247.2525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やました医院,熊本県天草市北原町２-１,内科　循環器科,,,9" xlink:title="やました医院" transform="ref(svg,13018.808,-3246.4529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木整形外科医院,熊本県上天草市大矢野町中１３１４-１,整形外科　リハビリテーション科,,,9" xlink:title="佐々木整形外科医院" transform="ref(svg,13042.5991,-3257.9794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村医院,熊本県上天草市大矢野町上３９１-１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="中村医院" transform="ref(svg,13041.923,-3258.508)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福本眼科,熊本県上天草市大矢野町上１２８３-３,眼科,,,9" xlink:title="福本眼科" transform="ref(svg,13042.8117,-3258.4198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,湯島へき地診療所,熊本県上天草市大矢野町湯島６５５,内科　小児科　外科　歯科,,,9" xlink:title="湯島へき地診療所" transform="ref(svg,13033.4969,-3260.069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひかりの園医務室,熊本県上天草市松島町今泉１００４-１,内科　アレルギー科　小児科　リハビリテーション科,,,9" xlink:title="（特養）ひかりの園医務室" transform="ref(svg,13042.3474,-3249.0088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,教良木診療所,熊本県上天草市松島町教良木２９４８-１,内科　循環器科　小児科　外科　整形外科,,,9" xlink:title="教良木診療所" transform="ref(svg,13037.134,-3246.5355)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上天草市養護老人ホーム和光園,熊本県上天草市松島町教良木３１００,内科　小児科　外科,,,9" xlink:title="上天草市養護老人ホーム和光園" transform="ref(svg,13037.0823,-3246.6553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹中医院,熊本県上天草市姫戸町二間戸２２７９-２,内科　消化器科　胃腸科　小児科,,,9" xlink:title="竹中医院" transform="ref(svg,13039.8859,-3243.1827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）翔洋苑,熊本県上天草市姫戸町姫浦３０５５-１０６,内科　循環器科,,,9" xlink:title="（特養）翔洋苑" transform="ref(svg,13041.5214,-3244.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫戸医院,熊本県上天草市姫戸町姫浦２５４４-６,内科　循環器科,,,9" xlink:title="姫戸医院" transform="ref(svg,13040.8595,-3244.037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上医院,熊本県上天草市姫戸町姫浦２５２８-６,内科　小児科　リハビリテーション科,,,9" xlink:title="村上医院" transform="ref(svg,13040.8718,-3243.9593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）相生荘医務室,熊本県上天草市龍ヶ岳町大道１５８,内科,,,9" xlink:title="（特養）相生荘医務室" transform="ref(svg,13035.1074,-3239.4711)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦医院,熊本県天草市有明町大浦７６６-１０,内科　小児科,,,9" xlink:title="三浦医院" transform="ref(svg,13036.696,-3252.5207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島子ごとう医院,熊本県天草市有明町大島子１９９０-１,内科　胃腸科　外科　麻酔科,,,9" xlink:title="島子ごとう医院" transform="ref(svg,13026.0558,-3247.7034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）麗洋苑医務室,熊本県天草市有明町須子１９６４,内科　外科,,,9" xlink:title="（特養）麗洋苑医務室" transform="ref(svg,13034.316,-3251.0737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大岩クリニック,熊本県天草市御所浦町御所浦３１００‐６,内科　小児科　外科　リハビリテーション科,,,9" xlink:title="大岩クリニック" transform="ref(svg,13034.5684,-3234.9469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くらたけ小松医院,熊本県天草市倉岳町宮田１１３３-６,内科　小児科,,,9" xlink:title="くらたけ小松医院" transform="ref(svg,13030.607,-3239.8458)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）愛愛園医務室,熊本県天草市倉岳町棚底８５０-１０５,内科,,,9" xlink:title="（特養）愛愛園医務室" transform="ref(svg,13034.5765,-3241.6664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,蓮田医院,熊本県天草市倉岳町棚底２０２０-２,内科　呼吸器科　消化器科　胃腸科　循環器科　放射線科,,,9" xlink:title="蓮田医院" transform="ref(svg,13033.9271,-3240.8549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）梅寿荘,熊本県天草市栖本町湯船原６６１,内科,,,9" xlink:title="（特養）梅寿荘" transform="ref(svg,13027.7094,-3241.642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本原内科小児科医院,熊本県天草市栖本町湯船原７３５-１,内科　小児科,,,9" xlink:title="本原内科小児科医院" transform="ref(svg,13027.3181,-3241.6371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）新和苑,熊本県天草市新和町小宮地７６３-２,内科　外科,,,9" xlink:title="（特養）新和苑" transform="ref(svg,13018.5845,-3237.1587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市丸医院,熊本県天草市五和町城河原３-４５７,内科　胃腸科,,,9" xlink:title="市丸医院" transform="ref(svg,13014.8758,-3250.3279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新谷医院,熊本県天草市五和町鬼池１６２,内科,,,9" xlink:title="新谷医院" transform="ref(svg,13018.492,-3254.5422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）紫明寮,熊本県天草市五和町二江４６６８,内科,,,9" xlink:title="（特養）紫明寮" transform="ref(svg,13011.9359,-3254.8245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長野内科小児科医院,熊本県天草市五和町御領６４５４,内科　神経内科　呼吸器科　消化器科　循環器科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="長野内科小児科医院" transform="ref(svg,13018.9764,-3251.3456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猪口医院,熊本県天草郡苓北町坂瀬川７４８,内科　小児科,,,9" xlink:title="猪口医院" transform="ref(svg,13009.3504,-3252.9491)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荘田医院,熊本県天草市南町１-２７,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="荘田医院" transform="ref(svg,13019.206,-3245.3549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,楽洋クリニック,熊本県天草市五和町二江４４８８-５,内科　皮膚科　泌尿器科,,,9" xlink:title="楽洋クリニック" transform="ref(svg,13012.0735,-3254.5669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国民健康保険天草市立御所浦診療所,熊本県天草市御所浦町御所浦２８９１-３,内科　循環器科　小児科　外科　整形外科　眼科,,,9" xlink:title="国民健康保険天草市立御所浦診療所" transform="ref(svg,13035.6279,-3235.1064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国民健康保険天草市立御所浦北診療所,熊本県天草市御所浦町横浦７５０-１３,内科　小児科,,,9" xlink:title="国民健康保険天草市立御所浦北診療所" transform="ref(svg,13034.8548,-3236.8149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松風園医務室,熊本県天草市本渡町広瀬１６３８,内科,,,9" xlink:title="松風園医務室" transform="ref(svg,13019.1884,-3247.8028)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本渡クリニック,熊本県天草市亀場町亀川１６５４-１,形成外科　皮膚科,,,9" xlink:title="本渡クリニック" transform="ref(svg,13019.5136,-3244.0625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山内科・循環器内科クリニック,熊本県天草市太田町８-８,内科　小児科　循環器内科,,,9" xlink:title="中山内科・循環器内科クリニック" transform="ref(svg,13019.7202,-3245.086)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永芳医院,熊本県天草市栄町１２-３１,内科　小児科　泌尿器科,,,9" xlink:title="永芳医院" transform="ref(svg,13019.1635,-3245.4361)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村こども・内科クリニック,熊本県天草郡五和町二江１４７７-５７,内科　小児科,,,9" xlink:title="中村こども・内科クリニック" transform="ref(svg,13013.5207,-3254.2839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十万山クリニック,熊本県天草市本渡町広瀬５-２１,内科　小児科,,,9" xlink:title="十万山クリニック" transform="ref(svg,13020.0344,-3246.5356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）葦原会葦原医院,熊本県天草市今釜町８-１３,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）葦原会葦原医院" transform="ref(svg,13019.3901,-3246.1775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天草皮ふ科・内科,熊本県上天草市大矢野町中４４４６-３,内科　形成外科　皮膚科,,,9" xlink:title="天草皮ふ科・内科" transform="ref(svg,13042.1682,-3254.7994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮崎内科胃腸科医院,熊本県天草市亀場町亀川２５４,内科　胃腸科　循環器科　小児科,,,9" xlink:title="宮崎内科胃腸科医院" transform="ref(svg,13020.0422,-3244.3606)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やの眼科,熊本県天草市亀場町食場後山下７４０,眼科,,,9" xlink:title="やの眼科" transform="ref(svg,13017.9359,-3243.4557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こくまい耳鼻咽喉科アレルギー科クリニック,熊本県天草市中村町５-２５,アレルギー科　耳鼻いんこう科,,,9" xlink:title="こくまい耳鼻咽喉科アレルギー科クリニック" transform="ref(svg,13018.7632,-3246.8312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生クリニック,熊本県天草市諏訪町１-１,内科,,,9" xlink:title="厚生クリニック" transform="ref(svg,13018.9287,-3245.4856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）聖和園医務室,熊本県天草市下浦町２０８１-７,内科,,,9" xlink:title="地域密着型（特養）聖和園医務室" transform="ref(svg,13022.2279,-3242.4502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）シャトー天草医務室,熊本県天草市今釜町８-１３、８-５８,内科,,,9" xlink:title="地域密着型（特養）シャトー天草医務室" transform="ref(svg,13019.1957,-3246.2552)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13464.84375 -3515.625 35.15625 35.15625" go:dataArea="13464.84375 -3515.625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,なかお眼科,兵庫県西脇市蒲江３２１-１,眼科,,,9" xlink:title="なかお眼科" transform="ref(svg,13499.1252,-3500.9855)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田医院,兵庫県西脇市野村町８６５-５,内科　呼吸器科　消化器科　循環器科　小児科　外科　心臓外科　リハビリテーション科　放射線科,,,9" xlink:title="上田医院" transform="ref(svg,13496.9162,-3497.0745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじわら眼科,兵庫県西脇市西脇１２１５-２,眼科,,,9" xlink:title="ふじわら眼科" transform="ref(svg,13497.4865,-3498.0751)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やない外科胃腸科,兵庫県西脇市下戸田２７４-２,胃腸科　外科　整形外科　泌尿器科　リハビリテーション科　放射線科,,,9" xlink:title="やない外科胃腸科" transform="ref(svg,13498.0803,-3498.3757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生野医院,兵庫県西脇市野村町１２５７-１,内科,,,9" xlink:title="生野医院" transform="ref(svg,13496.3279,-3497.2038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上クリニック,兵庫県西脇市黒田庄町岡３５４-１,内科　小児科　リハビリテーション科,,,9" xlink:title="村上クリニック" transform="ref(svg,13499.5944,-3502.548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あべ眼科クリニック,兵庫県西脇市小坂町横溝１７５　２Ｆ,眼科,,,9" xlink:title="あべ眼科クリニック" transform="ref(svg,13496.13,-3499.3687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こばやし腎・泌尿器科クリニック,兵庫県西脇市小坂町１７７-１,泌尿器科　腎臓内科,,,9" xlink:title="こばやし腎・泌尿器科クリニック" transform="ref(svg,13496.148,-3499.4172)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西脇志賀クリニック,兵庫県西脇市西脇９５１アピカ西脇北棟２０１,ペインクリニック・内科　皮膚科,,,9" xlink:title="西脇志賀クリニック" transform="ref(svg,13496.8151,-3498.6062)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はやし内科クリニック,兵庫県西脇市小坂町横溝１７５,内科　循環器内科　呼吸器内科,,,9" xlink:title="はやし内科クリニック" transform="ref(svg,13496.1297,-3499.3693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西脇市健康づくりセンター,兵庫県西脇市郷瀬町６０５,内科　健診等,,,9" xlink:title="西脇市健康づくりセンター" transform="ref(svg,13496.9636,-3499.425)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ツクシクリニック,兵庫県西脇市上野東谷１１４,内科　泌尿器科,,,9" xlink:title="ツクシクリニック" transform="ref(svg,13498.0369,-3498.6091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広野整形外科,兵庫県西脇市野村町７７０-２,リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="広野整形外科" transform="ref(svg,13496.5845,-3497.0331)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おさかだ耳鼻咽喉科医院,兵庫県西脇市野村町１７９５-３４１,耳鼻いんこう科,,,9" xlink:title="おさかだ耳鼻咽喉科医院" transform="ref(svg,13496.3688,-3497.5758)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）楽寿園第２医務室,兵庫県西脇市前島町２６０-１,内科,,,9" xlink:title="（特養）楽寿園第２医務室" transform="ref(svg,13496.2081,-3502.4065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天野内科医院,兵庫県西脇市上野字芝添３１５,内科　呼吸器科　消化器科,,,9" xlink:title="天野内科医院" transform="ref(svg,13497.7747,-3498.8544)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）楽寿園医務室,兵庫県西脇市前島町２６０-１,内科,,,9" xlink:title="（特養）楽寿園医務室" transform="ref(svg,13496.2081,-3502.4065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三木医院,兵庫県西脇市大木町２８８-４,内科　循環器科　リハビリテーション科,,,9" xlink:title="三木医院" transform="ref(svg,13495.3429,-3502.0798)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田小児科医院,兵庫県西脇市和布町字出嶋１６７-３１,小児科,,,9" xlink:title="藤田小児科医院" transform="ref(svg,13497.4206,-3498.0217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河原医院,兵庫県西脇市上王子町１４３-３０,内科　胃腸科　循環器科　リハビリテーション科,,,9" xlink:title="河原医院" transform="ref(svg,13492.4644,-3496.8457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,冨原循環器科・内科,兵庫県西脇市高田井町１０３６,内科　循環器科,,,9" xlink:title="冨原循環器科・内科" transform="ref(svg,13496.2859,-3498.6197)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南整形外科,兵庫県西脇市和布町１７０-３,整形外科　リハビリテーション科,,,9" xlink:title="南整形外科" transform="ref(svg,13497.3304,-3497.9562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本耳鼻咽喉科医院,兵庫県西脇市市原町１７-１,耳鼻いんこう科,,,9" xlink:title="山本耳鼻咽喉科医院" transform="ref(svg,13495.3821,-3501.7911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大隅医院,兵庫県西脇市黒田庄町石原２６５-１,内科　麻酔科,,,9" xlink:title="大隅医院" transform="ref(svg,13498.1194,-3505.0361)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,折戸整形外科医院,兵庫県西脇市野村町１７９５-４２３,外科　整形外科　リハビリテーション科,,,9" xlink:title="折戸整形外科医院" transform="ref(svg,13496.3155,-3497.5803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,皮膚科小澤医院,兵庫県西脇市下戸田２７０-３８,皮膚科,,,9" xlink:title="皮膚科小澤医院" transform="ref(svg,13498.0206,-3498.253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はたざわ医院,兵庫県西脇市日野町１５８,内科　胃腸科　循環器科　小児科　外科　肛門科　リハビリテーション科,,,9" xlink:title="はたざわ医院" transform="ref(svg,13496.2345,-3500.7159)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠藤産婦人科医院,兵庫県西脇市野村町１５５８-３,産科　婦人科,,,9" xlink:title="遠藤産婦人科医院" transform="ref(svg,13496.2403,-3497.4285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内橋医院,兵庫県西脇市落方町４３１-３,胃腸科　外科　麻酔科,,,9" xlink:title="内橋医院" transform="ref(svg,13491.5113,-3497.5465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丸野外科整形外科クリニック,兵庫県西脇市上野９６,消化器内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="丸野外科整形外科クリニック" transform="ref(svg,13498.0448,-3498.7074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニック和田,兵庫県西脇市津万３１５-３,内科　小児科　外科,,,9" xlink:title="クリニック和田" transform="ref(svg,13499.1071,-3499.378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いずみ寮医務室,兵庫県西脇市八坂町２１３-２１,内科,,,9" xlink:title="いずみ寮医務室" transform="ref(svg,13494.52,-3496.7318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みぎわ園医務室,兵庫県西脇市八坂町平池の下２１３-１,内科,,,9" xlink:title="みぎわ園医務室" transform="ref(svg,13494.5618,-3496.6114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲見胃腸科外科,兵庫県三木市大村８７１-３,内科　胃腸科　外科　整形外科,,,9" xlink:title="稲見胃腸科外科" transform="ref(svg,13497.2163,-3480.8775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚本皮フ科,兵庫県三木市平田１１９-２,皮膚科,,,9" xlink:title="塚本皮フ科" transform="ref(svg,13497.3918,-3480.4849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,復井診療所,兵庫県小野市復井町９１６-１２,内科　脳神経外科　リハビリテーション科,,,9" xlink:title="復井診療所" transform="ref(svg,13493.5773,-3489.9594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野レディースクリニック,兵庫県小野市西本町５３８-３,産科　婦人科,,,9" xlink:title="小野レディースクリニック" transform="ref(svg,13493.3626,-3484.7174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡田整形外科,兵庫県小野市王子町８５２-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="岡田整形外科" transform="ref(svg,13493.3748,-3485.632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わかば・産婦人科,兵庫県小野市敷地町１５００-５,産婦人科,,,9" xlink:title="わかば・産婦人科" transform="ref(svg,13493.3851,-3485.8806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,私立育が丘クリニック,兵庫県小野市樫山町字水谷拍子谷１４７５-６８９,内科　胃腸科　外科　整形外科　放射線科,,,9" xlink:title="私立育が丘クリニック" transform="ref(svg,13495.1988,-3482.1374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊青野原駐屯地医務室,兵庫県小野市桜台１,内科　外科　歯科,,,9" xlink:title="陸上自衛隊青野原駐屯地医務室" transform="ref(svg,13491.8393,-3491.1595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）なごみの杜医務室,兵庫県小野市天神町９７３,内科,,,9" xlink:title="（特養）なごみの杜医務室" transform="ref(svg,13495.9668,-3484.5732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平井小児科、アレルギー科医院,兵庫県小野市黒川町１０３-１,小児科　アレルギー科,,,9" xlink:title="平井小児科、アレルギー科医院" transform="ref(svg,13494.1508,-3485.0435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平出医院,兵庫県小野市神明町２１３,耳鼻いんこう科,,,9" xlink:title="平出医院" transform="ref(svg,13493.5056,-3484.3575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いのうえ耳鼻咽喉科クリニック,兵庫県小野市黒川町１７６８,耳鼻咽喉科,,,9" xlink:title="いのうえ耳鼻咽喉科クリニック" transform="ref(svg,13494.0884,-3485.2421)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かごたに眼科,兵庫県小野市黒川町１８０７-４,眼科,,,9" xlink:title="かごたに眼科" transform="ref(svg,13493.9709,-3485.1674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野市立保健センター,兵庫県小野市王子町８０１,内科　健診等,,,9" xlink:title="小野市立保健センター" transform="ref(svg,13493.0085,-3485.271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦クリニック,兵庫県小野市天神町８１４-１,耳鼻いんこう科　内科　リウマチ科,,,9" xlink:title="三浦クリニック" transform="ref(svg,13494.5489,-3484.5705)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ぬく森,兵庫県小野市久保木町字出晴１５６１-２４,内科　リハビリテーション科,,,9" xlink:title="（特養）ぬく森" transform="ref(svg,13495.6596,-3487.4666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡クリニック,兵庫県小野市神明町１８３-８,内科　胃腸科　外科　泌尿器科　肛門科,,,9" xlink:title="福岡クリニック" transform="ref(svg,13493.6492,-3484.2869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口内科医院,兵庫県小野市本町６４８-６,内科　消化器内科　糖尿病内科　呼吸器内科　循環器内科,,,9" xlink:title="山口内科医院" transform="ref(svg,13494.0833,-3484.7147)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,オリーブ皮フ科,兵庫県小野市黒川町１７１９,皮膚科,,,9" xlink:title="オリーブ皮フ科" transform="ref(svg,13494.0496,-3485.3592)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まえだクリニック,兵庫県小野市大島町７１０-１,内科　消化器科　外科,,,9" xlink:title="まえだクリニック" transform="ref(svg,13492.8364,-3483.71)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いまむら皮膚科クリニック,兵庫県小野市敷地町１３８２-１５５,皮膚科,,,9" xlink:title="いまむら皮膚科クリニック" transform="ref(svg,13493.5711,-3486.2993)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水内科クリニック,兵庫県小野市敷地町１５００-６６,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="清水内科クリニック" transform="ref(svg,13493.2661,-3485.8059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡村医院,兵庫県小野市敷地町１６０２-１,内科　呼吸器科　胃腸科　外科　皮膚科　肛門科,,,9" xlink:title="岡村医院" transform="ref(svg,13493.6969,-3486.1967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふたばの里医務室,兵庫県小野市二葉町８０-１２３,内科,,,9" xlink:title="ふたばの里医務室" transform="ref(svg,13494.6528,-3483.95)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,篠原医院,兵庫県小野市粟生町１７７８-２,内科　リハビリテーション科,,,9" xlink:title="篠原医院" transform="ref(svg,13490.8611,-3485.7437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井岡医院,兵庫県小野市菅田町９００,内科　外科　皮膚科　肛門科　リハビリテーション科,,,9" xlink:title="井岡医院" transform="ref(svg,13497.6397,-3487.9283)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひまわりクリニック,兵庫県小野市神明町２１６-１,内科,,,9" xlink:title="ひまわりクリニック" transform="ref(svg,13493.4417,-3484.3712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つぼた小児科医院,兵庫県小野市西本町４６６-７,内科　小児科　アレルギー科,,,9" xlink:title="つぼた小児科医院" transform="ref(svg,13493.4397,-3484.4279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小島クリニック,兵庫県小野市王子町９３７-３,内科　放射線科,,,9" xlink:title="小島クリニック" transform="ref(svg,13493.5064,-3485.0777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏木医院,兵庫県小野市船木町字前田２,内科　消化器内科　小児科,,,9" xlink:title="柏木医院" transform="ref(svg,13498.5011,-3488.1866)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松尾内科,兵庫県小野市黒川町５７４,内科　胃腸科　呼吸器科　循環器科,,,9" xlink:title="松尾内科" transform="ref(svg,13494.3909,-3485.2172)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北野整形外科・外科,兵庫県小野市黒川町１４-３,内科　リウマチ科　外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="北野整形外科・外科" transform="ref(svg,13493.8557,-3484.8711)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）粟生逢花苑医務室,兵庫県小野市粟生町字前田３６１０-１,内科,,,9" xlink:title="（特養）粟生逢花苑医務室" transform="ref(svg,13490.8451,-3485.6938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松原眼科医院,兵庫県小野市中町２７５-１,眼科,,,9" xlink:title="松原眼科医院" transform="ref(svg,13493.8242,-3484.3986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつい子どもクリニック,兵庫県小野市敷地町１５００-１３,小児科　アレルギー科,,,9" xlink:title="まつい子どもクリニック" transform="ref(svg,13493.3558,-3485.8682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林眼科,兵庫県小野市敷地町１４０３-６,眼科,,,9" xlink:title="小林眼科" transform="ref(svg,13493.5314,-3486.1957)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡田内科医院,兵庫県小野市市場町字寺ノ下１２０５-１,内科　循環器科,,,9" xlink:title="岡田内科医院" transform="ref(svg,13493.6988,-3483.1315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,依藤診療所,兵庫県小野市本町２５４-１,内科　小児科　リハビリテーション科,,,9" xlink:title="依藤診療所" transform="ref(svg,13493.4848,-3484.7472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）青山荘医務室,兵庫県小野市復井町６７３-２０,内科　脳神経外科,,,9" xlink:title="（特養）青山荘医務室" transform="ref(svg,13493.4804,-3490.0169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中皮フ科医院,兵庫県小野市中町２９１-１,皮膚科,,,9" xlink:title="田中皮フ科医院" transform="ref(svg,13493.9334,-3484.3918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中内科医院,兵庫県小野市新部町字豊福４０８-２,内科,,,9" xlink:title="田中内科医院" transform="ref(svg,13492.0728,-3488.0885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）兵庫青野原病院所属所診療部,兵庫県小野市南青野,内科　外科　歯科,,,9" xlink:title="厚生労働省第二（共済）兵庫青野原病院所属所診療部" transform="ref(svg,13490.3907,-3488.017)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おりた外科胃腸科医院,兵庫県加西市北条町古坂６-１７,内科　胃腸科　外科　整形外科　リハビリテーション科　肛門科,,,9" xlink:title="おりた外科胃腸科医院" transform="ref(svg,13484.7055,-3492.7334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まえだ内科神経内科クリニック,兵庫県加西市野上町２７４,内科　神経内科,,,9" xlink:title="まえだ内科神経内科クリニック" transform="ref(svg,13488.7243,-3494.3025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐竹医院,兵庫県加西市北条町北条１６,内科　消化器内科,,,9" xlink:title="佐竹医院" transform="ref(svg,13483.3652,-3492.891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加西市健康福祉会館診療所,兵庫県加西市北条町古坂１０７２-１４,内科　小児科　歯科,,,9" xlink:title="加西市健康福祉会館診療所" transform="ref(svg,13484.858,-3492.4487)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀井内科医院,兵庫県加西市網引町５１８,内科　リハビリテーション科,,,9" xlink:title="堀井内科医院" transform="ref(svg,13488.0896,-3486.0828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安積医院,兵庫県加西市西剣坂町９-１,内科　循環器内科,,,9" xlink:title="安積医院" transform="ref(svg,13480.5951,-3489.4675)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みのりクリニック,兵庫県加西市下宮木町字玉之坪５４７-１,内科　外科　リハビリテーション科　放射線科,,,9" xlink:title="みのりクリニック" transform="ref(svg,13487.8476,-3488.7344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかいこどもクリニック,兵庫県加西市北条町北条２８-１アスティアかさい２Ｆ,小児科　アレルギー科,,,9" xlink:title="さかいこどもクリニック" transform="ref(svg,13483.2598,-3493.0277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒木医院,兵庫県加西市北条町古坂１-２,内科　皮膚科　アレルギー科,,,9" xlink:title="荒木医院" transform="ref(svg,13484.1885,-3492.6663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田尻内科循環器科,兵庫県加西市北条町古坂６７１,内科　循環器科,,,9" xlink:title="田尻内科循環器科" transform="ref(svg,13484.5648,-3492.9314)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あだち眼科,兵庫県加西市北条町古坂７-２３,眼科,,,9" xlink:title="あだち眼科" transform="ref(svg,13484.5099,-3492.7975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設ナーシングピア加西,兵庫県加西市国正町１４０２-１,内科,,,9" xlink:title="障害者支援施設ナーシングピア加西" transform="ref(svg,13492.7694,-3494.5085)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西村耳鼻咽喉科,兵庫県加西市北条町北条２８-１アスティアかさい２Ｆ,耳鼻いんこう科,,,9" xlink:title="西村耳鼻咽喉科" transform="ref(svg,13483.2748,-3493.0422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いまだ眼科,兵庫県加西市北条町北条２８-１アスティアかさい２Ｆ,眼科,,,9" xlink:title="いまだ眼科" transform="ref(svg,13483.2722,-3493.0277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いずみ泌尿器科,兵庫県加西市北条町古坂７-１１７,泌尿器科,,,9" xlink:title="いずみ泌尿器科" transform="ref(svg,13484.4648,-3492.6882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大杉内科医院,兵庫県加西市別府町乙１１-２,内科　胃腸科　呼吸器科　循環器科　リハビリテーション科,,,9" xlink:title="大杉内科医院" transform="ref(svg,13490.4519,-3492.1332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,春夏秋冬診療所,兵庫県加西市坂本町１０２７-５,内科,,,9" xlink:title="春夏秋冬診療所" transform="ref(svg,13482.5332,-3487.13)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京谷医院,兵庫県加西市北条町横尾１０９１,精神科　神経科　心臓血管外科,,,9" xlink:title="京谷医院" transform="ref(svg,13484.0945,-3492.8732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なるせ皮膚科,兵庫県加西市北条町古坂７-１２,皮膚科　アレルギー科　形成外科,,,9" xlink:title="なるせ皮膚科" transform="ref(svg,13484.4848,-3492.8968)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野寺医院,兵庫県加西市王子町７７-３,内科　循環器科,,,9" xlink:title="小野寺医院" transform="ref(svg,13483.9528,-3488.7404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）第二サルビア荘,兵庫県加西市国正町字四辻ノ上１９３１-２,内科,,,9" xlink:title="（特養）第二サルビア荘" transform="ref(svg,13493.3393,-3494.3476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さたけ小児科,兵庫県加西市北条町横尾８５７,小児科,,,9" xlink:title="さたけ小児科" transform="ref(svg,13483.8533,-3492.8927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西村医院,兵庫県加西市中野町４８-１,内科　小児科　外科,,,9" xlink:title="西村医院" transform="ref(svg,13487.684,-3488.4815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂部整形外科,兵庫県加西市北条町西高室５３３-１,内科　リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="坂部整形外科" transform="ref(svg,13483.6415,-3492.0165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさじ医院,兵庫県加西市若井町２８４１-４,内科　外科,,,9" xlink:title="あさじ医院" transform="ref(svg,13483.6255,-3496.5955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳岡内科,兵庫県加西市北条町北条８６４-１,内科,,,9" xlink:title="徳岡内科" transform="ref(svg,13483.4083,-3493.427)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加西の里付属診療所,兵庫県加西市段下町字奥山８４８-１４,内科　外科,,,9" xlink:title="加西の里付属診療所" transform="ref(svg,13484.4427,-3490.7822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横田内科医院,兵庫県加西市北条町東南１１６-１,内科,,,9" xlink:title="横田内科医院" transform="ref(svg,13483.2359,-3492.497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,社田仲クリニック,兵庫県加東市東古瀬９８-１,内科（人工透析）　整形外科,,,9" xlink:title="社田仲クリニック" transform="ref(svg,13495.1212,-3488.7312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつむら泌尿器科,兵庫県加東市上中３-４８,泌尿器科,,,9" xlink:title="まつむら泌尿器科" transform="ref(svg,13496.1902,-3492.8126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上医院,兵庫県加東市沢部１７４-１,内科　小児科　リハビリテーション科,,,9" xlink:title="井上医院" transform="ref(svg,13495.5233,-3490.0455)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンスマイル北野,兵庫県加東市北野５０-１,内科　外科,,,9" xlink:title="サンスマイル北野" transform="ref(svg,13495.4505,-3493.4024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形整形外科,兵庫県加東市上中２-７３,リウマチ科　外科　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="山形整形外科" transform="ref(svg,13496.1446,-3492.6873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加東市保健センター,兵庫県加東市社１０,内科　健診等,,,9" xlink:title="加東市保健センター" transform="ref(svg,13497.3681,-3491.8571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,門田眼科医院,兵庫県加東市上中３-５６,眼科,,,9" xlink:title="門田眼科医院" transform="ref(svg,13496.1781,-3492.7295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森下クリニック,兵庫県加東市社５１２-１,内科　小児科,,,9" xlink:title="森下クリニック" transform="ref(svg,13497.0479,-3491.4933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,嬉野診療所,兵庫県加東市山国２０１４-２３９,内科　外科　リハビリテーション科,,,9" xlink:title="嬉野診療所" transform="ref(svg,13498.4173,-3491.415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉川医院,兵庫県加東市社８２３,内科　消化器科,,,9" xlink:title="吉川医院" transform="ref(svg,13496.5281,-3491.4553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふるもとクリニック,兵庫県加東市社１０５-６,内科　消化器科　外科,,,9" xlink:title="ふるもとクリニック" transform="ref(svg,13497.4517,-3491.578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桂医院,兵庫県加東市大門３５８,内科　外科　リハビリテーション科,,,9" xlink:title="桂医院" transform="ref(svg,13494.2092,-3489.8111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）フロイデ滝野医務室,兵庫県加東市下滝野字高倉１２８３-３７,内科　精神科　神経科　皮膚科,,,9" xlink:title="（特養）フロイデ滝野医務室" transform="ref(svg,13493.4358,-3494.6424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂本医院,兵庫県加東市上中３-２９,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="坂本医院" transform="ref(svg,13496.2157,-3492.82)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ますむら医院,兵庫県加東市上滝野６１３-１,内科　神経内科　心臓血管外科　外科　脳神経外科　リハビリテーション科,,,9" xlink:title="ますむら医院" transform="ref(svg,13495.9914,-3494.3137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桃李園診療所,兵庫県加東市稲尾３８３-４０,内科　整形外科　リハビリテーション科,,,9" xlink:title="桃李園診療所" transform="ref(svg,13498.125,-3493.3703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本小児科医院,兵庫県加東市社３８４-１,小児科,,,9" xlink:title="松本小児科医院" transform="ref(svg,13496.9094,-3491.349)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田渕医院,兵庫県加東市新町１８０,内科　呼吸器科　胃腸科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="田渕医院" transform="ref(svg,13496.5556,-3494.1213)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,トッパングループ（健保）滝野診療所,兵庫県加東市河高３５５-４,内科,,,9" xlink:title="トッパングループ（健保）滝野診療所" transform="ref(svg,13493.1482,-3492.6274)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パナソニック加東健康管理室,兵庫県加東市佐保５,内科　外科,,,9" xlink:title="パナソニック加東健康管理室" transform="ref(svg,13494.6037,-3491.3737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北播肢体不自由児機能回復訓練施設事務組合わかあゆ園,兵庫県加東市下滝野１２８３-１,小児科　整形外科,,,9" xlink:title="北播肢体不自由児機能回復訓練施設事務組合わかあゆ園" transform="ref(svg,13493.4157,-3494.3341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤羽目医院,兵庫県加東市北野６４１-１,内科　精神科　神経科,,,9" xlink:title="赤羽目医院" transform="ref(svg,13496.482,-3493.8282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うらべ耳鼻咽喉科医院,兵庫県加東市上中２-２４,耳鼻いんこう科　気管食道科,,,9" xlink:title="うらべ耳鼻咽喉科医院" transform="ref(svg,13496.4554,-3492.6308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,曽野医院,兵庫県加東市東古瀬２０-１,内科　小児科　リハビリテーション科,,,9" xlink:title="曽野医院" transform="ref(svg,13495.3061,-3489.1936)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富士通周辺機（株）健康管理室,兵庫県加東市佐保３５,内科　外科,,,9" xlink:title="富士通周辺機（株）健康管理室" transform="ref(svg,13494.9409,-3490.8594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,兵庫県北播磨県民局加東健康福祉事務所（加東保健所）,兵庫県加東市社字西柿１０７５-２,内科,,,9" xlink:title="兵庫県北播磨県民局加東健康福祉事務所（加東保健所）" transform="ref(svg,13495.8221,-3491.5843)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多可町健康福祉センター,兵庫県多可郡多可町中区岸上２８１-５１,内科　健診等,,,9" xlink:title="多可町健康福祉センター" transform="ref(svg,13491.914,-3505.6449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おひさまにこにこクリニック,兵庫県多可郡多可町中区天田４３-１,小児科　児童精神科　小児心療内科,,,9" xlink:title="おひさまにこにこクリニック" transform="ref(svg,13492.5614,-3505.9486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながお整形外科,兵庫県多可郡多可町中区安坂７１-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="ながお整形外科" transform="ref(svg,13492.6535,-3504.6234)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）グリーンヴィラ妙見医務室,兵庫県多可郡多可町中区牧野字国木谷１６６-２５,ペインクリニック・内科　皮膚科,,,9" xlink:title="（特養）グリーンヴィラ妙見医務室" transform="ref(svg,13493.2824,-3507.6341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多可町国民健康保険八千代診療所,兵庫県多可郡多可町八千代区下村１０９-１,内科　消化器科　循環器科,,,9" xlink:title="多可町国民健康保険八千代診療所" transform="ref(svg,13488.0559,-3503.1523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多可町立杉原谷診療所,兵庫県多可郡多可町加美区市原４４,内科　小児科,,,9" xlink:title="多可町立杉原谷診療所" transform="ref(svg,13492.3209,-3513.6456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多可町立松井庄診療所,兵庫県多可郡多可町加美区寺内２５１,内科　小児科　外科,,,9" xlink:title="多可町立松井庄診療所" transform="ref(svg,13489.0221,-3508.29)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,兵庫県多可郡多可町八千代区中野間１１０７-３,内科　胃腸科　外科,,,9" xlink:title="伊藤医院" transform="ref(svg,13491.1795,-3499.7393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤内科消化器科医院,兵庫県多可郡多可町中区中村町３９７,内科　消化器科,,,9" xlink:title="近藤内科消化器科医院" transform="ref(svg,13492.5359,-3504.6924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本医院,兵庫県多可郡多可町中区森本２３-４,内科　胃腸科　循環器科,,,9" xlink:title="山本医院" transform="ref(svg,13493.226,-3503.8039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢持医院,兵庫県多可郡多可町中区安坂４０,内科　消化器科　外科　リハビリテーション科,,,9" xlink:title="矢持医院" transform="ref(svg,13492.6014,-3504.4559)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヘルシービラ加美診療所,兵庫県多可郡多可町加美区多田字宮前４３０-１０,内科　外科,,,9" xlink:title="ヘルシービラ加美診療所" transform="ref(svg,13488.4277,-3510.8045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しあわせ荘診療所,兵庫県多可郡多可町中区鍛冶屋７６３-３,内科,,,9" xlink:title="しあわせ荘診療所" transform="ref(svg,13493.1277,-3507.0238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆりの荘診療所,兵庫県多可郡多可町八千代区俵田１１１-２７,内科　外科,,,9" xlink:title="（特養）ゆりの荘診療所" transform="ref(svg,13489.192,-3501.5039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立岩医院,兵庫県神崎郡神河町寺前３３-１,内科　小児科　消化器科　呼吸器科,,,9" xlink:title="立岩医院" transform="ref(svg,13474.1653,-3506.4612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福田眼科,兵庫県神崎郡神河町福本８５１,眼科,,,9" xlink:title="福田眼科" transform="ref(svg,13476.7976,-3504.7599)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本医院,兵庫県神崎郡神河町福本５６２-１,内科　小児科,,,9" xlink:title="山本医院" transform="ref(svg,13477.1506,-3505.7576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,町立上小田診療所,兵庫県神崎郡神河町上小田４１２-１,内科　小児科,,,9" xlink:title="町立上小田診療所" transform="ref(svg,13467.6924,-3511.071)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,町立川上診療所,兵庫県神崎郡神河町川上４７７-１,内科　小児科,,,9" xlink:title="町立川上診療所" transform="ref(svg,13471.0128,-3515.492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,町立大畑診療所,兵庫県神崎郡神河町大畑３１９-１,内科,,,9" xlink:title="町立大畑診療所" transform="ref(svg,13485.2247,-3512.9622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別養護老人ホームあやめ苑医務室,兵庫県神崎郡神河町比延２７７,内科　外科　整形外科,,,9" xlink:title="特別養護老人ホームあやめ苑医務室" transform="ref(svg,13474.0165,-3506.0303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別養護老人ホームうぐいす荘医務室,兵庫県神崎郡神河町福本１２４１,内科,,,9" xlink:title="特別養護老人ホームうぐいす荘医務室" transform="ref(svg,13477.2833,-3505.4225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神河町保健センター,兵庫県神崎郡神河町粟賀町６３０,不明,,,9" xlink:title="神河町保健センター" transform="ref(svg,13475.9922,-3495.109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田隅内科,兵庫県神崎郡市川町甘地８０４-１２,内科　循環器科　消化器内科　放射線科,,,9" xlink:title="田隅内科" transform="ref(svg,13475.8243,-3498.9367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野整形外科,兵庫県神崎郡市川町西川辺６１２,整形外科　リハビリテーション科,,,9" xlink:title="大野整形外科" transform="ref(svg,13476.6862,-3498.3856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤川医院,兵庫県神崎郡市川町屋形５２０-１,内科　消化器内科　循環器科　小児科　放射線科,,,9" xlink:title="藤川医院" transform="ref(svg,13475.7416,-3502.3358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡医院,兵庫県神崎郡市川町下瀬加１２０５-１,内科　外科　小児科,,,9" xlink:title="松岡医院" transform="ref(svg,13479.179,-3498.5036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木村医院,兵庫県神崎郡市川町東川辺８９１-１,内科　眼科,,,9" xlink:title="木村医院" transform="ref(svg,13477.0455,-3498.8692)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別養護老人ホームひまわり荘,兵庫県神崎郡市川町下牛尾６８０,内科,,,9" xlink:title="特別養護老人ホームひまわり荘" transform="ref(svg,13482.0997,-3500.1372)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市川町保健福祉センター,兵庫県神崎郡市川町甘地３２３-１,不明,,,9" xlink:title="市川町保健福祉センター" transform="ref(svg,13476.0825,-3499.0726)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,城谷医院,兵庫県神崎郡福崎町八千種２２５２,内科　小児科　リハビリテーション科,,,9" xlink:title="城谷医院" transform="ref(svg,13478.2681,-3493.1009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ミナミ整形外科内科,兵庫県神崎郡福崎町南田原２９７１-１,整形外科　リハビリテーション科　リウマチ科　内科　循環器科　外科,,,9" xlink:title="ミナミ整形外科内科" transform="ref(svg,13476.0051,-3494.5978)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アキタケ外科医院,兵庫県神崎郡福崎町福崎新７３-３,外科　整形外科　胃腸科　肛門科,,,9" xlink:title="アキタケ外科医院" transform="ref(svg,13475.0618,-3495.5328)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田クリニック,兵庫県神崎郡福崎町福田２９４-５,内科　外科　消化器科　リハビリテーション科　循環器科,,,9" xlink:title="吉田クリニック" transform="ref(svg,13474.9801,-3495.8486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田医院,兵庫県神崎郡福崎町西田原１４３０-３,内科　精神科　神経科,,,9" xlink:title="山田医院" transform="ref(svg,13476.151,-3495.0839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡産婦人科クリニック,兵庫県神崎郡福崎町西田原１１４９-１,産婦人科（分娩は不可）,,,9" xlink:title="松岡産婦人科クリニック" transform="ref(svg,13476.0689,-3495.6566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかやす眼科クリニック,兵庫県神崎郡福崎南田原２９３６,眼科,,,9" xlink:title="たかやす眼科クリニック" transform="ref(svg,13475.7451,-3494.5014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,マサキ医院,兵庫県神崎郡福崎町西田原１０４,内科　小児科,,,9" xlink:title="マサキ医院" transform="ref(svg,13476.1993,-3496.1789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三宅皮膚科医院,兵庫県神崎郡福崎町西田原１１６０-４,皮膚科　アレルギー科,,,9" xlink:title="三宅皮膚科医院" transform="ref(svg,13475.9733,-3495.7064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本じゅん整形外科,兵庫県神崎郡福崎町南田原２９３８,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="橋本じゅん整形外科" transform="ref(svg,13475.9107,-3494.9814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田村眼科,兵庫県神崎郡福崎町福崎新１３２,眼科,,,9" xlink:title="田村眼科" transform="ref(svg,13475.0962,-3495.2597)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,牧耳鼻咽喉科医院,兵庫県神崎郡福崎町西治５００,耳鼻いんこう科,,,9" xlink:title="牧耳鼻咽喉科医院" transform="ref(svg,13474.2228,-3495.4023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,トッパングループ健康保険組合福崎診療所,兵庫県神崎郡福崎町高橋２９０-２９,内科　歯科,,,9" xlink:title="トッパングループ健康保険組合福崎診療所" transform="ref(svg,13473.2175,-3493.9193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡クリニック,兵庫県神崎郡福崎町西田原１１４９-１,内科　小児科　呼吸器科　循環器科,,,9" xlink:title="松岡クリニック" transform="ref(svg,13476.0689,-3495.6566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別養護老人ホームサルビア荘,兵庫県神崎郡福崎町大貫５８０,内科　精神科　神経科,,,9" xlink:title="特別養護老人ホームサルビア荘" transform="ref(svg,13478.5543,-3494.4634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおにしクリニック,兵庫県神崎郡福崎町西治１４８１,内科　神経内科　歯科　矯正歯科　小児歯科,,,9" xlink:title="おおにしクリニック" transform="ref(svg,13474.0177,-3495.3683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福崎町養護老人ホーム福寿園診療所,兵庫県神崎郡福崎町西田原１０３７,内科　外科,,,9" xlink:title="福崎町養護老人ホーム福寿園診療所" transform="ref(svg,13476.4048,-3495.7212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福崎町保健センター,兵庫県神崎郡福崎町西田原１３９７-１,不明,,,9" xlink:title="福崎町保健センター" transform="ref(svg,13475.9937,-3495.111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,兵庫県福崎保健所,兵庫県神崎郡福崎町西田原２３５,内科,,,9" xlink:title="兵庫県福崎保健所" transform="ref(svg,13476.1618,-3495.814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宗実医院,兵庫県姫路市延末１-１０７,内科　小児科　麻酔科,,,9" xlink:title="宗実医院" transform="ref(svg,13468.1458,-3482.4396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宗實外科,兵庫県姫路市延末１-１０７,外科　麻酔科　リハビリテーション科,,,9" xlink:title="宗實外科" transform="ref(svg,13468.1458,-3482.4396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田脳神経外科医院,兵庫県姫路市東辻井４-１０-１６,脳神経外科　リハビリテーション科,,,9" xlink:title="山田脳神経外科医院" transform="ref(svg,13467.5101,-3484.8062)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤整形外科,兵庫県姫路市南今宿６-３,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="加藤整形外科" transform="ref(svg,13467.2217,-3483.6636)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺井胃腸科外科,兵庫県姫路市大黒壱丁町１０３,胃腸科　外科　肛門科　リハビリテーション科,,,9" xlink:title="寺井胃腸科外科" transform="ref(svg,13470.0402,-3483.4728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立岩産婦人科医院,兵庫県姫路市飾磨区構４-１８９,産婦人科,,,9" xlink:title="立岩産婦人科医院" transform="ref(svg,13466.6156,-3481.1903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊姫路駐屯地医務室,兵庫県姫路市峰南町１-７０,内科　皮膚科　歯科,,,9" xlink:title="陸上自衛隊姫路駐屯地医務室" transform="ref(svg,13470.1877,-3486.0002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平田医院,兵庫県姫路市八代富士才町７４０-３,産婦人科　皮膚科,,,9" xlink:title="平田医院" transform="ref(svg,13469.8928,-3484.5505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,信和内科クリニック,兵庫県姫路市砥堀３２９-２,内科　呼吸器科　消化器科　放射線科,,,9" xlink:title="信和内科クリニック" transform="ref(svg,13472.2015,-3486.3542)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こうのとり会西川産婦人科,兵庫県姫路市花田町一本松１６５-１,産科　婦人科,,,9" xlink:title="（医）こうのとり会西川産婦人科" transform="ref(svg,13472.2737,-3482.6343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおたレディースクリニック,兵庫県姫路市砥堀２２９-１,産科　婦人科,,,9" xlink:title="おおたレディースクリニック" transform="ref(svg,13472.2498,-3486.4801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路少年刑務所医務課診療所,兵庫県姫路市岩端町４３８,内科,,,9" xlink:title="姫路少年刑務所医務課診療所" transform="ref(svg,13468.0691,-3484.1329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田産婦人科医院,兵庫県姫路市西今宿２-２-１０,産科　婦人科,,,9" xlink:title="太田産婦人科医院" transform="ref(svg,13465.8765,-3484.3614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田クリニック,兵庫県姫路市御立西５-１６-６,消化器科　外科　肛門科,,,9" xlink:title="山田クリニック" transform="ref(svg,13466.4971,-3486.4069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丸尾外科医院,兵庫県姫路市夢前町前之庄２１９７-１５,外科　胃腸外科　整形外科,,,9" xlink:title="丸尾外科医院" transform="ref(svg,13468.2892,-3497.5847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上医院,兵庫県姫路市香寺町岩部２３５-１,内科　外科　整形外科　麻酔科　胃腸科,,,9" xlink:title="井上医院" transform="ref(svg,13474.0996,-3491.9236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金居産婦人科,兵庫県姫路市香寺町中仁野１６６-８,産婦人科,,,9" xlink:title="金居産婦人科" transform="ref(svg,13473.5799,-3490.5344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹村整形外科医院,兵庫県姫路市香寺町中仁野２５７-２,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="竹村整形外科医院" transform="ref(svg,13473.6383,-3490.764)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日並内科・外科医院,兵庫県姫路市香寺町犬飼５０２,内科　麻酔科　胃腸内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="日並内科・外科医院" transform="ref(svg,13473.4428,-3490.023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,出口産婦人科,兵庫県姫路市西庄３８４-１,産婦人科,,,9" xlink:title="出口産婦人科" transform="ref(svg,13466.4593,-3483.0525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大室整形外科脊椎・関節クリニック,兵庫県姫路市中地３７１,整形外科,,,9" xlink:title="大室整形外科脊椎・関節クリニック" transform="ref(svg,13467.0098,-3482.0507)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中林産婦人科クリニック,兵庫県姫路市姫路市白国１-３-３０,産婦人科（産科・婦人科・不妊治療）,,,9" xlink:title="中林産婦人科クリニック" transform="ref(svg,13470.7332,-3485.7274)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱電機（株）姫路製作所診療所,兵庫県姫路市千代田町８４０,内科,,,9" xlink:title="三菱電機（株）姫路製作所診療所" transform="ref(svg,13467.7614,-3482.9883)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）姫路医療センター所属所,兵庫県姫路市本町６８,内科　小児科,,,9" xlink:title="厚生労働省第二（共済）姫路医療センター所属所" transform="ref(svg,13469.8229,-3483.8328)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路市立四郷診療所,兵庫県姫路市四郷町坂元２５７,内科　小児科,,,9" xlink:title="姫路市立四郷診療所" transform="ref(svg,13472.2576,-3481.0972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八幡内科医院,兵庫県姫路市船橋町６-５-８,内科　胃腸内科　放射線科,,,9" xlink:title="八幡内科医院" transform="ref(svg,13467.7319,-3483.495)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,澤田医院,兵庫県姫路市龍野町１-８,小児科　内科,,,9" xlink:title="澤田医院" transform="ref(svg,13468.4276,-3483.6256)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路合同貨物自動車（株）診療所,兵庫県姫路市城東町清水６,内科,,,9" xlink:title="姫路合同貨物自動車（株）診療所" transform="ref(svg,13470.9974,-3483.5828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,辰巳内科医院,兵庫県姫路市飯田３-９７,内科　循環器科　胃腸科　放射線科,,,9" xlink:title="辰巳内科医院" transform="ref(svg,13467.5061,-3481.3089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）ニチリン診療所,兵庫県姫路市別所町佐土１１１８,内科　神経科,,,9" xlink:title="（株）ニチリン診療所" transform="ref(svg,13474.5429,-3480.5871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江原医院,兵庫県姫路市北条口２-７７,皮膚科　性病科,,,9" xlink:title="江原医院" transform="ref(svg,13469.5351,-3482.9701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須藤内科医院,兵庫県姫路市御国野町御着３１６-１８,内科　小児科,,,9" xlink:title="須藤内科医院" transform="ref(svg,13473.6368,-3481.7738)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森内科医院,兵庫県姫路市嵐山町４-１,内科,,,9" xlink:title="森内科医院" transform="ref(svg,13468.3047,-3484.073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山彦ホーム診療所,兵庫県姫路市花田町加納原田１５５,内科　心臓内科,,,9" xlink:title="山彦ホーム診療所" transform="ref(svg,13472.3812,-3482.8395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井村医院,兵庫県姫路市塩町２０３,皮膚科,,,9" xlink:title="井村医院" transform="ref(svg,13468.9198,-3483.1191)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金沢小児科医院,兵庫県姫路市伊伝居馬場先２９-１１,小児科　内科,,,9" xlink:title="金沢小児科医院" transform="ref(svg,13470.0378,-3484.8087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大田医院,兵庫県姫路市田寺東２-２３-１,内科,,,9" xlink:title="大田医院" transform="ref(svg,13467.49,-3485.691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺田内科・呼吸器科,兵庫県姫路市城東町五軒屋３-６,内科　呼吸器科,,,9" xlink:title="寺田内科・呼吸器科" transform="ref(svg,13470.3338,-3484.0394)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和辻医院,兵庫県姫路市仁豊野３５７-１,内科　小児科　循環器科,,,9" xlink:title="和辻医院" transform="ref(svg,13472.9054,-3488.3634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森下神経内科診療所,兵庫県姫路市京口町１０２,精神科　神経科　内科,,,9" xlink:title="森下神経内科診療所" transform="ref(svg,13470.4773,-3483.4345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科井上医院,兵庫県姫路市東辻井１-１２-２８,内科　小児科　胃腸科　循環器科　放射線科　消化器科,,,9" xlink:title="内科井上医院" transform="ref(svg,13467.453,-3484.7055)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,澤田整形外科医院,兵庫県姫路市御立中４-１０-３２,整形外科　リハビリテーション科,,,9" xlink:title="澤田整形外科医院" transform="ref(svg,13466.5464,-3486.6033)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森小児科医院,兵庫県姫路市増位新町１-８-３メゾン花北クリニックビル２Ｆ,小児科　内科,,,9" xlink:title="森小児科医院" transform="ref(svg,13470.8573,-3485.5343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,空地医院,兵庫県姫路市十二所前町７２,内科,,,9" xlink:title="空地医院" transform="ref(svg,13468.7014,-3483.0689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,空地内科院,兵庫県姫路市呉服町８空地ビル５Ｆ,内科　放射線科　リウマチ科,,,9" xlink:title="空地内科院" transform="ref(svg,13469.3916,-3483.0575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野中耳鼻咽喉科医院,兵庫県姫路市御立中５-６-２４,耳鼻いんこう科,,,9" xlink:title="野中耳鼻咽喉科医院" transform="ref(svg,13466.6279,-3486.7742)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路市立ふれあいの郷養護老人ホーム診療所,兵庫県姫路市船津町３２６３,内科,,,9" xlink:title="姫路市立ふれあいの郷養護老人ホーム診療所" transform="ref(svg,13474.9477,-3492.3324)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土井眼科,兵庫県姫路市城見町１４７,眼科,,,9" xlink:title="土井眼科" transform="ref(svg,13470.8928,-3483.4061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野寺医院,兵庫県姫路市鍵町４,小児科　内科,,,9" xlink:title="小野寺医院" transform="ref(svg,13469.99,-3484.1671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本医院,兵庫県姫路市岡町３７,耳鼻いんこう科　外科　整形外科,,,9" xlink:title="橋本医院" transform="ref(svg,13468.5374,-3484.0533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松永小児科,兵庫県姫路市立町３６,小児科,,,9" xlink:title="松永小児科" transform="ref(svg,13469.0096,-3483.1339)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中塚泌尿器科医院,兵庫県姫路市保城字高町１６８-７,泌尿器科,,,9" xlink:title="中塚泌尿器科医院" transform="ref(svg,13471.3356,-3485.7517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岸田医院,兵庫県姫路市鷹匠町乙６-２,外科　放射線科　消化器科　リハビリテーション科,,,9" xlink:title="岸田医院" transform="ref(svg,13468.7765,-3483.9071)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若林医院,兵庫県姫路市御立東１-２５-７,外科　脳神経外科　放射線科　神経内科,,,9" xlink:title="若林医院" transform="ref(svg,13468.1526,-3486.2305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）清寿園,兵庫県姫路市飾東町豊国２１０,内科,,,9" xlink:title="（特養）清寿園" transform="ref(svg,13474.2613,-3483.6605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,冨田医院,兵庫県姫路市西今宿３-１９-５,内科　消化器内科　小児科,,,9" xlink:title="冨田医院" transform="ref(svg,13466.1118,-3484.3454)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊川荒木内科心療内科,兵庫県姫路市保城２９６-１,内科　神経内科　精神科　心臓内科　神経科,,,9" xlink:title="菊川荒木内科心療内科" transform="ref(svg,13471.0107,-3485.924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,書写西村内科,兵庫県姫路市書写１０１９-６２０,内科　循環器科　消化器科　リハビリテーション科　心療内科,,,9" xlink:title="書写西村内科" transform="ref(svg,13466.4045,-3486.7309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田整形外科,兵庫県姫路市城東町五反田７９-３クリオスビル,整形外科　リハビリテーション科,,,9" xlink:title="吉田整形外科" transform="ref(svg,13470.6175,-3483.8729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上内科医院,兵庫県姫路市博労町７７,内科　循環器内科,,,9" xlink:title="井上内科医院" transform="ref(svg,13468.3958,-3483.2423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田こどもクリニック,兵庫県姫路市城東町五反田７９-３クリオスビル内,小児科,,,9" xlink:title="山田こどもクリニック" transform="ref(svg,13470.619,-3483.8851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金澤医院,兵庫県姫路市飾磨区構４-１２３１-２７,内科,,,9" xlink:title="金澤医院" transform="ref(svg,13466.143,-3481.0691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井内科クリニック,兵庫県姫路市増位本町１-７-１４,内科　胃腸内科,,,9" xlink:title="藤井内科クリニック" transform="ref(svg,13470.4873,-3485.4687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村耳鼻咽喉科医院,兵庫県姫路市忍町８５油井ビル１Ｆ,耳鼻いんこう科,,,9" xlink:title="中村耳鼻咽喉科医院" transform="ref(svg,13468.7652,-3482.995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梅田耳鼻咽喉科医院,兵庫県姫路市河間町９９-３,耳鼻いんこう科,,,9" xlink:title="梅田耳鼻咽喉科医院" transform="ref(svg,13470.0195,-3484.5407)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田眼科医院,兵庫県姫路市辻井６-１０-２,眼科,,,9" xlink:title="吉田眼科医院" transform="ref(svg,13467.6264,-3484.8233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿佐美内科医院,兵庫県姫路市城見町７２,内科　糖尿病内科　内分泌内科　代謝内科　消化器内科,,,9" xlink:title="阿佐美内科医院" transform="ref(svg,13470.9234,-3483.2534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本内科胃腸科,兵庫県姫路市豊沢町１４０新姫路ビル２Ｆ,内科　胃腸科,,,9" xlink:title="山本内科胃腸科" transform="ref(svg,13468.9291,-3482.5007)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中田耳鼻咽喉科,兵庫県姫路市白国２-２-２０,耳鼻いんこう科,,,9" xlink:title="中田耳鼻咽喉科" transform="ref(svg,13470.7568,-3485.8683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五百井小児科,兵庫県姫路市城北本町５-２５,小児科　内科　アレルギー科,,,9" xlink:title="五百井小児科" transform="ref(svg,13469.6388,-3485.0801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前野整形外科,兵庫県姫路市白国４-５-２２,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="前野整形外科" transform="ref(svg,13470.5755,-3486.3293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水野内科医院,兵庫県姫路市坊主町５５,内科　消化器内科,,,9" xlink:title="水野内科医院" transform="ref(svg,13469.5789,-3484.4492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本耳鼻咽喉科,兵庫県姫路市飾磨区上野田１-７,耳鼻いんこう科,,,9" xlink:title="松本耳鼻咽喉科" transform="ref(svg,13468.1515,-3480.8536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,辻本内科医院,兵庫県姫路市船津町１３６４,内科　消化器科　循環器科　放射線科,,,9" xlink:title="辻本内科医院" transform="ref(svg,13475.3378,-3492.1839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くろさか小児科アレルギー科,兵庫県姫路市岩端町１０７-４,小児科　アレルギー科,,,9" xlink:title="くろさか小児科アレルギー科" transform="ref(svg,13468.2515,-3484.2096)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ごばん内科医院,兵庫県姫路市増位新町１-８-１藤和しらさぎハイタウンＢ１０２,内科　胃腸科　循環器科　神経内科,,,9" xlink:title="ごばん内科医院" transform="ref(svg,13470.9066,-3485.5101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つきたに医院,兵庫県姫路市久保町１２３,内科　循環器科　小児科,,,9" xlink:title="つきたに医院" transform="ref(svg,13468.5597,-3482.92)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多田整形外科医院,兵庫県姫路市白銀町４１福光ビル５Ｆ,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="多田整形外科医院" transform="ref(svg,13469.0878,-3483.0695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,倉橋内科医院,兵庫県姫路市北平野南の町１６-３１,内科　消化器科　循環器科　小児科,,,9" xlink:title="倉橋内科医院" transform="ref(svg,13469.4216,-3485.8698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路市立発達医療センター花北診療所,兵庫県姫路市増位新町２-３７,小児科　リハビリテーション科　児童精神科,,,9" xlink:title="姫路市立発達医療センター花北診療所" transform="ref(svg,13470.9547,-3485.884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井口皮膚科医院,兵庫県姫路市田寺２-２-２７,皮膚科,,,9" xlink:title="井口皮膚科医院" transform="ref(svg,13467.0687,-3485.6239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴田耳鼻咽喉科医院,兵庫県姫路市田寺２-２-１,耳鼻いんこう科,,,9" xlink:title="柴田耳鼻咽喉科医院" transform="ref(svg,13467.0847,-3485.5671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤本医院,兵庫県姫路市八代町７２８-７,内科　胃腸内科　小児科,,,9" xlink:title="藤本医院" transform="ref(svg,13469.9402,-3484.6259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,根木医院,兵庫県姫路市綿町１１５,皮膚科,,,9" xlink:title="根木医院" transform="ref(svg,13469.2723,-3483.2682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大西医院,兵庫県姫路市北八代１-１７-２０,泌尿器科　内科　リハビリテーション科,,,9" xlink:title="大西医院" transform="ref(svg,13469.2778,-3484.8626)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神頭医院,兵庫県姫路市城北本町１６-１４,胃腸科　外科　肛門科　リハビリテーション科,,,9" xlink:title="神頭医院" transform="ref(svg,13469.5689,-3485.2391)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小見山医院,兵庫県姫路市若菜町２-１８-２,内科,,,9" xlink:title="小見山医院" transform="ref(svg,13470.7252,-3482.9099)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白井医院,兵庫県姫路市東雲町２-２-１,胃腸内科　内科　放射線科,,,9" xlink:title="白井医院" transform="ref(svg,13468.1561,-3483.2694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,門屋眼科,兵庫県姫路市御立西２-１０-３-１,眼科,,,9" xlink:title="門屋眼科" transform="ref(svg,13466.732,-3486.2988)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,糖尿病内科西詰医院,兵庫県姫路市土山５-５-３５,糖尿病内科,,,9" xlink:title="糖尿病内科西詰医院" transform="ref(svg,13467.0059,-3483.4919)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ナカムラ医院,兵庫県姫路市下寺町１１１,脳神経外科　内科　リハビリテーション科,,,9" xlink:title="ナカムラ医院" transform="ref(svg,13470.1789,-3483.3561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白國医院,兵庫県姫路市山田町西山田４６,脳神経外科　内科　リハビリテーション科,,,9" xlink:title="白國医院" transform="ref(svg,13477.653,-3490.9915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今井内科循環器科,兵庫県姫路市坂元町１０８,内科　循環器科,,,9" xlink:title="今井内科循環器科" transform="ref(svg,13468.6568,-3483.3798)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富岡医院,兵庫県姫路市呉服町８空地ビル３Ｆ,泌尿器科,,,9" xlink:title="富岡医院" transform="ref(svg,13469.3967,-3483.0583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路市保健所,兵庫県姫路市坂田町３,内科　小児科,,,9" xlink:title="姫路市保健所" transform="ref(svg,13469.9941,-3483.2237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路獨協大学健康管理室,兵庫県姫路市上大野７-２-１,内科,,,9" xlink:title="姫路獨協大学健康管理室" transform="ref(svg,13468.9625,-3487.2127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原医院,兵庫県姫路市別所町佐土１-８３,内科　神経内科　脳神経外科　リハビリテーション科,,,9" xlink:title="原医院" transform="ref(svg,13474.5642,-3481.1529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国部医院,兵庫県姫路市車崎３-３-１３,内科　胃腸科　放射線科,,,9" xlink:title="国部医院" transform="ref(svg,13467.35,-3483.854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚本内科循環器科,兵庫県姫路市田寺３-１１-２３,内科　循環器科　消化器科　アレルギー科,,,9" xlink:title="塚本内科循環器科" transform="ref(svg,13466.7776,-3485.5819)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福間内科医院,兵庫県姫路市下手野５-４５０-１,内科　消化器内科,,,9" xlink:title="福間内科医院" transform="ref(svg,13465.3988,-3484.9448)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こにし眼科,兵庫県姫路市西中島２３６-４,眼科,,,9" xlink:title="こにし眼科" transform="ref(svg,13471.0088,-3485.4192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）清住園医務室,兵庫県姫路市飾東町清住５５５,内科,,,9" xlink:title="（特養）清住園医務室" transform="ref(svg,13477.5585,-3484.9394)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）志深の苑医務室,兵庫県姫路市御国野町深志野１４３０,内科,,,9" xlink:title="（特養）志深の苑医務室" transform="ref(svg,13475.2792,-3483.2635)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ネバーランド医務室,兵庫県姫路市船津町５２７１-１６,内科,,,9" xlink:title="（特養）ネバーランド医務室" transform="ref(svg,13476.3431,-3490.99)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンライフ御立医務室,兵庫県姫路市御立東５-１-１,内科,,,9" xlink:title="（特養）サンライフ御立医務室" transform="ref(svg,13468.3563,-3486.2371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）キャッシル真和医務室,兵庫県姫路市山田町西山田７２６-１,内科　神経内科　外科,,,9" xlink:title="（特養）キャッシル真和医務室" transform="ref(svg,13477.2517,-3490.5742)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かんばら医院,兵庫県姫路市北条宮の町２２１,内科　循環器内科,,,9" xlink:title="かんばら医院" transform="ref(svg,13469.2399,-3481.8138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）むれさき苑医務室,兵庫県姫路市四郷町東阿保４４,内科,,,9" xlink:title="（特養）むれさき苑医務室" transform="ref(svg,13471.4286,-3481.8003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしあんクリニック内科外科,兵庫県姫路市亀井町１６,内科　呼吸器科　アレルギー科　外科　皮膚科　肛門科,,,9" xlink:title="にしあんクリニック内科外科" transform="ref(svg,13469.3457,-3482.9478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上クリニック,兵庫県姫路市龍野町２-１６,内科　外科　循環器科　胃腸科　小児科,,,9" xlink:title="井上クリニック" transform="ref(svg,13468.3152,-3483.6089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほづみ内科医院,兵庫県姫路市鷹匠町乙１７-１,内科　消化器科　放射線科,,,9" xlink:title="ほづみ内科医院" transform="ref(svg,13468.8122,-3484.0526)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科兵医院,兵庫県姫路市本町６８,耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科兵医院" transform="ref(svg,13469.0772,-3483.41)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路市医師会診療所,兵庫県姫路市西今宿３-７-２１,内科　婦人科　放射線科,,,9" xlink:title="姫路市医師会診療所" transform="ref(svg,13466.0928,-3484.087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路市休日夜間急病センター,兵庫県姫路市西今宿３-７-２１,内科　眼科　耳鼻いんこう科　小児科,,,9" xlink:title="姫路市休日夜間急病センター" transform="ref(svg,13466.0928,-3484.087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尾上眼科,兵庫県姫路市元塩町１４２-１,眼科,,,9" xlink:title="尾上眼科" transform="ref(svg,13469.716,-3483.1622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川崎医院,兵庫県姫路市北条口５-８１,外科　内科　消化器科　リハビリテーション科,,,9" xlink:title="川崎医院" transform="ref(svg,13470.1205,-3483.0812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山皮膚科,兵庫県姫路市北今宿２-５-２２エムセンタービル１階,皮膚科,,,9" xlink:title="中山皮膚科" transform="ref(svg,13467.1548,-3484.5929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片嶋外科,兵庫県姫路市北八代１-２-３,外科　胃腸科　循環器科　整形外科,,,9" xlink:title="片嶋外科" transform="ref(svg,13469.1225,-3484.6184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西庵医院,兵庫県姫路市紺屋町３７,内科　循環器科,,,9" xlink:title="西庵医院" transform="ref(svg,13469.254,-3483.0228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こまつこどもクリニック,兵庫県姫路市山吹１-３-５,小児科　アレルギー科,,,9" xlink:title="こまつこどもクリニック" transform="ref(svg,13466.378,-3485.1654)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡本内科,兵庫県姫路市北今宿３-５-３６,内科　リウマチ科　消化器内科,,,9" xlink:title="岡本内科" transform="ref(svg,13466.6614,-3484.4247)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くろがね内科・循環器科,兵庫県姫路市南畝町２-３１浜屋ハートビル１階,内科　循環器科,,,9" xlink:title="くろがね内科・循環器科" transform="ref(svg,13468.8256,-3482.4658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉川内科医院,兵庫県姫路市辻井７-１４-１３,内科,,,9" xlink:title="吉川内科医院" transform="ref(svg,13467.1771,-3485.3174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大家神経科医院,兵庫県姫路市増位新町１-８-３,神経科　精神科　心臓血管外科,,,9" xlink:title="大家神経科医院" transform="ref(svg,13470.8422,-3485.502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野中外科診療所,兵庫県姫路市福中町１１,外科,,,9" xlink:title="野中外科診療所" transform="ref(svg,13468.7292,-3483.2505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白枝医院,兵庫県姫路市白銀町３５,胃腸内科　放射線科　肝臓内科,,,9" xlink:title="白枝医院" transform="ref(svg,13469.0605,-3483.0593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福本内科,兵庫県姫路市玉手３-６２-１,内科　循環器科,,,9" xlink:title="福本内科" transform="ref(svg,13466.2925,-3481.3771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高見医院,兵庫県姫路市白国１-１７-１５,内科　小児科　呼吸器科　消化器科,,,9" xlink:title="高見医院" transform="ref(svg,13470.4612,-3486.0163)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クサカベ皮フ科,兵庫県姫路市増位新町１-２４-１-１４,皮膚科,,,9" xlink:title="クサカベ皮フ科" transform="ref(svg,13470.8096,-3485.6449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田整形外科クリニック,兵庫県姫路市飾東町庄１２５-１,整形外科　リハビリテーション科　リウマチ科　内科,,,9" xlink:title="森田整形外科クリニック" transform="ref(svg,13473.0986,-3483.982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古谷クリニック,兵庫県姫路市南畝町２-１７,泌尿器科　内科　外科　皮膚科,,,9" xlink:title="古谷クリニック" transform="ref(svg,13468.6545,-3482.4185)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須山内科循環器内科,兵庫県姫路市若菜町２-２８,内科　循環器科,,,9" xlink:title="須山内科循環器内科" transform="ref(svg,13470.8007,-3482.8583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥山クリニック,兵庫県姫路市保城字野田４９１-１,外科　胃腸科　麻酔科　内科,,,9" xlink:title="奥山クリニック" transform="ref(svg,13471.6606,-3485.4061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大角神経内科クリニック,兵庫県姫路市栗山町１２６イノウエビル２階,神経内科　リハビリテーション科,,,9" xlink:title="大角神経内科クリニック" transform="ref(svg,13468.3581,-3481.6533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤松眼科医院,兵庫県姫路市御国野町国分寺８２７-３,眼科,,,9" xlink:title="赤松眼科医院" transform="ref(svg,13473.9008,-3482.3285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸谷クリニック,兵庫県姫路市安田４-４７-８,麻酔科,,,9" xlink:title="戸谷クリニック" transform="ref(svg,13468.7032,-3481.8309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山クリニック,兵庫県姫路市呉服町８空地ビル４階,胃腸科　外科　リハビリテーション科,,,9" xlink:title="中山クリニック" transform="ref(svg,13469.4088,-3483.0631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤原小児科クリニック,兵庫県姫路市玉手１-１９３-２,小児科,,,9" xlink:title="藤原小児科クリニック" transform="ref(svg,13465.9861,-3481.2133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はやし内科循環器科,兵庫県姫路市別所町別所４５６-６,内科　循環器科　リハビリテーション科,,,9" xlink:title="はやし内科循環器科" transform="ref(svg,13475.1,-3480.9335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三和内科医院,兵庫県姫路市東延末５-８６,内科　循環器内科　消化器内科,,,9" xlink:title="三和内科医院" transform="ref(svg,13468.2677,-3482.0305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河野医院,兵庫県姫路市岡田６０７-１サンヒルズ岡田１階,脳神経外科　リハビリテーション科　内科,,,9" xlink:title="河野医院" transform="ref(svg,13466.4554,-3482.2475)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ライフビラ姫路医務室,兵庫県姫路市飯田３-４４,内科,,,9" xlink:title="ライフビラ姫路医務室" transform="ref(svg,13467.3226,-3481.2955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かしもと整形外科医院,兵庫県姫路市四郷町本郷４１３-６,整形外科　外科　リハビリテーション科,,,9" xlink:title="かしもと整形外科医院" transform="ref(svg,13473.1756,-3480.8971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,辻井はやし内科,兵庫県姫路市東辻井２-８-３４,内科　消化器科　呼吸器科,,,9" xlink:title="辻井はやし内科" transform="ref(svg,13467.864,-3484.7161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みき眼科医院,兵庫県姫路市飾磨区今在家５-６７,眼科,,,9" xlink:title="みき眼科医院" transform="ref(svg,13465.3806,-3480.6579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三栄会ツカザキクリニック,兵庫県姫路市下手野２-４-５,放射線科　人工透析内科,,,9" xlink:title="（医）三栄会ツカザキクリニック" transform="ref(svg,13465.0909,-3484.486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水野クリニック,兵庫県姫路市南駅前町５９,内科　胃腸内科,,,9" xlink:title="水野クリニック" transform="ref(svg,13469.4416,-3482.4725)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中クリニック,兵庫県姫路市飾磨区三宅１-１９２田中興産ビル１Ｆ,内科　呼吸器内科,,,9" xlink:title="田中クリニック" transform="ref(svg,13468.3188,-3481.4269)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白鷺園養護老人ホーム医務室,兵庫県姫路市御立北３-１７-１,内科,,,9" xlink:title="白鷺園養護老人ホーム医務室" transform="ref(svg,13468.0759,-3486.9508)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金高医院,兵庫県姫路市福中町１０,内科　循環器科　皮膚科　心臓内科　精神科,,,9" xlink:title="金高医院" transform="ref(svg,13468.7394,-3483.252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本内科クリニック,兵庫県姫路市西八代町９-２６,内科　消化器内科,,,9" xlink:title="松本内科クリニック" transform="ref(svg,13468.8847,-3484.6644)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生田クリニック,兵庫県姫路市田寺３-２-５,外科　呼吸器科　消化器科,,,9" xlink:title="生田クリニック" transform="ref(svg,13466.8726,-3485.3849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵風会けいふう心療クリニック,兵庫県姫路市西今宿３-１９-４１,精神科　心臓内科　神経内科,,,9" xlink:title="（医）恵風会けいふう心療クリニック" transform="ref(svg,13466.0842,-3484.3946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）泉の杜医務室,兵庫県姫路市豊富町神谷３０４１-２０,内科,,,9" xlink:title="（特養）泉の杜医務室" transform="ref(svg,13478.1834,-3487.7063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）公仁会姫路中央病院附属クリニック,兵庫県姫路市飾磨区上野田１-１６-１,内科　外科　胃腸外科　脳神経外科　神経内科　整形外科　循環器内科　放射線科　皮膚科,,,9" xlink:title="（医）公仁会姫路中央病院附属クリニック" transform="ref(svg,13468.2246,-3480.8354)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ライフサポートひめじ医務室,兵庫県姫路市城東町竹之門６,内科　外科,,,9" xlink:title="（特養）ライフサポートひめじ医務室" transform="ref(svg,13470.475,-3483.7291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長久整形外科,兵庫県姫路市三左衛門堀東の町１１１,整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="長久整形外科" transform="ref(svg,13469.1417,-3482.0638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土居医院,兵庫県姫路市新在家本町５-１-３４,整形外科　リハビリテーション科　胃腸科　放射線科,,,9" xlink:title="土居医院" transform="ref(svg,13468.3785,-3484.7997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿保クリニック,兵庫県姫路市東駅前町７５-１,外科　整形外科　胃腸内科　脳神経外科　リハビリテーション科　リウマチ科,,,9" xlink:title="阿保クリニック" transform="ref(svg,13469.3944,-3482.8745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,書写ひまわりホーム医務室,兵庫県姫路市書写６３４-１９８,外科　消化器科,,,9" xlink:title="書写ひまわりホーム医務室" transform="ref(svg,13465.9456,-3486.7734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,Ｋｏｂａレディースクリニック,兵庫県姫路市北条口２-１８宮本ビル１階,婦人科,,,9" xlink:title="Ｋｏｂａレディースクリニック" transform="ref(svg,13469.478,-3482.898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野里門クリニック,兵庫県姫路市坊主町１,外科　内科　人工透析内科,,,9" xlink:title="野里門クリニック" transform="ref(svg,13469.8386,-3484.294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福永眼科医院,兵庫県姫路市白銀町４０,眼科,,,9" xlink:title="福永眼科医院" transform="ref(svg,13469.0735,-3483.0589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,心療内科よこやまクリニック,兵庫県姫路市飾磨区三宅１-１９４-２,心臓内科　精神科,,,9" xlink:title="心療内科よこやまクリニック" transform="ref(svg,13468.3487,-3481.4588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桃井整形外科,兵庫県姫路市呉服町６１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="桃井整形外科" transform="ref(svg,13469.3338,-3483.1078)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉本内科医院,兵庫県姫路市西庄字クボリ甲１７６-５,内科　循環器科,,,9" xlink:title="吉本内科医院" transform="ref(svg,13467.1029,-3482.7895)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路市立山之内診療所,兵庫県姫路市夢前町山之内１２０,内科　小児科,,,9" xlink:title="姫路市立山之内診療所" transform="ref(svg,13467.043,-3503.0814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生橋産婦人科医院,兵庫県姫路市手柄２-２１,産婦人科,,,9" xlink:title="生橋産婦人科医院" transform="ref(svg,13467.8515,-3481.187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松浦診療所,兵庫県姫路市夢前町宮置２３２-７,内科　小児科　神経内科,,,9" xlink:title="松浦診療所" transform="ref(svg,13467.2558,-3491.1552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松浦医院,兵庫県姫路市夢前町古知之庄６０９,内科　小児科　精神神経科　リハビリテーション科,,,9" xlink:title="松浦医院" transform="ref(svg,13467.5547,-3494.7688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）光寿園医務室,兵庫県姫路市夢前町宮置８２１-１,内科,,,9" xlink:title="（特養）光寿園医務室" transform="ref(svg,13468.2353,-3491.0524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サン・ビレッジ夢前医務室,兵庫県姫路市夢前町又坂４０５,内科,,,9" xlink:title="（特養）サン・ビレッジ夢前医務室" transform="ref(svg,13466.8479,-3492.5389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高本医院,兵庫県姫路市夢前町糸田５７２-２,外科　消化器外科（内視鏡）,,,9" xlink:title="高本医院" transform="ref(svg,13467.974,-3493.6968)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林眼科,兵庫県姫路市香寺町中仁野２６２-１,眼科,,,9" xlink:title="小林眼科" transform="ref(svg,13473.8378,-3490.8366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小西医院,兵庫県姫路市香寺町香呂５０-２０,内科　皮膚科　循環器科　神経科,,,9" xlink:title="小西医院" transform="ref(svg,13473.7142,-3491.3494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）香照苑,兵庫県姫路市香寺町須加院３３８-５０６,内科,,,9" xlink:title="（特養）香照苑" transform="ref(svg,13472.0818,-3490.0945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西門内科,兵庫県姫路市香寺町田野１０１４-２,内科　消化器科　小児科,,,9" xlink:title="西門内科" transform="ref(svg,13472.4738,-3490.7833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,早野小児科,兵庫県姫路市香寺町香呂７７-１,小児科,,,9" xlink:title="早野小児科" transform="ref(svg,13473.8221,-3491.4386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平石医院,兵庫県姫路市香寺町溝口５８３-１,胃腸科　外科,,,9" xlink:title="平石医院" transform="ref(svg,13474.4936,-3492.7853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川医院,兵庫県姫路市古二階町１３５,胃腸外科　整形外科　外科,,,9" xlink:title="石川医院" transform="ref(svg,13469.6044,-3483.1045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,播磨麻酔科クリニック,兵庫県姫路市土山４-４-５,麻酔科,,,9" xlink:title="播磨麻酔科クリニック" transform="ref(svg,13466.8834,-3483.2105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸谷整形外科・外科,兵庫県姫路市広峰１-２-１５,整形外科　外科　リハビリテーション科,,,9" xlink:title="戸谷整形外科・外科" transform="ref(svg,13470.3269,-3485.3538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上原小児クリニック,兵庫県姫路市砥堀１０１０,小児科,,,9" xlink:title="上原小児クリニック" transform="ref(svg,13472.814,-3487.0844)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長整形外科,兵庫県姫路市辻井１-１-１７,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="長整形外科" transform="ref(svg,13467.2172,-3484.671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小池整形外科医院,兵庫県姫路市嵐山町１４-７,整形外科　リハビリテーション科　リウマチ科　放射線科,,,9" xlink:title="小池整形外科医院" transform="ref(svg,13468.3985,-3484.0866)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ひまわり会田-ｱクリニック,兵庫県姫路市西今宿２-９-５０,内科　心臓内科,,,9" xlink:title="（医）ひまわり会田-ｱクリニック" transform="ref(svg,13465.9689,-3484.381)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤森耳鼻咽喉科,兵庫県姫路市本町２３１,耳鼻咽喉科　気管食道科,,,9" xlink:title="藤森耳鼻咽喉科" transform="ref(svg,13469.1039,-3483.2922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路さくらクリニック,兵庫県姫路市東今宿３-５-８スカイビル３-Ａ,形成外科　美容外科　皮膚科　美容皮膚科　小児外科,,,9" xlink:title="姫路さくらクリニック" transform="ref(svg,13466.4038,-3483.8543)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小原医院,兵庫県姫路市豊富町御蔭１９４６-６,外科　消化器科　内科　リハビリテーション科,,,9" xlink:title="小原医院" transform="ref(svg,13473.5456,-3487.8079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ノボクリニック,兵庫県姫路市書写１０１９-１４５プラザ加茂２Ｆ,内科,,,9" xlink:title="ノボクリニック" transform="ref(svg,13466.5347,-3486.8047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かりの小児科,兵庫県姫路市御立中４-７-３,小児科,,,9" xlink:title="かりの小児科" transform="ref(svg,13466.6106,-3486.4781)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松島クリニック,兵庫県姫路市岩端町１０７-４,神経内科　老年精神科　精神科,,,9" xlink:title="松島クリニック" transform="ref(svg,13468.2468,-3484.2146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田クリニック,兵庫県姫路市伊伝居６１２-１,循環器科　呼吸器科,,,9" xlink:title="上田クリニック" transform="ref(svg,13469.5858,-3484.8276)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）厚生園医務室,兵庫県姫路市御立西４-１-１９,内科,,,9" xlink:title="（特養）厚生園医務室" transform="ref(svg,13465.9962,-3486.0994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路信用金庫医務室,兵庫県姫路市十二所前町１０５,内科,,,9" xlink:title="姫路信用金庫医務室" transform="ref(svg,13468.6083,-3483.1)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木花クリニック,兵庫県姫路市南今宿３-６,小児科　アレルギー科　眼科,,,9" xlink:title="木花クリニック" transform="ref(svg,13467.1675,-3483.6378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩-ｱ眼科,兵庫県姫路市鍵町１５,眼科,,,9" xlink:title="岩-ｱ眼科" transform="ref(svg,13469.9277,-3484.2224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花房内科・消化器科,兵庫県姫路市御国野町国分寺６４９-８,内科　消化器科,,,9" xlink:title="花房内科・消化器科" transform="ref(svg,13473.8944,-3482.3019)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかがわ耳鼻咽喉科クリニック,兵庫県姫路市香寺町広瀬３４-１,耳鼻いんこう科,,,9" xlink:title="なかがわ耳鼻咽喉科クリニック" transform="ref(svg,13474.0903,-3491.1158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,どいこどもクリニック,兵庫県姫路市御国野町国分寺８２８,小児科　小児外科,,,9" xlink:title="どいこどもクリニック" transform="ref(svg,13473.8641,-3482.346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さだとうクリニック,兵庫県姫路市御立中２-１２-１０,内科　脳神経外科　リハビリテーション科,,,9" xlink:title="さだとうクリニック" transform="ref(svg,13467.0143,-3486.6224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,城本クリニック,兵庫県姫路市白銀町２０しらさぎビル７階,美容外科　形成外科,,,9" xlink:title="城本クリニック" transform="ref(svg,13469.0622,-3482.9949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山外科,兵庫県姫路市山吹２-１２-１５,外科　整形外科　胃腸科　肛門科,,,9" xlink:title="中山外科" transform="ref(svg,13466.3625,-3485.6412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林整形外科,兵庫県姫路市増位本町２-４-１０,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="小林整形外科" transform="ref(svg,13470.4891,-3485.6202)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土井クリニック,兵庫県姫路市辻井６-１７-３,消化器外科　外科　肛門外科,,,9" xlink:title="土井クリニック" transform="ref(svg,13467.3348,-3484.9008)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡崎外科消化器肛門クリニック,兵庫県姫路市綿町１１９姫路不動ビル２階,肛門外科　消化器外科　内視鏡外科,,,9" xlink:title="岡崎外科消化器肛門クリニック" transform="ref(svg,13469.2342,-3483.2804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安積外科胃腸科医院,兵庫県姫路市砥堀４５-１,外科　胃腸科　肛門科　麻酔科,,,9" xlink:title="安積外科胃腸科医院" transform="ref(svg,13472.5808,-3486.5817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮浦こころのクリニック,兵庫県姫路市呉服町８空地ビル２階,精神科　老年精神科,,,9" xlink:title="宮浦こころのクリニック" transform="ref(svg,13469.4014,-3483.0589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）創美会きぬがさクリニック,兵庫県姫路市駅前町２５４姫路ＯＳビル５Ｆ,美容外科　皮膚科　形成外科,,,9" xlink:title="（医）創美会きぬがさクリニック" transform="ref(svg,13469.1193,-3482.8881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田クリニック,兵庫県姫路市東今宿４-１-１０,外科　胃腸科　整形外科　放射線科　肛門科　内科　呼吸器科　循環器科,,,9" xlink:title="藤田クリニック" transform="ref(svg,13466.6951,-3483.9544)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさいクリニック,兵庫県姫路市駅前町３０９ラボビル５階,眼科,,,9" xlink:title="あさいクリニック" transform="ref(svg,13469.1758,-3482.9006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路スマイル眼科クリニック,兵庫県姫路市駅前町３４６-２Ｆ,眼科,,,9" xlink:title="姫路スマイル眼科クリニック" transform="ref(svg,13469.1645,-3482.9801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西川クリニック,兵庫県姫路市田寺東２-２６-１４,眼科　漢方アレルギー科　漢方眼科,,,9" xlink:title="西川クリニック" transform="ref(svg,13467.3049,-3485.841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ささお眼科クリニック,兵庫県姫路市飾磨区構１-７２,眼科,,,9" xlink:title="ささお眼科クリニック" transform="ref(svg,13466.4974,-3480.5839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,整形外科ほそやクリニック,兵庫県姫路市南畝町２-３１浜屋ハートビル８階,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="整形外科ほそやクリニック" transform="ref(svg,13468.827,-3482.4676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田クリニック,兵庫県姫路市姫路市東駅前町５４ハリマセンタービル５Ｆ,診療内,,,9" xlink:title="前田クリニック" transform="ref(svg,13469.2519,-3482.8531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほしたにクリニック,兵庫県姫路市神屋町４-１,耳鼻咽喉科　皮膚科　アレルギー科,,,9" xlink:title="ほしたにクリニック" transform="ref(svg,13470.3256,-3483.1047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いけがみクリニック,兵庫県姫路市別所町佐土２-１８,泌尿器科　人工透析内科,,,9" xlink:title="いけがみクリニック" transform="ref(svg,13474.9221,-3481.2623)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさひ美容外科,兵庫県姫路市駅前町３５２リバティビル２階２０１,美容外科,,,9" xlink:title="あさひ美容外科" transform="ref(svg,13469.2198,-3482.9529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）社団三輪整形外科,兵庫県姫路市北条口３-７７,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）社団三輪整形外科" transform="ref(svg,13469.8815,-3482.9536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,光寿会クリニック,兵庫県姫路市北条１-３８５,外科,,,9" xlink:title="光寿会クリニック" transform="ref(svg,13469.411,-3482.0759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本多クリニック,兵庫県姫路市駅前町２３２しらさぎ駅前ビル４階,精神科　診療内,,,9" xlink:title="本多クリニック" transform="ref(svg,13469.167,-3482.7916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かじや循環器内科,兵庫県姫路市白銀町３６-１中ノ門シャポービル３階,循環器内科,,,9" xlink:title="かじや循環器内科" transform="ref(svg,13469.0585,-3483.0693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,だいとうクリニック,兵庫県姫路市白銀町３６-１中ノ門シャポービル２階,内科　腫瘍内科　疼痛緩和内科,,,9" xlink:title="だいとうクリニック" transform="ref(svg,13469.0585,-3483.0693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本郷小児科医院,兵庫県姫路市新在家中の町１４-１７,小児科,,,9" xlink:title="本郷小児科医院" transform="ref(svg,13468.4171,-3484.712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みこ皮膚科クリニック,兵庫県姫路市南今宿２-３９,皮膚科　小児皮膚科　美容皮膚科,,,9" xlink:title="みこ皮膚科クリニック" transform="ref(svg,13467.1448,-3483.5783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野本眼科,兵庫県姫路市鷹匠町乙２６,眼科,,,9" xlink:title="野本眼科" transform="ref(svg,13468.6911,-3483.9238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖美会ＪＯＥクリニック,兵庫県姫路市駅前町９６-１サウスワンビル４Ｆ,美容外科　形成外科　皮膚科,,,9" xlink:title="（医）聖美会ＪＯＥクリニック" transform="ref(svg,13469.3273,-3482.5154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大島内科クリニック,兵庫県姫路市飾磨区構３-２３３-１,内科　消化器内科,,,9" xlink:title="大島内科クリニック" transform="ref(svg,13466.6574,-3481.1288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上産婦人科医院,兵庫県姫路市御立西１-１６-１１,産婦人科,,,9" xlink:title="井上産婦人科医院" transform="ref(svg,13466.1233,-3485.9528)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,兵庫県赤十字血液センター姫路駅前通出張所,兵庫県姫路市駅前町２４１,内科,,,9" xlink:title="兵庫県赤十字血液センター姫路駅前通出張所" transform="ref(svg,13469.091,-3482.827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,最上クリニック,兵庫県姫路市姫路市北条宮の町３７５-１,耳鼻咽喉科,,,9" xlink:title="最上クリニック" transform="ref(svg,13469.3857,-3482.0315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河原レディースクリニック,兵庫県姫路市神子岡前町４-１-３,産科　婦人科,,,9" xlink:title="河原レディースクリニック" transform="ref(svg,13467.2994,-3484.0279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まきの外科胃腸科診療所,兵庫県姫路市書写２５８４-１,外科　消化器外科（内視鏡）　肛門外科,,,9" xlink:title="まきの外科胃腸科診療所" transform="ref(svg,13465.3391,-3486.8965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尾関耳鼻咽喉科医院,兵庫県姫路市亀井町１００,耳鼻いんこう科,,,9" xlink:title="尾関耳鼻咽喉科医院" transform="ref(svg,13469.3659,-3482.9861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮下皮膚科形成外科,兵庫県姫路市姫路市岡町１８サンビル２階,皮膚科　形成外科　アレルギー科,,,9" xlink:title="宮下皮膚科形成外科" transform="ref(svg,13468.5875,-3483.9366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北野小児科クリニック,兵庫県姫路市姫路市岡田７３-１,小児科,,,9" xlink:title="北野小児科クリニック" transform="ref(svg,13466.7433,-3482.802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西川内科医院,兵庫県姫路市南町５-モルティひめじ,内科　糖尿病内科　消化器内科,,,9" xlink:title="西川内科医院" transform="ref(svg,13468.8691,-3482.8892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,てらおクリニック,兵庫県姫路市飾磨区構２-２０２,胃腸外科　外科　肛門外科,,,9" xlink:title="てらおクリニック" transform="ref(svg,13466.0358,-3481.0136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こじま眼科,兵庫県姫路市姫路市博労町９１,眼科,,,9" xlink:title="こじま眼科" transform="ref(svg,13468.3511,-3483.2519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（宗）本覚寺診療所,兵庫県姫路市花田町加納原田１５９,内科　循環器科　リハビリテーション科,,,9" xlink:title="（宗）本覚寺診療所" transform="ref(svg,13472.3882,-3482.9082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）和好苑医務室,兵庫県姫路市北条宮の町１３１,内科,,,9" xlink:title="（特養）和好苑医務室" transform="ref(svg,13469.2764,-3481.7678)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田仲医院,兵庫県姫路市香寺町香呂６３-１,内科,,,9" xlink:title="田仲医院" transform="ref(svg,13473.8483,-3491.3792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路駅前アイクリニック,兵庫県姫路市駅前町３２８三姫ビル３階,眼科,,,9" xlink:title="姫路駅前アイクリニック" transform="ref(svg,13469.1483,-3482.9116)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サン・ビレッジ姫路医務室,兵庫県姫路市町坪４６８,内科,,,9" xlink:title="（特養）サン・ビレッジ姫路医務室" transform="ref(svg,13465.8137,-3481.7597)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こうろ苑医務室,兵庫県姫路市香寺町香呂５５-１,内科,,,9" xlink:title="（特養）こうろ苑医務室" transform="ref(svg,13473.7436,-3491.2722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こうのとり会西川レディースクリニック,兵庫県姫路市駅前町１８８-１ピオレ姫路本館６階,産科　婦人科,,,9" xlink:title="（医）こうのとり会西川レディースクリニック" transform="ref(svg,13469.1022,-3482.8064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小山医院,兵庫県姫路市北条口２-１５,内科　消化器内科　循環器内科,,,9" xlink:title="小山医院" transform="ref(svg,13469.4901,-3482.8867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,駅ビル眼科フクナガ,兵庫県姫路市駅前町１８８-１ピオレ姫路６階,眼科,,,9" xlink:title="駅ビル眼科フクナガ" transform="ref(svg,13469.0791,-3482.7027)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本内科医院,兵庫県姫路市香寺町香呂１０７-１,内科　循環器内科　消化器内科,,,9" xlink:title="山本内科医院" transform="ref(svg,13473.9156,-3491.6403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おくのクリニック,兵庫県姫路市飾磨区蓼野町１１６-１,心臓内科　精神科　老年精神科,,,9" xlink:title="おくのクリニック" transform="ref(svg,13466.0228,-3480.6623)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路少年刑務所姫路拘置支所医務課診療所,兵庫県姫路市北条１-２５０,内科,,,9" xlink:title="姫路少年刑務所姫路拘置支所医務課診療所" transform="ref(svg,13469.573,-3482.2262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路地蔵温泉みやもと診療所,兵庫県姫路市豊富町神谷３０４１-２,内科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="姫路地蔵温泉みやもと診療所" transform="ref(svg,13478.2606,-3487.6616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）にしはら乳腺クリニック,兵庫県姫路市南町５-モルティひめじＢ-７,乳腺外科,,,9" xlink:title="（医）にしはら乳腺クリニック" transform="ref(svg,13468.9197,-3482.9353)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンライフ土山医務室,兵庫県姫路市土山東の町９-１２,内科,,,9" xlink:title="（特養）サンライフ土山医務室" transform="ref(svg,13467.7668,-3483.2516)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木眼科,兵庫県姫路市岡田３４-１,眼科,,,9" xlink:title="鈴木眼科" transform="ref(svg,13466.7327,-3482.5803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,姫路ノーストクリニック,兵庫県姫路市立町７７三輪ビル２Ｆ,泌尿器科　形成外科,,,9" xlink:title="姫路ノーストクリニック" transform="ref(svg,13468.9384,-3483.0566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハトヤ・アイクリニック,兵庫県姫路市駅前町２３５ハトヤ駅前ビル２階,眼科,,,9" xlink:title="ハトヤ・アイクリニック" transform="ref(svg,13469.1485,-3482.8145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩崎医院,兵庫県丹波市山南町和田２６８,内科　外科,,,9" xlink:title="岩崎医院" transform="ref(svg,13498.0581,-3509.1598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム五輪荘診療所,兵庫県丹波市山南町野坂２０９,内科　精神科　眼科,,,9" xlink:title="養護老人ホーム五輪荘診療所" transform="ref(svg,13499.8896,-3508.5449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハピネスさつま診療所,兵庫県加古川市志方町大澤字中谷８４７-３５,内科　精神科　循環器科,,,9" xlink:title="ハピネスさつま診療所" transform="ref(svg,13483.6719,-3484.478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）鶴林園診療所,兵庫県加古川市志方町細工所１０８６,内科,,,9" xlink:title="（福）鶴林園診療所" transform="ref(svg,13484.1667,-3484.0492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いちかわ内科循環器科,兵庫県加古川市志方町上冨木６６１-１,内科　循環器科　消化器科　リハビリテーション科,,,9" xlink:title="いちかわ内科循環器科" transform="ref(svg,13482.5446,-3481.5977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠井医院,兵庫県加古川市志方町志方町１４８２,整形外科,,,9" xlink:title="笠井医院" transform="ref(svg,13481.8915,-3481.5817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設ヴィラ播磨医務室,兵庫県加古川市志方町成井１００,内科,,,9" xlink:title="介護老人福祉施設ヴィラ播磨医務室" transform="ref(svg,13480.3266,-3481.6205)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加古川市立こども療育センター,兵庫県加古川市志方町原６０４-１,小児科　リハビリテーション科　整形外科,,,9" xlink:title="加古川市立こども療育センター" transform="ref(svg,13480.8466,-3481.5582)" x="0" y="0"/>
+</g>
+</svg>

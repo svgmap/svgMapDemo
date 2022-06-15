@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13394.53125 -3445.3125 35.15625 35.15625" go:dataArea="13394.53125 -3445.3125 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,太田診療所,徳島県阿波市市場町上喜来字二俣前３８１-１,内科　消化器科　循環器科　小児科　放射線科,,,9" xlink:title="太田診療所" transform="ref(svg,13426.7805,-3410.4698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）今村整形外科医院,香川県綾歌郡綾川町陶２４６４-１,整形外科　リハビリテーション科,,,9" xlink:title="（医）今村整形外科医院" transform="ref(svg,13395.1588,-3425.6696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）うえだ眼科,香川県綾歌郡綾川町陶２６０２-６,眼科,,,9" xlink:title="（医）うえだ眼科" transform="ref(svg,13395.8474,-3425.5841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うきた整形外科,香川県綾歌郡綾川町陶３７７５-６,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="うきた整形外科" transform="ref(svg,13396.2421,-3425.6305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桑島医院,香川県綾歌郡綾川町山田上甲１３０７-１,内科　胃腸科　小児科,,,9" xlink:title="（医）桑島医院" transform="ref(svg,13397.3786,-3422.7997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらづか吉田クリニック,香川県綾歌郡綾川町陶４１８５-１,皮膚科　泌尿器科　アレルギー科,,,9" xlink:title="さくらづか吉田クリニック" transform="ref(svg,13394.5933,-3425.287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）（特養）松林荘医務室,香川県綾歌郡綾川町山田下山王４３５-４,内科　脳神経外科　歯科,,,9" xlink:title="（福）（特養）松林荘医務室" transform="ref(svg,13394.9034,-3422.5069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西クリニック,香川県綾歌郡綾川町畑田６３２-１５,内科　胃腸科,,,9" xlink:title="西クリニック" transform="ref(svg,13398.2449,-3426.4712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本内科胃腸科医院,香川県綾歌郡綾川町畑田６７３,内科　循環器科　呼吸器科　消化器科,,,9" xlink:title="松本内科胃腸科医院" transform="ref(svg,13397.9546,-3426.3189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三宅医院,香川県綾歌郡綾川町陶５８９０-５,内科　小児科,,,9" xlink:title="（医）三宅医院" transform="ref(svg,13395.1986,-3425.3608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山下整形外科医院,香川県綾歌郡綾川町畑田１０７１-１,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）山下整形外科医院" transform="ref(svg,13397.2042,-3426.0418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,綾川町国民健康保険綾上診療所,香川県綾歌郡綾川町山田下３３５２-１,内科,,,9" xlink:title="綾川町国民健康保険綾上診療所" transform="ref(svg,13394.9826,-3422.525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まんのう町立美合診療所,香川県仲多度郡まんのう町川東１４９３,内科　外科,,,9" xlink:title="まんのう町立美合診療所" transform="ref(svg,13397.72,-3411.1416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やすらぎ荘医務室,香川県仲多度郡まんのう町川東１５０２-１,内科,,,9" xlink:title="（特養）やすらぎ荘医務室" transform="ref(svg,13397.8299,-3411.1391)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）春煕堂医院,香川県さぬき市長尾東１１１１-２,内科　外科　整形外科　放射線科,,,9" xlink:title="（医）春煕堂医院" transform="ref(svg,13418.2091,-3426.4867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）南医院,香川県さぬき市昭和３３４７-１,内科　小児科　耳鼻咽喉科　リハビリテーション科　放射線科,,,9" xlink:title="（医）南医院" transform="ref(svg,13416.7672,-3426.5056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小山眼科医院,香川県木田郡三木町大字池戸２７７６-２,眼科,,,9" xlink:title="（医）小山眼科医院" transform="ref(svg,13412.8054,-3427.149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一真会川人外科内科,香川県木田郡三木町井戸字高木５２６-１,内科　小児科　外科　整形外科　耳鼻咽喉科　肛門科　リハビリテーション科　麻酔科　リウマチ科　アレルギー科,,,9" xlink:title="（医）一真会川人外科内科" transform="ref(svg,13415.7254,-3425.2333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）香東園診療所,香川県さぬき市寒川町石田西６８０-１,内科　外科　整形外科,,,9" xlink:title="（福）香東園診療所" transform="ref(svg,13419.5825,-3427.5515)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,間嶋医院,香川県さぬき市長尾西９５５,内科　胃腸科　循環器科　小児科,,,9" xlink:title="間嶋医院" transform="ref(svg,13417.3144,-3426.541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みろく間嶋医院,香川県さぬき市大川町富田西１２６９-１,内科　小児科,,,9" xlink:title="みろく間嶋医院" transform="ref(svg,13422.7399,-3426.5106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三ツ星ベルト（株）四国工場診療所,香川県さぬき市津田町津田２８９３,内科　外科,,,9" xlink:title="三ツ星ベルト（株）四国工場診療所" transform="ref(svg,13424.4863,-3430.3877)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米田耳鼻咽喉科医院,香川県さぬき市志度２１４６-３,耳鼻咽喉科,,,9" xlink:title="米田耳鼻咽喉科医院" transform="ref(svg,13418.323,-3431.8039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小田内科医院,香川県さぬき市志度５４１-１,内科　小児科,,,9" xlink:title="（医）小田内科医院" transform="ref(svg,13417.1094,-3432.376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）志度玉浦園医務室,香川県さぬき市志度１６１０-１,内科,,,9" xlink:title="（特養）志度玉浦園医務室" transform="ref(svg,13419.4576,-3431.9181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さざんか荘養護老人ホーム医務室,香川県さぬき市大川町田面３６０,内科,,,9" xlink:title="さざんか荘養護老人ホーム医務室" transform="ref(svg,13425.5954,-3425.3246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寒川クリニック,香川県さぬき市長尾名３７-７,内科　リハビリテーション科　麻酔科,,,9" xlink:title="寒川クリニック" transform="ref(svg,13417.6198,-3425.9133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）祐正福祉会真清水荘医務室,香川県さぬき市寒川町石田東甲７６１-９,内科　外科,,,9" xlink:title="（福）祐正福祉会真清水荘医務室" transform="ref(svg,13420.5675,-3426.0206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おおばやしこどもクリニック,香川県さぬき市志度４４５０-３,小児科　アレルギー科,,,9" xlink:title="（医）おおばやしこどもクリニック" transform="ref(svg,13418.3123,-3431.6136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）米澤整形外科医院,香川県さぬき市志度１９３９-３,整形外科　リハビリテーション科,,,9" xlink:title="（医）米澤整形外科医院" transform="ref(svg,13418.5241,-3432.1517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大松内科医院,香川県さぬき市鴨庄３０１３-１,内科,,,9" xlink:title="（医）大松内科医院" transform="ref(svg,13420.5357,-3432.8108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大石整形外科医院,香川県さぬき市昭和３３２２,整形外科　リハビリテーション科,,,9" xlink:title="大石整形外科医院" transform="ref(svg,13416.7571,-3426.4708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中小児科,香川県さぬき市長尾名１０-６,内科　小児科　アレルギー科,,,9" xlink:title="田中小児科" transform="ref(svg,13417.6798,-3426.18)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さざんか荘（特養）医務室,香川県さぬき市大川町田面３６０,内科,,,9" xlink:title="さざんか荘（特養）医務室" transform="ref(svg,13425.5954,-3425.3246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつおか医院,香川県さぬき市長尾東１０３８-１,皮膚科　皮膚・泌尿器科,,,9" xlink:title="まつおか医院" transform="ref(svg,13418.0159,-3426.2209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ヘキクリニック,香川県さぬき市志度６２０-１,消化器科　外科　整形外科　皮膚科　皮膚・泌尿器科　肛門科　リハビリテーション科,,,9" xlink:title="（医）ヘキクリニック" transform="ref(svg,13417.5741,-3432.1527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆたか荘,香川県さぬき市昭和５６２-４,内科　皮膚科　皮膚・泌尿器科,,,9" xlink:title="（特養）ゆたか荘" transform="ref(svg,13416.6791,-3424.6751)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）陶山医院,香川県さぬき市大川町田面７１-１,内科　リハビリテーション科,,,9" xlink:title="（医）陶山医院" transform="ref(svg,13425.0745,-3425.7792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設さわやかホーム,香川県さぬき市津田町津田２２０７,内科,,,9" xlink:title="介護老人福祉施設さわやかホーム" transform="ref(svg,13423.9719,-3429.43)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）溝渕内科循環器クリニック,香川県さぬき市津田町津田１０４８-１,内科　消化器科　循環器科,,,9" xlink:title="（医）溝渕内科循環器クリニック" transform="ref(svg,13424.9103,-3429.1937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中川内科医院,香川県さぬき市志度７９７,内科,,,9" xlink:title="中川内科医院" transform="ref(svg,13417.6068,-3432.362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）コスモス志度皮膚科クリニック,香川県さぬき市志度１９００-７牟礼ビル３階,皮膚科,,,9" xlink:title="（医）コスモス志度皮膚科クリニック" transform="ref(svg,13418.3881,-3432.0359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,服部内科医院,香川県さぬき市造田是弘６８８-３,内科　小児科　放射線科,,,9" xlink:title="服部内科医院" transform="ref(svg,13418.3549,-3428.3818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひもりの里診療所,香川県さぬき市鴨庄４４８１-２,内科　リウマチ科,,,9" xlink:title="ひもりの里診療所" transform="ref(svg,13422.1054,-3433.5015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）優駿会金山眼科医院,香川県さぬき市志度３６１-１,眼科,,,9" xlink:title="（医）優駿会金山眼科医院" transform="ref(svg,13416.9962,-3432.2901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ありま内科消化器科クリニック,香川県さぬき市志度１９００-７牟礼ビル２階,内科　消化器科,,,9" xlink:title="（医）ありま内科消化器科クリニック" transform="ref(svg,13418.3881,-3432.0359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながい耳鼻咽喉科クリニック,香川県さぬき市志度２４９３-１,耳鼻咽喉科,,,9" xlink:title="ながい耳鼻咽喉科クリニック" transform="ref(svg,13417.0936,-3431.8442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）江-ｱ医院,香川県さぬき市志度８７０-２,内科　胃腸科　循環器科　小児科　放射線科,,,9" xlink:title="（医）江-ｱ医院" transform="ref(svg,13417.8177,-3432.2007)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,図子メンタルクリニック,香川県さぬき市志度２３８３-１,精神科　心臓内科,,,9" xlink:title="図子メンタルクリニック" transform="ref(svg,13417.2692,-3431.8913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さぬき市国民健康保険津田診療所,香川県さぬき市津田町津田１６７３-１,内科　整形外科　リハビリテーション科,,,9" xlink:title="さぬき市国民健康保険津田診療所" transform="ref(svg,13424.7253,-3429.2164)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香川県東讃保健所,香川県さぬき市津田町津田９３０-２,内科,,,9" xlink:title="香川県東讃保健所" transform="ref(svg,13424.803,-3428.9386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,華山ファミリークリニック,香川県さぬき市寒川町神前１５２６-１,内科　消化器科　眼科　リハビリテーション科　歯科　小児歯科　歯科口腔外科,,,9" xlink:title="華山ファミリークリニック" transform="ref(svg,13420.8077,-3428.6737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ききょう会つるわクリニック,香川県さぬき市津田町鶴羽５７０-１,内科　外科,,,9" xlink:title="（医）ききょう会つるわクリニック" transform="ref(svg,13426.1156,-3428.1715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ツツミ医院,香川県さぬき市志度２２１４-７１,消化器内科　消化器外科　肛門外科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="ツツミ医院" transform="ref(svg,13417.8541,-3431.6985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）彰志会志度寺診療所,香川県さぬき市志度１１０２-１,内科　呼吸器科　消化器科　循環器科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="（医）彰志会志度寺診療所" transform="ref(svg,13418.0124,-3432.4407)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さぬき市国民健康保険多和診療所,香川県さぬき市多和助光東２９-４,内科,,,9" xlink:title="さぬき市国民健康保険多和診療所" transform="ref(svg,13417.0693,-3418.6512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つじ整形外科クリニック,香川県さぬき市長尾西７７８-４,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）つじ整形外科クリニック" transform="ref(svg,13417.5561,-3426.881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林外科胃腸科医院,香川県木田郡三木町池戸３００５-１,胃腸科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="林外科胃腸科医院" transform="ref(svg,13412.2409,-3427.3367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）白山山荘医務室,香川県木田郡三木町下高岡２８８２-１,内科,,,9" xlink:title="（特養）白山山荘医務室" transform="ref(svg,13414.4625,-3427.387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）南福萬みぞぶち医院,香川県木田郡三木町氷上１３５０-１,内科　小児科　眼科,,,9" xlink:title="（医）南福萬みぞぶち医院" transform="ref(svg,13412.7333,-3426.1479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三木みよし内科医院,香川県木田郡三木町池戸２８３５-２,内科　小児科,,,9" xlink:title="（医）三木みよし内科医院" transform="ref(svg,13412.5016,-3427.1676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生協みき診療所,香川県木田郡三木町大字氷上１１２-１,内科　小児科　アレルギー科,,,9" xlink:title="生協みき診療所" transform="ref(svg,13413.026,-3426.5809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）河本医院,香川県木田郡三木町氷上３０９,消化器科　外科　皮膚科,,,9" xlink:title="（医）河本医院" transform="ref(svg,13413.4127,-3426.8815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木皮フ科クリニック,香川県木田郡三木町氷上花丸９５５-１,皮膚科,,,9" xlink:title="佐々木皮フ科クリニック" transform="ref(svg,13413.417,-3426.3496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中島内科クリニック,香川県木田郡三木町大字鹿伏中所３７３-１,内科　胃腸科　循環器科,,,9" xlink:title="（医）中島内科クリニック" transform="ref(svg,13413.7952,-3427.2236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小西耳鼻咽喉科医院,香川県木田郡三木町氷上２２１-１,耳鼻咽喉科,,,9" xlink:title="（医）小西耳鼻咽喉科医院" transform="ref(svg,13413.2266,-3426.9209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香川大学保健管理センター医学部分室,香川県木田郡三木町大字池戸１７５０-１,内科,,,9" xlink:title="香川大学保健管理センター医学部分室" transform="ref(svg,13412.2661,-3429.2001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）きただい医院,香川県木田郡三木町下高岡１４６４-１２,内科　循環器科　神経内科　リハビリテーション科,,,9" xlink:title="（医）きただい医院" transform="ref(svg,13414.8394,-3426.2419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みき山荘,香川県木田郡三木町井戸３８-１,内科　外科,,,9" xlink:title="（特養）みき山荘" transform="ref(svg,13415.6645,-3424.1192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,増田耳鼻咽喉科医院,香川県木田郡三木町下高岡１３８５-１,耳鼻咽喉科　アレルギー科,,,9" xlink:title="増田耳鼻咽喉科医院" transform="ref(svg,13414.8173,-3426.3441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑泉会森岡メンタルクリニック,香川県木田郡三木町氷上４０３-５,精神科　心臓内科,,,9" xlink:title="（医）緑泉会森岡メンタルクリニック" transform="ref(svg,13413.654,-3426.634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すくすくクリニックこにし,香川県木田郡三木町氷上２０６,小児科,,,9" xlink:title="すくすくクリニックこにし" transform="ref(svg,13413.1816,-3426.8676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中原医院,香川県木田郡三木町下高岡６４１-１,内科　消化器科　循環器科,,,9" xlink:title="中原医院" transform="ref(svg,13415.2344,-3426.5922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高樹会三木ふじた医院,香川県木田郡三木町大字井戸２３６３-５,小児科　外科　整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）高樹会三木ふじた医院" transform="ref(svg,13416.0271,-3426.3336)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）レファシード直島,香川県香川郡直島町横防３７４９-１,内科,,,9" xlink:title="（特養）レファシード直島" transform="ref(svg,13397.9227,-3445.1993)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安西内科医院,香川県高松市元山町１２３１-１３,内科　胃腸内科　循環器内科　放射線科,,,9" xlink:title="安西内科医院" transform="ref(svg,13408.295,-3431.4157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋山内科医院,香川県高松市木太町３４８５-１,内科　胃腸科　循環器科,,,9" xlink:title="秋山内科医院" transform="ref(svg,13407.5999,-3432.4218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）赤井外科クリニック,香川県高松市香西東町３１５-２,消化器内科　外科　リハビリ科,,,9" xlink:title="（医）赤井外科クリニック" transform="ref(svg,13400.5398,-3434.3414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）赤松内科医院,香川県高松市鹿角町２７１-６,内科,,,9" xlink:title="（医）赤松内科医院" transform="ref(svg,13403.2883,-3430.259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）荒木内科医院,香川県高松市伏石町１３１６-３,内科,,,9" xlink:title="（医）荒木内科医院" transform="ref(svg,13405.3265,-3431.7052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅野皮膚科医院,香川県高松市屋島西町２４９０-１９,皮膚科,,,9" xlink:title="浅野皮膚科医院" transform="ref(svg,13408.7737,-3434.7387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アイクリニック,香川県高松市亀井町８-１統知ビル６階,内科　心療内科　精神科　美容内科　美容皮膚科,,,9" xlink:title="アイクリニック" transform="ref(svg,13404.8721,-3433.9722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）修美会綾田内科消化器科クリニック,香川県高松市太田下町１８７２-２,内科　消化器内科　アレルギー科,,,9" xlink:title="（医）修美会綾田内科消化器科クリニック" transform="ref(svg,13404.3219,-3430.6047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安藤レディースクリニック,香川県高松市多肥下町１５２４-１４,産婦人科,,,9" xlink:title="（医）安藤レディースクリニック" transform="ref(svg,13406.027,-3430.5353)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）雲井会綾こどもクリニック,香川県高松市国分寺町福家甲３１７４-４,小児科,,,9" xlink:title="（医）雲井会綾こどもクリニック" transform="ref(svg,13396.2147,-3428.5865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健愛会あきやまクリニック,香川県高松市香川町大野４５９-５,内科　泌尿器科,,,9" xlink:title="（医）健愛会あきやまクリニック" transform="ref(svg,13402.8135,-3425.612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）庵治整形外科・内科医院,香川県高松市庵治町６１９,内科　リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）庵治整形外科・内科医院" transform="ref(svg,13412.7815,-3438.093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈愛会阿部内科眼科医院,香川県高松市牟礼町牟礼１００６-３,内科　胃腸内科　循環器内科　糖尿病内科　小児科　眼科　放射線科,,,9" xlink:title="（医）慈愛会阿部内科眼科医院" transform="ref(svg,13413.3099,-3434.1852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あじの里,香川県高松市庵治町４１５１-７,内科,,,9" xlink:title="（特養）あじの里" transform="ref(svg,13414.3811,-3437.9583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）阿河耳鼻咽喉科医院,香川県高松市香川町大野２４５２-２,耳鼻咽喉科,,,9" xlink:title="（医）阿河耳鼻咽喉科医院" transform="ref(svg,13402.6192,-3427.1992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あかね医務室,香川県高松市西町４-１,内科　精神科　整形外科,,,9" xlink:title="（特養）あかね医務室" transform="ref(svg,13402.7937,-3434.6524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あおば内科クリニック,香川県高松市太田上町４２０-１,内科　消化器内科,,,9" xlink:title="あおば内科クリニック" transform="ref(svg,13404.0186,-3429.7317)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさひクリニック,香川県高松市福岡町４-２８-３０,内科　女性内科　がん緩和ケア内科　泌尿器科　がん緩和ケア泌尿器科　産婦人科　漢方婦人科,,,9" xlink:title="あさひクリニック" transform="ref(svg,13406.7055,-3433.9849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）裕心会あきた小児科クリニック,香川県高松市六条町６０５-５,小児循環器内科　アレルギー科　小児科,,,9" xlink:title="（医）裕心会あきた小児科クリニック" transform="ref(svg,13407.9017,-3429.4082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）阿部内科クリニック,香川県高松市藤塚町１-４-１１,内科　消化器内科,,,9" xlink:title="（医）阿部内科クリニック" transform="ref(svg,13404.8135,-3433.4394)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あじの港メンタルクリニック,香川県高松市庵治町５７３２,精神科,,,9" xlink:title="あじの港メンタルクリニック" transform="ref(svg,13412.9769,-3439.1257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）雄翔会綾田医院,香川県高松市香南町由佐２１０-１,内科　消化器内科　循環器内科,,,9" xlink:title="（医）雄翔会綾田医院" transform="ref(svg,13402.0964,-3423.8628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あまの内科クリニック,香川県高松市木太町４３２６-１,内科　循環器内科　糖尿病内科,,,9" xlink:title="あまの内科クリニック" transform="ref(svg,13407.9435,-3431.1267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あんどう発達クリニック,香川県高松市多肥下町５１７-１０,精神科　小児神経内科　小児科,,,9" xlink:title="あんどう発達クリニック" transform="ref(svg,13405.9972,-3429.858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ありとも内科クリニック,香川県高松市小村町２５６-１３,内科　消化器内科,,,9" xlink:title="ありとも内科クリニック" transform="ref(svg,13409.7687,-3428.5092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,印藤医院,香川県高松市栗林町３-３-４,内科　消化器科,,,9" xlink:title="印藤医院" transform="ref(svg,13404.89,-3432.9297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしこ外科医院,香川県高松市錦町２-１２-２８,胃腸科　外科　整形外科　こう門科,,,9" xlink:title="いしこ外科医院" transform="ref(svg,13404.025,-3434.637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩部医院,香川県高松市松福町２-１０-１０,内科　呼吸器科　小児科,,,9" xlink:title="岩部医院" transform="ref(svg,13406.6753,-3434.1399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲井皮膚科クリニック,香川県高松市円座町１２９-７,皮膚科,,,9" xlink:title="稲井皮膚科クリニック" transform="ref(svg,13400.3299,-3428.4939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石田クリニック,香川県高松市-町５-１-２３,リハビリ科　麻酔科,,,9" xlink:title="（医）石田クリニック" transform="ref(svg,13404.2968,-3433.8381)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いとうクリニック,香川県高松市木太町３２３８-７,内科　脳神経外科　リハビリ科　麻酔科,,,9" xlink:title="（医）いとうクリニック" transform="ref(svg,13407.5417,-3433.3186)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いずみ内科医院,香川県高松市高松町１６８９-４,内科　消化器内科　循環器内科　糖尿病・代謝内科,,,9" xlink:title="（医）いずみ内科医院" transform="ref(svg,13411.1917,-3433.4439)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石井皮膚科医院,香川県高松市木太町１３２３-１,皮膚科,,,9" xlink:title="（医）石井皮膚科医院" transform="ref(svg,13407.262,-3432.0265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）イズミ医院,香川県高松市三谷町９０-１,内科　神経内科　循環器内科　脳卒中内科　リハビリ科,,,9" xlink:title="（医）イズミ医院" transform="ref(svg,13407.8219,-3427.868)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑洋会泉クリニック,香川県高松市屋島西町２４９０-１,内科　心療内科　精神科　神経内科,,,9" xlink:title="（医）緑洋会泉クリニック" transform="ref(svg,13408.8727,-3434.8601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）一宮の里医務室,香川県高松市一宮町８７５,内科,,,9" xlink:title="（特養）一宮の里医務室" transform="ref(svg,13402.9506,-3429.1689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしばし内科医院,香川県高松市塩上町９-１５,内科　胃腸科　循環器科,,,9" xlink:title="いしばし内科医院" transform="ref(svg,13405.1002,-3433.5836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩藤内科医院,香川県高松市牟礼町牟礼２１２８-１０,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="岩藤内科医院" transform="ref(svg,13412.4616,-3434.348)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石川外科胃腸科医院,香川県高松市松縄町４８-２,胃腸科　外科,,,9" xlink:title="（医）石川外科胃腸科医院" transform="ref(svg,13406.1167,-3432.2732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）少将井いがわ医院,香川県高松市藤塚町１-１１-１,内科　整形外科　形成外科　皮膚科　眼科　耳鼻咽喉科　リハビリ科,,,9" xlink:title="（医）少将井いがわ医院" transform="ref(svg,13404.6794,-3433.3579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いとうわんぱくクリニック,香川県高松市楠上町２-３-１５アルファメディカルモール２階,アレルギー科　小児科,,,9" xlink:title="（医）いとうわんぱくクリニック" transform="ref(svg,13405.6583,-3432.9561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いまいこどもファミリークリニック,香川県高松市新田町甲６５８-７,血液内科　小児科,,,9" xlink:title="いまいこどもファミリークリニック" transform="ref(svg,13410.1969,-3432.5343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井耳鼻咽喉科医院,香川県高松市木太町４０２３-５,耳鼻咽喉科,,,9" xlink:title="石井耳鼻咽喉科医院" transform="ref(svg,13408.0871,-3431.8867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,磯島クリニック,香川県高松市常磐町２-３-６,内科　心療内科　精神科　リハビリ科,,,9" xlink:title="磯島クリニック" transform="ref(svg,13405.1018,-3433.7887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内田眼科クリニック,香川県高松市扇町２-１-７,眼科,,,9" xlink:title="（医）内田眼科クリニック" transform="ref(svg,13403.8977,-3434.4961)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）勇静会上原耳鼻咽喉科医院,香川県高松市国分寺町新居１３６２,耳鼻咽喉科,,,9" xlink:title="（医）勇静会上原耳鼻咽喉科医院" transform="ref(svg,13396.2889,-3429.8388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,牛山クリニック,香川県高松市檀紙町６８-１,内科　消化器内科　外科,,,9" xlink:title="牛山クリニック" transform="ref(svg,13399.6077,-3429.7197)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）うえむら耳鼻咽喉科,香川県高松市楠上町２-３-１５,耳鼻咽喉科,,,9" xlink:title="（医）うえむら耳鼻咽喉科" transform="ref(svg,13405.6583,-3432.9561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠藤医院,香川県高松市浜ノ町５８-１０,呼吸器科　胃腸科　外科　整形外科　リハビリ科　麻酔科,,,9" xlink:title="遠藤医院" transform="ref(svg,13403.8536,-3434.9962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えのもとクリニック,香川県高松市亀井町９-３,心療内科　精神科,,,9" xlink:title="えのもとクリニック" transform="ref(svg,13404.8071,-3433.9486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）エデンの丘医務室,香川県高松市鶴市町１７７０-４,内科,,,9" xlink:title="（特養）エデンの丘医務室" transform="ref(svg,13401.6207,-3433.7181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＮＴＴ西日本高松診療所,香川県高松市観光町６４９-８,内科　婦人科,,,9" xlink:title="ＮＴＴ西日本高松診療所" transform="ref(svg,13406.3445,-3433.3967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江藤内科クリニック,香川県高松市六条町１９８-１,内科,,,9" xlink:title="江藤内科クリニック" transform="ref(svg,13409.0144,-3430.035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えないメンタルクリニック,香川県高松市観光町６４９-８,心療内科　精神科,,,9" xlink:title="えないメンタルクリニック" transform="ref(svg,13406.3445,-3433.3967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＡＢＣクリニック高松,香川県高松市瓦町２-１２-８リーゼンビル４階,美容外科,,,9" xlink:title="ＡＢＣクリニック高松" transform="ref(svg,13405.1019,-3433.9345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大内胃腸科眼科医院,香川県高松市高松町２５０７-４,内科　胃腸科　眼科,,,9" xlink:title="大内胃腸科眼科医院" transform="ref(svg,13410.7947,-3433.7741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡部循環器内科医院,香川県高松市塩屋町１６-９,内科　循環器科,,,9" xlink:title="岡部循環器内科医院" transform="ref(svg,13405.5305,-3434.3092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大塚整形外科医院,香川県高松市中央町１-２８,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）大塚整形外科医院" transform="ref(svg,13404.6687,-3433.7084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おだ整形外科医院,香川県高松市花ノ宮町２-１２-１,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）おだ整形外科医院" transform="ref(svg,13404.7572,-3432.356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小川内科医院,香川県高松市藤塚町３-３-１２,内科　消化器科　循環器科　放射線科,,,9" xlink:title="（医）小川内科医院" transform="ref(svg,13405.3488,-3433.5266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大西整形外科クリニック,香川県高松市松島町１-８-１８,外科　整形外科　リハビリ科,,,9" xlink:title="（医）大西整形外科クリニック" transform="ref(svg,13406.1569,-3434.0326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）岡本荘医務室,香川県高松市岡本町５２７-１,内科　外科,,,9" xlink:title="（特養）岡本荘医務室" transform="ref(svg,13399.4873,-3426.6213)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）おりいぶ荘医務室,香川県高松市太田下町２０２０-１,内科,,,9" xlink:title="（特養）おりいぶ荘医務室" transform="ref(svg,13403.9011,-3430.4285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）すこやかおおた小児科アレルギー科クリニック,香川県高松市春日町４６６-１,呼吸器科　アレルギー科　小児科,,,9" xlink:title="（医）すこやかおおた小児科アレルギー科クリニック" transform="ref(svg,13409.2377,-3432.3162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野ペインクリニック,香川県高松市天神前５-６-４Ｆ,麻酔科,,,9" xlink:title="大野ペインクリニック" transform="ref(svg,13404.5005,-3434.0326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大嶋整形外科医院,香川県高松市香川町大野１０９２-１,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）大嶋整形外科医院" transform="ref(svg,13402.5409,-3426.9532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国立療養所大島青松園所属所診療部,香川県高松市庵治町６０３４-１,内科　外科　整形外科　眼科　耳鼻咽喉科　歯科,,,9" xlink:title="国立療養所大島青松園所属所診療部" transform="ref(svg,13410.7703,-3440.7721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おか整形・リハビリクリニック,香川県高松市西ハゼ町８-１,整形外科　リハビリ科,,,9" xlink:title="おか整形・リハビリクリニック" transform="ref(svg,13403.7555,-3432.1596)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大橋内科胃腸科,香川県高松市三条町１０９-１,内科　胃腸科,,,9" xlink:title="（医）大橋内科胃腸科" transform="ref(svg,13404.3977,-3431.0869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おか内科クリニック,香川県高松市香川町川東上１８６４-３,内科　呼吸器内科　消化器内科　糖尿病内科,,,9" xlink:title="おか内科クリニック" transform="ref(svg,13403.6573,-3424.097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おはら整形外科クリニック,香川県高松市多肥下町１５４３-１,リウマチ科　外科　整形外科　胃腸外科　肛門外科　リハビリ科,,,9" xlink:title="（医）おはら整形外科クリニック" transform="ref(svg,13405.9678,-3430.2011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大饗内科消化器科医院,香川県高松市成合町７２８-７,内科　心療内科　精神科　消化器内科,,,9" xlink:title="大饗内科消化器科医院" transform="ref(svg,13401.5265,-3430.446)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡部耳鼻咽喉科医院,香川県高松市屋島西町２５０６-１７,耳鼻咽喉科,,,9" xlink:title="岡部耳鼻咽喉科医院" transform="ref(svg,13409.1816,-3434.7255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）空会大西内科クリニック,香川県高松市屋島西町２４９０-１８,内科　呼吸器内科　アレルギー科,,,9" xlink:title="（医）空会大西内科クリニック" transform="ref(svg,13408.8331,-3434.7432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおくぼ小児科,香川県高松市東山崎町４６６-３,アレルギー科　小児科　新生児内科,,,9" xlink:title="おおくぼ小児科" transform="ref(svg,13409.8323,-3430.0226)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田中央医院,香川県高松市太田上町８９４-５,内科　胃腸内科　循環器内科　リウマチ科　外科　整形外科　脳神経外科　リハビリ科　放射線科,,,9" xlink:title="太田中央医院" transform="ref(svg,13404.2844,-3430.0384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田クリニック,香川県高松市福岡町２-２４-２６,内科　外科　泌尿器科　リハビリ科,,,9" xlink:title="太田クリニック" transform="ref(svg,13406.4473,-3434.4054)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香川大学保健管理センター,香川県高松市幸町２-１,内科,,,9" xlink:title="香川大学保健管理センター" transform="ref(svg,13403.7438,-3434.0688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香川県身体障害者療護施設たまも園医務室,香川県高松市田村町７９７,内科,,,9" xlink:title="香川県身体障害者療護施設たまも園医務室" transform="ref(svg,13402.9212,-3430.6854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香川県赤十字血液センター,香川県高松市郷東町５８７-１,内科,,,9" xlink:title="香川県赤十字血液センター" transform="ref(svg,13401.9497,-3435.0363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川原耳鼻咽喉科医院,香川県高松市瓦町２-７-２０,耳鼻咽喉科,,,9" xlink:title="川原耳鼻咽喉科医院" transform="ref(svg,13405.106,-3433.967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）海部医院,香川県高松市高松町２３６５,内科　循環器科　皮膚科　泌尿器科,,,9" xlink:title="（医）海部医院" transform="ref(svg,13411.4912,-3434.0244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,春日佐々木医院,香川県高松市春日町１６５０-１,内科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="春日佐々木医院" transform="ref(svg,13409.0318,-3433.6615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（財）香川県総合健診協会,香川県高松市郷東町５８７-１,内科　婦人科　放射線科,,,9" xlink:title="（財）香川県総合健診協会" transform="ref(svg,13401.9497,-3435.0363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河西医院,香川県高松市-町１-７-１１,リウマチ科　外科　整形外科　リハビリ科,,,9" xlink:title="河西医院" transform="ref(svg,13404.7571,-3434.2413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地方職員（共済）香川県庁診療所,香川県高松市-町４-１-１０,内科,,,9" xlink:title="地方職員（共済）香川県庁診療所" transform="ref(svg,13404.336,-3434.016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわにし眼科医院,香川県高松市上之町１-３-１１,眼科,,,9" xlink:title="かわにし眼科医院" transform="ref(svg,13404.6412,-3432.2066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤眼科クリニック,香川県高松市多肥下町１５４８-２０,眼科,,,9" xlink:title="加藤眼科クリニック" transform="ref(svg,13405.9437,-3430.1109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かねたけ耳鼻咽喉科医院,香川県高松市屋島西町１９６８-７,アレルギー科　耳鼻咽喉科,,,9" xlink:title="（医）かねたけ耳鼻咽喉科医院" transform="ref(svg,13410.0131,-3433.7068)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,形見医院,香川県高松市-町４-８-２５,内科　循環器科　小児科,,,9" xlink:title="形見医院" transform="ref(svg,13403.8584,-3434.1848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）菅循環器科内科クリニック,香川県高松市中間町４０-１,内科　消化器科　循環器科,,,9" xlink:title="（医）菅循環器科内科クリニック" transform="ref(svg,13400.1422,-3428.7041)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）弘雅会亀井内科呼吸器科医院,香川県高松市太田下町３００７-４,内科　呼吸器科　アレルギー科,,,9" xlink:title="（医）弘雅会亀井内科呼吸器科医院" transform="ref(svg,13405.2162,-3430.52)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）カマ田医院,香川県高松市香川町大野２４５０-２,内科　胃腸科,,,9" xlink:title="（医）カマ田医院" transform="ref(svg,13402.5629,-3427.1799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かとう皮フ科クリニック,香川県高松市香川町大野２４５３-１,皮膚科,,,9" xlink:title="（医）かとう皮フ科クリニック" transform="ref(svg,13402.5824,-3427.1785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）川地クリニック,香川県高松市松縄町１１１７-１６,内科　呼吸器科　アレルギー科,,,9" xlink:title="（医）川地クリニック" transform="ref(svg,13405.9608,-3431.6832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かしむら内科医院,香川県高松市多肥上町７１８-１,内科　胃腸科　リハビリ科,,,9" xlink:title="（医）かしむら内科医院" transform="ref(svg,13405.1898,-3428.9708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）川ばた整形・リハビリクリニック,香川県高松市出作町４３１-５,整形外科　リハビリ科,,,9" xlink:title="（医）川ばた整形・リハビリクリニック" transform="ref(svg,13404.7806,-3428.6481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）勝賀かつが整形外科クリニック,香川県高松市香西本町１１４-１０,リウマチ科　整形外科　リハビリ科　麻酔科,,,9" xlink:title="（医）勝賀かつが整形外科クリニック" transform="ref(svg,13400.1554,-3434.9054)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤医院,香川県高松市天神前１-２２,耳鼻咽喉科　気管食道科,,,9" xlink:title="加藤医院" transform="ref(svg,13404.6241,-3434.0146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香川労働基準協会,香川県高松市郷東町４３６-３,内科,,,9" xlink:title="香川労働基準協会" transform="ref(svg,13400.961,-3434.7803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かど小児科クリニック,香川県高松市多肥下町１５５６-１５,小児科,,,9" xlink:title="（医）かど小児科クリニック" transform="ref(svg,13405.6615,-3430.18)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香川県赤十字血液センター丸亀町出張所,香川県高松市丸亀町１３-３,内科,,,9" xlink:title="香川県赤十字血液センター丸亀町出張所" transform="ref(svg,13405.0378,-3434.4456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かとう整形外科,香川県高松市楠上町１-５-３１,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="かとう整形外科" transform="ref(svg,13405.8527,-3433.0989)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわさきレディースクリニック,香川県高松市郷東町１３４-１西高松メディカル・イーア４Ｆ,産婦人科,,,9" xlink:title="かわさきレディースクリニック" transform="ref(svg,13401.6853,-3434.4707)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つばさ楓の森整形外科,香川県高松市小村町２５６-２,整形外科　リハビリ科,,,9" xlink:title="（医）つばさ楓の森整形外科" transform="ref(svg,13409.7657,-3428.4411)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠岡腎・透析・泌尿器科クリニック,香川県高松市郷東町字東新開１４８-３,泌尿器科　泌尿器科（人口透析）,,,9" xlink:title="笠岡腎・透析・泌尿器科クリニック" transform="ref(svg,13401.6841,-3434.5064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加地医院,香川県高松市牟礼町牟礼２２-１,内科,,,9" xlink:title="加地医院" transform="ref(svg,13413.9593,-3433.8602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一耀会かがわ整形外科クリニック,香川県高松市屋島西町１３４７-１０,整形外科　リハビリ科,,,9" xlink:title="（医）一耀会かがわ整形外科クリニック" transform="ref(svg,13409.4017,-3434.634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正眼会加藤眼科医院,香川県高松市天神前１０-２８,眼科,,,9" xlink:title="（医）正眼会加藤眼科医院" transform="ref(svg,13404.6668,-3433.7955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木村内科呼吸器科医院,香川県高松市高松町２３１０-２,内科　呼吸器科,,,9" xlink:title="（医）木村内科呼吸器科医院" transform="ref(svg,13411.816,-3434.0089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木村医院,香川県高松市前田東町８００-１,内科　循環器科　小児科,,,9" xlink:title="（医）木村医院" transform="ref(svg,13411.373,-3429.5211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北村外科医院,香川県高松市木太町１８２９-２,胃腸科　外科　整形外科　こう門科,,,9" xlink:title="北村外科医院" transform="ref(svg,13406.8556,-3432.6413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,協和医院,香川県高松市東山崎町１６５-８,内科　外科,,,9" xlink:title="協和医院" transform="ref(svg,13409.077,-3430.681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）北村皮膚科医院,香川県高松市木太町１８６１-４,皮膚科,,,9" xlink:title="（医）北村皮膚科医院" transform="ref(svg,13407.0245,-3432.6756)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,キッズメディカルまなべ,香川県高松市太田上町４２０-１,小児科,,,9" xlink:title="キッズメディカルまなべ" transform="ref(svg,13404.0597,-3429.7288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北島眼科,香川県高松市兵庫町８-２アルファステイツ兵庫町１０２,眼科,,,9" xlink:title="北島眼科" transform="ref(svg,13404.7146,-3434.6435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木村耳鼻咽喉科医院,香川県高松市太田上町４２０-１,アレルギー科　耳鼻咽喉科,,,9" xlink:title="（医）木村耳鼻咽喉科医院" transform="ref(svg,13404.0119,-3429.7528)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,共立美容外科クリニック,香川県高松市サンポート２-１高松シンボルタワー９Ｆ,形成外科　美容外科,,,9" xlink:title="共立美容外科クリニック" transform="ref(svg,13404.6708,-3435.2526)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）喜田医院,香川県高松市高松町２５００-５,内科,,,9" xlink:title="（医）喜田医院" transform="ref(svg,13410.9361,-3433.8255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）重陽会きゅうか内科クリニック,香川県高松市木太町５５１-１,内科　呼吸器内科,,,9" xlink:title="（医）重陽会きゅうか内科クリニック" transform="ref(svg,13407.3215,-3431.2182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三心会くにしげ内科小児科医院,香川県高松市香川町浅野１３７-１,内科　呼吸器科　消化器科　小児科,,,9" xlink:title="（医）三心会くにしげ内科小児科医院" transform="ref(svg,13403.5212,-3426.9881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）くろべクリニック,香川県高松市木太町１３３５-４,アレルギー科　小児科　産婦人科,,,9" xlink:title="（医）くろべクリニック" transform="ref(svg,13407.3276,-3431.9766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ＪＵＮＯ　ＣＬＩＮＩＱＵＥ　Ｊ　形成外科,香川県高松市常磐町１-３-１コトデン瓦町ビル９階,形成外科　美容外科　美容皮膚科,,,9" xlink:title="（医）ＪＵＮＯ　ＣＬＩＮＩＱＵＥ　Ｊ　形成外科" transform="ref(svg,13405.2592,-3433.8924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,楠の森眼科医院,香川県高松市木太町１６０８-５,眼科,,,9" xlink:title="楠の森眼科医院" transform="ref(svg,13407.3015,-3432.3029)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,経済産業省（共済）四国支部診療所,香川県高松市サンポート３-３３,内科,,,9" xlink:title="経済産業省（共済）四国支部診療所" transform="ref(svg,13404.5791,-3435.2357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,経済産業省（共済）産業技術総合研究所支部診療所四国分室,香川県高松市林町２２１７-１４,内科,,,9" xlink:title="経済産業省（共済）産業技術総合研究所支部診療所四国分室" transform="ref(svg,13407.53,-3429.4644)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑林会恵生産婦人科医院,香川県高松市栗林町１-６-２１,産科　婦人科,,,9" xlink:title="（医）緑林会恵生産婦人科医院" transform="ref(svg,13404.7064,-3433.0787)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）高松医療センター診療部,香川県高松市新田町乙８,内科　呼吸器科　小児科　外科　皮膚泌尿器科　放射線科,,,9" xlink:title="厚生労働省第二（共済）高松医療センター診療部" transform="ref(svg,13410.9931,-3432.0061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河野内科医院,香川県高松市東山崎町５４３-５,内科　リハビリ科,,,9" xlink:title="河野内科医院" transform="ref(svg,13409.6618,-3430.2539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香西内科医院,香川県高松市檀紙町１５３１-１,内科,,,9" xlink:title="香西内科医院" transform="ref(svg,13399.9811,-3430.5757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こんスキンケアクリニック,香川県高松市今里町４-６,形成外科　皮膚科,,,9" xlink:title="こんスキンケアクリニック" transform="ref(svg,13405.8537,-3432.3278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）弘善会（特養）弘恩苑医務室,香川県高松市前田西町６８３-７,内科,,,9" xlink:title="（福）弘善会（特養）弘恩苑医務室" transform="ref(svg,13410.8777,-3430.6936)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）玄道会小林医院,香川県高松市錦町２-１７-１１,内科　呼吸器科　胃腸科　外科　泌尿器科　麻酔科,,,9" xlink:title="（医）玄道会小林医院" transform="ref(svg,13404.2387,-3434.538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）弘善会（特養）香色苑医務室,香川県高松市高松町１３５０-２２,内科,,,9" xlink:title="（福）弘善会（特養）香色苑医務室" transform="ref(svg,13412.002,-3433.2429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）逅里苑医務室,香川県高松市屋島東町４０８-１,内科　泌尿器科,,,9" xlink:title="（特養）逅里苑医務室" transform="ref(svg,13411.166,-3435.9337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小林内科小児科医院,香川県高松市屋島西町２４８５-６,内科　呼吸器科　胃腸科　アレルギー科　小児科,,,9" xlink:title="（医）小林内科小児科医院" transform="ref(svg,13408.9158,-3435.1766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小谷医院,香川県高松市香川町安原下第３号１６２,内科　消化器科　外科,,,9" xlink:title="小谷医院" transform="ref(svg,13403.2032,-3421.3799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五色台クリニック,香川県高松市寿町１-１-５,心療内科　精神科,,,9" xlink:title="五色台クリニック" transform="ref(svg,13404.8684,-3435.0736)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こくぶ脳外科・内科クリニック,香川県高松市国分寺町福家字下福家甲３８１２-１,内科　脳神経外科,,,9" xlink:title="（医）こくぶ脳外科・内科クリニック" transform="ref(svg,13396.1949,-3429.3352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）裕和会こじまクリニック,香川県高松市楠上町２-３-１５アルファメディカルモール２Ｆ,内科　循環器内科,,,9" xlink:title="（医）裕和会こじまクリニック" transform="ref(svg,13405.6583,-3432.9561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五番丁医院,香川県高松市-町２-４-１６,内科　外科　整形外科　こう門科　リハビリ科,,,9" xlink:title="五番丁医院" transform="ref(svg,13404.3867,-3434.3047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鷺岡クリニック,香川県高松市中新町１１-１２三幸ビル２Ｆ,内科　精神科　神経科,,,9" xlink:title="鷺岡クリニック" transform="ref(svg,13404.8066,-3433.6891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木小児科医院,香川県高松市松縄町１０７４-１,小児科,,,9" xlink:title="佐々木小児科医院" transform="ref(svg,13406.3685,-3431.8896)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）耕彩会三条山下内科医院,香川県高松市三条町５０４-１,内科　神経内科　循環器科,,,9" xlink:title="（医）耕彩会三条山下内科医院" transform="ref(svg,13404.6003,-3431.8024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらメンタルクリニック,香川県高松市高松町２４１２-１０-１０１,精神科,,,9" xlink:title="さくらメンタルクリニック" transform="ref(svg,13411.3106,-3434.1081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榊原クリニック,香川県高松市田町３-２５,内科　麻酔科,,,9" xlink:title="榊原クリニック" transform="ref(svg,13404.8337,-3433.738)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木内科クリニック,香川県高松市福岡町４-２-１,内科　呼吸器科　循環器科,,,9" xlink:title="佐々木内科クリニック" transform="ref(svg,13406.8772,-3434.3014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斎藤クリニック,香川県高松市松縄町１０１６-１,内科　リハビリ科　麻酔科,,,9" xlink:title="斎藤クリニック" transform="ref(svg,13405.7864,-3431.9854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）さぬき診療所,香川県高松市宮脇町２-３７-２１,内科,,,9" xlink:title="（福）さぬき診療所" transform="ref(svg,13402.974,-3433.7517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）さくら荘医務室,香川県高松市林町７６-１４,内科,,,9" xlink:title="（特養）さくら荘医務室" transform="ref(svg,13406.6275,-3429.415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さわ医院,香川県高松市六条町４８１-１,消化器内科　外科　整形外科　こう門科,,,9" xlink:title="さわ医院" transform="ref(svg,13408.1541,-3429.3698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰平会佐藤クリニック,香川県高松市成合町７２６-１,内科　外科　整形外科　こう門科　リハビリ科　放射線科,,,9" xlink:title="（医）泰平会佐藤クリニック" transform="ref(svg,13401.5239,-3430.4158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈和会佐々木内科医院,香川県高松市扇町１-２４-５,内科　胃腸科　循環器科　小児科,,,9" xlink:title="（医）慈和会佐々木内科医院" transform="ref(svg,13403.9231,-3434.619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらい耳鼻咽喉科クリニック,香川県高松市多肥下町１５４９-１,耳鼻咽喉科,,,9" xlink:title="さくらい耳鼻咽喉科クリニック" transform="ref(svg,13405.9839,-3430.1475)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤皮フ科泌尿器科性病科医院,香川県高松市栗林町１-１３-８,皮膚科　泌尿器科　性病科,,,9" xlink:title="佐藤皮フ科泌尿器科性病科医院" transform="ref(svg,13404.6524,-3432.8357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設サン未来医務室,香川県高松市新田町甲２７１７-１,内科,,,9" xlink:title="障害者支援施設サン未来医務室" transform="ref(svg,13409.9259,-3432.874)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）さんさん荘医務室,香川県高松市香川町川内原１００３-１,内科,,,9" xlink:title="（特養）さんさん荘医務室" transform="ref(svg,13405.0408,-3423.1774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂口眼科医院,香川県高松市太田上町４２０-１,眼科,,,9" xlink:title="坂口眼科医院" transform="ref(svg,13404.0092,-3429.7378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠心会さとう内科クリニック,香川県高松市新田町甲２６０７-４,内科　糖尿病内科　内分泌内科,,,9" xlink:title="（医）誠心会さとう内科クリニック" transform="ref(svg,13409.8661,-3432.6259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さんごの海整形外科,香川県高松市観光通１-３-４レアーレ瓦町１階１０２,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="さんごの海整形外科" transform="ref(svg,13405.1781,-3433.6742)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンフラワーマタニティークリニック,香川県高松市太田下町３０１７-３,産科　婦人科,,,9" xlink:title="サンフラワーマタニティークリニック" transform="ref(svg,13405.0946,-3430.1253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）弘仁会三条整形外科スポーツクリニック,香川県高松市三条町４８２-１,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）弘仁会三条整形外科スポーツクリニック" transform="ref(svg,13404.6445,-3431.7763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さんあいクリニック,香川県高松市松縄町１００５-３,心療内科　精神科　耳鼻咽喉科,,,9" xlink:title="さんあいクリニック" transform="ref(svg,13406.0335,-3432.0768)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科・消化器内科佐々木クリニック,香川県高松市香川町浅野１０３０-１,内科　消化器内科,,,9" xlink:title="内科・消化器内科佐々木クリニック" transform="ref(svg,13403.4356,-3425.5767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ササキメディカルクリニック,香川県高松市多肥下町１５４７-８,内科　外科　乳腺外科　リハビリ科,,,9" xlink:title="ササキメディカルクリニック" transform="ref(svg,13406.1756,-3430.1678)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塩見内科医院,香川県高松市楠上町１-９-３６,内科,,,9" xlink:title="塩見内科医院" transform="ref(svg,13405.5013,-3433.0755)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四国電力（株）総合健康開発センター,香川県高松市丸の内２-５,内科,,,9" xlink:title="四国電力（株）総合健康開発センター" transform="ref(svg,13405.0293,-3434.8132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四国電力（株）高松支店健康管理センター,香川県高松市亀井町７-９,内科　循環器科,,,9" xlink:title="四国電力（株）高松支店健康管理センター" transform="ref(svg,13404.8672,-3434.0139)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四宮医院,香川県高松市西植田町１５４０,内科　小児科　脳神経外科　放射線科,,,9" xlink:title="四宮医院" transform="ref(svg,13408.6725,-3424.4093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しらかわ小児科医院,香川県高松市一宮町９７-７,小児科,,,9" xlink:title="（医）しらかわ小児科医院" transform="ref(svg,13403.4586,-3428.3918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四国旅客鉄道（株）高松診療所,香川県高松市浜ノ町８-２４,内科　眼科,,,9" xlink:title="四国旅客鉄道（株）高松診療所" transform="ref(svg,13404.1671,-3434.9607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）シオンの丘ホーム医務室,香川県高松市香西北町２６０,内科,,,9" xlink:title="（特養）シオンの丘ホーム医務室" transform="ref(svg,13399.5139,-3435.4258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白井内科医院,香川県高松市国分寺町新名４４０-２３,内科　消化器科　循環器科　小児科,,,9" xlink:title="白井内科医院" transform="ref(svg,13396.0626,-3429.5781)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）渋谷整形外科医院,香川県高松市牟礼町牟礼９８６-１,リウマチ科　外科　整形外科　リハビリ科,,,9" xlink:title="（医）渋谷整形外科医院" transform="ref(svg,13413.0862,-3434.2495)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しぶや小児科クリニック,香川県高松市牟礼町牟礼２１００-１,小児科,,,9" xlink:title="（医）しぶや小児科クリニック" transform="ref(svg,13412.7105,-3434.357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しげなり内科医院,香川県高松市香南町池内５１７-１５,内科　心療内科　精神科　神経科　神経内科　胃腸科,,,9" xlink:title="（医）しげなり内科医院" transform="ref(svg,13400.0513,-3424.3912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）守里苑医務室,香川県高松市牟礼町大町２５５５-２,内科　泌尿器科,,,9" xlink:title="（特養）守里苑医務室" transform="ref(svg,13412.7866,-3433.1703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）静正会白石心臓血管クリニック,香川県高松市六条町１６６,循環器科　心臓血管外科,,,9" xlink:title="（医）静正会白石心臓血管クリニック" transform="ref(svg,13408.931,-3429.9549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）じんないクリニック,香川県高松市伏石町２０３４-１,神経内科　脳神経外科,,,9" xlink:title="（医）じんないクリニック" transform="ref(svg,13405.6153,-3431.7435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白神眼科医院,香川県高松市松縄町３７-７,眼科,,,9" xlink:title="白神眼科医院" transform="ref(svg,13406.5584,-3432.1482)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しんまるクリニック,香川県高松市上福岡町９２２-１,内科,,,9" xlink:title="しんまるクリニック" transform="ref(svg,13406.6999,-3432.7239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）菅原眼科医院,香川県高松市観光通１-５-５,眼科,,,9" xlink:title="（医）菅原眼科医院" transform="ref(svg,13405.2715,-3433.6689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）すみれ荘医務室,香川県高松市十川西町１２３４-１,内科,,,9" xlink:title="（特養）すみれ荘医務室" transform="ref(svg,13409.9729,-3425.9976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鈴木レディースクリニック,香川県高松市福岡町３-１１-２７,産婦人科,,,9" xlink:title="（医）鈴木レディースクリニック" transform="ref(svg,13406.8921,-3434.5471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）住谷小児科医院,香川県高松市郷東町２５-４,小児科,,,9" xlink:title="（医）住谷小児科医院" transform="ref(svg,13401.255,-3434.245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉上産婦人科医院,香川県高松市香川町浅野１０２６-５,内科　産科　婦人科　麻酔科,,,9" xlink:title="杉上産婦人科医院" transform="ref(svg,13403.5145,-3425.5528)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すざき内科医院,香川県高松市松島町２-２２-１,内科　消化器内科　循環器内科,,,9" xlink:title="すざき内科医院" transform="ref(svg,13406.4618,-3433.7661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,妹尾循環器科内科クリニック,香川県高松市内町１-１３日新内町ビル２Ｆ,内科　循環器科,,,9" xlink:title="妹尾循環器科内科クリニック" transform="ref(svg,13405.0534,-3434.684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）三宅医学研究所附属セントラルパーククリニック,香川県高松市-町１-１０-１６,内科　外科　整形外科　婦人科　リハビリ科　放射線科,,,9" xlink:title="（一財）三宅医学研究所附属セントラルパーククリニック" transform="ref(svg,13404.5312,-3434.0949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）瀬上皮フ科医院,香川県高松市扇町２-２-１２,皮膚科,,,9" xlink:title="（医）瀬上皮フ科医院" transform="ref(svg,13403.8612,-3434.475)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,聖（セント）アイクリニック,香川県高松市三条町６０８-１,眼科,,,9" xlink:title="聖（セント）アイクリニック" transform="ref(svg,13404.2504,-3431.7027)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）扇寿,香川県高松市香南町横井４９２-１,内科　精神科,,,9" xlink:title="（特養）扇寿" transform="ref(svg,13401.1903,-3424.4879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,全人クリニック,香川県高松市勅使町６２-４,内科　心療内科　精神科,,,9" xlink:title="全人クリニック" transform="ref(svg,13400.9832,-3430.6587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）せとうちクリニック,香川県高松市松福町２-１０-５,呼吸器内科　胃腸内科　外科　リハビリ科,,,9" xlink:title="（医）せとうちクリニック" transform="ref(svg,13406.6791,-3434.1858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,創聖（健保）四国健康管理室,香川県高松市勅使町７６-１,内科,,,9" xlink:title="創聖（健保）四国健康管理室" transform="ref(svg,13400.8239,-3430.7755)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高杉会そがべ整形外科・外科医院,香川県高松市一宮町１１２５,内科　外科　整形外科　リハビリ科　麻酔科,,,9" xlink:title="（医）高杉会そがべ整形外科・外科医院" transform="ref(svg,13402.795,-3428.9804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）そごうクリニック,香川県高松市川島本町２９８,消化器科　外科　整形外科　皮膚泌尿器科　リハビリ科,,,9" xlink:title="（医）そごうクリニック" transform="ref(svg,13408.65,-3427.95)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵生会十河診療所,香川県高松市十川西町３６８-１,内科　小児科　脳神経外科　眼科　リハビリ科,,,9" xlink:title="（医）恵生会十河診療所" transform="ref(svg,13410.3292,-3427.5929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松市国民健康保険女木診療所,香川県高松市女木町１１２,内科　外科,,,9" xlink:title="高松市国民健康保険女木診療所" transform="ref(svg,13405.202,-3439.1199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松市国民健康保険男木診療所,香川県高松市男木町１３４,内科　外科,,,9" xlink:title="高松市国民健康保険男木診療所" transform="ref(svg,13405.4888,-3442.2151)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松刑務所医務部診療所,香川県高松市松福町２-１６-６３,内科　心療内科　精神科　神経科　神経内科　呼吸器科　消化器科　胃腸科　循環器科　アレルギー科　リウマチ科　小児科　外科　整形外科　形成外科　美容外科　脳神経外科　呼吸器外科　心臓血管外科　小児外科　皮膚泌尿器科　皮膚科　泌尿器科　性病科　こう門科,産婦人科　産科　婦人科　眼科　耳鼻咽喉科　気管食道科　リハビリ科　放射線科　麻酔科　歯科,,9" xlink:title="高松刑務所医務部診療所" transform="ref(svg,13406.4398,-3434.1413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多田医院,香川県高松市扇町１-２５-４８,内科　小児科,,,9" xlink:title="多田医院" transform="ref(svg,13403.6664,-3434.6065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松市総合体育館診療所,香川県高松市福岡町４-３６-１,内科,,,9" xlink:title="高松市総合体育館診療所" transform="ref(svg,13407.4136,-3434.1991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田渕医院,香川県高松市扇町１-２５-２５,内科　外科　婦人科,,,9" xlink:title="田渕医院" transform="ref(svg,13403.5842,-3434.5666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）育林会谷本医院,香川県高松市林町１２８１,内科　小児科,,,9" xlink:title="（医）育林会谷本医院" transform="ref(svg,13407.6038,-3430.0609)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多田羅内科クリニック,香川県高松市-町３-３-１,内科　呼吸器内科　消化器内科　循環器内科,,,9" xlink:title="多田羅内科クリニック" transform="ref(svg,13404.2255,-3434.2809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田原内科医院,香川県高松市松縄町４１-５,呼吸器内科　消化器内科　循環器内科　糖尿病・内分泌内科,,,9" xlink:title="（医）田原内科医院" transform="ref(svg,13406.3866,-3432.2051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）武田耳鼻咽喉科医院,香川県高松市太田下町２３５５-５,耳鼻咽喉科　気管食道科,,,9" xlink:title="（医）武田耳鼻咽喉科医院" transform="ref(svg,13404.7018,-3431.0395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博翔会高田整形外科医院,香川県高松市御厩町４７６,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）博翔会高田整形外科医院" transform="ref(svg,13399.0191,-3430.6525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高松脳神経外科・外科医院,香川県高松市檀紙町１５９３-１,外科　整形外科　脳神経外科　リハビリ科　放射線科,,,9" xlink:title="（医）高松脳神経外科・外科医院" transform="ref(svg,13399.7946,-3430.5207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）瀧川整形外科医院,香川県高松市林町１５８３-１,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）瀧川整形外科医院" transform="ref(svg,13407.185,-3430.3377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）太隆会タムラ整形外科医院,香川県高松市上天神町１３０-３,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）太隆会タムラ整形外科医院" transform="ref(svg,13403.578,-3431.3889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高畠医院,香川県高松市木太町１９８６,内科　リウマチ科　外科　整形外科　皮膚科　泌尿器科　リハビリ科,,,9" xlink:title="（医）高畠医院" transform="ref(svg,13406.962,-3432.8984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田坂耳鼻咽喉科医院,香川県高松市松島町１-１４-２３,アレルギー科　耳鼻咽喉科　気管食道科,,,9" xlink:title="田坂耳鼻咽喉科医院" transform="ref(svg,13406.1564,-3433.9493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけべ乳腺外科クリニック,香川県高松市多肥下町３６５-９,乳腺外科,,,9" xlink:title="たけべ乳腺外科クリニック" transform="ref(svg,13405.5159,-3429.7127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）萌光会高塚クリニック整形外科耳鼻咽喉科,香川県高松市中間町２３-１,リウマチ科　整形外科　耳鼻咽喉科　リハビリ科,,,9" xlink:title="（医）萌光会高塚クリニック整形外科耳鼻咽喉科" transform="ref(svg,13400.0327,-3428.5835)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）竹広小児科医院,香川県高松市太田下町２４６２-３,小児科,,,9" xlink:title="（医）竹広小児科医院" transform="ref(svg,13404.9143,-3430.9997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）谷崎眼科医院,香川県高松市円座町１２９-４,眼科,,,9" xlink:title="（医）谷崎眼科医院" transform="ref(svg,13400.3555,-3428.5154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,財務省（共済）高松国税局支部診療所,香川県高松市天神前２-１０,内科　歯科,,,9" xlink:title="財務省（共済）高松国税局支部診療所" transform="ref(svg,13404.6921,-3433.9602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,法務省（共済）検察庁高松支部診療所,香川県高松市丸の内１-１,内科,,,9" xlink:title="法務省（共済）検察庁高松支部診療所" transform="ref(svg,13404.9421,-3434.8168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）大寿苑医務室,香川県高松市鬼無町鬼無８８２-２,内科,,,9" xlink:title="（特養）大寿苑医務室" transform="ref(svg,13398.5907,-3431.8253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高畠小児科・アレルギー科医院,香川県高松市木太町１８１３-１,アレルギー科　小児科,,,9" xlink:title="（医）高畠小児科・アレルギー科医院" transform="ref(svg,13406.7679,-3432.6677)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）整愛会整形外科高松厚生クリニック,香川県高松市塩上町８-１３,リウマチ科　整形外科　形成外科　リハビリ科,,,9" xlink:title="（医）整愛会整形外科高松厚生クリニック" transform="ref(svg,13405.0902,-3433.5439)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高田耳鼻咽喉科医院,香川県高松市松縄町１１４３-２６,耳鼻咽喉科,,,9" xlink:title="（医）高田耳鼻咽喉科医院" transform="ref(svg,13406.1541,-3431.0363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松市保健所,香川県高松市桜町１-９-１２,内科,,,9" xlink:title="高松市保健所" transform="ref(svg,13405.1891,-3433.0389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,裁判所（共済）高松支部診療所,香川県高松市丸の内１-３６,内科,,,9" xlink:title="裁判所（共済）高松支部診療所" transform="ref(svg,13404.9337,-3434.7482)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清仁会玉藻クリニック,香川県高松市寿町１-１-５,内科　リウマチ科,,,9" xlink:title="（医）清仁会玉藻クリニック" transform="ref(svg,13404.8655,-3435.0765)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たつや耳鼻咽喉科,香川県高松市高松町３００６-２１,耳鼻咽喉科,,,9" xlink:title="たつや耳鼻咽喉科" transform="ref(svg,13411.1099,-3434.0094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松家庭裁判所医務室,香川県高松市丸の内２-２７,内科　精神科　婦人科,,,9" xlink:title="高松家庭裁判所医務室" transform="ref(svg,13405.0051,-3434.7323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）高松さんさん荘医務室,香川県高松市西植田町４２１２-１,内科　精神科　婦人科,,,9" xlink:title="（特養）高松さんさん荘医務室" transform="ref(svg,13407.0722,-3423.1688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）玉藻荘医務室,香川県高松市北浜町７-１０,内科,,,9" xlink:title="（特養）玉藻荘医務室" transform="ref(svg,13405.6175,-3435.0281)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,タカオ整形外科医院,香川県高松市国分寺町新居１３１０-１,整形外科　リハビリ科　麻酔科,,,9" xlink:title="タカオ整形外科医院" transform="ref(svg,13395.821,-3429.6941)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）谷本内科医院,香川県高松市香川町大野９９７-３,内科　循環器科　リハビリ科,,,9" xlink:title="（医）谷本内科医院" transform="ref(svg,13402.8371,-3426.5689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高本内科医院,香川県高松市牟礼町原４３０,内科　胃腸科　循環器科,,,9" xlink:title="（医）高本内科医院" transform="ref(svg,13415.9345,-3432.8121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田村内科クリニック,香川県高松市庵治町６３８５-１０４,内科　消化器科　循環器科　糖尿病内科,,,9" xlink:title="田村内科クリニック" transform="ref(svg,13412.8204,-3438.4419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内科高橋クリニック,香川県高松市藤塚町１-８-１７,内科　消化器科　循環器科,,,9" xlink:title="（医）内科高橋クリニック" transform="ref(svg,13404.9194,-3433.3805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田井メディカルクリニック,香川県高松市田村町３３２-４,内科　胃腸科　外科　整形外科　皮膚科　放射線科,,,9" xlink:title="田井メディカルクリニック" transform="ref(svg,13402.9703,-3431.5698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松少年鑑別所医務課診療所,香川県高松市藤塚町３-７-２８,内科　小児科　外科,,,9" xlink:title="高松少年鑑別所医務課診療所" transform="ref(svg,13405.4016,-3433.4314)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多機能ホームやまぶき医務室,香川県高松市三谷町２７１-１,内科,,,9" xlink:title="多機能ホームやまぶき医務室" transform="ref(svg,13407.5568,-3427.7295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松市民病院附属香川診療所,香川県高松市香川町浅野１２６０,内科　小児科　外科　整形外科　眼科　耳鼻咽喉科　リハビリ科,,,9" xlink:title="高松市民病院附属香川診療所" transform="ref(svg,13403.4172,-3425.0241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ポラリスたむら内科,香川県高松市多肥上町１４６１,内科　呼吸器内科　消化器内科　胃腸内科　循環器内科　血液内科　アレルギー科　リウマチ科　リハビリ科,,,9" xlink:title="（医）ポラリスたむら内科" transform="ref(svg,13405.7568,-3429.2919)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）立心会高松ハートクリニック,香川県高松市春日町１４８-１,内科　循環器内科,,,9" xlink:title="（医）立心会高松ハートクリニック" transform="ref(svg,13409.2732,-3431.7182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）たちばな荘医務室,香川県高松市国分寺町新名２０８１-２,内科　外科,,,9" xlink:title="（特養）たちばな荘医務室" transform="ref(svg,13395.2823,-3427.2624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛和会たかまつクリニック,香川県高松市木太町１１７４-１,内科　心療内科　精神科,,,9" xlink:title="愛和会たかまつクリニック" transform="ref(svg,13406.9118,-3432.1804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹田耳鼻咽喉科クリニック,香川県高松市郷東町１３４-１西高松メディカルビルイーア１階,アレルギー科　耳鼻咽喉科,,,9" xlink:title="竹田耳鼻咽喉科クリニック" transform="ref(svg,13401.6853,-3434.4707)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佳友会タウンクリニック高松東,香川県高松市春日町４３８-１,内科　消化器内科　循環器内科,,,9" xlink:title="（医）佳友会タウンクリニック高松東" transform="ref(svg,13409.0868,-3432.2432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高松神経内科クリニック,香川県高松市紺屋町４-１０鹿島紺屋町ビル１Ｆ,精神科　神経内科,,,9" xlink:title="（医）高松神経内科クリニック" transform="ref(svg,13404.68,-3434.4942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）自尊会,香川県高松市太田上町４２０-１,リウマチ科　整形外科　リハビリ科　放射線科,,,9" xlink:title="（医）自尊会" transform="ref(svg,13404.0597,-3429.7288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松市夜間急病診療所,香川県高松市松島町１-１６-２０,内科　小児科　眼科　耳鼻咽喉科,,,9" xlink:title="高松市夜間急病診療所" transform="ref(svg,13405.9656,-3433.9287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松市医師会健診部,香川県高松市松島町１-１６-２０,内科,,,9" xlink:title="高松市医師会健診部" transform="ref(svg,13405.9656,-3433.9287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ツゲ医院,香川県高松市川部町１４４３-１,内科　外科,,,9" xlink:title="ツゲ医院" transform="ref(svg,13400.9763,-3426.5552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,筒井内科医院,香川県高松市鍛冶屋町１-６,内科　胃腸科　循環器科　小児科　放射線科,,,9" xlink:title="筒井内科医院" transform="ref(svg,13404.9287,-3434.359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）翼医院,香川県高松市茜町１６-１２,内科　胃腸科　循環器科　放射線科,,,9" xlink:title="（医）翼医院" transform="ref(svg,13402.5998,-3434.965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁和会辻クリニック,香川県高松市林町１５０１-１,腹部外科　内科（循環器科）　外科　消化器外科　血管外科,,,9" xlink:title="（医）仁和会辻クリニック" transform="ref(svg,13407.2834,-3430.2159)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺井山内医院,香川県高松市寺井町１０５３-１８,内科　消化器内科　循環器内科　糖尿病内科　アレルギー科,,,9" xlink:title="寺井山内医院" transform="ref(svg,13402.7016,-3427.81)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,トビウメ小児科医院,香川県高松市伏石町１３９０-１,小児科,,,9" xlink:title="トビウメ小児科医院" transform="ref(svg,13405.0947,-3431.8857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑会トイバナクリニック,香川県高松市栗林町１-１３-１８,内科,,,9" xlink:title="（医）緑会トイバナクリニック" transform="ref(svg,13404.6207,-3432.8092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）眞貴会徳野医院,香川県高松市木太町２８０８-１,整形外科　リハビリ科　麻酔科,,,9" xlink:title="（医）眞貴会徳野医院" transform="ref(svg,13408.3458,-3433.4053)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）水明会とびうめ内科医院,香川県高松市伏石町２１３１-２,内科　呼吸器科　胃腸科,,,9" xlink:title="（医）水明会とびうめ内科医院" transform="ref(svg,13405.7387,-3430.8766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）とみおか内科クリニック,香川県高松市-町２-６-１３,内科,,,9" xlink:title="（医）とみおか内科クリニック" transform="ref(svg,13404.3252,-3434.3827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京ノーストクリニック,香川県高松市丸亀町４-１パイロットビル４Ｆ,形成外科　泌尿器科,,,9" xlink:title="東京ノーストクリニック" transform="ref(svg,13404.9946,-3434.4257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中嶋耳鼻咽喉科医院,香川県高松市内町１-８文新ビル２Ｆ,耳鼻咽喉科,,,9" xlink:title="中嶋耳鼻咽喉科医院" transform="ref(svg,13405.0272,-3434.6862)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村眼科医院,香川県高松市藤塚町１-７-７,眼科,,,9" xlink:title="中村眼科医院" transform="ref(svg,13404.9054,-3433.4198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,那須医院,香川県高松市円座町１５９３,内科　小児科,,,9" xlink:title="那須医院" transform="ref(svg,13400.6618,-3428.4526)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永井小児科医院,香川県高松市茜町２-２０,小児科,,,9" xlink:title="（医）永井小児科医院" transform="ref(svg,13402.652,-3434.8884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中空医院,香川県高松市香西本町２５６-１,内科　消化器内科　循環器内科,,,9" xlink:title="（医）中空医院" transform="ref(svg,13400.401,-3434.3514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）なでしこ香川医務室,香川県高松市多肥上町１４２３-１,内科,,,9" xlink:title="（特養）なでしこ香川医務室" transform="ref(svg,13405.8249,-3429.4563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中川皮膚科医院,香川県高松市国分寺町新居１２８８-６,皮膚科,,,9" xlink:title="中川皮膚科医院" transform="ref(svg,13396.1009,-3429.7276)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なりあい医院,香川県高松市成合町１３５７,胃腸内科　外科　リハビリ科,,,9" xlink:title="なりあい医院" transform="ref(svg,13401.8599,-3430.1222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健心会,香川県高松市飯田町３４３-１,内科　外科,,,9" xlink:title="（医）健心会" transform="ref(svg,13399.8024,-3432.0497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西風医院,香川県高松市三谷町１２２０,内科　産科　婦人科,,,9" xlink:title="西風医院" transform="ref(svg,13406.7843,-3427.7965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西風循環器科医院,香川県高松市紺屋町３-１２,内科　呼吸器科　循環器科　麻酔科,,,9" xlink:title="西風循環器科医院" transform="ref(svg,13404.7699,-3434.4784)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西本内科クリニック,香川県高松市屋島西町１４６９-１４,内科　消化器科　循環器科,,,9" xlink:title="西本内科クリニック" transform="ref(svg,13409.6328,-3434.1431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）良済会西春日小児科医院,香川県高松市松並町５５９-３,小児科,,,9" xlink:title="（医）良済会西春日小児科医院" transform="ref(svg,13402.7229,-3431.622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）西春日診療所,香川県高松市西春日町１５１０-１,内科,,,9" xlink:title="（特養）西春日診療所" transform="ref(svg,13402.0196,-3431.5543)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁泉会西岡医院,香川県高松市寺井町１３８５-１０,内科　リウマチ科　小児科　整形外科　リハビリ科,,,9" xlink:title="（医）仁泉会西岡医院" transform="ref(svg,13402.3413,-3428.2001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新田外科整形外科医院,香川県高松市木太町２５４３-１３,リウマチ科　外科　整形外科　リハビリ科,,,9" xlink:title="新田外科整形外科医院" transform="ref(svg,13407.8433,-3433.4836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西本皮膚科医院,香川県高松市松縄町１１３９-６,皮膚科,,,9" xlink:title="西本皮膚科医院" transform="ref(svg,13406.1727,-3431.1685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本たばこ産業（株）四国支店エリア支援部診察室,香川県高松市錦町１-１２-１６,内科,,,9" xlink:title="日本たばこ産業（株）四国支店エリア支援部診察室" transform="ref(svg,13404.3735,-3434.6882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西川クリニック,香川県高松市瓦町１-４-５,外科　整形外科　リハビリ科,,,9" xlink:title="西川クリニック" transform="ref(svg,13405.276,-3434.1671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西原眼科医院,香川県高松市香川町大野１３２５-１,眼科,,,9" xlink:title="（医）西原眼科医院" transform="ref(svg,13402.5596,-3426.682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西高松脳外科・内科クリニック,香川県高松市郷東町１３４-１西高松メディカルビルイーア２階,内科　脳神経外科　リハビリ科,,,9" xlink:title="西高松脳外科・内科クリニック" transform="ref(svg,13401.6651,-3434.4782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ぬもと内科医院,香川県高松市昭和町２-１４-１３,内科　呼吸器科,,,9" xlink:title="ぬもと内科医院" transform="ref(svg,13403.1047,-3434.2645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）沼本産婦人科医院,香川県高松市東田町４-８,産科　婦人科,,,9" xlink:title="（医）沼本産婦人科医院" transform="ref(svg,13405.0954,-3433.552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野口内科医院,香川県高松市前田東町１２１３-２,内科　胃腸科,,,9" xlink:title="野口内科医院" transform="ref(svg,13411.0562,-3428.8477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）野田医院,香川県高松市多賀町２-９-１６,内科　循環器科　小児科,,,9" xlink:title="（医）野田医院" transform="ref(svg,13405.9442,-3433.6398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のざき内科循環器科クリニック,香川県高松市木太町２６３１-１,内科　循環器科,,,9" xlink:title="のざき内科循環器科クリニック" transform="ref(svg,13408.1393,-3433.7397)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のむら内科循環器消化器クリニック,香川県高松市香川町川東上字漆原１８０２-７,内科　消化器内科　循環器内科,,,9" xlink:title="のむら内科循環器消化器クリニック" transform="ref(svg,13403.2164,-3423.9814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原胃腸科医院,香川県高松市常磐町１-４-８丸新ビル６Ｆ,内科　胃腸科,,,9" xlink:title="原胃腸科医院" transform="ref(svg,13405.1605,-3433.8765)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）幡内科消化器科医院,香川県高松市天神前６-１８,内科　消化器科,,,9" xlink:title="（医）幡内科消化器科医院" transform="ref(svg,13404.4346,-3433.8061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伸萌会花房外科医院,香川県高松市鶴市町２０２６-１,胃腸科　外科　こう門科　リハビリ科,,,9" xlink:title="（医）伸萌会花房外科医院" transform="ref(svg,13401.0564,-3433.9479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）蓮井内科医院,香川県高松市太田上町３４６-５,内科　消化器内科　循環器内科　糖尿病・代謝内科,,,9" xlink:title="（医）蓮井内科医院" transform="ref(svg,13404.0368,-3429.4478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）はた医院,香川県高松市香西本町８９,内科　消化器科　小児科　リハビリ科,,,9" xlink:title="（医）はた医院" transform="ref(svg,13400.2433,-3434.9034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はなぞの園医務室,香川県高松市上福岡町２００４-１,精神科　整形外科　泌尿器科,,,9" xlink:title="（特養）はなぞの園医務室" transform="ref(svg,13406.0777,-3433.0939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）八幡みやけ内科医院,香川県高松市亀岡町１１-１０,内科　人工透析内科　腎臓内科　リウマチ科,,,9" xlink:title="（医）八幡みやけ内科医院" transform="ref(svg,13403.9706,-3433.6752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）林皮フ科医院,香川県高松市多肥下町２４６-１,皮膚科,,,9" xlink:title="（医）林皮フ科医院" transform="ref(svg,13405.3166,-3429.8386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）はらだ産婦人科医院,香川県高松市花ノ宮町１-５-３０,産婦人科,,,9" xlink:title="（医）はらだ産婦人科医院" transform="ref(svg,13404.9779,-3432.6546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ひまわり会はまもと医院,香川県高松市六条町７９５-６,内科　呼吸器内科　胃腸内科　循環器内科　人工透析内科　糖尿病内科　腎臓内科　老年内科　アレルギー疾患内科　リハビリ科,,,9" xlink:title="（医）ひまわり会はまもと医院" transform="ref(svg,13407.8562,-3429.7651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）はせ川内科循環器科医院,香川県高松市屋島西町１７３６,内科　循環器科,,,9" xlink:title="（医）はせ川内科循環器科医院" transform="ref(svg,13409.9014,-3434.2171)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,端岡厚生クリニック,香川県高松市国分寺町新居４６９-６,内科　外科　整形外科　リハビリ科,,,9" xlink:title="端岡厚生クリニック" transform="ref(svg,13396.78,-3430.5624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ハピネスこどもクリニック,香川県高松市十川東町５５-１,小児科,,,9" xlink:title="（医）ハピネスこどもクリニック" transform="ref(svg,13410.8658,-3427.1774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はたぞえ内科医院,香川県高松市木太町２３２３-１,内科　循環器内科　糖尿病・代謝内科,,,9" xlink:title="はたぞえ内科医院" transform="ref(svg,13407.2589,-3433.5801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花ノ宮クリニック,香川県高松市花ノ宮町１-５-３６,内科　循環器内科　人工透析内科　腎臓内科　リウマチ科,,,9" xlink:title="花ノ宮クリニック" transform="ref(svg,13404.943,-3432.6824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八幡前三好医院,香川県高松市宮脇町１-３１-５,内科,,,9" xlink:title="八幡前三好医院" transform="ref(svg,13403.602,-3433.6931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,番丁クリニック,香川県高松市-町５-９-１０,内科　整形外科,,,9" xlink:title="番丁クリニック" transform="ref(svg,13403.811,-3433.9457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はなこ眼科クリニック,香川県高松市南新町８-１１-３Ｆ,眼科,,,9" xlink:title="はなこ眼科クリニック" transform="ref(svg,13404.9296,-3433.9221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平井眼科医院,香川県高松市木太町２５５９-２,眼科,,,9" xlink:title="（医）平井眼科医院" transform="ref(svg,13407.935,-3433.3731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひがさクリニック,香川県高松市三谷町１６９７-１４,小児科　整形外科　リハビリ科,,,9" xlink:title="ひがさクリニック" transform="ref(svg,13406.0357,-3427.9291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平野泌尿器科医院,香川県高松市上福岡町９８４-１北村ビル３Ｆ,泌尿器科,,,9" xlink:title="平野泌尿器科医院" transform="ref(svg,13406.4423,-3432.8487)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ピュア形成外科医院,香川県高松市天神前５-６-６Ｆ,形成外科　美容外科　皮膚科,,,9" xlink:title="ピュア形成外科医院" transform="ref(svg,13404.5004,-3434.0326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ピュアクリニック,香川県高松市亀井町３-３-２Ｆ,形成外科　美容外科　皮膚科,,,9" xlink:title="ピュアクリニック" transform="ref(svg,13404.8825,-3434.1383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しんあい会ひまわりクリニック高松,香川県高松市田町１４-３小倉ビル１階,眼科,,,9" xlink:title="（医）しんあい会ひまわりクリニック高松" transform="ref(svg,13404.926,-3433.8669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひぐらし荘医務室,香川県高松市香川町浅野１４１４,内科,,,9" xlink:title="ひぐらし荘医務室" transform="ref(svg,13403.7195,-3425.2809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）美術館北通り診療所,香川県高松市丸亀町１３-３,内科　心療内科　循環器内科　糖尿病内科　美容皮膚科　女性泌尿器科　泌尿器科（腎臓）　眼科　リハビリ科　麻酔科　ペインクリニック整形外科,,,9" xlink:title="（医）美術館北通り診療所" transform="ref(svg,13405.0677,-3434.4298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤谷外科医院,香川県高松市前田東町６３８-１,胃腸科　外科　整形外科　皮膚科　こう門科,,,9" xlink:title="藤谷外科医院" transform="ref(svg,13411.2787,-3429.1361)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福田外科医院,香川県高松市屋島西町２４４５-５,胃腸科　外科　こう門科,,,9" xlink:title="福田外科医院" transform="ref(svg,13409.3221,-3434.8886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福井医院,香川県高松市岡本町１７１０,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）福井医院" transform="ref(svg,13399.0815,-3427.2722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福田眼科医院,香川県高松市仏生山町甲３４４-３,眼科,,,9" xlink:title="（医）福田眼科医院" transform="ref(svg,13404.4385,-3428.2906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤井内科循環器科医院,香川県高松市多肥下町５７,内科　循環器内科,,,9" xlink:title="（医）藤井内科循環器科医院" transform="ref(svg,13404.9867,-3429.9109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤沢眼科医院,香川県高松市太田上町７８０-１,眼科,,,9" xlink:title="（医）藤沢眼科医院" transform="ref(svg,13404.7006,-3429.9994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）太紀会二川産婦人科レディースクリニック,香川県高松市三名町１１８-１,産科　婦人科,,,9" xlink:title="（医）太紀会二川産婦人科レディースクリニック" transform="ref(svg,13403.1963,-3428.7882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仏生山みぞぶち内科医院,香川県高松市仏生山町甲６９１-１,内科　胃腸内科,,,9" xlink:title="（医）仏生山みぞぶち内科医院" transform="ref(svg,13404.5144,-3428.0554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ぶんご内科医院,香川県高松市太田下町２４６３-６,内科　呼吸器科　消化器科,,,9" xlink:title="ぶんご内科医院" transform="ref(svg,13404.8754,-3431.0171)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤井外科胃腸科・整形外科,香川県高松市田村町１２７７,胃腸科　外科　整形外科,,,9" xlink:title="（医）藤井外科胃腸科・整形外科" transform="ref(svg,13403.6922,-3430.5552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤沢こどもクリニック,香川県高松市中間町４９-１０,小児科,,,9" xlink:title="（医）藤沢こどもクリニック" transform="ref(svg,13400.2095,-3428.7953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,深田クリニック,香川県高松市昭和町１-３-３８,内科　リハビリ科　麻酔科,,,9" xlink:title="深田クリニック" transform="ref(svg,13403.3739,-3434.4212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ふくま内科クリニック,香川県高松市牟礼町牟礼２５６０-１１,内科　消化器科　リハビリ科,,,9" xlink:title="（医）ふくま内科クリニック" transform="ref(svg,13412.1739,-3434.7237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仏生山クリニック,香川県高松市出作町２０５-１,内科　呼吸器科　アレルギー科　小児科,,,9" xlink:title="（医）仏生山クリニック" transform="ref(svg,13405.0702,-3428.4042)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ふじさわ医院,香川県高松市常磐町１-３-１,内科　耳鼻咽喉科　気管食道内科　麻酔科　ペインクリニック内科,,,9" xlink:title="（医）ふじさわ医院" transform="ref(svg,13405.2587,-3433.8924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,へいわこどもクリニック,香川県高松市栗林町１-４-１１,アレルギー科　小児科,,,9" xlink:title="へいわこどもクリニック" transform="ref(svg,13404.7338,-3433.1442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細田眼科医院,香川県高松市-町１-９-１０,眼科,,,9" xlink:title="細田眼科医院" transform="ref(svg,13404.5183,-3434.278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀耳鼻咽喉科医院,香川県高松市錦町２-１３-１１,耳鼻咽喉科,,,9" xlink:title="堀耳鼻咽喉科医院" transform="ref(svg,13403.966,-3434.5679)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）弘善会（特養）法寿苑医務室,香川県高松市木太町３３０８,内科,,,9" xlink:title="（福）弘善会（特養）法寿苑医務室" transform="ref(svg,13407.5245,-3432.7812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほそかわクリニック,香川県高松市-町１-２-１９,心療内科　精神科　神経科,,,9" xlink:title="ほそかわクリニック" transform="ref(svg,13404.668,-3434.4604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本多内科医院,香川県高松市今新町８-５,内科,,,9" xlink:title="本多内科医院" transform="ref(svg,13405.0862,-3434.4067)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松田胃腸科外科医院,香川県高松市高松町３００４-２,胃腸科　外科,,,9" xlink:title="松田胃腸科外科医院" transform="ref(svg,13411.2614,-3434.1163)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）マツオカ医院,香川県高松市一宮町１４３-５,内科　糖尿病内科　皮膚科,,,9" xlink:title="（医）マツオカ医院" transform="ref(svg,13403.3018,-3428.5817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松田内科医院,香川県高松市藤塚町１-３-２１,内科　胃腸内科　循環器内科　内視鏡内科　漢方内科　放射線科,,,9" xlink:title="（医）松田内科医院" transform="ref(svg,13404.7298,-3433.4563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真鍋医院,香川県高松市-町２-４-１５,耳鼻咽喉科　気管食道科,,,9" xlink:title="（医）真鍋医院" transform="ref(svg,13404.4131,-3434.3006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松本整形外科医院,香川県高松市塩上町２-８-１,整形外科　リハビリ科,,,9" xlink:title="（医）松本整形外科医院" transform="ref(svg,13405.548,-3433.8911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）哲樹会真弓内科呼吸器科医院,香川県高松市塩上町２-２-６,内科　呼吸器科　循環器科　糖尿病内科　女性内科　アレルギー科　リウマチ科　皮膚科　美容皮膚科,,,9" xlink:title="（医）哲樹会真弓内科呼吸器科医院" transform="ref(svg,13405.6165,-3434.057)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松山内科クリニック,香川県高松市多肥下町１５０１-１,内科　消化器科　循環器科,,,9" xlink:title="（医）松山内科クリニック" transform="ref(svg,13405.7106,-3430.663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松原耳鼻咽喉科医院,香川県高松市川島東町５１８-１,耳鼻咽喉科,,,9" xlink:title="松原耳鼻咽喉科医院" transform="ref(svg,13409.9577,-3427.625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丸の内皮膚科医院,香川県高松市片原町１１-１,皮膚科,,,9" xlink:title="丸の内皮膚科医院" transform="ref(svg,13405.3456,-3434.5486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡医院,香川県高松市香川町川東上２０３２-６,内科　小児科,,,9" xlink:title="松岡医院" transform="ref(svg,13403.6085,-3423.4875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）研友会真弓皮膚泌尿器科医院,香川県高松市福田町１３-３,皮膚科　泌尿器科,,,9" xlink:title="（医）研友会真弓皮膚泌尿器科医院" transform="ref(svg,13405.383,-3434.0877)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松下眼科,香川県高松市瓦町２-７-１冠野ビル４Ｆ,眼科,,,9" xlink:title="（医）松下眼科" transform="ref(svg,13405.1794,-3433.9942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）看源会松木泌尿器科医院,香川県高松市前田西町１０８０-７,泌尿器科　性病科,,,9" xlink:title="（医）看源会松木泌尿器科医院" transform="ref(svg,13409.9385,-3429.6087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明圭会まなべ眼科クリニック,香川県高松市-町３-２０-２,眼科,,,9" xlink:title="（医）明圭会まなべ眼科クリニック" transform="ref(svg,13403.8811,-3434.2133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科前田医院,香川県高松市松島町２-１７-１５,内科　アレルギー科　リハビリ科,,,9" xlink:title="内科前田医院" transform="ref(svg,13406.5671,-3433.7839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）マヤ内科医院,香川県高松市大工町１-１２,内科　消化器内科　循環器内科,,,9" xlink:title="（医）マヤ内科医院" transform="ref(svg,13405.1558,-3434.48)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つなぎまさだ皮フ科,香川県高松市郷東町東新開１３４-１西高松メディカルビルイーア３階,皮膚科　美容皮膚科,,,9" xlink:title="（医）つなぎまさだ皮フ科" transform="ref(svg,13401.6863,-3434.4753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あずみ会まつもと眼科,香川県高松市郷東町東新開１３４-１西高松メディカルビルイーア３階,眼科,,,9" xlink:title="（医）あずみ会まつもと眼科" transform="ref(svg,13401.6863,-3434.4753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丸亀町眼科医院,香川県高松市丸亀町５-９阿波屋ビル２階,眼科,,,9" xlink:title="丸亀町眼科医院" transform="ref(svg,13404.9755,-3434.3172)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丸亀町アイクリニック,香川県高松市丸亀町１２-８ラクダやビル２階,眼科,,,9" xlink:title="丸亀町アイクリニック" transform="ref(svg,13405.0235,-3434.3792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水原医院,香川県高松市由良町６２２,内科　小児科　皮膚科,,,9" xlink:title="水原医院" transform="ref(svg,13408.5957,-3428.7777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水原医院,香川県高松市瓦町２-２-２８,内科　外科　整形外科　リハビリ科　麻酔科,,,9" xlink:title="水原医院" transform="ref(svg,13405.1762,-3434.0268)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三好内科医院,香川県高松市川島本町４３１-５,内科　消化器科　循環器科　小児科　泌尿器科　リハビリ科,,,9" xlink:title="（医）三好内科医院" transform="ref(svg,13408.2342,-3427.6376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）溝口クリニック,香川県高松市円座町１５７５-３,内科,,,9" xlink:title="（医）溝口クリニック" transform="ref(svg,13400.5395,-3428.6456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宮武耳鼻咽喉科クリニック,香川県高松市香西南町５１２-１,耳鼻咽喉科,,,9" xlink:title="（医）宮武耳鼻咽喉科クリニック" transform="ref(svg,13400.1152,-3434.3331)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みのクリニック,香川県高松市瓦町２-７-１６-４Ｆ,心療内科　精神科　神経内科,,,9" xlink:title="みのクリニック" transform="ref(svg,13405.1805,-3433.9795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）光樹会水谷内科クリニック,香川県高松市木太町３６０２-１,内科　消化器科,,,9" xlink:title="（医）光樹会水谷内科クリニック" transform="ref(svg,13407.9625,-3432.4018)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つくし会三好外科胃腸科医院,香川県高松市亀田町２２６-１,胃腸内科　循環器内科　外科　整形外科　肛門外科　リハビリ科,,,9" xlink:title="（医）つくし会三好外科胃腸科医院" transform="ref(svg,13411.4726,-3428.4168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宮本耳鼻咽喉科医院,香川県高松市花ノ宮町１-１２-３６,耳鼻咽喉科,,,9" xlink:title="（医）宮本耳鼻咽喉科医院" transform="ref(svg,13404.6283,-3432.6568)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康和会三好外科胃腸科医院,香川県高松市香川町浅野１０３５-１,胃腸科　外科　整形外科　こう門科,,,9" xlink:title="（医）康和会三好外科胃腸科医院" transform="ref(svg,13403.3754,-3425.6467)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやべ耳鼻咽喉科クリニック,香川県高松市林町４７８-１,アレルギー科　耳鼻咽喉科,,,9" xlink:title="みやべ耳鼻咽喉科クリニック" transform="ref(svg,13407.4557,-3429.2499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みやもとレディースクリニック,香川県高松市楠上町２-３-１５,産科　婦人科,,,9" xlink:title="（医）みやもとレディースクリニック" transform="ref(svg,13405.6583,-3432.9561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むらせ内科クリニック,香川県高松市国分寺町新名字川田１６３２-１,内科　放射線科,,,9" xlink:title="むらせ内科クリニック" transform="ref(svg,13395.5044,-3428.3441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メディカルカウンセリングルームたなかクリニック,香川県高松市亀井町３-８Ａポイントビル４Ｆ,心療内科　精神科　神経科,,,9" xlink:title="メディカルカウンセリングルームたなかクリニック" transform="ref(svg,13404.8821,-3434.1258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森産婦人科医院,香川県高松市瓦町２-３-５,内科　産婦人科,,,9" xlink:title="森産婦人科医院" transform="ref(svg,13405.2345,-3434.0055)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）森下クリニック,香川県高松市三条町３０９-１ロゼ三条１Ｆ,内科　アレルギー科　リハビリ科　麻酔科,,,9" xlink:title="（医）森下クリニック" transform="ref(svg,13404.6148,-3431.5022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森クリニック,香川県高松市多肥下町４６８-３,放射線科,,,9" xlink:title="森クリニック" transform="ref(svg,13405.848,-3429.8597)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）森岡皮膚科医院,香川県高松市天神前８-１４,皮膚科　泌尿器科,,,9" xlink:title="（医）森岡皮膚科医院" transform="ref(svg,13404.5388,-3433.834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もりた皮膚科クリニック,香川県高松市楠上町２-３-１５,皮膚科,,,9" xlink:title="もりた皮膚科クリニック" transform="ref(svg,13405.6583,-3432.9561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森下内科医院,香川県高松市瓦町２-６-１,内科　循環器内科,,,9" xlink:title="森下内科医院" transform="ref(svg,13405.2222,-3433.9974)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山下内科医院,香川県高松市飯田町２５,内科　小児科,,,9" xlink:title="山下内科医院" transform="ref(svg,13399.9144,-3431.4135)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢野皮膚科クリニック,香川県高松市飯田町１７-５,アレルギー科　美容外科　皮膚科　美容皮膚科　泌尿器科,,,9" xlink:title="矢野皮膚科クリニック" transform="ref(svg,13399.9772,-3431.4204)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清瞳会山内クリニック,香川県高松市一宮町４０３-１,内科　循環器科　小児科　放射線科,,,9" xlink:title="（医）清瞳会山内クリニック" transform="ref(svg,13402.6053,-3428.3356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）温光会屋島整形外科医院,香川県高松市高松町３００９-２４,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）温光会屋島整形外科医院" transform="ref(svg,13411.0406,-3433.9459)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安原マタニティクリニック,香川県高松市三条町３２１-２,産科　婦人科,,,9" xlink:title="（医）安原マタニティクリニック" transform="ref(svg,13404.7051,-3431.5873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）隆朗会やまもと医院,香川県高松市天神前５-２２,内科　心療内科　精神科　神経科　アレルギー科,,,9" xlink:title="（医）隆朗会やまもと医院" transform="ref(svg,13404.4668,-3433.9744)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）英新会屋島伊藤クリニック,香川県高松市高松町２５５２-２,内科　心療内科　精神科　神経内科,,,9" xlink:title="（医）英新会屋島伊藤クリニック" transform="ref(svg,13410.7474,-3434.0371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎内科呼吸器科医院,香川県高松市春日町７９９-１,内科　呼吸器科　アレルギー科,,,9" xlink:title="山崎内科呼吸器科医院" transform="ref(svg,13409.2852,-3432.5068)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）準星会山下医院,香川県高松市国分寺町国分２１５５-３,内科　胃腸科　小児科,,,9" xlink:title="（医）準星会山下医院" transform="ref(svg,13394.6509,-3430.2343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山田医院,香川県高松市国分寺町新居３３８８,内科　消化器内科,,,9" xlink:title="（医）山田医院" transform="ref(svg,13397.4212,-3430.7956)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヤノ肛門外科クリニック,香川県高松市亀井町１１-７,肛門外科,,,9" xlink:title="ヤノ肛門外科クリニック" transform="ref(svg,13404.7987,-3433.8419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）屋島眼科クリニック,香川県高松市高松町３００２-１３,眼科,,,9" xlink:title="（医）屋島眼科クリニック" transform="ref(svg,13411.0667,-3434.0518)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）耕仁会やまぐちクリニック,香川県高松市天神前５-６,心療内科　精神科,,,9" xlink:title="（医）耕仁会やまぐちクリニック" transform="ref(svg,13404.4941,-3434.0294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安元クリニック,香川県高松市東山崎町９０-６,皮膚科　泌尿器科,,,9" xlink:title="（医）安元クリニック" transform="ref(svg,13409.0598,-3430.4211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）湯浅クリニック,香川県高松市上之町１-３-２９,内科　皮膚科　泌尿器科,,,9" xlink:title="（医）湯浅クリニック" transform="ref(svg,13404.5441,-3432.2194)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆいメンタルクリニック,香川県高松市伏石町２１５０-５,心療内科　精神科,,,9" xlink:title="ゆいメンタルクリニック" transform="ref(svg,13406.2153,-3430.7419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田内科医院,香川県高松市林町１９７１-１０,内科　胃腸科　循環器科,,,9" xlink:title="吉田内科医院" transform="ref(svg,13407.0817,-3430.5899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横井クリニック,香川県高松市丸の内４-９丸の内ビル２Ｆ,内科　胃腸科,,,9" xlink:title="横井クリニック" transform="ref(svg,13405.2133,-3434.8132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）香川県予防医学協会予防協会健康管理センター,香川県高松市伏石町２１２９-２,内科　外科　婦人科,,,9" xlink:title="（公財）香川県予防医学協会予防協会健康管理センター" transform="ref(svg,13405.5623,-3430.91)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）横田外科医院,香川県高松市生島町４６０-１,外科　麻酔科,,,9" xlink:title="（医）横田外科医院" transform="ref(svg,13396.0093,-3436.1561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしまつクリニック,香川県高松市西の丸町２-１７,心療内科　精神科　神経内科,,,9" xlink:title="よしまつクリニック" transform="ref(svg,13404.7877,-3435.0367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横井内科医院,香川県高松市木太町１６６３-２,内科,,,9" xlink:title="横井内科医院" transform="ref(svg,13407.3301,-3432.3605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）吉村整形外科醫院,香川県高松市木太町５０５５-４,リウマチ科　整形外科　リハビリ科,,,9" xlink:title="（医）吉村整形外科醫院" transform="ref(svg,13406.8385,-3431.5599)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よこい内科クリニック,香川県高松市多肥下町３５９-１,内科　神経内科　消化器内科　循環器内科　糖尿病・代謝内科　内分泌内科,,,9" xlink:title="よこい内科クリニック" transform="ref(svg,13405.537,-3429.8039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）よつばウイメンズクリニック,香川県高松市円座町３７５-１,産婦人科,,,9" xlink:title="（医）よつばウイメンズクリニック" transform="ref(svg,13399.9791,-3429.3152)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）優生会吉田眼科,香川県高松市国分寺町新居１３５６-１,眼科,,,9" xlink:title="（医）優生会吉田眼科" transform="ref(svg,13396.2508,-3429.8077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陽子レディースクリニック,香川県高松市丸亀町１-１丸亀町壱番街西館２階,女性内科　産婦人科　婦人科,,,9" xlink:title="陽子レディースクリニック" transform="ref(svg,13405.022,-3434.5783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）竜雲舜虹苑医務室,香川県高松市仏生山町甲３１００-２,内科,,,9" xlink:title="（特養）竜雲舜虹苑医務室" transform="ref(svg,13404.741,-3426.5082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竜雲メンタルクリニック,香川県高松市多肥下町４６６,心療内科　精神科,,,9" xlink:title="竜雲メンタルクリニック" transform="ref(svg,13405.831,-3429.7804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,リッツ美容外科,香川県高松市瓦町２-６-１４,美容外科,,,9" xlink:title="リッツ美容外科" transform="ref(svg,13405.2244,-3433.9479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺医院,香川県高松市-町１-７-２２,皮膚科　泌尿器科　性感染症科,,,9" xlink:title="渡辺医院" transform="ref(svg,13404.7396,-3434.2842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）わき外科クリニック,香川県高松市仏生山町甲４６０-８,内科　胃腸科　外科　皮膚泌尿器科　こう門科,,,9" xlink:title="（医）わき外科クリニック" transform="ref(svg,13404.7371,-3428.2142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田内科循環器科医院,香川県高松市鶴市町２０３９-２,内科　循環器科,,,9" xlink:title="和田内科循環器科医院" transform="ref(svg,13401.048,-3433.7669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）わたなべ内科消化器科医院,香川県高松市今里町１-３０-２１,内科　消化器科,,,9" xlink:title="（医）わたなべ内科消化器科医院" transform="ref(svg,13405.7113,-3432.5024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田産婦人科医院,香川県高松市木太町４０２０-１,産科　婦人科,,,9" xlink:title="和田産婦人科医院" transform="ref(svg,13408.057,-3431.921)" x="0" y="0"/>
+</g>
+</svg>

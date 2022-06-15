@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14203.125 -4218.75 140.625 140.625" go:dataArea="14203.125 -4218.75 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,（医）酒井歯科医院,北海道浦河郡浦河町堺町東３-１９-４,歯科　小児歯科,,,9" xlink:title="（医）酒井歯科医院" transform="ref(svg,14276.3756,-4218.2203)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉川デンタルクリニック,北海道浦河郡浦河町東町うしお１-４-１,歯科,,,9" xlink:title="吉川デンタルクリニック" transform="ref(svg,14278.7326,-4215.8109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田歯科医院,北海道浦河郡浦河町堺町東１-５-１５,歯科　小児歯科,,,9" xlink:title="原田歯科医院" transform="ref(svg,14276.098,-4217.5661)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堤田歯科医院,北海道浦河郡浦河町大通３-１５-１,歯科　小児歯科,,,9" xlink:title="堤田歯科医院" transform="ref(svg,14277.5311,-4216.1493)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青山歯科,北海道浦河郡浦河町堺町西６-１-１０,歯科　小児歯科,,,9" xlink:title="青山歯科" transform="ref(svg,14276.4803,-4218.5428)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かつみ歯科医院,北海道浦河郡浦河町昌平町３-９,歯科　小児歯科,,,9" xlink:title="かつみ歯科医院" transform="ref(svg,14276.6235,-4217.3401)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）島田歯科医院,北海道様似郡様似町緑町１６８-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）島田歯科医院" transform="ref(svg,14294.2026,-4213.5924)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ファミリー歯科医院,北海道様似郡様似町大通２-９９-２,歯科,,,9" xlink:title="ファミリー歯科医院" transform="ref(svg,14293.6364,-4212.7009)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）にしかわ歯科医院,北海道幌泉郡えりも町字大和３２４,歯科　矯正歯科,,,9" xlink:title="（医）にしかわ歯科医院" transform="ref(svg,14314.4999,-4201.9054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科クリニック,北海道幌泉郡えりも町字新浜１６-３,歯科　小児歯科,,,9" xlink:title="ささき歯科クリニック" transform="ref(svg,14314.9454,-4201.2163)" x="0" y="0"/>
+</g>
+</svg>

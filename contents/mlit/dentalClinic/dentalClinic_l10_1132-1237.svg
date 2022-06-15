@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13974.609375 -3563.96484375 4.39453125 4.39453125" go:dataArea="13974.609375 -3563.96484375 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,八潮歯科医院,東京都品川区八潮５-１２-６８-１０３,歯科,,,9" xlink:title="八潮歯科医院" transform="ref(svg,13975.3145,-3560.2711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおはし歯科,東京都品川区東品川３-２１-８ユーアイ品川２Ｆ,歯科,,,9" xlink:title="おおはし歯科" transform="ref(svg,13974.7492,-3561.3611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スフィアタワーデンタルクリニック,東京都品川区東品川２-２-８-２３４,歯科,,,9" xlink:title="スフィアタワーデンタルクリニック" transform="ref(svg,13974.9739,-3562.2761)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清貴会小川歯科,東京都品川区東品川２-２-４天王洲ファーストタワー１５Ｆ,歯科　矯正歯科,,,9" xlink:title="（医）清貴会小川歯科" transform="ref(svg,13974.9022,-3562.3407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天王洲パークサイドビル歯科,東京都品川区東品川２-５-８天王洲パークサイドビル２０１,歯科,,,9" xlink:title="天王洲パークサイドビル歯科" transform="ref(svg,13975.0286,-3562.1292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）則真会セントラルタワー歯科クリニック,東京都品川区東品川２-２-２４天王洲セントラルタワー３Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）則真会セントラルタワー歯科クリニック" transform="ref(svg,13974.881,-3562.2597)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）裕正会品川シーサイドイーストタワー歯科,東京都品川区東品川４-１２-８品川シーサイドイーストタワー１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）裕正会品川シーサイドイーストタワー歯科" transform="ref(svg,13974.8955,-3560.9166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,パークタウン歯科,東京都品川区八潮５-２-２パルシステム東京八潮ビル２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="パークタウン歯科" transform="ref(svg,13975.3494,-3560.4544)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）栄潤会シーフォート歯科クリニック,東京都品川区東品川２-３-１０シーフォートスクエア２階２０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）栄潤会シーフォート歯科クリニック" transform="ref(svg,13975.1016,-3562.4241)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）卓信会パトリアデンタルクリニック,東京都品川区八潮５-５-３八潮ショッピングセンターパトリア２階２０４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）卓信会パトリアデンタルクリニック" transform="ref(svg,13974.9952,-3559.9886)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天王洲郵船ビル歯科クリニック,東京都品川区東品川２-２-２０天王洲郵船ビル１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="天王洲郵船ビル歯科クリニック" transform="ref(svg,13975.0317,-3562.2114)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東品川歯科クリニック,東京都品川区東品川３-１８-３神興ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="東品川歯科クリニック" transform="ref(svg,13975.0007,-3561.3694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちの歯科医院,東京都品川区八潮５-６-３７品川八潮パークタウン潮路南第一ハイツ第３７号棟１０４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ちの歯科医院" transform="ref(svg,13975.0455,-3559.8567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）駿亜会テレコムセンターデンタルクリニック,東京都江東区青海２-５-１０テレコムセンターＷＯ３０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）駿亜会テレコムセンターデンタルクリニック" transform="ref(svg,13978.0387,-3561.745)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有明デンタルクリニック,東京都江東区有明１-４-１１Ｂｒｉｌｌｉａ　Ｚａｒｅ　Ａｒｉａｋｅ１Ｆ,歯科,,,9" xlink:title="有明デンタルクリニック" transform="ref(svg,13978.7277,-3563.7126)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルクリニック・ラ・ヴィル有明,東京都江東区有明３-５-７　ＴＯＣ有明イーストタワー　５階　Ｅ-７,矯正歯科　歯科　歯科口腔外科,,,9" xlink:title="デンタルクリニック・ラ・ヴィル有明" transform="ref(svg,13978.8851,-3563.2514)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,港南三丁目歯科医院,東京都港区港南３-５-２４第二港南廣瀬ビル１階,歯科　矯正歯科　小児歯科,,,9" xlink:title="港南三丁目歯科医院" transform="ref(svg,13974.7546,-3563.2789)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）光揚会シティタワー品川津田デンタルクリニック,東京都港区港南４-２-５シティタワー品川西棟２階,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="（医）光揚会シティタワー品川津田デンタルクリニック" transform="ref(svg,13974.8037,-3563.1057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）光揚会ワールドシティデンタルクリニック,東京都港区港南４-６-７-３０２,歯科,,,9" xlink:title="（医）光揚会ワールドシティデンタルクリニック" transform="ref(svg,13975.0745,-3562.7719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）浩整会お台場山本歯科医院,東京都港区台場１-５-７トミンハイム台場五番街１０６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）浩整会お台場山本歯科医院" transform="ref(svg,13977.8761,-3563.0586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アクアシティデンタルクリニック,東京都港区台場１-７-１アクアシティお台場６階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アクアシティデンタルクリニック" transform="ref(svg,13977.3603,-3562.7767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,台場フロンティアデンタルクリニック,東京都港区台場２-３-２台場フロンティアビル２階,歯科　矯正歯科　歯科口腔外科　小児歯科,,,9" xlink:title="台場フロンティアデンタルクリニック" transform="ref(svg,13977.7769,-3562.8646)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東京港診療所西原歯科医院,東京都港区海岸３-９-５　２階,歯科　小児歯科,,,9" xlink:title="東京港診療所西原歯科医院" transform="ref(svg,13975.3833,-3563.9193)" x="0" y="0"/>
+</g>
+</svg>

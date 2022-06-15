@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13042.96875 -3357.421875 17.578125 17.578125" go:dataArea="13042.96875 -3357.421875 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,青柳外科医院,福岡県筑紫野市二日市南２-２-１０,外科　胃腸科　リハビリテーション科　神経内科,,,9" xlink:title="青柳外科医院" transform="ref(svg,13052.1949,-3349.2622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯野内科,福岡県筑紫野市二日市中央４-１４-２３,内科　糖尿病内科,,,9" xlink:title="飯野内科" transform="ref(svg,13051.8715,-3349.9838)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いとう内科クリニック,福岡県筑紫野市原田６-１０-１,内科,,,9" xlink:title="（医）いとう内科クリニック" transform="ref(svg,13054.0369,-3345.1249)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）上野脳神経外科クリニック,福岡県筑紫野市原田４-１５-８,脳神経外科　放射線科　リハビリテーション科,,,9" xlink:title="（医）上野脳神経外科クリニック" transform="ref(svg,13054.3562,-3345.0497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）エンジェル会永川産婦人科医院,福岡県筑紫野市紫１-２５-５,産婦人科,,,9" xlink:title="（医）エンジェル会永川産婦人科医院" transform="ref(svg,13051.9342,-3349.701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おおたぐろ耳鼻咽喉科医院,福岡県筑紫野市筑紫駅前通１-７,耳鼻咽喉科,,,9" xlink:title="（医）おおたぐろ耳鼻咽喉科医院" transform="ref(svg,13055.3283,-3346.3254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鬼木眼科医院,福岡県筑紫野市二日市中央４-６-１１,眼科,,,9" xlink:title="（医）鬼木眼科医院" transform="ref(svg,13051.6473,-3349.9616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）黒木耳鼻咽喉科医院,福岡県筑紫野市二日市北１-１-１０,耳鼻咽喉科　気管食道科　アレルギー科,,,9" xlink:title="（医）黒木耳鼻咽喉科医院" transform="ref(svg,13051.8848,-3350.1182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）黒瀬眼科医院,福岡県筑紫野市二日市西２-１-３,眼科,,,9" xlink:title="（医）黒瀬眼科医院" transform="ref(svg,13051.4844,-3349.5267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）燦宗会どい内科クリニック,福岡県筑紫野市光が丘４-５-３,内科　消化器科　アレルギー科　リハビリテーション科,,,9" xlink:title="（医）燦宗会どい内科クリニック" transform="ref(svg,13056.0736,-3345.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）至誠会島松内科医院,福岡県筑紫野市二日市中央５-５-１６,内科　人工透析内科,,,9" xlink:title="（医）至誠会島松内科医院" transform="ref(svg,13051.5639,-3350.0251)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たかやま肛門・胃腸・外科クリニック,福岡県筑紫野市針摺西１-６-７,胃腸科　外科　肛門科,,,9" xlink:title="（医）たかやま肛門・胃腸・外科クリニック" transform="ref(svg,13053.1185,-3348.4963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つかさ会よこみぞ医院,福岡県筑紫野市立明寺５０６-５,胃腸科　外科　リハビリテーション科,,,9" xlink:title="（医）つかさ会よこみぞ医院" transform="ref(svg,13052.3891,-3348.3786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徒然会伊藤医院,福岡県筑紫野市二日市南３-１１-１５,内科　消化器科,,,9" xlink:title="（医）徒然会伊藤医院" transform="ref(svg,13052.6859,-3348.9281)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徳永外科医院,福岡県筑紫野市美しが丘南６-２-２,胃腸科　外科　肛門科,,,9" xlink:title="（医）徳永外科医院" transform="ref(svg,13054.0545,-3344.2974)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西尾産婦人科医院,福岡県筑紫野市紫４-１-１０,産婦人科　産科　婦人科,,,9" xlink:title="（医）西尾産婦人科医院" transform="ref(svg,13052.8626,-3349.5263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西尾小児科医院,福岡県筑紫野市湯町２-４-１,小児科　アレルギー科,,,9" xlink:title="（医）西尾小児科医院" transform="ref(svg,13051.5444,-3349.2112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西嶋整形外科医院,福岡県筑紫野市針摺中央２-１６-２７,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）西嶋整形外科医院" transform="ref(svg,13053.4042,-3348.3905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）にしひら耳鼻咽喉科クリニック,福岡県筑紫野市針摺西１-６-７,耳鼻咽喉科　気管食道科　アレルギー科,,,9" xlink:title="（医）にしひら耳鼻咽喉科クリニック" transform="ref(svg,13053.1185,-3348.4963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西本内科医院,福岡県筑紫野市原田６-８-１,内科　消化器科　循環器科　呼吸器科　小児科　リハビリテーション科,,,9" xlink:title="（医）西本内科医院" transform="ref(svg,13054.2041,-3345.1387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）北城整形外科医院,福岡県筑紫野市筑紫６１１-８,整形外科　リハビリテーション科,,,9" xlink:title="（医）北城整形外科医院" transform="ref(svg,13054.8714,-3346.1692)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宝満会うめづ医院,福岡県筑紫野市原田２-６-１２,胃腸科　外科　肛門科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）宝満会うめづ医院" transform="ref(svg,13054.5331,-3345.4811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まじま内科・循環器科,福岡県筑紫野市原田８-４-１,内科　循環器科,,,9" xlink:title="（医）まじま内科・循環器科" transform="ref(svg,13054.0598,-3345.3816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）丸山循環器科内科医院,福岡県筑紫野市紫４-６-１５,循環器科　内科　リハビリテーション科,,,9" xlink:title="（医）丸山循環器科内科医院" transform="ref(svg,13053.3641,-3349.426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みぞぐち小児科医院,福岡県筑紫野市筑紫駅前通１-１４８,内科　小児科,,,9" xlink:title="（医）みぞぐち小児科医院" transform="ref(svg,13055.5813,-3346.1245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）もり小児科医院,福岡県筑紫野市美しが丘南７-７-２,小児科,,,9" xlink:title="（医）もり小児科医院" transform="ref(svg,13054.0201,-3344.3864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安田医院,福岡県筑紫野市針摺西１-４-１２,内科　循環器科,,,9" xlink:title="（医）安田医院" transform="ref(svg,13053.1301,-3348.4183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安元耳鼻咽喉科医院,福岡県筑紫野市二日市西１-６-１,耳鼻咽喉科　アレルギー科,,,9" xlink:title="（医）安元耳鼻咽喉科医院" transform="ref(svg,13051.5627,-3349.5763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山本医院,福岡県筑紫野市美しが丘南６-２-１,消化器科　胃腸科　呼吸器科,,,9" xlink:title="（医）山本医院" transform="ref(svg,13054.0556,-3344.3201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）吉田会吉田泌尿器科医院,福岡県筑紫野市二日市西１-４-７,泌尿器科　性病科,,,9" xlink:title="（医）吉田会吉田泌尿器科医院" transform="ref(svg,13051.5085,-3349.6837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大塚内科クリニック,福岡県筑紫野市原８４２-１,内科　消化器科,,,9" xlink:title="大塚内科クリニック" transform="ref(svg,13054.8049,-3351.4691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大森医院,福岡県筑紫野市美しが丘北３-１１-４,内科　胃腸科　呼吸器科　外科,,,9" xlink:title="大森医院" transform="ref(svg,13054.6769,-3344.8408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,乙成内科医院,福岡県筑紫野市紫３-６-２８,内科　循環器科,,,9" xlink:title="乙成内科医院" transform="ref(svg,13052.8806,-3349.5641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野皮膚科医院,福岡県筑紫野市二日市南２-２-８,皮膚科,,,9" xlink:title="小野皮膚科医院" transform="ref(svg,13052.1796,-3349.2605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤田外科歯科医院,福岡県筑紫野市杉塚３-３-６,外科　肛門外科　消化器外科　内視鏡外科　リハビリテーション科　小児歯科　歯科,,,9" xlink:title="加藤田外科歯科医院" transform="ref(svg,13049.9914,-3350.1885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子眼科クリニック,福岡県筑紫野市原田６-１１-５,眼科,,,9" xlink:title="金子眼科クリニック" transform="ref(svg,13054.0367,-3345.1575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沓掛内科医院,福岡県筑紫野市桜台２-２３-１,内科　消化器科　循環器科　呼吸器科　小児科,,,9" xlink:title="沓掛内科医院" transform="ref(svg,13054.1315,-3347.121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニック仁,福岡県筑紫野市紫２-４-１,内科　リハビリテーション科,,,9" xlink:title="クリニック仁" transform="ref(svg,13052.3212,-3349.6262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽費老人ホーム筑紫の里,福岡県筑紫野市筑紫３８,内科,,,9" xlink:title="軽費老人ホーム筑紫の里" transform="ref(svg,13054.9942,-3346.4534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,このはなクリニック,福岡県筑紫野市二日市北１-２-３-２０２,心療内科　精神科,,,9" xlink:title="このはなクリニック" transform="ref(svg,13051.8754,-3350.162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さきむら医院,福岡県筑紫野市二日市中央５-１２-３,麻酔科,,,9" xlink:title="さきむら医院" transform="ref(svg,13051.571,-3350.1621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,重松医院,福岡県筑紫野市石崎２-２-２６,整形外科　形成外科,,,9" xlink:title="重松医院" transform="ref(svg,13052.7795,-3348.7294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設天心園診療所,福岡県筑紫野市平等寺１２９４-１,内科,,,9" xlink:title="障害者支援施設天心園診療所" transform="ref(svg,13047.1676,-3343.5119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉村内科クリニック,福岡県筑紫野市二日市北２-２-１,内科　消化器科,,,9" xlink:title="杉村内科クリニック" transform="ref(svg,13051.8706,-3350.2753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,スタジオ・リカ・クリニック,福岡県筑紫野市原田７-５-１１,心療内科　精神科,,,9" xlink:title="スタジオ・リカ・クリニック" transform="ref(svg,13054.0663,-3345.1984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,整形外科まつしたクリニック,福岡県筑紫野市二日市西１-４-３,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="整形外科まつしたクリニック" transform="ref(svg,13051.5182,-3349.6481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけだ眼科クリニック,福岡県筑紫野市美しが丘南７-１-３１,眼科,,,9" xlink:title="たけだ眼科クリニック" transform="ref(svg,13054.0168,-3344.443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちくしの眼科,福岡県筑紫野市立明寺４３４-１,眼科,,,9" xlink:title="ちくしの眼科" transform="ref(svg,13052.6776,-3348.0938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ちくしの荘医務室,福岡県筑紫野市原田４６２,一般内科　整形外科,,,9" xlink:title="（特養）ちくしの荘医務室" transform="ref(svg,13055.1932,-3344.6578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）天拝の園医務室,福岡県筑紫野市立明寺６１８-１,内科,,,9" xlink:title="（特養）天拝の園医務室" transform="ref(svg,13053.0437,-3348.0694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島眼科医院,福岡県筑紫野市二日市中央６-３-１０,眼科,,,9" xlink:title="中島眼科医院" transform="ref(svg,13051.7079,-3350.2075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかむら整形外科,福岡県筑紫野市原田３-１９-７,整形外科　リハビリテーション科,,,9" xlink:title="なかむら整形外科" transform="ref(svg,13054.295,-3345.1627)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成田整形外科医院,福岡県筑紫野市紫４-６-２１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="成田整形外科医院" transform="ref(svg,13053.4077,-3349.431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西田内科胃腸科医院,福岡県筑紫野市二日市北３-１-１０,内科　胃腸科,,,9" xlink:title="西田内科胃腸科医院" transform="ref(svg,13052.2489,-3350.403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本たばこ産業（株）九州工場医務室,福岡県筑紫野市上古賀２-１-１,内科,,,9" xlink:title="日本たばこ産業（株）九州工場医務室" transform="ref(svg,13052.2951,-3348.7277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,早瀬川医院,福岡県筑紫野市二日市中央４-１２-６,産婦人科,,,9" xlink:title="早瀬川医院" transform="ref(svg,13051.8444,-3350.0654)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はら脳神経外科医院,福岡県筑紫野市二日市西１-４-５,脳神経外科　リハビリテーション科,,,9" xlink:title="はら脳神経外科医院" transform="ref(svg,13051.5099,-3349.6682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,樋口医院,福岡県筑紫野市二日市中央５-１５-１３,内科,,,9" xlink:title="樋口医院" transform="ref(svg,13051.5044,-3350.2794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひろたこどもクリニック,福岡県筑紫野市針摺東３-２-１３,小児科,,,9" xlink:title="ひろたこどもクリニック" transform="ref(svg,13053.7551,-3348.5346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡県済生会（特養）むさし苑医務室,福岡県筑紫野市湯町２-９-２,不明,,,9" xlink:title="福岡県済生会（特養）むさし苑医務室" transform="ref(svg,13051.6439,-3349.0572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡県赤十字血液センター,福岡県筑紫野市上古賀１-２-１,内科,,,9" xlink:title="福岡県赤十字血液センター" transform="ref(svg,13052.0429,-3348.7313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,帆足医院,福岡県筑紫野市二日市西１-８-１１,内科　胃腸科,,,9" xlink:title="帆足医院" transform="ref(svg,13051.6172,-3349.6603)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まるおか内科・リウマチ科クリニック,福岡県筑紫野市二日市南４-１-５,内科　リウマチ科,,,9" xlink:title="まるおか内科・リウマチ科クリニック" transform="ref(svg,13052.0213,-3349.0021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みぎた眼科,福岡県筑紫野市針摺中央２-１５-１３,眼科,,,9" xlink:title="みぎた眼科" transform="ref(svg,13053.4806,-3348.3983)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むらかみクリニック,福岡県筑紫野市筑紫駅前通１-２１,内科　神経内科　胃腸科　呼吸器科　放射線科,,,9" xlink:title="むらかみクリニック" transform="ref(svg,13055.4407,-3346.2372)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,盲養護老人ホーム寿光園,福岡県筑紫野市西小田３５,不明,,,9" xlink:title="盲養護老人ホーム寿光園" transform="ref(svg,13058.041,-3343.9792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安田放射線科診療所,福岡県筑紫野市美しが丘南４-２０-４,放射線科,,,9" xlink:title="安田放射線科診療所" transform="ref(svg,13054.4687,-3344.2095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安元ひふ科クリニック,福岡県筑紫野市針摺中央２-４-１　２Ｆ,皮膚科,,,9" xlink:title="安元ひふ科クリニック" transform="ref(svg,13053.3095,-3348.4735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢野ひふ科医院,福岡県筑紫野市光ヶ丘４-５-２,皮膚科,,,9" xlink:title="矢野ひふ科医院" transform="ref(svg,13056.0752,-3345.0358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山-ｱ皮膚科・漢方外来医院,福岡県筑紫野市二日市中央２-１１-５,皮膚科　アレルギー科　リハビリテーション科,,,9" xlink:title="山-ｱ皮膚科・漢方外来医院" transform="ref(svg,13051.9824,-3349.5792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田小児科医院,福岡県筑紫野市二日市北２-１-３,小児科,,,9" xlink:title="山田小児科医院" transform="ref(svg,13051.855,-3350.1893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本皮ふ科クリニック,福岡県筑紫野市二日市北２-２-１,皮膚科,,,9" xlink:title="山本皮ふ科クリニック" transform="ref(svg,13051.8781,-3350.2743)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山脇皮膚泌尿器科医院,福岡県筑紫野市美しが丘南７-７-４,皮膚科　泌尿器科,,,9" xlink:title="山脇皮膚泌尿器科医院" transform="ref(svg,13054.0096,-3344.3218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆくり心療医院,福岡県筑紫野市二日市南２-８-２０,心療内科　神経科　精神科,,,9" xlink:title="ゆくり心療医院" transform="ref(svg,13052.3494,-3349.043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉川レディースクリニック,福岡県筑紫野市二日市北２-２-１,産婦人科　産科　婦人科,,,9" xlink:title="吉川レディースクリニック" transform="ref(svg,13051.8706,-3350.2753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,良永医院,福岡県筑紫野市若江１８７,内科　外科,,,9" xlink:title="良永医院" transform="ref(svg,13055.3119,-3346.1439)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わかば耳鼻咽喉科アレルギー科クリニック,福岡県筑紫野市原田７-９-２,耳鼻咽喉科　アレルギー科,,,9" xlink:title="わかば耳鼻咽喉科アレルギー科クリニック" transform="ref(svg,13054.1121,-3345.4178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒牧内科,福岡県春日市大土居１-６,内科　呼吸器内科　循環器内科　胃腸科内科,,,9" xlink:title="荒牧内科" transform="ref(svg,13045.449,-3351.7182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田脳神経外科,福岡県春日市小倉１-１,脳神経外科,,,9" xlink:title="池田脳神経外科" transform="ref(svg,13045.6942,-3353.5049)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いわみ肛門クリニック,福岡県春日市春日４-１０,肛門科,,,9" xlink:title="（医）いわみ肛門クリニック" transform="ref(svg,13047.2444,-3351.8411)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永和会永尾クリニック,福岡県春日市大土居１-４１,内科　循環器科　心療内科　神経内科　精神科,,,9" xlink:title="（医）永和会永尾クリニック" transform="ref(svg,13045.567,-3351.6836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大西内科クリニック,福岡県春日市大土居３-１９２,内科　消化器科　循環器科　小児科　アレルギー科,,,9" xlink:title="（医）大西内科クリニック" transform="ref(svg,13046.1698,-3351.1762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おがた眼科医院,福岡県春日市春日原東町３-３８,眼科,,,9" xlink:title="（医）おがた眼科医院" transform="ref(svg,13047.5023,-3353.5664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おかもと内科医院,福岡県春日市春日９-２,内科　消化器科　循環器科　リハビリテーション科,,,9" xlink:title="（医）おかもと内科医院" transform="ref(svg,13046.714,-3351.7023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おの子どもクリニック,福岡県春日市一の谷１-１４９,小児科,,,9" xlink:title="（医）おの子どもクリニック" transform="ref(svg,13044.992,-3352.3022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かくた小児科医院,福岡県春日市上白水７-１５,小児科,,,9" xlink:title="（医）かくた小児科医院" transform="ref(svg,13044.2203,-3351.7494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）春日上原眼科医院,福岡県春日市昇町６-２８,眼科,,,9" xlink:title="（医）春日上原眼科医院" transform="ref(svg,13045.1311,-3352.2279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）くぼた小児科医院,福岡県春日市惣利１-１２３,小児科,,,9" xlink:title="（医）くぼた小児科医院" transform="ref(svg,13046.8832,-3351.3995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桑野整形外科医院,福岡県春日市桜ケ丘２-１５,整形外科　アレルギー科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）桑野整形外科医院" transform="ref(svg,13044.6492,-3354.5486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）順心堂おなか心療クリニック,福岡県春日市春日原東町３-３８,内科　心療内科　神経科　精神科,,,9" xlink:title="（医）順心堂おなか心療クリニック" transform="ref(svg,13047.5023,-3353.5664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）城野産婦人科クリニック,福岡県春日市一の谷２-８-１,産婦人科,,,9" xlink:title="（医）城野産婦人科クリニック" transform="ref(svg,13045.006,-3352.2584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁清会しんかいクリニック,福岡県春日市昇町５-５-１,消化器科　胃腸科　外科　肛門科,,,9" xlink:title="（医）仁清会しんかいクリニック" transform="ref(svg,13044.8594,-3352.8211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）陣の内脳神経外科クリニック,福岡県春日市春日原北町３-６３,神経内科　脳神経外科　リハビリテーション科,,,9" xlink:title="（医）陣の内脳神経外科クリニック" transform="ref(svg,13047.2697,-3353.6818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）末吉耳鼻咽喉科クリニック,福岡県春日市春日原東町３-３８,耳鼻咽喉科　アレルギー科,,,9" xlink:title="（医）末吉耳鼻咽喉科クリニック" transform="ref(svg,13047.5023,-3353.5664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たけの内科クリニック,福岡県春日市春日原北町３-６３-１,内科　消化器科　循環器科　呼吸器科　心臓血管外科,,,9" xlink:title="（医）たけの内科クリニック" transform="ref(svg,13047.2641,-3353.6857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）竹風庵榊原医院,福岡県春日市下白水北４-８５,内科　小児科　泌尿器科,,,9" xlink:title="（医）竹風庵榊原医院" transform="ref(svg,13044.3079,-3352.693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）七雄会ひらの耳鼻咽喉科クリニック,福岡県春日市惣利１-８２-２,耳鼻咽喉科,,,9" xlink:title="（医）七雄会ひらの耳鼻咽喉科クリニック" transform="ref(svg,13046.8703,-3351.2634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）はなむら整形外科クリニック,福岡県春日市光町１-７４島田第２ビル２階,整形外科,,,9" xlink:title="（医）はなむら整形外科クリニック" transform="ref(svg,13046.5179,-3353.3094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平塚整形外科医院,福岡県春日市小倉７-８,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）平塚整形外科医院" transform="ref(svg,13045.6585,-3353.5243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤崎内科循環器科医院,福岡県春日市若葉台西３-１４,内科　循環器科,,,9" xlink:title="（医）藤崎内科循環器科医院" transform="ref(svg,13046.0583,-3352.8513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）本田耳鼻咽喉科医院,福岡県春日市上白水３-８１,耳鼻咽喉科　気管食道科　アレルギー科,,,9" xlink:title="（医）本田耳鼻咽喉科医院" transform="ref(svg,13044.497,-3351.8114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）マインド伊原春日クリニック,福岡県春日市宝町３-２２,内科　消化器科　循環器科,,,9" xlink:title="（医）マインド伊原春日クリニック" transform="ref(svg,13046.1973,-3353.416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）孫田整形外科医院,福岡県春日市惣利１-７１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）孫田整形外科医院" transform="ref(svg,13046.9015,-3351.3657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まことクリニック,福岡県春日市春日原東町３-２０,内科　胃腸科　整形外科　呼吸器科　アレルギー科　外科　肛門科,,,9" xlink:title="（医）まことクリニック" transform="ref(svg,13047.4122,-3353.6457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みのだ胃腸科内科クリニック,福岡県春日市上白水３-８０,内科　消化器科　循環器科　呼吸器科　リハビリテーション科,,,9" xlink:title="（医）みのだ胃腸科内科クリニック" transform="ref(svg,13044.5036,-3351.8123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やよい会かわらだクリニック,福岡県春日市惣利１-８２-１,内科　循環器科　呼吸器科　アレルギー科,,,9" xlink:title="（医）やよい会かわらだクリニック" transform="ref(svg,13046.8688,-3351.2816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）横山小児科医院,福岡県春日市春日原東町３-３６,小児科,,,9" xlink:title="（医）横山小児科医院" transform="ref(svg,13047.4611,-3353.5854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）凜桜会いわた皮ふ科アレルギー科クリニック,福岡県春日市春日原北町４-１１,皮膚科　アレルギー科,,,9" xlink:title="（医）凜桜会いわた皮ふ科アレルギー科クリニック" transform="ref(svg,13047.0533,-3353.6551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）和田整形外科医院,福岡県春日市泉２-１４,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）和田整形外科医院" transform="ref(svg,13043.7772,-3352.8853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわい内科クリニック,福岡県春日市須玖北７-１-１,内科　消化器内科（消化器科）　内視鏡内科,,,9" xlink:title="いわい内科クリニック" transform="ref(svg,13043.9829,-3354.2464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田胃腸科内科医院,福岡県春日市若葉台西１-５,内科　胃腸科　小児科　放射線科　リハビリテーション科,,,9" xlink:title="上田胃腸科内科医院" transform="ref(svg,13046.0556,-3353.1715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,円入橋胃腸科外科医院,福岡県春日市惣利２-８,消化器科　外科　呼吸器科　肛門科　リハビリテーション科,,,9" xlink:title="円入橋胃腸科外科医院" transform="ref(svg,13046.9445,-3351.1967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田黒眼科,福岡県春日市小倉７-３,眼科,,,9" xlink:title="太田黒眼科" transform="ref(svg,13045.6293,-3353.5487)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かみのまち整形外科リウマチ科,福岡県春日市上白水５-２２-１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="かみのまち整形外科リウマチ科" transform="ref(svg,13044.2089,-3352.1481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きたやま小児科,福岡県春日市小倉２-９７-１,小児科,,,9" xlink:title="きたやま小児科" transform="ref(svg,13045.4411,-3353.0973)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,城戸整形外科クリニック,福岡県春日市春日原北町３-６３-１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="城戸整形外科クリニック" transform="ref(svg,13047.2641,-3353.6857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,九州大学キャンパスライフ・健康支援センター筑紫地区健康相談室,福岡県春日市春日公園６-１,内科　精神科,,,9" xlink:title="九州大学キャンパスライフ・健康支援センター筑紫地区健康相談室" transform="ref(svg,13047.6369,-3352.2583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くろかわひろこ眼科クリニック,福岡県春日市惣利１-８３-２,眼科,,,9" xlink:title="くろかわひろこ眼科クリニック" transform="ref(svg,13046.8256,-3351.272)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,航空自衛隊春日基地医務室,福岡県春日市原町３-１-１,内科　外科　歯科,,,9" xlink:title="航空自衛隊春日基地医務室" transform="ref(svg,13046.7218,-3353.2036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こうせい内科クリニック,福岡県春日市大土居３-１３０-１,内科　内視鏡内科　消化器内科（消化器科）,,,9" xlink:title="こうせい内科クリニック" transform="ref(svg,13045.8801,-3351.3861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こがじゅんこクリニック,福岡県春日市上白水３-８１,皮膚科,,,9" xlink:title="こがじゅんこクリニック" transform="ref(svg,13044.497,-3351.8114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サク皮ふ科クリニック,福岡県春日市須玖南３-８４,皮膚科　アレルギー科,,,9" xlink:title="サク皮ふ科クリニック" transform="ref(svg,13044.3782,-3353.927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらこ診療所,福岡県春日市千歳町１-２７,内科　小児科,,,9" xlink:title="さくらこ診療所" transform="ref(svg,13046.7634,-3353.5248)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四宮医院,福岡県春日市春日原北町３-１,内科,,,9" xlink:title="四宮医院" transform="ref(svg,13047.1304,-3353.7185)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白水乳腺クリニック,福岡県春日市春日３-６７,乳腺外科,,,9" xlink:title="白水乳腺クリニック" transform="ref(svg,13047.2783,-3351.9304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すがはら内科クリニック,福岡県春日市上白水３-７２,内科　胃腸科,,,9" xlink:title="すがはら内科クリニック" transform="ref(svg,13044.485,-3351.8496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高須医院,福岡県春日市春日１-１４５,内科　心療内科,,,9" xlink:title="高須医院" transform="ref(svg,13046.9361,-3352.0273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天神山クリニック,福岡県春日市天神山２-１５０,内科,,,9" xlink:title="天神山クリニック" transform="ref(svg,13044.9469,-3351.7329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とくい耳鼻咽喉科クリニック,福岡県春日市須玖北７-１-１-２,耳鼻咽喉科　アレルギー科,,,9" xlink:title="とくい耳鼻咽喉科クリニック" transform="ref(svg,13043.9839,-3354.2475)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）かすがの郷医務室,福岡県春日市塚原台３-１２９,内科,,,9" xlink:title="（特養）かすがの郷医務室" transform="ref(svg,13046.6711,-3350.8904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内藤内科医院,福岡県春日市泉１-１０,内科　胃腸科　循環器科,,,9" xlink:title="内藤内科医院" transform="ref(svg,13043.8131,-3353.0119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながの内科クリニック,福岡県春日市白水ヶ丘１-５５,内科　循環器内科　呼吸器内科（呼吸器科）　皮膚科,,,9" xlink:title="ながの内科クリニック" transform="ref(svg,13044.6341,-3351.2228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村整形外科医院,福岡県春日市須玖南２-１３８,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="中村整形外科医院" transform="ref(svg,13044.6143,-3353.5506)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山医院,福岡県春日市一の谷１-１４８,胃腸科　呼吸器科　麻酔科　肛門科　小児科　消化器科　内科,,,9" xlink:title="中山医院" transform="ref(svg,13045.0001,-3352.3022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西江こころのクリニック,福岡県春日市春日原北町４-１１,心療内科　精神科,,,9" xlink:title="西江こころのクリニック" transform="ref(svg,13047.0445,-3353.6605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野北外科胃腸科医院,福岡県春日市上白水１-１９,胃腸科　外科　整形外科　肛門科　リハビリテーション科,,,9" xlink:title="野北外科胃腸科医院" transform="ref(svg,13044.4336,-3352.1939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浜本眼科医院,福岡県春日市上白水３-８１,眼科,,,9" xlink:title="浜本眼科医院" transform="ref(svg,13044.497,-3351.8114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,樋口皮膚泌尿器科医院,福岡県春日市春日原北町３-３９,皮膚泌尿器科,,,9" xlink:title="樋口皮膚泌尿器科医院" transform="ref(svg,13047.2528,-3353.7882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひろ内科,福岡県春日市春日原北町４-１１-２Ｆ,内科　呼吸器科　アレルギー科,,,9" xlink:title="ひろ内科" transform="ref(svg,13047.0527,-3353.6549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡県障害者更生相談所,福岡県春日市原町３-１-７,内科　精神科　整形外科　眼科　耳鼻咽喉科,,,9" xlink:title="福岡県障害者更生相談所" transform="ref(svg,13046.9573,-3353.3775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡県精神保健福祉センター,福岡県春日市原町３-１-７,神経科　精神科,,,9" xlink:title="福岡県精神保健福祉センター" transform="ref(svg,13046.9573,-3353.3775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,またけ胃腸内科クリニック,福岡県春日市須玖南２-１０４-１,内科　消化器科　胃腸科,,,9" xlink:title="またけ胃腸内科クリニック" transform="ref(svg,13044.5725,-3353.6689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まわたりウィメンズクリニック,福岡県春日市惣利１-２９,産婦人科,,,9" xlink:title="まわたりウィメンズクリニック" transform="ref(svg,13046.9359,-3351.4102)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みぎた消化器内科,福岡県春日市惣利２-５４,内科　消化器科,,,9" xlink:title="みぎた消化器内科" transform="ref(svg,13046.9032,-3351.2254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやい内科クリニック,福岡県春日市須玖南４-３０,内科　消化器内科　循環器内科　呼吸器内科　神経内科　糖尿病内科,,,9" xlink:title="みやい内科クリニック" transform="ref(svg,13044.4938,-3353.9333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村山医院,福岡県春日市昇町５-１００,内科　胃腸科,,,9" xlink:title="村山医院" transform="ref(svg,13044.9645,-3352.5564)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,モールクリニック,福岡県春日市春日５-１７,眼科,,,9" xlink:title="モールクリニック" transform="ref(svg,13047.0647,-3351.6722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森園医院,福岡県春日市ちくし台２-１３,内科　胃腸科　小児科,,,9" xlink:title="森園医院" transform="ref(svg,13045.9195,-3352.3883)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安永クリニック,福岡県春日市上白水３-５１,内科　胃腸科　循環器科　小児科,,,9" xlink:title="安永クリニック" transform="ref(svg,13044.3908,-3351.9096)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊福岡駐屯地医務室,福岡県春日市大和町５-１２,内科　歯科,,,9" xlink:title="陸上自衛隊福岡駐屯地医務室" transform="ref(svg,13045.583,-3353.8688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あしざわ内科クリニック,福岡県大野城市白木原１-１４-２４,内科　胃腸科　漢方内科　消化器科,,,9" xlink:title="あしざわ内科クリニック" transform="ref(svg,13048.093,-3352.6535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天野内科循環器科医院,福岡県大野城市下大利１-２-１６,内科　循環器科　リハビリテーション科,,,9" xlink:title="天野内科循環器科医院" transform="ref(svg,13048.4991,-3352.0771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池上泌尿器科クリニック,福岡県大野城市下大利２-１８-１０,泌尿器科　性感染症内科　性感染症外科,,,9" xlink:title="池上泌尿器科クリニック" transform="ref(svg,13048.9925,-3352.0942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市川クリニック,福岡県大野城市白木原１-１-５５　１Ｆ,内科　消化器科　呼吸器科　心療内科　神経科,,,9" xlink:title="市川クリニック" transform="ref(svg,13047.9758,-3352.8486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いでたクリニック,福岡県大野城市下大利１-１９-３,内科　心療内科　神経科　精神科,,,9" xlink:title="いでたクリニック" transform="ref(svg,13048.6867,-3352.1278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いのうえ耳鼻咽喉科,福岡県大野城市上大利５-３-１,耳鼻咽喉科　アレルギー科,,,9" xlink:title="いのうえ耳鼻咽喉科" transform="ref(svg,13048.136,-3351.5996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上内科医院,福岡県大野城市大城３-１１-６,内科　消化器科　循環器科,,,9" xlink:title="井上内科医院" transform="ref(svg,13049.2774,-3353.7138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上皮ふ科形成外科医院,福岡県大野城市下大利１-１０-１９,形成外科　皮膚科,,,9" xlink:title="井上皮ふ科形成外科医院" transform="ref(svg,13048.8886,-3352.2428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いまさと胃腸内科,福岡県大野城市東大利３-１１-２８,胃腸内科（胃腸科）　消化器内科（消化器科）,,,9" xlink:title="いまさと胃腸内科" transform="ref(svg,13048.8824,-3352.6362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あけぼのクリニック,福岡県大野城市曙町１-１-８,内科　胃腸内科　放射線科,,,9" xlink:title="（医）あけぼのクリニック" transform="ref(svg,13047.714,-3353.5224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石原小児科クリニック,福岡県大野城市白木原１-９-３０,小児科,,,9" xlink:title="（医）石原小児科クリニック" transform="ref(svg,13048.1982,-3352.7305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いのうえこどもクリニック,福岡県大野城市山田２-２-２５,小児科,,,9" xlink:title="（医）いのうえこどもクリニック" transform="ref(svg,13047.1859,-3354.6266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）金澤整形外科医院,福岡県大野城市瑞穂町１-１-５,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）金澤整形外科医院" transform="ref(svg,13047.6287,-3353.4154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）金山医院,福岡県大野城市大池２-２２-６,内科,,,9" xlink:title="（医）金山医院" transform="ref(svg,13048.7457,-3353.9215)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）蔵田眼科クリニック,福岡県大野城市下大利１-４-２０,眼科,,,9" xlink:title="（医）蔵田眼科クリニック" transform="ref(svg,13048.5877,-3352.127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桑野外科医院,福岡県大野城市東大利１-８-１３,胃腸科　呼吸器科　外科　整形外科　肛門科　アレルギー科　リハビリテーション科,,,9" xlink:title="（医）桑野外科医院" transform="ref(svg,13048.7555,-3352.6211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桂雅会毛利外科医院,福岡県大野城市下大利１-１７-１,胃腸科　外科　整形外科,,,9" xlink:title="（医）桂雅会毛利外科医院" transform="ref(svg,13048.7778,-3352.1207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鴻佑井本内科小児科医院,福岡県大野城市白木原３-８-１６,内科　循環器科　呼吸器科　小児科,,,9" xlink:title="（医）鴻佑井本内科小児科医院" transform="ref(svg,13048.2217,-3352.9401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐野クリニック,福岡県大野城市山田２-１７-２５,内科　眼科,,,9" xlink:title="（医）佐野クリニック" transform="ref(svg,13047.3788,-3354.5463)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杉山整形外科医院,福岡県大野城市下大利１-１-７-２０１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）杉山整形外科医院" transform="ref(svg,13048.4338,-3352.0699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）すやま泌尿器科クリニック,福岡県大野城市白木原４-８-１,泌尿器科,,,9" xlink:title="（医）すやま泌尿器科クリニック" transform="ref(svg,13048.4227,-3352.8083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）天信会あまがせ産婦人科,福岡県大野城市東大利１-１４-６,産婦人科,,,9" xlink:title="（医）天信会あまがせ産婦人科" transform="ref(svg,13048.7607,-3352.4721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）透光会井上眼科医院,福岡県大野城市栄町２-５-１５-１０１,眼科,,,9" xlink:title="（医）透光会井上眼科医院" transform="ref(svg,13047.2061,-3353.8534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中村眼科医院,福岡県大野城市白木原１-５-３,眼科,,,9" xlink:title="（医）中村眼科医院" transform="ref(svg,13048.1165,-3352.9791)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）原外科医院,福岡県大野城市白木原５-３-１１,外科　胃腸科　整形外科　肛門科　麻酔科,,,9" xlink:title="（医）原外科医院" transform="ref(svg,13048.6749,-3353.2052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）春風会とも皮ふ科クリニック,福岡県大野城市白木原１-１-１３,皮膚科　アレルギー科　形成外科,,,9" xlink:title="（医）春風会とも皮ふ科クリニック" transform="ref(svg,13047.9895,-3352.8587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）久富眼科医院,福岡県大野城市紫台１５-１,眼科,,,9" xlink:title="（医）久富眼科医院" transform="ref(svg,13048.131,-3350.684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平田医院,福岡県大野城市南ヶ丘３-２-７,内科　消化器科,,,9" xlink:title="（医）平田医院" transform="ref(svg,13048.1285,-3350.3824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤原胃腸科内科医院,福岡県大野城市下大利１-１３-１２,内科　胃腸科,,,9" xlink:title="（医）藤原胃腸科内科医院" transform="ref(svg,13048.9131,-3352.151)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まつくま小児科クリニック,福岡県大野城市曙町１-３-３０,小児科,,,9" xlink:title="（医）まつくま小児科クリニック" transform="ref(svg,13047.8423,-3353.3073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松坂内科クリニック,福岡県大野城市錦町３-３-５０,内科　消化器科　呼吸器科,,,9" xlink:title="（医）松坂内科クリニック" transform="ref(svg,13047.6368,-3353.895)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松田小児科医院,福岡県大野城市下大利１-７-１８,小児科　アレルギー科,,,9" xlink:title="（医）松田小児科医院" transform="ref(svg,13048.7986,-3352.3287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やなぎだ耳鼻咽喉科医院,福岡県大野城市錦町２-３-１２,耳鼻咽喉科,,,9" xlink:title="（医）やなぎだ耳鼻咽喉科医院" transform="ref(svg,13047.5681,-3353.8953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）柳原皮膚科クリニック,福岡県大野城市白木原４-１-６,形成外科　皮膚科　アレルギー科,,,9" xlink:title="（医）柳原皮膚科クリニック" transform="ref(svg,13048.4209,-3353.0736)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ゆう心と体のクリニック,福岡県大野城市白木原１-７-５,心療内科　神経科　精神科,,,9" xlink:title="（医）ゆう心と体のクリニック" transform="ref(svg,13048.2072,-3352.8847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うえ木こどもクリニック,福岡県大野城市月の浦１-２５-１,小児科,,,9" xlink:title="うえ木こどもクリニック" transform="ref(svg,13046.1571,-3349.8435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇都宮内科医院,福岡県大野城市筒井５-３-６,内科　消化器科　呼吸器科　アレルギー科,,,9" xlink:title="宇都宮内科医院" transform="ref(svg,13048.1081,-3353.903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大島小児科医院,福岡県大野城市南ヶ丘２-１-２１,小児科　アレルギー科,,,9" xlink:title="大島小児科医院" transform="ref(svg,13048.1803,-3350.6543)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田黒耳鼻咽喉科医院,福岡県大野城市下大利１-５-２２,耳鼻咽喉科,,,9" xlink:title="太田黒耳鼻咽喉科医院" transform="ref(svg,13048.6447,-3352.1927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かなえ整形外科,福岡県大野城市大城２-１-３２,整形外科,,,9" xlink:title="かなえ整形外科" transform="ref(svg,13049.2304,-3353.7395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ききょうアイクリニック,福岡県大野城市錦町４-１-１,眼科,,,9" xlink:title="ききょうアイクリニック" transform="ref(svg,13047.6177,-3353.7769)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,喜多村クリニック,福岡県大野城市錦町４-３-８-１０１,消化器内科　外科,,,9" xlink:title="喜多村クリニック" transform="ref(svg,13047.7794,-3353.7168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,救護施設仁風園医務室,福岡県大野城市乙金東２-２６-１,内科,,,9" xlink:title="救護施設仁風園医務室" transform="ref(svg,13050.18,-3355.545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きよみず内科クリニック,福岡県大野城市大池１-７-１,内科　消化器科　胃腸科,,,9" xlink:title="きよみず内科クリニック" transform="ref(svg,13048.6043,-3354.3943)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,倉岡内科クリニック,福岡県大野城市月の浦１-２６-１０,内科　消化器科　循環器科,,,9" xlink:title="倉岡内科クリニック" transform="ref(svg,13046.1762,-3349.7586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さもと脳神経外科クリニック,福岡県大野城市上大利５-２-１２,脳神経外科,,,9" xlink:title="さもと脳神経外科クリニック" transform="ref(svg,13048.1354,-3351.6377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たさか整形外科クリニック,福岡県大野城市大池１-７-３,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="たさか整形外科クリニック" transform="ref(svg,13048.6346,-3354.3969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中外科医院,福岡県大野城市旭ヶ丘２-１-２０,胃腸科　外科　肛門科,,,9" xlink:title="田中外科医院" transform="ref(svg,13048.136,-3351.1238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,哲クリニック,福岡県大野城市白木原１-１-５５,整形外科　麻酔科　リハビリテーション科,,,9" xlink:title="哲クリニック" transform="ref(svg,13047.9728,-3352.8507)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村内科医院,福岡県大野城市旭ヶ丘２-２-７,内科　胃腸科　小児科,,,9" xlink:title="中村内科医院" transform="ref(svg,13048.1362,-3350.914)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西山内科医院,福岡県大野城市緑ヶ丘３-１８-４,内科,,,9" xlink:title="西山内科医院" transform="ref(svg,13048.3788,-3350.2959)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のむら整形外科クリニック,福岡県大野城市牛頸４-１３-１,整形外科　リハビリテーション科,,,9" xlink:title="のむら整形外科クリニック" transform="ref(svg,13047.1068,-3350.1992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はまだ内科医院,福岡県大野城市若草３-２２-１２,内科　消化器内科　循環器内科　呼吸器内科,,,9" xlink:title="はまだ内科医院" transform="ref(svg,13046.9737,-3350.457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久冨内科医院,福岡県大野城市牛頸３-２-５,内科　胃腸科内科　循環器内科,,,9" xlink:title="久冨内科医院" transform="ref(svg,13047.0822,-3350.1367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふかうみ内科,福岡県大野城市下大利２-１８-１３,内科　循環器科　呼吸器科,,,9" xlink:title="ふかうみ内科" transform="ref(svg,13049.0079,-3352.0724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡県筑紫保健福祉環境事務所,福岡県大野城市白木原３-５-２５,内科　小児科,,,9" xlink:title="福岡県筑紫保健福祉環境事務所" transform="ref(svg,13048.3221,-3353.0541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松田耳鼻咽喉科医院,福岡県大野城市東大利１-１４-１２,耳鼻咽喉科　アレルギー科,,,9" xlink:title="松田耳鼻咽喉科医院" transform="ref(svg,13048.7815,-3352.4636)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まどか園,福岡県大野城市瓦田１２７-４８,内科　皮膚科　泌尿器科　歯科,,,9" xlink:title="まどか園" transform="ref(svg,13050.1825,-3353.4935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まなべ産婦人科医院,福岡県大野城市雑餉隈１-７-１７,産婦人科,,,9" xlink:title="まなべ産婦人科医院" transform="ref(svg,13047.0636,-3354.1044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南ヶ丘ばば整形外科,福岡県大野城市紫台１６-１,整形外科　リハビリテーション科,,,9" xlink:title="南ヶ丘ばば整形外科" transform="ref(svg,13048.0837,-3350.5751)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本村内科医院,福岡県大野城市白木原１-１１-１６,人工透析内科　内科,,,9" xlink:title="本村内科医院" transform="ref(svg,13048.1178,-3352.843)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,悠生園診療所,福岡県大野城市中２-５-５,整形外科　内科　精神科,,,9" xlink:title="悠生園診療所" transform="ref(svg,13048.2954,-3355.1377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉永医院,福岡県大野城市川久保１-１２-１２,内科　小児科,,,9" xlink:title="吉永医院" transform="ref(svg,13048.717,-3355.0314)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いなだ医院,福岡県太宰府市大佐野４-１６-２,内科　胃腸科　外科　肛門科,,,9" xlink:title="いなだ医院" transform="ref(svg,13048.8363,-3349.9605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あきよし外科胃腸科医院,福岡県太宰府市観世音寺３-１２-１,胃腸科　外科　小児外科　整形外科　麻酔科,,,9" xlink:title="（医）あきよし外科胃腸科医院" transform="ref(svg,13050.8597,-3351.3407)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）岩崎外科胃腸科医院,福岡県太宰府市大字向佐野４-１２-１５,外科　胃腸科　呼吸器科,,,9" xlink:title="（医）岩崎外科胃腸科医院" transform="ref(svg,13049.332,-3351.046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）くすの木会くすの木クリニック,福岡県太宰府市通古賀３-１１-１１,心療内科　精神科,,,9" xlink:title="（医）くすの木会くすの木クリニック" transform="ref(svg,13050.7131,-3351.0966)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健成会鹿子生整形外科医院,福岡県太宰府市五条３-４-１４,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）健成会鹿子生整形外科医院" transform="ref(svg,13052.5434,-3350.9701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こでら内科医院,福岡県太宰府市観世音寺１-２９-２６,内科,,,9" xlink:title="（医）こでら内科医院" transform="ref(svg,13051.5367,-3351.2704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福岡眼科皮ふ内科,福岡県太宰府市向佐野４-８-５,眼科　皮膚科　内科　小児科　アレルギー科　リウマチ科　心療内科,,,9" xlink:title="（医）福岡眼科皮ふ内科" transform="ref(svg,13049.482,-3350.8622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）翔設会太宰府吉富眼科医院,福岡県太宰府市宰府２-９-１３,眼科,,,9" xlink:title="（医）翔設会太宰府吉富眼科医院" transform="ref(svg,13053.214,-3351.7232)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）津田内科医院,福岡県太宰府市通古賀６-２-６,内科　心療内科　アレルギー科,,,9" xlink:title="（医）津田内科医院" transform="ref(svg,13051.4684,-3350.6145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鶴田内科医院,福岡県太宰府市都府楼南２-１-１,内科　消化器科　胃腸科　循環器科　呼吸器科,,,9" xlink:title="（医）鶴田内科医院" transform="ref(svg,13050.9774,-3350.5458)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）富田耳鼻咽喉科医院,福岡県太宰府市五条３-４-２７,耳鼻咽喉科,,,9" xlink:title="（医）富田耳鼻咽喉科医院" transform="ref(svg,13052.4698,-3350.9735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中嶋医院,福岡県太宰府市宰府３-５-７,小児科,,,9" xlink:title="（医）中嶋医院" transform="ref(svg,13053.2476,-3352.1418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西川整形外科医院,福岡県太宰府市通古賀３-３-１８,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）西川整形外科医院" transform="ref(svg,13050.7013,-3350.9366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ひらた脳神経外科クリニック,福岡県太宰府市五条２-１１-３,神経外科　リハビリテーション科,,,9" xlink:title="（医）ひらた脳神経外科クリニック" transform="ref(svg,13052.5925,-3351.2936)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まつもと小児科医院,福岡県太宰府市通古賀３-４-３０,小児科　内科,,,9" xlink:title="（医）まつもと小児科医院" transform="ref(svg,13050.6928,-3350.9861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈亮館まつのクリニック,福岡県太宰府市向佐野２-１１-２８,小児外科　消化器内科（消化器科）　リハビリテーション科,,,9" xlink:title="（医）慈亮館まつのクリニック" transform="ref(svg,13049.7684,-3350.6721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）渡辺整形外科クリニック,福岡県太宰府市五条２-５-２０,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）渡辺整形外科クリニック" transform="ref(svg,13052.6919,-3351.2064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田眼科,福岡県太宰府市通古賀３-１１-２１,眼科,,,9" xlink:title="上田眼科" transform="ref(svg,13050.7259,-3351.1409)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うえだ皮膚科クリニック,福岡県太宰府市大佐野３-１-５０,皮膚科　アレルギー科,,,9" xlink:title="うえだ皮膚科クリニック" transform="ref(svg,13049.5162,-3350.2238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,牛島産婦人科医院,福岡県太宰府市五条２-２３-８,産婦人科,,,9" xlink:title="牛島産婦人科医院" transform="ref(svg,13052.3752,-3350.8913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かんざき内科クリニック,福岡県太宰府市観世音寺１-４-３０,内科　消化器科,,,9" xlink:title="かんざき内科クリニック" transform="ref(svg,13052.2773,-3351.233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,観世クリニック,福岡県太宰府市観世音寺４-１５-３２,内科　心療内科　アレルギー科,,,9" xlink:title="観世クリニック" transform="ref(svg,13051.8666,-3351.51)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,如月クリニック,福岡県太宰府市国分１-１３-１１,内科,,,9" xlink:title="如月クリニック" transform="ref(svg,13050.0175,-3351.8915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こが整形外科クリニック,福岡県太宰府市大佐野２-８-７,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="こが整形外科クリニック" transform="ref(svg,13049.5945,-3350.2728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンホーム太宰府医務室,福岡県太宰府市高雄３-４２７７-４０,内科,,,9" xlink:title="サンホーム太宰府医務室" transform="ref(svg,13054.6362,-3350.2587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科たか野クリニック,福岡県太宰府市大佐野３-１-６０,耳鼻咽喉科,,,9" xlink:title="耳鼻咽喉科たか野クリニック" transform="ref(svg,13049.5739,-3350.1575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島本脳神経外科医院,福岡県太宰府市水城２-２６-１,脳神経外科,,,9" xlink:title="島本脳神経外科医院" transform="ref(svg,13049.3051,-3353.1458)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朱雀内科クリニック,福岡県太宰府市都府楼南１-１-７,肝臓内科　胃腸内科,,,9" xlink:title="朱雀内科クリニック" transform="ref(svg,13050.6477,-3350.9144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立花内科クリニック,福岡県太宰府市大佐野６-２-１,内科　消化器科,,,9" xlink:title="立花内科クリニック" transform="ref(svg,13048.6208,-3350.0658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中内科医院,福岡県太宰府市高雄５-１-６,内科,,,9" xlink:title="田中内科医院" transform="ref(svg,13053.7708,-3349.4549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天拝坂クリニック,福岡県太宰府市大佐野２-２４-１,内科　循環器科　アレルギー科,,,9" xlink:title="天拝坂クリニック" transform="ref(svg,13049.7716,-3350.0812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）・サンケア太宰府医務室,福岡県太宰府市高雄３-４２２７-２６７,内科,,,9" xlink:title="（特養）・サンケア太宰府医務室" transform="ref(svg,13054.6362,-3350.2587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）同朋園医務室,福岡県太宰府市大字向佐野５１５,内科,,,9" xlink:title="（特養）同朋園医務室" transform="ref(svg,13049.8813,-3351.2214)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながえクリニック,福岡県太宰府市国分２-１-６,消化器科　肛門科　内科　外科　乳腺内科（乳腺科）,,,9" xlink:title="ながえクリニック" transform="ref(svg,13050.0578,-3351.9492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中川内科医院,福岡県太宰府市五条２-９-３７,内科　循環器科,,,9" xlink:title="中川内科医院" transform="ref(svg,13052.4867,-3351.0964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はせ川クリニック,福岡県太宰府市大字向佐野４５-１,人工透析内科　腎臓内科　内科,,,9" xlink:title="はせ川クリニック" transform="ref(svg,13050.1984,-3351.2024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日高小児科,福岡県太宰府市大佐野２-２４-２４,小児科,,,9" xlink:title="日高小児科" transform="ref(svg,13049.7894,-3350.0446)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤村医院,福岡県太宰府市通古賀２-３-１６,耳鼻咽喉科　歯科,,,9" xlink:title="藤村医院" transform="ref(svg,13050.8622,-3350.9705)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,双葉老人ホーム医務室,福岡県太宰府市三条１-４-１,不明,,,9" xlink:title="双葉老人ホーム医務室" transform="ref(svg,13053.4214,-3352.6148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,別府内科クリニック,福岡県太宰府市五条２-５-２０,内科　胃腸科　呼吸器科,,,9" xlink:title="別府内科クリニック" transform="ref(svg,13052.6936,-3351.2093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山野皮ふ科医院,福岡県太宰府市通古賀３-１３-１３,形成外科　皮膚科　アレルギー科,,,9" xlink:title="山野皮ふ科医院" transform="ref(svg,13050.773,-3351.1304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田皮ふ科クリニック,福岡県太宰府市五条２-２３-６,皮膚科,,,9" xlink:title="吉田皮ふ科クリニック" transform="ref(svg,13052.3753,-3350.9034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あんどう泌尿器科クリニック,福岡県筑紫郡那珂川町中原２-１２７,泌尿器科,,,9" xlink:title="（医）あんどう泌尿器科クリニック" transform="ref(svg,13043.5525,-3351.8732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）黒崎整形外科医院,福岡県筑紫郡那珂川町中原２-４,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）黒崎整形外科医院" transform="ref(svg,13043.232,-3351.7371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）竹田胃腸科外科医院,福岡県筑紫郡那珂川町中原３-２９,消化器科　胃腸科　外科　皮膚科　肛門科,,,9" xlink:title="（医）竹田胃腸科外科医院" transform="ref(svg,13043.2717,-3351.5757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中島こうやクリニック,福岡県筑紫郡那珂川町中原２-１２７,内科　胃腸科　循環器科　呼吸器科,,,9" xlink:title="（医）中島こうやクリニック" transform="ref(svg,13043.5525,-3351.8732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かじやま内科クリニック,福岡県筑紫郡那珂川町王塚台１-２１-１,内科　消化器科　循環器科,,,9" xlink:title="かじやま内科クリニック" transform="ref(svg,13043.6798,-3350.5975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちだクリニック,福岡県筑紫郡那珂川町松木２-１８５,内科　胃腸科　呼吸器科　小児科,,,9" xlink:title="ちだクリニック" transform="ref(svg,13043.5269,-3350.859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかの眼科クリニック,福岡県筑紫郡那珂川町中原２-１２７,眼科,,,9" xlink:title="なかの眼科クリニック" transform="ref(svg,13043.5551,-3351.8739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ねむのき医務室,福岡県筑紫郡那珂川町下梶原２-６-３,内科,,,9" xlink:title="ねむのき医務室" transform="ref(svg,13043.9369,-3349.9729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のぞみメンタルクリニック,福岡県筑紫郡那珂川町中原２-１３０,心療内科　精神科,,,9" xlink:title="のぞみメンタルクリニック" transform="ref(svg,13043.5386,-3351.8187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水ノ江医院,福岡県筑紫郡那珂川町今光３-１１,内科　消化器内科　循環器科　小児科　皮膚科,,,9" xlink:title="水ノ江医院" transform="ref(svg,13043.1467,-3352.1326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,楠原医院,福岡県糟屋郡宇美町宇美３-２-１２,内科　小児科,,,9" xlink:title="楠原医院" transform="ref(svg,13050.8525,-3356.7573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）同行園医務室,福岡県糟屋郡宇美町障子岳南２-１４-２５,内科,,,9" xlink:title="（特養）同行園医務室" transform="ref(svg,13053.8274,-3356.4121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飛嶽内科医院,福岡県糟屋郡宇美町宇美東２-６-１０,内科　小児科,,,9" xlink:title="飛嶽内科医院" transform="ref(svg,13053.161,-3357.0526)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡刑務所医務部診療所,福岡県糟屋郡宇美町障子岳南６-１-１,内科　外科　精神科　歯科　眼科　耳鼻咽喉科　皮膚科　泌尿器科,,,9" xlink:title="福岡刑務所医務部診療所" transform="ref(svg,13054.351,-3355.8774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）道生会山崎産婦人科小児科医院,福岡県糟屋郡宇美町宇美中央１-２-１３,産科　婦人科　小児科,,,9" xlink:title="（医）道生会山崎産婦人科小児科医院" transform="ref(svg,13051.8603,-3357.1642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古川整形外科医院,福岡県糟屋郡宇美町宇美５-３-１０,整形外科　リハビリテーション科,,,9" xlink:title="古川整形外科医院" transform="ref(svg,13050.9774,-3356.7829)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけうち皮膚科クリニック,福岡県糟屋郡宇美町宇美４-１-３　３階,皮膚科,,,9" xlink:title="たけうち皮膚科クリニック" transform="ref(svg,13051.0513,-3356.8717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中川整形外科クリニック,福岡県糟屋郡宇美町宇美６-１-１-１階,整形外科　リハビリテーション科,,,9" xlink:title="中川整形外科クリニック" transform="ref(svg,13050.8748,-3356.7345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中西内科クリニック,福岡県糟屋郡宇美町宇美４-１-３,内科　呼吸器科　循環器科,,,9" xlink:title="（医）中西内科クリニック" transform="ref(svg,13051.0513,-3356.8717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋耳鼻咽喉科医院,福岡県糟屋郡宇美町宇美４-１-３　３階,耳鼻咽喉科　気管食道科,,,9" xlink:title="高橋耳鼻咽喉科医院" transform="ref(svg,13051.0575,-3356.8741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本赤十字社福岡県支部老人福祉施設やすらぎの郷医務室,福岡県糟屋郡志免町大字吉原６００,内科　精神科,,,9" xlink:title="日本赤十字社福岡県支部老人福祉施設やすらぎの郷医務室" transform="ref(svg,13048.9218,-3357.2127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中道眼科クリニック,福岡県糟屋郡宇美町宇美４-１-３-２階,眼科,,,9" xlink:title="（医）中道眼科クリニック" transform="ref(svg,13051.0513,-3356.8717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おかべ小児科クリニック,福岡県糟屋郡宇美町光正寺１-１-１８,小児科,,,9" xlink:title="（医）おかべ小児科クリニック" transform="ref(svg,13050.346,-3357.3045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）加来循環器科内科医院,福岡県糟屋郡宇美町原田１-１-４,循環器科　内科,,,9" xlink:title="（医）加来循環器科内科医院" transform="ref(svg,13051.5207,-3355.8408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いりえ小児科医院,福岡県糟屋郡宇美町貴船１-１１-６,小児科,,,9" xlink:title="（医）いりえ小児科医院" transform="ref(svg,13051.1668,-3356.4074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,めぐみ内科クリニック,福岡県糟屋郡志免町桜丘２-１０-１,内科　呼吸器科　小児科,,,9" xlink:title="めぐみ内科クリニック" transform="ref(svg,13048.1006,-3356.9947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うみ小児科医院,福岡県糟屋郡宇美町宇美４-１-３　２階,小児科,,,9" xlink:title="うみ小児科医院" transform="ref(svg,13051.0513,-3356.8717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おがわクリニック,福岡県糟屋郡宇美町四王寺坂１-２９-５,消化器内科　外科　肛門外科　眼科,,,9" xlink:title="おがわクリニック" transform="ref(svg,13052.5162,-3356.1651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさひクリニック,福岡県朝倉郡筑前町朝日５７６,内科　小児科,,,9" xlink:title="あさひクリニック" transform="ref(svg,13056.9782,-3347.4732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しのくま整形外科クリニック,福岡県朝倉郡筑前町篠隈１４１-１,整形外科　リハビリテーション科,,,9" xlink:title="（医）しのくま整形外科クリニック" transform="ref(svg,13060.168,-3345.4166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田口医院,福岡県朝倉郡筑前町篠隈２３９,内科　小児科　皮膚科,,,9" xlink:title="田口医院" transform="ref(svg,13060.0311,-3345.9399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかしま小児科内科医院,福岡県朝倉郡筑前町東小田３４２０-２,内科　小児科,,,9" xlink:title="なかしま小児科内科医院" transform="ref(svg,13059.4449,-3345.3955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中村クリニック,福岡県朝倉郡筑前町東小田１５３１-１,内科　胃腸科　外科　肛門科　リハビリテーション科　放射線科,,,9" xlink:title="（医）中村クリニック" transform="ref(svg,13058.8967,-3345.5596)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,火野坂医院,福岡県朝倉郡筑前町東小田１１４３-２,内科　胃腸科,,,9" xlink:title="火野坂医院" transform="ref(svg,13059.4895,-3345.5863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤井整形外科内科医院,福岡県朝倉郡筑前町二１３６-１,整形外科　内科　リハビリテーション科,,,9" xlink:title="（医）藤井整形外科内科医院" transform="ref(svg,13056.343,-3347.4739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤松医院,福岡県小郡市干潟６８０,内科　小児科,,,9" xlink:title="赤松医院" transform="ref(svg,13058.4632,-3342.2588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いけだクリニック,福岡県小郡市小郡６１５,内科　胃腸科　外科　リハビリテーション科,,,9" xlink:title="いけだクリニック" transform="ref(svg,13055.4972,-3340.5373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石橋外科医院,福岡県小郡市津古１１２３-５,胃腸科　外科　整形外科,,,9" xlink:title="（医）石橋外科医院" transform="ref(svg,13055.2695,-3344.57)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上野整形外科医院,福岡県小郡市三沢２４２５-５,整形外科　リハビリテーション科,,,9" xlink:title="上野整形外科医院" transform="ref(svg,13055.8495,-3341.7032)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小郡アイクリニック,福岡県小郡市大保字弓場１１０,眼科,,,9" xlink:title="小郡アイクリニック" transform="ref(svg,13055.8201,-3341.1906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小郡三井医師会休日診療センター,福岡県小郡市上岩田１２４６,内科　外科,,,9" xlink:title="小郡三井医師会休日診療センター" transform="ref(svg,13057.7772,-3339.9957)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河原内科クリニック,福岡県小郡市小郡６７０-１,内科　消化器科　循環器科　呼吸器科　放射線科,,,9" xlink:title="河原内科クリニック" transform="ref(svg,13055.4465,-3340.0088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊池整形外科医院,福岡県小郡市大板井１４１５-３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="菊池整形外科医院" transform="ref(svg,13056.4939,-3339.8646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,倉岡外科内科医院,福岡県小郡市三沢３９４９-７,内科　外科,,,9" xlink:title="倉岡外科内科医院" transform="ref(svg,13056.0056,-3342.3816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,栗田耳鼻咽喉科気管食道科医院,福岡県小郡市津古５６１-８,耳鼻咽喉科　気管食道科,,,9" xlink:title="栗田耳鼻咽喉科気管食道科医院" transform="ref(svg,13056.4593,-3344.4445)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くわの眼科医院,福岡県小郡市津古５６３-１,眼科,,,9" xlink:title="くわの眼科医院" transform="ref(svg,13056.4692,-3344.4745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さとう産婦人科,福岡県小郡市津古１２１０,産科　婦人科,,,9" xlink:title="（医）さとう産婦人科" transform="ref(svg,13055.8844,-3344.8539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,--橋クリニック,福岡県小郡市美鈴が丘５-１２-６,内科　小児科　皮膚科　婦人科,,,9" xlink:title="--橋クリニック" transform="ref(svg,13055.3504,-3343.5228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ときえだクリニック,福岡県小郡市津古４８５-１９ハッピーハイツ１Ｆ,アレルギー科　小児科,,,9" xlink:title="（医）ときえだクリニック" transform="ref(svg,13056.4051,-3344.2143)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中原内科クリニック,福岡県小郡市三国が丘１-１３,内科　呼吸器科　胃腸科,,,9" xlink:title="中原内科クリニック" transform="ref(svg,13056.4863,-3343.737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西原内科医院,福岡県小郡市小郡６９３-７,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="西原内科医院" transform="ref(svg,13055.0775,-3340.2688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,希みが丘クリニック,福岡県小郡市希みが丘２-１９-１２,心療内科　精神科,,,9" xlink:title="希みが丘クリニック" transform="ref(svg,13053.9783,-3343.7437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はたせ眼科医院,福岡県小郡市小郡４１８-３９,眼科,,,9" xlink:title="はたせ眼科医院" transform="ref(svg,13055.5434,-3339.9643)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林整形外科クリニック,福岡県小郡市三国が丘１-５０-２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="林整形外科クリニック" transform="ref(svg,13056.3477,-3343.7134)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山泌尿器科医院,福岡県小郡市小郡１０７-８,泌尿器科　性病科,,,9" xlink:title="福山泌尿器科医院" transform="ref(svg,13055.5479,-3339.8612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古川整形外科医院,福岡県小郡市小郡６１９-５,整形外科　リハビリテーション科,,,9" xlink:title="古川整形外科医院" transform="ref(svg,13055.3856,-3340.5611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仏坂内科医院,福岡県小郡市三沢４２２５-２８,内科　アレルギー科,,,9" xlink:title="仏坂内科医院" transform="ref(svg,13056.2764,-3342.6811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,毛利クリニック,福岡県小郡市希みが丘１-１２-１２,内科　消化器科　小児科　放射線科,,,9" xlink:title="毛利クリニック" transform="ref(svg,13054.6659,-3343.6002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢野内科胃腸科医院,福岡県小郡市大保１５９２-２０,内科　消化器科　循環器科　呼吸器科　小児科,,,9" xlink:title="矢野内科胃腸科医院" transform="ref(svg,13055.6887,-3340.8323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山下こどもクリニック,福岡県小郡市横隈７３５-５,小児科,,,9" xlink:title="（医）山下こどもクリニック" transform="ref(svg,13057.2612,-3342.8767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＲＩＮＤＥＮクリニック,福岡県小郡市美鈴の杜１-１-１１,呼吸器科　消化器科　胃腸科　外科　肛門科,,,9" xlink:title="ＲＩＮＤＥＮクリニック" transform="ref(svg,13056.1916,-3343.2385)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）和漢堂福冨医院,福岡県小郡市小郡３５８-７,漢方内科　心療内科　精神科　漢方アレルギー科　漢方皮膚科,,,9" xlink:title="（医）和漢堂福冨医院" transform="ref(svg,13055.5569,-3339.8575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺内科胃腸科医院,福岡県小郡市津古８１５-１,内科　消化器科,,,9" xlink:title="渡辺内科胃腸科医院" transform="ref(svg,13055.8904,-3344.532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふくしま整形外科リハビリテーション＆スポーツクリニック,福岡県三井郡大刀洗町大字高樋２４７７-３,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="ふくしま整形外科リハビリテーション＆スポーツクリニック" transform="ref(svg,13059.9545,-3340.6415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平和クリニック,福岡県三井郡大刀洗町大字高樋２４９９-２１,内科　リハビリテーション科　胃腸科,,,9" xlink:title="平和クリニック" transform="ref(svg,13060.1283,-3340.7845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝老園診療所,福岡県朝倉郡筑前町朝日５８６,内科,,,9" xlink:title="朝老園診療所" transform="ref(svg,13056.9346,-3347.4653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）三沢長生園医務室,福岡県小郡市三沢８８１-１,内科　外科,,,9" xlink:title="（特養）三沢長生園医務室" transform="ref(svg,13054.4455,-3342.0586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ユニット型三沢長生園医務室,福岡県小郡市三沢８８１-１,内科　外科,,,9" xlink:title="（特養）ユニット型三沢長生園医務室" transform="ref(svg,13054.4455,-3342.0586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,翔朋学園医務室,福岡県小郡市三沢字井手ノ上７４５,内科,,,9" xlink:title="翔朋学園医務室" transform="ref(svg,13054.2167,-3341.8994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）青寿苑医務室,福岡県小郡市井上５３１,内科,,,9" xlink:title="（特養）青寿苑医務室" transform="ref(svg,13057.7508,-3340.5454)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こぐま学園医務室,福岡県小郡市大板井１１４３-１,内科　小児科　精神科　リハビリテーション科,,,9" xlink:title="こぐま学園医務室" transform="ref(svg,13056.4718,-3340.0699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊小郡駐屯地医務室,福岡県小郡市小郡２２７７,内科　外科　歯科,,,9" xlink:title="陸上自衛隊小郡駐屯地医務室" transform="ref(svg,13054.8982,-3340.5103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アサヒビール（株）博多工場健康管理室,福岡県福岡市博多区竹下３-１-１,内科　外科,,,9" xlink:title="アサヒビール（株）博多工場健康管理室" transform="ref(svg,13043.0906,-3357.0946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設アットホーム諸岡医務室,福岡県福岡市博多区諸岡２-１３-３２,内科,,,9" xlink:title="介護老人福祉施設アットホーム諸岡医務室" transform="ref(svg,13045.223,-3355.8329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有馬耳鼻咽喉科医院,福岡県福岡市博多区諸岡１-１５-２０,耳鼻咽喉科,,,9" xlink:title="有馬耳鼻咽喉科医院" transform="ref(svg,13044.6224,-3356.2639)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池之上内科,福岡県福岡市博多区那珂１-３１-１１,内科,,,9" xlink:title="池之上内科" transform="ref(svg,13043.6508,-3357.1759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井メンタルクリニック,福岡県福岡市博多区寿町２-４-１１南福岡プラザビル２階,心療内科　精神科,,,9" xlink:title="石井メンタルクリニック" transform="ref(svg,13046.1355,-3354.3138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石田内科循環器科医院,福岡県福岡市博多区麦野１-２９-１５,内科　循環器科　胃腸科,,,9" xlink:title="（医）石田内科循環器科医院" transform="ref(svg,13045.9274,-3355.3423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石橋内科医院,福岡県福岡市博多区麦野５-１-１０,内科　消化器科,,,9" xlink:title="（医）石橋内科医院" transform="ref(svg,13046.3436,-3354.7921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石橋内科循環器科医院,福岡県福岡市博多区竹丘町２-４-１,内科　循環器科　小児科,,,9" xlink:title="石橋内科循環器科医院" transform="ref(svg,13046.4539,-3354.4446)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,一木医院,福岡県福岡市博多区銀天町１-５-８,皮膚科,,,9" xlink:title="一木医院" transform="ref(svg,13046.1857,-3354.5803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤整形外科医院,福岡県福岡市博多区三筑１-２-８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="伊藤整形外科医院" transform="ref(svg,13045.3711,-3355.4104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）響会にしやま内科,福岡県福岡市博多区麦野４-４-６,内科　胃腸内科　内視鏡内科　消化器内科,,,9" xlink:title="（医）響会にしやま内科" transform="ref(svg,13045.7848,-3355.1457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うちかど脳神経外科クリニック,福岡県福岡市博多区那珂１-２-３,脳神経外科リハビリテーション科,,,9" xlink:title="うちかど脳神経外科クリニック" transform="ref(svg,13043.7436,-3357.3871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）えいこう眼科開星堂諸岡診療所,福岡県福岡市博多区諸岡１-２３-１４,眼科,,,9" xlink:title="（医）えいこう眼科開星堂諸岡診療所" transform="ref(svg,13044.7843,-3356.1618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおた内科泌尿器科クリニック,福岡県福岡市博多区諸岡１-２３-２１,内科　皮膚科　泌尿器科,,,9" xlink:title="おおた内科泌尿器科クリニック" transform="ref(svg,13044.7715,-3356.1126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,嘉村産婦人科医院,福岡県福岡市博多区西春町１-７-１４,産婦人科　麻酔科,,,9" xlink:title="嘉村産婦人科医院" transform="ref(svg,13046.5752,-3354.2492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）亀田内科クリニック,福岡県福岡市博多区南本町２-１-９,内科,,,9" xlink:title="（医）亀田内科クリニック" transform="ref(svg,13046.2363,-3354.6944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きたさと眼科クリニック,福岡県福岡市博多区銀天町１-５-７,眼科,,,9" xlink:title="きたさと眼科クリニック" transform="ref(svg,13046.1822,-3354.5823)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木原内科クリニック,福岡県福岡市博多区東那珂１-１４-４６フォレオ博多２Ｆ,内科　呼吸器内科　循環器内科　糖尿病内科,,,9" xlink:title="木原内科クリニック" transform="ref(svg,13043.9696,-3357.4195)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くまクリニック,福岡県福岡市博多区銀天町２-２-３,内科　外科　心臓血管外科　リハビリテーション科　皮膚科　消化器内科　循環器内科　代謝内科　内分泌科　糖尿病内科　腎臓内科　腫瘍内科　人工透析内科　消化器外科,,,9" xlink:title="くまクリニック" transform="ref(svg,13046.3105,-3354.5025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）くらおかしょうここどもクリニック,福岡県福岡市博多区諸岡２-１３-２６,小児科,,,9" xlink:title="（医）くらおかしょうここどもクリニック" transform="ref(svg,13045.2473,-3355.8242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,合屋医院,福岡県福岡市博多区銀天町３-１-１６,耳鼻咽喉科,,,9" xlink:title="合屋医院" transform="ref(svg,13046.4121,-3354.6254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ごんどう外科胃腸科クリニック,福岡県福岡市博多区東雲町２-１-１８,外科　整形外科　リハビリテーション科　漢方内科,,,9" xlink:title="ごんどう外科胃腸科クリニック" transform="ref(svg,13046.6669,-3354.703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,シグマクリニック,福岡県福岡市博多区新和町２-５-１１,内科,,,9" xlink:title="シグマクリニック" transform="ref(svg,13046.3606,-3353.622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,重松内科医院,福岡県福岡市博多区麦野４-３２-１５,内科　循環器内科　胃腸内科,,,9" xlink:title="重松内科医院" transform="ref(svg,13046.0552,-3354.8916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清水皮膚科クリニック,福岡県福岡市博多区南本町２-１-９柊ビル,形成外科　皮膚科,,,9" xlink:title="（医）清水皮膚科クリニック" transform="ref(svg,13046.2363,-3354.6944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,正弘会もろおかクリニック,福岡県福岡市博多区諸岡３-２６-１８　１階,内科　消化器科　外科　消化器内科,,,9" xlink:title="正弘会もろおかクリニック" transform="ref(svg,13044.2333,-3356.0778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠仁会籠田医院,福岡県福岡市博多区西春町１-２-１６,内科　外科　こう門科　胃腸科,,,9" xlink:title="（医）誠仁会籠田医院" transform="ref(svg,13046.7125,-3354.2442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,--岸小児科医院,福岡県福岡市博多区銀天町１-３-７,精神科　小児科　麻酔科,,,9" xlink:title="--岸小児科医院" transform="ref(svg,13046.2646,-3354.6351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかの整形外科クリニック,福岡県福岡市博多区諸岡１-２３-２０,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="たかの整形外科クリニック" transform="ref(svg,13044.7842,-3356.1242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中外科胃腸科医院,福岡県福岡市博多区竹丘町１-１-３３,外科　こう門科　リハビリテーション科　胃腸科,,,9" xlink:title="田中外科胃腸科医院" transform="ref(svg,13046.3064,-3354.3754)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,月隈愛心の丘医務室,福岡県福岡市博多区月隈６-１６-１１,内科,,,9" xlink:title="月隈愛心の丘医務室" transform="ref(svg,13046.682,-3357.1489)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徳洲会ホームケアクリニックアンリ南福岡,福岡県福岡市博多区元町２-１-６,内科,,,9" xlink:title="（医）徳洲会ホームケアクリニックアンリ南福岡" transform="ref(svg,13046.2912,-3354.2495)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別養護老人ホ-ム洸寿園医務室,福岡県福岡市博多区金の隈３-２４-５５,内科,,,9" xlink:title="特別養護老人ホ-ム洸寿園医務室" transform="ref(svg,13048.0199,-3355.5896)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）薔薇の樹苑医務室,福岡県福岡市博多区元町２-１-７,内科,,,9" xlink:title="（特養）薔薇の樹苑医務室" transform="ref(svg,13046.2812,-3354.2011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）りんごの家医務室,福岡県福岡市博多区井相田３-８-１,内科,,,9" xlink:title="（特養）りんごの家医務室" transform="ref(svg,13046.6706,-3355.0699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸早医院,福岡県福岡市博多区銀天町３-１-１１,内科　循環器科　小児科,,,9" xlink:title="戸早医院" transform="ref(svg,13046.4043,-3354.6421)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながとし小児科,福岡県福岡市博多区那珂１-２-４,小児科,,,9" xlink:title="ながとし小児科" transform="ref(svg,13043.7358,-3357.3763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野村皮膚科医院,福岡県福岡市博多区諸岡４-２７-１７,皮膚科,,,9" xlink:title="野村皮膚科医院" transform="ref(svg,13044.7632,-3355.9438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）パブリックヘルスリサーチセンター西日本支部福岡診療所,福岡県福岡市博多区那珂６-２５-１５,内科,,,9" xlink:title="（公財）パブリックヘルスリサーチセンター西日本支部福岡診療所" transform="ref(svg,13044.2497,-3356.4105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）濱整形外科医院,福岡県福岡市博多区南本町２-１-９,整形外科,,,9" xlink:title="（医）濱整形外科医院" transform="ref(svg,13046.2363,-3354.6944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）原田医院,福岡県福岡市博多区諸岡３-６-２５,内科　小児科　胃腸科,,,9" xlink:title="（医）原田医院" transform="ref(svg,13044.5824,-3356.1897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平橋内科医院,福岡県福岡市博多区板付７-２-１,内科　消化器科　循環器科　小児科　肝臓内科,,,9" xlink:title="平橋内科医院" transform="ref(svg,13045.3618,-3355.9847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古川医院,福岡県福岡市博多区板付３-１４-２,内科　小児科,,,9" xlink:title="古川医院" transform="ref(svg,13045.0226,-3356.3886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふるかわ内科クリニック,福岡県福岡市博多区板付３-１４-５,内科　胃腸内科　内視鏡内科,,,9" xlink:title="ふるかわ内科クリニック" transform="ref(svg,13045.0132,-3356.3775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古寺内科医院,福岡県福岡市博多区南八幡町２-３-１０,内科　小児科　呼吸器内科　消化器内科　循環器内科　肝臓内科　漢方内科,,,9" xlink:title="古寺内科医院" transform="ref(svg,13045.7004,-3354.6801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）村上胃腸科内科クリニック,福岡県福岡市博多区諸岡１-１９-１２,内科　胃腸科,,,9" xlink:title="（医）村上胃腸科内科クリニック" transform="ref(svg,13044.8409,-3356.2987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田レディスクリニック,福岡県福岡市博多区諸岡１-２３-１９,産科　婦人科,,,9" xlink:title="森田レディスクリニック" transform="ref(svg,13044.796,-3356.1384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宿久耳鼻咽喉科,福岡県福岡市博多区寿町２-９-３０,耳鼻咽喉科,,,9" xlink:title="宿久耳鼻咽喉科" transform="ref(svg,13046.1045,-3354.1902)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢野医院,福岡県福岡市博多区南本町２-１-７,内科　リハビリテーション科,,,9" xlink:title="矢野医院" transform="ref(svg,13046.2147,-3354.7063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口医院,福岡県福岡市博多区相生町３-２-１０,内科,,,9" xlink:title="山口医院" transform="ref(svg,13045.9369,-3354.5949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口整形外科医院,福岡県福岡市博多区那珂３-１１-１５,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="山口整形外科医院" transform="ref(svg,13043.9319,-3356.8766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山根医院,福岡県福岡市博多区竹下５-１６-２３,内科　小児科,,,9" xlink:title="山根医院" transform="ref(svg,13043.3831,-3356.8077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆうほくクリニック,福岡県福岡市博多区諸岡２-１３-２７,内科　外科　胃腸内科　肛門外科　消化器内科,,,9" xlink:title="ゆうほくクリニック" transform="ref(svg,13045.2281,-3355.8154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西田内科消化器科医院,福岡県福岡市南区井尻２-２０-１１,内科　消化器科　循環器科,,,9" xlink:title="（医）西田内科消化器科医院" transform="ref(svg,13044.3524,-3355.4929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成冨整形外科クリニック,福岡県福岡市南区井尻２-２０-８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）成冨整形外科クリニック" transform="ref(svg,13044.383,-3355.4812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真祥会吉永脳神経外科クリニック,福岡県福岡市南区井尻２-２２-５,脳神経外科リハビリテーション科,,,9" xlink:title="（医）真祥会吉永脳神経外科クリニック" transform="ref(svg,13044.4385,-3355.3522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井尻耳鼻咽喉科医院,福岡県福岡市南区井尻２-４９-１９,耳鼻咽喉科,,,9" xlink:title="井尻耳鼻咽喉科医院" transform="ref(svg,13044.4423,-3355.2729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮原産婦人科医院,福岡県福岡市南区井尻３-１０-１０,産科　婦人科,,,9" xlink:title="宮原産婦人科医院" transform="ref(svg,13044.4405,-3355.1941)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,楠原皮膚科医院,福岡県福岡市南区井尻３-１０-８,アレルギー科　皮膚科,,,9" xlink:title="楠原皮膚科医院" transform="ref(svg,13044.4707,-3355.1867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こじま内科クリニック,福岡県福岡市南区井尻３-１２-３０,内科　消化器科　循環器科,,,9" xlink:title="（医）こじま内科クリニック" transform="ref(svg,13044.5319,-3355.1739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）竹本整形外科・眼科クリニック,福岡県福岡市南区井尻３-１３-１４,リウマチ科　整形外科　眼科　リハビリテーション科,,,9" xlink:title="（医）竹本整形外科・眼科クリニック" transform="ref(svg,13044.6316,-3355.1469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）府川医院,福岡県福岡市南区井尻３-１４-２５,内科　外科　リハビリテーション科　消化器内科　消化器外科　肛門外科,,,9" xlink:title="（医）府川医院" transform="ref(svg,13044.6498,-3355.1956)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井尻メンタルクリニック,福岡県福岡市南区井尻３-２５-３１ＹＭビル-U２０４,心療内科　精神科,,,9" xlink:title="井尻メンタルクリニック" transform="ref(svg,13044.5943,-3355.0916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,諸岡小児科,福岡県福岡市南区井尻３-９-２１,小児科,,,9" xlink:title="諸岡小児科" transform="ref(svg,13044.4352,-3355.2525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長沢医院,福岡県福岡市南区井尻５-１２-３０,内科　小児科,,,9" xlink:title="長沢医院" transform="ref(svg,13044.0338,-3355.2714)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬場外科医院,福岡県福岡市南区井尻５-２５-１７,外科　整形外科　リハビリテーション科　胃腸科,,,9" xlink:title="馬場外科医院" transform="ref(svg,13044.1138,-3354.9676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,九州大学キャンパスライフ・健康支援センター大橋地区健康相談室,福岡県福岡市南区塩原４-９-１,内科　精神科,,,9" xlink:title="九州大学キャンパスライフ・健康支援センター大橋地区健康相談室" transform="ref(svg,13043.035,-3356.0628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大里腎クリニック,福岡県福岡市南区横手２-１８-１５,内科,,,9" xlink:title="大里腎クリニック" transform="ref(svg,13044.0925,-3354.8648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おがた内科・こどもクリニック,福岡県福岡市南区横手２-１８-１５,内科　心療内科　循環器科　小児科　胃腸科,,,9" xlink:title="おがた内科・こどもクリニック" transform="ref(svg,13044.0925,-3354.8648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢田部内科循環器科医院,福岡県福岡市南区横手２-３８-２０,内科　心療内科　循環器科　アレルギー科　リウマチ科　リハビリテーション科　神経内科　胃腸科,,,9" xlink:title="矢田部内科循環器科医院" transform="ref(svg,13043.9818,-3354.6486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安藤レディスクリニック,福岡県福岡市南区横手２-３-１,産婦人科,,,9" xlink:title="安藤レディスクリニック" transform="ref(svg,13043.777,-3355.0551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水クリニック,福岡県福岡市南区横手２-８-７,リハビリテーション科　麻酔科,,,9" xlink:title="清水クリニック" transform="ref(svg,13043.7884,-3354.8295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳永内科医院,福岡県福岡市南区横手３-４０-２,内科　呼吸器科　消化器科　リハビリテーション科,,,9" xlink:title="徳永内科医院" transform="ref(svg,13043.792,-3354.472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）弘仁会筑紫診療所,福岡県福岡市南区横手南町３-２６,内科　外科　放射線科　婦人科,,,9" xlink:title="（医）弘仁会筑紫診療所" transform="ref(svg,13044.2434,-3354.765)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）回生園医務室,福岡県福岡市南区横手南町３-８,内科　アレルギー科,,,9" xlink:title="（特養）回生園医務室" transform="ref(svg,13044.2758,-3354.7452)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）野見山会のみやま内科医院,福岡県福岡市南区警弥郷１-１７-１３,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）野見山会のみやま内科医院" transform="ref(svg,13043.0668,-3353.2916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤外科総合クリニック,福岡県福岡市南区警弥郷１-１７-１５,精神科　外科　整形外科　こう門科　胃腸科　皮膚科,,,9" xlink:title="佐藤外科総合クリニック" transform="ref(svg,13043.0621,-3353.3079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）南島整形外科,福岡県福岡市南区警弥郷３-２-３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）南島整形外科" transform="ref(svg,13043.1844,-3353.1837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）専心会木村専太郎クリニック,福岡県福岡市南区三宅３-１６-１８Ａ-１０１,呼吸器科　循環器科　外科　形成外科　リハビリテーション科　胃腸科　麻酔科,,,9" xlink:title="（医）専心会木村専太郎クリニック" transform="ref(svg,13043.2642,-3355.0993)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おおはし内科循環器科医院,福岡県福岡市南区大橋２-２７-２３,内科　呼吸器内科　消化器内科　循環器内科　腎臓内科,,,9" xlink:title="（医）おおはし内科循環器科医院" transform="ref(svg,13043.252,-3355.5417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）おおはし徳巣,福岡県福岡市南区大橋団地５-１,内科,,,9" xlink:title="（特養）おおはし徳巣" transform="ref(svg,13043.1553,-3355.6931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口眼科医院,福岡県福岡市南区弥永４-２-３,眼科,,,9" xlink:title="山口眼科医院" transform="ref(svg,13043.5895,-3352.9709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あそうクリニック,福岡県福岡市南区弥永４-２-３,内科　循環器科　こう門科　胃腸科,,,9" xlink:title="（医）あそうクリニック" transform="ref(svg,13043.5895,-3352.9709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大森整形外科医院,福岡県福岡市南区弥永４-６-１５,整形外科　リハビリテーション科,,,9" xlink:title="（医）大森整形外科医院" transform="ref(svg,13043.3969,-3352.7562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ムーンシャドウ医務室,福岡県福岡市南区柳瀬１-１５-１,内科,,,9" xlink:title="（特養）ムーンシャドウ医務室" transform="ref(svg,13043.5437,-3353.5642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）上瀧内科医院,福岡県福岡市南区柳瀬１-１９-１８,内科　循環器内科,,,9" xlink:title="（医）上瀧内科医院" transform="ref(svg,13043.4768,-3353.3528)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むらおかホームクリニック,福岡県福岡市福岡市南区横手２-３２-５,内科　婦人科,,,9" xlink:title="むらおかホームクリニック" transform="ref(svg,13044.0005,-3354.7293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田胃腸科外科,佐賀県三養基郡基山町小倉５４５-５５,内科　消化器科　胃腸科　循環器科　外科　アレルギー科　リハビリテーション科　放射線科,,,9" xlink:title="池田胃腸科外科" transform="ref(svg,13053.3866,-3342.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）酒井クリニック,佐賀県三養基郡基山町小倉蔵野１０５９-２,内科　胃腸科　外科　麻酔科　漢方内科　呼吸器内科,,,9" xlink:title="（医）酒井クリニック" transform="ref(svg,13052.9934,-3342.836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム寿楽園診療所,佐賀県三養基郡基山町園部２３０７,内科,,,9" xlink:title="養護老人ホーム寿楽園診療所" transform="ref(svg,13050.1331,-3341.8128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくし整形外科医院,佐賀県三養基郡基山町園部２７６５-２５,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="つくし整形外科医院" transform="ref(svg,13052.2438,-3341.8848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）なるお内科小児科,佐賀県三養基郡基山町けやき台１-２３-７,内科　消化器科　循環器科　小児科　泌尿器科　リハビリテーション科,,,9" xlink:title="（医）なるお内科小児科" transform="ref(svg,13053.2134,-3343.4006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志賀眼科医院,佐賀県三養基郡基山町大字宮浦７３５-１４,眼科,,,9" xlink:title="志賀眼科医院" transform="ref(svg,13052.2547,-3342.5938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中洲医院,佐賀県三養基郡基山町宮浦２５９-４５,内科　皮膚科　泌尿器科,,,9" xlink:title="中洲医院" transform="ref(svg,13052.953,-3342.2979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まえはら耳鼻咽喉科アレルギー科クリニック,佐賀県三養基郡基山町園部２７７２-１０,耳鼻いんこう科　アレルギー科,,,9" xlink:title="まえはら耳鼻咽喉科アレルギー科クリニック" transform="ref(svg,13052.3722,-3341.846)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）光寿權藤医院,佐賀県鳥栖市弥生が丘２-１,内科　呼吸器科　消化器科　胃腸科　心療内科　リウマチ科　リハビリテーション科　糖尿病科,,,9" xlink:title="（医）光寿權藤医院" transform="ref(svg,13052.5063,-3340.3305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ごんどう皮膚科,佐賀県鳥栖市弥生が丘２-１-２階,皮膚科,,,9" xlink:title="ごんどう皮膚科" transform="ref(svg,13052.5083,-3340.3303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンロードクリニック,佐賀県鳥栖市弥生が丘２-５,形成外科　美容外科　皮膚科　美容皮膚科,,,9" xlink:title="サンロードクリニック" transform="ref(svg,13052.4245,-3340.32)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈照会さくら診療所,佐賀県三養基郡基山町宮浦１８６-５４,内科　呼吸器科　消化器科　胃腸科　循環器科　精神科　神経内科　リハビリテーション科,,,9" xlink:title="（医）慈照会さくら診療所" transform="ref(svg,13052.9884,-3342.2028)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）寿楽園診療所,佐賀県鳥栖市弥生が丘２-１４６-１,内科,,,9" xlink:title="（特養）寿楽園診療所" transform="ref(svg,13052.3014,-3340.488)" x="0" y="0"/>
+</g>
+</svg>

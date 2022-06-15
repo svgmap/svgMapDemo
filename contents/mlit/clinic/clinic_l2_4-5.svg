@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13500.0 -3375.0 1125.0 1125.0" go:dataArea="13500.0 -3375.0 1125.0 1125.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,小笠原村診療所,東京都小笠原村父島字清瀬,内科　外科　小児科　整形外科　眼科　耳鼻咽喉科　皮膚科　産婦人科　歯科　精神科,,,9" xlink:title="小笠原村診療所" transform="ref(svg,14219.596,-2709.8983)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小笠原村母島診療所,東京都小笠原村母島字元地,内科　外科　小児科　整形外科　眼科　耳鼻咽喉科　皮膚科　産婦人科　歯科　精神科,,,9" xlink:title="小笠原村母島診療所" transform="ref(svg,14215.8878,-2664.1766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,海上自衛隊硫黄島航空基地医務室,東京都小笠原村硫黄島,内科　外科,,,9" xlink:title="海上自衛隊硫黄島航空基地医務室" transform="ref(svg,14132.2468,-2478.3913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島しょ保健所小笠原出張所,東京都小笠原村父島字清瀬,不明,,,9" xlink:title="島しょ保健所小笠原出張所" transform="ref(svg,14219.596,-2709.8983)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳重医院,東京都八丈島八丈町三根４２６,内科,,,9" xlink:title="徳重医院" transform="ref(svg,13980.0421,-3312.2125)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村立国民健康保険青ヶ島診療所,東京都青ヶ島村,内科　外科　産婦人科　歯科,,,9" xlink:title="村立国民健康保険青ヶ島診療所" transform="ref(svg,13976.3301,-3246.6513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩渕クリニック,東京都八丈島八丈町三根３０６-１-１,内科,,,9" xlink:title="岩渕クリニック" transform="ref(svg,13980.1997,-3311.7002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）養和会第二八丈老人ホーム,東京都八丈島八丈町大賀郷７６７０-１,内科,,,9" xlink:title="（福）養和会第二八丈老人ホーム" transform="ref(svg,13977.302,-3310.974)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島しょ保健所八丈出張所,東京都八丈島八丈町三根１９５０-２,不明,,,9" xlink:title="島しょ保健所八丈出張所" transform="ref(svg,13979.3845,-3311.2317)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とみむろクリニック,三重県南牟婁郡紀宝町成川４４-１,整形外科　内科　外科　リハビリテーション科　胃腸科　肛門科,,,9" xlink:title="とみむろクリニック" transform="ref(svg,13600.4389,-3374.1219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宝寿園診療所,三重県南牟婁郡紀宝町北桧杖９０,内科　漢方内科　呼吸器科　胃腸科,,,9" xlink:title="宝寿園診療所" transform="ref(svg,13597.2193,-3372.8915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺本クリニック,三重県南牟婁郡紀宝町鵜殿７７８-１,内科　消化器科,,,9" xlink:title="寺本クリニック" transform="ref(svg,13600.8904,-3373.5471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高洲小児科,和歌山県田辺市下屋敷町１６-１,小児科,,,9" xlink:title="高洲小児科" transform="ref(svg,13538.1498,-3372.9111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滝浪眼科,和歌山県田辺市下屋敷町１３,眼科,,,9" xlink:title="滝浪眼科" transform="ref(svg,13538.2293,-3372.9754)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,納田整形外科,和歌山県田辺市あけぼの４６-１４,整形外科,,,9" xlink:title="納田整形外科" transform="ref(svg,13539.3389,-3373.1872)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福原医院神子浜出張所,和歌山県田辺市神子浜１-１１-３５,内科,,,9" xlink:title="福原医院神子浜出張所" transform="ref(svg,13538.6822,-3372.5515)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,保富整形外科医院,和歌山県田辺市湊７５８-９,整形外科　脳外科　リハビリテーション科　放射線科,,,9" xlink:title="保富整形外科医院" transform="ref(svg,13538.7206,-3373.024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平畑医院,和歌山県田辺市高雄１-５-２,外科　消化器内科,,,9" xlink:title="平畑医院" transform="ref(svg,13538.0629,-3373.5241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）（特養）真寿苑,和歌山県田辺市神島台６-１,内科　外科,,,9" xlink:title="（福）（特養）真寿苑" transform="ref(svg,13540.343,-3370.7089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和歌山県赤十字血液センター田辺出張所,和歌山県田辺市芳養町字小屋谷５３-５,内科,,,9" xlink:title="和歌山県赤十字血液センター田辺出張所" transform="ref(svg,13534.0742,-3374.6513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長嶋医院,和歌山県田辺市目良３２-３２,内科　外科　消化器内科　リハビリテーション科,,,9" xlink:title="長嶋医院" transform="ref(svg,13535.5123,-3373.4219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野口胃腸肛門外科医院,和歌山県田辺市朝日ケ丘１１-７,内科　外科　消化器内科　こう門外科,,,9" xlink:title="野口胃腸肛門外科医院" transform="ref(svg,13539.2729,-3373.3358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池畑医院,和歌山県田辺市湊７３６-３,皮膚科,,,9" xlink:title="池畑医院" transform="ref(svg,13538.5831,-3373.1127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,晒医院,和歌山県田辺市東陽２７-６,皮膚科,,,9" xlink:title="晒医院" transform="ref(svg,13538.2054,-3372.8686)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本小児科医院,和歌山県田辺市湊７３６-５,内科　小児科,,,9" xlink:title="山本小児科医院" transform="ref(svg,13538.5872,-3373.0892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,乾耳鼻咽喉科医院,和歌山県田辺市上屋敷１-３-３９,耳鼻いんこう科　アレルギー科,,,9" xlink:title="乾耳鼻咽喉科医院" transform="ref(svg,13537.6901,-3373.1483)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,串医院,和歌山県田辺市中屋敷町６８-１,内科　循環器内科,,,9" xlink:title="串医院" transform="ref(svg,13537.8498,-3372.9544)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成和脳神経内科医院,和歌山県田辺市芳養町松原２-１５-１７,神経内科,,,9" xlink:title="成和脳神経内科医院" transform="ref(svg,13535.8547,-3374.6144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,楠本医院,和歌山県田辺市片町１００,内科,,,9" xlink:title="楠本医院" transform="ref(svg,13537.4908,-3373.3244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うえはら小児科,和歌山県田辺市朝日ケ丘１６-３２,小児科,,,9" xlink:title="うえはら小児科" transform="ref(svg,13539.0116,-3373.5954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,那須内科消化器科,和歌山県田辺市高雄３-１３-１,内科　消化器内科　呼吸器内科,,,9" xlink:title="那須内科消化器科" transform="ref(svg,13538.2554,-3373.9843)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田内科医院,和歌山県田辺市学園１１-３,内科　循環器内科,,,9" xlink:title="山田内科医院" transform="ref(svg,13539.07,-3372.6363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂口耳鼻咽喉科医院,和歌山県田辺市あけぼの４６-１２,耳鼻いんこう科　アレルギー科,,,9" xlink:title="坂口耳鼻咽喉科医院" transform="ref(svg,13539.3172,-3373.1991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,辻内科医院,和歌山県田辺市中万呂１３３-１１,内科　消化器内科　循環器内科　放射線科,,,9" xlink:title="辻内科医院" transform="ref(svg,13540.0898,-3373.621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広井眼科医院,和歌山県田辺市下屋敷町８７-１,眼科,,,9" xlink:title="広井眼科医院" transform="ref(svg,13538.0932,-3372.9422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山西内科胃腸科眼科医院,和歌山県田辺市湊９９８-３,内科　眼科　消化器内科,,,9" xlink:title="山西内科胃腸科眼科医院" transform="ref(svg,13538.3247,-3373.2755)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）国立南和歌山病院診療部,和歌山県田辺市たきない町２７-１,内科　整形外科,,,9" xlink:title="厚生労働省第二（共済）国立南和歌山病院診療部" transform="ref(svg,13539.954,-3370.0622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹村医院,和歌山県田辺市東山１-３-８,内科　消化器内科　呼吸器内科,,,9" xlink:title="竹村医院" transform="ref(svg,13538.7439,-3372.961)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉置医院,和歌山県田辺市芳養松原１-１３-８,内科　外科,,,9" xlink:title="玉置医院" transform="ref(svg,13535.4989,-3374.6825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,外科内科辻医院,和歌山県田辺市上屋敷３-１１-１４,内科　外科,,,9" xlink:title="外科内科辻医院" transform="ref(svg,13537.4361,-3373.006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏井内科クリニック,和歌山県田辺市末広町６-２０,内科,,,9" xlink:title="柏井内科クリニック" transform="ref(svg,13538.0089,-3372.5226)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺広域休日急患診療所,和歌山県田辺市高雄１-２３-１田辺市民総合センター内,内科　小児科　歯科,,,9" xlink:title="田辺広域休日急患診療所" transform="ref(svg,13537.7379,-3373.5497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神島クリニック,和歌山県田辺市たきない町６-１１,内科　小児科　耳鼻いんこう科,,,9" xlink:title="神島クリニック" transform="ref(svg,13540.2592,-3370.373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南紀新庄クリニック,和歌山県田辺市新庄町２１７３-１,内科　消化器内科　腎臓内科　循環器内科　呼吸器内科　リハビリテーション科　放射線科,,,9" xlink:title="南紀新庄クリニック" transform="ref(svg,13540.1329,-3371.7788)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堅田内科循環器科,和歌山県田辺市秋津町１０２-１,内科　循環器内科,,,9" xlink:title="堅田内科循環器科" transform="ref(svg,13538.8434,-3374.4517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本眼科,和歌山県田辺市高雄１-１２-２５,眼科,,,9" xlink:title="山本眼科" transform="ref(svg,13537.8285,-3373.5255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,線崎泌尿器科医院,和歌山県田辺市文里１-２０-２５,泌尿器科,,,9" xlink:title="線崎泌尿器科医院" transform="ref(svg,13538.9334,-3371.7629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水本内科クリニック,和歌山県田辺市下万呂６７-１,内科,,,9" xlink:title="水本内科クリニック" transform="ref(svg,13539.6534,-3374.403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田整形外科,和歌山県田辺市明洋１-１９-１９,整形外科　リハビリテーション科,,,9" xlink:title="池田整形外科" transform="ref(svg,13535.941,-3373.5984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榎本整形外科,和歌山県田辺市東陽１７-１５,外科　整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="榎本整形外科" transform="ref(svg,13538.5809,-3372.6672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榎本医院,和歌山県田辺市新万３４-４９,内科　外科　小児科　婦人科　消化器内科　循環器内科　整形外科　精神科　神経内科　心療内科　リハビリテーション科,,,9" xlink:title="榎本医院" transform="ref(svg,13539.7993,-3373.5789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榎本産婦人科,和歌山県田辺市湊１１７４-１,産婦人科,,,9" xlink:title="榎本産婦人科" transform="ref(svg,13538.0948,-3373.3926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西川医院,和歌山県田辺市高雄１-２２-２０,内科　循環器内科,,,9" xlink:title="西川医院" transform="ref(svg,13537.6021,-3373.531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉本胃腸科外科,和歌山県田辺市中万呂６２-６,内科　外科　消化器内科　消化器外科　こう門外科　リハビリテーション科　放射線科,,,9" xlink:title="杉本胃腸科外科" transform="ref(svg,13540.193,-3373.9056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,櫻根皮フ科,和歌山県田辺市神子浜１-２１-２３,皮膚科,,,9" xlink:title="櫻根皮フ科" transform="ref(svg,13538.7786,-3372.3284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おかもと内科クリニック,和歌山県田辺市末広町９-８,内科　消化器内科　糖尿病内科　リハビリテーション科　放射線科,,,9" xlink:title="おかもと内科クリニック" transform="ref(svg,13538.213,-3372.4873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺市高齢者複合施設たきの里診療所,和歌山県田辺市たきない町２２-１,内科,,,9" xlink:title="田辺市高齢者複合施設たきの里診療所" transform="ref(svg,13540.093,-3369.9365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディースクリニックばんどう,和歌山県田辺市東山２-２７-２６,産科　婦人科,,,9" xlink:title="レディースクリニックばんどう" transform="ref(svg,13539.4752,-3372.2727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野の花診療所,和歌山県田辺市中三栖１８１７,内科　小児外科,,,9" xlink:title="野の花診療所" transform="ref(svg,13543.3046,-3374.6471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）鮎川園診療室,和歌山県田辺市鮎川字向越１３１３,内科　外科,,,9" xlink:title="（特養）鮎川園診療室" transform="ref(svg,13549.9663,-3374.0271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鮎川診療所,和歌山県田辺市鮎川５８３-３,内科　腎臓内科　整形外科　泌尿器科,,,9" xlink:title="鮎川診療所" transform="ref(svg,13548.3364,-3372.9185)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺市大塔三川診療所,和歌山県田辺市合川６７８-３,内科　外科　小児科　歯科,,,9" xlink:title="田辺市大塔三川診療所" transform="ref(svg,13556.9404,-3368.7374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺市大塔富里診療所,和歌山県田辺市下川下９３０,内科　外科　小児科　歯科,,,9" xlink:title="田辺市大塔富里診療所" transform="ref(svg,13558.473,-3374.1498)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まちだ内科クリニック,和歌山県田辺市下三栖１２５７-４,内科　消化器内科　糖尿病内科　循環器内科　呼吸器内科　アレルギー科,,,9" xlink:title="まちだ内科クリニック" transform="ref(svg,13542.0662,-3373.4936)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中西内科胃腸科医院,和歌山県田辺市下屋敷町１４-２,内科　消化器内科　循環器内科　リハビリテーション科　アレルギー科,,,9" xlink:title="中西内科胃腸科医院" transform="ref(svg,13538.2001,-3372.9336)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長嶋雄一クリニック,和歌山県田辺市下三栖１４８３-１５,内科　消化器内科,,,9" xlink:title="長嶋雄一クリニック" transform="ref(svg,13542.0878,-3372.9911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,真寿苑クリニック,和歌山県田辺市神島台４-１,内科　循環器内科,,,9" xlink:title="真寿苑クリニック" transform="ref(svg,13540.2381,-3370.7925)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂ノ下眼科,和歌山県田辺市たきない町２１-２５,眼科,,,9" xlink:title="坂ノ下眼科" transform="ref(svg,13540.1514,-3370.0984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかの耳鼻咽喉科・アレルギー科,和歌山県田辺市たきない町２０-１０,耳鼻いんこう科　アレルギー科,,,9" xlink:title="たかの耳鼻咽喉科・アレルギー科" transform="ref(svg,13540.2069,-3370.1965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福原医院,和歌山県田辺市朝日ヶ丘１３-２４-２Ｆ,内科　小児科,,,9" xlink:title="福原医院" transform="ref(svg,13539.271,-3373.3912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふくはらこどもクリニック,和歌山県田辺市朝日ヶ丘１３-２４-１Ｆ,小児科　アレルギー科,,,9" xlink:title="ふくはらこどもクリニック" transform="ref(svg,13539.2603,-3373.3927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小幡医院,和歌山県田辺市湊７２５-３,整形外科　形成外科,,,9" xlink:title="小幡医院" transform="ref(svg,13538.5414,-3373.1702)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,湊．小川クリニック,和歌山県田辺市湊１０６４-９榎本ビル１Ｆ,精神科,,,9" xlink:title="湊．小川クリニック" transform="ref(svg,13538.219,-3373.1517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まろクリニック,和歌山県田辺市下万呂３９３-５,腎臓内科,,,9" xlink:title="まろクリニック" transform="ref(svg,13539.5269,-3373.7135)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近畿郵政健康管理センター田辺分室,和歌山県田辺市中屋敷町２４-２５扇ビル１Ｆ,内科,,,9" xlink:title="近畿郵政健康管理センター田辺分室" transform="ref(svg,13537.7602,-3372.8566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤ちゃんとこどものクリニックＢｅ,和歌山県田辺市たきない町３２-６,内科,,,9" xlink:title="赤ちゃんとこどものクリニックＢｅ" transform="ref(svg,13539.8844,-3370.3259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）田辺の郷,和歌山県田辺市芳養松原１-３１-１０,小児科,,,9" xlink:title="（特養）田辺の郷" transform="ref(svg,13535.4672,-3374.4355)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うえだ内科外科クリニック,和歌山県田辺市新万２８-２７,内科　外科　胃腸内科　整形外科,,,9" xlink:title="うえだ内科外科クリニック" transform="ref(svg,13539.7888,-3373.3666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えのもと内科クリニック,和歌山県田辺市たきない町２-１,内科　消化器内科　呼吸器内科,,,9" xlink:title="えのもと内科クリニック" transform="ref(svg,13540.0058,-3370.4656)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺市民総合センターパブリックヘルスリサーチセンター診療所,和歌山県田辺市高雄１-２３-１,内科,,,9" xlink:title="田辺市民総合センターパブリックヘルスリサーチセンター診療所" transform="ref(svg,13537.7379,-3373.5497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺保健所,和歌山県田辺市旭丘３-１,不明,,,9" xlink:title="田辺保健所" transform="ref(svg,13537.7768,-3372.8034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）百々千園,和歌山県西牟婁郡白浜町中１６５２,内科　外科　婦人科　循環器内科　泌尿器科　心療内科　リハビリテーション科,,,9" xlink:title="（特養）百々千園" transform="ref(svg,13538.78,-3364.8798)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）成樹園診療所,和歌山県西牟婁郡白浜町富田１７０３,内科　外科　産科,,,9" xlink:title="（特養）成樹園診療所" transform="ref(svg,13539.813,-3363.7972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,船附診療所,和歌山県西牟婁郡白浜町富田１３６０-２０,内科,,,9" xlink:title="船附診療所" transform="ref(svg,13539.8986,-3363.8826)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三谷医院,和歌山県西牟婁郡白浜町１４００,内科　外科　循環器内科　心療内科,,,9" xlink:title="三谷医院" transform="ref(svg,13534.7506,-3368.1865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成実園診療所,和歌山県西牟婁郡白浜町富田１３７１-１,内科　外科　消化器内科,,,9" xlink:title="成実園診療所" transform="ref(svg,13539.8588,-3363.802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム椿園診療所,和歌山県西牟婁郡白浜町椿１０５９-１,内科,,,9" xlink:title="養護老人ホーム椿園診療所" transform="ref(svg,13539.2939,-3360.2965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西富田クリニック,和歌山県西牟婁郡白浜町才野１,内科,,,9" xlink:title="西富田クリニック" transform="ref(svg,13538.5935,-3366.2987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森山医院,和歌山県西牟婁郡白浜町栄６８９-１,内科　小児科　婦人科　循環器内科　心療内科,,,9" xlink:title="森山医院" transform="ref(svg,13539.6373,-3365.1929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白浜メンタルクリニック,和歌山県西牟婁郡白浜町１０８１-６,内科　小児科　心療内科,,,9" xlink:title="白浜メンタルクリニック" transform="ref(svg,13535.0143,-3368.6706)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丸笹外科内科,和歌山県西牟婁郡白浜町日置９８１,内科　こう門外科　精神科,,,9" xlink:title="丸笹外科内科" transform="ref(svg,13543.8347,-3356.8114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日置川みどり園診療所,和歌山県西牟婁郡白浜町大古７５９-１,内科　外科　循環器内科　呼吸器内科,,,9" xlink:title="日置川みどり園診療所" transform="ref(svg,13545.7655,-3357.5964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニック大古,和歌山県西牟婁郡白浜町大古１１-２,こう門外科,,,9" xlink:title="クリニック大古" transform="ref(svg,13545.8917,-3358.0355)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,椿診療所,和歌山県西牟婁郡白浜町椿３３,内科　心療内科,,,9" xlink:title="椿診療所" transform="ref(svg,13539.4731,-3360.8664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白浜町国民健康保険直営日置診療所,和歌山県西牟婁郡白浜町日置２０６-１,内科,,,9" xlink:title="白浜町国民健康保険直営日置診療所" transform="ref(svg,13544.2754,-3357.225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白浜町国民健康保険直営三舞診療所,和歌山県西牟婁郡白浜町安居３,内科　小児科　泌尿器科,,,9" xlink:title="白浜町国民健康保険直営三舞診療所" transform="ref(svg,13548.2528,-3360.7541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）白浜日置の郷,和歌山県西牟婁郡白浜町日置２０３７,内科　外科,,,9" xlink:title="（特養）白浜日置の郷" transform="ref(svg,13543.1165,-3357.2343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,真貴診療所,和歌山県西牟婁郡白浜町堅田字細野２７９２-１,内科,,,9" xlink:title="真貴診療所" transform="ref(svg,13538.0088,-3368.1061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白浜町国民健康保険直営川添診療所,和歌山県西牟婁郡白浜町市鹿野１１０３,内科　外科　腎臓内科　糖尿病内科,,,9" xlink:title="白浜町国民健康保険直営川添診療所" transform="ref(svg,13553.3761,-3365.8283)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白浜さかた診療所,和歌山県西牟婁郡白浜町３７１５-４８,内科　小児科　アレルギー科,,,9" xlink:title="白浜さかた診療所" transform="ref(svg,13535.4319,-3369.1147)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）神愛会愛の園診療所,和歌山県西牟婁郡上富田町生馬３１６-５６,内科　泌尿器科,,,9" xlink:title="（福）神愛会愛の園診療所" transform="ref(svg,13542.7686,-3371.8533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,牟婁あゆみ園医務室,和歌山県西牟婁郡上富田町岩田２４５７-１,内科　心療内科,,,9" xlink:title="牟婁あゆみ園医務室" transform="ref(svg,13544.5143,-3371.1098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田診療所,和歌山県西牟婁郡上富田町朝来６１６,内科,,,9" xlink:title="吉田診療所" transform="ref(svg,13542.9308,-3369.7946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中井丸岡医院,和歌山県西牟婁郡上富田町朝来１３３８-３,内科　消化器内科,,,9" xlink:title="中井丸岡医院" transform="ref(svg,13541.9464,-3369.5022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,植山整形外科,和歌山県西牟婁郡上富田町朝来７８６-３,内科　外科　循環器内科　リウマチ科,,,9" xlink:title="植山整形外科" transform="ref(svg,13542.7163,-3369.4202)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田医院,和歌山県西牟婁郡上富田町朝来２２１-２,循環器内科　心療内科,,,9" xlink:title="吉田医院" transform="ref(svg,13542.6458,-3369.8751)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上富田クリニック,和歌山県西牟婁郡上富田町朝来１４０７-１,内科　小児科,,,9" xlink:title="上富田クリニック" transform="ref(svg,13541.7352,-3369.3524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中北クリニック,和歌山県西牟婁郡上富田町朝来９５-１,内科　外科　眼科　消化器内科　腎臓内科　皮膚科,,,9" xlink:title="中北クリニック" transform="ref(svg,13542.9519,-3370.1607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上富田町市ノ瀬診療所,和歌山県西牟婁郡上富田町市ノ瀬２５０４-８,内科　呼吸器内科,,,9" xlink:title="上富田町市ノ瀬診療所" transform="ref(svg,13546.3366,-3371.5453)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,線崎外科胃腸科クリニック,和歌山県西牟婁郡上富田町岩田１９０３-３,内科　外科,,,9" xlink:title="線崎外科胃腸科クリニック" transform="ref(svg,13544.404,-3370.5315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,冨永医院,和歌山県西牟婁郡すさみ町周参見３９１０-５,内科　外科　消化器内科,,,9" xlink:title="冨永医院" transform="ref(svg,13549.7293,-3355.3136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐本診療所,和歌山県西牟婁郡すさみ町佐本追川２２８,内科　小児科　婦人科　心療内科　リハビリテーション科,,,9" xlink:title="佐本診療所" transform="ref(svg,13561.9083,-3358.4717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はまゆう園診療所,和歌山県西牟婁郡すさみ町周参見２３６２-１,内科　外科　小児科,,,9" xlink:title="（特養）はまゆう園診療所" transform="ref(svg,13549.5924,-3355.5553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大鎌診療所,和歌山県西牟婁郡すさみ町大鎌２３７,内科　眼科,,,9" xlink:title="大鎌診療所" transform="ref(svg,13562.496,-3355.1522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大附診療所,和歌山県西牟婁郡すさみ町大附２５４-２,内科　外科,,,9" xlink:title="大附診療所" transform="ref(svg,13556.0334,-3359.7399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,國正医院,和歌山県西牟婁郡すさみ町江住９４１-１０,内科　外科,,,9" xlink:title="國正医院" transform="ref(svg,13560.3587,-3350.932)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,けんゆうえすみ診療所,和歌山県西牟婁郡すさみ町江住上ミ平見８００,内科　外科,,,9" xlink:title="けんゆうえすみ診療所" transform="ref(svg,13560.0518,-3350.593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲生医院,和歌山県東牟婁郡串本町串本１７３５-５２,内科　外科　消化器内科　放射線科,,,9" xlink:title="稲生医院" transform="ref(svg,13578.1121,-3347.0142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,覚前医院,和歌山県東牟婁郡串本町和深８３８,内科　循環器内科,,,9" xlink:title="覚前医院" transform="ref(svg,13565.5669,-3350.2323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,覚前医院田並診療所,和歌山県東牟婁郡串本町田並９４２-２,内科　循環器内科,,,9" xlink:title="覚前医院田並診療所" transform="ref(svg,13571.6312,-3348.5871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鎌田医院,和歌山県東牟婁郡串本町潮岬３１４３,内科　放射線科,,,9" xlink:title="鎌田医院" transform="ref(svg,13576.0689,-3344.7587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鎌田医院田並診療所,和歌山県東牟婁郡串本町田並１１３４,内科,,,9" xlink:title="鎌田医院田並診療所" transform="ref(svg,13571.6362,-3348.6878)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,串本リハビリテーションセンター,和歌山県東牟婁郡串本町串本２５９-６,眼科,,,9" xlink:title="串本リハビリテーションセンター" transform="ref(svg,13578.0472,-3347.2208)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）芳純会みさきメンタルクリニック,和歌山県東牟婁郡串本町串本２１１３-２,精神科,,,9" xlink:title="（医）芳純会みさきメンタルクリニック" transform="ref(svg,13578.6059,-3347.6897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榎本クリニック,和歌山県東牟婁郡串本町西向１２２-３,内科　胃腸外科　皮膚科　リハビリテーション科,,,9" xlink:title="榎本クリニック" transform="ref(svg,13582.0479,-3352.1736)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,けんゆうクリニック,和歌山県東牟婁郡串本町串本１７９０,内科　整形外科　脳神経外科　皮膚科　放射線科,,,9" xlink:title="けんゆうクリニック" transform="ref(svg,13578.1146,-3347.1865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杉医院,和歌山県東牟婁郡串本町串本１９２９,内科　精神科　心療内科,,,9" xlink:title="（医）杉医院" transform="ref(svg,13578.1143,-3346.764)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）辻内医院,和歌山県東牟婁郡串本町串本２２８１,内科　小児科　消化器内科　循環器内科,,,9" xlink:title="（医）辻内医院" transform="ref(svg,13578.7773,-3347.9908)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）串本福祉会にしき園診療所,和歌山県東牟婁郡串本町二色１６０,内科　小児科　精神科　心療内科,,,9" xlink:title="（福）串本福祉会にしき園診療所" transform="ref(svg,13576.8861,-3348.9038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古座あさかぜ園診療所,和歌山県東牟婁郡串本町上田原１２３７,内科　精神科,,,9" xlink:title="古座あさかぜ園診療所" transform="ref(svg,13586.9214,-3355.6376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やもとクリニック,和歌山県東牟婁郡串本町上野山１９１,内科　外科　胃腸外科　肛門外科　放射線科,,,9" xlink:title="やもとクリニック" transform="ref(svg,13583.2518,-3351.7123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,串本町保健センターパブリックヘルスリサーチセンター診療所,和歌山県東牟婁郡串本町串本２３６７,内科,,,9" xlink:title="串本町保健センターパブリックヘルスリサーチセンター診療所" transform="ref(svg,13578.3926,-3347.157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中根医院,和歌山県東牟婁郡古座川町高池１０-３,内科　外科　消化器内科　整形外科　脳神経外科,,,9" xlink:title="（医）中根医院" transform="ref(svg,13582.2785,-3352.3715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかせ会記念診療所,和歌山県東牟婁郡古座川町高瀬３５３,内科　外科　消化器内科　循環器内科　呼吸器内科,,,9" xlink:title="たかせ会記念診療所" transform="ref(svg,13577.8344,-3353.5315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古座川町国民健康保険七川診療所,和歌山県東牟婁郡古座川町下露３７６,内科　整形外科,,,9" xlink:title="古座川町国民健康保険七川診療所" transform="ref(svg,13570.9512,-3362.0483)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古座川町国民健康保険明神診療所,和歌山県東牟婁郡古座川町明神３５-１９,内科　小児科,,,9" xlink:title="古座川町国民健康保険明神診療所" transform="ref(svg,13575.8217,-3353.7209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古座川町三尾川へき地診療所,和歌山県東牟婁郡古座川町三尾川９４４,内科　小児科,,,9" xlink:title="古座川町三尾川へき地診療所" transform="ref(svg,13568.6402,-3355.7503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古座川町小川へき地診療所,和歌山県東牟婁郡古座川町小川７７４-１,内科,,,9" xlink:title="古座川町小川へき地診療所" transform="ref(svg,13576.5764,-3360.1864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古座川町田川へき地診療所,和歌山県東牟婁郡古座川町田川１４４,内科,,,9" xlink:title="古座川町田川へき地診療所" transform="ref(svg,13578.3809,-3362.8677)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新宮保健所,和歌山県新宮市緑ヶ丘２-４-８,内科,,,9" xlink:title="新宮保健所" transform="ref(svg,13598.9278,-3371.933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）米良医院,和歌山県新宮市池田町３-２-１,内科　小児科　消化器内科,,,9" xlink:title="（医）米良医院" transform="ref(svg,13599.4768,-3372.7)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉置整形外科医院,和歌山県新宮市緑ヶ丘２-３-１１,整形外科　放射線科　リハビリテーション科,,,9" xlink:title="玉置整形外科医院" transform="ref(svg,13598.8633,-3371.9759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中瀬古整形外科医院,和歌山県新宮市大橋通４-１-９,整形外科　理学療法科,,,9" xlink:title="中瀬古整形外科医院" transform="ref(svg,13598.641,-3372.777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,要外科内科医院,和歌山県新宮市井の沢９-１０,内科　外科　消化器科　循環器科　呼吸器科　放射線科　人工透析内科,,,9" xlink:title="要外科内科医院" transform="ref(svg,13599.1238,-3372.2281)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新宮市立養護老人ホーム寿楽荘,和歌山県新宮市木の川２７９-１,内科,,,9" xlink:title="新宮市立養護老人ホーム寿楽荘" transform="ref(svg,13596.1236,-3368.0816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）淳風会熊野路クリニック,和歌山県新宮市緑ヶ丘２-１-２０,神経内科　人口透析科　糖尿病　代謝内科,,,9" xlink:title="（医）淳風会熊野路クリニック" transform="ref(svg,13599.018,-3372.0983)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）黒潮園医務室,和歌山県新宮市三輪崎西高森２４７１-１,内科,,,9" xlink:title="（特養）黒潮園医務室" transform="ref(svg,13598.6352,-3369.8404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）坂下小児科,和歌山県新宮市新宮４６０５-４,小児科,,,9" xlink:title="（医）坂下小児科" transform="ref(svg,13599.566,-3371.6695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浜野皮膚泌尿器科,和歌山県新宮市井の沢１-２８,皮膚科　泌尿器科　放射線科　麻酔科,,,9" xlink:title="浜野皮膚泌尿器科" transform="ref(svg,13599.1908,-3372.4588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,味八木胃腸科外科医院,和歌山県新宮市神倉４-６-４０,外科　消化器　肛門科,,,9" xlink:title="味八木胃腸科外科医院" transform="ref(svg,13598.7066,-3372.0188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木下外科医院,和歌山県新宮市橋本１-３-５,内科　外科　胃腸科　肛門科　理学療法科,,,9" xlink:title="木下外科医院" transform="ref(svg,13598.7095,-3371.6693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）米良外科整形外科クリニック,和歌山県新宮市伊佐田町２-１-２,内科　外科　胃腸科　整形外科　肛門科　理学療法科,,,9" xlink:title="（医）米良外科整形外科クリニック" transform="ref(svg,13599.4485,-3372.7497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,湊口医院,和歌山県新宮市三輪崎２-１３-５１,内科　小児科　理学療法科　放射線科,,,9" xlink:title="湊口医院" transform="ref(svg,13598.3381,-3368.498)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,湊口内科クリニック,和歌山県新宮市下田１-１-１３,内科　循環器科,,,9" xlink:title="湊口内科クリニック" transform="ref(svg,13599.5089,-3372.1195)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢島医院,和歌山県新宮市別当屋敷６-８,産婦人科,,,9" xlink:title="矢島医院" transform="ref(svg,13598.622,-3372.8743)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口整形外科,和歌山県新宮市蜂伏３-２７,整形外科　リハビリテーション科　放射線科,,,9" xlink:title="山口整形外科" transform="ref(svg,13596.5164,-3368.2069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）井畑医院,和歌山県新宮市三輪崎２-３-２１,内科　小児科　胃腸科,,,9" xlink:title="（医）井畑医院" transform="ref(svg,13598.3172,-3368.7144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）温泉ハウスくまの医務室,和歌山県新宮市蜂伏１４-１９,内科　外科,,,9" xlink:title="（特養）温泉ハウスくまの医務室" transform="ref(svg,13596.2314,-3368.6643)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土山医院,和歌山県新宮市池田３-２-１５,皮膚科,,,9" xlink:title="土山医院" transform="ref(svg,13599.5917,-3372.7331)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）笹屋内科外科,和歌山県新宮市緑ヶ丘３-１-１,内科　外科,,,9" xlink:title="（医）笹屋内科外科" transform="ref(svg,13599.074,-3371.8126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわさきメンタルヘルスクリニック,和歌山県新宮市新宮７６８４-２７,精神科,,,9" xlink:title="いわさきメンタルヘルスクリニック" transform="ref(svg,13599.1239,-3372.8885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐野内科,和歌山県新宮市大橋通２-１-３,内科　胃腸科　消化器科　呼吸器科　漢方内科,,,9" xlink:title="佐野内科" transform="ref(svg,13598.6595,-3373.046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川堀耳鼻咽喉科,和歌山県新宮市緑ヶ丘２-２-５６,耳鼻咽喉科,,,9" xlink:title="川堀耳鼻咽喉科" transform="ref(svg,13598.9725,-3372.1612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう眼科,和歌山県新宮市井の沢１２-６,眼科,,,9" xlink:title="さとう眼科" transform="ref(svg,13598.9748,-3372.2003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くさち耳鼻咽喉科医院,和歌山県新宮市井の沢３-５,耳鼻咽喉科,,,9" xlink:title="くさち耳鼻咽喉科医院" transform="ref(svg,13599.1759,-3372.336)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷地内科医院,和歌山県新宮市馬町５５４-１,内科　消化器科　循環器科　呼吸器科,,,9" xlink:title="谷地内科医院" transform="ref(svg,13598.6335,-3372.75)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ましょうクリニック,和歌山県新宮市佐野１０８５-１４,人工透析内科　腎臓内科　循環器内科,,,9" xlink:title="（医）ましょうクリニック" transform="ref(svg,13596.3414,-3368.5023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）全日本労働福祉協会診療所和歌山事務所,和歌山県新宮市清水元１-２-４（社）和歌山県労働基準協会新宮支部内,内科,,,9" xlink:title="（一財）全日本労働福祉協会診療所和歌山事務所" transform="ref(svg,13599.678,-3371.9625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いずみウィメンズクリニック,和歌山県新宮市清水元１-６-３３,産科　婦人科,,,9" xlink:title="いずみウィメンズクリニック" transform="ref(svg,13599.7921,-3371.7428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すずきこどもクリニック,和歌山県新宮市下田２-３-２,小児科アレルギー科,,,9" xlink:title="すずきこどもクリニック" transform="ref(svg,13599.309,-3371.8286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,真砂小児科,和歌山県新宮市新宮７６８４-９１,小児科,,,9" xlink:title="真砂小児科" transform="ref(svg,13599.1427,-3372.8924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,那智勝浦町色川診療所,和歌山県東牟婁郡那智勝浦町口色川１３８７-１,内科,,,9" xlink:title="那智勝浦町色川診療所" transform="ref(svg,13585.6793,-3368.0539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮本医院,和歌山県東牟婁郡那智勝浦町天満２８３,内科　小児科　消化器科,,,9" xlink:title="宮本医院" transform="ref(svg,13593.4051,-3363.7113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木下医院,和歌山県東牟婁郡那智勝浦町朝日１-６０,内科　外科　小児科　胃腸科,,,9" xlink:title="（医）木下医院" transform="ref(svg,13593.9467,-3362.5744)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,湯川温泉診療所,和歌山県東牟婁郡那智勝浦町二河７１,内科　外科　小児科　消化器科　リハビリテーション科　放射線科,,,9" xlink:title="湯川温泉診療所" transform="ref(svg,13592.5365,-3361.1842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢田内科医院,和歌山県東牟婁郡那智勝浦町天満４４２-４３,内科　小児科　消化器科　循環器科　放射線科,,,9" xlink:title="矢田内科医院" transform="ref(svg,13593.7271,-3363.5091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日好荘那智園診療所,和歌山県東牟婁郡那智勝浦町浜の宮８５０-１,内科　外科　整形外科　理学療法科,,,9" xlink:title="日好荘那智園診療所" transform="ref(svg,13594.2438,-3364.7311)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山医院,和歌山県東牟婁郡那智勝浦町宇久井５５７-１３,内科　小児科　呼吸器科,,,9" xlink:title="中山医院" transform="ref(svg,13597.9009,-3365.6681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水内科クリニック,和歌山県東牟婁郡那智勝浦町下里８００-２,内科　胃腸科　放射線科,,,9" xlink:title="清水内科クリニック" transform="ref(svg,13592.4688,-3358.139)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,弓場皮膚科,和歌山県東牟婁郡那智勝浦町天満１６０７-２,内科　皮膚科,,,9" xlink:title="弓場皮膚科" transform="ref(svg,13593.3053,-3363.6008)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックルピナス,和歌山県東牟婁郡那智勝浦町宇久井７１４-３,内科　精神科　神経内科　心療内科,,,9" xlink:title="クリニックルピナス" transform="ref(svg,13598.2916,-3365.9499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いのき眼科クリニック,和歌山県東牟婁郡那智勝浦町天満８４８-１,眼科,,,9" xlink:title="いのき眼科クリニック" transform="ref(svg,13593.8842,-3363.1521)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南紀園診療所,和歌山県東牟婁郡太地町太地２２８１,内科,,,9" xlink:title="南紀園診療所" transform="ref(svg,13594.1821,-3358.4371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）漁野医院,和歌山県東牟婁郡太地町太地３３８８,内科　消化器科　循環器科,,,9" xlink:title="（医）漁野医院" transform="ref(svg,13594.5289,-3359.0431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂野医院,和歌山県東牟婁郡太地町太地３０５５,内科　外科　胃腸器科　循環器科　肛門科　リハビリテーション科,,,9" xlink:title="坂野医院" transform="ref(svg,13594.2078,-3359.4294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太地町多目的センター診療所,和歌山県東牟婁郡太地町太地２９９１,内科　整形外科　老年内科,,,9" xlink:title="太地町多目的センター診療所" transform="ref(svg,13594.2359,-3359.7022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンテ・ヴィラージュ太地診療所,和歌山県東牟婁郡太地町太地字北通谷１２８５-１,内科,,,9" xlink:title="サンテ・ヴィラージュ太地診療所" transform="ref(svg,13594.6276,-3358.9666)" x="0" y="0"/>
+</g>
+</svg>

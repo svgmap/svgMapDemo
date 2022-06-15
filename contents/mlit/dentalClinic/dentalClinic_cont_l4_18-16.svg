@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="dentalClinic_l5_36-32.svg" x="14062.5" y="-4500" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="dentalClinic/lvl8/tile36_32.png" preserveAspectRatio="none" x="14062.5" y="-4500" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="dentalClinic_l5_37-32.svg" x="14203.125" y="-4500" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="dentalClinic/lvl8/tile37_32.png" preserveAspectRatio="none" x="14203.125" y="-4500" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<image xlink:href="dentalClinic/lvl8/tile36_33.png" preserveAspectRatio="none" x="14062.5" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="dentalClinic_l5_37-33.svg" x="14203.125" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="dentalClinic/lvl8/tile37_33.png" preserveAspectRatio="none" x="14203.125" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="dentalClinic_l6_72-66.svg" x="14062.5" y="-4359.375" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="dentalClinic/lvl9/tile72_66.png" preserveAspectRatio="none" x="14062.5" y="-4359.375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<image xlink:href="dentalClinic/lvl9/tile73_66.png" preserveAspectRatio="none" x="14132.8125" y="-4359.375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="dentalClinic_l6_72-67.svg" x="14062.5" y="-4289.0625" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="dentalClinic/lvl9/tile72_67.png" preserveAspectRatio="none" x="14062.5" y="-4289.0625" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="dentalClinic_l6_73-67.svg" x="14132.8125" y="-4289.0625" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="dentalClinic/lvl9/tile73_67.png" preserveAspectRatio="none" x="14132.8125" y="-4289.0625" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="dentalClinic_l7_146-132.svg" x="14132.8125" y="-4359.375" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="dentalClinic/lvl10/tile146_132.png" preserveAspectRatio="none" x="14132.8125" y="-4359.375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="dentalClinic_l7_147-132.svg" x="14167.9688" y="-4359.375" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="dentalClinic/lvl10/tile147_132.png" preserveAspectRatio="none" x="14167.9688" y="-4359.375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="dentalClinic_cont_l7_146-133.svg" x="14132.8125" y="-4324.2188" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="dentalClinic/lvl10/tile146_133.png" preserveAspectRatio="none" x="14132.8125" y="-4324.2188" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="dentalClinic_l7_147-133.svg" x="14167.9688" y="-4324.2188" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="dentalClinic/lvl10/tile147_133.png" preserveAspectRatio="none" x="14167.9688" y="-4324.2188" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+</svg>

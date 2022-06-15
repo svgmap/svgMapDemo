@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12937.5 -3234.375 70.3125 70.3125" go:dataArea="12937.5 -3234.375 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,うらた歯科医院,熊本県天草市牛深町２５０２-２,歯科　矯正歯科,,,9" xlink:title="うらた歯科医院" transform="ref(svg,13002.2776,-3219.5432)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,規矩歯科医院,熊本県天草市牛深町１５２２-９,歯科,,,9" xlink:title="規矩歯科医院" transform="ref(svg,13003.0117,-3220.1281)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,深川歯科医院,熊本県天草市牛深町２６６９,歯科,,,9" xlink:title="深川歯科医院" transform="ref(svg,13002.3813,-3219.355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松木歯科医院,熊本県天草市久玉町１４１１-９５,歯科　小児歯科,,,9" xlink:title="松木歯科医院" transform="ref(svg,13003.2323,-3221.6459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内崎歯科医院,熊本県天草市河浦町河浦４８２２-１,歯科,,,9" xlink:title="内崎歯科医院" transform="ref(svg,13007.5431,-3232.9613)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いるか歯科医院,熊本県天草市牛深町鬼塚２０３９-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="いるか歯科医院" transform="ref(svg,13001.5522,-3219.7343)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小島歯科医院,熊本県天草市牛深町１５４５-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小島歯科医院" transform="ref(svg,13002.8998,-3219.9567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,薩摩川内市下甑歯科診療所,鹿児島県薩摩川内市下甑町青瀬６０６-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="薩摩川内市下甑歯科診療所" transform="ref(svg,12972.554,-3167.2755)" x="0" y="0"/>
+</g>
+</svg>

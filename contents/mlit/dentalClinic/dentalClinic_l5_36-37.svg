@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14062.5 -3796.875 140.625 140.625" go:dataArea="14062.5 -3796.875 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,大久保歯科医院,宮城県角田市角田字南７８,歯科,,,9" xlink:title="大久保歯科医院" transform="ref(svg,14078.3749,-3796.833)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,啓明歯科,宮城県伊具郡丸森町字雁歌４１,歯科,,,9" xlink:title="啓明歯科" transform="ref(svg,14076.334,-3790.7044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷津歯科医院,宮城県伊具郡丸森町字鳥屋３４,歯科　小児歯科,,,9" xlink:title="谷津歯科医院" transform="ref(svg,14076.7807,-3791.3111)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,舘山歯科クリニック,宮城県伊具郡丸森町大舘１-２３,歯科,,,9" xlink:title="舘山歯科クリニック" transform="ref(svg,14076.2531,-3792.9724)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,目黒歯科クリニック,宮城県伊具郡丸森町大内字山屋敷９８-１,歯科　小児歯科,,,9" xlink:title="目黒歯科クリニック" transform="ref(svg,14082.4547,-3787.3473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸森歯科医院,宮城県伊具郡丸森町字鳥屋１５０-２,歯科,,,9" xlink:title="丸森歯科医院" transform="ref(svg,14076.3613,-3791.354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科クリニック,宮城県伊具郡丸森町金山字下片山１６０,歯科,,,9" xlink:title="ひまわり歯科クリニック" transform="ref(svg,14078.9649,-3790.8006)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にいの歯科,宮城県亘理郡山元町坂元字道合３９-１,歯科,,,9" xlink:title="にいの歯科" transform="ref(svg,14089.7653,-3792.5863)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊地歯科医院,宮城県亘理郡山元町浅生原字作田山２-７５,歯科　小児歯科,,,9" xlink:title="菊地歯科医院" transform="ref(svg,14087.6742,-3796.3245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂本歯科医院,福島県いわき市平字白銀町８-７,歯科,,,9" xlink:title="坂本歯科医院" transform="ref(svg,14089.3803,-3705.7821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科医院,福島県いわき市平字五色町１２,歯科,,,9" xlink:title="遠藤歯科医院" transform="ref(svg,14090.1752,-3705.4267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,福島県いわき市平字大町６-２,歯科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,14089.345,-3705.4261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,廣木歯科医院,福島県いわき市平字倉前１１２-１,歯科,,,9" xlink:title="廣木歯科医院" transform="ref(svg,14090.0769,-3704.8684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,福島県いわき市平中神谷字宿畑１１-２,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14093.4025,-3706.2883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科医院,福島県いわき市平愛谷町１-１-３,歯科,,,9" xlink:title="和田歯科医院" transform="ref(svg,14090.5377,-3705.1759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藁谷歯科医院,福島県いわき市平字童子町４-１０,歯科,,,9" xlink:title="藁谷歯科医院" transform="ref(svg,14088.5887,-3705.1619)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金古歯科医院,福島県いわき市平字田町６３-４,歯科,,,9" xlink:title="金古歯科医院" transform="ref(svg,14089.0776,-3705.7446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,福島県いわき市平下神谷字石淵１-５,歯科,,,9" xlink:title="木村歯科医院" transform="ref(svg,14094.2705,-3706.7739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まのめ歯科医院,福島県いわき市平上荒川字安草１６,歯科,,,9" xlink:title="まのめ歯科医院" transform="ref(svg,14089.4416,-3703.6956)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たんの歯科,福島県いわき市平字五町目１０,歯科　矯正歯科,,,9" xlink:title="たんの歯科" transform="ref(svg,14089.6058,-3705.6197)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小島町歯科医院,福島県いわき市小島町３-１２-３,歯科,,,9" xlink:title="小島町歯科医院" transform="ref(svg,14088.596,-3704.8536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央台歯科医院,福島県いわき市中央台飯野５-１-３,歯科,,,9" xlink:title="中央台歯科医院" transform="ref(svg,14091.0747,-3702.0719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉井歯科医院,福島県いわき市平中平窪字新町２-２１,歯科,,,9" xlink:title="玉井歯科医院" transform="ref(svg,14087.6243,-3708.4642)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根本厚歯科医院,福島県いわき市平下神谷字出口５１-１,歯科,,,9" xlink:title="根本厚歯科医院" transform="ref(svg,14095.0881,-3707.2211)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,福島県いわき市平字四町目２１-１６,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14089.5051,-3705.6442)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,福島県いわき市平字月見町１０-２,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14089.6528,-3705.1325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,会田歯科医院,福島県いわき市平字田町５４-３,歯科,,,9" xlink:title="会田歯科医院" transform="ref(svg,14089.0381,-3705.7024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,福島県いわき市平字四町目５０,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,14089.3886,-3705.5469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新藤歯科医院,福島県いわき市郷ヶ丘１-１-４,歯科,,,9" xlink:title="新藤歯科医院" transform="ref(svg,14089.8252,-3702.6902)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトウ歯科医院,福島県いわき市平沼之内諏訪原２-１３-４,歯科,,,9" xlink:title="サトウ歯科医院" transform="ref(svg,14096.8783,-3701.7701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,福島県いわき市平字掻槌小路６,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,14088.7782,-3705.6402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,作田歯科医院,福島県いわき市平下平窪山土内町７-１,歯科,,,9" xlink:title="作田歯科医院" transform="ref(svg,14087.8173,-3708.342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらくぼ歯科クリニック,福島県いわき市平下平窪字諸荷８６-１,歯科,,,9" xlink:title="ひらくぼ歯科クリニック" transform="ref(svg,14087.9195,-3708.2201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木矯正歯科,福島県いわき市平字正月町５５,矯正歯科,,,9" xlink:title="鈴木矯正歯科" transform="ref(svg,14089.9149,-3705.5391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしみ歯科医院,福島県いわき市平字材木町７,歯科,,,9" xlink:title="よしみ歯科医院" transform="ref(svg,14088.6196,-3705.4036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,酒井歯科医院,福島県いわき市中央台鹿島３-１２-１,歯科,,,9" xlink:title="酒井歯科医院" transform="ref(svg,14091.8264,-3700.5301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いいの歯科医院,福島県いわき市平下荒川字五理内１３-１,歯科,,,9" xlink:title="いいの歯科医院" transform="ref(svg,14090.7518,-3703.9027)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,萩原歯科医院,福島県いわき市平字鍛冶町１６,歯科,,,9" xlink:title="萩原歯科医院" transform="ref(svg,14088.9751,-3705.4097)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,郷ヶ丘すずき歯科医院,福島県いわき市郷ヶ丘２-３１-１４,歯科,,,9" xlink:title="郷ヶ丘すずき歯科医院" transform="ref(svg,14090.7522,-3702.586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斎田歯科医院,福島県いわき市平字梅香町２-１８,歯科,,,9" xlink:title="斎田歯科医院" transform="ref(svg,14089.0534,-3706.3687)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹木歯科クリニック,福島県いわき市平幕の内字高田１８-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="笹木歯科クリニック" transform="ref(svg,14089.9894,-3706.6756)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下の町萩原歯科医院,福島県いわき市平字下の町５-５,歯科,,,9" xlink:title="下の町萩原歯科医院" transform="ref(svg,14089.5192,-3705.0014)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯塚歯科医院,福島県いわき市平下平窪字鍛治内３０-８,歯科,,,9" xlink:title="飯塚歯科医院" transform="ref(svg,14088.2593,-3707.7552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平井歯科医院,福島県いわき市平字長橋町４９,歯科,,,9" xlink:title="平井歯科医院" transform="ref(svg,14088.2904,-3705.2888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,福島県いわき市平字五色町２８,歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,14090.3452,-3705.4383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,深沢歯科医院,福島県いわき市平南白土２-５-６,歯科,,,9" xlink:title="深沢歯科医院" transform="ref(svg,14090.7607,-3704.6273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科医院,福島県いわき市平中神谷字北鳥沼４３-１,歯科,,,9" xlink:title="松本歯科医院" transform="ref(svg,14093.6527,-3706.4927)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,福島県いわき市平谷川瀬字三十九町５６-７,歯科,,,9" xlink:title="原歯科医院" transform="ref(svg,14089.3467,-3704.6309)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,てしがわら歯科医院,福島県いわき市平南白土字八ツ坂８-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="てしがわら歯科医院" transform="ref(svg,14090.2747,-3704.3274)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科クリニック,福島県いわき市平谷川瀬字三十九町２０,歯科,,,9" xlink:title="遠藤歯科クリニック" transform="ref(svg,14089.1978,-3704.7734)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星野歯科矯正歯科医院,福島県いわき市平字大工町８-７,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="星野歯科矯正歯科医院" transform="ref(svg,14089.6189,-3705.6969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらの歯科医院,福島県いわき市平字三倉６３-３三倉エレガンスビル２Ｆ,歯科,,,9" xlink:title="ひらの歯科医院" transform="ref(svg,14089.91,-3705.1481)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科医院,福島県いわき市平字三町目１,歯科,,,9" xlink:title="成田歯科医院" transform="ref(svg,14089.1704,-3705.5112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山定則歯科医院,福島県いわき市平字三倉６３-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="中山定則歯科医院" transform="ref(svg,14089.7819,-3705.1356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,城東歯科クリニック,福島県いわき市平九品寺町１-１４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="城東歯科クリニック" transform="ref(svg,14089.5697,-3706.3409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阿部歯科医院,福島県いわき市平字三町目８-１,歯科　歯科口腔外科,,,9" xlink:title="阿部歯科医院" transform="ref(svg,14089.2289,-3705.5683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西山歯科医院,福島県いわき市平字三町目２４クオリティ２１ネモトいわき駅前ビル４Ｆ,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="西山歯科医院" transform="ref(svg,14089.2714,-3705.6388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかはら歯科医院,福島県いわき市平泉崎向原２４-１,歯科,,,9" xlink:title="なかはら歯科医院" transform="ref(svg,14094.9734,-3707.5127)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,織田歯科医院,福島県いわき市平字南町５５,歯科,,,9" xlink:title="織田歯科医院" transform="ref(svg,14089.3414,-3705.4958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ポート歯科医院,福島県いわき市郷ヶ丘４-１８-２５,歯科　小児歯科,,,9" xlink:title="ポート歯科医院" transform="ref(svg,14091.5112,-3702.8682)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）仁誠会こたろうまち歯科・矯正歯科クリニック,福島県いわき市平字小太郎町４-１,歯科　小歯歯科　矯正歯科,,,9" xlink:title="（医）仁誠会こたろうまち歯科・矯正歯科クリニック" transform="ref(svg,14089.1726,-3705.1903)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平中央歯科クリニック,福島県いわき市平字小太郎町４-７,歯科　小児歯科,,,9" xlink:title="平中央歯科クリニック" transform="ref(svg,14089.2681,-3705.1806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）香雪歯科,福島県いわき市平赤井字笹目田１０-６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）香雪歯科" transform="ref(svg,14086.3402,-3708.5447)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鎌田山歯科クリニック,福島県いわき市平鎌田町３-１,歯科,,,9" xlink:title="鎌田山歯科クリニック" transform="ref(svg,14090.2697,-3705.8035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シオタ歯科医院,福島県いわき市平下平窪八木内２６-１４,歯科　歯科口腔外科,,,9" xlink:title="シオタ歯科医院" transform="ref(svg,14088.0285,-3707.7723)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スズキ歯科,福島県いわき市平字四町目３-２,歯科,,,9" xlink:title="スズキ歯科" transform="ref(svg,14089.3511,-3705.5872)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中里歯科医院,福島県いわき市平字鍛冶町３１-２,歯科,,,9" xlink:title="中里歯科医院" transform="ref(svg,14088.8098,-3705.4083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおまちデンタルオフィス,福島県いわき市平字大町７-１平セントラルビルＢ１,歯科　小児歯科,,,9" xlink:title="おおまちデンタルオフィス" transform="ref(svg,14088.8098,-3705.4083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんデンタルクリニック,福島県いわき市中央台高久２-１１-５,歯科　矯正歯科,,,9" xlink:title="しんデンタルクリニック" transform="ref(svg,14092.7205,-3700.6976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科小児歯科医院,福島県いわき市内郷御厩町４-１１９,歯科　小児歯科,,,9" xlink:title="鈴木歯科小児歯科医院" transform="ref(svg,14087.4891,-3704.99)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺田歯科医院,福島県いわき市内郷綴町金谷１８-２,歯科,,,9" xlink:title="寺田歯科医院" transform="ref(svg,14086.336,-3703.8012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）昭仁会五代儀歯科医院,福島県いわき市内郷御厩町４-３９,歯科,,,9" xlink:title="（医）昭仁会五代儀歯科医院" transform="ref(svg,14087.3543,-3705.0799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田晴生歯科医院,福島県いわき市内郷高坂町大平５３-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="池田晴生歯科医院" transform="ref(svg,14085.9221,-3704.3291)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,福島県いわき市内郷高坂町１-２,歯科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,14086.1177,-3704.7228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伏見屋歯科医院,福島県いわき市内郷御厩町１-８５,歯科,,,9" xlink:title="伏見屋歯科医院" transform="ref(svg,14086.6876,-3704.2559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまぐち矯正歯科クリニック,福島県いわき市内郷綴町高野作６２,矯正歯科,,,9" xlink:title="やまぐち矯正歯科クリニック" transform="ref(svg,14086.6259,-3703.7951)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科クリニック,福島県いわき市内郷綴町川原田９６,歯科　歯科口腔外科,,,9" xlink:title="小野歯科クリニック" transform="ref(svg,14085.8182,-3703.7531)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あべ歯科医院,福島県いわき市内郷御厩町１-１８６-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="あべ歯科医院" transform="ref(svg,14086.8252,-3704.5968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮沢歯科クリニック,福島県いわき市内郷御厩町１-１３３,歯科　小児歯科,,,9" xlink:title="宮沢歯科クリニック" transform="ref(svg,14086.8581,-3704.3794)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわき市休日救急歯科診療所,福島県いわき市内郷高坂町四方木田１９１,歯科,,,9" xlink:title="いわき市休日救急歯科診療所" transform="ref(svg,14086.359,-3704.3883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高坂町歯科クリニック,福島県いわき市内郷高坂町大町１６-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="高坂町歯科クリニック" transform="ref(svg,14086.1712,-3704.5372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごらい歯科クリニック,福島県いわき市内郷内町立町１-１,歯科　小児歯科,,,9" xlink:title="ごらい歯科クリニック" transform="ref(svg,14085.2067,-3703.7122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いがり歯科医院,福島県いわき市内郷綴町榎下５４内郷駅前渡辺ビル１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="いがり歯科医院" transform="ref(svg,14085.6362,-3703.5376)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわき仮設歯科診療所,福島県いわき市内郷小島町シャクシミチ４,歯科,,,9" xlink:title="いわき仮設歯科診療所" transform="ref(svg,14088.1247,-3703.8451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,織田歯科医院,福島県いわき市常磐下湯長谷町道下２９-３,歯科,,,9" xlink:title="織田歯科医院" transform="ref(svg,14085.4015,-3699.2985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,福島県いわき市常磐湯本町天王崎１-７７,歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,14084.8751,-3700.8061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,弘仁歯科医院,福島県いわき市常磐下湯長谷町野木前１７-６,歯科,,,9" xlink:title="弘仁歯科医院" transform="ref(svg,14084.6777,-3699.3696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,湯本歯科診療所,福島県いわき市常磐湯本町天王崎１-２６,歯科,,,9" xlink:title="湯本歯科診療所" transform="ref(svg,14084.7637,-3700.8261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野木歯科医院,福島県いわき市常磐上湯長谷町堀ノ内７５-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="野木歯科医院" transform="ref(svg,14084.3924,-3700.0423)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,福島県いわき市常磐西郷町落合２７-４,歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,14085.4146,-3698.6972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,福島県いわき市常磐湯本町天王崎１-６７,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14084.9012,-3700.7353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にいつま歯科,福島県いわき市常磐関船町上関２０-１,歯科,,,9" xlink:title="にいつま歯科" transform="ref(svg,14085.4542,-3700.0801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）昇成会細島歯科医院,福島県いわき市常磐湯本町下浅貝２６-１,歯科,,,9" xlink:title="（医）昇成会細島歯科医院" transform="ref(svg,14085.2265,-3700.5645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろみ歯科医院,福島県いわき市常磐上湯長谷町釜ノ前７９-３９,歯科,,,9" xlink:title="ひろみ歯科医院" transform="ref(svg,14083.5248,-3699.8859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すがわら歯科医院,福島県いわき市常磐西郷町岩崎１９-１,歯科　小児歯科,,,9" xlink:title="すがわら歯科医院" transform="ref(svg,14086,-3698.5815)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長谷川歯科医院,福島県いわき市四倉町字西４-１０-８,歯科,,,9" xlink:title="長谷川歯科医院" transform="ref(svg,14098.9295,-3710.8924)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅波歯科医院,福島県いわき市四倉町字東３-４７,歯科,,,9" xlink:title="菅波歯科医院" transform="ref(svg,14098.7729,-3710.6254)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,愛川歯科医院,福島県いわき市四倉町字東１-１２-１,歯科,,,9" xlink:title="愛川歯科医院" transform="ref(svg,14098.3249,-3710.0149)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八巻歯科医院,福島県いわき市四倉町字５-１２１,歯科,,,9" xlink:title="八巻歯科医院" transform="ref(svg,14099.2278,-3710.9029)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すや歯科医院,福島県いわき市四倉町字西３-１５-３,歯科,,,9" xlink:title="すや歯科医院" transform="ref(svg,14098.722,-3710.711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,メロー歯科,福島県いわき市四倉町東２-１００コーポ永井１Ｆ,歯科,,,9" xlink:title="メロー歯科" transform="ref(svg,14098.636,-3710.2654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科クリニック,福島県いわき市好間町下好間字叶田５４-１,歯科,,,9" xlink:title="鈴木歯科クリニック" transform="ref(svg,14086.4139,-3705.9512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高島歯科医院,福島県いわき市好間町下好間字鬼越１４-１,歯科,,,9" xlink:title="高島歯科医院" transform="ref(svg,14086.7597,-3705.9115)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木田歯科医院,福島県いわき市好間町北好間槐作３１,歯科,,,9" xlink:title="木田歯科医院" transform="ref(svg,14083.7241,-3707.1387)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かのうだ歯科医院,福島県いわき市好間町下好間字一町坪６５,歯科,,,9" xlink:title="かのうだ歯科医院" transform="ref(svg,14086.3478,-3705.8731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉橋歯科医院,福島県いわき市好間町上好間字南町田３４,歯科　小児歯科,,,9" xlink:title="玉橋歯科医院" transform="ref(svg,14084.6212,-3706.8577)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,福島県いわき市小川町高萩字上代４６-３,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14085.8289,-3712.4302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村岡歯科医院,福島県いわき市久之浜町久之浜字後原１,歯科,,,9" xlink:title="村岡歯科医院" transform="ref(svg,14099.771,-3714.0509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瀬谷歯科医院,福島県いわき市小名浜字定西１０５,歯科,,,9" xlink:title="瀬谷歯科医院" transform="ref(svg,14089.8229,-3694.9542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,門馬歯科医院,福島県いわき市小名浜字下町１０,歯科,,,9" xlink:title="門馬歯科医院" transform="ref(svg,14090.9116,-3694.9158)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,目澤歯科医院,福島県いわき市小名浜字竹町８,歯科,,,9" xlink:title="目澤歯科医院" transform="ref(svg,14090.5308,-3694.8919)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）飯塚歯科医院,福島県いわき市小名浜字定西４６,歯科,,,9" xlink:title="（医）飯塚歯科医院" transform="ref(svg,14089.8098,-3695.0324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仲野歯科医院,福島県いわき市小名浜字上町５６-１,歯科,,,9" xlink:title="仲野歯科医院" transform="ref(svg,14090.6314,-3694.8816)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤羽歯科医院,福島県いわき市泉町１-１３-７,歯科,,,9" xlink:title="赤羽歯科医院" transform="ref(svg,14085.7375,-3695.5335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,福島県いわき市小名浜南君ヶ塚町１５-２３,歯科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,14089.8275,-3695.6024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,能花歯科医院,福島県いわき市鹿島町久保１-１-５,歯科,,,9" xlink:title="能花歯科医院" transform="ref(svg,14090.6581,-3699.2245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科医院,福島県いわき市小名浜字竹町３５,歯科,,,9" xlink:title="村上歯科医院" transform="ref(svg,14090.4667,-3694.9491)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,薗田歯科医院,福島県いわき市江名字南町４８,歯科,,,9" xlink:title="薗田歯科医院" transform="ref(svg,14095.6955,-3696.9421)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,馬目歯科医院,福島県いわき市小名浜字古湊７,歯科,,,9" xlink:title="馬目歯科医院" transform="ref(svg,14091.0472,-3694.9061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,福島県いわき市小名浜字定西４４,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14089.7457,-3695.0238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大和歯科医院,福島県いわき市泉町２-５-１３,歯科,,,9" xlink:title="大和歯科医院" transform="ref(svg,14085.2751,-3695.3352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,福島県いわき市小名浜玉川町南１７-１,歯科　小児歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14088.4811,-3698.2473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉川歯科クリニック,福島県いわき市小名浜住吉字搦３８-１,歯科　小児歯科,,,9" xlink:title="玉川歯科クリニック" transform="ref(svg,14088.5739,-3697.9956)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村松歯科医院,福島県いわき市鹿島町下矢田字沢目１３-３,歯科,,,9" xlink:title="村松歯科医院" transform="ref(svg,14091.0064,-3700.3227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小滝歯科医院,福島県いわき市小名浜大原小滝町６-２,歯科　矯正歯科　小歯歯科,,,9" xlink:title="小滝歯科医院" transform="ref(svg,14089.3539,-3696.5017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,福島県いわき市泉町２-１３-４,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,14085.4636,-3695.3986)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山歯科矯正医院,福島県いわき市小名浜花畑町１３-２,歯科　矯正歯科,,,9" xlink:title="中山歯科矯正医院" transform="ref(svg,14090.3172,-3695.5793)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いぬい歯科医院,福島県いわき市泉玉露６-１９-２２,歯科,,,9" xlink:title="いぬい歯科医院" transform="ref(svg,14084.719,-3695.6538)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あきもと歯科医院,福島県いわき市小名浜玉川町東２５-１,歯科　小児歯科,,,9" xlink:title="あきもと歯科医院" transform="ref(svg,14089.0535,-3698.4262)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉本歯科医院,福島県いわき市小名浜花畑町３６-１５,歯科,,,9" xlink:title="杉本歯科医院" transform="ref(svg,14090.5419,-3695.6921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マノメデンタルクリニック,福島県いわき市小名浜中町境２-６,歯科,,,9" xlink:title="マノメデンタルクリニック" transform="ref(svg,14090.1906,-3695.3727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみ歯科医院,福島県いわき市泉町滝尻字南坪５５-２,歯科,,,9" xlink:title="いずみ歯科医院" transform="ref(svg,14086.6663,-3695.3375)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科医院,福島県いわき市小名浜西君ヶ塚町１２-２,歯科,,,9" xlink:title="小川歯科医院" transform="ref(svg,14089.5026,-3695.5765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たまつゆ歯科医院,福島県いわき市泉玉露３-２-３,歯科,,,9" xlink:title="たまつゆ歯科医院" transform="ref(svg,14085.4247,-3695.8924)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）前山歯科医院,福島県いわき市小名浜寺廻町１１-１９,歯科,,,9" xlink:title="（医）前山歯科医院" transform="ref(svg,14090.0342,-3695.1038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）成和会かしまひるた歯科医院,福島県いわき市鹿島町下蔵持字里屋８-１,歯科,,,9" xlink:title="（医）成和会かしまひるた歯科医院" transform="ref(svg,14090.9737,-3699.2145)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科クリニック,福島県いわき市小名浜字後宿１８-１,歯科　小児歯科,,,9" xlink:title="木村歯科クリニック" transform="ref(svg,14090.8247,-3695.1399)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はらぐち歯科クリニック,福島県いわき市泉ヶ丘２-１０-３,歯科　小児歯科,,,9" xlink:title="はらぐち歯科クリニック" transform="ref(svg,14085.4783,-3696.4514)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アート歯科,福島県いわき市小名浜大原字甲新地４４-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アート歯科" transform="ref(svg,14089.2287,-3695.6792)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,福島県いわき市中之作字須賀１-１,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,14094.8742,-3695.9838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科,福島県いわき市小名浜西君ヶ塚町５-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小林歯科" transform="ref(svg,14089.6695,-3695.9778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増山歯科医院,福島県いわき市泉町３-１９-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="増山歯科医院" transform="ref(svg,14085.8489,-3695.2278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）優心会小松歯科矯正クリニック,福島県いわき市小名浜横町３６-３,歯科　矯正歯科,,,9" xlink:title="（医）優心会小松歯科矯正クリニック" transform="ref(svg,14090.5539,-3694.9316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,粟谷歯科医院,福島県いわき市錦町中央１-６-７,歯科,,,9" xlink:title="粟谷歯科医院" transform="ref(svg,14078.8412,-3690.7871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保木歯科医院,福島県いわき市植田中央１-１４-８,歯科,,,9" xlink:title="久保木歯科医院" transform="ref(svg,14079.6967,-3691.9412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,緑川歯科医院,福島県いわき市勿来町窪田西殿町９８,歯科,,,9" xlink:title="緑川歯科医院" transform="ref(svg,14075.748,-3689.2558)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森合歯科医院,福島県いわき市植田町本町１-１１-８,歯科,,,9" xlink:title="森合歯科医院" transform="ref(svg,14079.7395,-3691.5112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根岸歯科医院,福島県いわき市錦町大島４-２,歯科,,,9" xlink:title="根岸歯科医院" transform="ref(svg,14079.0748,-3690.7613)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永山歯科医院,福島県いわき市植田町中央１-１６-２,歯科,,,9" xlink:title="永山歯科医院" transform="ref(svg,14079.7583,-3692.0873)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,福島県いわき市植田町中央１-１２-５,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,14079.8131,-3691.9629)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウエダ歯科医院,福島県いわき市中岡町５-１２-６,歯科,,,9" xlink:title="ウエダ歯科医院" transform="ref(svg,14078.244,-3692.0675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阿部歯科医院,福島県いわき市植田町本町１-２-１８,歯科,,,9" xlink:title="阿部歯科医院" transform="ref(svg,14079.6014,-3691.4651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央歯科医院,福島県いわき市植田町中央３-１２-１３,歯科,,,9" xlink:title="中央歯科医院" transform="ref(svg,14079.6875,-3692.2806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とおの歯科医院,福島県いわき市遠野町上遠野字本町５５,歯科,,,9" xlink:title="とおの歯科医院" transform="ref(svg,14074.6648,-3700.8623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塩歯科医院,福島県いわき市錦町中迎４-７-１０,歯科,,,9" xlink:title="塩歯科医院" transform="ref(svg,14079.3643,-3690.8927)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いがり歯科・矯正歯科クリニック,福島県いわき市東田町２-１８-２,歯科　矯正歯科,,,9" xlink:title="いがり歯科・矯正歯科クリニック" transform="ref(svg,14080.1869,-3692.1993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高瀬歯科クリニック,福島県いわき市錦町上中田１６８,歯科,,,9" xlink:title="高瀬歯科クリニック" transform="ref(svg,14078.6166,-3690.1388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科医院,福島県いわき市勿来町関田西１-６-１５,歯科,,,9" xlink:title="よしだ歯科医院" transform="ref(svg,14078.5248,-3688.2558)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,若松歯科医院,福島県いわき市遠野町上遠野字太田７１-４,歯科,,,9" xlink:title="若松歯科医院" transform="ref(svg,14074.229,-3700.6412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あなだ歯科医院,福島県いわき市錦町江栗３-１０９,歯科,,,9" xlink:title="あなだ歯科医院" transform="ref(svg,14077.46,-3691.2648)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なこそ歯科,福島県いわき市勿来町窪田町通１-２１,歯科　小児歯科,,,9" xlink:title="なこそ歯科" transform="ref(svg,14077.1432,-3688.6993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野塚歯科医院,福島県いわき市植田町本町９,歯科,,,9" xlink:title="小野塚歯科医院" transform="ref(svg,14079.5323,-3691.6684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉成歯科医院,福島県いわき市植田町本町２-２-１１,歯科,,,9" xlink:title="吉成歯科医院" transform="ref(svg,14079.8156,-3691.6473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおひら歯科医院,福島県いわき市佐糠町八反田２７-２,歯科,,,9" xlink:title="おおひら歯科医院" transform="ref(svg,14080.2625,-3691.9415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわき南歯科クリニック,福島県いわき市錦町竹ノ花７４-１,歯科,,,9" xlink:title="いわき南歯科クリニック" transform="ref(svg,14078.8493,-3690.2985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ヴィートかどすみ歯科医院,福島県いわき市錦町綾ノ内１２３,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="（医）ヴィートかどすみ歯科医院" transform="ref(svg,14078.3127,-3691.0193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石井歯科医院,福島県いわき市小名浜大原字東田林２０-１,歯科,,,9" xlink:title="石井歯科医院" transform="ref(svg,14089.0223,-3696.6747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,福島県いわき市植田町中央３-１-４,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14079.6903,-3692.1245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,福島県いわき市四倉町上仁井田字北姥田５-４,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14097.6986,-3709.5852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小濱歯科医院,福島県いわき市小名浜岡小名２-４-１０,歯科,,,9" xlink:title="小濱歯科医院" transform="ref(svg,14090.776,-3696.1423)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,四家歯科医院,福島県いわき市小名浜鳥居北１-１,歯科,,,9" xlink:title="四家歯科医院" transform="ref(svg,14088.9793,-3695.0129)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）にしはら歯科クリニック,福島県いわき市東田町１-１３-１４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）にしはら歯科クリニック" transform="ref(svg,14080.2747,-3692.3695)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高野歯科クリニック,福島県いわき市小名浜愛宕町８-１１愛宕ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="高野歯科クリニック" transform="ref(svg,14089.4726,-3695.2999)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柳町鈴木歯科医院,福島県福島市柳町６６-１,歯科,,,9" xlink:title="柳町鈴木歯科医院" transform="ref(svg,14091.5314,-3703.7728)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,福島県田村市常葉町常葉字中町２２,歯科,,,9" xlink:title="武田歯科医院" transform="ref(svg,14064.2746,-3743.8496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）村越歯科医院,福島県田村市常葉町常葉字備前作７６,歯科　小児歯科,,,9" xlink:title="（医）村越歯科医院" transform="ref(svg,14064.5666,-3744.1891)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土屋歯科医院,福島県田村市大越町上大越字槻木２６３-１,歯科,,,9" xlink:title="土屋歯科医院" transform="ref(svg,14063.4615,-3738.1635)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田村市立都路歯科診療所,福島県田村市都路町古道字寺下５０,歯科,,,9" xlink:title="田村市立都路歯科診療所" transform="ref(svg,14079.2416,-3743.415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瀬下歯科医院,福島県田村市滝根町神俣字関場５３６,歯科,,,9" xlink:title="瀬下歯科医院" transform="ref(svg,14065.7502,-3732.5149)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科医院,福島県田村市滝根町神俣字町５６,歯科,,,9" xlink:title="遠藤歯科医院" transform="ref(svg,14065.7696,-3732.5433)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,福島県田村市常葉町常葉字古御門１６,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,14063.6497,-3743.8932)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）積善堂博多歯科クリニック,福島県田村市滝根町神俣字関場１１,歯科,,,9" xlink:title="（医）積善堂博多歯科クリニック" transform="ref(svg,14065.6542,-3732.4557)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,福島県田村郡小野町大字小野新町字東馬番３-１,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,14063.4629,-3728.3487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野口歯科医院,福島県田村郡小野町大字小野新町字中通１４８-７,歯科,,,9" xlink:title="野口歯科医院" transform="ref(svg,14062.8427,-3728.2936)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森岡歯科医院,福島県南相馬市原町区橋本町１-１０７,歯科,,,9" xlink:title="森岡歯科医院" transform="ref(svg,14096.2549,-3763.3488)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科医院,福島県南相馬市原町区西町１-３-１,歯科,,,9" xlink:title="かとう歯科医院" transform="ref(svg,14094.776,-3763.7304)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,福島県南相馬市原町区本町３-２０,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14095.8614,-3764.3336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹林歯科医院,福島県南相馬市原町区日の出町１９７-８,歯科,,,9" xlink:title="竹林歯科医院" transform="ref(svg,14098.5716,-3763.0844)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松永歯科医院,福島県南相馬市原町区南町２-１１２,歯科,,,9" xlink:title="松永歯科医院" transform="ref(svg,14095.8147,-3763.6102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,福島県南相馬市原町区本町３-２３,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,14095.8706,-3764.3611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,草野歯科,福島県南相馬市原町区本陣前１-１-５,歯科,,,9" xlink:title="草野歯科" transform="ref(svg,14095.6418,-3762.6892)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すすむ歯科医院,福島県南相馬市原町区高見町２-１２２-１,歯科　矯正歯科,,,9" xlink:title="すすむ歯科医院" transform="ref(svg,14098.5931,-3763.721)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,羽生歯科医院,福島県南相馬市原町区栄町２-８３,歯科,,,9" xlink:title="羽生歯科医院" transform="ref(svg,14096.2637,-3763.7022)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,板倉歯科医院,福島県南相馬市原町区大町１-４２-１,歯科,,,9" xlink:title="板倉歯科医院" transform="ref(svg,14096.1898,-3764.0289)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしばし歯科,福島県南相馬市原町区北長野字北原田３０６,歯科,,,9" xlink:title="いしばし歯科" transform="ref(svg,14093.2648,-3765.8731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科医院,福島県南相馬市原町区錦町１-８１,歯科　口腔外科　矯正歯科,,,9" xlink:title="松本歯科医院" transform="ref(svg,14097.4296,-3763.9855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沖田歯科クリニック,福島県南相馬市原町区南町３-９７-８,歯科　小児歯科,,,9" xlink:title="沖田歯科クリニック" transform="ref(svg,14095.8945,-3763.351)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）白耀会くまがみ歯科医院,福島県南相馬市原町区桜井町１-１２９,歯科,,,9" xlink:title="（医）白耀会くまがみ歯科医院" transform="ref(svg,14097.6899,-3763.6958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西町歯科医院,福島県南相馬市鹿島区西町１-１１８-１,歯科,,,9" xlink:title="西町歯科医院" transform="ref(svg,14096.3746,-3770.355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大沼歯科医院,福島県南相馬市鹿島区寺内字古川１６,歯科,,,9" xlink:title="大沼歯科医院" transform="ref(svg,14096.3269,-3770.0434)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,相良歯科医院,福島県南相馬市鹿島区鹿島字町１６７,歯科,,,9" xlink:title="相良歯科医院" transform="ref(svg,14096.7476,-3770.0987)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木幡歯科医院,福島県南相馬市鹿島区鹿島字御前ノ内１０８-２,歯科,,,9" xlink:title="木幡歯科医院" transform="ref(svg,14097.0673,-3770.072)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国見歯科診療所,福島県南相馬市原町区国見町２-１１３-１,歯科　矯正歯科,,,9" xlink:title="国見歯科診療所" transform="ref(svg,14095.4752,-3762.9895)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,福島県南相馬市原町区桜井町２-８６-１,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,14097.9118,-3763.9194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河田歯科医院,福島県南相馬市原町区栄町３-６５,歯科　小児歯科,,,9" xlink:title="河田歯科医院" transform="ref(svg,14096.4199,-3763.712)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒川歯科医院,福島県南相馬市原町区旭町１-６５,歯科,,,9" xlink:title="荒川歯科医院" transform="ref(svg,14096.6429,-3763.7477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広瀬歯科医院,福島県南相馬市原町区大町１-７６,歯科,,,9" xlink:title="広瀬歯科医院" transform="ref(svg,14096.042,-3763.9888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新開歯科医院,福島県相馬市中村字宇多川町６１,歯科,,,9" xlink:title="新開歯科医院" transform="ref(svg,14092.2436,-3779.7287)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,福島県相馬市中村字新町８６-１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14092.2773,-3779.9931)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,門馬歯科医院,福島県相馬市中村字北町３０-３,歯科,,,9" xlink:title="門馬歯科医院" transform="ref(svg,14091.9002,-3780.0168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梶田歯科医院,福島県相馬市中村２-５-６,歯科,,,9" xlink:title="梶田歯科医院" transform="ref(svg,14092.49,-3779.8372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅野歯科医院,福島県相馬市塚の町２-６-１５,歯科　矯正歯科　小児歯科,,,9" xlink:title="菅野歯科医院" transform="ref(svg,14093.0581,-3780.3785)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グリーン歯科,福島県相馬市小泉字高池４３８-１,歯科,,,9" xlink:title="グリーン歯科" transform="ref(svg,14091.9852,-3780.7961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あべ歯科医院,福島県相馬市馬場野字山越８３,歯科　矯正歯科　口腔外科,,,9" xlink:title="あべ歯科医院" transform="ref(svg,14093.1313,-3779.2493)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,福島県相馬市中野字寺前４５-１,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,14092.5133,-3779.509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山下歯科医院,福島県相馬市原釜字大津１１-２,歯科,,,9" xlink:title="山下歯科医院" transform="ref(svg,14095.9813,-3782.8011)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヒロシ歯科クリニック,福島県相馬市中村字塚田５０,歯科,,,9" xlink:title="ヒロシ歯科クリニック" transform="ref(svg,14091.1549,-3780.4383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大井歯科医院,福島県相馬市中村字大手先４６-１,歯科,,,9" xlink:title="大井歯科医院" transform="ref(svg,14091.6586,-3779.5179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）斎藤歯科医院,福島県相馬市中村字錦町４-３,歯科,,,9" xlink:title="（医）斎藤歯科医院" transform="ref(svg,14092.2097,-3780.3482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田歯科医院,福島県相馬市中村字北町２６,歯科,,,9" xlink:title="原田歯科医院" transform="ref(svg,14091.8299,-3780.0204)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科クリニック,福島県相馬市中村字新町１７,歯科　小児歯科,,,9" xlink:title="わたなべ歯科クリニック" transform="ref(svg,14092.3805,-3780.0379)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,篠山歯科医院,福島県相馬市沖ノ内２-１０-１ＫＭＳビル,歯科,,,9" xlink:title="篠山歯科医院" transform="ref(svg,14093.0457,-3780.6881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八巻歯科医院,福島県相馬市中村１-８-１０,歯科,,,9" xlink:title="八巻歯科医院" transform="ref(svg,14092.5296,-3780.0704)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒沢歯科医院,福島県相馬市中村字桜ヶ丘８６,歯科,,,9" xlink:title="黒沢歯科医院" transform="ref(svg,14091.7942,-3780.1846)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,福島県相馬郡新地町小川字鍛治前１-１,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,14091.8753,-3786.925)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新地歯科医院,福島県相馬郡新地町小川字北原１２１-１,歯科,,,9" xlink:title="新地歯科医院" transform="ref(svg,14091.8586,-3787.4559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）新妻歯科医院広野,福島県双葉郡広野町大字下北迫字前川原６１,歯科,,,9" xlink:title="（医）新妻歯科医院広野" transform="ref(svg,14100.2951,-3721.9033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小島歯科医院,茨城県日立市宮田町３-１０-４,歯科,,,9" xlink:title="小島歯科医院" transform="ref(svg,14065.4482,-3660.473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,--島歯科医院,茨城県日立市若葉町１-３-８,歯科,,,9" xlink:title="--島歯科医院" transform="ref(svg,14065.5205,-3659.7422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塚原歯科医院,茨城県日立市日高町２-１１-３４,歯科,,,9" xlink:title="塚原歯科医院" transform="ref(svg,14068.1701,-3663.9734)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮井歯科医院,茨城県日立市日高町１-６-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="宮井歯科医院" transform="ref(svg,14067.7119,-3663.8561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鯨岡歯科医院,茨城県日立市諏訪町１-２-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="鯨岡歯科医院" transform="ref(svg,14063.6084,-3656.4563)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松浦歯科医院,茨城県日立市鮎川町１-１１-８,歯科,,,9" xlink:title="松浦歯科医院" transform="ref(svg,14063.6935,-3656.2565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白川歯科医院,茨城県日立市田尻町３-２７-８,歯科,,,9" xlink:title="白川歯科医院" transform="ref(svg,14067.0873,-3662.6947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神尾歯科医院,茨城県日立市鹿島町２-１５-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="神尾歯科医院" transform="ref(svg,14064.8851,-3659.2435)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮崎歯科医院,茨城県日立市弁天町１-２-２,歯科,,,9" xlink:title="宮崎歯科医院" transform="ref(svg,14065.5773,-3659.4218)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白土歯科,茨城県日立市会瀬町１-７-４,歯科,,,9" xlink:title="白土歯科" transform="ref(svg,14065.6196,-3657.8043)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,征矢歯科医院,茨城県日立市弁天町２-１１-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="征矢歯科医院" transform="ref(svg,14065.375,-3659.1122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,戸来歯科医院,茨城県日立市神峰町２-９-８,歯科,,,9" xlink:title="戸来歯科医院" transform="ref(svg,14065.2465,-3659.9175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,茨城県日立市東滑川町５-５-３２,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,14067.887,-3662.0665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日立歯科診療所,茨城県日立市城南町１-８-１５,歯科　矯正歯科　小児歯科,,,9" xlink:title="日立歯科診療所" transform="ref(svg,14064.4378,-3658.6846)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宏和会日精歯科,茨城県日立市小木津町１-４２-２６,歯科　矯正歯科,,,9" xlink:title="（医）宏和会日精歯科" transform="ref(svg,14067.1645,-3664.0508)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科医院,茨城県日立市川尻町５-５-１,歯科,,,9" xlink:title="小川歯科医院" transform="ref(svg,14069.1657,-3666.4447)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒澤歯科医院,茨城県日立市弁天町１-８-９グレーズビル２０１,歯科,,,9" xlink:title="黒澤歯科医院" transform="ref(svg,14065.6099,-3659.3135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日立銀座歯科医院,茨城県日立市鹿島町１-１０-１,歯科,,,9" xlink:title="日立銀座歯科医院" transform="ref(svg,14065.3219,-3659.4404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北見歯科医院,茨城県日立市幸町１-１３-１０北見ビル２階,歯科,,,9" xlink:title="北見歯科医院" transform="ref(svg,14065.7463,-3659.1848)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あべ歯科医院,茨城県日立市会瀬町４-５-１５,歯科　小児歯科,,,9" xlink:title="あべ歯科医院" transform="ref(svg,14064.5863,-3658.5017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金澤歯科クリニック,茨城県日立市東成沢町３-１７-６,歯科　小児歯科,,,9" xlink:title="金澤歯科クリニック" transform="ref(svg,14064.4429,-3657.262)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,茨城県日立市旭町２-２-１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14066.1581,-3658.7753)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小平歯科医院,茨城県日立市幸町１-１５-４ショットビル３０１,歯科,,,9" xlink:title="小平歯科医院" transform="ref(svg,14065.8281,-3659.1492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日立市心身障害者歯科診療所,茨城県日立市助川町５-１０-２０,歯科,,,9" xlink:title="日立市心身障害者歯科診療所" transform="ref(svg,14064.1754,-3659.1332)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科クリニック,茨城県日立市末広町３-１-１７,歯科,,,9" xlink:title="和田歯科クリニック" transform="ref(svg,14062.739,-3656.3449)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菱川歯科医院,茨城県高萩市安良川７１５-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="菱川歯科医院" transform="ref(svg,14070.9005,-3671.1206)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かんべ歯科医院,茨城県高萩市下手綱１４８５-５,歯科　小児歯科,,,9" xlink:title="かんべ歯科医院" transform="ref(svg,14071.5387,-3672.6843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本宮歯科医院,茨城県日立市本宮町１-９-１,歯科,,,9" xlink:title="本宮歯科医院" transform="ref(svg,14066.0074,-3660.3162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかしま歯科クリニック,茨城県北茨城市中郷町松井１０９-３,歯科,,,9" xlink:title="たかしま歯科クリニック" transform="ref(svg,14072.752,-3676.7934)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉田歯科医院,茨城県高萩市本町１-２２３,歯科　小児歯科,,,9" xlink:title="杉田歯科医院" transform="ref(svg,14070.86,-3671.3811)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立原歯科医院,茨城県日立市城南町３-１-３３,歯科,,,9" xlink:title="立原歯科医院" transform="ref(svg,14064.306,-3658.6298)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大平歯科クリニック,茨城県北茨城市磯原町豊田９０５-１,歯科,,,9" xlink:title="大平歯科クリニック" transform="ref(svg,14072.8516,-3680.0033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白土デンタル・クリニック,茨城県日立市西成沢町１-３５-２０-３,歯科　小児歯科,,,9" xlink:title="白土デンタル・クリニック" transform="ref(svg,14063.6578,-3657.82)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立花歯科医院,茨城県高萩市東本町１-７４,歯科　小児歯科,,,9" xlink:title="立花歯科医院" transform="ref(svg,14071.8042,-3671.2932)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大津港歯科クリニック,茨城県北茨城市関本町関本中１５８７-１４,歯科,,,9" xlink:title="大津港歯科クリニック" transform="ref(svg,14078.1191,-3685.5234)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科クリニック,茨城県日立市川尻町６-５２-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="わたなべ歯科クリニック" transform="ref(svg,14068.8906,-3667.0344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,茨城県北茨城市中郷町上桜井２８８２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14073.4531,-3677.8821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひだか歯科クリニック,茨城県日立市日高町１-３３-３１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひだか歯科クリニック" transform="ref(svg,14067.3097,-3663.4422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,磯原ファミリー歯科,茨城県北茨城市磯原町磯原２-２０６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="磯原ファミリー歯科" transform="ref(svg,14074.067,-3679.196)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,茨城県日立市折笠町字舟橋３２２-４,歯科　小児歯科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,14068.6255,-3665.6696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いまがわ歯科医院,茨城県高萩市本町１-５２-２,歯科　小児歯科,,,9" xlink:title="いまがわ歯科医院" transform="ref(svg,14071.1791,-3671.3752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北見歯科クリニック,茨城県日立市幸町２-１０-１,歯科　小児歯科,,,9" xlink:title="北見歯科クリニック" transform="ref(svg,14065.6544,-3659.025)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平和歯科クリニック,茨城県日立市平和町１-１８-１５日立ビル１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="平和歯科クリニック" transform="ref(svg,14066.0845,-3659.2687)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトウ歯科クリニック,茨城県日立市鹿島町２-９-１３,歯科,,,9" xlink:title="サトウ歯科クリニック" transform="ref(svg,14065.1131,-3659.2316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宇佐美歯科,茨城県北茨城市磯原町磯原２-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="宇佐美歯科" transform="ref(svg,14074.3821,-3679.0155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひがし歯科医院,茨城県高萩市東本町２-４６-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひがし歯科医院" transform="ref(svg,14071.8942,-3671.4185)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日立北デンタルクリニック,茨城県日立市十王町友部２０１-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="日立北デンタルクリニック" transform="ref(svg,14068.4969,-3667.2171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まさひろ歯科,茨城県日立市幸町１-７-７ニュークリニックス日立５階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まさひろ歯科" transform="ref(svg,14065.7855,-3659.2848)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のぐち歯科,茨城県北茨城市磯原町磯原７２-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="のぐち歯科" transform="ref(svg,14075.491,-3679.6135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,茨城県日立市鹿島町２-５-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,14065.007,-3659.4143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,茂又歯科医院,茨城県高萩市本町４-２５０,歯科　小児歯科,,,9" xlink:title="茂又歯科医院" transform="ref(svg,14071.2697,-3671.9891)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宗作会滝川歯科医院,茨城県高萩市春日町２-６４,歯科　小児歯科,,,9" xlink:title="（医）宗作会滝川歯科医院" transform="ref(svg,14071.5578,-3671.6449)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科塙医院,茨城県日立市宮田町１-２-１１,歯科　小児歯科,,,9" xlink:title="歯科塙医院" transform="ref(svg,14065.0647,-3660.2698)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高鈴歯科医院,茨城県日立市高鈴町２-３-３１,歯科　小児歯科,,,9" xlink:title="高鈴歯科医院" transform="ref(svg,14064.7553,-3660.094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,間宮歯科医院,茨城県日立市鹿島町１-６-１５,歯科　矯正歯科　小児歯科,,,9" xlink:title="間宮歯科医院" transform="ref(svg,14065.1112,-3659.4477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,茨城県高萩市安良川１１４,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14071.2133,-3671.0135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沼田歯科医院,茨城県高萩市春日町２-１,歯科,,,9" xlink:title="沼田歯科医院" transform="ref(svg,14071.4041,-3671.4125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平澤歯科医院,茨城県高萩市大和町１-８,歯科,,,9" xlink:title="平澤歯科医院" transform="ref(svg,14071.6015,-3671.3363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,若松歯科医院,茨城県高萩市大和町１-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="若松歯科医院" transform="ref(svg,14071.4304,-3671.2117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,茨城県高萩市大和町３-３７-１,歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,14071.3046,-3671.1965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊池歯科医院,茨城県高萩市有明町１-１０,歯科,,,9" xlink:title="菊池歯科医院" transform="ref(svg,14071.9629,-3671.3313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保田歯科医院,茨城県北茨城市磯原町本町１-７-１,歯科　矯正歯科,,,9" xlink:title="久保田歯科医院" transform="ref(svg,14074.3923,-3678.9013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）究歯会北茨城歯科医院,茨城県北茨城市関南町里根川２０-６,歯科,,,9" xlink:title="（医）究歯会北茨城歯科医院" transform="ref(svg,14077.7795,-3683.9569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）究歯会中郷歯科医院,茨城県北茨城市中郷町足洗１１５０,歯科,,,9" xlink:title="（医）究歯会中郷歯科医院" transform="ref(svg,14073.4774,-3677.1617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科クリニック,茨城県北茨城市関南町仁井田８-１,歯科,,,9" xlink:title="渡辺歯科クリニック" transform="ref(svg,14078.4469,-3683.1066)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,茨城県北茨城市磯原町磯原１-１３６,歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,14074.2765,-3679.1851)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川尻歯科医院,茨城県日立市十王町友部東３-８-１,歯科,,,9" xlink:title="川尻歯科医院" transform="ref(svg,14068.6949,-3666.8402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高萩歯科クリニック,茨城県高萩市春日町２-３６,歯科　小児歯科,,,9" xlink:title="高萩歯科クリニック" transform="ref(svg,14071.3868,-3671.5366)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,十王歯科医院,茨城県日立市十王町友部１６４２-５,歯科,,,9" xlink:title="十王歯科医院" transform="ref(svg,14068.4919,-3667.5215)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小原歯科医院,茨城県北茨城市磯原町磯原５-１１-９１１,歯科,,,9" xlink:title="小原歯科医院" transform="ref(svg,14073.9183,-3679.6101)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こまつ歯科医院,茨城県北茨城市大津町北町１-７-９,歯科,,,9" xlink:title="こまつ歯科医院" transform="ref(svg,14078.0549,-3684.7054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかいそ海岸歯科,茨城県日立市日高町４-１８-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たかいそ海岸歯科" transform="ref(svg,14069.0051,-3663.1509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小泉矯正歯科,茨城県日立市鮎川町３-１-２１-２Ｆ,矯正歯科,,,9" xlink:title="小泉矯正歯科" transform="ref(svg,14063.9444,-3656.4205)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たつみ歯科往診クリニック,茨城県日立市若葉町１-１４-１５,歯科　小児歯科　口腔外科,,,9" xlink:title="たつみ歯科往診クリニック" transform="ref(svg,14065.5508,-3659.5832)" x="0" y="0"/>
+</g>
+</svg>

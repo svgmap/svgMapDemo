@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12375.0 -3375.0 562.5 562.5" go:dataArea="12375.0 -3375.0 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,聖マリア病院,長崎県五島市松山町１３３-２,内科　小児科　呼吸器内科　消化器内科　リハビリテーション科,,,6" xlink:title="聖マリア病院" transform="ref(svg,12884.3056,-3270.0622)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）厚善会郡家病院,長崎県五島市末広町１-９,外科　消化器外科　整形外科　内科　肛門外科,,,4" xlink:title="（医）厚善会郡家病院" transform="ref(svg,12884.3065,-3269.5736)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,長崎県富江病院,長崎県五島市富江町狩立４９９,リハビリテーション科　外科　眼科　小児科　整形外科　内科,,,2" xlink:title="長崎県富江病院" transform="ref(svg,12876.3835,-3261.3052)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,長崎県五島中央病院,長崎県五島市吉久木町２０５,リハビリテーション科　外科　眼科　産婦人科　耳鼻いんこう科　循環器内科　小児科　神経科　整形外科　精神科　内科　脳神経外科　泌尿器科　皮膚科　放射線科　消化器内科,,,2" xlink:title="長崎県五島中央病院" transform="ref(svg,12881.7232,-3268.9958)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,長崎県上五島病院,長崎県南松浦郡新上五島町青方郷１５４９-１１,リハビリテーション科　外科　眼科　産婦人科　耳鼻いんこう科　小児科　神経内科　整形外科　精神科　内科　泌尿器科　皮膚科　放射線科　麻酔科　消化器内科　循環器内科,,,2" xlink:title="長崎県上五島病院" transform="ref(svg,12907.0143,-3298.2642)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大島保養院,鹿児島県大島郡瀬戸内町阿木名６５,内科　精神科　神経科,,,4" xlink:title="大島保養院" transform="ref(svg,12933.5985,-2816.6202)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,瀬戸内徳洲会病院,鹿児島県大島郡瀬戸内町古仁屋字トンキャン原１３５８-１,内科　循環器科　小児科　外科　整形外科　皮膚科　眼科　耳鼻いんこう科　リハビリテーション科　精神科,,,4" xlink:title="瀬戸内徳洲会病院" transform="ref(svg,12932.1786,-2813.7625)" x="0" y="0"/>
+</g>
+</svg>

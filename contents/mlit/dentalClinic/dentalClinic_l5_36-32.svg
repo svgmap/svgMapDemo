@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14062.5 -4500.0 140.625 140.625" go:dataArea="14062.5 -4500.0 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,（医）東彩会浜益村歯科診療所,北海道石狩市浜益区浜益１-６２,歯科　小児歯科,,,9" xlink:title="（医）東彩会浜益村歯科診療所" transform="ref(svg,14138.4938,-4360.1348)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮腰歯科診療所,北海道滝川市江部乙町東１２-１-４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="宮腰歯科診療所" transform="ref(svg,14194.1218,-4362.4806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とくだ歯科医院,北海道滝川市江部乙町西１２-５-３６,歯科　小児歯科,,,9" xlink:title="とくだ歯科医院" transform="ref(svg,14193.9963,-4362.7122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科,北海道雨竜郡雨竜町字満寿３３-２４,歯科　小児歯科,,,9" xlink:title="さいとう歯科" transform="ref(svg,14188.8173,-4364.4472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなか歯科医院,北海道深川市開西町２-１-２５,歯科,,,9" xlink:title="たなか歯科医院" transform="ref(svg,14201.8046,-4371.0985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,深川市立多度志歯科診療所,北海道深川市多度志１１８８,歯科,,,9" xlink:title="深川市立多度志歯科診療所" transform="ref(svg,14202.8371,-4380.9882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）舟山歯科医院,北海道深川市文光町１２-２５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）舟山歯科医院" transform="ref(svg,14202.2812,-4371.2467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）健歯会杉澤歯科クリニック,北海道雨竜郡妹背牛町字妹背牛３８５,歯科,,,9" xlink:title="（医）健歯会杉澤歯科クリニック" transform="ref(svg,14196.3321,-4369.3553)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）いざなき会定岡歯科医院,北海道雨竜郡妹背牛町字妹背牛４１９-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）いざなき会定岡歯科医院" transform="ref(svg,14196.255,-4369.3724)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秩父別歯科診療所,北海道雨竜郡秩父別町１５４８-１１,歯科,,,9" xlink:title="秩父別歯科診療所" transform="ref(svg,14195.8162,-4376.5377)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北竜町立歯科診療所,北海道雨竜郡北竜町字和２-１７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北竜町立歯科診療所" transform="ref(svg,14188.0004,-4372.87)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中神歯科医院,北海道雨竜郡沼田町南１条２-５-８,歯科　小児歯科,,,9" xlink:title="中神歯科医院" transform="ref(svg,14193.6432,-4380.7397)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,北海道雨竜郡沼田町本通３-４-３,歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,14193.4149,-4380.836)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,北海道留萌市花園町１-１１-１,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,14164.9727,-4393.6578)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科栄町医院,北海道留萌市栄町２-４８,歯科,,,9" xlink:title="田中歯科栄町医院" transform="ref(svg,14165.063,-4394.1656)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊東歯科医院,北海道留萌市本町４-４,歯科　小児歯科,,,9" xlink:title="伊東歯科医院" transform="ref(svg,14164.2164,-4394.1028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北出歯科医院,北海道留萌市花園町３-２-４,歯科　小児歯科,,,9" xlink:title="北出歯科医院" transform="ref(svg,14165.2458,-4393.6258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,道見歯科,北海道留萌市野本町６１,歯科　小児歯科,,,9" xlink:title="道見歯科" transform="ref(svg,14165.9179,-4393.4822)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）菊田歯科クリニック,北海道留萌市開運町２-１-２１,歯科　歯科口腔外科,,,9" xlink:title="（医）菊田歯科クリニック" transform="ref(svg,14164.9342,-4393.9025)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）寺西歯科医院,北海道留萌市開運町２-２-２８,歯科,,,9" xlink:title="（医）寺西歯科医院" transform="ref(svg,14164.8294,-4393.8764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川上歯科クリニック,北海道留萌市五十嵐町３-２-１１,歯科　小児歯科,,,9" xlink:title="川上歯科クリニック" transform="ref(svg,14165.9308,-4393.5675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おうみや歯科医院,北海道留萌市錦町２-４-１５,歯科,,,9" xlink:title="おうみや歯科医院" transform="ref(svg,14164.3137,-4393.823)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のだ歯科クリニック,北海道留萌市沖見町２-５３,歯科,,,9" xlink:title="のだ歯科クリニック" transform="ref(svg,14163.7203,-4393.4516)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江戸歯科医院,北海道留萌市本町３-２９,歯科,,,9" xlink:title="江戸歯科医院" transform="ref(svg,14164.1401,-4394.0938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えばたデンタルオフィス,北海道留萌市旭町１-１４-３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="えばたデンタルオフィス" transform="ref(svg,14164.7614,-4393.6775)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）千樹会るもいファミリー歯科,北海道留萌市宮園町３-３９-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）千樹会るもいファミリー歯科" transform="ref(svg,14164.0936,-4393.4612)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いば歯科医院,北海道留萌市幸町２-２８-１,歯科　小児歯科,,,9" xlink:title="いば歯科医院" transform="ref(svg,14163.7611,-4393.9474)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,るもい南歯科クリニック,北海道留萌市南町２-２７９-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="るもい南歯科クリニック" transform="ref(svg,14167.3342,-4392.6057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）公月会しょかん歯科医院,北海道増毛郡増毛町暑寒町３-１１７,歯科,,,9" xlink:title="（医）公月会しょかん歯科医院" transform="ref(svg,14151.5202,-4385.41)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,風間歯科医院,北海道増毛郡増毛町畠中町１-２２-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="風間歯科医院" transform="ref(svg,14152.6019,-4385.7852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小平町立鬼鹿歯科診療所,北海道留萌郡小平町大字鬼鹿字港町２８６,歯科,,,9" xlink:title="小平町立鬼鹿歯科診療所" transform="ref(svg,14166.0746,-4415.5832)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,町立小平歯科診療所,北海道留萌郡小平町字小平町３８９-６,歯科,,,9" xlink:title="町立小平歯科診療所" transform="ref(svg,14166.2587,-4401.5126)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,苫前町立歯科診療所,北海道苫前郡苫前町字苫前１９１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="苫前町立歯科診療所" transform="ref(svg,14165.4983,-4431.2687)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古丹別歯科診療所,北海道苫前郡苫前町字古丹別１８７-１３,歯科,,,9" xlink:title="古丹別歯科診療所" transform="ref(svg,14171.17,-4426.3415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米山歯科医院,北海道苫前郡羽幌町南３条３,歯科,,,9" xlink:title="米山歯科医院" transform="ref(svg,14170.203,-4436.3932)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）誠羽会マルト歯科,北海道苫前郡羽幌町南６条４-４-１,歯科,,,9" xlink:title="（医）誠羽会マルト歯科" transform="ref(svg,14170.3889,-4436.1349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,羽幌歯科医院,北海道苫前郡羽幌町南３条４-１３-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="羽幌歯科医院" transform="ref(svg,14170.1275,-4436.3219)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,初山別村立初山別歯科診療所,北海道苫前郡初山別村字初山別１０５-１,歯科,,,9" xlink:title="初山別村立初山別歯科診療所" transform="ref(svg,14176.7103,-4453.3369)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）樋口歯科医院,北海道天塩郡&#32;遠別町字本町４-８２-１４,歯科,,,9" xlink:title="（医）樋口歯科医院" transform="ref(svg,14179.323,-4472.3282)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,峰村歯科医院,北海道天塩郡天塩町山手裏通９-１４６６-３４３,歯科,,,9" xlink:title="峰村歯科医院" transform="ref(svg,14174.3412,-4488.8728)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,てらもと歯科,北海道天塩郡天塩町新栄通３-１２０２,歯科　小児歯科,,,9" xlink:title="てらもと歯科" transform="ref(svg,14174.5619,-4488.3125)" x="0" y="0"/>
+</g>
+</svg>

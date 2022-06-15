@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13500.0 -9000.0 4500.0 4500.0" go:dataArea="13500.0 -9000.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,（医）トム萩見歯科,北海道稚内市萩見５-１-１３,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）トム萩見歯科" transform="ref(svg,14170.6882,-4538.7662)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）南波歯科医院,北海道稚内市中央４-５-２４,歯科,,,9" xlink:title="（医）南波歯科医院" transform="ref(svg,14167.6337,-4541.4039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井須歯科医院,北海道稚内市中央２-１６-７,歯科,,,9" xlink:title="井須歯科医院" transform="ref(svg,14167.2602,-4541.7884)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科南医院,北海道稚内市大黒１-６-３６,歯科,,,9" xlink:title="田中歯科南医院" transform="ref(svg,14168.4252,-4539.9762)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,北海道稚内市中央３-４-１８,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,14167.4932,-4541.6767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）久保歯科医院,北海道稚内市港３-２-４８,歯科,,,9" xlink:title="（医）久保歯科医院" transform="ref(svg,14167.3947,-4540.5127)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,盆子原歯科医院,北海道稚内市大黒３-３-２５,歯科,,,9" xlink:title="盆子原歯科医院" transform="ref(svg,14168.8543,-4539.7356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,パパスデンタルオフィス,北海道稚内市萩見５-３５-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="パパスデンタルオフィス" transform="ref(svg,14171.2504,-4538.6165)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,潮見歯科医院,北海道稚内市潮見２-１-７,歯科,,,9" xlink:title="潮見歯科医院" transform="ref(svg,14169.9328,-4539.3096)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）遠藤歯科クリニック,北海道稚内市萩見５-３３-８,歯科,,,9" xlink:title="（医）遠藤歯科クリニック" transform="ref(svg,14171.6112,-4538.6161)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤野歯科医院,北海道稚内市緑１-９-１２,歯科,,,9" xlink:title="藤野歯科医院" transform="ref(svg,14168.6475,-4539.504)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沖野歯科,北海道稚内市潮見３-５-２２,歯科,,,9" xlink:title="沖野歯科" transform="ref(svg,14170.3405,-4539.5485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんとうデンタルクリニック,北海道稚内市緑４-３-１９,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="しんとうデンタルクリニック" transform="ref(svg,14167.5879,-4538.7718)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大黒歯科クリニック,北海道稚内市大黒３-５-１３,歯科,,,9" xlink:title="大黒歯科クリニック" transform="ref(svg,14168.9954,-4539.7429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,猿払村歯科診療所,北海道宗谷郡猿払村字鬼志別,歯科,,,9" xlink:title="猿払村歯科診療所" transform="ref(svg,14211.1974,-4533.0795)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浜頓別歯科医院,北海道枝幸郡浜頓別町北３条４-２,歯科,,,9" xlink:title="浜頓別歯科医院" transform="ref(svg,14236.7023,-4512.7698)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はくちょう歯科医院,北海道枝幸郡浜頓別町南３条３-１５,歯科,,,9" xlink:title="はくちょう歯科医院" transform="ref(svg,14236.6066,-4512.2567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊富歯科医院,北海道天塩郡豊富町大通り７,歯科,,,9" xlink:title="豊富歯科医院" transform="ref(svg,14177.6939,-4510.3633)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ミルク歯科,北海道天塩郡豊富町東４条４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ミルク歯科" transform="ref(svg,14178.5239,-4510.1678)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,礼文町香深歯科診療所,北海道礼文郡礼文町大字香深村字トンナイ１２５,歯科,,,9" xlink:title="礼文町香深歯科診療所" transform="ref(svg,14104.7451,-4530.3862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,礼文町船泊歯科診療所,北海道礼文郡礼文町大字船泊村字ヲションナイ３１３-１-４,歯科,,,9" xlink:title="礼文町船泊歯科診療所" transform="ref(svg,14103.6943,-4544.0102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,利尻町仙法志歯科診療所,北海道利尻郡利尻町仙法志字本町６７-４,歯科,,,9" xlink:title="利尻町仙法志歯科診療所" transform="ref(svg,14121.9582,-4510.9142)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,利尻町沓形歯科診療所,北海道利尻郡利尻町沓形字日出町１９-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="利尻町沓形歯科診療所" transform="ref(svg,14113.8777,-4518.7377)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川上歯科医院,北海道利尻郡利尻富士町鴛泊字栄町８２-７,歯科　小児歯科,,,9" xlink:title="川上歯科医院" transform="ref(svg,14121.7471,-4524.5825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,利尻富士町鬼脇歯科診療所,北海道利尻郡利尻富士町鬼脇字鬼脇１２０,歯科,,,9" xlink:title="利尻富士町鬼脇歯科診療所" transform="ref(svg,14130.9027,-4513.8976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,幌延町立歯科診療所,北海道天塩郡幌延町１条北２-２,歯科,,,9" xlink:title="幌延町立歯科診療所" transform="ref(svg,14184.593,-4501.7783)" x="0" y="0"/>
+</g>
+</svg>

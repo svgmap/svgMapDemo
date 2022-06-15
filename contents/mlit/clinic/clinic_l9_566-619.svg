@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13974.609375 -3559.5703125 8.7890625 8.7890625" go:dataArea="13974.609375 -3559.5703125 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,トラックターミナル診療所,東京都大田区平和島２-１-１京浜トラックターミナル管理棟１階,内科,,,9" xlink:title="トラックターミナル診療所" transform="ref(svg,13974.64,-3558.5367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＴＲＣクリニック,東京都大田区平和島６-１-１東京流通センタービル１Ｆ-１３０,内科　外科　整形外科,,,9" xlink:title="ＴＲＣクリニック" transform="ref(svg,13974.8144,-3558.118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京都京浜島工業団地（協組）（連）診療所,東京都大田区京浜島２-１０-２京浜島会館１Ｆ,内科　外科,,,9" xlink:title="東京都京浜島工業団地（協組）（連）診療所" transform="ref(svg,13976.3591,-3557.0258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東海渡井クリニック,東京都大田区東海３-２-１,内科　外科　整形外科,,,9" xlink:title="東海渡井クリニック" transform="ref(svg,13975.8548,-3557.8898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東海クリニック,東京都大田区東海３-２-１大田市場内事務棟２Ｆ,内科,,,9" xlink:title="東海クリニック" transform="ref(svg,13975.8548,-3557.8898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）フロース東糀谷診療室,東京都大田区東糀谷６-４-１７,内科,,,9" xlink:title="（特養）フロース東糀谷診療室" transform="ref(svg,13975.1027,-3555.9241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）荏原製作所本社診療所,東京都大田区羽田旭町１１-１,内科　外科　眼科,,,9" xlink:title="（株）荏原製作所本社診療所" transform="ref(svg,13975.2325,-3555.2175)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヤマト運輸羽田クロノゲート医務室,東京都大田区羽田旭町１１-１事務棟４階,内科,,,9" xlink:title="ヤマト運輸羽田クロノゲート医務室" transform="ref(svg,13975.0828,-3555.3235)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,羽田バス通りクリニック,東京都大田区羽田３-３-１３鈴久ビルマンション１階,内科　消化器内科　外科　皮膚科,,,9" xlink:title="羽田バス通りクリニック" transform="ref(svg,13974.6365,-3554.827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つばさクリニック,東京都大田区羽田４-２０-７ハイムＫ１０１,内科,,,9" xlink:title="つばさクリニック" transform="ref(svg,13974.6417,-3554.8615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,穴守診療所,東京都大田区羽田５-１-８,内科　漢方内科　小児科　皮膚科,,,9" xlink:title="穴守診療所" transform="ref(svg,13974.9115,-3555.0202)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,羽田整形・形成外科,東京都大田区羽田６-１９-８,整形外科　形成外科　皮膚科　リハビリテーション科,,,9" xlink:title="羽田整形・形成外科" transform="ref(svg,13974.7482,-3554.7008)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三清会羽田おおぞらクリニック,東京都大田区羽田６-６-１０,内科,,,9" xlink:title="（医）三清会羽田おおぞらクリニック" transform="ref(svg,13975.0261,-3554.6704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（財）航空医学研究センター診療所,東京都大田区羽田空港１-７-１第二綜合ビル６階,内科　眼科　耳鼻咽喉科　精神科,,,9" xlink:title="（財）航空医学研究センター診療所" transform="ref(svg,13975.3631,-3555.3717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京検疫所東京空港検疫所支所診察室,東京都大田区羽田空港２-６-４,内科,,,9" xlink:title="東京検疫所東京空港検疫所支所診察室" transform="ref(svg,13976.9587,-3554.3611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東邦大学羽田空港国際線クリニック,東京都大田区羽田空港２-６-５東京国際空港国際線旅客ターミナル１階,内科　外科,,,9" xlink:title="東邦大学羽田空港国際線クリニック" transform="ref(svg,13976.8695,-3554.4606)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）翔医会東京国際空港診療所,東京都大田区羽田空港３-３-２第１旅客ターミナル１階,内科　小児科　外科,,,9" xlink:title="（医）翔医会東京国際空港診療所" transform="ref(svg,13978.3976,-3554.8994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,全日本空輸（株）勤労部東京健康管理センター,東京都大田区羽田空港３-３-２西ターミナルビル４Ｆ北,内科　精神科　神経科　整形外科　眼科　耳鼻咽喉科,,,9" xlink:title="全日本空輸（株）勤労部東京健康管理センター" transform="ref(svg,13978.3976,-3554.8994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東邦大学羽田空港クリニック,東京都大田区羽田空港３-４-２羽田空港第２旅客ターミナル内１階,内科　外科　眼科,,,9" xlink:title="東邦大学羽田空港クリニック" transform="ref(svg,13978.7534,-3555.2225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＪＡＬグランドサービス診療所,東京都大田区羽田空港３-５-２ＪＡＬメインテナンスセンター２　４階,内科　整形外科,,,9" xlink:title="ＪＡＬグランドサービス診療所" transform="ref(svg,13978.9972,-3553.9733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本航空（株）健康管理部,東京都大田区羽田空港３-６-８第一テクニカルセンター７階,内科　神経科　整形外科　眼科　耳鼻咽喉科　放射線科,,,9" xlink:title="日本航空（株）健康管理部" transform="ref(svg,13979.3408,-3554.1897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＥＭＧマーケティング（同）川崎工場内診療所,神奈川県川崎市川崎区浮島町７-１東燃ゼネラル石油川崎工場２００号地,内科,,,9" xlink:title="ＥＭＧマーケティング（同）川崎工場内診療所" transform="ref(svg,13977.4087,-3552.7844)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＪＸ日鉱日石エネルギー（株）川崎製造所健康推進センター,神奈川県川崎市川崎区夜光２-３-１,内科　心療内科,,,9" xlink:title="ＪＸ日鉱日石エネルギー（株）川崎製造所健康推進センター" transform="ref(svg,13974.9359,-3552.3216)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＪＸ日鉱日石エネルギー（株）川崎製造所健康推進センター,神奈川県川崎市川崎区浮島町１０-１０,内科　心療内科,,,9" xlink:title="ＪＸ日鉱日石エネルギー（株）川崎製造所健康推進センター" transform="ref(svg,13977.8012,-3551.9764)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,旭化成（株）川崎支社診療所,神奈川県川崎市川崎区夜光１-３-１,内科　外科,,,9" xlink:title="旭化成（株）川崎支社診療所" transform="ref(svg,13975.0645,-3552.6624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花王（株）川崎工場健康相談室,神奈川県川崎市川崎区浮島町１-２,内科　外科　歯科,,,9" xlink:title="花王（株）川崎工場健康相談室" transform="ref(svg,13976.7857,-3553.3173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）ＹＡＫＩＮ川崎診療所,神奈川県川崎市川崎区小島町４-２,内科　外科　皮膚科,,,9" xlink:title="（株）ＹＡＫＩＮ川崎診療所" transform="ref(svg,13975.407,-3553.3101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）東芝浜川崎工場健康支援室,神奈川県川崎市川崎区浮島町２-１,内科,,,9" xlink:title="（株）東芝浜川崎工場健康支援室" transform="ref(svg,13976.4813,-3553.1363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京セラケミカル（株）川崎工場健康管理室,神奈川県川崎市川崎区千鳥町９-２,内科　外科,,,9" xlink:title="京セラケミカル（株）川崎工場健康管理室" transform="ref(svg,13975.4458,-3551.4775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,昭和電工（株）川崎事業所環境安全部健康管理センター診療所,神奈川県川崎市川崎区千鳥町２-３,内科　呼吸器科　消化器科　外科,,,9" xlink:title="昭和電工（株）川崎事業所環境安全部健康管理センター診療所" transform="ref(svg,13975.8047,-3552.3899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川崎化成工業（株）医務室,神奈川県川崎市川崎区千鳥町１-２,内科　外科　皮膚科,,,9" xlink:title="川崎化成工業（株）医務室" transform="ref(svg,13975.5511,-3552.4832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本ゼオン（株）総合開発センター診療所,神奈川県川崎市川崎区夜光１-２-１,内科,,,9" xlink:title="日本ゼオン（株）総合開発センター診療所" transform="ref(svg,13974.9831,-3553.0437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本ゼオン（株）川崎工場診療所,神奈川県川崎市川崎区夜光１-２-１,内科,,,9" xlink:title="日本ゼオン（株）川崎工場診療所" transform="ref(svg,13974.9831,-3553.0437)" x="0" y="0"/>
+</g>
+</svg>

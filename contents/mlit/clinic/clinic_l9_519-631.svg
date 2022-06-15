@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13561.5234375 -3454.1015625 8.7890625 8.7890625" go:dataArea="13561.5234375 -3454.1015625 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,和悦会診療所,大阪府羽曳野市古市２２７１-１１４,内科　外科,,,9" xlink:title="和悦会診療所" transform="ref(svg,13562.9773,-3453.059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あすくの里医務室,大阪府羽曳野市飛鳥１１,内科,,,9" xlink:title="（特養）あすくの里医務室" transform="ref(svg,13563.471,-3453.5835)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天城医院,大阪府南河内郡太子町春日９８-２４,内科　小児科,,,9" xlink:title="天城医院" transform="ref(svg,13564.2587,-3452.4375)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村医院,大阪府南河内郡太子町山田７８,内科　外科　脳神経外科,,,9" xlink:title="中村医院" transform="ref(svg,13564.7795,-3451.7987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千早赤阪村国民健康保険診療所,大阪府南河内郡千早赤阪村大字水分１９５-１,内科　小児科　皮膚科　リハビリテーション科,,,9" xlink:title="千早赤阪村国民健康保険診療所" transform="ref(svg,13562.2592,-3446.3649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）菊水苑付属診療所,大阪府南河内郡河南町大字加納元南１７,内科　神経内科,,,9" xlink:title="（特養）菊水苑付属診療所" transform="ref(svg,13564.587,-3448.5812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太子町立保健センター,大阪府南河内郡太子町大字山田１０１．１０２,内科　小児科　胃腸科,,,9" xlink:title="太子町立保健センター" transform="ref(svg,13564.7247,-3451.8525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きたかぶ医院,大阪府南河内郡太子町春日１０３-７,内科　小児科,,,9" xlink:title="きたかぶ医院" transform="ref(svg,13564.1584,-3452.6969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）美野の里附属診療所,大阪府南河内郡太子町大字山田２５５０,内科　リハビリテーション科,,,9" xlink:title="（特養）美野の里附属診療所" transform="ref(svg,13565.7535,-3451.4043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,科長の郷,大阪府南河内郡太子町畑１００-１,内科　精神科,,,9" xlink:title="科長の郷" transform="ref(svg,13565.1966,-3450.8266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）順心会前田クリニック,大阪府南河内郡河南町神山２６９,内科　リハビリテーション科,,,9" xlink:title="（医）順心会前田クリニック" transform="ref(svg,13562.323,-3448.2092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千早赤阪村立保健センター,大阪府南河内郡千早赤阪村大字水分１９５-１,内科　小児科,,,9" xlink:title="千早赤阪村立保健センター" transform="ref(svg,13562.2592,-3446.3649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仲谷診療所,大阪府南河内郡河南町寺田１３２-４,内科　小児科　放射線科,,,9" xlink:title="仲谷診療所" transform="ref(svg,13562.9715,-3449.5833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清秀会中辻整形外科,大阪府南河内郡太子町大字太子９０６-１,リハビリテーション科　放射線科　整形外科,,,9" xlink:title="（医）清秀会中辻整形外科" transform="ref(svg,13563.3487,-3451.7531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大槻会大槻医院,大阪府南河内郡河南町一須賀６３５,内科,,,9" xlink:title="（医）大槻会大槻医院" transform="ref(svg,13562.6566,-3450.6753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大槻会大槻医院大伴診療所,大阪府富田林市北大伴町１-３-２６,内科　循環器科,,,9" xlink:title="（医）大槻会大槻医院大伴診療所" transform="ref(svg,13561.5675,-3450.1777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河南町保健福祉センター,大阪府南河内郡河南町大字白木１３７１,内科,,,9" xlink:title="河南町保健福祉センター" transform="ref(svg,13563.1749,-3449.3103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あんり,大阪府南河内郡河南町寛弘寺１０１,内科,,,9" xlink:title="（特養）あんり" transform="ref(svg,13562.4339,-3448.2468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新田クリニック,大阪府南河内郡河南町さくら坂４-１３-１,内科　小児科　呼吸器科,,,9" xlink:title="新田クリニック" transform="ref(svg,13564.7935,-3447.7282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くぼ内科,大阪府富田林市山中田町１-１９-１６,呼吸器内科　内科　アレルギー科,,,9" xlink:title="くぼ内科" transform="ref(svg,13561.5832,-3449.6454)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さわもと小児科,大阪府南河内郡河南町大字東山６９１-２,小児科,,,9" xlink:title="さわもと小児科" transform="ref(svg,13562.6738,-3451.364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,廣谷医院,大阪府南河内郡河南町大宝１-４-１０,内科　小児科,,,9" xlink:title="廣谷医院" transform="ref(svg,13563.4121,-3450.4108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東洋アルミ興産（株）,大阪府南河内郡太子町大字太子４８３,内科　外科,,,9" xlink:title="東洋アルミ興産（株）" transform="ref(svg,13562.7605,-3451.7631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香芝村尾クリニック,奈良県香芝市磯壁３-４０-１,内科　消化器科　循環器科　小児科　皮膚科　耳鼻いんこう科　放射線科,,,9" xlink:title="香芝村尾クリニック" transform="ref(svg,13570.2758,-3453.8971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木クリニック,奈良県香芝市畑４-５３８-１,内科　皮膚科　こう門科,,,9" xlink:title="佐々木クリニック" transform="ref(svg,13568.6824,-3453.9776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松山医院,奈良県香芝市磯壁６-２３４-６,内科,,,9" xlink:title="松山医院" transform="ref(svg,13570.1299,-3453.1848)" x="0" y="0"/>
+</g>
+</svg>

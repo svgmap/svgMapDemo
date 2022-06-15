@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="clinic_l8_280-308.svg" x="13921.875" y="-3585.9375" width="17.5781" height="17.5781" visibleMinZoom="2275.55"/>
+<image xlink:href="clinic/lvl11/tile280_308.png" preserveAspectRatio="none" x="13921.875" y="-3585.9375" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<image xlink:href="clinic/lvl11/tile281_308.png" preserveAspectRatio="none" x="13939.4531" y="-3585.9375" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<image xlink:href="clinic/lvl11/tile280_309.png" preserveAspectRatio="none" x="13921.875" y="-3568.3594" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<image xlink:href="clinic/lvl11/tile281_309.png" preserveAspectRatio="none" x="13939.4531" y="-3568.3594" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<animation xlink:href="clinic_l9_562-618.svg" x="13939.4531" y="-3568.3594" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile562_618.png" preserveAspectRatio="none" x="13939.4531" y="-3568.3594" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_563-618.svg" x="13948.2422" y="-3568.3594" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile563_618.png" preserveAspectRatio="none" x="13948.2422" y="-3568.3594" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_562-619.svg" x="13939.4531" y="-3559.5703" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile562_619.png" preserveAspectRatio="none" x="13939.4531" y="-3559.5703" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_563-619.svg" x="13948.2422" y="-3559.5703" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile563_619.png" preserveAspectRatio="none" x="13948.2422" y="-3559.5703" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_562-616.svg" x="13939.4531" y="-3585.9375" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile562_616.png" preserveAspectRatio="none" x="13939.4531" y="-3585.9375" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_563-616.svg" x="13948.2422" y="-3585.9375" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile563_616.png" preserveAspectRatio="none" x="13948.2422" y="-3585.9375" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_562-617.svg" x="13939.4531" y="-3577.1484" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile562_617.png" preserveAspectRatio="none" x="13939.4531" y="-3577.1484" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile563_617.png" preserveAspectRatio="none" x="13948.2422" y="-3577.1484" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_560-618.svg" x="13921.875" y="-3568.3594" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile560_618.png" preserveAspectRatio="none" x="13921.875" y="-3568.3594" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_561-618.svg" x="13930.6641" y="-3568.3594" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile561_618.png" preserveAspectRatio="none" x="13930.6641" y="-3568.3594" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_560-619.svg" x="13921.875" y="-3559.5703" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile560_619.png" preserveAspectRatio="none" x="13921.875" y="-3559.5703" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l9_561-619.svg" x="13930.6641" y="-3559.5703" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="clinic/lvl12/tile561_619.png" preserveAspectRatio="none" x="13930.6641" y="-3559.5703" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="clinic_l10_1126-1234.svg" x="13948.2422" y="-3577.1484" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="clinic/lvl13/tile1126_1234.png" preserveAspectRatio="none" x="13948.2422" y="-3577.1484" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="clinic_l10_1127-1234.svg" x="13952.6367" y="-3577.1484" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="clinic/lvl13/tile1127_1234.png" preserveAspectRatio="none" x="13952.6367" y="-3577.1484" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="clinic_l10_1126-1235.svg" x="13948.2422" y="-3572.7539" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="clinic/lvl13/tile1126_1235.png" preserveAspectRatio="none" x="13948.2422" y="-3572.7539" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="clinic_l10_1127-1235.svg" x="13952.6367" y="-3572.7539" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="clinic/lvl13/tile1127_1235.png" preserveAspectRatio="none" x="13952.6367" y="-3572.7539" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+</svg>

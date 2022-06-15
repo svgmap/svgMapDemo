@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14132.8125 -4324.21875 17.578125 17.578125" go:dataArea="14132.8125 -4324.21875 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,高橋歯科医院,北海道札幌市中央区北３条東８-３５０,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14136.7403,-4306.6817)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,北海道札幌市中央区北３条東９-４-２,歯科　小児歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,14137.0434,-4306.733)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）慈昂会なえぼ駅前歯科,北海道札幌市中央区北３条東１３-９９-６ステーションプラザ３Ｆ,歯科　小児歯科,,,9" xlink:title="（医）慈昂会なえぼ駅前歯科" transform="ref(svg,14137.6896,-4306.8337)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）フランス歯科診療所,北海道札幌市中央区北４条西２-１-１８邦洋札幌Ｎ４・２ビル４階,歯科,,,9" xlink:title="（医）フランス歯科診療所" transform="ref(svg,14135.2472,-4306.6417)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）スマイル矯正歯科,北海道札幌市中央区北４条西３-１-６北洋駅前ビル９階,矯正歯科,,,9" xlink:title="（医）スマイル矯正歯科" transform="ref(svg,14135.1416,-4306.6612)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まえだ歯科医院,北海道札幌市中央区北４条西３駅前合同ビル４階,歯科　小児歯科,,,9" xlink:title="まえだ歯科医院" transform="ref(svg,14135.0927,-4306.6536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内田歯科医院,北海道札幌市中央区北４条西３交洋駅前ビル９階,歯科,,,9" xlink:title="内田歯科医院" transform="ref(svg,14135.1411,-4306.6631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ハートフル会すまいる歯科,北海道札幌市中央区北４条東２-８-２マルイト北４条ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）ハートフル会すまいる歯科" transform="ref(svg,14135.7964,-4306.7474)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ターミナル歯科,北海道札幌市中央区北５条西２エスタ地下２階,歯科,,,9" xlink:title="ターミナル歯科" transform="ref(svg,14135.2533,-4306.7546)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科オムニデンティックスＪＲタワー,北海道札幌市中央区北５条西２　ＪＲタワーオフィスプラザ札幌８階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯科オムニデンティックスＪＲタワー" transform="ref(svg,14135.2586,-4306.8144)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）丸山歯科医院,北海道札幌市中央区北５条西５住友生命札幌ビル８階,歯科,,,9" xlink:title="（医）丸山歯科医院" transform="ref(svg,14134.8206,-4306.674)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植物園前デンタルクリニック,北海道札幌市中央区北５条西９-８-９ダイアパレス植物園前１階,歯科　歯科口腔外科,,,9" xlink:title="植物園前デンタルクリニック" transform="ref(svg,14134.173,-4306.6431)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科,北海道札幌市中央区北７条西１６-１,歯科,,,9" xlink:title="山田歯科" transform="ref(svg,14133.0843,-4306.7028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふたば歯科クリニック,北海道札幌市中央区北８条西１４-２８イオン札幌桑園ショッピングセンター２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふたば歯科クリニック" transform="ref(svg,14133.3633,-4306.8398)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）土井歯科,北海道札幌市中央区北９条西１５-２８-１９６札幌ＩＴフロントビル１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）土井歯科" transform="ref(svg,14133.155,-4306.9425)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしたに歯科医院,北海道札幌市中央区北１０条西１５-１-６クリーンリバー桑園駅前３号棟,歯科　小児歯科,,,9" xlink:title="よしたに歯科医院" transform="ref(svg,14133.1727,-4307.0349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしぐろ歯科クリニック,北海道札幌市中央区北１１条西１５-２-１サンエーアインビル２階,歯科　小児歯科,,,9" xlink:title="いしぐろ歯科クリニック" transform="ref(svg,14133.3082,-4307.0601)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かまだ歯科,北海道札幌市中央区北１３条西１５-１-１０,歯科,,,9" xlink:title="かまだ歯科" transform="ref(svg,14132.9704,-4307.4039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）たまき矯正歯科,北海道札幌市北区北６条西１-３８山京ビル７階,矯正歯科,,,9" xlink:title="（医）たまき矯正歯科" transform="ref(svg,14135.3353,-4306.9262)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）松岡歯科クリニック,北海道札幌市北区北７条西２-２東京建物札幌ビル３階,歯科,,,9" xlink:title="（医）松岡歯科クリニック" transform="ref(svg,14135.1532,-4307.0115)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）北楡会札幌北ビル歯科クリニック,北海道札幌市北区北７条西２-８-１,歯科　歯科口腔外科,,,9" xlink:title="（医）北楡会札幌北ビル歯科クリニック" transform="ref(svg,14135.1807,-4306.9659)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｉ-VＳデンタルクリニック,北海道札幌市北区北７条西４-１-１東カン札幌駅前ビル３階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="Ｉ-VＳデンタルクリニック" transform="ref(svg,14134.9543,-4306.9237)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,北海道札幌市北区北７条西４-１丸増ビル２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="神田歯科医院" transform="ref(svg,14134.963,-4306.9387)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,りゅうかた歯科,北海道札幌市北区北７条西４-８ノースセブンビル３階,歯科,,,9" xlink:title="りゅうかた歯科" transform="ref(svg,14134.9188,-4306.9904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ボストン歯科クリニック,北海道札幌市北区北７条西５第２辰星ビル２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="ボストン歯科クリニック" transform="ref(svg,14134.7897,-4306.9766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アントン矯正歯科クリニック,北海道札幌市北区北７条西５-７-１札幌北スカイビル１５階,矯正歯科,,,9" xlink:title="アントン矯正歯科クリニック" transform="ref(svg,14134.6997,-4306.893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オリエント歯科医院,北海道札幌市北区北７条西６-１-１８,歯科,,,9" xlink:title="オリエント歯科医院" transform="ref(svg,14134.6537,-4306.8828)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まさき歯科・小児歯科,北海道札幌市北区北８条西３-１３-３ラ・クラッセ札幌ステーションフロント１階,歯科　小児歯科　小児矯正歯科　歯科口腔外科,,,9" xlink:title="まさき歯科・小児歯科" transform="ref(svg,14135.0747,-4307.1325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）北楡会パストラルデンタルクリニック,北海道札幌市北区北８条西４-１-１パストラルビルＮ８２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）北楡会パストラルデンタルクリニック" transform="ref(svg,14134.9256,-4307.0592)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北大前矯正歯科クリニック,北海道札幌市北区北８条西４-２０-１,矯正歯科,,,9" xlink:title="北大前矯正歯科クリニック" transform="ref(svg,14134.8416,-4307.0858)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こおり歯科医院,北海道札幌市北区北９条西４-１０-３エスターＮガレリアビル２階,歯科,,,9" xlink:title="こおり歯科医院" transform="ref(svg,14134.8002,-4307.1569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なか川歯科医院,北海道札幌市北区北１０条西２吉江ビル２階,歯科,,,9" xlink:title="なか川歯科医院" transform="ref(svg,14135.0581,-4307.3658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふれあい歯科,北海道札幌市北区北１１条西３-１７甲　日宝ノール北１１条,歯科　小児歯科,,,9" xlink:title="ふれあい歯科" transform="ref(svg,14134.9195,-4307.4696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たにぐち歯科,北海道札幌市北区北１１条西４第３東文堂ビル２階,歯科,,,9" xlink:title="たにぐち歯科" transform="ref(svg,14134.7714,-4307.4459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北１２条ワンツー歯科,北海道札幌市北区北１１条西４-１-４４ベルエアプラザビル２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="北１２条ワンツー歯科" transform="ref(svg,14134.8097,-4307.451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北ノ門歯科,北海道札幌市北区北１３条西４-１-１,歯科　小児歯科,,,9" xlink:title="北ノ門歯科" transform="ref(svg,14134.7851,-4307.6292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,樋口歯科医院,北海道札幌市北区北１４条西４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="樋口歯科医院" transform="ref(svg,14134.7462,-4307.7171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山中歯科医院,北海道札幌市北区北１５条西４-２１,歯科,,,9" xlink:title="山中歯科医院" transform="ref(svg,14134.6267,-4307.8903)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）康仁会たかさき歯科医院,北海道札幌市北区北１７条西２,歯科,,,9" xlink:title="（医）康仁会たかさき歯科医院" transform="ref(svg,14134.8882,-4308.1509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山田歯科,北海道札幌市北区北１７条西４藤井ビル北１７条-U,歯科,,,9" xlink:title="小山田歯科" transform="ref(svg,14134.6373,-4308.1363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大塚歯科医院,北海道札幌市北区北１７条西５-２０-４５５,歯科,,,9" xlink:title="大塚歯科医院" transform="ref(svg,14134.5168,-4308.0684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マイクデンタルオフィス,北海道札幌市北区北１８条西３-２１マイクビル２階,歯科　小児歯科,,,9" xlink:title="マイクデンタルオフィス" transform="ref(svg,14134.6937,-4308.184)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科医院,北海道札幌市北区北１８条西３-２１橋本ビル２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="橋本歯科医院" transform="ref(svg,14134.7165,-4308.1926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北央歯科,北海道札幌市北区北１９条西５-１-３５メゾンドエルム１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北央歯科" transform="ref(svg,14134.4461,-4308.3302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋山歯科医院,北海道札幌市北区北２２条西５,歯科,,,9" xlink:title="秋山歯科医院" transform="ref(svg,14134.3162,-4308.8267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）えんどう小児歯科・矯正歯科医院,北海道札幌市北区北２３条西３-２-２８第一高瀬ビル３階,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）えんどう小児歯科・矯正歯科医院" transform="ref(svg,14134.4918,-4308.9867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北２４条ターミナル歯科,北海道札幌市北区北２３条西４-２-１ターミナルハイツ２４-３１３,歯科　小児歯科,,,9" xlink:title="北２４条ターミナル歯科" transform="ref(svg,14134.4454,-4308.9839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平歯科医院,北海道札幌市北区北２３条西５-１８ブラザービル２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="平歯科医院" transform="ref(svg,14134.2852,-4308.945)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イエロー歯科２３,北海道札幌市北区北２３条西８-１-２３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="イエロー歯科２３" transform="ref(svg,14133.8138,-4308.8043)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）メモリアル会メモリアル歯科,北海道札幌市北区北２４条西２-３-２６,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）メモリアル会メモリアル歯科" transform="ref(svg,14134.7005,-4309.1729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ラビット歯科,北海道札幌市北区北２４条西４-１-２１モンレーブ２４　４階,歯科　矯正歯科　小児歯科,,,9" xlink:title="ラビット歯科" transform="ref(svg,14134.4247,-4309.0662)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）律英会鈴木歯科クリニック,北海道札幌市北区北２４条西４-１-６鈴木ビル２階,歯科　小児歯科,,,9" xlink:title="（医）律英会鈴木歯科クリニック" transform="ref(svg,14134.3843,-4309.0482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,湯浅歯科,北海道札幌市北区北２４条西５-２２まるへい商事２階,歯科,,,9" xlink:title="湯浅歯科" transform="ref(svg,14134.2582,-4309.0647)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エルムの杜デンタルクリニック,北海道札幌市北区北２４条西９-１-１スーパーアークス北２４条店,歯科　歯科口腔外科,,,9" xlink:title="エルムの杜デンタルクリニック" transform="ref(svg,14133.6198,-4309.0194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山形歯科クリニック,北海道札幌市北区北２４条西１３-１-３０,歯科　小児歯科,,,9" xlink:title="山形歯科クリニック" transform="ref(svg,14133.0731,-4308.8766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科２５Ｃｉｔｙ,北海道札幌市北区北２５条西４-１-２４-１０４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯科２５Ｃｉｔｙ" transform="ref(svg,14134.3778,-4309.2303)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たくまファミリー歯科,北海道札幌市北区北２５条西４-２-５マックスバリュー北店２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たくまファミリー歯科" transform="ref(svg,14134.2806,-4309.2053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）クローバー歯科,北海道札幌市北区北２５条西５プラザ２５　２階,歯科　小児歯科,,,9" xlink:title="（医）クローバー歯科" transform="ref(svg,14134.213,-4309.2214)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,澤野歯科,北海道札幌市北区北２６条西４-２-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="澤野歯科" transform="ref(svg,14134.3218,-4309.3471)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浦本歯科医院,北海道札幌市北区北２７条西４,歯科　矯正歯科　小児歯科,,,9" xlink:title="浦本歯科医院" transform="ref(svg,14134.2396,-4309.404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科クリニック,北海道札幌市北区北２７条西５-１-２８,歯科　矯正歯科　小児歯科,,,9" xlink:title="わたなべ歯科クリニック" transform="ref(svg,14134.183,-4309.3881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タナベ歯科医院,北海道札幌市北区北２７条西８-１-１９,歯科　小児歯科,,,9" xlink:title="タナベ歯科医院" transform="ref(svg,14133.7283,-4309.3063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,北海道札幌市北区北２９条西４ファミール札幌２０２,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14134.2721,-4309.6384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,北海道札幌市北区北３１条西４-３-３,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14134.1295,-4309.7979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北３２条歯科クリニック,北海道札幌市北区北３２条西３-３-１２南麻生ビル２階,歯科　小児歯科,,,9" xlink:title="北３２条歯科クリニック" transform="ref(svg,14134.2428,-4309.9599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,札幌愛児歯科医院,北海道札幌市北区北３２条西５-３-２７レガード北３２　２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="札幌愛児歯科医院" transform="ref(svg,14134.0276,-4309.9389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）明雄会ロピア歯科,北海道札幌市北区北３２条西１０-１-１ロピア北３２条２階,歯科　小児歯科,,,9" xlink:title="（医）明雄会ロピア歯科" transform="ref(svg,14133.2404,-4309.9038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）かむかむ歯科,北海道札幌市北区北３２条西１３-１-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）かむかむ歯科" transform="ref(svg,14132.9187,-4310.1341)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）こうじ歯科クリニック,北海道札幌市北区北３３条西４-２北３４条ターミナルハイツ１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）こうじ歯科クリニック" transform="ref(svg,14134.1457,-4310.0285)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青葉歯科医院,北海道札幌市北区北３３条西９-１-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="青葉歯科医院" transform="ref(svg,14133.4831,-4310.0477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おくやま歯科クリニック,北海道札幌市北区北３４条西５　ＳＴ３４-２階,歯科　小児歯科,,,9" xlink:title="おくやま歯科クリニック" transform="ref(svg,14133.9923,-4310.1178)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北斗デンタルクリニック,北海道札幌市北区北３５条西９-１-１２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北斗デンタルクリニック" transform="ref(svg,14133.3284,-4310.3929)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）直心会ユキ歯科医院,北海道札幌市北区北３７条西８-３６０-６４,歯科　小児歯科,,,9" xlink:title="（医）直心会ユキ歯科医院" transform="ref(svg,14133.559,-4310.6376)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まなみ歯科,北海道札幌市北区北３９条西５-２-８,歯科　小児歯科,,,9" xlink:title="まなみ歯科" transform="ref(svg,14133.8392,-4310.7226)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,プルミエ歯科クリニック,北海道札幌市北区北４０条西４札幌東急ストア麻生店２階,歯科　小児歯科,,,9" xlink:title="プルミエ歯科クリニック" transform="ref(svg,14133.8847,-4310.8465)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）麻生矯正歯科,北海道札幌市北区北４０条西４-２-１０麻生パステルセトビル３階,矯正歯科,,,9" xlink:title="（医）麻生矯正歯科" transform="ref(svg,14133.8744,-4310.8141)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小西歯科クリニック,北海道札幌市北区北４０条西４-２-１麻生メディカルビル４階,歯科　小児歯科,,,9" xlink:title="小西歯科クリニック" transform="ref(svg,14133.8918,-4310.7579)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,麻生エルム歯科,北海道札幌市北区北４０条西４-２-２０麻生むらもとビル２Ｆ,歯科　小児歯科,,,9" xlink:title="麻生エルム歯科" transform="ref(svg,14133.8714,-4310.8742)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中川歯科医院,北海道札幌市北区麻生町２-２-７,歯科　歯科口腔外科,,,9" xlink:title="中川歯科医院" transform="ref(svg,14133.9471,-4310.884)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）岩寺小児歯科医院,北海道札幌市北区麻生町２-４-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）岩寺小児歯科医院" transform="ref(svg,14133.9179,-4310.9375)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アルファ歯科クリニック,北海道札幌市北区麻生町３-１０-１３林ビル４階,歯科,,,9" xlink:title="アルファ歯科クリニック" transform="ref(svg,14133.8738,-4311.0273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科医院,北海道札幌市北区麻生町３-２-３,歯科,,,9" xlink:title="服部歯科医院" transform="ref(svg,14134.2481,-4310.9979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）よこやま矯正歯科,北海道札幌市北区麻生町４-１２-８麻生ＭＭビル７階,矯正歯科,,,9" xlink:title="（医）よこやま矯正歯科" transform="ref(svg,14133.8826,-4311.0853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,麻生歯科クリニック,北海道札幌市北区麻生町６麻生エントピア２階,歯科　小児歯科,,,9" xlink:title="麻生歯科クリニック" transform="ref(svg,14133.9621,-4311.1694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかせ歯科クリニック,北海道札幌市北区新琴似５条１-１-３０,歯科,,,9" xlink:title="たかせ歯科クリニック" transform="ref(svg,14133.1918,-4310.6492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｓタウンデンタルクリニック,北海道札幌市北区新琴似５条２-１-８　ＳタウンパストラハイムＧ棟,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="Ｓタウンデンタルクリニック" transform="ref(svg,14133.0391,-4310.887)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新琴似ファミリー歯科,北海道札幌市北区新琴似５条２-３-１８,歯科　小児歯科,,,9" xlink:title="新琴似ファミリー歯科" transform="ref(svg,14132.8969,-4310.9316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂田歯科医院,北海道札幌市北区新琴似８条１-１-４５坂田ビル,歯科,,,9" xlink:title="坂田歯科医院" transform="ref(svg,14133.6808,-4311.2168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清水歯科クリニック,北海道札幌市北区新琴似８条２-１-１３,歯科　小児歯科,,,9" xlink:title="（医）清水歯科クリニック" transform="ref(svg,14133.1992,-4311.2866)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ため歯科クリニック,北海道札幌市北区新琴似９条１-８７３,歯科　小児歯科,,,9" xlink:title="ため歯科クリニック" transform="ref(svg,14133.6189,-4311.3238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）杉歯科医院新琴似歯科クリニック,北海道札幌市北区新琴似１０条２-１-１０,歯科　小児歯科,,,9" xlink:title="（医）杉歯科医院新琴似歯科クリニック" transform="ref(svg,14133.6241,-4311.5381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,勤医協きたく歯科診療所,北海道札幌市北区新琴似１０条２-４-９,歯科　小児歯科,,,9" xlink:title="勤医協きたく歯科診療所" transform="ref(svg,14133.5619,-4311.6077)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）天祐会札幌アート歯科クリニック,北海道札幌市北区新琴似１０条７-７-１３,歯科　小児歯科,,,9" xlink:title="（医）天祐会札幌アート歯科クリニック" transform="ref(svg,14132.9925,-4311.9937)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,廻歯科診療所,北海道札幌市北区新琴似１２条６-３-７,歯科,,,9" xlink:title="廻歯科診療所" transform="ref(svg,14133.2245,-4312.161)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小路口歯科,北海道札幌市北区屯田３条４-２-４１,歯科　小児歯科,,,9" xlink:title="小路口歯科" transform="ref(svg,14133.5736,-4312.5009)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,屯田歯科医院,北海道札幌市北区屯田３条６-７-１３,歯科,,,9" xlink:title="屯田歯科医院" transform="ref(svg,14132.9251,-4312.8085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川歯科医院,北海道札幌市北区屯田４条１-１３８-１４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="石川歯科医院" transform="ref(svg,14134.4222,-4312.8179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｌａｌａガーデン歯科,北海道札幌市北区屯田４条２-７-３３,歯科　小児歯科,,,9" xlink:title="Ｌａｌａガーデン歯科" transform="ref(svg,14134.2401,-4312.9087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）高瀬歯科医院,北海道札幌市北区屯田４条４,歯科　小児歯科,,,9" xlink:title="（医）高瀬歯科医院" transform="ref(svg,14133.6958,-4312.9174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉村歯科医院,北海道札幌市北区屯田４条６-７-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="杉村歯科医院" transform="ref(svg,14132.9426,-4313.0352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわむら歯科クリニック,北海道札幌市北区屯田６条２-９-１１,歯科　小児歯科,,,9" xlink:title="かわむら歯科クリニック" transform="ref(svg,14134.3243,-4313.454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おゝた屯田歯科医院,北海道札幌市北区屯田７条８-１-１,歯科　小児歯科,,,9" xlink:title="おゝた屯田歯科医院" transform="ref(svg,14132.8484,-4313.7158)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,札幌マスター歯科・矯正歯科クリニック,北海道札幌市北区屯田８条３-５-１イトーヨーカドー屯田店２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="札幌マスター歯科・矯正歯科クリニック" transform="ref(svg,14134.0709,-4314.0245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アリス歯科クリニック,北海道札幌市北区屯田８条４-１-１７,歯科　小児歯科,,,9" xlink:title="アリス歯科クリニック" transform="ref(svg,14133.9192,-4313.9487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ばんどう歯科医院,北海道札幌市北区屯田９条２-１-１０,歯科　小児歯科,,,9" xlink:title="ばんどう歯科医院" transform="ref(svg,14134.4752,-4314.0548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科,北海道札幌市北区太平３条４-２-６,歯科,,,9" xlink:title="渡辺歯科" transform="ref(svg,14134.9538,-4312.6965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかお歯科クリニック,北海道札幌市北区太平５条３-１-６,歯科　小児歯科,,,9" xlink:title="なかお歯科クリニック" transform="ref(svg,14134.9811,-4312.9481)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こすみ歯科クリニック,北海道札幌市北区太平７条４-３-１,歯科　小児歯科,,,9" xlink:title="こすみ歯科クリニック" transform="ref(svg,14135.2746,-4313.2067)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三好歯科医院,北海道札幌市北区太平９条５-１-１６,歯科,,,9" xlink:title="三好歯科医院" transform="ref(svg,14135.6148,-4313.3457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）澪和会百合が原いとう歯科クリニック,北海道札幌市北区太平９条７-１-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）澪和会百合が原いとう歯科クリニック" transform="ref(svg,14135.9663,-4313.2906)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）秀英会太平歯科医院,北海道札幌市北区太平１０条３-３-１マルシン太平ビル１階,歯科　小児歯科,,,9" xlink:title="（医）秀英会太平歯科医院" transform="ref(svg,14135.363,-4313.5816)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川上歯科クリニック,北海道札幌市北区太平１２条４-８-１２,歯科,,,9" xlink:title="川上歯科クリニック" transform="ref(svg,14135.7004,-4313.8391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,どう歯科クリニック,北海道札幌市北区百合が原９-１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="どう歯科クリニック" transform="ref(svg,14136.7049,-4313.5265)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）廣仁会しのろ歯科,北海道札幌市北区篠路２条４-５-１６メディコア篠路１階,歯科,,,9" xlink:title="（医）廣仁会しのろ歯科" transform="ref(svg,14135.7215,-4314.4061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしやま歯科医院,北海道札幌市北区篠路２条５-１-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="にしやま歯科医院" transform="ref(svg,14135.8418,-4314.1875)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）賢裕会篠路平川歯科医院,北海道札幌市北区篠路２条６-２８-２８８・２９２,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）賢裕会篠路平川歯科医院" transform="ref(svg,14136.2381,-4314.3029)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）箱木歯科,北海道札幌市北区篠路３条５-１-２０,歯科　小児歯科,,,9" xlink:title="（医）箱木歯科" transform="ref(svg,14135.9234,-4314.5893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,砂山歯科医院,北海道札幌市北区篠路３条７-９-１６対馬ビル２階,歯科　小児歯科,,,9" xlink:title="砂山歯科医院" transform="ref(svg,14136.5218,-4314.2945)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおみや歯科医院,北海道札幌市北区篠路３条１０-１５８-３４,歯科,,,9" xlink:title="おおみや歯科医院" transform="ref(svg,14137.2949,-4314.3556)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）健志会フラワーデンタルオフィス,北海道札幌市北区篠路４条６-１１-１８,歯科　小児歯科,,,9" xlink:title="（医）健志会フラワーデンタルオフィス" transform="ref(svg,14136.2946,-4314.5876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）池田ファミリー歯科,北海道札幌市北区篠路４条８-１-１８,歯科　小児歯科,,,9" xlink:title="（医）池田ファミリー歯科" transform="ref(svg,14136.6574,-4314.7188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しのろ歯科クリニック,北海道札幌市北区篠路６条４-４-２０水上ビル１階,歯科　小児歯科,,,9" xlink:title="しのろ歯科クリニック" transform="ref(svg,14135.9666,-4315.0336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）健生会篠路山田歯科,北海道札幌市北区篠路６条５-１５８-１０４,歯科　小児歯科,,,9" xlink:title="（医）健生会篠路山田歯科" transform="ref(svg,14136.0335,-4315.085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村デンタルクリニック,北海道札幌市北区篠路７条１-１-１,歯科　小児歯科,,,9" xlink:title="木村デンタルクリニック" transform="ref(svg,14135.1995,-4315.2298)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,北海道札幌市北区篠路８条６-１３-１８,歯科　小児歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,14136.4306,-4315.2336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ニコ小児歯科医院,北海道札幌市北区拓北２条２-８-１１,小児歯科,,,9" xlink:title="ニコ小児歯科医院" transform="ref(svg,14137.6559,-4314.9913)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわしま歯科医院,北海道札幌市北区拓北４条２-８-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="かわしま歯科医院" transform="ref(svg,14137.7483,-4315.3112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,リーフ歯科クリニック,北海道札幌市北区拓北５条２-１１-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="リーフ歯科クリニック" transform="ref(svg,14137.9749,-4315.4093)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしざき歯科,北海道札幌市北区拓北６条３-１-２６みのしまビル２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="いしざき歯科" transform="ref(svg,14138.0715,-4315.5845)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水本歯科医院,北海道札幌市北区拓北６条３-２-８,歯科,,,9" xlink:title="水本歯科医院" transform="ref(svg,14138.1667,-4315.6605)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,札幌ファミリー歯科医院,北海道札幌市北区あいの里１条４-１２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="札幌ファミリー歯科医院" transform="ref(svg,14139.6855,-4315.7261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）にいで歯科医院,北海道札幌市北区あいの里１条４-９-１０,歯科　小児歯科,,,9" xlink:title="（医）にいで歯科医院" transform="ref(svg,14139.6655,-4315.8)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ローズ歯科,北海道札幌市北区あいの里１条５-２生協あいの里店２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="ローズ歯科" transform="ref(svg,14139.8481,-4315.6769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいの里歯科医院,北海道札幌市北区あいの里１条６-２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="あいの里歯科医院" transform="ref(svg,14140.0131,-4315.6123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえまつ歯科医院,北海道札幌市北区あいの里２条３-１６-５,歯科　小児歯科,,,9" xlink:title="うえまつ歯科医院" transform="ref(svg,14139.1453,-4315.8978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,てるぬま歯科医院,北海道札幌市北区あいの里３条６-３-２７,歯科　小児歯科　矯正歯科,,,9" xlink:title="てるぬま歯科医院" transform="ref(svg,14140.2376,-4316.2184)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいあい歯科クリニック,北海道札幌市北区あいの里３条７-１６-１９,歯科　小児歯科　矯正歯科,,,9" xlink:title="あいあい歯科クリニック" transform="ref(svg,14140.961,-4316.0855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みとべ歯科医院,北海道札幌市北区あいの里４条５-２-２,歯科　小児歯科,,,9" xlink:title="みとべ歯科医院" transform="ref(svg,14139.6247,-4316.4839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,卸センター歯科,北海道札幌市東区北６条東３,歯科,,,9" xlink:title="卸センター歯科" transform="ref(svg,14135.8626,-4306.9457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かずさか歯科,北海道札幌市東区北７条東８-２-５,歯科　小児歯科,,,9" xlink:title="かずさか歯科" transform="ref(svg,14136.5845,-4307.1976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホップ歯科,北海道札幌市東区北７条東９-２-２０アリオ札幌３階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ホップ歯科" transform="ref(svg,14137.028,-4307.115)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イヴ・デンタルクリニック,北海道札幌市東区北８条東１-１-４０,歯科　小児歯科,,,9" xlink:title="イヴ・デンタルクリニック" transform="ref(svg,14135.5351,-4307.1156)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,庄内歯科医院,北海道札幌市東区北８条東１３-１-１５,歯科,,,9" xlink:title="庄内歯科医院" transform="ref(svg,14137.4002,-4307.3673)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,北海道札幌市東区北９条東１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14135.4689,-4307.2511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ポプラ歯科クリニック,北海道札幌市東区北９条東８-２-６,歯科　小児歯科,,,9" xlink:title="ポプラ歯科クリニック" transform="ref(svg,14136.5003,-4307.454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,刈谷歯科医院,北海道札幌市東区北１０条東１,歯科,,,9" xlink:title="刈谷歯科医院" transform="ref(svg,14135.4409,-4307.3818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北１０条デンタルオフィス,北海道札幌市東区北１０条東３-２-３０プログレースコート６番館,歯科　矯正歯科　小児歯科,,,9" xlink:title="北１０条デンタルオフィス" transform="ref(svg,14135.8619,-4307.4775)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あらき歯科クリニック,北海道札幌市東区北１０条東５-１-４０,歯科　小児歯科,,,9" xlink:title="あらき歯科クリニック" transform="ref(svg,14136.1847,-4307.4312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白樺歯科医院,北海道札幌市東区北１０条東７村川ビル,歯科　矯正歯科　小児歯科,,,9" xlink:title="白樺歯科医院" transform="ref(svg,14136.3853,-4307.5469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおつか歯科,北海道札幌市東区北１１条東１-２-１２ティアラトリプル１デムビル１階,歯科　小児歯科,,,9" xlink:title="おおつか歯科" transform="ref(svg,14135.4523,-4307.5431)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろ歯科クリニック,北海道札幌市東区北１１条東３-３-１２クボタビル２階,歯科　小児歯科,,,9" xlink:title="ひろ歯科クリニック" transform="ref(svg,14135.8105,-4307.5858)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,北海道札幌市東区北１１条東５-２-３３,歯科　小児歯科,,,9" xlink:title="清水歯科医院" transform="ref(svg,14136.1211,-4307.6324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北光歯科クリニック,北海道札幌市東区北１１条東８-２３６高岡ビル１階,歯科　小児歯科,,,9" xlink:title="北光歯科クリニック" transform="ref(svg,14136.449,-4307.6551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）前田会前田歯科医院,北海道札幌市東区北１２条東７ワコービル３階,歯科,,,9" xlink:title="（医）前田会前田歯科医院" transform="ref(svg,14136.3227,-4307.693)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科診療所,北海道札幌市東区北１２条東９,歯科,,,9" xlink:title="さとう歯科診療所" transform="ref(svg,14136.6481,-4307.8185)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）熊谷歯科医院,北海道札幌市東区北１３条東１-１-１５Ｎ．ＢＬＤＧ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）熊谷歯科医院" transform="ref(svg,14135.289,-4307.7533)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クレスト歯科クリニック,北海道札幌市東区北１３条東１２-１-１８クレストビル,歯科　矯正歯科　小児歯科,,,9" xlink:title="クレスト歯科クリニック" transform="ref(svg,14137.0735,-4307.9176)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,北海道札幌市東区北１３条東１５-３-２,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,14137.5422,-4307.9915)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハート歯科クリニック,北海道札幌市東区北１４条東３-１-３０フレッティ光星店２階,歯科　小児歯科,,,9" xlink:title="ハート歯科クリニック" transform="ref(svg,14135.7076,-4307.8979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,光星歯科医院,北海道札幌市東区北１４条東７マサハルビル２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="光星歯科医院" transform="ref(svg,14136.3835,-4307.9485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）郁栄会札幌デンタルクリニック,北海道札幌市東区北１５条東１-１-２８岡内ビル１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）郁栄会札幌デンタルクリニック" transform="ref(svg,14135.2516,-4307.9081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保田歯科医院,北海道札幌市東区北１５条東６-４-４４,歯科,,,9" xlink:title="久保田歯科医院" transform="ref(svg,14136.1495,-4308.1191)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あらい歯科・小児歯科医院,北海道札幌市東区北１５条東７-１-３０,歯科　小児歯科,,,9" xlink:title="あらい歯科・小児歯科医院" transform="ref(svg,14136.3597,-4308.0634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イースト歯科,北海道札幌市東区北１５条東９-１-２５,歯科　小児歯科,,,9" xlink:title="イースト歯科" transform="ref(svg,14136.6959,-4308.1056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アイディール歯科クリニック,北海道札幌市東区北１５条東１３-２-３７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アイディール歯科クリニック" transform="ref(svg,14137.0711,-4308.1657)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コスモ歯科クリニック,北海道札幌市東区北１５条東１６-１-２第２菱本ビル２階,歯科　小児歯科,,,9" xlink:title="コスモ歯科クリニック" transform="ref(svg,14137.494,-4308.2189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,協和歯科クリニック,北海道札幌市東区北１６条東１-９-６パンシオンＮ１６　１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="協和歯科クリニック" transform="ref(svg,14135.2112,-4308.0446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）鈴木歯科医院,北海道札幌市東区北１６条東１５-２-２２,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）鈴木歯科医院" transform="ref(svg,14137.4,-4308.3318)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北愛歯科クリニック,北海道札幌市東区北１６条東１６-１-１３北愛メディカルビル３階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北愛歯科クリニック" transform="ref(svg,14137.4543,-4308.4065)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,環状通東歯科,北海道札幌市東区北１６条東１６-４-１５,歯科,,,9" xlink:title="環状通東歯科" transform="ref(svg,14137.581,-4308.3088)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしかわ歯科クリニック,北海道札幌市東区北１７条東１３-１-１４セイコーマートくぼた２階,歯科　小児歯科,,,9" xlink:title="いしかわ歯科クリニック" transform="ref(svg,14136.9658,-4308.4536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかもとファミリー歯科,北海道札幌市東区北１７条東１６-１-１０フードセンター元町店２階,歯科　小児歯科,,,9" xlink:title="さかもとファミリー歯科" transform="ref(svg,14137.4265,-4308.4969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はやし歯科クリニック,北海道札幌市東区北１７条東１９-１-１,歯科,,,9" xlink:title="はやし歯科クリニック" transform="ref(svg,14138.0113,-4308.4443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,北海道札幌市東区北１８条東１-１３-４１,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,14135.1364,-4308.3455)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,北海道札幌市東区北１８条東１６-４-２３,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14137.5593,-4308.5677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のぞみ歯科クリニック,北海道札幌市東区北２０条東８-２-３,歯科　矯正歯科,,,9" xlink:title="のぞみ歯科クリニック" transform="ref(svg,14136.2491,-4308.7488)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂本歯科医院,北海道札幌市東区北２０条東１８-２-３,歯科,,,9" xlink:title="坂本歯科医院" transform="ref(svg,14137.6765,-4308.9524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みかほ歯科医院,北海道札幌市東区北２１条東１-３-２２,歯科,,,9" xlink:title="みかほ歯科医院" transform="ref(svg,14135.2012,-4308.8071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荘司歯科医院,北海道札幌市東区北２１条東１４-３-３,歯科,,,9" xlink:title="荘司歯科医院" transform="ref(svg,14136.951,-4309.0395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）もとまちデンタルオフィス,北海道札幌市東区北２１条東１６-１-１１島田ビル２階,歯科,,,9" xlink:title="（医）もとまちデンタルオフィス" transform="ref(svg,14137.2923,-4309.0686)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ドゥケア歯科矯正歯科クリニック,北海道札幌市東区北２１条東１６-２-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）ドゥケア歯科矯正歯科クリニック" transform="ref(svg,14137.4185,-4309.0966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オーラルセラピーデンタルオフィス,北海道札幌市東区北２１条東２０-２-２１,歯科,,,9" xlink:title="オーラルセラピーデンタルオフィス" transform="ref(svg,14138.0889,-4309.1083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおの歯科クリニック,北海道札幌市東区北２１条東２０-３-１７,歯科　小児歯科,,,9" xlink:title="おおの歯科クリニック" transform="ref(svg,14138.1647,-4309.109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）松川歯科医院,北海道札幌市東区北２２条東７-２-２６,歯科,,,9" xlink:title="（医）松川歯科医院" transform="ref(svg,14136.1059,-4309.0545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エル歯科クリニック,北海道札幌市東区北２２条東１５-４-１２グランドハイツ馬酔木ＭＳ１階,歯科　小児歯科,,,9" xlink:title="エル歯科クリニック" transform="ref(svg,14137.167,-4309.2162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝口歯科医院,北海道札幌市東区北２２条東１８-３-６,歯科,,,9" xlink:title="滝口歯科医院" transform="ref(svg,14137.6108,-4309.2347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おがさわら歯科医院,北海道札幌市東区北２２条東１８-７-１９,歯科　小児歯科,,,9" xlink:title="おがさわら歯科医院" transform="ref(svg,14137.8394,-4309.1838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アイ歯科,北海道札幌市東区北２３条東８-２-３あららぎビル,歯科　矯正歯科　小児歯科,,,9" xlink:title="アイ歯科" transform="ref(svg,14136.1398,-4309.1373)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科クリニック,北海道札幌市東区北２３条東８-４-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひまわり歯科クリニック" transform="ref(svg,14136.2038,-4309.2545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホンマ歯科,北海道札幌市東区北２３条東１６-１-１８,歯科,,,9" xlink:title="ホンマ歯科" transform="ref(svg,14137.2134,-4309.3877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科矯正歯科クリニック,北海道札幌市東区北２３条東１９-３-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="田中歯科矯正歯科クリニック" transform="ref(svg,14137.9984,-4309.4404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,戸田歯科医院,北海道札幌市東区北２３条東２１-１-２,歯科,,,9" xlink:title="戸田歯科医院" transform="ref(svg,14138.3313,-4309.3596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北２４条よこやま歯科,北海道札幌市東区北２４条東２-５-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北２４条よこやま歯科" transform="ref(svg,14135.216,-4309.1582)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星井歯科医院,北海道札幌市東区北２４条東７-２-１４,歯科,,,9" xlink:title="星井歯科医院" transform="ref(svg,14136.0396,-4309.3422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）志尚会柳澤歯科医院,北海道札幌市東区北２４条東２１-１-１元町ビル２階,歯科,,,9" xlink:title="（医）志尚会柳澤歯科医院" transform="ref(svg,14138.3682,-4309.4522)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）賢裕会平川歯科医院,北海道札幌市東区北２５条東５-３-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）賢裕会平川歯科医院" transform="ref(svg,14135.6777,-4309.4227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかきた歯科クリニック,北海道札幌市東区北２５条東１６-１-１玉手ビル２階,歯科,,,9" xlink:title="なかきた歯科クリニック" transform="ref(svg,14137.1804,-4309.5179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サンライズ元町歯科クリニック,北海道札幌市東区北２５条東１６-１-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="サンライズ元町歯科クリニック" transform="ref(svg,14137.1796,-4309.5515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）東彩会元町駅前歯科,北海道札幌市東区北２５条東１６-４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）東彩会元町駅前歯科" transform="ref(svg,14137.2314,-4309.5264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）サカキ歯科医院,北海道札幌市東区北２６条東１０-３-２１,歯科,,,9" xlink:title="（医）サカキ歯科医院" transform="ref(svg,14136.4564,-4309.5958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平井歯科,北海道札幌市東区北２６条東２１-５-１５,歯科　小児歯科,,,9" xlink:title="平井歯科" transform="ref(svg,14138.4319,-4309.7815)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北栄歯科クリニック,北海道札幌市東区北２８条東１-４-１６,歯科　小児歯科,,,9" xlink:title="北栄歯科クリニック" transform="ref(svg,14134.9832,-4309.6762)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおしま歯科,北海道札幌市東区北２８条東８-１-２３,歯科　小児歯科,,,9" xlink:title="おおしま歯科" transform="ref(svg,14136.034,-4309.7497)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アクア歯科クリニック,北海道札幌市東区北２８条東８-４０９-２エスポワール２８,歯科　小児歯科,,,9" xlink:title="アクア歯科クリニック" transform="ref(svg,14136.0845,-4309.8321)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡部歯科クリニック,北海道札幌市東区北２８条東１５-１-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="渡部歯科クリニック" transform="ref(svg,14137.0259,-4309.867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,元町歯科診療所,北海道札幌市東区北２８条東１９-２-２,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="元町歯科診療所" transform="ref(svg,14137.757,-4310.0509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八木歯科医院,北海道札幌市東区北２８条東１９-２-１８,歯科,,,9" xlink:title="八木歯科医院" transform="ref(svg,14137.7966,-4310.0409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）加藤歯科医院,北海道札幌市東区北３０条東７-７８１,歯科,,,9" xlink:title="（医）加藤歯科医院" transform="ref(svg,14135.8908,-4309.9217)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,庭瀬歯科医院,北海道札幌市東区北３１条東１-６-２６,歯科　小児歯科,,,9" xlink:title="庭瀬歯科医院" transform="ref(svg,14134.9365,-4309.8622)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）仁和会イオン元町歯科クリニック,北海道札幌市東区北３１条東１５-１-１イオン札幌元町ショッピングセンター３階,歯科　小児歯科,,,9" xlink:title="（医）仁和会イオン元町歯科クリニック" transform="ref(svg,14136.8136,-4310.1786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新道東まつざわ歯科,北海道札幌市東区北３１条東１６-１-６,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="新道東まつざわ歯科" transform="ref(svg,14137.0275,-4310.1311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤森歯科医院,北海道札幌市東区北３２条東１-６-１２,歯科,,,9" xlink:title="藤森歯科医院" transform="ref(svg,14134.7935,-4310.0021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みのり歯科クリニック,北海道札幌市東区北３３条東１-１-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="みのり歯科クリニック" transform="ref(svg,14134.535,-4310.0999)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本間歯科医院,北海道札幌市東区北３３条東７-２-１８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="本間歯科医院" transform="ref(svg,14135.8089,-4310.2235)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アガサ歯科クリニック,北海道札幌市東区北３３条東１５-２-１６モンレーブ新道東１階,歯科　矯正歯科　小児歯科,,,9" xlink:title="アガサ歯科クリニック" transform="ref(svg,14136.9097,-4310.3405)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤塚歯科医院,北海道札幌市東区北３３条東１６-４-１０,歯科,,,9" xlink:title="赤塚歯科医院" transform="ref(svg,14137.0312,-4310.3932)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）三志会たけいし歯科クリニック,北海道札幌市東区北３４条東１６-１-３０札幌フードセンター新道店,歯科　小児歯科,,,9" xlink:title="（医）三志会たけいし歯科クリニック" transform="ref(svg,14137.02,-4310.5116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）美歯会河村歯科クリニック,北海道札幌市東区北３５条東３-１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）美歯会河村歯科クリニック" transform="ref(svg,14135.065,-4310.3533)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）みさき歯科クリニック,北海道札幌市東区北３５条東８-１-１,歯科　小児歯科,,,9" xlink:title="（医）みさき歯科クリニック" transform="ref(svg,14135.819,-4310.4262)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科,北海道札幌市東区北３５条東２８-９-１５,歯科　小児歯科,,,9" xlink:title="ささき歯科" transform="ref(svg,14139.3654,-4309.9752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,第一歯科クリニック,北海道札幌市東区北３６条東２３-５-２３,歯科　小児歯科,,,9" xlink:title="第一歯科クリニック" transform="ref(svg,14138.4232,-4310.6107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山歯科医院,北海道札幌市東区北３６条東２６-２-３２第２トレジャービル,歯科,,,9" xlink:title="中山歯科医院" transform="ref(svg,14138.7999,-4310.3048)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くぼやま歯科医院,北海道札幌市東区北３７条東２０-４５５,歯科　小児歯科,,,9" xlink:title="くぼやま歯科医院" transform="ref(svg,14137.5507,-4310.8453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）福歯会中田歯科北３８条クリニック,北海道札幌市東区北３８条東８-２-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）福歯会中田歯科北３８条クリニック" transform="ref(svg,14135.7254,-4310.7848)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しろくま歯科,北海道札幌市東区北４０条東１５-２-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="しろくま歯科" transform="ref(svg,14136.7234,-4311.1367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みうら歯科クリニック,北海道札幌市東区北４１条東３-３-１,歯科　小児歯科,,,9" xlink:title="みうら歯科クリニック" transform="ref(svg,14134.8434,-4311.0087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）多田歯科医院,北海道札幌市東区北４１条東４-２-１６エバグリン北４１条ＭＳ,歯科　小児歯科,,,9" xlink:title="（医）多田歯科医院" transform="ref(svg,14135.0934,-4311.0363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹中歯科医院,北海道札幌市東区北４１条東７-３-６,歯科　小児歯科,,,9" xlink:title="竹中歯科医院" transform="ref(svg,14135.4786,-4311.1012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フジ歯科クリニック,北海道札幌市東区北４１条東８-１-３,歯科　小児歯科,,,9" xlink:title="フジ歯科クリニック" transform="ref(svg,14135.6531,-4311.0454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）純生会栄町駅前ファミリー歯科,北海道札幌市東区北４１条東１５-２-１４　２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）純生会栄町駅前ファミリー歯科" transform="ref(svg,14136.6811,-4311.2765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）友田歯科,北海道札幌市東区北４１条東１５-２-５,歯科,,,9" xlink:title="（医）友田歯科" transform="ref(svg,14136.5958,-4311.2602)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）歯正会東豊歯科医院,北海道札幌市東区北４１条東１５-３-２２,歯科　小児歯科,,,9" xlink:title="（医）歯正会東豊歯科医院" transform="ref(svg,14136.7114,-4311.1641)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つどーむ前佐々木歯科,北海道札幌市東区北４１条東１９-３-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="つどーむ前佐々木歯科" transform="ref(svg,14137.338,-4311.3632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江口歯科医院,北海道札幌市東区北４２条東８札木ビル１階,歯科,,,9" xlink:title="江口歯科医院" transform="ref(svg,14135.6295,-4311.2322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）朗立会栄町ウェル歯科クリニック,北海道札幌市東区北４２条東１６-１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）朗立会栄町ウェル歯科クリニック" transform="ref(svg,14136.7372,-4311.3342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ここねデンタルクリニック,北海道札幌市東区北４４条東１０-１-２０,歯科　小児歯科,,,9" xlink:title="ここねデンタルクリニック" transform="ref(svg,14135.9945,-4311.4714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）山本歯科クリニック,北海道札幌市東区北４４条東１５-３-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）山本歯科クリニック" transform="ref(svg,14136.6239,-4311.5532)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小松歯科医院,北海道札幌市東区北４６条東５-１-１,歯科,,,9" xlink:title="小松歯科医院" transform="ref(svg,14135.0468,-4311.5856)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スミエ歯科医院,北海道札幌市東区北４６条東８-２-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="スミエ歯科医院" transform="ref(svg,14135.5652,-4311.6454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コレクト歯科医院,北海道札幌市東区北４８条東３-１-１２,歯科　小児歯科,,,9" xlink:title="コレクト歯科医院" transform="ref(svg,14134.6787,-4311.8637)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）こやま歯科診療室,北海道札幌市東区北４８条東７-４-１０,歯科　小児歯科,,,9" xlink:title="（医）こやま歯科診療室" transform="ref(svg,14135.3606,-4311.9503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）北星会コア歯科クリニック,北海道札幌市東区北４９条東７-２-１６,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）北星会コア歯科クリニック" transform="ref(svg,14135.3905,-4312.1209)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ブリストルデンタルクリニック,北海道札幌市東区北４９条東１４-１１-１,歯科　歯科口腔外科,,,9" xlink:title="ブリストルデンタルクリニック" transform="ref(svg,14136.2797,-4312.1077)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松村歯科医院,北海道札幌市東区東苗穂１条３-１-２０,歯科　小児歯科,,,9" xlink:title="松村歯科医院" transform="ref(svg,14140.0716,-4307.8426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みつか歯科クリニック,北海道札幌市東区東苗穂２条３-１-１イオン札幌苗穂ショッピングセンター２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="みつか歯科クリニック" transform="ref(svg,14140.3747,-4307.9821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）豊生会東苗穂にじいろ歯科クリニック,北海道札幌市東区東苗穂３条１-２-９０,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）豊生会東苗穂にじいろ歯科クリニック" transform="ref(svg,14139.9385,-4308.7719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なのはな歯科,北海道札幌市東区東苗穂３条１-３-３０,歯科　矯正歯科　小児歯科,,,9" xlink:title="なのはな歯科" transform="ref(svg,14140.3346,-4308.6861)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うおづ歯科医院,北海道札幌市東区東苗穂４条２メディカル棟２階,歯科　小児歯科,,,9" xlink:title="うおづ歯科医院" transform="ref(svg,14140.4389,-4308.7054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,北海道札幌市東区東苗穂６条１-１７-３３,歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,14140.6335,-4309.2636)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふゆの歯科クリニック,北海道札幌市東区東苗穂６条２-６-１５,歯科　小児歯科,,,9" xlink:title="ふゆの歯科クリニック" transform="ref(svg,14141.0984,-4309.2525)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くしびき歯科クリニック,北海道札幌市東区東苗穂７条３-４-５,歯科　小児歯科,,,9" xlink:title="くしびき歯科クリニック" transform="ref(svg,14141.2744,-4309.402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ラベンダー歯科,北海道札幌市東区東苗穂８条１-１８-１ホクレンショップ１階,歯科　小児歯科,,,9" xlink:title="ラベンダー歯科" transform="ref(svg,14140.9344,-4309.957)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かえで歯科,北海道札幌市東区東苗穂８条２-１４-５,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="かえで歯科" transform="ref(svg,14141.3861,-4309.7908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）豊島歯科医院,北海道札幌市東区東苗穂８条３-２-５,歯科,,,9" xlink:title="（医）豊島歯科医院" transform="ref(svg,14141.446,-4309.6132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北山デンタルクリニック,北海道札幌市東区東苗穂９条１-１-１６,歯科　小児歯科,,,9" xlink:title="北山デンタルクリニック" transform="ref(svg,14140.8571,-4310.0509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）森田歯科医院,北海道札幌市東区東苗穂９条３-５-５,歯科,,,9" xlink:title="（医）森田歯科医院" transform="ref(svg,14141.8196,-4309.7938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）札苗歯科医院,北海道札幌市東区東苗穂１０条２-１０-３０,歯科　小児歯科,,,9" xlink:title="（医）札苗歯科医院" transform="ref(svg,14141.6574,-4310.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科,北海道札幌市東区東苗穂１１条３-１５-３,歯科,,,9" xlink:title="清水歯科" transform="ref(svg,14141.998,-4310.3376)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）北翔会光聖歯科クリニック,北海道札幌市東区東苗穂１２条３-２１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）北翔会光聖歯科クリニック" transform="ref(svg,14142.1557,-4310.5496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フォース歯科,北海道札幌市東区東苗穂１３条１-２-１キャリア１３．１　２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="フォース歯科" transform="ref(svg,14141.6878,-4310.8512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林田歯科矯正歯科医院,北海道札幌市東区東苗穂１３条２-１６-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="林田歯科矯正歯科医院" transform="ref(svg,14142.0269,-4310.8717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）律英会東雁来ファミリー歯科,北海道札幌市東区東雁来町１９８-８８,歯科　小児歯科,,,9" xlink:title="（医）律英会東雁来ファミリー歯科" transform="ref(svg,14143.0464,-4309.672)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かりき歯科クリニック,北海道札幌市東区東雁来８条１-７-２０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かりき歯科クリニック" transform="ref(svg,14141.9605,-4309.5488)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科,北海道札幌市東区伏古１条４-１-６,歯科　小児歯科,,,9" xlink:title="田中歯科" transform="ref(svg,14138.9213,-4308.1672)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀川歯科医院,北海道札幌市東区伏古２条４-３-１,歯科,,,9" xlink:title="堀川歯科医院" transform="ref(svg,14139.0728,-4308.3588)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウィーン歯科,北海道札幌市東区伏古５条４-１-９ふしこビル２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ウィーン歯科" transform="ref(svg,14139.3652,-4308.7301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ファミリー会永山ファミリー歯科クリニック,北海道札幌市東区伏古７条４-１-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）ファミリー会永山ファミリー歯科クリニック" transform="ref(svg,14139.5208,-4308.9355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ふしこ歯科医院,北海道札幌市東区伏古８条３-６,歯科　小児歯科,,,9" xlink:title="（医）ふしこ歯科医院" transform="ref(svg,14139.6464,-4309.1653)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,勤医協札幌ふしこ歯科診療所,北海道札幌市東区伏古１０条３-２-１,歯科　小児歯科,,,9" xlink:title="勤医協札幌ふしこ歯科診療所" transform="ref(svg,14139.5073,-4309.6023)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科クリニック,北海道札幌市東区伏古１２条５-８-２５,歯科　矯正歯科　小児歯科,,,9" xlink:title="田中歯科クリニック" transform="ref(svg,14140.4749,-4309.6647)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）空港通り歯科,北海道札幌市東区伏古１４条４-１-３,歯科　小児歯科,,,9" xlink:title="（医）空港通り歯科" transform="ref(svg,14140.4904,-4310.2171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）丘珠歯科医院,北海道札幌市東区丘珠町６５１-３３,歯科,,,9" xlink:title="（医）丘珠歯科医院" transform="ref(svg,14140.3303,-4311.956)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかもと歯科クリニック,北海道札幌市東区北丘珠１条２-５９１-３２,歯科　小児歯科,,,9" xlink:title="おかもと歯科クリニック" transform="ref(svg,14140.8204,-4312.2445)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本村歯科・矯正歯科医院,北海道札幌市東区北丘珠３条１-２１-２２,歯科　矯正歯科,,,9" xlink:title="本村歯科・矯正歯科医院" transform="ref(svg,14140.2868,-4312.5264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さわで歯科医院,北海道札幌市東区本町１条１-１-１鹿内ビル,歯科,,,9" xlink:title="さわで歯科医院" transform="ref(svg,14137.8314,-4307.9571)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大谷歯科医院,北海道札幌市東区本町１条４-１-２０,歯科,,,9" xlink:title="大谷歯科医院" transform="ref(svg,14138.5961,-4307.7151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はた歯科医院,北海道札幌市東区本町１条４-７-１,歯科　小児歯科,,,9" xlink:title="はた歯科医院" transform="ref(svg,14138.6506,-4307.8268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平川歯科医院,北海道札幌市東区本町２条３-６-１３,歯科,,,9" xlink:title="平川歯科医院" transform="ref(svg,14138.7243,-4308.0321)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しぎの歯科クリニック,北海道札幌市東区本町２条６-６-３８,歯科　小児歯科,,,9" xlink:title="しぎの歯科クリニック" transform="ref(svg,14139.3236,-4307.8319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コモンズ歯科クリニック,北海道札幌市東区本町２条８-３-６,歯科,,,9" xlink:title="コモンズ歯科クリニック" transform="ref(svg,14139.5762,-4307.7772)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）みなみ歯科医院,北海道札幌市東区苗穂町４-１-５ライスバラエティにしむら２階,歯科　小児矯正歯科,,,9" xlink:title="（医）みなみ歯科医院" transform="ref(svg,14138.4536,-4307.538)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,雪印メグミルク（株）北海道統括支店歯科室,北海道札幌市東区苗穂町６-１-１,歯科,,,9" xlink:title="雪印メグミルク（株）北海道統括支店歯科室" transform="ref(svg,14138.5851,-4307.3045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,チエ歯科クリニック,北海道札幌市東区苗穂町１０-３-１５,歯科,,,9" xlink:title="チエ歯科クリニック" transform="ref(svg,14139.3533,-4307.3955)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ファミール歯科クリニック,北海道札幌市白石区菊水元町３条２-１-２１,歯科　小児歯科,,,9" xlink:title="ファミール歯科クリニック" transform="ref(svg,14140.1886,-4306.779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科クリニック,北海道札幌市白石区菊水元町５条２-２-１,歯科　小児歯科,,,9" xlink:title="さとう歯科クリニック" transform="ref(svg,14140.6299,-4307.0623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あすか歯科,北海道札幌市白石区菊水元町６条１-１０-４,歯科　小児歯科,,,9" xlink:title="あすか歯科" transform="ref(svg,14140.6985,-4307.3058)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊水元町歯科,北海道札幌市白石区菊水元町６条１-８-２１,歯科　小児歯科,,,9" xlink:title="菊水元町歯科" transform="ref(svg,14140.8516,-4307.2782)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,レオデンタルクリニック,北海道札幌市白石区菊水元町７条２-１-１,歯科,,,9" xlink:title="レオデンタルクリニック" transform="ref(svg,14140.9436,-4307.2631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恵仁会Ｅ歯科クリニック,北海道札幌市白石区菊水元町９条２-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）恵仁会Ｅ歯科クリニック" transform="ref(svg,14141.4789,-4307.4406)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東栄ファミリー歯科医院,北海道札幌市白石区米里４条１-６-３,歯科　歯科口腔外科,,,9" xlink:title="東栄ファミリー歯科医院" transform="ref(svg,14142.6869,-4308.4128)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＹＯＵ歯科,北海道江別市文京台東町１１-３１大麻南ビル２階,歯科　小児歯科　矯正歯科,,,9" xlink:title="ＹＯＵ歯科" transform="ref(svg,14149.7104,-4307.1755)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三上歯科医院,北海道江別市大麻東町１４-９,歯科,,,9" xlink:title="三上歯科医院" transform="ref(svg,14150.087,-4308.0985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山浦歯科医院,北海道江別市大麻東町２７-５,歯科,,,9" xlink:title="山浦歯科医院" transform="ref(svg,14150.1131,-4307.8704)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）明雄会そのまち歯科,北海道江別市大麻園町１１-３０,歯科　小児歯科,,,9" xlink:title="（医）明雄会そのまち歯科" transform="ref(svg,14149.5199,-4307.7899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大麻歯科クリニック,北海道江別市大麻中町２６-１８,歯科　小児歯科,,,9" xlink:title="大麻歯科クリニック" transform="ref(svg,14149.6002,-4307.3796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三番通り歯科,北海道江別市大麻晴美町２-３,歯科　小児歯科,,,9" xlink:title="三番通り歯科" transform="ref(svg,14150.0547,-4308.5741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,北海道江別市大麻扇町３-５,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,14148.3907,-4306.9091)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かきはら歯科クリニック,北海道江別市大麻北町５１９-１ホクレンショップ大麻北町店２階,歯科　小児歯科,,,9" xlink:title="かきはら歯科クリニック" transform="ref(svg,14150.2455,-4308.8464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）幸仁会大麻メディカルビル歯科,北海道江別市大麻中町２-１７,歯科　小児歯科,,,9" xlink:title="（医）幸仁会大麻メディカルビル歯科" transform="ref(svg,14149.2197,-4307.478)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つちだ歯科,北海道江別市大麻中町２６-２２,歯科　小児歯科,,,9" xlink:title="つちだ歯科" transform="ref(svg,14149.5653,-4307.3246)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浦本歯科クリニック,北海道江別市大麻園町２５-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="浦本歯科クリニック" transform="ref(svg,14149.7707,-4308.3665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,垣野歯科医院,北海道江別市大麻桜木町３３-５,歯科　小児歯科,,,9" xlink:title="垣野歯科医院" transform="ref(svg,14148.3582,-4307.301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わかば歯科クリニック,北海道石狩市緑苑台東３条１-１０２,歯科　小児歯科,,,9" xlink:title="わかば歯科クリニック" transform="ref(svg,14134.2403,-4316.6691)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヒルズ歯科クリニック,北海道石狩郡当別町スウェーデンヒルズ２４２８-２９,歯科,,,9" xlink:title="ヒルズ歯科クリニック" transform="ref(svg,14144.4039,-4321.384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太美歯科クリニック,北海道石狩郡当別町太美町１６９５-１８８,歯科,,,9" xlink:title="太美歯科クリニック" transform="ref(svg,14144.7454,-4318.8988)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）萌舞会ハート歯科,北海道石狩郡当別町太美町１４７３,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）萌舞会ハート歯科" transform="ref(svg,14144.6671,-4319.6087)" x="0" y="0"/>
+</g>
+</svg>

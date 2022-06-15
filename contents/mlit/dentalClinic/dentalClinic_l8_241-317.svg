@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13236.328125 -3427.734375 17.578125 17.578125" go:dataArea="13236.328125 -3427.734375 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,飯沼歯科医院,広島県呉市音戸町坪井１-１-２７,歯科,,,9" xlink:title="飯沼歯科医院" transform="ref(svg,13253.6829,-3419.6939)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,広島県呉市音戸町南隠渡２-１-２１,歯科,,,9" xlink:title="武田歯科医院" transform="ref(svg,13253.1599,-3418.9263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,広島県呉市音戸町鰯浜１-８-１２,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13253.5218,-3419.4933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いけだ歯科医院,広島県呉市音戸町鰯浜２-９-１２,歯科,,,9" xlink:title="いけだ歯科医院" transform="ref(svg,13253.403,-3419.299)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,広島県呉市音戸町北隠渡１-４-７,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13253.3126,-3419.2044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,倉橋歯科診療所,広島県呉市倉橋町清水１０００,歯科　小児歯科,,,9" xlink:title="倉橋歯科診療所" transform="ref(svg,13250.7586,-3410.6557)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中原歯科クリニック,広島県呉市吉浦潭鼓町３-１８,歯科,,,9" xlink:title="中原歯科クリニック" transform="ref(svg,13253.0938,-3425.6125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮本歯科医院,広島県呉市音戸町藤脇１-２１-２５,歯科,,,9" xlink:title="宮本歯科医院" transform="ref(svg,13250.9746,-3414.7352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,亀本歯科クリニック,広島県呉市吉浦中町１-４-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="亀本歯科クリニック" transform="ref(svg,13252.8724,-3425.7798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川副歯科医院,広島県呉市倉橋町１８０６-１０,歯科,,,9" xlink:title="川副歯科医院" transform="ref(svg,13250.406,-3410.4325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,広島県呉市倉橋町６６３０-６,歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13250.1215,-3412.9238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,足利歯科医院,広島県呉市吉浦中町２-６-９,歯科,,,9" xlink:title="足利歯科医院" transform="ref(svg,13252.9183,-3426.0472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらかみ歯科医院,広島県呉市吉浦中町１-１２-１４,歯科,,,9" xlink:title="むらかみ歯科医院" transform="ref(svg,13252.8568,-3425.9084)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増井歯科医院,広島県江田島市江田島町中央１-２-１０,歯科,,,9" xlink:title="増井歯科医院" transform="ref(svg,13247.7767,-3424.6439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長坂歯科医院,広島県江田島市大柿町柿浦１５４５,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="長坂歯科医院" transform="ref(svg,13247.0121,-3418.0284)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山岡歯科医院,広島県江田島市能美町中町３６７５-２,歯科,,,9" xlink:title="山岡歯科医院" transform="ref(svg,13244.1891,-3421.9138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せらだ歯科クリニック,広島県江田島市沖美町是長４１０-４,歯科,,,9" xlink:title="せらだ歯科クリニック" transform="ref(svg,13239.888,-3421.4739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,二木歯科医院,広島県江田島市江田島町小用２-３-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="二木歯科医院" transform="ref(svg,13249.0877,-3424.8859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）上山歯科医院,広島県江田島市江田島町小用２-１３-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）上山歯科医院" transform="ref(svg,13249.0629,-3425.0272)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青木歯科医院,広島県江田島市大柿町飛渡瀬３４４-３,歯科,,,9" xlink:title="青木歯科医院" transform="ref(svg,13247.3601,-3420.1655)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,朝原デンタルクリニック,広島県江田島市能美町中町４８６５-３,歯科,,,9" xlink:title="朝原デンタルクリニック" transform="ref(svg,13244.3575,-3422.1874)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまさき歯科医院,広島県江田島市能美町鹿川３２３０,歯科,,,9" xlink:title="やまさき歯科医院" transform="ref(svg,13244.1067,-3419.8558)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森本歯科医院,広島県江田島市大柿町大原４８３-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="森本歯科医院" transform="ref(svg,13246.3372,-3417.5786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かねだ歯科,広島県江田島市江田島町鷲部２-１１-３,歯科,,,9" xlink:title="かねだ歯科" transform="ref(svg,13247.9607,-3423.346)" x="0" y="0"/>
+</g>
+</svg>

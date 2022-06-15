@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13500.0 -9000.0 4500.0 4500.0" go:dataArea="13500.0 -9000.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,礼文町国民健康保険船泊診療所,北海道礼文郡礼文町大字船泊村字ウエンナイホ４１３,内科　外科　眼科,,,9" xlink:title="礼文町国民健康保険船泊診療所" transform="ref(svg,14103.235,-4543.5529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニック森の風,北海道稚内市潮見３-６-３２,内科　消化器科,,,9" xlink:title="クリニック森の風" transform="ref(svg,14170.2065,-4539.6156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,幌延町立診療所,北海道天塩郡幌延町１条北２,内科　外科,,,9" xlink:title="幌延町立診療所" transform="ref(svg,14184.5396,-4501.8315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,道北勤医協宗谷医院,北海道稚内市末広３-６-５,内科,,,9" xlink:title="道北勤医協宗谷医院" transform="ref(svg,14169.2157,-4539.9822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）横田内科医院,北海道稚内市中央５-４-１７,内科,,,9" xlink:title="（医）横田内科医院" transform="ref(svg,14167.6164,-4541.1023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）じけい小児科内科医院,北海道稚内市中央２-２-８,内科　小児科,,,9" xlink:title="（医）じけい小児科内科医院" transform="ref(svg,14167.2695,-4541.8301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たかはし内科胃腸科,北海道稚内市港４-８-１７,内科　胃腸科,,,9" xlink:title="（医）たかはし内科胃腸科" transform="ref(svg,14167.8592,-4540.0197)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらい整形外科医院,北海道稚内市港３-３-１５,整形外科,,,9" xlink:title="さくらい整形外科医院" transform="ref(svg,14167.4199,-4540.3945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西岡整形外科クリニック,北海道稚内市栄５-８-１４,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="西岡整形外科クリニック" transform="ref(svg,14169.8783,-4538.6682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こどもクリニックはぐ,北海道稚内市富岡４-３-２,小児科,,,9" xlink:title="こどもクリニックはぐ" transform="ref(svg,14171.7563,-4538.9507)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道立香深診療所,北海道礼文郡礼文町大字香深村字トンナイ４０-１７,内科　小児科,,,9" xlink:title="北海道立香深診療所" transform="ref(svg,14104.694,-4530.2104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道立鬼脇診療所,北海道利尻郡利尻富士町鬼脇字金崎３２９,内科　外科　整形外科,,,9" xlink:title="北海道立鬼脇診療所" transform="ref(svg,14131.1214,-4513.8947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,利尻富士町国民健康保険鴛泊診療所,北海道利尻郡利尻富士町鴛泊字栄町１１３,内科　外科　整形外科　消化器科　呼吸器科,,,9" xlink:title="利尻富士町国民健康保険鴛泊診療所" transform="ref(svg,14121.6785,-4524.7733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国土交通省（共済）北海道開発局稚内開発建設部診療所,北海道稚内市末広５-６-１,内科,,,9" xlink:title="国土交通省（共済）北海道開発局稚内開発建設部診療所" transform="ref(svg,14170.2197,-4539.9897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稚内海上保安部診療所,北海道稚内市開運２-２-１港湾合同庁舎４階,内科,,,9" xlink:title="稚内海上保安部診療所" transform="ref(svg,14167.8306,-4541.5441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稚内市保健福祉センター,北海道稚内市中央４-１６-２,内科　小児科　歯科,,,9" xlink:title="稚内市保健福祉センター" transform="ref(svg,14167.6249,-4541.1917)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市立稚内病院付属沼川診療所,北海道稚内市大字声問村字沼川,内科　小児科　外科,,,9" xlink:title="市立稚内病院付属沼川診療所" transform="ref(svg,14184.8892,-4525.1451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市立稚内病院附属曲淵健康管理センター,北海道稚内市大字声問村字曲淵,内科　小児科　外科,,,9" xlink:title="市立稚内病院附属曲淵健康管理センター" transform="ref(svg,14190.1273,-4526.131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市立稚内病院附属宗谷診療所,北海道稚内市大字宗谷村字宗谷１６１,内科　小児科　外科,,,9" xlink:title="市立稚内病院附属宗谷診療所" transform="ref(svg,14187.9656,-4548.7121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市立稚内病院附属上勇知診療所,北海道稚内市大字抜海村字上勇知,内科,,,9" xlink:title="市立稚内病院附属上勇知診療所" transform="ref(svg,14168.5325,-4525.9543)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稚内市立（特養）富士見園医務室,北海道稚内市富士見５,内科,,,9" xlink:title="稚内市立（特養）富士見園医務室" transform="ref(svg,14163.6761,-4541.3693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）稚内緑風苑医務室,北海道稚内市声問５-４４-１,内科　胃腸科,,,9" xlink:title="（特養）稚内緑風苑医務室" transform="ref(svg,14176.1044,-4539.7897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道稚内保健所,北海道稚内市末広４-２-２７,内科　歯科,,,9" xlink:title="北海道稚内保健所" transform="ref(svg,14170.0281,-4539.7789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）さるふつやすらぎ苑,北海道宗谷郡猿払村字鬼志別原野８０２-２７,内科,,,9" xlink:title="（特養）さるふつやすらぎ苑" transform="ref(svg,14212.0397,-4533.254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猿払村国民健康保険浅茅野診療所,北海道宗谷郡猿払村浅茅野３３６,内科　小児科,,,9" xlink:title="猿払村国民健康保険浅茅野診療所" transform="ref(svg,14222.5817,-4521.4396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猿払村保健福祉総合センター,北海道宗谷郡猿払村字鬼志別,内科　歯科,,,9" xlink:title="猿払村保健福祉総合センター" transform="ref(svg,14211.7882,-4533.1926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）浜頓別福祉会（特養）清風苑,北海道枝幸郡浜頓別町旭ヶ丘３-８,内科,,,9" xlink:title="（福）浜頓別福祉会（特養）清風苑" transform="ref(svg,14236.7581,-4511.8055)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道稚内保健所浜頓別支所,北海道枝幸郡浜頓別町中央北３,内科,,,9" xlink:title="北海道稚内保健所浜頓別支所" transform="ref(svg,14235.7818,-4512.4766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）温心園診察室,北海道天塩郡豊富町字上サロベツ２００５-２９,内科　外科　歯科,,,9" xlink:title="（特養）温心園診察室" transform="ref(svg,14177.7469,-4509.6545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,豊富町国民健康保険兜沼診療所,北海道天塩郡豊富町字上サロベツ６１９-６,内科　小児科　外科,,,9" xlink:title="豊富町国民健康保険兜沼診療所" transform="ref(svg,14169.9585,-4522.187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）礼宝園診察室,北海道礼文郡礼文町大字香深村字カフカイ７６６-３,内科,,,9" xlink:title="（特養）礼宝園診察室" transform="ref(svg,14104.1481,-4534.1593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稚内保健所利尻支所,北海道利尻郡利尻町沓形字日出町１３-１,内科,,,9" xlink:title="稚内保健所利尻支所" transform="ref(svg,14113.8135,-4518.7173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）診察室（愛称：ほのぼの荘）,北海道利尻郡利尻町仙法志字政泊９１-１,内科,,,9" xlink:title="（特養）診察室（愛称：ほのぼの荘）" transform="ref(svg,14121.2678,-4511.3762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,利尻富士町立（特養）秀峰園医務室,北海道利尻郡利尻富士町鬼脇字鬼脇２０５-１,内科,,,9" xlink:title="利尻富士町立（特養）秀峰園医務室" transform="ref(svg,14130.4684,-4513.1982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,利尻富士町総合保健福祉センター,北海道利尻郡利尻富士町鷲泊字栄町１１７,内科　小児科　外科,,,9" xlink:title="利尻富士町総合保健福祉センター" transform="ref(svg,14121.601,-4524.6893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ふれあいの里医務室,北海道枝幸郡浜頓別町クッチャロ湖畔５１,内科,,,9" xlink:title="（特養）ふれあいの里医務室" transform="ref(svg,14235.3159,-4512.4654)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,幌延町立北星園医務室,北海道天塩郡幌延町字幌延１５,内科,,,9" xlink:title="幌延町立北星園医務室" transform="ref(svg,14185.262,-4502.0973)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こざくら荘医務室,北海道天塩郡幌延町１条北２,内科　外科,,,9" xlink:title="（特養）こざくら荘医務室" transform="ref(svg,14184.4331,-4501.741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えきまえ診療所,北海道稚内市中央２-１３-１３,内科,,,9" xlink:title="えきまえ診療所" transform="ref(svg,14167.5132,-4541.7625)" x="0" y="0"/>
+</g>
+</svg>

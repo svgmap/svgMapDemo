@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13781.25 -4500.0 281.25 281.25" go:dataArea="13781.25 -4500.0 281.25 281.25" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,せたな町立国保病院瀬棚診療所,北海道久遠郡せたな町瀬棚区本町８５０-４,内科　小児科　整形外科　リハビリテーション科,,,9" xlink:title="せたな町立国保病院瀬棚診療所" transform="ref(svg,13985.1775,-4244.9176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島牧診療所,北海道島牧郡島牧村字泊２９-１,内科　外科　小児科　歯科　小児歯科,,,9" xlink:title="島牧診療所" transform="ref(svg,14006.1872,-4270.2491)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寿都町立寿都診療所,北海道寿都郡寿都町字渡島町７２-２,内科　精神科　小児科　外科　産婦人科,,,9" xlink:title="寿都町立寿都診療所" transform="ref(svg,14022.9989,-4279.2746)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,蘭越診療所,北海道磯谷郡蘭越町蘭越町１５６,内科　小児科　リハビリテーション科,,,9" xlink:title="蘭越診療所" transform="ref(svg,14052.6914,-4280.4309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小林整形外科医院,北海道岩内郡岩内町字東山２５-１８,整形外科　リハビリテーション科,,,9" xlink:title="（医）小林整形外科医院" transform="ref(svg,14052.7429,-4298.296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）北内科クリニック,北海道岩内郡岩内町字高台２-１,内科　胃腸科　放射線科,,,9" xlink:title="（医）北内科クリニック" transform="ref(svg,14051.0223,-4298.0442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）岩内大浜医院,北海道岩内郡岩内町字大浜６-１,内科,,,9" xlink:title="（医）岩内大浜医院" transform="ref(svg,14052.471,-4298.7081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まきた循環器内科クリニック,北海道二海郡八雲町東町１９７-３,内科　循環器科　小児科,,,9" xlink:title="（医）まきた循環器内科クリニック" transform="ref(svg,14027.3913,-4225.887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,道南勤医協八雲ユーラップ医院,北海道二海郡八雲町末広町１６１,内科　消化器科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="道南勤医協八雲ユーラップ医院" transform="ref(svg,14026.9676,-4225.4568)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）国立療養所八雲病院所属所診療部,北海道二海郡八雲町宮園町１２８,内科　小児科　整形外科,,,9" xlink:title="厚生労働省第二（共済）国立療養所八雲病院所属所診療部" transform="ref(svg,14026.355,-4225.0731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道八雲保健所,北海道二海郡八雲町末広町１２０,内科　小児科　歯科,,,9" xlink:title="北海道八雲保健所" transform="ref(svg,14026.6365,-4225.4313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八雲町総合保健福祉施設シルバープラザ,北海道二海郡八雲町栄町１３-１,内科　小児科　歯科,,,9" xlink:title="八雲町総合保健福祉施設シルバープラザ" transform="ref(svg,14025.8662,-4225.6221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）厚生園診療所,北海道二海郡八雲町大新４７-４,内科,,,9" xlink:title="（特養）厚生園診療所" transform="ref(svg,14026.1244,-4223.8464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長万部町ふれあい健康センター,北海道山越郡長万部町字長万部４５３-１,内科　小児科　歯科,,,9" xlink:title="長万部町ふれあい健康センター" transform="ref(svg,14038.0633,-4251.3682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長万部慈恵園診療所,北海道山越郡長万部町字平里９１-１１,内科,,,9" xlink:title="（特養）長万部慈恵園診療所" transform="ref(svg,14035.3595,-4249.3924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩間医院,北海道瀬棚郡今金町字今金４８-１３,内科　小児科　皮膚科,,,9" xlink:title="岩間医院" transform="ref(svg,14000.9628,-4242.8653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今金町保健センター診察室,北海道瀬棚郡今金町字今金１７-２,内科　婦人科,,,9" xlink:title="今金町保健センター診察室" transform="ref(svg,14000.7028,-4242.9192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道八雲保健所今金支所,北海道瀬棚郡今金町字今金１０７-２,内科,,,9" xlink:title="北海道八雲保健所今金支所" transform="ref(svg,14001.7862,-4242.9521)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）豊寿園医務室,北海道瀬棚郡今金町字種川３９８-４,内科,,,9" xlink:title="（特養）豊寿園医務室" transform="ref(svg,14006.7791,-4242.2178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今金診療所,北海道瀬棚郡今金町字今金３５９-１２,内科　リハビリテーション科,,,9" xlink:title="今金診療所" transform="ref(svg,14001.2672,-4242.6534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瀬棚養護老人ホーム三杉荘医務室,北海道久遠郡せたな町瀬棚区西大里２１８,内科,,,9" xlink:title="瀬棚養護老人ホーム三杉荘医務室" transform="ref(svg,13986.5429,-4246.9354)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）きたひやま荘医務室,北海道久遠郡せたな町北檜山区豊岡３３７-１,内科,,,9" xlink:title="（特養）きたひやま荘医務室" transform="ref(svg,13987.288,-4242.1788)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せたな町立国保病院大成診療所,北海道久遠郡せたな町大成区都２３１,内科　外科,,,9" xlink:title="せたな町立国保病院大成診療所" transform="ref(svg,13981.5551,-4222.7976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）大成長生園医務室,北海道久遠郡せたな町大成区宮野５２５-２,内科,,,9" xlink:title="（特養）大成長生園医務室" transform="ref(svg,13987.5066,-4222.9414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）祁答院医院,北海道寿都郡寿都町字新栄町１０２,内科　消化器外科　小児科　外科,,,9" xlink:title="（医）祁答院医院" transform="ref(svg,14022.8227,-4279.4819)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寿都寿海荘医務室,北海道寿都郡寿都町字歌棄町歌棄４８-２,内科,,,9" xlink:title="寿都寿海荘医務室" transform="ref(svg,14030.1487,-4277.3012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒松内町国民健康保険病院白井川診療所,北海道寿都郡黒松内町字白井川８-２６８,内科,,,9" xlink:title="黒松内町国民健康保険病院白井川診療所" transform="ref(svg,14038.1912,-4267.1735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒松内町保健福祉センター,北海道寿都郡黒松内町字黒松内５８６-１,内科,,,9" xlink:title="黒松内町保健福祉センター" transform="ref(svg,14030.8565,-4267.0477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,勤医協黒松内診療所,北海道寿都郡黒松内町字黒松内３０６-１,内科　小児科,,,9" xlink:title="勤医協黒松内診療所" transform="ref(svg,14030.8566,-4266.7254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,緑ヶ丘老人ホーム診療所,北海道寿都郡黒松内町字黒松内５６２-４,内科,,,9" xlink:title="緑ヶ丘老人ホーム診療所" transform="ref(svg,14030.921,-4266.0604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,緑ヶ丘ハイツ診療所,北海道寿都郡黒松内町字黒松内５６３-１,内科　脳神経外科,,,9" xlink:title="緑ヶ丘ハイツ診療所" transform="ref(svg,14031.061,-4266.0241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,蘭越町立昆布診療所,北海道磯谷郡蘭越町昆布町２４-５２,内科　外科,,,9" xlink:title="蘭越町立昆布診療所" transform="ref(svg,14059.8094,-4279.9203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,蘭越町保健福祉センター,北海道磯谷郡蘭越町蘭越町２５０-１,内科,,,9" xlink:title="蘭越町保健福祉センター" transform="ref(svg,14052.7218,-4280.8764)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）一灯園医務室,北海道磯谷郡蘭越町字大谷２７２,内科,,,9" xlink:title="（特養）一灯園医務室" transform="ref(svg,14052.3296,-4280.2001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,積丹町立国民健康保険診療所,北海道積丹郡積丹町大字美国町字小泊５２,内科　呼吸器科　循環器科　小児科　外科,,,9" xlink:title="積丹町立国民健康保険診療所" transform="ref(svg,14060.3856,-4329.4842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,発足診療所,北海道岩内郡共和町発足１４,内科　小児科　外科　心療内科,,,9" xlink:title="発足診療所" transform="ref(svg,14056.8695,-4301.6239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）東山クリニック,北海道岩内郡共和町梨野舞納２-２６７,内科　小児科　アレルギー科,,,9" xlink:title="（医）東山クリニック" transform="ref(svg,14053.2948,-4298.2922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田診療所,北海道岩内郡共和町前田１１-１６,内科　小児科,,,9" xlink:title="前田診療所" transform="ref(svg,14057.7278,-4299.1789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みのりの里共和医務室,北海道岩内郡共和町南幌似５７-１３,内科,,,9" xlink:title="（特養）みのりの里共和医務室" transform="ref(svg,14061.4792,-4297.724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石山内科循環器科クリニック,北海道岩内郡岩内町字宮園８-１,内科　循環器科,,,9" xlink:title="（医）石山内科循環器科クリニック" transform="ref(svg,14051.0522,-4297.4815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いわない眼科クリニック,北海道岩内郡岩内町字大浜１６-１８,眼科,,,9" xlink:title="（医）いわない眼科クリニック" transform="ref(svg,14052.2009,-4298.4021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大井内科消化器科医院,北海道岩内郡岩内町字清住１００,内科　消化器科,,,9" xlink:title="（医）大井内科消化器科医院" transform="ref(svg,14050.9683,-4298.0275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千葉外科医院,北海道岩内郡岩内町字高台１９１-２,内科　外科　整形外科　形成外科　皮膚科　泌尿器科　こう門科,,,9" xlink:title="（医）千葉外科医院" transform="ref(svg,14051.3739,-4297.8929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）前田医院,北海道岩内郡岩内町字万代５-５,内科　小児科　耳鼻いんこう科,,,9" xlink:title="（医）前田医院" transform="ref(svg,14051.352,-4298.146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,万代クリニック,北海道岩内郡岩内町字万代３６-８,内科,,,9" xlink:title="万代クリニック" transform="ref(svg,14051.326,-4298.2026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩内ふれ愛の郷（特養）医務室,北海道岩内郡岩内町字野束６９-４,内科,,,9" xlink:title="岩内ふれ愛の郷（特養）医務室" transform="ref(svg,14050.9979,-4296.7772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道岩内保健所,北海道岩内郡岩内町字清住２５２-１,内科,,,9" xlink:title="北海道岩内保健所" transform="ref(svg,14050.9359,-4297.8468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村立茅沼診療所,北海道古宇郡泊村大字茅沼村７１１-３,内科　循環器科　呼吸器科　外科,,,9" xlink:title="村立茅沼診療所" transform="ref(svg,14051.386,-4305.6063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泊村（特養）むつみ荘医務室,北海道古宇郡泊村大字茅沼村７１１-３,内科,,,9" xlink:title="泊村（特養）むつみ荘医務室" transform="ref(svg,14051.3781,-4305.609)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泊村養護老人ホームむつみ荘医務室,北海道古宇郡泊村大字茅沼村７１１,内科,,,9" xlink:title="泊村養護老人ホームむつみ荘医務室" transform="ref(svg,14051.4343,-4305.7022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神恵内村立神恵内診療所,北海道古宇郡神恵内村大字神恵内村１０,内科　小児科　消化器科,,,9" xlink:title="神恵内村立神恵内診療所" transform="ref(svg,14043.5367,-4314.4011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,豊浦町国民健康保険病院附属礼文華診療所,北海道虻田郡豊浦町字礼文華１５６-２６,内科,,,9" xlink:title="豊浦町国民健康保険病院附属礼文華診療所" transform="ref(svg,14059.5507,-4257.7706)" x="0" y="0"/>
+</g>
+</svg>

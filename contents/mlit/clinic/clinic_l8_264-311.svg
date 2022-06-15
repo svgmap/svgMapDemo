@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13640.625 -3533.203125 17.578125 17.578125" go:dataArea="13640.625 -3533.203125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,平松医院,岐阜県海津市南濃町津屋１８６２-６,内科　小児科,,,9" xlink:title="平松医院" transform="ref(svg,13656.5426,-3525.6137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）優・悠・邑内診療所,岐阜県不破郡関ヶ原町今須７８２-１,内科　精神科,,,9" xlink:title="（特養）優・悠・邑内診療所" transform="ref(svg,13641.7612,-3533.0831)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣市上石津保健センター,岐阜県大垣市上石津町大字上原１３４９,内科　歯科,,,9" xlink:title="大垣市上石津保健センター" transform="ref(svg,13647.2811,-3528.4168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣市国民健康保険上石津診療所,岐阜県大垣市上石津町大字上原１４３８,内科,,,9" xlink:title="大垣市国民健康保険上石津診療所" transform="ref(svg,13647.283,-3528.4457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木村医院,岐阜県養老郡養老町押越１２３８-１,内科　小児科,,,9" xlink:title="木村医院" transform="ref(svg,13655.4856,-3530.3032)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくまクリニック,岐阜県養老郡養老町押越５３３,内科　小児科,,,9" xlink:title="さくまクリニック" transform="ref(svg,13655.4167,-3530.6514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまぐち内科クリニック,岐阜県養老郡養老町押越６９３-１,内科　循環器内科　人工透析内科,,,9" xlink:title="やまぐち内科クリニック" transform="ref(svg,13655.7829,-3530.6506)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大橋整形外科,岐阜県養老郡養老町押越北河原６７０-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="大橋整形外科" transform="ref(svg,13655.5111,-3530.6961)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大晃堂内科,岐阜県養老郡養老町高田３３,内科　消化器科　循環器科　小児科　皮膚科　放射線科,,,9" xlink:title="大晃堂内科" transform="ref(svg,13655.7844,-3530.7496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,半田眼科,岐阜県養老郡養老町高田８２３-２,眼科,,,9" xlink:title="半田眼科" transform="ref(svg,13656.1049,-3530.8863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養老町保健センター,岐阜県養老郡養老町石畑５２３,内科　歯科,,,9" xlink:title="養老町保健センター" transform="ref(svg,13655.0384,-3530.476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野村内科,岐阜県養老郡養老町石畑字池田１３５７-１,内科,,,9" xlink:title="野村内科" transform="ref(svg,13655.228,-3529.9404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養老整形外科クリニック,岐阜県養老郡養老町大跡５３４,リウマチ科　整形外科　リハビリテーション科　内科,,,9" xlink:title="養老整形外科クリニック" transform="ref(svg,13657.4936,-3528.7917)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）白鶴荘内診療所,岐阜県養老郡養老町柏尾４６３-１,内科,,,9" xlink:title="（特養）白鶴荘内診療所" transform="ref(svg,13654.6368,-3529.3829)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長寿の里南濃診療所,岐阜県海津市南濃町志津７１９-１,内科　外科,,,9" xlink:title="（特養）長寿の里南濃診療所" transform="ref(svg,13656.1665,-3524.4716)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＹＨＳクリニック,岐阜県養老郡養老町押越１３７４-５０,内科　整形外科,,,9" xlink:title="ＹＨＳクリニック" transform="ref(svg,13655.7475,-3529.8714)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設ハーモニー内診療所,岐阜県大垣市上石津町三ツ里６６０,内科,,,9" xlink:title="介護老人福祉施設ハーモニー内診療所" transform="ref(svg,13646.2778,-3527.9497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）養老長屋医務室,岐阜県養老郡養老町押越５４４-１,内科,,,9" xlink:title="（特養）養老長屋医務室" transform="ref(svg,13655.4656,-3530.6371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中井医院,三重県いなべ市藤原町日内字井水北３７５-１,内科,,,9" xlink:title="中井医院" transform="ref(svg,13649.6548,-3518.2223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山医院,三重県いなべ市藤原町志礼石新田９６,内科　小児科,,,9" xlink:title="杉山医院" transform="ref(svg,13649.3051,-3517.035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）翠明院診療所,三重県いなべ市藤原町上之山田１４３３-３,内科,,,9" xlink:title="（特養）翠明院診療所" transform="ref(svg,13647.35,-3521.7276)" x="0" y="0"/>
+</g>
+</svg>

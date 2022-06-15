@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13042.96875 -3128.90625 35.15625 35.15625" go:dataArea="13042.96875 -3128.90625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,横山医院,鹿児島県指宿市山川成川５４４,内科　胃腸科　放射線科,,,9" xlink:title="横山医院" transform="ref(svg,13062.5775,-3121.0979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,指宿保健所,鹿児島県指宿市十二町３０１,内科,,,9" xlink:title="指宿保健所" transform="ref(svg,13063.3721,-3124.0676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木医院,鹿児島県南九州市頴娃町別府３１７,内科　消化器科　放射線科,,,9" xlink:title="青木医院" transform="ref(svg,13044.5799,-3125.469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田診療所,鹿児島県指宿市池田３９５７,内科　外科　小児科,,,9" xlink:title="池田診療所" transform="ref(svg,13056.4234,-3125.1997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生駒外科医院,鹿児島県指宿市湊２-２３-２０,内科　外科　皮膚科　消化器内科　乳腺外科　肛門外科,,,9" xlink:title="生駒外科医院" transform="ref(svg,13064.5724,-3124.1158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,指宿おおしげ内科,鹿児島県指宿市十二町２１８８-７,内科　呼吸器科　消化器科　小児科,,,9" xlink:title="指宿おおしげ内科" transform="ref(svg,13064.0195,-3123.5469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いぶすき内科,鹿児島県指宿市十町２３２１-１,内科　呼吸器科　消化器科　循環器科　リハビリテーション科　放射線科,,,9" xlink:title="いぶすき内科" transform="ref(svg,13063.4941,-3124.9051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,指宿脳神経外科,鹿児島県指宿市東方８７１４-２１,脳神経外科　リハビリテーション科　放射線科,,,9" xlink:title="指宿脳神経外科" transform="ref(svg,13064.3937,-3125.6169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩下眼科医院,鹿児島県指宿市湊２-１１-１,眼科,,,9" xlink:title="岩下眼科医院" transform="ref(svg,13064.623,-3123.9696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわもと耳鼻咽喉科クリニック,鹿児島県指宿市東方８７１４-２３,耳鼻いんこう科,,,9" xlink:title="いわもと耳鼻咽喉科クリニック" transform="ref(svg,13064.3504,-3125.614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上村内科クリニック,鹿児島県指宿市十二町５０３-６,内科,,,9" xlink:title="上村内科クリニック" transform="ref(svg,13063.6986,-3123.8774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇宿ひふ科クリニック,鹿児島県指宿市十町９１２-１,皮膚科,,,9" xlink:title="宇宿ひふ科クリニック" transform="ref(svg,13063.537,-3124.919)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えい秀峰園診療所,鹿児島県南九州市頴娃町別府２７９６-１,内科,,,9" xlink:title="えい秀峰園診療所" transform="ref(svg,13044.1785,-3125.5662)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大重内科,鹿児島県指宿市山川金生町４３,内科,,,9" xlink:title="大重内科" transform="ref(svg,13063.5647,-3120.4642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,開南クリニック,鹿児島県指宿市西方６７３３,内科　神経内科,,,9" xlink:title="開南クリニック" transform="ref(svg,13061.6613,-3127.8809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,開聞クリニック,鹿児島県指宿市開聞十町１２９４-２,内科　呼吸器科　消化器科　循環器科　小児科　外科　整形外科　皮膚科　眼科　耳鼻いんこう科　リハビリテーション科,,,9" xlink:title="開聞クリニック" transform="ref(svg,13053.9135,-3120.5949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北薗産婦人科クリニック,鹿児島県指宿市大牟礼４-１６-２８,産婦人科,,,9" xlink:title="北薗産婦人科クリニック" transform="ref(svg,13064.7385,-3124.4363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木之下クリニック,鹿児島県指宿市湊１-１２-６３,内科　消化器内科　外科　皮膚科　肛門科,,,9" xlink:title="木之下クリニック" transform="ref(svg,13064.3319,-3123.9424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックリハビリ菜の花,鹿児島県指宿市十町４６０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="クリニックリハビリ菜の花" transform="ref(svg,13063.3851,-3125.3763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽費老人ホーム千寿園医務室,鹿児島県指宿市東方３６５,内科,,,9" xlink:title="軽費老人ホーム千寿園医務室" transform="ref(svg,13062.4964,-3124.5315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）指宿医療センター診療部,鹿児島県指宿市十二町４１４５,内科　神経内科　呼吸器科　循環器科　小児科　外科　眼科　麻酔科　整形外科　泌尿器科　産婦人科　リハビリテーション科　放射線科　耳鼻いんこう科,,,9" xlink:title="厚生労働省第二（共済）指宿医療センター診療部" transform="ref(svg,13064.5987,-3122.0613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こどもの森小児科クリニック,鹿児島県指宿市東方８３２０-４,小児科,,,9" xlink:title="こどもの森小児科クリニック" transform="ref(svg,13063.7274,-3125.7949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小吉胃腸科クリニック,鹿児島県指宿市湊１-４-１５,内科　胃腸科,,,9" xlink:title="小吉胃腸科クリニック" transform="ref(svg,13064.4502,-3123.7621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設竹山苑診療所,鹿児島県指宿市山川福元４８５６-１,内科,,,9" xlink:title="障害者支援施設竹山苑診療所" transform="ref(svg,13061.9701,-3119.7252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋眼科医院,鹿児島県指宿市湊１-１１-４５,眼科,,,9" xlink:title="高橋眼科医院" transform="ref(svg,13064.387,-3123.9512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田畑クリニック,鹿児島県指宿市十町２４０６-１,内科　呼吸器科　胃腸科　循環器科　外科　皮膚科　リハビリテーション科　放射線科,,,9" xlink:title="田畑クリニック" transform="ref(svg,13063.2558,-3125.13)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴留医院,鹿児島県南九州市頴娃町牧之内１７３３-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="鶴留医院" transform="ref(svg,13049.3128,-3124.4998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）薩摩富士荘診療所,鹿児島県指宿市開聞仙田６５２９-１,内科,,,9" xlink:title="（特養）薩摩富士荘診療所" transform="ref(svg,13053.9927,-3119.8328)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）徳光苑診療所,鹿児島県指宿市山川岡児ヶ水１２１２-１,内科,,,9" xlink:title="（特養）徳光苑診療所" transform="ref(svg,13057.566,-3117.3116)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）望洋の里診療所,鹿児島県南九州市頴娃町牧之内３７７６-８,内科,,,9" xlink:title="（特養）望洋の里診療所" transform="ref(svg,13049.4725,-3124.869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）湯之里園診療所,鹿児島県指宿市東方８２８-ロ,内科,,,9" xlink:title="（特養）湯之里園診療所" transform="ref(svg,13062.0809,-3124.9724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永田耳鼻咽喉科医院,鹿児島県指宿市大牟礼１-１-１５,耳鼻いんこう科,,,9" xlink:title="永田耳鼻咽喉科医院" transform="ref(svg,13064.2077,-3123.9147)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長野整形外科クリニック,鹿児島県指宿市十二町３６２６-６,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="長野整形外科クリニック" transform="ref(svg,13064.7382,-3122.4781)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋口医院,鹿児島県指宿市山川岡児ヶ水３５７,内科　消化器科　小児科　放射線科,,,9" xlink:title="橋口医院" transform="ref(svg,13058.7105,-3117.8563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,-M田洋一郎医院,鹿児島県指宿市開聞川尻４９２０-５,内科　小児科　外科　整形外科　皮膚泌尿器科,,,9" xlink:title="-M田洋一郎医院" transform="ref(svg,13055.8641,-3118.389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,肥後胃腸科クリニック,鹿児島県指宿市山川大山２９４８,内科　消化器科　胃腸科　外科　皮膚科,,,9" xlink:title="肥後胃腸科クリニック" transform="ref(svg,13059.7058,-3120.1556)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡医院,鹿児島県指宿市開聞十町２７５８,内科　小児科　皮膚泌尿器科　リハビリテーション科　放射線科,,,9" xlink:title="福岡医院" transform="ref(svg,13053.787,-3120.6668)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福元医院,鹿児島県指宿市大牟礼１-３２-２４,内科　小児科　整形外科　糖尿病代謝内科　内分泌内科,,,9" xlink:title="福元医院" transform="ref(svg,13064.3063,-3124.297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤林医院,鹿児島県南九州市頴娃町郡１５５１,内科,,,9" xlink:title="藤林医院" transform="ref(svg,13049.9405,-3123.7192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,外村クリニック,鹿児島県指宿市東方１０２４４,内科　泌尿器科,,,9" xlink:title="外村クリニック" transform="ref(svg,13065.27,-3125.2922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南記念クリニック,鹿児島県指宿市大牟礼３-２４-１５,内科　循環器科　整形外科　皮膚科　眼科　麻酔科　理学診療科,,,9" xlink:title="南記念クリニック" transform="ref(svg,13064.4689,-3124.6754)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メディポリスがん粒子線治療研究センター,鹿児島県指宿市東方４４２３,内科　心療内科　放射線科,,,9" xlink:title="メディポリスがん粒子線治療研究センター" transform="ref(svg,13061.2485,-3123.4656)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおすみの園診療所,鹿児島県肝属郡南大隅町根占川北２１０５,内科　外科,,,9" xlink:title="おおすみの園診療所" transform="ref(svg,13077.46,-3121.9268)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南大隅町立大泊へき地出張診療所,鹿児島県肝属郡南大隅町佐多馬籠９３２-１,内科,,,9" xlink:title="南大隅町立大泊へき地出張診療所" transform="ref(svg,13068.8557,-3102.6229)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,錦江町養護老人ホーム大根占錦江園診察室,鹿児島県肝属郡錦江町馬場１１３４-１,内科,,,9" xlink:title="錦江町養護老人ホーム大根占錦江園診察室" transform="ref(svg,13077.4388,-3123.847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南大隅町立郡へき地出張診療所,鹿児島県肝属郡南大隅町佐多郡１９６３-１,内科　整形外科,,,9" xlink:title="南大隅町立郡へき地出張診療所" transform="ref(svg,13073.2779,-3106.605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,じょうさいクリニック,鹿児島県肝属郡南大隅町根占川南３７７２,内科　胃腸科　外科,,,9" xlink:title="じょうさいクリニック" transform="ref(svg,13077.8778,-3121.2832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）真寿園診療所,鹿児島県肝属郡南大隅町佐多馬籠３４６６-３,内科,,,9" xlink:title="（特養）真寿園診療所" transform="ref(svg,13071.4532,-3109.8648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）蒼水園,鹿児島県肝属郡南大隅町根占山本１２５０-１,内科,,,9" xlink:title="（特養）蒼水園" transform="ref(svg,13077.4892,-3120.3533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津崎医院,鹿児島県肝属郡南大隅町根占川北１７２５,内科　消化器科　外科　整形外科　呼吸器外科　麻酔科,,,9" xlink:title="津崎医院" transform="ref(svg,13077.4431,-3121.3212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,二川内科胃腸科,鹿児島県肝属郡錦江町馬場９７３-２,内科　胃腸科　循環器科,,,9" xlink:title="二川内科胃腸科" transform="ref(svg,13078.0078,-3123.8811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南大隅町立佐多診療所,鹿児島県肝属郡南大隅町佐多伊座敷３８９２,内科　整形外科,,,9" xlink:title="南大隅町立佐多診療所" transform="ref(svg,13069.012,-3109.4725)" x="0" y="0"/>
+</g>
+</svg>

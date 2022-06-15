@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13042.96875 -3357.421875 17.578125 17.578125" go:dataArea="13042.96875 -3357.421875 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,あけぼの歯科医院,福岡県筑紫野市紫３-７-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="あけぼの歯科医院" transform="ref(svg,13052.9874,-3349.5409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ａｚｕｌ　Ｄｅｎｔａｌ　Ｃｌｉｎｉｃ,福岡県筑紫野市二日市中央６-６-２０,歯科,,,9" xlink:title="Ａｚｕｌ　Ｄｅｎｔａｌ　Ｃｌｉｎｉｃ" transform="ref(svg,13051.606,-3350.2486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒木歯科医院,福岡県筑紫野市石崎２-７-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="荒木歯科医院" transform="ref(svg,13053.0534,-3348.5669)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,福岡県筑紫野市吉木２４６７-１２,歯科　小児歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13055.3247,-3351.2591)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,福岡県筑紫野市筑紫２０-１,歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13055.2226,-3346.3791)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今泉歯科医院,福岡県筑紫野市桜台２-２１-２１,歯科,,,9" xlink:title="今泉歯科医院" transform="ref(svg,13054.1687,-3347.1151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）蒼天会安元歯科医院,福岡県筑紫野市二日市西１-６-１,歯科　小児歯科,,,9" xlink:title="（医）蒼天会安元歯科医院" transform="ref(svg,13051.5627,-3349.5763)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）石井歯科医院,福岡県筑紫野市二日市北２-３-１,歯科,,,9" xlink:title="（医）石井歯科医院" transform="ref(svg,13051.9489,-3350.2509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宝歯会筑紫野スマイル歯科小児歯科医院,福岡県筑紫野市立明寺４３４-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）宝歯会筑紫野スマイル歯科小児歯科医院" transform="ref(svg,13052.6776,-3348.0938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえだ歯科医院,福岡県筑紫野市美しが丘南３-４０６-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="うえだ歯科医院" transform="ref(svg,13054.9187,-3344.6336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内田歯科医院,福岡県筑紫野市美しが丘北２-１１-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="内田歯科医院" transform="ref(svg,13054.9298,-3345.1916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江頭歯科医院,福岡県筑紫野市上古賀４-２-１１,歯科　矯正歯科　小児歯科,,,9" xlink:title="江頭歯科医院" transform="ref(svg,13052.0946,-3348.2196)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えさか歯科医院,福岡県筑紫野市美しが丘南７-７-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="えさか歯科医院" transform="ref(svg,13054.0137,-3344.3637)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えのもと歯科医院,福岡県筑紫野市大字永岡１４９２,歯科　矯正歯科　小児歯科,,,9" xlink:title="えのもと歯科医院" transform="ref(svg,13053.7066,-3347.3884)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おがた歯科医院,福岡県筑紫野市二日市中央４-１１-１,歯科　小児歯科,,,9" xlink:title="おがた歯科医院" transform="ref(svg,13051.786,-3350.108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おだ歯科医院,福岡県筑紫野市原田６-７-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おだ歯科医院" transform="ref(svg,13054.1032,-3345.0019)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きど歯科矯正歯科小児歯科医院,福岡県筑紫野市二日市中央１-７-１６,歯科　矯正歯科　小児歯科,,,9" xlink:title="きど歯科矯正歯科小児歯科医院" transform="ref(svg,13052.1974,-3349.3008)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くば歯科医院,福岡県筑紫野市湯町１-１-２５,歯科,,,9" xlink:title="くば歯科医院" transform="ref(svg,13051.5098,-3349.2652)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くろかわ歯科医院,福岡県筑紫野市二日市中央２-６-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="くろかわ歯科医院" transform="ref(svg,13051.843,-3349.5726)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,酒井歯科医院,福岡県筑紫野市二日市中央３-９-１８,歯科,,,9" xlink:title="酒井歯科医院" transform="ref(svg,13051.8174,-3349.8192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂口歯科医院,福岡県筑紫野市原田２-６-１３,歯科　小児歯科,,,9" xlink:title="坂口歯科医院" transform="ref(svg,13054.4834,-3345.4882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さきもと歯科クリニック,福岡県筑紫野市俗明院１６６-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さきもと歯科クリニック" transform="ref(svg,13053.4001,-3347.8761)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しおみち歯科クリニック,福岡県筑紫野市針摺東３-２-１２,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="しおみち歯科クリニック" transform="ref(svg,13053.7651,-3348.5421)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,孝久歯科クリニック,福岡県筑紫野市原田６-５-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="孝久歯科クリニック" transform="ref(svg,13053.9722,-3345.0611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武石歯科医院,福岡県筑紫野市二日市中央４-８-１３,歯科,,,9" xlink:title="武石歯科医院" transform="ref(svg,13051.7444,-3349.9091)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷口歯科医院,福岡県筑紫野市二日市北１-３-８-１０２,歯科　小児歯科,,,9" xlink:title="谷口歯科医院" transform="ref(svg,13051.9379,-3350.1872)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,筑紫野歯科クリニック,福岡県筑紫野市二日市北３-１-１５,歯科,,,9" xlink:title="筑紫野歯科クリニック" transform="ref(svg,13052.2843,-3350.4405)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つくし歯科医院,福岡県筑紫野市二日市南３-９-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="つくし歯科医院" transform="ref(svg,13052.5046,-3349.0004)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかよし歯科クリニック,福岡県筑紫野市大字筑紫１３-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なかよし歯科クリニック" transform="ref(svg,13055.1972,-3346.2859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なの花歯科医院,福岡県筑紫野市大字下見２３７-１,歯科　小児歯科,,,9" xlink:title="なの花歯科医院" transform="ref(svg,13055.795,-3347.0248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のだ歯科医院,福岡県筑紫野市美しが丘南１-２-１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="のだ歯科医院" transform="ref(svg,13054.6064,-3344.7613)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のりこキッズマム歯科医院,福岡県筑紫野市原田４-１４-１４,歯科　小児歯科　矯正歯科,,,9" xlink:title="のりこキッズマム歯科医院" transform="ref(svg,13054.2399,-3345.0464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,拝形歯科医院,福岡県筑紫野市石崎１-１０-７,歯科　小児歯科,,,9" xlink:title="拝形歯科医院" transform="ref(svg,13052.8502,-3348.6118)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はぎわら歯科医院,福岡県筑紫野市湯町３-１２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はぎわら歯科医院" transform="ref(svg,13051.7138,-3348.8465)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,濱坂歯科医院,福岡県筑紫野市筑紫８１０-４,歯科　小児歯科,,,9" xlink:title="濱坂歯科医院" transform="ref(svg,13054.6208,-3346.0152)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はるデンタルクリニック,福岡県筑紫野市大字原４０７-１,歯科　小児歯科,,,9" xlink:title="はるデンタルクリニック" transform="ref(svg,13054.6992,-3351.6293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひきた歯科医院,福岡県筑紫野市杉塚７-１-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="ひきた歯科医院" transform="ref(svg,13050.3958,-3350.8154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福原歯科医院,福岡県筑紫野市針摺中央２-１４-１,歯科,,,9" xlink:title="福原歯科医院" transform="ref(svg,13053.5575,-3348.3822)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふくふくデンタルクリニック,福岡県筑紫野市吉木２３８１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふくふくデンタルクリニック" transform="ref(svg,13055.4395,-3350.9048)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,二日市駅ビル歯科クリニック,福岡県筑紫野市二日市中央６-１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="二日市駅ビル歯科クリニック" transform="ref(svg,13051.7629,-3350.202)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フレンド歯科,福岡県筑紫野市塔原東２-４-５,歯科　小児歯科,,,9" xlink:title="フレンド歯科" transform="ref(svg,13051.0145,-3349.7551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほそかわ歯科医院,福岡県筑紫野市筑紫駅前通１-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ほそかわ歯科医院" transform="ref(svg,13055.2964,-3346.364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松永歯科医院,福岡県筑紫野市針摺中央２-３-５,歯科　小児歯科,,,9" xlink:title="松永歯科医院" transform="ref(svg,13053.2605,-3348.4865)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらかみ歯科・小児歯科,福岡県筑紫野市針摺東５-１-２１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="むらかみ歯科・小児歯科" transform="ref(svg,13054.2309,-3348.2888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらさき歯科,福岡県筑紫野市二日市中央２-１２-８,歯科　歯科口腔外科,,,9" xlink:title="むらさき歯科" transform="ref(svg,13052.0131,-3349.5987)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森歯科医院,福岡県筑紫野市杉塚１-１-３８,歯科,,,9" xlink:title="森歯科医院" transform="ref(svg,13050.6588,-3349.9749)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,福岡県筑紫野市光ケ丘４-４-３,歯科　小児歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,13056.0311,-3345.0127)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,レヴィ歯科クリニック,福岡県筑紫野市美しが丘南１-１２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="レヴィ歯科クリニック" transform="ref(svg,13054.1472,-3344.5718)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科医院,福岡県筑紫野市二日市中央４-６-１０,歯科,,,9" xlink:title="和田歯科医院" transform="ref(svg,13051.6444,-3349.9528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅尾歯科クリニック,福岡県春日市大谷７-１４８-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="浅尾歯科クリニック" transform="ref(svg,13045.7548,-3352.4653)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒木歯科医院,福岡県春日市昇町５-８４-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="荒木歯科医院" transform="ref(svg,13044.9043,-3352.669)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有田歯科医院,福岡県春日市一の谷４-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="有田歯科医院" transform="ref(svg,13044.8857,-3352.2095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いくやま歯科クリニック,福岡県春日市宝町３-２-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いくやま歯科クリニック" transform="ref(svg,13045.9976,-3353.5448)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,福岡県春日市春日原北町４-５０-４３,歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13047.1155,-3353.5907)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）川崎歯科医院,福岡県春日市昇町３-１９４-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）川崎歯科医院" transform="ref(svg,13044.7644,-3352.9354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）今泉仁美子デンタルクリニック,福岡県春日市春日原東町３-３８,歯科,,,9" xlink:title="（医）今泉仁美子デンタルクリニック" transform="ref(svg,13047.5023,-3353.5664)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）Ｃｒｅ　Ｖｉｅわかば総合歯科クリニック,福岡県春日市昇町７-５８,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="（医）Ｃｒｅ　Ｖｉｅわかば総合歯科クリニック" transform="ref(svg,13045.3179,-3351.9105)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）鋼寿会末延さんま歯科医院,福岡県春日市下白水南３-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）鋼寿会末延さんま歯科医院" transform="ref(svg,13044.2976,-3352.6059)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）正歯会やまひろ歯科医院,福岡県春日市昇町３-２６４,歯科　小児歯科,,,9" xlink:title="（医）正歯会やまひろ歯科医院" transform="ref(svg,13044.5742,-3352.7615)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）にこにこ小児歯科,福岡県春日市岡本１-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）にこにこ小児歯科" transform="ref(svg,13044.9796,-3354.1867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）古澤こども歯科クリニック,福岡県春日市春日原北町４-３,矯正歯科　小児歯科,,,9" xlink:title="（医）古澤こども歯科クリニック" transform="ref(svg,13046.9842,-3353.609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エース歯科,福岡県春日市大谷８-１０６,歯科　小児歯科,,,9" xlink:title="エース歯科" transform="ref(svg,13045.3719,-3352.5487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおの歯科医院,福岡県春日市昇町６-２６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おおの歯科医院" transform="ref(svg,13045.1184,-3352.2507)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかむら歯科クリニック,福岡県春日市昇町３-２１５-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おかむら歯科クリニック" transform="ref(svg,13044.7879,-3352.8394)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おひさま歯科クリニック,福岡県春日市白水ケ丘１-２３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おひさま歯科クリニック" transform="ref(svg,13044.5594,-3351.3033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柏原歯科医院,福岡県春日市昇町２-７６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="柏原歯科医院" transform="ref(svg,13044.6917,-3353.1452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かすがキッズマム歯科医院,福岡県春日市惣利２-３２,歯科　矯正歯科　小児歯科,,,9" xlink:title="かすがキッズマム歯科医院" transform="ref(svg,13046.8112,-3351.0079)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かすが矯正歯科クリニック,福岡県春日市春日原北町３-４１,矯正歯科,,,9" xlink:title="かすが矯正歯科クリニック" transform="ref(svg,13047.2758,-3353.7951)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かすが歯科,福岡県春日市惣利５-１３-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かすが歯科" transform="ref(svg,13046.8595,-3351.6317)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かねなわ歯科医院,福岡県春日市惣利１-１２７,歯科,,,9" xlink:title="かねなわ歯科医院" transform="ref(svg,13046.8633,-3351.4914)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きたはら歯科医院,福岡県春日市白水ヶ丘４-３５,歯科　矯正歯科　小児歯科,,,9" xlink:title="きたはら歯科医院" transform="ref(svg,13044.4517,-3351.6341)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きみ歯科医院,福岡県春日市春日原北町２-５-１,歯科　小児歯科,,,9" xlink:title="きみ歯科医院" transform="ref(svg,13047.0586,-3353.719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くま歯科・こども歯科,福岡県春日市上白水３-１０２,歯科　矯正歯科　小児歯科,,,9" xlink:title="くま歯科・こども歯科" transform="ref(svg,13044.4697,-3351.7455)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,口腔保健センターちくし休日急患歯科診療所,福岡県春日市春日原北町１-３-６,歯科,,,9" xlink:title="口腔保健センターちくし休日急患歯科診療所" transform="ref(svg,13046.9175,-3353.7762)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古賀歯科医院,福岡県春日市上白水３-４１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="古賀歯科医院" transform="ref(svg,13044.1163,-3351.9509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古賀歯科クリニック,福岡県春日市岡本１-１０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="古賀歯科クリニック" transform="ref(svg,13045.0028,-3354.1638)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,福岡県春日市春日公園２-６７,歯科　小児歯科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,13047.5424,-3352.5788)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サルーテ歯科医院,福岡県春日市須玖北７-１１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="サルーテ歯科医院" transform="ref(svg,13044.0671,-3353.9992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島添歯科医院,福岡県春日市春日原東町１-２０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="島添歯科医院" transform="ref(svg,13047.3301,-3353.8898)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しらきはら歯科,福岡県春日市若葉台西３-６,歯科　小児歯科,,,9" xlink:title="しらきはら歯科" transform="ref(svg,13046.0794,-3352.9052)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白水歯科医院,福岡県春日市伯玄町２-２９-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="白水歯科医院" transform="ref(svg,13045.5979,-3353.2105)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すべ歯科クリニック,福岡県春日市須玖北７-１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すべ歯科クリニック" transform="ref(svg,13043.9829,-3354.2464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,そうり歯科医院,福岡県春日市惣利２-５４,歯科　矯正歯科　小児歯科,,,9" xlink:title="そうり歯科医院" transform="ref(svg,13046.9032,-3351.2254)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高野歯科医院,福岡県春日市下白水北７-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="高野歯科医院" transform="ref(svg,13044.0078,-3352.5531)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たからまち歯科クリニック,福岡県春日市小倉１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たからまち歯科クリニック" transform="ref(svg,13045.6942,-3353.5049)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,福岡県春日市宝町４-２１-１,歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13045.9536,-3353.3328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デイジーデンタルクリニック,福岡県春日市下白水南５-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="デイジーデンタルクリニック" transform="ref(svg,13044.1735,-3352.3923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とくだ歯科医院,福岡県春日市須玖北２-９５-１,歯科,,,9" xlink:title="とくだ歯科医院" transform="ref(svg,13044.3368,-3354.4273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山歯科,福岡県春日市春日１０-１５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中山歯科" transform="ref(svg,13046.5127,-3351.4716)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西原歯科医院,福岡県春日市紅葉ケ丘西３-３２,歯科,,,9" xlink:title="西原歯科医院" transform="ref(svg,13045.6965,-3352.0024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西村歯科医院,福岡県春日市春日原北町３-６０,歯科　小児歯科,,,9" xlink:title="西村歯科医院" transform="ref(svg,13047.3078,-3353.7011)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根木歯科医院,福岡県春日市千歳町２-２３,歯科　矯正歯科　小児歯科,,,9" xlink:title="根木歯科医院" transform="ref(svg,13046.65,-3353.4848)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしもと歯科クリニック,福岡県春日市岡本１-７８,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="はしもと歯科クリニック" transform="ref(svg,13044.9791,-3354.0452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花田歯科医院,福岡県春日市ちくし台１-２３,歯科疾患の全て　顎関節の不調和　不具合　噛み合わせ不良による頭痛　首肩背中のこり痛みなど　歯科口腔外科,,,9" xlink:title="花田歯科医院" transform="ref(svg,13045.9117,-3352.3288)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はらだ歯科,福岡県春日市春日原北町４-１１,歯科　小児歯科,,,9" xlink:title="はらだ歯科" transform="ref(svg,13047.0533,-3353.6551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日の出いこい歯科医院,福岡県春日市日の出町４-１７-３,歯科　小児歯科,,,9" xlink:title="日の出いこい歯科医院" transform="ref(svg,13045.213,-3354.2973)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろた歯科医院,福岡県春日市須玖南１-１３５,歯科,,,9" xlink:title="ひろた歯科医院" transform="ref(svg,13044.4962,-3353.9498)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじた歯科医院,福岡県春日市上白水７-１４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふじた歯科医院" transform="ref(svg,13044.2232,-3351.7335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤田歯科クリニック,福岡県春日市千歳町３-１１,歯科　小児歯科,,,9" xlink:title="藤田歯科クリニック" transform="ref(svg,13046.3853,-3353.5431)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科クリニック,福岡県春日市若葉台西１-２１,歯科,,,9" xlink:title="松本歯科クリニック" transform="ref(svg,13046.0348,-3353.139)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらかわ歯科クリニック,福岡県春日市春日原北町５-８-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="むらかわ歯科クリニック" transform="ref(svg,13046.9234,-3353.5817)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまぐち歯科医院,福岡県春日市桜ヶ丘１-１１４,歯科　小児歯科,,,9" xlink:title="やまぐち歯科医院" transform="ref(svg,13044.6987,-3354.7314)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしなが歯科医院,福岡県春日市須玖南５-２２,歯科　矯正歯科　小児歯科,,,9" xlink:title="よしなが歯科医院" transform="ref(svg,13044.5609,-3353.5115)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あなみ歯科医院,福岡県大野城市曙３-２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="あなみ歯科医院" transform="ref(svg,13047.888,-3353.3085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安東歯科医院,福岡県大野城市瓦田１-１６-１２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="安東歯科医院" transform="ref(svg,13048.0138,-3353.0621)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしげ歯科医院,福岡県大野城市上大利４-６-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="いしげ歯科医院" transform="ref(svg,13048.1639,-3351.4057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井手歯科医院,福岡県大野城市南ヶ丘４-３-１８,歯科　矯正歯科,,,9" xlink:title="井手歯科医院" transform="ref(svg,13047.8114,-3350.4408)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科医院,福岡県大野城市筒井１-１８-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いとう歯科医院" transform="ref(svg,13047.7248,-3354.2877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,福岡県大野城市雑餉隈５-３-７,歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13047.2921,-3353.9426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いび歯科医院,福岡県大野城市南ヶ丘３-５-１,歯科,,,9" xlink:title="いび歯科医院" transform="ref(svg,13048.0622,-3350.3566)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）カニ歯科医院,福岡県大野城市下大利２-１２-１１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）カニ歯科医院" transform="ref(svg,13048.9032,-3352.0934)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）佐藤道彦歯科医院,福岡県大野城市上大利２-１０-１,歯科,,,9" xlink:title="（医）佐藤道彦歯科医院" transform="ref(svg,13048.3567,-3351.9273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）はなだ歯科クリニック,福岡県大野城市白木原１-１７-４-１階,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）はなだ歯科クリニック" transform="ref(svg,13047.9364,-3352.6137)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわたに歯科小児歯科,福岡県大野城市上大利５-３-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いわたに歯科小児歯科" transform="ref(svg,13048.1343,-3351.5307)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえの歯科医院,福岡県大野城市東大利３-１６-２１-１０２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="うえの歯科医院" transform="ref(svg,13048.8258,-3352.5222)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上ノ町歯科医院,福岡県大野城市白木原１-４-５,歯科　小児歯科,,,9" xlink:title="上ノ町歯科医院" transform="ref(svg,13048.1213,-3352.9074)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内野歯科医院,福岡県大野城市下大利団地２棟１,歯科　小児歯科,,,9" xlink:title="内野歯科医院" transform="ref(svg,13049.1458,-3352.2681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えとう歯科クリニック,福岡県大野城市つつじヶ丘１-１５-２６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="えとう歯科クリニック" transform="ref(svg,13048.5004,-3350.166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大賀歯科医院,福岡県大野城市畑ケ坂１-７-２,歯科　小児歯科,,,9" xlink:title="大賀歯科医院" transform="ref(svg,13046.9476,-3350.4156)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかだ歯科クリニック,福岡県大野城市御笠川６-８-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おかだ歯科クリニック" transform="ref(svg,13049.0524,-3353.4029)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科医院,福岡県大野城市錦町２-５-３,歯科,,,9" xlink:title="かとう歯科医院" transform="ref(svg,13047.4569,-3353.8441)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわくぼ歯科医院,福岡県大野城市川久保２-８-４,歯科　小児歯科,,,9" xlink:title="かわくぼ歯科医院" transform="ref(svg,13049.1544,-3355.1294)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河波歯科医院,福岡県大野城市山田１-１-３１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="河波歯科医院" transform="ref(svg,13047.0005,-3354.6417)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわの歯科医院,福岡県大野城市中１-５-３８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かわの歯科医院" transform="ref(svg,13048.0044,-3355.2141)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,工藤歯科医院,福岡県大野城市大城４-７-２１,歯科,,,9" xlink:title="工藤歯科医院" transform="ref(svg,13049.2182,-3353.4859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くぼ歯科クリニック,福岡県大野城市平野台１-１７-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くぼ歯科クリニック" transform="ref(svg,13046.8786,-3349.5574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こんどう歯科医院,福岡県大野城市栄町１-１-７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こんどう歯科医院" transform="ref(svg,13046.9024,-3354.1107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,財前歯科医院,福岡県大野城市南ヶ丘２-１-２,歯科　小児歯科,,,9" xlink:title="財前歯科医院" transform="ref(svg,13048.1918,-3350.6868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,福岡県大野城市下大利１-９-１７,歯科　小児歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13048.8401,-3352.2897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サン・スマイル歯科,福岡県大野城市東大利２-２-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="サン・スマイル歯科" transform="ref(svg,13048.8812,-3352.4189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科・かずクリニック,福岡県大野城市東大利２-４-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯科・かずクリニック" transform="ref(svg,13049.0151,-3352.2322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しばたスマイル歯科クリニック,福岡県大野城市白木原１-７-５,歯科　小児歯科,,,9" xlink:title="しばたスマイル歯科クリニック" transform="ref(svg,13048.2072,-3352.8847)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白木原歯科,福岡県大野城市白木原１-１-５５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="白木原歯科" transform="ref(svg,13047.9658,-3352.8545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,園田歯科医院,福岡県大野城市錦町４-６-２１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="園田歯科医院" transform="ref(svg,13047.749,-3353.6094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永冨歯科医院,福岡県大野城市若草２-４-３,歯科　小児歯科,,,9" xlink:title="永冨歯科医院" transform="ref(svg,13046.7935,-3350.6928)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながとも歯科クリニック,福岡県大野城市大字筒井５-１-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="ながとも歯科クリニック" transform="ref(svg,13048.0551,-3353.8243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中野歯科クリニック,福岡県大野城市若草３-９-１７,歯科　小児歯科,,,9" xlink:title="中野歯科クリニック" transform="ref(svg,13047.0862,-3350.684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なごみ歯科医院,福岡県大野城市瓦田１-１４-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なごみ歯科医院" transform="ref(svg,13047.9068,-3353.0225)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野口歯科医院,福岡県大野城市東大利１-７-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="野口歯科医院" transform="ref(svg,13048.7275,-3352.7225)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のむら歯科医院,福岡県大野城市月の浦３-１７-２,歯科　小児歯科,,,9" xlink:title="のむら歯科医院" transform="ref(svg,13045.7461,-3349.969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はたじ歯科医院,福岡県大野城市下大利３-２-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="はたじ歯科医院" transform="ref(svg,13049.0569,-3351.8081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はち歯科医院,福岡県大野城市川久保１-１２-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はち歯科医院" transform="ref(svg,13048.7244,-3355.0486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科,福岡県大野城市白木原５-１-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="原歯科" transform="ref(svg,13048.5077,-3353.1283)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日高歯科医院,福岡県大野城市乙金１-１３-３８,歯科　小児歯科,,,9" xlink:title="日高歯科医院" transform="ref(svg,13049.2219,-3354.4248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろかど歯科医院,福岡県大野城市紫台１１８,歯科　小児歯科,,,9" xlink:title="ひろかど歯科医院" transform="ref(svg,13048.0827,-3350.536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふくみつ歯科,福岡県大野城市大池２-２１-３５,歯科,,,9" xlink:title="ふくみつ歯科" transform="ref(svg,13048.7573,-3353.8825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,船越歯科医院,福岡県大野城市錦町２-４-１０,歯科　小児歯科,,,9" xlink:title="船越歯科医院" transform="ref(svg,13047.5456,-3353.8621)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松永歯科医院,福岡県大野城市山田４-８-２,歯科,,,9" xlink:title="松永歯科医院" transform="ref(svg,13047.2055,-3354.4021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつふじ歯科医院,福岡県大野城市月の浦１-２５-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="まつふじ歯科医院" transform="ref(svg,13046.1574,-3349.8966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮の前歯科診療所,福岡県大野城市筒井３-９-５８,不明,,,9" xlink:title="宮の前歯科診療所" transform="ref(svg,13047.8838,-3354.0832)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ミント歯科クリニック大野城,福岡県大野城市錦町４-１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ミント歯科クリニック大野城" transform="ref(svg,13047.6202,-3353.7805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むねおか歯科医院,福岡県大野城市白木原２-１０-１,歯科　小児歯科,,,9" xlink:title="むねおか歯科医院" transform="ref(svg,13048.1875,-3352.6795)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,福岡県大野城市下大利２-１８-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13049.0084,-3352.0717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,福岡県大野城市下大利１-１９-３,歯科　小児歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13048.6867,-3352.1278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科医院,福岡県大野城市筒井１-５-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="よしだ歯科医院" transform="ref(svg,13047.589,-3354.154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,四つ葉歯科,福岡県大野城市白木原１-７-２６-１０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="四つ葉歯科" transform="ref(svg,13048.2679,-3352.778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わに歯科医院,福岡県大野城市白木原３-１０-２０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="わに歯科医院" transform="ref(svg,13048.3264,-3352.9086)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池内歯科医院,福岡県太宰府市通古賀３-１２-１５,歯科,,,9" xlink:title="池内歯科医院" transform="ref(svg,13050.7525,-3351.1449)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恵寿会坂本歯科医院,福岡県太宰府市観世音寺３-１４-６,歯科　小児歯科,,,9" xlink:title="（医）恵寿会坂本歯科医院" transform="ref(svg,13050.7433,-3351.416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）山口歯科医院,福岡県太宰府市通古賀３-９-３,歯科,,,9" xlink:title="（医）山口歯科医院" transform="ref(svg,13050.653,-3351.0697)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,魚住歯科医院,福岡県太宰府市宰府２-９-１３,歯科,,,9" xlink:title="魚住歯科医院" transform="ref(svg,13053.214,-3351.7232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うちだ歯科クリニック,福岡県太宰府市梅ヶ丘１-８-３９,歯科　小児歯科,,,9" xlink:title="うちだ歯科クリニック" transform="ref(svg,13053.8025,-3349.3859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおた歯科クリニック,福岡県太宰府市大佐野３-１-５２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おおた歯科クリニック" transform="ref(svg,13049.5462,-3350.22)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科,福岡県太宰府市吉松３-１４-１５,歯科　小児歯科,,,9" xlink:title="さいとう歯科" transform="ref(svg,13048.9953,-3351.4584)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科医院,福岡県太宰府市朱雀２-２９-１２,歯科,,,9" xlink:title="佐々木歯科医院" transform="ref(svg,13051.7425,-3350.3408)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柴原歯科医院,福岡県太宰府市五条２-６-３５,歯科　歯科口腔外科,,,9" xlink:title="柴原歯科医院" transform="ref(svg,13052.5733,-3351.1473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,じょう歯科診療所,福岡県太宰府市通古賀４-５-２０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="じょう歯科診療所" transform="ref(svg,13050.7495,-3350.7384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんかい歯科クリニック,福岡県太宰府市坂本１-２-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="しんかい歯科クリニック" transform="ref(svg,13050.7877,-3351.3107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,福岡県太宰府市都府楼南４-３-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13050.9593,-3350.491)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,陶山歯科医院,福岡県太宰府市観世音寺２-１９-１,歯科,,,9" xlink:title="陶山歯科医院" transform="ref(svg,13050.8751,-3351.3047)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たむら歯科医院,福岡県太宰府市大佐野２-１０-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たむら歯科医院" transform="ref(svg,13049.7365,-3350.0843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,筒井歯科医院,福岡県太宰府市梅香苑１-１-２１,歯科,,,9" xlink:title="筒井歯科医院" transform="ref(svg,13053.1692,-3350.1599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,トータルケアデンタルクリニック,福岡県太宰府市大佐野５-１７-１,歯科,,,9" xlink:title="トータルケアデンタルクリニック" transform="ref(svg,13048.7798,-3349.9139)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかがわ歯科医院,福岡県太宰府市五条２-２２-５,歯科　小児歯科,,,9" xlink:title="なかがわ歯科医院" transform="ref(svg,13052.4546,-3351.0238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハートスマイル歯科クリニック,福岡県太宰府市向佐野３-３-２１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ハートスマイル歯科クリニック" transform="ref(svg,13049.4856,-3350.7296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,早川歯科医院,福岡県太宰府市宰府３-４-３７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="早川歯科医院" transform="ref(svg,13053.2337,-3352.068)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,福岡県太宰府市五条１-１５-８,歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13053.0104,-3351.6247)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろ歯科クリニック,福岡県太宰府市水城３-７-２２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひろ歯科クリニック" transform="ref(svg,13049.7433,-3352.5605)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,プラムデンタルクリニック,福岡県太宰府市通古賀３-３-２０,歯科　小児歯科,,,9" xlink:title="プラムデンタルクリニック" transform="ref(svg,13050.7029,-3350.918)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星が丘歯科,福岡県太宰府市青山４-１６-７,不明,,,9" xlink:title="星が丘歯科" transform="ref(svg,13053.6014,-3350.3745)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増田歯科医院,福岡県太宰府市長浦台４-１３-５,歯科　小児歯科,,,9" xlink:title="増田歯科医院" transform="ref(svg,13049.0333,-3350.3943)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松崎歯科医院,福岡県太宰府市梅ヶ丘１-３-１１,歯科　小児歯科,,,9" xlink:title="松崎歯科医院" transform="ref(svg,13053.9599,-3349.4326)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みかさ歯科医院,福岡県太宰府市御笠１-２-２,歯科　小児歯科,,,9" xlink:title="みかさ歯科医院" transform="ref(svg,13053.6323,-3353.096)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むかえ歯科医院,福岡県太宰府市高雄６-１-２２,歯科　小児歯科,,,9" xlink:title="むかえ歯科医院" transform="ref(svg,13054.3635,-3349.5565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,メイプル歯科医院,福岡県太宰府市国分１-５-４３,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="メイプル歯科医院" transform="ref(svg,13050.1739,-3351.7912)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やすたけ歯科医院,福岡県太宰府市国分１-１３-２６,歯科　矯正歯科,,,9" xlink:title="やすたけ歯科医院" transform="ref(svg,13050.0089,-3351.9607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やました歯科医院,福岡県太宰府市大佐野６-２-２１,歯科　小児歯科,,,9" xlink:title="やました歯科医院" transform="ref(svg,13048.5593,-3350.0523)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉塚歯科医院,福岡県太宰府市五条２-２-３０,歯科　矯正歯科　小児歯科,,,9" xlink:title="吉塚歯科医院" transform="ref(svg,13052.68,-3351.2805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしむら歯科医院,福岡県太宰府市観世音寺５-１-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="よしむら歯科医院" transform="ref(svg,13052.4253,-3351.3873)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歴史公園前歯科クリニック,福岡県太宰府市向佐野４-１５-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="歴史公園前歯科クリニック" transform="ref(svg,13049.2361,-3351.0593)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アールデンタルオフィス,福岡県筑紫郡那珂川町中原５-３５-１,歯科　歯科口腔外科,,,9" xlink:title="アールデンタルオフィス" transform="ref(svg,13043.8206,-3351.0767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）元気が湧くこども歯科もとやま,福岡県筑紫郡那珂川町中原４-３９,矯正歯科　小児歯科,,,9" xlink:title="（医）元気が湧くこども歯科もとやま" transform="ref(svg,13043.4073,-3351.5208)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）拓医会本田歯科医院,福岡県筑紫郡那珂川町中原２-１３２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）拓医会本田歯科医院" transform="ref(svg,13043.5431,-3351.7952)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きや歯科医院,福岡県筑紫郡那珂川町五郎丸２-４５-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="きや歯科医院" transform="ref(svg,13043.019,-3351.126)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古賀歯科医院,福岡県筑紫郡那珂川町中原２-２７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="古賀歯科医院" transform="ref(svg,13043.3059,-3351.8132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科医院,福岡県筑紫郡那珂川町今光３-５,歯科　小児歯科,,,9" xlink:title="さいとう歯科医院" transform="ref(svg,13043.0434,-3352.1157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サクラ歯科医院,福岡県筑紫郡那珂川町中原２-５９-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="サクラ歯科医院" transform="ref(svg,13043.5357,-3351.8216)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,福岡県筑紫郡那珂川町松木１-１５０-１,歯科　小児歯科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,13043.3401,-3351.1589)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,福岡県筑紫郡那珂川町今光４-１３４,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13043.0628,-3351.6367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,徳永歯科医院,福岡県筑紫郡那珂川町松木２-８７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="徳永歯科医院" transform="ref(svg,13043.562,-3350.8753)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふたつぎ歯科クリニック,福岡県筑紫郡那珂川町王塚台１-２１-２,歯科,,,9" xlink:title="ふたつぎ歯科クリニック" transform="ref(svg,13043.7143,-3350.5887)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科医院,福岡県糟屋郡宇美町宇美東２-１２-１,歯科,,,9" xlink:title="服部歯科医院" transform="ref(svg,13053.3544,-3356.9979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,波多江歯科医院,福岡県糟屋郡宇美町貴船１-４-１８,歯科　小児歯科　矯正歯科,,,9" xlink:title="波多江歯科医院" transform="ref(svg,13051.1421,-3356.4523)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梶原歯科医院,福岡県糟屋郡宇美町桜原２-８-９,歯科,,,9" xlink:title="梶原歯科医院" transform="ref(svg,13052.4388,-3357.2714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福井歯科医院,福岡県糟屋郡志免町桜丘２-１１-１３,歯科,,,9" xlink:title="福井歯科医院" transform="ref(svg,13048.1685,-3357.017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながえ歯科医院,福岡県糟屋郡宇美町ひばりが丘２-３-１９,歯科,,,9" xlink:title="ながえ歯科医院" transform="ref(svg,13049.0084,-3356.5179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらやま歯科医院,福岡県糟屋郡宇美町大字宇美４-８-１,歯科　小児歯科,,,9" xlink:title="むらやま歯科医院" transform="ref(svg,13051.1878,-3356.9334)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しげみ歯科医院,福岡県糟屋郡宇美町宇美中央１-１２-２０,歯科　小児歯科,,,9" xlink:title="しげみ歯科医院" transform="ref(svg,13052.2943,-3356.9967)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかはしけいじ歯科医院,福岡県糟屋郡宇美町四王寺坂１-２９-１０,歯科,,,9" xlink:title="たかはしけいじ歯科医院" transform="ref(svg,13052.4725,-3356.1399)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こはら歯科医院,福岡県糟屋郡宇美町貴船１-１４-２０,歯科,,,9" xlink:title="こはら歯科医院" transform="ref(svg,13051.3188,-3356.1463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜ヶ丘歯科クリニック,福岡県糟屋郡志免町桜丘１-６-６,歯科　小児歯科,,,9" xlink:title="桜ヶ丘歯科クリニック" transform="ref(svg,13048.0266,-3357.18)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福井歯科医院,福岡県糟屋郡宇美町宇美４-１-１,歯科,,,9" xlink:title="福井歯科医院" transform="ref(svg,13051.0802,-3356.8609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみ歯科小児歯科医院,福岡県糟屋郡宇美町宇美５-１０-１,歯科　小児歯科,,,9" xlink:title="いずみ歯科小児歯科医院" transform="ref(svg,13051.1721,-3356.8834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うみ歯科医院,福岡県糟屋郡宇美町宇美４-１-３丸和メディカルビル３階,歯科　小児歯科　矯正歯科,,,9" xlink:title="うみ歯科医院" transform="ref(svg,13051.0575,-3356.8741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ブリエえがわ歯科医院,福岡県糟屋郡宇美町宇美３-７-２３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）ブリエえがわ歯科医院" transform="ref(svg,13050.8424,-3356.8629)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえだ歯科クリニック,福岡県糟屋郡宇美町ゆりが丘１-４-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="うえだ歯科クリニック" transform="ref(svg,13053.0055,-3355.5537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかはし歯科クリニック,福岡県糟屋郡宇美町宇美５-９-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たかはし歯科クリニック" transform="ref(svg,13051.1396,-3356.8606)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しのざき歯科クリニック,福岡県糟屋郡宇美町宇美６-１-６,歯科　小児歯科,,,9" xlink:title="しのざき歯科クリニック" transform="ref(svg,13050.9174,-3356.7376)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）桜香アップル歯科クリニック,福岡県朝倉郡筑前町二９５-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）桜香アップル歯科クリニック" transform="ref(svg,13056.4766,-3347.2611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,福岡県朝倉郡筑前町松延６８０-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13058.2213,-3346.3003)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科診療所,福岡県朝倉郡筑前町東小田７８-４,歯科　小児歯科,,,9" xlink:title="井上歯科診療所" transform="ref(svg,13059.5731,-3345.478)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田邉歯科医院,福岡県朝倉郡筑前町二１６６-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="田邉歯科医院" transform="ref(svg,13056.432,-3347.501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,福岡県朝倉郡筑前町篠隈３５５-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13059.472,-3345.676)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハートスマイル歯科,福岡県朝倉郡筑前町東小田４４８-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ハートスマイル歯科" transform="ref(svg,13059.136,-3344.538)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松原歯科,福岡県朝倉郡筑前町篠隈１９１-２,歯科　小児歯科,,,9" xlink:title="松原歯科" transform="ref(svg,13059.9692,-3345.4469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アポロ歯科医院,福岡県小郡市山隈２３４-２２,歯科　小児歯科　矯正歯科,,,9" xlink:title="アポロ歯科医院" transform="ref(svg,13059.6273,-3340.7268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いのうえ歯科クリニック,福岡県小郡市美鈴の杜１-９-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いのうえ歯科クリニック" transform="ref(svg,13056.1794,-3343.1759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今村歯科医院,福岡県小郡市大保７０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="今村歯科医院" transform="ref(svg,13056.1601,-3341.0131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわさき歯科,福岡県小郡市力武２５５-１２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="いわさき歯科" transform="ref(svg,13056.348,-3341.6274)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,牛嶋歯科医院,福岡県小郡市松崎１９６-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="牛嶋歯科医院" transform="ref(svg,13058.8734,-3339.8443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大多和歯科医院,福岡県小郡市三沢４１５１-１６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="大多和歯科医院" transform="ref(svg,13056.3503,-3342.4328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宝歯会小郡スマイル歯科小児科医院,福岡県小郡市大保弓場１１０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）宝歯会小郡スマイル歯科小児科医院" transform="ref(svg,13056.1616,-3341.0144)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かなざわ歯科クリニック,福岡県小郡市大板井３９１-４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="かなざわ歯科クリニック" transform="ref(svg,13055.9431,-3340.0535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,カネユキ歯科医院,福岡県小郡市津古８１６-９,歯科　小児歯科,,,9" xlink:title="カネユキ歯科医院" transform="ref(svg,13055.9286,-3344.5169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蒲池歯科医院,福岡県小郡市津古１４３２-３,歯科,,,9" xlink:title="蒲池歯科医院" transform="ref(svg,13056.6344,-3344.5278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,福岡県小郡市三沢４５-３,歯科　矯正歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,13055.7368,-3341.2524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,福岡県小郡市希みが丘５-８-６,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13054.4385,-3343.9764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科,福岡県小郡市三沢４８４７-１５,歯科,,,9" xlink:title="さくら歯科" transform="ref(svg,13056.0914,-3342.7873)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しらき歯科医院,福岡県小郡市小郡９９８-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="しらき歯科医院" transform="ref(svg,13054.6834,-3339.9134)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）立山立山歯科医院,福岡県小郡市井上１０３３-７,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）立山立山歯科医院" transform="ref(svg,13058.0947,-3339.9405)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ときつ歯科医院,福岡県小郡市大保１４９５-６,歯科,,,9" xlink:title="ときつ歯科医院" transform="ref(svg,13055.6873,-3340.7418)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかの歯科クリニック,福岡県小郡市美鈴が丘２-２５-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なかの歯科クリニック" transform="ref(svg,13055.0713,-3343.2657)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花田歯科医院,福岡県小郡市小郡６３０-２６,歯科,,,9" xlink:title="花田歯科医院" transform="ref(svg,13055.3974,-3340.4976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はなだ歯科医院,福岡県小郡市三国が丘１-５０,歯科,,,9" xlink:title="はなだ歯科医院" transform="ref(svg,13056.3655,-3343.6905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）松岡歯科医院,福岡県小郡市小郡９８-１,歯科,,,9" xlink:title="（医）松岡歯科医院" transform="ref(svg,13055.4233,-3339.9418)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ライフデンタルクリニック,福岡県小郡市横隈１６６４-１２,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="ライフデンタルクリニック" transform="ref(svg,13056.7741,-3343.0007)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,りんご歯科,福岡県小郡市三沢４７９５-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="りんご歯科" transform="ref(svg,13055.975,-3342.8088)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こいかわ歯科小児歯科クリニック,福岡県三井郡大刀洗町大字山隈字原田牟田１３１５-３１,歯科　小児歯科　矯正歯科,,,9" xlink:title="こいかわ歯科小児歯科クリニック" transform="ref(svg,13060.4572,-3341.0018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,保坂歯科医院,福岡県三井郡大刀洗町大字高樋２４６６-２,歯科,,,9" xlink:title="保坂歯科医院" transform="ref(svg,13060.0947,-3340.6887)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＭＡＴＳＵＯ　ＤＥＮＴＡＬ　ＣＬＩＮＩＣ,福岡県福岡市博多区竹下４-１４-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="ＭＡＴＳＵＯ　ＤＥＮＴＡＬ　ＣＬＩＮＩＣ" transform="ref(svg,13043.3508,-3356.7413)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおたに歯科クリニック,福岡県福岡市博多区銀天町３-６-１８,歯科　小児歯科,,,9" xlink:title="あおたに歯科クリニック" transform="ref(svg,13046.5089,-3354.5792)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あずま歯科医院,福岡県福岡市博多区東光寺町２-９-５１オルゴグラード福岡１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="あずま歯科医院" transform="ref(svg,13043.807,-3357.3607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおはし歯科医院,福岡県福岡市博多区板付７-３-１２,歯科　小児歯科,,,9" xlink:title="おおはし歯科医院" transform="ref(svg,13045.4024,-3355.8675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおやま歯科医院,福岡県福岡市博多区相生町２-２-１２,歯科　歯科口腔外科,,,9" xlink:title="おおやま歯科医院" transform="ref(svg,13045.8866,-3354.4756)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こが歯科医院,福岡県福岡市博多区三筑１-９-６,歯科　歯科口腔外科,,,9" xlink:title="こが歯科医院" transform="ref(svg,13045.4228,-3355.054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごとう歯科医院,福岡県福岡市博多区那珂５-１８-５,歯科,,,9" xlink:title="ごとう歯科医院" transform="ref(svg,13044.6102,-3356.5877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サンデンタルクリニック,福岡県福岡市博多区南本町２-１-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="サンデンタルクリニック" transform="ref(svg,13046.2386,-3354.6943)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スガ歯科医院,福岡県福岡市博多区諸岡３-１０-２０平野第２ビル１階,歯科　矯正歯科　小児歯科,,,9" xlink:title="スガ歯科医院" transform="ref(svg,13044.7117,-3355.9532)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たまさと歯科医院,福岡県福岡市博多区竹丘町２-４-１２ウィークリーイン南福岡１Ｆ,歯科,,,9" xlink:title="たまさと歯科医院" transform="ref(svg,13046.5269,-3354.4559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とがみ歯科クリニック,福岡県福岡市博多区麦野４-３６-１３,歯科　小児歯科,,,9" xlink:title="とがみ歯科クリニック" transform="ref(svg,13046.2602,-3354.8309)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしだ歯科医院,福岡県福岡市博多区井相田３-５-１,歯科　小児歯科,,,9" xlink:title="はしだ歯科医院" transform="ref(svg,13046.8561,-3355.3412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろまつ歯科医院,福岡県福岡市博多区板付２-１-２６,歯科　小児歯科,,,9" xlink:title="ひろまつ歯科医院" transform="ref(svg,13044.8186,-3356.7586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,メリー歯科医院,福岡県福岡市博多区銀天町２-１-２６ライオンズマンション南福岡中央２Ｆ,歯科　小児歯科,,,9" xlink:title="メリー歯科医院" transform="ref(svg,13046.3377,-3354.5776)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆうあいデンタルクリニック,福岡県福岡市博多区諸岡３-１０-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ゆうあいデンタルクリニック" transform="ref(svg,13044.7303,-3355.9678)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）たけだ歯科医院,福岡県福岡市博多区諸岡１-２２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）たけだ歯科医院" transform="ref(svg,13044.7746,-3356.2084)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）かさい歯科医院,福岡県福岡市博多区麦野１-２９-８,歯科,,,9" xlink:title="（医）かさい歯科医院" transform="ref(svg,13045.8845,-3355.3808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）秀朋会歯科柳本医院,福岡県福岡市博多区竹下４-１４-７,歯科,,,9" xlink:title="（医）秀朋会歯科柳本医院" transform="ref(svg,13043.3027,-3356.7893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）長谷歯科医院,福岡県福岡市博多区竹丘町１-２-２,歯科,,,9" xlink:title="（医）長谷歯科医院" transform="ref(svg,13046.3855,-3354.3816)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,福岡県福岡市博多区寿町２-４-２２,歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13046.0475,-3354.2549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河野歯科医院,福岡県福岡市博多区寿町３-１-１１,歯科,,,9" xlink:title="河野歯科医院" transform="ref(svg,13046.1382,-3354.4752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,福岡県福岡市博多区諸岡５-１-１大和ビル２Ｆ,歯科　歯科口腔外科,,,9" xlink:title="原歯科医院" transform="ref(svg,13045.165,-3355.6971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田ファミリー歯科,福岡県福岡市博多区麦野４-３８-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="原田ファミリー歯科" transform="ref(svg,13046.1979,-3354.807)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古川歯科医院,福岡県福岡市博多区元町１-１-５,歯科,,,9" xlink:title="古川歯科医院" transform="ref(svg,13046.2816,-3354.3411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古門歯科医院,福岡県福岡市博多区那珂６-２３-１-１６３,歯科,,,9" xlink:title="古門歯科医院" transform="ref(svg,13043.8374,-3356.5152)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,香野歯科医院,福岡県福岡市博多区元町１-７-１７,歯科　小児歯科,,,9" xlink:title="香野歯科医院" transform="ref(svg,13046.1392,-3354.2605)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,手嶋歯科医院,福岡県福岡市博多区南本町１-３-１０,歯科　小児歯科,,,9" xlink:title="手嶋歯科医院" transform="ref(svg,13046.0929,-3354.5822)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,酒井歯科医院,福岡県福岡市博多区銀天町３-４-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="酒井歯科医院" transform="ref(svg,13046.3797,-3354.6033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,住吉歯科医院,福岡県福岡市博多区麦野１-２１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="住吉歯科医院" transform="ref(svg,13045.7323,-3355.2854)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,諸岡第一歯科,福岡県福岡市博多区諸岡３-６-１５ＫＳＪビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="諸岡第一歯科" transform="ref(svg,13044.5963,-3356.209)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上野歯科医院,福岡県福岡市博多区麦野６-１８-５,歯科　小児歯科,,,9" xlink:title="上野歯科医院" transform="ref(svg,13046.526,-3354.9167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森歯科,福岡県福岡市博多区西春町１-１-４７-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="森歯科" transform="ref(svg,13046.5583,-3354.1221)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石橋歯科医院,福岡県福岡市博多区那珂２-２１-６,歯科,,,9" xlink:title="石橋歯科医院" transform="ref(svg,13043.9139,-3356.7909)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,泉歯科医院,福岡県福岡市博多区那珂１-２９-２１,歯科　小児歯科,,,9" xlink:title="泉歯科医院" transform="ref(svg,13043.692,-3357.1093)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大山歯科医院,福岡県福岡市博多区諸岡６-１２-２２,歯科　小児歯科,,,9" xlink:title="大山歯科医院" transform="ref(svg,13045.1024,-3355.2439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大坪歯科医院,福岡県福岡市博多区銀天町１-５-１１,歯科,,,9" xlink:title="大坪歯科医院" transform="ref(svg,13046.1997,-3354.5664)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央歯科医院,福岡県福岡市博多区麦野４-３８-１８新生ビル１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中央歯科医院" transform="ref(svg,13046.2781,-3354.748)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,布施歯科クリニック,福岡県福岡市博多区金の隈３-１３-８,歯科　小児歯科,,,9" xlink:title="布施歯科クリニック" transform="ref(svg,13047.6445,-3355.3595)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,福岡県福岡市南区井尻１-３６-２,歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,13044.3912,-3355.3393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なりとみ歯科医院,福岡県福岡市南区井尻２-２０-８,歯科　小児歯科,,,9" xlink:title="なりとみ歯科医院" transform="ref(svg,13044.383,-3355.4812)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,末松歯科クリニック,福岡県福岡市南区井尻３-１０-２０,歯科,,,9" xlink:title="末松歯科クリニック" transform="ref(svg,13044.4069,-3355.1938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,またま歯科医院,福岡県福岡市南区井尻３-１１-１８,歯科　小児歯科,,,9" xlink:title="またま歯科医院" transform="ref(svg,13044.4834,-3355.1544)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大岩ひろあき歯科,福岡県福岡市南区井尻３-１４-１２アバンセ井尻２０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大岩ひろあき歯科" transform="ref(svg,13044.7271,-3355.1837)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つつみ歯科医院,福岡県福岡市南区井尻３-２５-３１,歯科　小児歯科,,,9" xlink:title="つつみ歯科医院" transform="ref(svg,13044.5938,-3355.0957)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,牧野歯科医院,福岡県福岡市南区井尻４-１-３７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="牧野歯科医院" transform="ref(svg,13044.3715,-3355.1388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）山本歯科医院,福岡県福岡市南区井尻４-２-４８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）山本歯科医院" transform="ref(svg,13044.3579,-3355.0673)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）雄之会つきやま歯科医院,福岡県福岡市南区井尻５-２５-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）雄之会つきやま歯科医院" transform="ref(svg,13044.186,-3354.9034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかぐち小児・矯正歯科医院,福岡県福岡市南区井尻５-４-６,矯正歯科　小児歯科,,,9" xlink:title="さかぐち小児・矯正歯科医院" transform="ref(svg,13044.2748,-3355.0735)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわたに歯科医院,福岡県福岡市南区横手南町２０-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かわたに歯科医院" transform="ref(svg,13043.5213,-3354.5709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,多々隈歯科医院,福岡県福岡市南区警弥郷２-１３-２３,歯科,,,9" xlink:title="多々隈歯科医院" transform="ref(svg,13043.0015,-3353.3132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なお歯科・矯正歯科クリニック,福岡県福岡市南区警弥郷２-１５-１７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なお歯科・矯正歯科クリニック" transform="ref(svg,13043.0229,-3353.2142)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沖歯科医院,福岡県福岡市南区警弥郷３-５-２１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="沖歯科医院" transform="ref(svg,13043.0671,-3353.166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科クリニック,福岡県福岡市南区五十川２-１４-１５ＧＲＡＹＢＯＸ１０８　１Ｆ,歯科　小児歯科,,,9" xlink:title="かとう歯科クリニック" transform="ref(svg,13044.046,-3355.9778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村デンタルクリニック,福岡県福岡市南区五十川２-３３-３２,歯科　小児歯科,,,9" xlink:title="木村デンタルクリニック" transform="ref(svg,13043.7764,-3355.8906)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）康隆会井上歯科医院,福岡県福岡市南区高木１-１４-８,歯科　小児歯科,,,9" xlink:title="（医）康隆会井上歯科医院" transform="ref(svg,13043.6699,-3356.0308)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ソフィアデンタルクリニック,福岡県福岡市南区三宅３-１２-１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ソフィアデンタルクリニック" transform="ref(svg,13043.1509,-3355.0457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大橋南デンタルクリニック,福岡県福岡市南区折立町６-８田村ビル２０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大橋南デンタルクリニック" transform="ref(svg,13043.6905,-3355.3007)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三谷歯科医院,福岡県福岡市南区的場１-１０-１５,歯科　小児歯科,,,9" xlink:title="三谷歯科医院" transform="ref(svg,13043.361,-3354.3936)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ことぶき歯科クリニック,福岡県福岡市南区弥永１-２８-１１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ことぶき歯科クリニック" transform="ref(svg,13043.2923,-3353.1867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくらえ歯科こども歯科,福岡県福岡市南区弥永１-３５-５-１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくらえ歯科こども歯科" transform="ref(svg,13043.3445,-3353.0151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とう歯科クリニック,福岡県福岡市南区弥永４-２-３弥永クリニックゾーンＣ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="とう歯科クリニック" transform="ref(svg,13043.5895,-3352.9709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,甲木歯科医院,福岡県福岡市南区柳瀬１-３３-７柳瀬ショップ１Ｆ-Ａ,歯科　矯正歯科　小児歯科,,,9" xlink:title="甲木歯科医院" transform="ref(svg,13043.7045,-3353.2349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イロハデンタル,福岡県福岡市南区柳瀬１-４０-６第二城戸ビル１０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="イロハデンタル" transform="ref(svg,13043.9238,-3353.376)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あつみ歯科医院,福岡県福岡市南区曰佐１-２４-１７,歯科,,,9" xlink:title="あつみ歯科医院" transform="ref(svg,13043.6301,-3354.0613)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うしろがた歯科医院,福岡県福岡市南区曰佐４-２５-１,歯科　歯科口腔外科,,,9" xlink:title="うしろがた歯科医院" transform="ref(svg,13043.7615,-3353.8676)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すまいる歯科クリニック,福岡県福岡市南区井尻５-１３-２０,歯科,,,9" xlink:title="すまいる歯科クリニック" transform="ref(svg,13043.9825,-3355.3232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のきた歯科医院,佐賀県三養基郡基山町宮浦４８７-１０,歯科　矯正歯科,,,9" xlink:title="のきた歯科医院" transform="ref(svg,13053.014,-3342.4663)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,重松歯科医院,佐賀県三養基郡基山町宮浦９６４-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="重松歯科医院" transform="ref(svg,13052.5562,-3341.871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古賀歯科医院,佐賀県三養基郡基山町大字小倉字石尺３９５-７,歯科,,,9" xlink:title="古賀歯科医院" transform="ref(svg,13052.8649,-3341.5033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,佐賀県三養基郡基山町けやき台１-７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="原歯科医院" transform="ref(svg,13052.9963,-3343.1966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コシオ歯科医院,佐賀県三養基郡基山町宮浦１００１-５,歯科　小児歯科,,,9" xlink:title="コシオ歯科医院" transform="ref(svg,13052.2326,-3342.0598)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおやぎ歯科医院,佐賀県三養基郡基山町宮浦４６９-１,歯科,,,9" xlink:title="あおやぎ歯科医院" transform="ref(svg,13052.553,-3342.5642)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえまつ歯科,佐賀県鳥栖市弥生が丘２-９,一般歯科　小児歯科　口腔外科,,,9" xlink:title="うえまつ歯科" transform="ref(svg,13052.3736,-3340.3125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）元秀会隈本歯科医院,佐賀県鳥栖市弥生が丘２-１２４,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）元秀会隈本歯科医院" transform="ref(svg,13052.1948,-3340.3202)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ｃｈｉｅ　ｄｅｎｔａｌ　ｃｌｉｎｉｃ,佐賀県鳥栖市弥生が丘６-３２６,歯科　矯正歯科　小児歯科,,,9" xlink:title="ｃｈｉｅ　ｄｅｎｔａｌ　ｃｌｉｎｉｃ" transform="ref(svg,13051.3813,-3339.995)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヒロデンタルクリニック,佐賀県鳥栖市弥生が丘６-９８,歯科　矯正歯科　小児歯科,,,9" xlink:title="ヒロデンタルクリニック" transform="ref(svg,13051.8375,-3340.1371)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立山歯科医院,佐賀県三養基郡基山町小倉１６５７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="立山歯科医院" transform="ref(svg,13053.3683,-3342.9541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,弥生が丘みらい歯科クリニック,佐賀県鳥栖市弥生が丘２-１９４,歯科　小児歯科,,,9" xlink:title="弥生が丘みらい歯科クリニック" transform="ref(svg,13052.3664,-3341.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えさき歯科,佐賀県鳥栖市弥生が丘５-２１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="えさき歯科" transform="ref(svg,13051.7048,-3340.2247)" x="0" y="0"/>
+</g>
+</svg>

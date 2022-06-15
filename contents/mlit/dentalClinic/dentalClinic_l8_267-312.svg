@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13693.359375 -3515.625 17.578125 17.578125" go:dataArea="13693.359375 -3515.625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,やなせ歯科医院,愛知県豊明市三崎町高鴨１２-７,歯科,,,9" xlink:title="やなせ歯科医院" transform="ref(svg,13700.7323,-3505.2962)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,愛知県豊明市沓掛町垣ノ内３８-１,歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13701.9001,-3506.526)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村山ファミリー歯科,愛知県豊明市新栄町３-４１８,歯科　小児歯科,,,9" xlink:title="村山ファミリー歯科" transform="ref(svg,13698.6235,-3505.1214)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新栄歯科,愛知県豊明市新栄町６-８０,歯科　小児歯科,,,9" xlink:title="新栄歯科" transform="ref(svg,13698.3642,-3505.3315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科,愛知県豊明市栄町上姥子５-１７,歯科,,,9" xlink:title="井上歯科" transform="ref(svg,13699.3606,-3505.2058)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科,愛知県豊明市前後町善江１７２０-８,歯科　小児歯科,,,9" xlink:title="渡辺歯科" transform="ref(svg,13699.6391,-3505.3318)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊明歯科医院,愛知県豊明市新田町吉池２６-５吉池ビル２階,歯科　小児歯科,,,9" xlink:title="豊明歯科医院" transform="ref(svg,13701.4148,-3505.5124)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田知歯科医院,愛知県豊明市二村台１-９-１８,歯科　小児歯科,,,9" xlink:title="田知歯科医院" transform="ref(svg,13700.2209,-3505.8128)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつい歯科医院,愛知県豊明市阿野町奥屋６１,歯科　小児歯科,,,9" xlink:title="まつい歯科医院" transform="ref(svg,13701.1284,-3504.133)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつもり歯科,愛知県豊明市二村台４-１８-１５,歯科　小児歯科,,,9" xlink:title="まつもり歯科" transform="ref(svg,13700.93,-3506.5843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シバタ歯科,愛知県豊明市新田町下一ノ割７１-２,歯科　小児歯科,,,9" xlink:title="シバタ歯科" transform="ref(svg,13702.0442,-3505.077)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,二村台歯科医院,愛知県豊明市二村台７-２０-２,歯科　小児歯科,,,9" xlink:title="二村台歯科医院" transform="ref(svg,13701.1313,-3507.001)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三浦歯科医院,愛知県豊明市阿野町東阿野１９７,歯科　小児歯科,,,9" xlink:title="三浦歯科医院" transform="ref(svg,13701.4476,-3504.4767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほづみ歯科医院,愛知県豊明市新田町錦１４-８,歯科,,,9" xlink:title="ほづみ歯科医院" transform="ref(svg,13701.7535,-3505.7397)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおやま歯科医院,愛知県豊明市二村台２-１１-５,歯科　小児歯科,,,9" xlink:title="あおやま歯科医院" transform="ref(svg,13700.5188,-3506.1922)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,愛知県豊明市前後町鎗ケ名１８２４-８,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13699.8522,-3505.3681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科松岡クリニック,愛知県豊明市西川町島原１４-２,歯科　小児歯科,,,9" xlink:title="歯科松岡クリニック" transform="ref(svg,13701.3687,-3505.7759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科クリニック,愛知県豊明市二村台３-１-１豊明団地５４-１０８,歯科　小児歯科,,,9" xlink:title="鈴木歯科クリニック" transform="ref(svg,13700.6976,-3506.4116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みつばやし歯科クリニック,愛知県豊明市新田町子持松１１-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="みつばやし歯科クリニック" transform="ref(svg,13701.2147,-3505.3384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とよあけ矯正歯科,愛知県豊明市前後町善江１７０７-２森下ビル１階,矯正歯科,,,9" xlink:title="とよあけ矯正歯科" transform="ref(svg,13699.5702,-3505.4263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかぎ歯科医院,愛知県豊明市西川町笹原１５-８,歯科　小児歯科,,,9" xlink:title="たかぎ歯科医院" transform="ref(svg,13701.0485,-3505.8702)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごとう歯科,愛知県豊明市新栄町３-３１０-３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ごとう歯科" transform="ref(svg,13698.6154,-3505.4756)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科鳥居医院,愛知県豊明市新田町下一ノ割７２-１０,歯科　小児歯科,,,9" xlink:title="歯科鳥居医院" transform="ref(svg,13702.1699,-3505.0667)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,双峰歯科クリニック,愛知県豊明市三崎町ゆたか台３１-５,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="双峰歯科クリニック" transform="ref(svg,13700.4575,-3505.7079)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くつかけ歯科,愛知県豊明市沓掛町泉３０-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="くつかけ歯科" transform="ref(svg,13702.8434,-3505.7921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,けやき歯科クリニック,愛知県豊明市西川町荒巻４０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="けやき歯科クリニック" transform="ref(svg,13701.3461,-3506.3736)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ぜんご駅前歯科,愛知県豊明市前後町善江１７３７パルネス２号館３階,歯科　小児歯科　矯正歯科,,,9" xlink:title="ぜんご駅前歯科" transform="ref(svg,13699.6551,-3505.2436)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,外山歯科医院,愛知県豊明市新田町吉池８-１１,歯科　小児歯科　矯正歯科,,,9" xlink:title="外山歯科医院" transform="ref(svg,13701.6692,-3505.3192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田デンタルクリニック,愛知県豊明市栄町姥子１２８,歯科　小児歯科,,,9" xlink:title="前田デンタルクリニック" transform="ref(svg,13699.469,-3504.9904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,名豊デンタルサポート,愛知県豊明市阿野町長根７０-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="名豊デンタルサポート" transform="ref(svg,13700.2251,-3504.5435)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさの歯科クリニック,愛知県豊明市阿野町西ノ海戸２４-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="あさの歯科クリニック" transform="ref(svg,13700.8849,-3504.187)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科,愛知県日進市岩崎台１-７４０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="鈴木歯科" transform="ref(svg,13702.511,-3514.6968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊東歯科医院,愛知県日進市蟹甲町中島２７８-２,歯科,,,9" xlink:title="伊東歯科医院" transform="ref(svg,13704.0217,-3513.1873)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山岡歯科医院,愛知県日進市米野木町家下１２２-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="山岡歯科医院" transform="ref(svg,13706.0136,-3513.1744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤池歯科医院,愛知県日進市赤池町箕の手２-７１０,歯科,,,9" xlink:title="赤池歯科医院" transform="ref(svg,13702.3089,-3511.9551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福岡歯科医院,愛知県日進市折戸町高松３０５-１,歯科　小児歯科,,,9" xlink:title="福岡歯科医院" transform="ref(svg,13704.2677,-3511.9926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科,愛知県日進市岩藤町所寒２５-２,歯科　小児歯科,,,9" xlink:title="水野歯科" transform="ref(svg,13705.4585,-3514.739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,愛知県日進市三本木町大根８０-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="武田歯科医院" transform="ref(svg,13707.6545,-3513.9053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふくやす歯科,愛知県日進市浅田町上ノ山６０-１２,歯科　矯正歯科,,,9" xlink:title="ふくやす歯科" transform="ref(svg,13702.6449,-3512.5552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山寺歯科医院,愛知県日進市赤池町中島１０９-２３,歯科　小児歯科,,,9" xlink:title="山寺歯科医院" transform="ref(svg,13702.0364,-3511.7264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩崎橋歯科クリニック,愛知県日進市岩崎町小林９５-３,歯科　小児歯科,,,9" xlink:title="岩崎橋歯科クリニック" transform="ref(svg,13704.6449,-3514.6694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）土井歯科医院,愛知県日進市蟹甲町浅間下７-２,歯科,,,9" xlink:title="（医）土井歯科医院" transform="ref(svg,13704.6364,-3513.1994)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,香久山歯科医院,愛知県日進市岩崎町芦廻間８７-６,歯科,,,9" xlink:title="香久山歯科医院" transform="ref(svg,13702.7121,-3514.7424)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科,愛知県日進市米野木町丸山１４４,歯科　小児歯科　矯正歯科,,,9" xlink:title="加藤歯科" transform="ref(svg,13707.14,-3513.5349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ａｕｘ歯科クリニック,愛知県日進市栄１-２０１,歯科　小児歯科　矯正歯科　小児矯正歯科,,,9" xlink:title="ａｕｘ歯科クリニック" transform="ref(svg,13704.9525,-3511.6423)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大島歯科,愛知県日進市香久山２-２０４,歯科,,,9" xlink:title="大島歯科" transform="ref(svg,13702.5974,-3513.6064)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒川歯科,愛知県日進市折戸町枯木２１-１６０,歯科　小児歯科,,,9" xlink:title="荒川歯科" transform="ref(svg,13704.8697,-3511.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菱田デンタルクリニック,愛知県日進市香久山５-１８０１ＭＩＯ香久山２階,歯科　小児歯科　矯正歯科,,,9" xlink:title="菱田デンタルクリニック" transform="ref(svg,13702.7119,-3514.1986)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青山歯科室,愛知県日進市栄１-１１０１シャリオン日進２階・３階,歯科　小児歯科　矯正歯科,,,9" xlink:title="青山歯科室" transform="ref(svg,13704.8612,-3511.7278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂歯科,愛知県日進市赤池１-３００１第２５オーシャンプラザ２階-２,歯科　小児歯科,,,9" xlink:title="坂歯科" transform="ref(svg,13701.8981,-3512.085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉本歯科,愛知県日進市栄２-３０１,歯科,,,9" xlink:title="杉本歯科" transform="ref(svg,13704.9661,-3512.0783)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）トーマツ歯科医院,愛知県日進市梅森台３-１４３,歯科　小児歯科,,,9" xlink:title="（医）トーマツ歯科医院" transform="ref(svg,13701.5322,-3513.6564)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやわき歯科,愛知県日進市三本木町下川田６８０-３４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="みやわき歯科" transform="ref(svg,13708.1063,-3513.7908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩崎台デンタルクリニック,愛知県日進市岩崎台３-１７０１,歯科　矯正歯科,,,9" xlink:title="岩崎台デンタルクリニック" transform="ref(svg,13702.791,-3515.3693)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科医院,愛知県日進市岩崎台２-１０４,歯科　歯科口腔外科,,,9" xlink:title="成田歯科医院" transform="ref(svg,13702.6775,-3514.9183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もり歯科医院,愛知県日進市浅田平子２-２６５,歯科　小児歯科　矯正歯科,,,9" xlink:title="もり歯科医院" transform="ref(svg,13702.9213,-3511.7634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マナブ歯科,愛知県日進市岩崎町大廻間７-５,歯科　小児歯科,,,9" xlink:title="マナブ歯科" transform="ref(svg,13704.1099,-3514.4359)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科クリニック,愛知県日進市岩崎町北高上４４-４鶴田ビル２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="竹内歯科クリニック" transform="ref(svg,13703.3023,-3513.7644)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさの歯科,愛知県日進市東山４-８０２,歯科　小児歯科,,,9" xlink:title="あさの歯科" transform="ref(svg,13705.0708,-3512.5318)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,キッズ＆ママデンタルランド,愛知県日進市栄２-１３０５ノースステージ１階,歯科　小児歯科　矯正歯科,,,9" xlink:title="キッズ＆ママデンタルランド" transform="ref(svg,13704.8802,-3511.9869)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ともデンタルクリニック,愛知県日進市折戸町梨子ノ木２８-２３４,歯科　小児歯科　矯正歯科,,,9" xlink:title="ともデンタルクリニック" transform="ref(svg,13705.59,-3512.2036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科,愛知県日進市五色園３-２０４-３,歯科　小児歯科,,,9" xlink:title="田中歯科" transform="ref(svg,13706.1326,-3515.3409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えがお歯科,愛知県日進市折戸町定納１５６-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="えがお歯科" transform="ref(svg,13703.5117,-3512.9213)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とたに歯科クリニック,愛知県日進市藤塚４-１３４,歯科　小児歯科,,,9" xlink:title="とたに歯科クリニック" transform="ref(svg,13703.8547,-3511.8903)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナルオカ歯科,愛知県日進市赤池４-７１２,歯科　小児歯科,,,9" xlink:title="ナルオカ歯科" transform="ref(svg,13701.4789,-3511.9438)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山内歯科医院,愛知県日進市竹の山４-８０３,歯科　小児歯科,,,9" xlink:title="山内歯科医院" transform="ref(svg,13703.2373,-3515.5423)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中井歯科医院,愛知県日進市竹の山３-２０８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中井歯科医院" transform="ref(svg,13703.7475,-3514.911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ラピス歯科室,愛知県日進市赤池町中島１０９-５７,歯科,,,9" xlink:title="ラピス歯科室" transform="ref(svg,13701.9986,-3511.883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＴＨＥ　ＩＴＯ　ＤＥＮＴＡＬ　ＣＬＩＮＩＣ,愛知県日進市香久山２-２１０５,歯科　小児歯科　矯正歯科,,,9" xlink:title="ＴＨＥ　ＩＴＯ　ＤＥＮＴＡＬ　ＣＬＩＮＩＣ" transform="ref(svg,13702.5416,-3514.2542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米野木歯科,愛知県日進市米野木町広久手８０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="米野木歯科" transform="ref(svg,13706.7179,-3512.5992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ドレミこどもデンタルクリニック,愛知県日進市赤池１-２８０１エクセルヤマキビル１階Ｂ,歯科　小児歯科　矯正歯科,,,9" xlink:title="ドレミこどもデンタルクリニック" transform="ref(svg,13701.747,-3512.0446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つぼなか歯科クリニック,愛知県日進市梅森台２-２１８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="つぼなか歯科クリニック" transform="ref(svg,13701.5139,-3513.3981)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日進あじさい歯科,愛知県日進市浅田町西前田１３-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="日進あじさい歯科" transform="ref(svg,13702.1267,-3512.4933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ワイワイデンタルクリニック赤池,愛知県日進市浅田町笹原８-１３６グランドファミリア赤池２号館,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ワイワイデンタルクリニック赤池" transform="ref(svg,13702.381,-3511.9863)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とし歯科・矯正歯科,愛知県日進市岩崎台１-２３０３-１３,歯科　小児歯科　矯正歯科,,,9" xlink:title="とし歯科・矯正歯科" transform="ref(svg,13701.9433,-3514.7089)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおや歯科クリニック,愛知県日進市赤池南２-１７０８-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="おおや歯科クリニック" transform="ref(svg,13701.6954,-3511.3697)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけのやま歯科,愛知県日進市竹の山４-６１１-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="たけのやま歯科" transform="ref(svg,13703.2841,-3515.3807)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＬＥＡＦ矯正歯科,愛知県日進市折戸町高松１７６-１,矯正歯科,,,9" xlink:title="ＬＥＡＦ矯正歯科" transform="ref(svg,13704.057,-3511.9575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木下歯科医院,愛知県愛知郡東郷町諸輪観音１,歯科,,,9" xlink:title="木下歯科医院" transform="ref(svg,13707.0972,-3510.2297)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野々山歯科医院,愛知県愛知郡東郷町春木上正葉廻間１３-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="野々山歯科医院" transform="ref(svg,13704.1421,-3508.352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白土歯科医院,愛知県愛知郡東郷町春木白土３９-２和合ショップ２階,歯科,,,9" xlink:title="白土歯科医院" transform="ref(svg,13702.4378,-3510.2232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桃沢歯科医院,愛知県愛知郡東郷町和合ケ丘２-９-１,歯科,,,9" xlink:title="桃沢歯科医院" transform="ref(svg,13704.4037,-3511.0362)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじはし歯科医院,愛知県愛知郡東郷町白鳥２-１３-１０,歯科　小児歯科,,,9" xlink:title="ふじはし歯科医院" transform="ref(svg,13705.4449,-3511.2555)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三矢歯科医院,愛知県愛知郡東郷町諸輪狐坂６２-６,歯科,,,9" xlink:title="三矢歯科医院" transform="ref(svg,13706.4011,-3510.1941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あずま歯科医院,愛知県愛知郡東郷町諸輪上鉾１２-１９６,歯科　小児歯科,,,9" xlink:title="あずま歯科医院" transform="ref(svg,13706.9307,-3512.1411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科クリニック,愛知県愛知郡東郷町清水１-２-２,歯科,,,9" xlink:title="山本歯科クリニック" transform="ref(svg,13702.8825,-3509.2714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白鳥スワン歯科・矯正歯科,愛知県愛知郡東郷町白鳥２-２-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="白鳥スワン歯科・矯正歯科" transform="ref(svg,13705.2741,-3510.9713)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,春木歯科・矯正歯科,愛知県愛知郡東郷町春木清水ヶ根４１１４-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="春木歯科・矯正歯科" transform="ref(svg,13704.0294,-3508.2955)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もも歯科クリニック,愛知県愛知郡東郷町和合前田１５３-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="もも歯科クリニック" transform="ref(svg,13705.1337,-3509.8759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナチュラルデンタルクリニック,愛知県愛知郡東郷町春木仲田１１１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ナチュラルデンタルクリニック" transform="ref(svg,13704.8576,-3508.4032)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかまつ歯科,愛知県愛知郡東郷町春木白土２-１１９,歯科　小児歯科,,,9" xlink:title="おかまつ歯科" transform="ref(svg,13702.2247,-3510.7288)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥川歯科室,愛知県愛知郡東郷町北山台１-２-１４,歯科　小児歯科,,,9" xlink:title="奥川歯科室" transform="ref(svg,13706.1633,-3509.769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よこいファミリー歯科,愛知県愛知郡東郷町春木白土１-２１１１,歯科　小児歯科,,,9" xlink:title="よこいファミリー歯科" transform="ref(svg,13702.8022,-3510.486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,がくデンタルクリニック,愛知県愛知郡東郷町諸輪字中木戸西８０-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="がくデンタルクリニック" transform="ref(svg,13706.6437,-3511.2882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おと貝歯科,愛知県愛知郡東郷町兵庫１-１-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="おと貝歯科" transform="ref(svg,13702.3826,-3509.4782)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むとう歯科医院,愛知県愛知郡東郷町御岳２-３-８,歯科,,,9" xlink:title="むとう歯科医院" transform="ref(svg,13706.3013,-3511.173)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科医院,愛知県知多郡東浦町緒川字宮戸６６-７,歯科,,,9" xlink:title="水野歯科医院" transform="ref(svg,13697.0307,-3498.6602)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松井歯科医院,愛知県知多郡東浦町森岡字一町田１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="松井歯科医院" transform="ref(svg,13696.9279,-3499.206)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金森歯科医院,愛知県知多郡東浦町緒川字申新田２区４０-８６,歯科　小児歯科,,,9" xlink:title="金森歯科医院" transform="ref(svg,13697.145,-3498.1061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,愛知県知多郡東浦町緒川字北新田３５-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13697.2276,-3498.2905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もりおか歯科,愛知県知多郡東浦町森岡字中町２３-１,歯科　小児歯科,,,9" xlink:title="もりおか歯科" transform="ref(svg,13696.158,-3499.4892)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,レオデンタルクリニック,愛知県知多郡東浦町森岡字取手１０６-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="レオデンタルクリニック" transform="ref(svg,13696.8782,-3499.5609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科,愛知県東海市富木島町東山３４-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="村上歯科" transform="ref(svg,13693.3727,-3501.3095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丹羽歯科医院,愛知県大府市共栄町８-１-８,歯科　小児歯科　矯正歯科,,,9" xlink:title="丹羽歯科医院" transform="ref(svg,13695.3771,-3504.0818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,愛知県大府市追分町３-３０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13695.8058,-3502.6696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本田歯科医院,愛知県大府市中央町５-１２７,歯科,,,9" xlink:title="本田歯科医院" transform="ref(svg,13696.3096,-3501.0502)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮田歯科医院,愛知県大府市大東町１-３３４,歯科　小児歯科　矯正歯科,,,9" xlink:title="宮田歯科医院" transform="ref(svg,13697.1989,-3501.0475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小塚歯科,愛知県大府市桃山町５-６３中本ビル１Ｆ,歯科,,,9" xlink:title="小塚歯科" transform="ref(svg,13696.451,-3501.2233)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大府歯科医院,愛知県大府市中央町３-１１０三英ビル２Ｆ,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="大府歯科医院" transform="ref(svg,13696.2529,-3500.8181)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺田歯科医院,愛知県大府市横根町名高山２４,歯科,,,9" xlink:title="寺田歯科医院" transform="ref(svg,13697.1639,-3503.3018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日高歯科医院,愛知県大府市月見町５-２５６,歯科,,,9" xlink:title="日高歯科医院" transform="ref(svg,13695.7255,-3500.5213)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三宅歯科医院,愛知県大府市中央町７-３５０,歯科,,,9" xlink:title="三宅歯科医院" transform="ref(svg,13696.5454,-3500.7624)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,セイダ歯科医院,愛知県大府市横根町前田７９,歯科　小児歯科,,,9" xlink:title="セイダ歯科医院" transform="ref(svg,13698.2615,-3501.5174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小木曽歯科医院,愛知県大府市東新町１-１８８-２,歯科　小児歯科,,,9" xlink:title="小木曽歯科医院" transform="ref(svg,13695.8547,-3503.7507)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きんばら歯科,愛知県大府市追分町１-２０３-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="きんばら歯科" transform="ref(svg,13695.797,-3502.9921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くまがい歯科,愛知県大府市江端町２-２３,歯科,,,9" xlink:title="くまがい歯科" transform="ref(svg,13695.4504,-3501.3524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内藤歯科,愛知県大府市江端町３-１０花井ビル２Ｆ,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="内藤歯科" transform="ref(svg,13695.4925,-3501.0158)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヒロセ歯科医院,愛知県大府市江端町４-５３,歯科　小児歯科,,,9" xlink:title="ヒロセ歯科医院" transform="ref(svg,13695.3416,-3501.2426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡戸歯科医院,愛知県大府市横根町名高１９４-３,歯科,,,9" xlink:title="岡戸歯科医院" transform="ref(svg,13698.0427,-3501.9038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荻須歯科医院,愛知県大府市森岡町神田２１-４,歯科,,,9" xlink:title="荻須歯科医院" transform="ref(svg,13695.2368,-3500.4275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斎藤歯科医院,愛知県大府市中央町４-２５２,歯科　小児歯科,,,9" xlink:title="斎藤歯科医院" transform="ref(svg,13696.5194,-3500.7251)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仲尾歯科,愛知県大府市吉田町３-１３,歯科　小児歯科,,,9" xlink:title="仲尾歯科" transform="ref(svg,13693.5129,-3500.518)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,愛知県大府市共栄町８-４-１５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13695.4864,-3503.7628)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡本歯科医院,愛知県大府市東新町１-２４８共和不動産ビル北館２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="岡本歯科医院" transform="ref(svg,13695.6184,-3503.4997)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阿部歯科,愛知県大府市大府町長根１０-１９１,歯科,,,9" xlink:title="阿部歯科" transform="ref(svg,13696.8552,-3502.0219)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しもむら歯科医院,愛知県大府市高丘町３-３６,歯科　小児歯科,,,9" xlink:title="しもむら歯科医院" transform="ref(svg,13693.3686,-3499.9017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,明成歯科医院,愛知県大府市明成町２-８,歯科　小児歯科　矯正歯科,,,9" xlink:title="明成歯科医院" transform="ref(svg,13694.5305,-3502.8818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矯正歯科伴クリニック,愛知県大府市月見町３-８８,矯正歯科,,,9" xlink:title="矯正歯科伴クリニック" transform="ref(svg,13695.7003,-3500.6373)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大府敬愛歯科,愛知県大府市北山町１-１-１,歯科　小児歯科　歯科口腔外科　内科,,,9" xlink:title="大府敬愛歯科" transform="ref(svg,13696.5858,-3503.4296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおぶファミリー歯科,愛知県大府市桃山町５-２００ザ・リレーションビル３Ｆ,歯科　小児歯科,,,9" xlink:title="おおぶファミリー歯科" transform="ref(svg,13696.5601,-3501.15)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松下歯科医院,愛知県大府市明成町１-１２９,歯科　小児歯科　矯正歯科,,,9" xlink:title="松下歯科医院" transform="ref(svg,13694.8488,-3503.1148)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こころ歯科クリニック,愛知県大府市森岡町１-１８７,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="こころ歯科クリニック" transform="ref(svg,13695.1024,-3500.6992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むつデンタルクリニック,愛知県大府市柊山町３-１７１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="むつデンタルクリニック" transform="ref(svg,13694.9211,-3501.7942)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森デンタルクリニック,愛知県大府市追分町６-３９０,歯科　小児歯科,,,9" xlink:title="森デンタルクリニック" transform="ref(svg,13695.8035,-3502.4172)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科クリニック,愛知県大府市明成町３-５６-１,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="小林歯科クリニック" transform="ref(svg,13695.2357,-3502.5474)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひいらぎやまキッズデンタルクリニック,愛知県大府市柊山町１-１７５-１リソラ大府クリニックモール２Ｆ,歯科　小児歯科　矯正歯科,,,9" xlink:title="ひいらぎやまキッズデンタルクリニック" transform="ref(svg,13695.768,-3501.5785)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もも歯科,愛知県大府市横根町狐山１３４-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="もも歯科" transform="ref(svg,13697.2401,-3501.7812)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本山歯科医院,愛知県大府市中央町６-７３ファミーユおおぶ１階,歯科　小児歯科,,,9" xlink:title="本山歯科医院" transform="ref(svg,13696.387,-3500.9906)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなべ歯科クリニック,愛知県大府市共和町４-１６０,歯科　小児歯科　矯正歯科,,,9" xlink:title="たなべ歯科クリニック" transform="ref(svg,13694.7248,-3503.9481)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ばんの歯科医院,愛知県大府市一屋町４-１９,歯科　小児歯科,,,9" xlink:title="ばんの歯科医院" transform="ref(svg,13695.2638,-3502.9808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,葵歯科医院,愛知県刈谷市若松町１-４３-１,歯科　小児歯科,,,9" xlink:title="葵歯科医院" transform="ref(svg,13700.8945,-3498.888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青島歯科,愛知県刈谷市井ケ谷町桜島１１-５,歯科　小児歯科,,,9" xlink:title="青島歯科" transform="ref(svg,13704.6622,-3505.8293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川歯科医院,愛知県刈谷市半城土町乙本郷１１３,歯科　小児歯科,,,9" xlink:title="石川歯科医院" transform="ref(svg,13702.3173,-3498.3815)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,磯村歯科医院,愛知県刈谷市小山町７-４１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="磯村歯科医院" transform="ref(svg,13699.8332,-3500.8466)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,愛知県刈谷市野田町石仏１５,歯科　小児歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13702.9944,-3498.1409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いまきた歯科医院,愛知県刈谷市高津波町７-７０３,歯科　小児歯科　矯正歯科,,,9" xlink:title="いまきた歯科医院" transform="ref(svg,13699.2024,-3500.3699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,刈谷セントラル歯科,愛知県刈谷市東境町昭山１２６-２,歯科　小児歯科,,,9" xlink:title="刈谷セントラル歯科" transform="ref(svg,13704.1765,-3503.2728)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,京極歯科,愛知県刈谷市広小路３-３３,歯科　小児歯科,,,9" xlink:title="京極歯科" transform="ref(svg,13699.3224,-3498.5563)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沓名歯科医院,愛知県刈谷市今川町１-８０２,歯科　矯正歯科,,,9" xlink:title="沓名歯科医院" transform="ref(svg,13701.6584,-3502.9925)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小島歯科医院,愛知県刈谷市高松町３-７３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小島歯科医院" transform="ref(svg,13700.0382,-3498.2104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小谷歯科,愛知県刈谷市一里山町金山７３-１,歯科　小児歯科,,,9" xlink:title="小谷歯科" transform="ref(svg,13703.6458,-3502.261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）逢見会近藤歯科医院,愛知県刈谷市一里山町中本山１５６-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）逢見会近藤歯科医院" transform="ref(svg,13704.1021,-3503.0914)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかい歯科,愛知県刈谷市今川町山ノ神１３８-１,歯科,,,9" xlink:title="さかい歯科" transform="ref(svg,13701.0308,-3502.8358)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科医院,愛知県刈谷市稲場町３-８０１,歯科,,,9" xlink:title="佐々木歯科医院" transform="ref(svg,13700.2276,-3500.4778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）重原歯科医院,愛知県刈谷市一色町１-１-１,歯科,,,9" xlink:title="（医）重原歯科医院" transform="ref(svg,13701.7655,-3499.2203)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉浦歯科医院,愛知県刈谷市神明町６-１０６-１,歯科,,,9" xlink:title="杉浦歯科医院" transform="ref(svg,13700.5545,-3499.6578)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉崎歯科医院,愛知県刈谷市宝町２-３-１０,歯科,,,9" xlink:title="杉崎歯科医院" transform="ref(svg,13699.4722,-3499.5352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,洲原歯科医院,愛知県刈谷市井ケ谷町神田５６-１,歯科　小児歯科,,,9" xlink:title="洲原歯科医院" transform="ref(svg,13705.052,-3506.0004)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ソブエ歯科医院,愛知県刈谷市恩田町４-１５４-１４,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）ソブエ歯科医院" transform="ref(svg,13701.8436,-3501.1122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高倉小児歯科医院,愛知県刈谷市高倉町２-４０６,歯科　小児歯科,,,9" xlink:title="高倉小児歯科医院" transform="ref(svg,13699.9554,-3500.2561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高津波歯科,愛知県刈谷市高倉町４-５１０,歯科　小児歯科,,,9" xlink:title="高津波歯科" transform="ref(svg,13699.5049,-3500.0667)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たちばな歯科,愛知県刈谷市原崎町４-３０１,歯科,,,9" xlink:title="たちばな歯科" transform="ref(svg,13700.365,-3500.1228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,冨安歯科医院,愛知県刈谷市若松町４-２１-１,歯科　小児歯科,,,9" xlink:title="冨安歯科医院" transform="ref(svg,13700.9209,-3498.8239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村歯科医院,愛知県刈谷市広小路５-６６,歯科,,,9" xlink:title="野村歯科医院" transform="ref(svg,13699.2289,-3498.6055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤村歯科,愛知県刈谷市広小路６-６２,歯科,,,9" xlink:title="藤村歯科" transform="ref(svg,13698.8763,-3498.5834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三浦歯科医院,愛知県刈谷市銀座２-６３,歯科　小児歯科　矯正歯科,,,9" xlink:title="三浦歯科医院" transform="ref(svg,13699.329,-3498.7832)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮田歯科医院,愛知県刈谷市新栄町４-６６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="宮田歯科医院" transform="ref(svg,13699.666,-3498.9712)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みゆき矯正歯科,愛知県刈谷市御幸町５-４０８,歯科　矯正歯科,,,9" xlink:title="みゆき矯正歯科" transform="ref(svg,13699.3626,-3498.1663)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三輪田歯科医院,愛知県刈谷市御幸町３-９-１,歯科,,,9" xlink:title="三輪田歯科医院" transform="ref(svg,13699.105,-3498.3083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉江歯科,愛知県刈谷市高松町２-３３,歯科　小児歯科,,,9" xlink:title="吉江歯科" transform="ref(svg,13700.2402,-3498.4975)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）横井歯科医院,愛知県刈谷市築地町新切道北４３-１,歯科　小児歯科,,,9" xlink:title="（医）横井歯科医院" transform="ref(svg,13701.3303,-3501.2997)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科,愛知県刈谷市高倉町２-８１７,歯科　小児歯科　矯正歯科,,,9" xlink:title="ひまわり歯科" transform="ref(svg,13699.8579,-3500.1353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かきつばた歯科,愛知県刈谷市恩田町３-１６２-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かきつばた歯科" transform="ref(svg,13701.5188,-3500.7968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青葉歯科クリニック,愛知県刈谷市一ツ木町４-５-１７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="青葉歯科クリニック" transform="ref(svg,13702.6458,-3501.0107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丹羽歯科医院,愛知県刈谷市東陽町４-３１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="丹羽歯科医院" transform="ref(svg,13700.0278,-3498.811)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやび歯科医院,愛知県刈谷市中山町２-２５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="みやび歯科医院" transform="ref(svg,13701.4183,-3499.2175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）至誠会二村医院,愛知県刈谷市桜町４-２４,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）至誠会二村医院" transform="ref(svg,13700.5742,-3499.4389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）志朋会やまむら歯科,愛知県刈谷市井ケ谷町久伝原６-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）志朋会やまむら歯科" transform="ref(svg,13704.3191,-3505.3611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,刈谷駅ミナミデンタルクリニック,愛知県刈谷市南桜町１-６４-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="刈谷駅ミナミデンタルクリニック" transform="ref(svg,13700.6233,-3498.9974)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,刈谷ステーション歯科,愛知県刈谷市若松町２-１０１みなくる刈谷ショッピングセンター２Ｆ,歯科　小児歯科,,,9" xlink:title="刈谷ステーション歯科" transform="ref(svg,13700.7993,-3498.9402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほし歯科クリニック,愛知県刈谷市今川町井田４１-３,歯科　小児歯科,,,9" xlink:title="ほし歯科クリニック" transform="ref(svg,13701.9372,-3503.314)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ファミリー歯科医院,愛知県刈谷市東境町神田８-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ファミリー歯科医院" transform="ref(svg,13703.7653,-3504.3396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きしもと刈谷矯正歯科,愛知県刈谷市相生町１-８-２,歯科　矯正歯科,,,9" xlink:title="きしもと刈谷矯正歯科" transform="ref(svg,13701.1033,-3499.1421)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神谷歯科医院,愛知県刈谷市東陽町１-２３,歯科　小児歯科　矯正歯科,,,9" xlink:title="神谷歯科医院" transform="ref(svg,13700.3211,-3498.9248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きぼう歯科クリニック,愛知県刈谷市新田町６-６-１４,歯科　小児歯科　矯正歯科,,,9" xlink:title="きぼう歯科クリニック" transform="ref(svg,13700.5501,-3501.3577)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一ツ木歯科医院,愛知県刈谷市一ツ木町５-１５-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="一ツ木歯科医院" transform="ref(svg,13702.9328,-3501.3051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,泉田歯科医院,愛知県刈谷市泉田町神戸９-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="泉田歯科医院" transform="ref(svg,13700.9204,-3502.5804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしじま歯科,愛知県刈谷市一ツ木町４-７-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="にしじま歯科" transform="ref(svg,13702.8829,-3500.9545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イシバシ歯科,愛知県安城市里町石橋２１-８４,歯科　小児歯科,,,9" xlink:title="イシバシ歯科" transform="ref(svg,13709.7726,-3499.5589)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科,愛知県安城市住吉町１-１-２１,歯科　小児歯科,,,9" xlink:title="松本歯科" transform="ref(svg,13708.0778,-3498.9189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）杏林会安城歯科,愛知県安城市里町北大道寺１-２,歯科,,,9" xlink:title="（医）杏林会安城歯科" transform="ref(svg,13708.0636,-3499.5528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前原歯科医院,愛知県安城市今池町２-１-２６,歯科　小児歯科,,,9" xlink:title="前原歯科医院" transform="ref(svg,13708.4733,-3498.3813)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神谷歯科医院,愛知県安城市東栄町３-８０６-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="神谷歯科医院" transform="ref(svg,13708.9904,-3498.8093)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）敬仁会いとう歯科,愛知県安城市住吉町３-１０-２５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）敬仁会いとう歯科" transform="ref(svg,13707.9266,-3498.333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横地歯科医院,愛知県安城市今池町１-１-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="横地歯科医院" transform="ref(svg,13708.405,-3498.7243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東栄歯科医院,愛知県安城市東栄町５-３０-６,歯科　小児歯科,,,9" xlink:title="東栄歯科医院" transform="ref(svg,13709.7147,-3498.6597)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いぬづか矯正歯科,愛知県安城市住吉町６-２-６,矯正歯科,,,9" xlink:title="いぬづか矯正歯科" transform="ref(svg,13707.65,-3498.8129)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとまちファミリー歯科,愛知県安城市里町中山畑２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さとまちファミリー歯科" transform="ref(svg,13709.1409,-3499.3506)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かいファミリー歯科,愛知県安城市住吉町５-１４-１１,歯科　小児歯科,,,9" xlink:title="かいファミリー歯科" transform="ref(svg,13707.2732,-3498.6661)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハロー歯科,愛知県安城市東栄町２-７-１７,歯科　矯正歯科　小児歯科,,,9" xlink:title="ハロー歯科" transform="ref(svg,13708.5953,-3498.9237)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささめデンタルクリニック,愛知県安城市篠目町ニタ又４７-１,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="ささめデンタルクリニック" transform="ref(svg,13706.9492,-3498.2803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）藤和会加藤歯科医院,愛知県安城市里町４-７-３９,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）藤和会加藤歯科医院" transform="ref(svg,13708.8443,-3499.1309)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野田歯科医院,愛知県安城市今池町１-１０-１６,歯科,,,9" xlink:title="小野田歯科医院" transform="ref(svg,13708.4445,-3498.5286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,愛知県知立市弘栄２-２６,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13704.3773,-3500.1324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永田歯科医院,愛知県知立市鳥居１-１０-３,歯科,,,9" xlink:title="永田歯科医院" transform="ref(svg,13703.3423,-3500.4437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,弘法杉浦歯科医院,愛知県知立市弘法町小針下４-７,歯科,,,9" xlink:title="弘法杉浦歯科医院" transform="ref(svg,13704.2864,-3499.4288)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とりい歯科医院,愛知県知立市池端２-２６,歯科　矯正歯科　小児歯科,,,9" xlink:title="とりい歯科医院" transform="ref(svg,13703.8498,-3500.4849)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,南陽歯科医院,愛知県知立市堀切３-２３,歯科,,,9" xlink:title="南陽歯科医院" transform="ref(svg,13703.8811,-3500.3603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,愛知県知立市中町中２３-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13704.2286,-3500.7171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,知立歯科診療所,愛知県知立市本町本４８,歯科,,,9" xlink:title="知立歯科診療所" transform="ref(svg,13704.1064,-3500.778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中根歯科医院,愛知県知立市内幸町加藤７４-４,歯科,,,9" xlink:title="中根歯科医院" transform="ref(svg,13704.6875,-3500.1672)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,多田歯科医院,愛知県知立市牛田町裏新切３１-２０,歯科　小児歯科,,,9" xlink:title="多田歯科医院" transform="ref(svg,13705.8949,-3500.6559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤江歯科医院,愛知県知立市昭和４-１９-１,歯科,,,9" xlink:title="藤江歯科医院" transform="ref(svg,13706.576,-3498.9843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くめの歯科,愛知県知立市谷田町西１-３-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くめの歯科" transform="ref(svg,13704.7149,-3498.3438)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉浦歯科医院,愛知県知立市中山町中山１２,歯科,,,9" xlink:title="杉浦歯科医院" transform="ref(svg,13704.5561,-3500.6718)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,愛知県知立市山屋敷町山鼻１-１,歯科　小児歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13705.0557,-3500.8966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）博眞会小塩歯科医院,愛知県知立市山町中畑１５-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）博眞会小塩歯科医院" transform="ref(svg,13705.2937,-3500.3894)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,磯貝歯科医院知立診療所,愛知県知立市堀切２-４-１磯貝ビル４階,歯科　矯正歯科,,,9" xlink:title="磯貝歯科医院知立診療所" transform="ref(svg,13704.0327,-3500.5011)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）竹内歯科医院,愛知県知立市八橋町的場１２９,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）竹内歯科医院" transform="ref(svg,13707.27,-3500.5754)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はるた歯科,愛知県知立市来迎寺町広海道２８-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="はるた歯科" transform="ref(svg,13707.2339,-3500.1771)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらまつ歯科医院,愛知県知立市東上重原５-３８,歯科　小児歯科,,,9" xlink:title="ひらまつ歯科医院" transform="ref(svg,13703.2651,-3500.0538)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおみ歯科,愛知県知立市南新地３-８-９,歯科　小児歯科,,,9" xlink:title="おおみ歯科" transform="ref(svg,13703.709,-3499.9391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）南信会八ッ田歯科,愛知県知立市八ツ田町１-２-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）南信会八ッ田歯科" transform="ref(svg,13705.9976,-3499.3876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなか歯科,愛知県知立市広見２-４５,歯科　小児歯科,,,9" xlink:title="たなか歯科" transform="ref(svg,13704.9754,-3500.0354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グレイスデンタルクリニック,愛知県知立市西丘町西丘８２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="グレイスデンタルクリニック" transform="ref(svg,13703.7145,-3501.8126)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シン歯科クリニック,愛知県知立市南陽１-１９４-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="シン歯科クリニック" transform="ref(svg,13706.0402,-3499.7426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オカダ歯科クリニック,愛知県知立市上重原２-６５,歯科　小児歯科,,,9" xlink:title="オカダ歯科クリニック" transform="ref(svg,13702.8307,-3499.7899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村歯科,愛知県知立市内幸町平田１８-４,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="野村歯科" transform="ref(svg,13704.41,-3500.4726)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三河ふれあい歯科,愛知県知立市谷田町川岸２６-４,歯科　小児歯科,,,9" xlink:title="三河ふれあい歯科" transform="ref(svg,13705.5365,-3498.095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いまむら歯科矯正歯科,愛知県知立市昭和９-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="いまむら歯科矯正歯科" transform="ref(svg,13706.5112,-3499.2585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こんどうファミリー歯科,愛知県知立市新林町本林６０-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="こんどうファミリー歯科" transform="ref(svg,13704.8283,-3498.7265)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）大栄会知立デンタルクリニック,愛知県知立市堀切３-３６堀切ＳＯＨＯ１階１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）大栄会知立デンタルクリニック" transform="ref(svg,13703.9275,-3500.2627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科医院,愛知県知立市新池３-１５,歯科　小児歯科　矯正歯科,,,9" xlink:title="いとう歯科医院" transform="ref(svg,13705.451,-3499.9494)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科知立駅前クリニック,愛知県知立市栄２-１２亀楽ビル１Ｆ,歯科　小児歯科　矯正歯科,,,9" xlink:title="歯科知立駅前クリニック" transform="ref(svg,13704.0094,-3500.6744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちりゅう京極歯科,愛知県知立市池端３-７３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ちりゅう京極歯科" transform="ref(svg,13703.6009,-3500.5737)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松浦歯科医院,愛知県みよし市三好町新月４０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="松浦歯科医院" transform="ref(svg,13705.6864,-3507.5052)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,愛知県みよし市三好町木之本１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13706.7409,-3509.1404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松尾歯科,愛知県みよし市福谷町最中１４-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="松尾歯科" transform="ref(svg,13710.1869,-3511.1921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,深谷歯科医院,愛知県みよし市明知町小池下３１,歯科　矯正歯科　小児歯科,,,9" xlink:title="深谷歯科医院" transform="ref(svg,13707.7794,-3506.1298)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いせ歯科クリニック,愛知県みよし市三好町弥栄９６-１,歯科　小児歯科,,,9" xlink:title="いせ歯科クリニック" transform="ref(svg,13708.1748,-3508.859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柴田歯科医院,愛知県みよし市三好町湯の前６６-１,歯科,,,9" xlink:title="柴田歯科医院" transform="ref(svg,13707.2665,-3509.0412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上栗歯科,愛知県みよし市三好町タ田１２-１,歯科　小児歯科,,,9" xlink:title="上栗歯科" transform="ref(svg,13708.7375,-3509.7232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,愛知県みよし市打越町三本松３０-５００,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13709.0688,-3508.0901)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田代歯科医院,愛知県みよし市三好町荒池６-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="田代歯科医院" transform="ref(svg,13706.4613,-3508.6545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,船越歯科,愛知県みよし市三好町蜂ヶ池９-１０,歯科　小児歯科,,,9" xlink:title="船越歯科" transform="ref(svg,13707.5593,-3508.582)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしかわ歯科医院,愛知県みよし市園原３-８-９,歯科　小児歯科,,,9" xlink:title="いしかわ歯科医院" transform="ref(svg,13706.7391,-3508.2503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くろざさ歯科,愛知県みよし市黒笹２-７-１,歯科　小児歯科,,,9" xlink:title="くろざさ歯科" transform="ref(svg,13709.7412,-3512.7165)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科クリニック,愛知県みよし市三好町青木８８Ｉ-ＭＡＬＬ１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="成田歯科クリニック" transform="ref(svg,13707.8521,-3509.2746)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡本歯科医院,愛知県みよし市三好町平池４８-４,歯科　小児歯科,,,9" xlink:title="岡本歯科医院" transform="ref(svg,13707.4281,-3509.4488)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天王台歯科,愛知県みよし市天王台７-８,歯科　小児歯科,,,9" xlink:title="天王台歯科" transform="ref(svg,13708.4372,-3508.9179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三好セントラル歯科,愛知県みよし市三好町小坂７５アーバンシティ三好２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="三好セントラル歯科" transform="ref(svg,13707.56,-3508.9713)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル千田歯科,愛知県みよし市打越町上屋敷４０-５３,歯科　小児歯科,,,9" xlink:title="スマイル千田歯科" transform="ref(svg,13709.708,-3507.9073)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,陽のあたる歯科,愛知県みよし市黒笹前田２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="陽のあたる歯科" transform="ref(svg,13709.1548,-3512.5745)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科,愛知県みよし市東陣取山２１０-１,歯科　矯正歯科　歯科口腔外科　小児歯科,,,9" xlink:title="後藤歯科" transform="ref(svg,13708.1371,-3508.565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はまさき歯科クリニック,愛知県みよし市三好町夕田８１,歯科　歯科口腔外科,,,9" xlink:title="はまさき歯科クリニック" transform="ref(svg,13709.1194,-3509.7271)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はっとり歯科,愛知県みよし市福谷町根浦２４-１ベイシア三好店内,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="はっとり歯科" transform="ref(svg,13709.2896,-3511.0572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡邊歯科室,愛知県みよし市明知町砲録山２-２４０,歯科,,,9" xlink:title="渡邊歯科室" transform="ref(svg,13708.82,-3507.982)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おだファミリー歯科クリニック,愛知県みよし市福谷町壱丁田１９-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="おだファミリー歯科クリニック" transform="ref(svg,13710.6303,-3511.8576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花デンタルクリニック,愛知県みよし市福谷町細田１-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="花デンタルクリニック" transform="ref(svg,13710.7349,-3512.2306)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科医院,愛知県名古屋市千種区春岡通７-８１,歯科,,,9" xlink:title="川村歯科医院" transform="ref(svg,13693.9486,-3515.4218)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,余語歯科,愛知県名古屋市千種区春岡通７-３４-３,歯科　小児歯科,,,9" xlink:title="余語歯科" transform="ref(svg,13693.8983,-3515.6086)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｕクリニック竹内歯科,愛知県名古屋市昭和区山里町５４-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="Ｕクリニック竹内歯科" transform="ref(svg,13696.2906,-3514.659)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいだ小児矯正歯科,愛知県名古屋市昭和区花見通１-７ハセ川ビル１Ｆ,矯正歯科　小児歯科,,,9" xlink:title="あいだ小児矯正歯科" transform="ref(svg,13695.0503,-3515.1097)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あけぼの歯科,愛知県名古屋市昭和区曙町３-７,歯科,,,9" xlink:title="あけぼの歯科" transform="ref(svg,13693.6167,-3515.4835)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あずま歯科,愛知県名古屋市昭和区戸田町４-７カトウルセ戸田１Ａ,歯科　矯正歯科　小児歯科,,,9" xlink:title="あずま歯科" transform="ref(svg,13694.2998,-3514.258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オー，デンタルクリニック八事,愛知県名古屋市昭和区広路町字石坂２-１イオン八事店４Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="オー，デンタルクリニック八事" transform="ref(svg,13696.2754,-3513.6875)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごきそ歯科医院,愛知県名古屋市昭和区御器所通３-７ＳＴステーションビル２階,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="ごきそ歯科医院" transform="ref(svg,13693.5147,-3514.9807)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こざわ歯科クリニック,愛知県名古屋市昭和区隼人町１１-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="こざわ歯科クリニック" transform="ref(svg,13695.2828,-3514.35)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こやま歯科,愛知県名古屋市昭和区陶生町１-７-１１,歯科,,,9" xlink:title="こやま歯科" transform="ref(svg,13693.5034,-3514.1209)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ジュン歯科クリニック,愛知県名古屋市昭和区折戸町４-６-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="ジュン歯科クリニック" transform="ref(svg,13694.6515,-3515.5979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スギムラファミリー歯科,愛知県名古屋市昭和区広路通１-１２名古屋牛乳本社ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="スギムラファミリー歯科" transform="ref(svg,13693.8953,-3514.932)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つるみ歯科クリニック,愛知県名古屋市昭和区檀溪通２-２８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="つるみ歯科クリニック" transform="ref(svg,13694.6632,-3514.6876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかた歯科クリニック,愛知県名古屋市昭和区檀溪通５-３４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なかた歯科クリニック" transform="ref(svg,13694.4997,-3514.1336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なべたに歯科医院,愛知県名古屋市昭和区駒方町２-６３,歯科　矯正歯科　小児歯科,,,9" xlink:title="なべたに歯科医院" transform="ref(svg,13694.9217,-3514.6666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はっとり歯科クリニック,愛知県名古屋市昭和区紅梅町３-２-１第３円昭ビル１Ｆ,歯科　小児歯科,,,9" xlink:title="はっとり歯科クリニック" transform="ref(svg,13693.4314,-3514.8771)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はやと矯正歯科,愛知県名古屋市昭和区隼人町１-４清楽ビル２Ｆ,矯正歯科,,,9" xlink:title="はやと矯正歯科" transform="ref(svg,13695.4271,-3514.451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじき矯正歯科,愛知県名古屋市昭和区広路町字北石坂１０２-５４八事グランドビル６Ｆ,矯正歯科,,,9" xlink:title="ふじき矯正歯科" transform="ref(svg,13696.4657,-3513.6912)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじみ歯科,愛知県名古屋市昭和区八事富士見１３９,歯科　矯正歯科　小児歯科,,,9" xlink:title="ふじみ歯科" transform="ref(svg,13696.9999,-3514.6402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふたば歯科医院,愛知県名古屋市昭和区川名山町９３-３レジデンス川名山,歯科　小児歯科,,,9" xlink:title="ふたば歯科医院" transform="ref(svg,13695.8685,-3514.5478)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まさや歯科クリニック,愛知県名古屋市昭和区妙見町９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まさや歯科クリニック" transform="ref(svg,13696.9168,-3514.6332)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ますだ歯科,愛知県名古屋市昭和区石仏町１-１０,歯科,,,9" xlink:title="ますだ歯科" transform="ref(svg,13693.6852,-3514.781)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ませき歯科クリニック,愛知県名古屋市昭和区藤成通６-２,歯科　小児歯科,,,9" xlink:title="ませき歯科クリニック" transform="ref(svg,13694.3549,-3514.1167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまおか歯科,愛知県名古屋市昭和区北山町３-２２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまおか歯科" transform="ref(svg,13693.7761,-3515.2356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ワキタ歯科医院,愛知県名古屋市昭和区川名町５-３５,歯科,,,9" xlink:title="ワキタ歯科医院" transform="ref(svg,13694.5498,-3515.199)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,愛知県名古屋市昭和区川原通６-４,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13694.9946,-3515.2381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）まこと会會田歯科,愛知県名古屋市昭和区川原通８-１７,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）まこと会會田歯科" transform="ref(svg,13694.8749,-3515.1193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）美和会山手デンタルクリニック,愛知県名古屋市昭和区山手通１-１７-１Ａ２０２,歯科,,,9" xlink:title="（医）美和会山手デンタルクリニック" transform="ref(svg,13696.6377,-3515.1944)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥嶋歯科,愛知県名古屋市昭和区駒方町１-１３,歯科　小児歯科,,,9" xlink:title="奥嶋歯科" transform="ref(svg,13694.7585,-3514.7103)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,楽園歯科クリニック,愛知県名古屋市昭和区楽園町５-１,歯科　小児歯科,,,9" xlink:title="楽園歯科クリニック" transform="ref(svg,13695.9432,-3515.1689)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科,愛知県名古屋市昭和区檀溪通４-５１石垣ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="丸山歯科" transform="ref(svg,13694.5942,-3514.3227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,犬飼歯科医院,愛知県名古屋市昭和区松風町３-９-２,歯科,,,9" xlink:title="犬飼歯科医院" transform="ref(svg,13693.5341,-3514.5984)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂井歯科医院,愛知県名古屋市昭和区隼人町６-７大光ビル２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="坂井歯科医院" transform="ref(svg,13695.555,-3514.2696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山手歯科,愛知県名古屋市昭和区山里町７０-２山手アベニュー１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="山手歯科" transform="ref(svg,13696.2985,-3514.6245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山手通り歯科,愛知県名古屋市昭和区山手通３-９日興山手通ビル３Ｆ,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="山手通り歯科" transform="ref(svg,13696.4768,-3514.415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科アイノ,愛知県名古屋市昭和区広路町字石坂１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯科アイノ" transform="ref(svg,13696.3693,-3513.665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科横田医院,愛知県名古屋市昭和区菊園町６-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯科横田医院" transform="ref(svg,13694.364,-3513.9473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,酒井矯正歯科南山診療所,愛知県名古屋市昭和区上山町４-５-２,歯科　矯正歯科,,,9" xlink:title="酒井矯正歯科南山診療所" transform="ref(svg,13695.1176,-3513.8412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,昭和歯科,愛知県名古屋市昭和区御器所通３-１８ＳＴプラザゴキソ２Ｆ,歯科　矯正歯科,,,9" xlink:title="昭和歯科" transform="ref(svg,13693.6532,-3514.9358)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松浦歯科医院,愛知県名古屋市昭和区山中町２-４０,歯科,,,9" xlink:title="松浦歯科医院" transform="ref(svg,13695.1712,-3514.8207)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科医院,愛知県名古屋市昭和区山花町１１５-１,歯科,,,9" xlink:title="水野歯科医院" transform="ref(svg,13695.3001,-3515.2355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川橋歯科,愛知県名古屋市昭和区菊園町６-２６-７,歯科,,,9" xlink:title="石川橋歯科" transform="ref(svg,13694.3964,-3513.826)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅井歯科,愛知県名古屋市昭和区川名本町６-３９-２,歯科　小児歯科,,,9" xlink:title="浅井歯科" transform="ref(svg,13694.6234,-3514.9684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前山歯科,愛知県名古屋市昭和区前山町１-３９,歯科　矯正歯科,,,9" xlink:title="前山歯科" transform="ref(svg,13695.4764,-3515.2998)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大野歯科医院,愛知県名古屋市昭和区滝川町４７-１ウッディプラザ八事２Ｆ,歯科,,,9" xlink:title="大野歯科医院" transform="ref(svg,13695.9052,-3514.0785)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷田歯科,愛知県名古屋市昭和区長戸町４-４６,歯科　矯正歯科　小児歯科,,,9" xlink:title="谷田歯科" transform="ref(svg,13694.2398,-3514.4427)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田部歯科クリニック,愛知県名古屋市昭和区阿由知通３-８-１,歯科　小児歯科,,,9" xlink:title="田部歯科クリニック" transform="ref(svg,13693.3637,-3515.1481)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富田まひと歯科,愛知県名古屋市昭和区川名町２-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="富田まひと歯科" transform="ref(svg,13694.1573,-3515.5954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武藤歯科,愛知県名古屋市昭和区檀溪通５-６リバーサイドテラス石川橋１階Ａ-２,歯科　歯科口腔外科,,,9" xlink:title="武藤歯科" transform="ref(svg,13694.4655,-3513.9557)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,妙見山本歯科,愛知県名古屋市昭和区妙見町１１２-３,歯科　小児歯科,,,9" xlink:title="妙見山本歯科" transform="ref(svg,13696.6624,-3514.2137)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,愛知県名古屋市昭和区菊園町４-２０,歯科　小児歯科,,,9" xlink:title="木村歯科医院" transform="ref(svg,13694.1564,-3513.8851)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,愛知県名古屋市昭和区長戸町３-４５-４,歯科　小児歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13694.0991,-3514.4341)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杁中歯科クリニック,愛知県名古屋市昭和区川名山町１５５守田ビル２Ｆ,歯科,,,9" xlink:title="杁中歯科クリニック" transform="ref(svg,13695.4872,-3514.4583)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＵＧデンタルクリニック,愛知県名古屋市瑞穂区瑞穂通４-２６,歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="ＵＧデンタルクリニック" transform="ref(svg,13693.5343,-3512.7653)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あらたま歯科クリニック,愛知県名古屋市瑞穂区洲山町２-３２双風ビル,歯科　小児歯科,,,9" xlink:title="あらたま歯科クリニック" transform="ref(svg,13693.7742,-3511.7345)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オオヤ歯科医院,愛知県名古屋市瑞穂区弥富通４-２８丸美ロイヤル瑞穂１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="オオヤ歯科医院" transform="ref(svg,13695.4355,-3511.9457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クメノ歯科医院,愛知県名古屋市瑞穂区東栄町３-８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="クメノ歯科医院" transform="ref(svg,13693.6571,-3513.5681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コンドウ歯科,愛知県名古屋市瑞穂区石川町２-４,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="コンドウ歯科" transform="ref(svg,13694.0777,-3513.5379)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さつきデンタルクリニック,愛知県名古屋市瑞穂区田辺通３-３９-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さつきデンタルクリニック" transform="ref(svg,13694.6303,-3513.1404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シオジ歯科,愛知県名古屋市瑞穂区汐路町２-１２-３,歯科,,,9" xlink:title="シオジ歯科" transform="ref(svg,13693.8969,-3513.2897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たくみ歯科,愛知県名古屋市瑞穂区洲山町３-７３-３,歯科　矯正歯科,,,9" xlink:title="たくみ歯科" transform="ref(svg,13694.0204,-3511.9268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,てらもとファミリー歯科,愛知県名古屋市瑞穂区彌富通３-４５-５,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="てらもとファミリー歯科" transform="ref(svg,13694.8677,-3511.7744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,パーク歯科クリニック,愛知県名古屋市瑞穂区豊岡通３-２-２瑞穂ビル１Ｆ,歯科　小児歯科,,,9" xlink:title="パーク歯科クリニック" transform="ref(svg,13693.638,-3512.4448)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ばんの歯科,愛知県名古屋市瑞穂区弥富通３-９,歯科　小児歯科,,,9" xlink:title="ばんの歯科" transform="ref(svg,13694.9403,-3511.8547)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひばりが岡歯科医院,愛知県名古屋市瑞穂区弥富町緑ケ岡４-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひばりが岡歯科医院" transform="ref(svg,13695.7417,-3513.5749)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふなはし歯科,愛知県名古屋市瑞穂区田辺通４-２５鶴陽明ハイツ地階,歯科　小児歯科,,,9" xlink:title="ふなはし歯科" transform="ref(svg,13694.6518,-3512.6031)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,プラザデンタルクリニック,愛知県名古屋市瑞穂区上山町１-１６石川橋ガーデンプラザ２Ｆ,歯科　歯科口腔外科,,,9" xlink:title="プラザデンタルクリニック" transform="ref(svg,13694.551,-3513.8455)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みずほの森矯正歯科,愛知県名古屋市瑞穂区汐路町３-１,矯正歯科　小児矯正歯科,,,9" xlink:title="みずほの森矯正歯科" transform="ref(svg,13693.9069,-3513.2402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やとみ歯科,愛知県名古屋市瑞穂区彌富通３-４２,歯科　小児歯科,,,9" xlink:title="やとみ歯科" transform="ref(svg,13694.9132,-3511.7796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やなせ歯科,愛知県名古屋市瑞穂区川澄町３-２６-３,歯科　小児歯科,,,9" xlink:title="やなせ歯科" transform="ref(svg,13693.463,-3513.7076)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ユアサ矯正歯科医院,愛知県名古屋市瑞穂区洲山町２-３１ロフティあらたま２Ｆ,歯科　矯正歯科,,,9" xlink:title="ユアサ矯正歯科医院" transform="ref(svg,13693.7477,-3511.7508)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）クレッセント会ルナデンタルクリニック,愛知県名古屋市瑞穂区弥富町字月見ヶ岡５８,歯科　矯正歯科,,,9" xlink:title="（医）クレッセント会ルナデンタルクリニック" transform="ref(svg,13695.5226,-3513.0072)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下方歯科医院,愛知県名古屋市瑞穂区弥富町字円山１０,歯科　小児歯科,,,9" xlink:title="下方歯科医院" transform="ref(svg,13695.9638,-3513.5298)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科クリニック,愛知県名古屋市瑞穂区密柑山町１-６-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="加藤歯科クリニック" transform="ref(svg,13694.8812,-3513.183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,愛知県名古屋市瑞穂区陽明町１-１６-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13694.5793,-3513.7344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉水デンタルクリニック,愛知県名古屋市瑞穂区玉水町１-４８-１,歯科　小児歯科,,,9" xlink:title="玉水デンタルクリニック" transform="ref(svg,13695.777,-3512.1169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山下通デンタルクリニック,愛知県名古屋市瑞穂区田辺通６-４９-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山下通デンタルクリニック" transform="ref(svg,13694.7657,-3512.1482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科,愛知県名古屋市瑞穂区瑞穂通り８-８-１共栄ビル２Ｆ,歯科,,,9" xlink:title="小林歯科" transform="ref(svg,13693.6079,-3511.8472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上松歯科,愛知県名古屋市瑞穂区前田町３-１４-１ラメゾンドフローラ１Ｆ,歯科　小児歯科,,,9" xlink:title="上松歯科" transform="ref(svg,13693.4437,-3512.8469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瑞穂小児歯科診療所,愛知県名古屋市瑞穂区瑞穂通４-３９-２,矯正歯科　小児歯科,,,9" xlink:title="瑞穂小児歯科診療所" transform="ref(svg,13693.528,-3512.878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉浦歯科室,愛知県名古屋市瑞穂区彌富町字清水ケ岡７２,歯科,,,9" xlink:title="杉浦歯科室" transform="ref(svg,13695.1343,-3513.2644)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,愛知県名古屋市瑞穂区瑞穂通２-２９丸美ロイヤルビル２Ｆ,歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,13693.4762,-3513.2346)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村瀬歯科医院,愛知県名古屋市瑞穂区玉水町２-６０-１,歯科　小児歯科,,,9" xlink:title="村瀬歯科医院" transform="ref(svg,13695.9048,-3512.1072)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池村歯科医院,愛知県名古屋市瑞穂区釜塚町１-１９,歯科,,,9" xlink:title="池村歯科医院" transform="ref(svg,13694.156,-3511.7295)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,猪飼歯科,愛知県名古屋市瑞穂区八勝通２-２４,歯科　小児歯科,,,9" xlink:title="猪飼歯科" transform="ref(svg,13695.0496,-3512.5039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長谷川歯科,愛知県名古屋市瑞穂区瑞穂通５-２４,歯科,,,9" xlink:title="長谷川歯科" transform="ref(svg,13693.5789,-3512.5268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村ふれあい歯科,愛知県名古屋市瑞穂区豊岡通３-４９,歯科,,,9" xlink:title="木村ふれあい歯科" transform="ref(svg,13693.7116,-3512.3752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有本歯科,愛知県名古屋市瑞穂区彌富町字上山１７１,歯科　矯正歯科　小児歯科,,,9" xlink:title="有本歯科" transform="ref(svg,13695.3855,-3513.159)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,陽明森田歯科クリニック,愛知県名古屋市瑞穂区松栄町２-１００,歯科　小児歯科,,,9" xlink:title="陽明森田歯科クリニック" transform="ref(svg,13694.7707,-3513.2215)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,廣中歯科医院,愛知県名古屋市瑞穂区中根町１-３５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="廣中歯科医院" transform="ref(svg,13695.4234,-3511.8354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＡＢＣデンタルクリニック,愛知県名古屋市南区鯛取通４-１,歯科　小児歯科,,,9" xlink:title="ＡＢＣデンタルクリニック" transform="ref(svg,13694.4355,-3510.5292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もとほしざき歯科,愛知県名古屋市南区星宮町１７２-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="もとほしざき歯科" transform="ref(svg,13693.6995,-3508.8764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヤマナ歯科,愛知県名古屋市南区大堀町１-１４,歯科　小児歯科,,,9" xlink:title="ヤマナ歯科" transform="ref(svg,13694.8799,-3511.306)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）大倉会長谷川歯科,愛知県名古屋市南区桜台２-１７-３２,歯科　小児歯科,,,9" xlink:title="（医）大倉会長谷川歯科" transform="ref(svg,13694.075,-3510.6456)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲垣歯科医院,愛知県名古屋市南区鳥栖１-１５-３４,歯科,,,9" xlink:title="稲垣歯科医院" transform="ref(svg,13693.7302,-3511.0318)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲熊歯科医院,愛知県名古屋市南区桜本町４８-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="稲熊歯科医院" transform="ref(svg,13693.5061,-3510.1047)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩崎歯科医院,愛知県名古屋市南区平子２-９-２２,歯科,,,9" xlink:title="岩崎歯科医院" transform="ref(svg,13694.3462,-3511.4585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,駈上歯科,愛知県名古屋市南区駈上２-８-１８エスペランス駈上１Ｆ,歯科,,,9" xlink:title="駈上歯科" transform="ref(svg,13693.7993,-3511.1152)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今井歯科,愛知県名古屋市南区砂口町５２-２,歯科,,,9" xlink:title="今井歯科" transform="ref(svg,13694.1327,-3509.3667)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,愛知県名古屋市南区寺崎町１４-１９,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13693.6305,-3510.798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科診療所,愛知県名古屋市南区桜台１-１４-２５第三菊屋ビル２Ｆ,歯科,,,9" xlink:title="山田歯科診療所" transform="ref(svg,13693.7008,-3510.8192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川本歯科医院,愛知県名古屋市南区芝町５７-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="川本歯科医院" transform="ref(svg,13694.2911,-3509.8825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,愛知県名古屋市南区寺崎町１０-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13693.536,-3510.9106)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鳥居歯科医院,愛知県名古屋市南区桜本町３１,歯科　矯正歯科　小児歯科,,,9" xlink:title="鳥居歯科医院" transform="ref(svg,13693.5376,-3510.297)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤田歯科,愛知県名古屋市南区平子２-２４-１２藤田ビル２Ｆ,歯科,,,9" xlink:title="藤田歯科" transform="ref(svg,13694.5985,-3511.1391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,名古屋南歯科医療センター,愛知県名古屋市南区笠寺町字松東５８-１,歯科,,,9" xlink:title="名古屋南歯科医療センター" transform="ref(svg,13693.3716,-3509.8175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いなぐま歯科,愛知県名古屋市南区本城町３-３,歯科,,,9" xlink:title="いなぐま歯科" transform="ref(svg,13693.8143,-3509.2639)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きららデンタルクリニック,愛知県名古屋市南区駈上１-１１-９,歯科,,,9" xlink:title="きららデンタルクリニック" transform="ref(svg,13693.7626,-3511.4199)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クリーン歯科,愛知県名古屋市南区菊住１-４-１３笠原ビル２Ｆ,歯科,,,9" xlink:title="クリーン歯科" transform="ref(svg,13693.6542,-3511.5949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科クリニック,愛知県名古屋市南区鶴田１-７-２６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくら歯科クリニック" transform="ref(svg,13694.4294,-3510.9402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スターデンタルクリニック,愛知県名古屋市南区前浜通７-２７,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="スターデンタルクリニック" transform="ref(svg,13693.4167,-3509.9118)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つるた歯科小児歯科,愛知県名古屋市南区中江２-１０-２２,歯科　矯正歯科　小児歯科,,,9" xlink:title="つるた歯科小児歯科" transform="ref(svg,13694.6871,-3510.5227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながやファミリー歯科,愛知県名古屋市南区明円町７-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ながやファミリー歯科" transform="ref(svg,13694.3232,-3510.1733)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｋ　ｄｅｎｔａｌ　ｃｌｉｎｉｃ,愛知県名古屋市緑区鳴海町字杜若７-２シャルマンシェソワ１階,歯科　小児歯科,,,9" xlink:title="Ｋ　ｄｅｎｔａｌ　ｃｌｉｎｉｃ" transform="ref(svg,13695.3247,-3509.9352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおい歯科・こども歯科,愛知県名古屋市緑区鳴海町字水広下９３-１０シャン・ド・フルール１階１０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あおい歯科・こども歯科" transform="ref(svg,13699.3766,-3508.231)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アクア歯科,愛知県名古屋市緑区旭出２-１７０３,歯科　小児歯科,,,9" xlink:title="アクア歯科" transform="ref(svg,13696.962,-3508.6266)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あくね歯科クリニック,愛知県名古屋市緑区境松２-３５３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あくね歯科クリニック" transform="ref(svg,13698.3139,-3506.2299)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ありまつ歯科,愛知県名古屋市緑区鳴海町字有松裏２００２イオンタウン有松２階,歯科　小児歯科　矯正歯科,,,9" xlink:title="ありまつ歯科" transform="ref(svg,13697.198,-3506.8185)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしだ歯科医院,愛知県名古屋市緑区亀が洞３-１４０３,歯科　小児歯科,,,9" xlink:title="いしだ歯科医院" transform="ref(svg,13701.0457,-3509.3389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科クリニック,愛知県名古屋市緑区篠の風１-９１８,歯科　小児歯科,,,9" xlink:title="いとう歯科クリニック" transform="ref(svg,13697.5281,-3509.7635)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわお歯科クリニック,愛知県名古屋市緑区桶狭間森前２００９,歯科　小児歯科,,,9" xlink:title="いわお歯科クリニック" transform="ref(svg,13696.4595,-3504.7883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわた歯科,愛知県名古屋市緑区大清水西２０３,歯科　小児歯科,,,9" xlink:title="いわた歯科" transform="ref(svg,13698.7591,-3507.9208)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわみ歯科クリニック,愛知県名古屋市緑区篠の風２-４２１-１,歯科　小児歯科,,,9" xlink:title="いわみ歯科クリニック" transform="ref(svg,13697.8541,-3509.5796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえのだ歯科,愛知県名古屋市緑区池上台１-１７２,歯科　小児歯科　矯正歯科,,,9" xlink:title="うえのだ歯科" transform="ref(svg,13696.6562,-3509.476)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うばこやま歯科,愛知県名古屋市緑区姥子山２-１６０８,歯科,,,9" xlink:title="うばこやま歯科" transform="ref(svg,13698.4106,-3507.1143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オオバ歯科,愛知県名古屋市緑区古鳴海２-１４１,歯科　小児歯科,,,9" xlink:title="オオバ歯科" transform="ref(svg,13695.9123,-3509.7756)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおもり矯正歯科クリニック,愛知県名古屋市緑区桶狭間森前２０２グリーンパレス清水山１Ｆ,矯正歯科,,,9" xlink:title="おおもり矯正歯科クリニック" transform="ref(svg,13696.332,-3505.0319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおやま歯科医院,愛知県名古屋市緑区滝ノ水５-３１４-１,歯科　小児歯科,,,9" xlink:title="おおやま歯科医院" transform="ref(svg,13697.5165,-3508.9036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おけはざま歯科クリニック,愛知県名古屋市緑区桶狭間上の山７１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="おけはざま歯科クリニック" transform="ref(svg,13697.1087,-3504.8786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オレンジ歯科クリニック,愛知県名古屋市緑区万場山２-３０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="オレンジ歯科クリニック" transform="ref(svg,13697.1189,-3509.1796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,カワグチ歯科クリニック,愛知県名古屋市緑区徳重１-２１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="カワグチ歯科クリニック" transform="ref(svg,13700.1225,-3509.1279)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くろさわ矯正歯科,愛知県名古屋市緑区鳴海町字徳重３４-１９ＣＥＮＴＲＡＬ　ＶＥＲＧＥ１階,矯正歯科　小児矯正歯科,,,9" xlink:title="くろさわ矯正歯科" transform="ref(svg,13700.215,-3509.4975)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こじま歯科医院,愛知県名古屋市緑区古鳴海２-５６,歯科　小児歯科,,,9" xlink:title="こじま歯科医院" transform="ref(svg,13695.6053,-3509.7081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こんどう歯科医院,愛知県名古屋市緑区尾崎山１-７０２,歯科　小児歯科,,,9" xlink:title="こんどう歯科医院" transform="ref(svg,13697.7786,-3507.8283)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科,愛知県名古屋市緑区鳴海町字上汐田２２５斉藤ビル１Ｆ,歯科　小児歯科,,,9" xlink:title="さいとう歯科" transform="ref(svg,13694.853,-3507.786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,愛知県名古屋市緑区徳重３-１１０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,13700.2935,-3508.7731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サンこどもデンタルクリニック,愛知県名古屋市緑区鳴海町字山下７８-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="サンこどもデンタルクリニック" transform="ref(svg,13694.9646,-3509.2867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,じんの歯科クリニック,愛知県名古屋市緑区亀が洞１-４１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="じんの歯科クリニック" transform="ref(svg,13700.5838,-3509.6311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シン歯科クリニック,愛知県名古屋市緑区黒沢台５-１３２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="シン歯科クリニック" transform="ref(svg,13699.5373,-3509.6974)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スエナガ歯科医院,愛知県名古屋市緑区滝ノ水５-２１０４,歯科　小児歯科,,,9" xlink:title="スエナガ歯科医院" transform="ref(svg,13697.246,-3508.5596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科クリニック,愛知県名古屋市緑区鳥澄３-１００６-１,歯科　小児歯科,,,9" xlink:title="スマイル歯科クリニック" transform="ref(svg,13697.2803,-3507.6606)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ソフィア歯科クリニック,愛知県名古屋市緑区大形山１３０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ソフィア歯科クリニック" transform="ref(svg,13697.0495,-3508.4056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけうち歯科クリニック,愛知県名古屋市緑区大清水３-７２５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たけうち歯科クリニック" transform="ref(svg,13699.0663,-3507.7607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ツゲ歯科医院,愛知県名古屋市緑区乗鞍１-９０９,歯科　小児歯科,,,9" xlink:title="ツゲ歯科医院" transform="ref(svg,13699.1826,-3509.6194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つゆくさ歯科医院,愛知県名古屋市緑区有松町有松三丁山３３１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="つゆくさ歯科医院" transform="ref(svg,13696.692,-3506.269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つるがさわ歯科,愛知県名古屋市緑区鶴が沢２-１５０３,歯科　小児歯科　矯正歯科,,,9" xlink:title="つるがさわ歯科" transform="ref(svg,13700.6487,-3509.1311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とくしげ歯科,愛知県名古屋市緑区鶴が沢１-１０６横井ビル１Ｆ,歯科　小児歯科　矯正歯科,,,9" xlink:title="とくしげ歯科" transform="ref(svg,13700.2953,-3509.4889)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかよし歯科,愛知県名古屋市緑区徳重５-６１３,歯科　小児歯科,,,9" xlink:title="なかよし歯科" transform="ref(svg,13699.678,-3508.8375)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ななつ星デンタルクリニック,愛知県名古屋市緑区鳴海町字山下７８-１コナミスポーツクラブ鳴海山下１階,歯科口腔外科　歯科　矯正歯科,,,9" xlink:title="ななつ星デンタルクリニック" transform="ref(svg,13694.9646,-3509.2867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のりくら歯科,愛知県名古屋市緑区乗鞍１-４０５-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="のりくら歯科" transform="ref(svg,13699.5906,-3509.5708)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はちや歯科,愛知県名古屋市緑区有松愛宕３１５,歯科,,,9" xlink:title="はちや歯科" transform="ref(svg,13696.5536,-3506.083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はなぞの歯科,愛知県名古屋市緑区鳴海町字大清水６９ブラウベルグ１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はなぞの歯科" transform="ref(svg,13698.9788,-3507.4108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はみんぐケア歯科クリニック,愛知県名古屋市緑区大高町字上瀬木川東１２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はみんぐケア歯科クリニック" transform="ref(svg,13694.2189,-3505.8806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はやし歯科,愛知県名古屋市緑区細口２-６０７,歯科　矯正歯科　小児歯科,,,9" xlink:title="はやし歯科" transform="ref(svg,13698.8799,-3508.6123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ばんの歯科医院,愛知県名古屋市緑区池上台１-２０５,歯科　小児歯科,,,9" xlink:title="ばんの歯科医院" transform="ref(svg,13696.2496,-3509.1964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,バンブーデンタルクリニック,愛知県名古屋市緑区上旭１-６１２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="バンブーデンタルクリニック" transform="ref(svg,13697.5958,-3509.2116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科医院,愛知県名古屋市緑区ほら貝２-１０９フローラ１０２,歯科,,,9" xlink:title="ひまわり歯科医院" transform="ref(svg,13698.5559,-3510.1532)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつうら歯科,愛知県名古屋市緑区神の倉２-２７５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まつうら歯科" transform="ref(svg,13701.5084,-3510.4021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつやま歯科医院,愛知県名古屋市緑区若田２-１０１６,歯科　小児歯科,,,9" xlink:title="まつやま歯科医院" transform="ref(svg,13696.8693,-3507.7598)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まんまる歯科,愛知県名古屋市緑区鳴海町字向田２４２-１　１階,歯科,,,9" xlink:title="まんまる歯科" transform="ref(svg,13694.8863,-3507.7477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みずたに歯科,愛知県名古屋市緑区大高町字東山１６-２６,歯科　小児歯科,,,9" xlink:title="みずたに歯科" transform="ref(svg,13696.4398,-3505.7346)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みずほ歯科クリニック,愛知県名古屋市緑区東神の倉３-２２１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="みずほ歯科クリニック" transform="ref(svg,13701.8522,-3510.4094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みなみ大高歯科・矯正歯科クリニック,愛知県名古屋市緑区大高町字道円坊９大高ＹＳビル２階,歯科　小児歯科　矯正歯科,,,9" xlink:title="みなみ大高歯科・矯正歯科クリニック" transform="ref(svg,13694.5841,-3505.6691)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むねやす歯科医院,愛知県名古屋市緑区鳴子町５-９１,歯科　矯正歯科,,,9" xlink:title="むねやす歯科医院" transform="ref(svg,13697.2304,-3509.7701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ユウ矯正歯科・小児歯科,愛知県名古屋市緑区ほら貝２-４１１-１,矯正歯科　小児歯科,,,9" xlink:title="ユウ矯正歯科・小児歯科" transform="ref(svg,13698.6023,-3510.1252)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ユタカ歯科,愛知県名古屋市緑区大高町字高見２,歯科　小児歯科,,,9" xlink:title="ユタカ歯科" transform="ref(svg,13693.5016,-3506.7871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ラーナ平岩デンタルクリニック,愛知県名古屋市緑区鳴海町字向田９５リベスタ鳴海２１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="ラーナ平岩デンタルクリニック" transform="ref(svg,13694.968,-3507.8238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安藤歯科クリニック,愛知県名古屋市緑区神沢１-３０８-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="安藤歯科クリニック" transform="ref(svg,13699.0066,-3509.7946)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）大里会うらさと歯科,愛知県名古屋市緑区浦里４-２４７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）大里会うらさと歯科" transform="ref(svg,13694.4533,-3508.4662)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）さとう歯科,愛知県名古屋市緑区桃山３-１１０４,歯科,,,9" xlink:title="（医）さとう歯科" transform="ref(svg,13698.8719,-3510.0122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）みずほ会アール歯科クリニック,愛知県名古屋市緑区大高町字奥平子１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）みずほ会アール歯科クリニック" transform="ref(svg,13694.7127,-3505.3615)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）杉乃子会すぎと歯科医院,愛知県名古屋市緑区有松２４１１,歯科,,,9" xlink:title="（医）杉乃子会すぎと歯科医院" transform="ref(svg,13697.017,-3506.6751)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）杉乃子会清水山歯科医院,愛知県名古屋市緑区清水山１-１４０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）杉乃子会清水山歯科医院" transform="ref(svg,13696.2336,-3505.1095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）和晃会ふくしま歯科医院,愛知県名古屋市緑区鳴海町字城２３,歯科　小児歯科,,,9" xlink:title="（医）和晃会ふくしま歯科医院" transform="ref(svg,13695.0983,-3508.1434)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横井歯科医院,愛知県名古屋市緑区武路町１１５,歯科,,,9" xlink:title="横井歯科医院" transform="ref(svg,13697.0282,-3506.1194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梶野歯科医院,愛知県名古屋市緑区桶狭間北２-１１１７,歯科　小児歯科,,,9" xlink:title="梶野歯科医院" transform="ref(svg,13697.0619,-3505.6709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鎌倉台歯科クリニック,愛知県名古屋市緑区鎌倉台２-１１０,歯科　小児歯科,,,9" xlink:title="鎌倉台歯科クリニック" transform="ref(svg,13698.3724,-3507.5272)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鬼頭歯科医院,愛知県名古屋市緑区桃山１-１４９,歯科　小児歯科,,,9" xlink:title="鬼頭歯科医院" transform="ref(svg,13698.8992,-3510.415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丘の上歯科醫院,愛知県名古屋市緑区桶狭間１９１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="丘の上歯科醫院" transform="ref(svg,13697.2606,-3505.1472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮下歯科,愛知県名古屋市緑区神沢２-１７１７-２,歯科　小児歯科,,,9" xlink:title="宮下歯科" transform="ref(svg,13698.5086,-3509.5227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,熊の前歯科,愛知県名古屋市緑区鳴海町字神ノ倉３-４７,歯科　小児歯科,,,9" xlink:title="熊の前歯科" transform="ref(svg,13700.4774,-3509.9283)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,戸谷歯科医院,愛知県名古屋市緑区上旭２-６０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="戸谷歯科医院" transform="ref(svg,13697.2244,-3509.1701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒木歯科,愛知県名古屋市緑区青山２-１９６,歯科　矯正歯科　歯科口腔外科　小児歯科,,,9" xlink:title="荒木歯科" transform="ref(svg,13695.1643,-3507.0494)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒澤歯科,愛知県名古屋市緑区相川３-１１７,歯科,,,9" xlink:title="黒澤歯科" transform="ref(svg,13697.901,-3509.8952)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,左京山歯科クリニック,愛知県名古屋市緑区左京山４４９,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="左京山歯科クリニック" transform="ref(svg,13696.05,-3507.0364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜ファミリー歯科,愛知県名古屋市緑区大高町字下塩田３７,歯科　小児歯科,,,9" xlink:title="桜ファミリー歯科" transform="ref(svg,13693.5591,-3506.9951)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山岸歯科医院,愛知県名古屋市緑区藤塚２-１２１７,歯科　小児歯科,,,9" xlink:title="山岸歯科医院" transform="ref(svg,13701.9425,-3510.1108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口ファミリア歯科,愛知県名古屋市緑区四本木５４０サンパーク手越１Ｆ,歯科　小児歯科,,,9" xlink:title="山口ファミリア歯科" transform="ref(svg,13696.2439,-3507.125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山村歯科医院,愛知県名古屋市緑区ほら貝３-９７,歯科,,,9" xlink:title="山村歯科医院" transform="ref(svg,13698.2771,-3509.8938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山中歯科医院,愛知県名古屋市緑区有松３３０７,歯科,,,9" xlink:title="山中歯科医院" transform="ref(svg,13697.3403,-3506.5112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,愛知県名古屋市緑区梅里２-３５-１,歯科　矯正歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13699.0792,-3510.5273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,愛知県名古屋市緑区大高町字鶴田１０４山口記念ビル３Ｆ,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13693.9461,-3506.8688)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,児玉歯科,愛知県名古屋市緑区相原郷２-１６０５,歯科,,,9" xlink:title="児玉歯科" transform="ref(svg,13696.9762,-3507.9793)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,篠田デンタルクリニック,愛知県名古屋市緑区万場山１-１１３,歯科,,,9" xlink:title="篠田デンタルクリニック" transform="ref(svg,13696.9089,-3509.5374)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,出原歯科,愛知県名古屋市緑区鳴海町字細根９１-２,歯科,,,9" xlink:title="出原歯科" transform="ref(svg,13697.2654,-3507.0249)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神の倉歯科,愛知県名古屋市緑区藤塚１-６０８-１,歯科　小児歯科,,,9" xlink:title="神の倉歯科" transform="ref(svg,13701.3104,-3509.8069)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神谷歯科医院,愛知県名古屋市緑区倉坂１５１９第１ＫＳビル１Ｆ,歯科　小児歯科,,,9" xlink:title="神谷歯科医院" transform="ref(svg,13694.8164,-3506.5257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科,愛知県名古屋市緑区鳴海町字矢切７７-１山鳴ビル２Ｆ,歯科,,,9" xlink:title="水野歯科" transform="ref(svg,13695.1849,-3508.2577)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科,愛知県名古屋市緑区姥子山３-９１２,歯科　歯科口腔外科,,,9" xlink:title="杉山歯科" transform="ref(svg,13697.9548,-3506.973)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科医院,愛知県名古屋市緑区六田１-３２７ユニーブル第２六田１Ｆ,歯科　小児歯科,,,9" xlink:title="成田歯科医院" transform="ref(svg,13695.9768,-3507.8889)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西尾歯科医院,愛知県名古屋市緑区浦里１-１８,歯科　小児歯科,,,9" xlink:title="西尾歯科医院" transform="ref(svg,13694.7246,-3509.2044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,相生デンタルクリニック,愛知県名古屋市緑区相川３-３３ハイネス相川１０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="相生デンタルクリニック" transform="ref(svg,13697.4645,-3510.1232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太子歯科医院,愛知県名古屋市緑区太子２-１９０,歯科　小児歯科,,,9" xlink:title="太子歯科医院" transform="ref(svg,13697.8293,-3506.5484)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大高歯科クリニック,愛知県名古屋市緑区森の里１-９２カツミヤビル,歯科　小児歯科,,,9" xlink:title="大高歯科クリニック" transform="ref(svg,13694.1472,-3506.3305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大竹デンタルクリニック,愛知県名古屋市緑区鳴海町字相原町１１-３,歯科　小児歯科,,,9" xlink:title="大竹デンタルクリニック" transform="ref(svg,13695.3295,-3507.7888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝山デンタルクリニック,愛知県名古屋市緑区鳴海町字中汐田２１５-２,歯科　小児歯科,,,9" xlink:title="滝山デンタルクリニック" transform="ref(svg,13694.5115,-3507.5764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瀧ノ水歯科,愛知県名古屋市緑区滝ノ水１-２６１８,歯科　小児歯科,,,9" xlink:title="瀧ノ水歯科" transform="ref(svg,13697.7177,-3508.8444)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,棚橋歯科,愛知県名古屋市緑区徳重５-９０５,歯科,,,9" xlink:title="棚橋歯科" transform="ref(svg,13699.3876,-3508.8169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池上台歯科,愛知県名古屋市緑区鹿山１-１-６１,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="池上台歯科" transform="ref(svg,13696.2932,-3509.1112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,愛知県名古屋市緑区黒沢台４著目９０６,歯科　小児歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,13699.367,-3509.8232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伝治山歯科医院,愛知県名古屋市緑区鳴海町字赤塚１０２-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="伝治山歯科医院" transform="ref(svg,13695.7904,-3509.1376)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土井歯科医院,愛知県名古屋市緑区神の倉４-１４７,歯科　小児歯科,,,9" xlink:title="土井歯科医院" transform="ref(svg,13701.1687,-3509.9393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東えびす歯科,愛知県名古屋市緑区鳴海町字大清水６９-４７クレイドル１０２,歯科,,,9" xlink:title="東えびす歯科" transform="ref(svg,13699.6129,-3507.8925)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東陵歯科,愛知県名古屋市緑区鳴海町字細根８４-４,歯科,,,9" xlink:title="東陵歯科" transform="ref(svg,13697.3497,-3507.1895)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤井歯科医院,愛知県名古屋市緑区篭山２-１２２８,歯科　小児歯科,,,9" xlink:title="藤井歯科医院" transform="ref(svg,13698.3889,-3508.2471)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤原歯科,愛知県名古屋市緑区滝ノ水１-１０１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="藤原歯科" transform="ref(svg,13697.9855,-3509.2261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,徳重ガーデン歯科,愛知県名古屋市緑区鳴海町字徳重１８-４４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="徳重ガーデン歯科" transform="ref(svg,13699.9281,-3509.4327)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内田歯科医院,愛知県名古屋市緑区鳴海町字薬師山７５-２,歯科,,,9" xlink:title="内田歯科医院" transform="ref(svg,13695.7211,-3508.7599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福島歯科医院,愛知県名古屋市緑区大高町字鶴田６３-１７,歯科　矯正歯科　小児歯科,,,9" xlink:title="福島歯科医院" transform="ref(svg,13694.0311,-3506.8094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,片野歯科医院,愛知県名古屋市緑区池上台１-１６２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="片野歯科医院" transform="ref(svg,13696.6029,-3509.4412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本多ファミリー歯科,愛知県名古屋市緑区相原郷２-８１３,歯科,,,9" xlink:title="本多ファミリー歯科" transform="ref(svg,13696.805,-3507.921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,葉山歯科,愛知県名古屋市緑区鳴海町字本町５８,歯科　小児歯科　矯正歯科,,,9" xlink:title="葉山歯科" transform="ref(svg,13695.1679,-3507.9035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさの歯科クリニック,愛知県名古屋市名東区西山本通３-１４,歯科　小児歯科,,,9" xlink:title="あさの歯科クリニック" transform="ref(svg,13699.711,-3515.2859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おか歯科クリニック,愛知県名古屋市名東区大針２-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="おか歯科クリニック" transform="ref(svg,13701.7267,-3515.2437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ケイズデンタル,愛知県名古屋市名東区大針１-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="ケイズデンタル" transform="ref(svg,13701.8697,-3515.4015)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごくらく坂星野歯科,愛知県名古屋市名東区極楽３-３１３ティーズコート１Ｆ,歯科　小児歯科,,,9" xlink:title="ごくらく坂星野歯科" transform="ref(svg,13702.6013,-3515.5881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タナセ歯科医院,愛知県名古屋市名東区西里町１-２６,歯科,,,9" xlink:title="タナセ歯科医院" transform="ref(svg,13699.6399,-3515.6038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）タナカ歯科,愛知県名古屋市名東区牧の里１-１４０８ファミール牧の里１Ｆ,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="（医）タナカ歯科" transform="ref(svg,13700.5282,-3515.3223)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ホワイトデンタルすぎうら歯科,愛知県名古屋市名東区高針１-１７１１サンハイツ幸楽一階,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）ホワイトデンタルすぎうら歯科" transform="ref(svg,13700.6364,-3515.515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,愛知県名古屋市名東区牧の原２-５０１ホワイトビル１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13699.897,-3515.0076)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江崎歯科医院,愛知県名古屋市名東区極楽４-３０８,歯科　小児歯科,,,9" xlink:title="江崎歯科医院" transform="ref(svg,13701.8913,-3515.6107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高針歯科,愛知県名古屋市名東区高針２-２４１０グレース高針２Ｆ,歯科,,,9" xlink:title="高針歯科" transform="ref(svg,13700.7812,-3515.4358)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梅森歯科,愛知県名古屋市名東区大針３-１４２,歯科,,,9" xlink:title="梅森歯科" transform="ref(svg,13701.6683,-3514.7943)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科,愛知県名古屋市名東区梅森坂２-１０９梅森坂マンション１Ｆ,歯科　小児歯科,,,9" xlink:title="飯田歯科" transform="ref(svg,13701.5098,-3514.2899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坪井歯科医院,愛知県名古屋市名東区新宿２-２２３,歯科　矯正歯科　小児歯科,,,9" xlink:title="坪井歯科医院" transform="ref(svg,13701.1904,-3515.1064)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いかい歯科,愛知県名古屋市天白区池場２-１１０６,歯科,,,9" xlink:title="いかい歯科" transform="ref(svg,13698.2628,-3512.3007)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いちろう歯科,愛知県名古屋市天白区一本松２-１１０６,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="いちろう歯科" transform="ref(svg,13698.4667,-3513.7119)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科,愛知県名古屋市天白区塩釜口１-７１２,歯科,,,9" xlink:title="いとう歯科" transform="ref(svg,13697.6631,-3513.31)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イナグマ歯科,愛知県名古屋市天白区島田１-１１１４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="イナグマ歯科" transform="ref(svg,13697.4091,-3512.0676)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえだ東歯科クリニック,愛知県名古屋市天白区植田東２-１６１８,歯科　小児歯科,,,9" xlink:title="うえだ東歯科クリニック" transform="ref(svg,13699.5952,-3513.2459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エルザ歯科クリニック,愛知県名古屋市天白区植田南３-７０８白子ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="エルザ歯科クリニック" transform="ref(svg,13698.8386,-3512.5562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおね歯科,愛知県名古屋市天白区大根町３９２,歯科　小児歯科,,,9" xlink:title="おおね歯科" transform="ref(svg,13699.2899,-3511.3878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おもてやま歯科クリニック,愛知県名古屋市天白区八事字音聞山１０３０,歯科,,,9" xlink:title="おもてやま歯科クリニック" transform="ref(svg,13696.6697,-3513.1363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科医院,愛知県名古屋市天白区植田西１-９０６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かとう歯科医院" transform="ref(svg,13698.3659,-3513.4257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きとう歯科医院,愛知県名古屋市天白区土原４-８３７,歯科　小児歯科,,,9" xlink:title="きとう歯科医院" transform="ref(svg,13698.4183,-3510.8957)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きらり歯科,愛知県名古屋市天白区平針台１-１０１４,歯科　小児歯科,,,9" xlink:title="きらり歯科" transform="ref(svg,13700.2488,-3510.2699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クロダ歯科,愛知県名古屋市天白区境根町１５０,歯科　矯正歯科　小児歯科,,,9" xlink:title="クロダ歯科" transform="ref(svg,13697.397,-3510.3348)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こいけ歯科クリニック,愛知県名古屋市天白区平針２-１００７第一小島ビル１Ｆ,歯科,,,9" xlink:title="こいけ歯科クリニック" transform="ref(svg,13700.4564,-3512.4453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コンドウ歯科,愛知県名古屋市天白区御前場町２,歯科,,,9" xlink:title="コンドウ歯科" transform="ref(svg,13699.079,-3511.0085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,愛知県名古屋市天白区植田南２-１００１,歯科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,13698.0394,-3512.7111)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささ歯科クリニック,愛知県名古屋市天白区原１-１５０１-２,小児歯科　歯科　矯正歯科,,,9" xlink:title="ささ歯科クリニック" transform="ref(svg,13699.8021,-3512.6563)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,愛知県名古屋市天白区植田３-１５１８クロックタワー植田２Ｆ,歯科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,13698.8894,-3512.6926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サハシ歯科医院,愛知県名古屋市天白区高坂町７５-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="サハシ歯科医院" transform="ref(svg,13698.5784,-3510.6056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さわやか歯科,愛知県名古屋市天白区原１-１９０１,歯科,,,9" xlink:title="さわやか歯科" transform="ref(svg,13699.6041,-3512.5545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すすむ歯科クリニック,愛知県名古屋市天白区元植田１-３００７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="すすむ歯科クリニック" transform="ref(svg,13699.034,-3513.5959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スピック歯科クリニック,愛知県名古屋市天白区海老山町１６０５,歯科　小児歯科,,,9" xlink:title="スピック歯科クリニック" transform="ref(svg,13697.3872,-3511.5572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,セントラル歯科室野並,愛知県名古屋市天白区野並３-２３５サンモール井田野並２Ｆ,歯科　小児歯科,,,9" xlink:title="セントラル歯科室野並" transform="ref(svg,13695.6926,-3510.19)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ぜんなみ歯科クリニック,愛知県名古屋市天白区野並３-４３５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ぜんなみ歯科クリニック" transform="ref(svg,13695.621,-3510.109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タナムラ歯科,愛知県名古屋市天白区久方２-５６,歯科　小児歯科,,,9" xlink:title="タナムラ歯科" transform="ref(svg,13698.4773,-3510.4798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,てらお矯正歯科,愛知県名古屋市天白区植田１-１３１５スカイビル２Ｆ,矯正歯科,,,9" xlink:title="てらお矯正歯科" transform="ref(svg,13698.5957,-3512.9403)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,てんぱく歯科,愛知県名古屋市天白区原１-１４１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="てんぱく歯科" transform="ref(svg,13699.9558,-3512.5565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,トシデンタルクリニック,愛知県名古屋市天白区平針４-１１０１コットンハウス平針１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="トシデンタルクリニック" transform="ref(svg,13700.3485,-3512.2041)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とも歯科クリニック,愛知県名古屋市天白区野並２-４４０野並ビル１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="とも歯科クリニック" transform="ref(svg,13695.5182,-3510.2767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なごみの歯科,愛知県名古屋市天白区中平１-１５０７,歯科　小児歯科,,,9" xlink:title="なごみの歯科" transform="ref(svg,13699.9184,-3512.0959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にのみや歯科医院,愛知県名古屋市天白区平針４-１６０７初美ビル２Ｆ,歯科,,,9" xlink:title="にのみや歯科医院" transform="ref(svg,13700.6416,-3512.0811)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はたの歯科,愛知県名古屋市天白区焼山２-４１９コーネルオオヤ,歯科,,,9" xlink:title="はたの歯科" transform="ref(svg,13699.1931,-3514.3309)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひん矯正歯科クリニック,愛知県名古屋市天白区平針３-１１５メッセ平針２階,矯正歯科,,,9" xlink:title="ひん矯正歯科クリニック" transform="ref(svg,13700.7989,-3512.2844)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほりえこども歯科クリニック,愛知県名古屋市天白区相川２-５１,小児歯科　小児矯正歯科,,,9" xlink:title="ほりえこども歯科クリニック" transform="ref(svg,13697.3447,-3510.2434)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホリベ歯科,愛知県名古屋市天白区一本松２-５０４,歯科,,,9" xlink:title="ホリベ歯科" transform="ref(svg,13698.5539,-3513.7941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マキノ歯科,愛知県名古屋市天白区弥生が岡１２３,歯科,,,9" xlink:title="マキノ歯科" transform="ref(svg,13696.2843,-3513.4495)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まき歯科医院,愛知県名古屋市天白区池場２-５０３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まき歯科医院" transform="ref(svg,13698.0027,-3512.1854)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつうら歯科医院,愛知県名古屋市天白区植田西３-１４０３メゾン浅井１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まつうら歯科医院" transform="ref(svg,13698.3813,-3512.8813)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まぶち歯科,愛知県名古屋市天白区平針２-１４０６,歯科　小児歯科,,,9" xlink:title="まぶち歯科" transform="ref(svg,13700.6796,-3512.3073)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらせ歯科医院,愛知県名古屋市天白区平針３-２６１０,歯科　小児歯科,,,9" xlink:title="むらせ歯科医院" transform="ref(svg,13700.6903,-3511.938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やざわ歯科,愛知県名古屋市天白区塩釜口２-１５０１フェイム塩釜１Ｆ,歯科,,,9" xlink:title="やざわ歯科" transform="ref(svg,13697.9061,-3513.198)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまだ矯正歯科,愛知県名古屋市天白区野並３-４３７パティオ野並-U１Ｆ,矯正歯科,,,9" xlink:title="やまだ矯正歯科" transform="ref(svg,13695.6601,-3510.1072)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わくら歯科クリニック,愛知県名古屋市天白区植田１-９０９,歯科　小児歯科　矯正歯科,,,9" xlink:title="わくら歯科クリニック" transform="ref(svg,13698.7719,-3512.9882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阿部歯科医院,愛知県名古屋市天白区原３-１０６,歯科,,,9" xlink:title="阿部歯科医院" transform="ref(svg,13698.9403,-3512.1064)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）暁正会モリシタ歯科診療所,愛知県名古屋市天白区島田２-４０６,歯科,,,9" xlink:title="（医）暁正会モリシタ歯科診療所" transform="ref(svg,13697.8299,-3512.3906)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,磯貝歯科医院,愛知県名古屋市天白区高島２-１７０１-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="磯貝歯科医院" transform="ref(svg,13700.0374,-3510.3469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科医院,愛知県名古屋市天白区平針３-１５０１,歯科,,,9" xlink:title="遠藤歯科医院" transform="ref(svg,13700.8405,-3512.136)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩見歯科医院,愛知県名古屋市天白区土原３-１２０２,歯科,,,9" xlink:title="岩見歯科医院" transform="ref(svg,13698.6965,-3511.2331)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久野歯科,愛知県名古屋市天白区御幸山２１１８,歯科,,,9" xlink:title="久野歯科" transform="ref(svg,13697.5729,-3513.0314)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,愛知県名古屋市天白区原１-２３０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13699.7568,-3512.4734)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,熊谷歯科,愛知県名古屋市天白区平針３-１１１名東ビル２Ｆ,歯科,,,9" xlink:title="熊谷歯科" transform="ref(svg,13700.782,-3512.2681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,元八事歯科,愛知県名古屋市天白区元八事３-１１２,歯科,,,9" xlink:title="元八事歯科" transform="ref(svg,13697.348,-3512.5481)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広瀬歯科,愛知県名古屋市天白区島田３-６０２,歯科　矯正歯科,,,9" xlink:title="広瀬歯科" transform="ref(svg,13697.786,-3512.0581)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高田兄弟歯科,愛知県名古屋市天白区音聞山１５０６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="高田兄弟歯科" transform="ref(svg,13696.6983,-3513.0692)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今泉歯科医院,愛知県名古屋市天白区山根町１３７,歯科,,,9" xlink:title="今泉歯科医院" transform="ref(svg,13697.5793,-3511.0385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂口歯科医院,愛知県名古屋市天白区御前場町１１１,歯科　小児歯科,,,9" xlink:title="坂口歯科医院" transform="ref(svg,13699.4261,-3511.0728)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜デンタルクリニック,愛知県名古屋市天白区表山３-３１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="桜デンタルクリニック" transform="ref(svg,13696.2535,-3512.926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,愛知県名古屋市天白区大根町１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13698.8612,-3511.1714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,志賀デンタルクリニック,愛知県名古屋市天白区原５-３００６,歯科,,,9" xlink:title="志賀デンタルクリニック" transform="ref(svg,13699.5111,-3511.483)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科スマイル,愛知県名古屋市天白区保呂町２２０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯科スマイル" transform="ref(svg,13696.9275,-3511.7512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科ナチュラル,愛知県名古屋市天白区元植田３-１５０５,歯科　小児歯科,,,9" xlink:title="歯科ナチュラル" transform="ref(svg,13698.7463,-3513.3889)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科医院たなか,愛知県名古屋市天白区音聞山２０８,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="歯科医院たなか" transform="ref(svg,13696.6647,-3513.5466)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺島歯科医院,愛知県名古屋市天白区福池１-２４５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="寺島歯科医院" transform="ref(svg,13695.334,-3511.0393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小出歯科医院,愛知県名古屋市天白区島田４-２２０６,歯科　小児歯科,,,9" xlink:title="小出歯科医院" transform="ref(svg,13697.738,-3511.9198)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松山ファミリー歯科,愛知県名古屋市天白区植田南２-４１５,歯科　小児歯科,,,9" xlink:title="松山ファミリー歯科" transform="ref(svg,13698.3744,-3512.7503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松尾歯科医院,愛知県名古屋市天白区中砂町２５,歯科　小児歯科,,,9" xlink:title="松尾歯科医院" transform="ref(svg,13696.1795,-3511.9923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植田一本松歯科,愛知県名古屋市天白区元植田１-７０３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="植田一本松歯科" transform="ref(svg,13699.0292,-3513.9463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植田駅前歯科,愛知県名古屋市天白区植田南２-２１０ドエル植田南,歯科　歯科口腔外科,,,9" xlink:title="植田駅前歯科" transform="ref(svg,13698.4894,-3512.7549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植田歯科医院,愛知県名古屋市天白区植田３-１４０５,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="植田歯科医院" transform="ref(svg,13699.1073,-3512.7365)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神谷歯科医院,愛知県名古屋市天白区原５-１３１０シャトール原,歯科　小児歯科,,,9" xlink:title="神谷歯科医院" transform="ref(svg,13699.3045,-3511.6989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科クリニック,愛知県名古屋市天白区荒池１-１１０２,歯科　小児歯科,,,9" xlink:title="水野歯科クリニック" transform="ref(svg,13701.2476,-3511.755)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青山歯科医院,愛知県名古屋市天白区原４-１５０１ＳＭＹ８８原,歯科　矯正歯科　小児歯科,,,9" xlink:title="青山歯科医院" transform="ref(svg,13699.3941,-3512.1128)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青木歯科医院,愛知県名古屋市天白区野並４-２５０,歯科　小児歯科,,,9" xlink:title="青木歯科医院" transform="ref(svg,13695.8518,-3510.4535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅井歯科クリニック,愛知県名古屋市天白区元八事４-２５７,歯科　小児歯科,,,9" xlink:title="浅井歯科クリニック" transform="ref(svg,13697.4235,-3512.7709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大岩歯科医院,愛知県名古屋市天白区植田山４-２１３,歯科,,,9" xlink:title="大岩歯科医院" transform="ref(svg,13698.8647,-3514.5425)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大橋歯科,愛知県名古屋市天白区元八事１-１３０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大橋歯科" transform="ref(svg,13696.3649,-3512.1526)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中井歯科クリニック,愛知県名古屋市天白区平針南４-３２９,歯科　小児歯科,,,9" xlink:title="中井歯科クリニック" transform="ref(svg,13700.965,-3510.5918)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中平歯科クリニック,愛知県名古屋市天白区中平５-１２０１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中平歯科クリニック" transform="ref(svg,13699.5882,-3511.3138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長谷川歯科,愛知県名古屋市天白区福池１-３０９パテオ野並,歯科,,,9" xlink:title="長谷川歯科" transform="ref(svg,13695.6143,-3511.1235)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天白うめがおか歯科・矯正歯科,愛知県名古屋市天白区梅が丘５-１０１１-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="天白うめがおか歯科・矯正歯科" transform="ref(svg,13700.0458,-3513.2555)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,愛知県名古屋市天白区池場３-１８１７,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13698.6389,-3512.1068)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島田が丘歯科,愛知県名古屋市天白区島田が丘４１３,歯科　小児歯科,,,9" xlink:title="島田が丘歯科" transform="ref(svg,13699.5046,-3510.7188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島田橋歯科,愛知県名古屋市天白区元八事２-１１０,歯科　小児歯科,,,9" xlink:title="島田橋歯科" transform="ref(svg,13696.918,-3512.3347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤井歯科医院,愛知県名古屋市天白区植田西２-２１０９,歯科,,,9" xlink:title="藤井歯科医院" transform="ref(svg,13698.3903,-3513.057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤谷歯科,愛知県名古屋市天白区植田３-７１１,歯科　小児歯科,,,9" xlink:title="藤谷歯科" transform="ref(svg,13699.0237,-3512.8289)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八事高島歯科医院,愛知県名古屋市天白区八事天道１０２オーエスビル１０１,歯科　小児歯科,,,9" xlink:title="八事高島歯科医院" transform="ref(svg,13696.1393,-3513.6074)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯野歯科,愛知県名古屋市天白区平針南３-４０１,歯科　小児歯科,,,9" xlink:title="飯野歯科" transform="ref(svg,13700.6207,-3510.9623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富士美歯科医院,愛知県名古屋市天白区原１-４０５,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="富士美歯科医院" transform="ref(svg,13699.7027,-3512.5865)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,冨田歯科医院,愛知県名古屋市天白区弥生が岡１０８,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="冨田歯科医院" transform="ref(svg,13696.3895,-3513.4794)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平針歯科クリニック,愛知県名古屋市天白区平針南２-４０６平針住宅３-２５,歯科,,,9" xlink:title="平針歯科クリニック" transform="ref(svg,13700.497,-3511.3193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木下歯科,愛知県名古屋市天白区西入町１５８,歯科　小児歯科,,,9" xlink:title="木下歯科" transform="ref(svg,13697.8044,-3511.2847)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木崎歯科醫院,愛知県名古屋市天白区池場３-１９０４,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="木崎歯科醫院" transform="ref(svg,13698.4316,-3512.0906)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野瀬歯科医院,愛知県名古屋市天白区池見１-６１,歯科,,,9" xlink:title="野瀬歯科医院" transform="ref(svg,13696.3639,-3512.4067)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,愛知県名古屋市天白区鴻ノ巣２-１１８,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13699.3861,-3514.026)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊田中央歯科,愛知県豊田市中根町町田８０-２,内科　歯科　矯正歯科　小児歯科,,,9" xlink:title="豊田中央歯科" transform="ref(svg,13708.984,-3502.2205)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いざわ歯科,愛知県豊田市吉原町宮里９-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="いざわ歯科" transform="ref(svg,13709.6699,-3501.7965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井戸田歯科医院,愛知県豊田市高岡本町南８５-２,歯科　小児歯科,,,9" xlink:title="井戸田歯科医院" transform="ref(svg,13707.84,-3502.7891)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大島歯科医院,愛知県豊田市大島町栄９３,歯科　小児歯科,,,9" xlink:title="大島歯科医院" transform="ref(svg,13706.2944,-3503.835)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,愛知県豊田市若林西町塚本７４,歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13709.326,-3502.6659)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,愛知県豊田市竹元町二ツ池６-７７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13710.8336,-3503.458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,愛知県豊田市堤町御茶屋８,歯科　矯正歯科　小児歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13708.4023,-3505.4701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クラウン歯科,愛知県豊田市吉原町平子３４-３,歯科,,,9" xlink:title="クラウン歯科" transform="ref(svg,13709.1135,-3500.7946)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こあら歯科,愛知県豊田市若林西町六反ケ坪３３,歯科　小児歯科,,,9" xlink:title="こあら歯科" transform="ref(svg,13709.7071,-3502.9435)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,甲村歯科堤診療室,愛知県豊田市堤町御茶屋７５-１,歯科　小児歯科,,,9" xlink:title="甲村歯科堤診療室" transform="ref(svg,13708.5199,-3505.2632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトウ歯科医院,愛知県豊田市広田町谷口６９-３,歯科　小児歯科,,,9" xlink:title="サトウ歯科医院" transform="ref(svg,13710.4864,-3504.1219)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スワ歯科,愛知県豊田市若林西町宮下１,歯科,,,9" xlink:title="スワ歯科" transform="ref(svg,13709.8289,-3503.1273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高木歯科,愛知県豊田市西岡町保ヶ山７０,歯科　矯正歯科　小児歯科,,,9" xlink:title="高木歯科" transform="ref(svg,13706.1885,-3504.6536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,愛知県豊田市花園町新田６２-１４,歯科　小児歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13707.9551,-3501.4516)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺田歯科,愛知県豊田市若林東町沖田８８-３,歯科　小児歯科,,,9" xlink:title="寺田歯科" transform="ref(svg,13709.5351,-3502.552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はなまる歯科,愛知県豊田市若林東町上外根１４-８,歯科　小児歯科,,,9" xlink:title="はなまる歯科" transform="ref(svg,13710.2814,-3502.2503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ひいらぎ歯科,愛知県豊田市若林東町字高根下７,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）ひいらぎ歯科" transform="ref(svg,13710.1653,-3502.5739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広瀬歯科医院,愛知県豊田市前林町京塚根４４-２,歯科　小児歯科,,,9" xlink:title="広瀬歯科医院" transform="ref(svg,13707.4244,-3503.954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星ケ丘歯科,愛知県豊田市西岡町星ケ丘２６４-１,歯科,,,9" xlink:title="星ケ丘歯科" transform="ref(svg,13705.6623,-3504.3899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みなみ歯科,愛知県豊田市駒新町中通３６,歯科　小児歯科,,,9" xlink:title="みなみ歯科" transform="ref(svg,13704.9438,-3502.2105)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,若林歯科,愛知県豊田市若林東町棚田１６１-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="若林歯科" transform="ref(svg,13710.6522,-3502.6305)" x="0" y="0"/>
+</g>
+</svg>

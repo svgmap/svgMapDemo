@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13359.375 -3410.15625 35.15625 35.15625" go:dataArea="13359.375 -3410.15625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,三好市国民健康保健大歩危診療所,徳島県三好市山城町上名１５８４-３-３,内科,,,9" xlink:title="三好市国民健康保健大歩危診療所" transform="ref(svg,13375.9855,-3387.8963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき眼科,徳島県三好郡東みよし町加茂１５１５-１,眼科,,,9" xlink:title="いわき眼科" transform="ref(svg,13393.3662,-3403.9361)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内田医院,徳島県三好郡東みよし町加茂１８０３-９,内科　胃腸科　循環器科　小児科　眼科　皮膚科　放射線科　理学療法科,,,9" xlink:title="内田医院" transform="ref(svg,13392.9887,-3403.8001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さんさん医院,徳島県三好郡東みよし町加茂２５４６-４,内科　小児科　放射線科,,,9" xlink:title="さんさん医院" transform="ref(svg,13391.8595,-3403.6699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くはらクリニック,徳島県三好郡東みよし町昼間１４８,内科　小児科　アレルギー科　リハビリテーション科,,,9" xlink:title="くはらクリニック" transform="ref(svg,13388.9915,-3404.1264)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山下医院,徳島県三好郡東みよし町昼間３６５６,内科　胃腸科,,,9" xlink:title="山下医院" transform="ref(svg,13386.7978,-3404.2363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田医院,徳島県三好郡東みよし町昼間３６９０-３,内科　小児科　糖尿病・代謝内科,,,9" xlink:title="上田医院" transform="ref(svg,13386.5503,-3404.2151)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井川町井内地区出張診療所,徳島県三好市井川町井内東２８０８-１,内科　小児科　眼科　皮膚科,,,9" xlink:title="井川町井内地区出張診療所" transform="ref(svg,13389.759,-3399.6834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,健生西部診療所,徳島県三好市井川町吉岡１２７-２,内科　呼吸器科　消化器科　循環器科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="健生西部診療所" transform="ref(svg,13386.4284,-3403.058)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山城診療所,徳島県三好市山城町下川５４５-５,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="山城診療所" transform="ref(svg,13378.2233,-3397.3677)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三好市国民健康保険西祖谷山村診療所,徳島県三好市西祖谷山村一宇３６８-９,内科　外科　整形外科　脳外科　歯科,,,9" xlink:title="三好市国民健康保険西祖谷山村診療所" transform="ref(svg,13381.6911,-3389.1219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安宅循環器内科,徳島県三好市池田町サラダ１６５１-２,内科　胃腸科　循環器科　呼吸器科　リハビリテーション科,,,9" xlink:title="安宅循環器内科" transform="ref(svg,13381.0298,-3402.716)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮内医院,徳島県三好市池田町サラダ１６７３-１,内科　小児科　アレルギー科,,,9" xlink:title="宮内医院" transform="ref(svg,13381.1938,-3402.6962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村山内科,徳島県三好市池田町サラダ１７９５-１,内科　呼吸器内科　消化器内科　循環器内科　リハビリテーション科,,,9" xlink:title="村山内科" transform="ref(svg,13380.6605,-3402.7753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大池医院,徳島県三好市池田町シマ６９１,内科　皮膚科　放射線科　循環器内科,,,9" xlink:title="大池医院" transform="ref(svg,13382.1321,-3402.823)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田岡医院,徳島県三好市池田町シマ９３４-６,内科　消化器科　循環器科　呼吸器科　小児科　婦人科　放射線科　リハビリテーション科,,,9" xlink:title="田岡医院" transform="ref(svg,13381.5422,-3402.7272)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浜クリニック,徳島県三好市池田町マチ２４４３-１,内科　外科　整形外科　眼科,,,9" xlink:title="浜クリニック" transform="ref(svg,13380.9497,-3403.0266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮佐医院,徳島県三好市池田町マチ２４７８-１,内科　心療内科　神経内科　リハビリテーション科,,,9" xlink:title="宮佐医院" transform="ref(svg,13380.7371,-3403.0037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和外科医院,徳島県三好市池田町マチ２５２４-２,消化器科　外科　整形外科　小児外科　麻酔科,,,9" xlink:title="大和外科医院" transform="ref(svg,13380.4898,-3402.9704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,郷外科内科,徳島県三好市池田町川崎宮ノ前１２３-１,内科　小児科　外科　整形外科,,,9" xlink:title="郷外科内科" transform="ref(svg,13377.4756,-3396.7413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内田医院,徳島県三好市池田町中西ナガウチ２５４-３,内科　消化器内科　呼吸器内科　外科　整形外科　放射線科　麻酔科　リハビリテーション科,,,9" xlink:title="内田医院" transform="ref(svg,13378.7466,-3400.7946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東クリニック,徳島県三好市東祖谷京上１７０-３,内科　胃腸科　外科　整形外科　皮膚科　こう門科,,,9" xlink:title="東クリニック" transform="ref(svg,13390.3283,-3386.6609)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今滝医院,香川県観音寺市粟井町２２９２-１,内科　消化器科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="今滝医院" transform="ref(svg,13369.9589,-3409.7873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保田医院,香川県観音寺市粟井町１２９５-１,内科　小児科,,,9" xlink:title="久保田医院" transform="ref(svg,13369.6196,-3409.56)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,門脇医院,香川県観音寺市大野原町萩原１２８６,内科　耳鼻咽喉科,,,9" xlink:title="門脇医院" transform="ref(svg,13367.6055,-3407.2237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石川医院,香川県観音寺市大野原町大野原２１１１-１,内科　外科,,,9" xlink:title="（医）石川医院" transform="ref(svg,13366.441,-3408.9532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,合田循環器内科医院,香川県観音寺市豊浜町姫浜４９３-１,内科　循環器科,,,9" xlink:title="合田循環器内科医院" transform="ref(svg,13364.2229,-3407.8987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）業天医院,香川県観音寺市豊浜町姫浜２８０-１２,内科　放射線科,,,9" xlink:title="（医）業天医院" transform="ref(svg,13363.8532,-3407.9728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひうち医務室,香川県観音寺市大野原町内野々３９４-１,内科,,,9" xlink:title="（特養）ひうち医務室" transform="ref(svg,13369.9715,-3406.0532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）とよはま荘医務室,香川県観音寺市豊浜町和田浜１５７５-１,内科　精神科　外科　眼科　耳鼻咽喉科,,,9" xlink:title="（特養）とよはま荘医務室" transform="ref(svg,13363.6718,-3407.1123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ネムの木医務室,香川県観音寺市豊浜町姫浜４１-１,内科,,,9" xlink:title="（特養）ネムの木医務室" transform="ref(svg,13363.8159,-3408.804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四国中央市立養護老人ホーム敬寿園,愛媛県四国中央市金田町金川１９７,内科　外科,,,9" xlink:title="四国中央市立養護老人ホーム敬寿園" transform="ref(svg,13359.6334,-3398.8887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,豊永医院,愛媛県四国中央市金田町金川４５-１,内科　外科,,,9" xlink:title="豊永医院" transform="ref(svg,13359.4903,-3399.0037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四国中央市国民健康保険新宮診療所,愛媛県四国中央市新宮町新宮５０,内科　小児科　外科　放射線科　歯科,,,9" xlink:title="四国中央市国民健康保険新宮診療所" transform="ref(svg,13363.9842,-3394.7447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大田口医院,高知県長岡郡大豊町字久保田船戸６０-２,内科　小児科　リハビリテーション科,,,9" xlink:title="大田口医院" transform="ref(svg,13372.3777,-3378.7108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋医院,高知県長岡郡大豊町大滝４９８,内科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="高橋医院" transform="ref(svg,13378.0146,-3379.1949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）大豊園医務室,高知県長岡郡大豊町津家１６２６,内科　精神科,,,9" xlink:title="（特養）大豊園医務室" transform="ref(svg,13364.3121,-3376.8593)" x="0" y="0"/>
+</g>
+</svg>

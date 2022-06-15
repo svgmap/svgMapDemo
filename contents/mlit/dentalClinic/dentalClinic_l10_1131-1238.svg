@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13970.21484375 -3559.5703125 4.39453125 4.39453125" go:dataArea="13970.21484375 -3559.5703125 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,青木歯科医院,東京都品川区西大井４-２４-５,歯科,,,9" xlink:title="青木歯科医院" transform="ref(svg,13971.991,-3559.2664)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトウ歯科医院,東京都品川区南大井５-２３-８,歯科　小児歯科,,,9" xlink:title="サトウ歯科医院" transform="ref(svg,13973.4022,-3559.364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森レインボー歯科,東京都品川区南大井６-１７-１０大森レインボービル２Ｆ,歯科　小児歯科,,,9" xlink:title="大森レインボー歯科" transform="ref(svg,13972.9793,-3558.9549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）アリスバンビーニ小児歯科大森診療所,東京都品川区南大井３-２３-１６,小児歯科　歯科,,,9" xlink:title="（医）アリスバンビーニ小児歯科大森診療所" transform="ref(svg,13973.3201,-3558.9577)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新明歯科医院,東京都品川区南大井３-３４-３コーポ新明１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="新明歯科医院" transform="ref(svg,13973.3636,-3558.7663)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ロイヤル歯科医院,東京都品川区南大井５-１７-４ロイヤルハイツ１Ｆ,歯科,,,9" xlink:title="ロイヤル歯科医院" transform="ref(svg,13973.3369,-3559.5286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）偕老会平松クリニック,東京都品川区南大井６-１７-７正栄プラザ１Ｆ,歯科　小児歯科,,,9" xlink:title="（医）偕老会平松クリニック" transform="ref(svg,13973.0013,-3558.9919)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古川歯科,東京都品川区南大井６-２５-３佐々木ビル２Ｆ,歯科,,,9" xlink:title="古川歯科" transform="ref(svg,13973.1062,-3558.9045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけい歯科クリニック,東京都品川区南大井６-２７-２５西友大森店２Ｆ,歯科　小児歯科,,,9" xlink:title="たけい歯科クリニック" transform="ref(svg,13973.0176,-3558.8083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）誠勝会南大井歯科クリニック,東京都品川区南大井１-１０-９斉藤ビル１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）誠勝会南大井歯科クリニック" transform="ref(svg,13973.885,-3559.5391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）弘心会タウン歯科,東京都品川区南大井６-１２-４タウンハイツ１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）弘心会タウン歯科" transform="ref(svg,13973.1999,-3559.1391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,紅林歯科医院,東京都品川区西大井４-２３-１５,歯科,,,9" xlink:title="紅林歯科医院" transform="ref(svg,13971.9792,-3559.3096)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のぞみ歯科医院,東京都品川区南大井３-１５-７Ｎ-ＦＬＡＴＳ１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="のぞみ歯科医院" transform="ref(svg,13973.5293,-3558.9806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清水歯科水神デンタルクリニック,東京都品川区南大井３-６-３ライオンズマンション大森第８　１Ｆ１０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）清水歯科水神デンタルクリニック" transform="ref(svg,13973.4287,-3559.2262)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,轟歯科医院,東京都品川区南大井６-１９-１６カテリーナ大森１Ｆ,歯科,,,9" xlink:title="轟歯科医院" transform="ref(svg,13973.214,-3559.0417)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおもりＫｉｄｓ矯正歯科,東京都品川区南大井６-１２-１１,矯正歯科　小児歯科,,,9" xlink:title="おおもりＫｉｄｓ矯正歯科" transform="ref(svg,13973.1664,-3559.12)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くに歯科医院,東京都品川区南大井６-２４-１４第５下川ビル３Ｆ,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="くに歯科医院" transform="ref(svg,13972.9963,-3558.9122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）桂・プロスペリティー品川・桂歯科医院,東京都品川区南大井６-２７-２８小林ビル２階,歯科　小児歯科,,,9" xlink:title="（医）桂・プロスペリティー品川・桂歯科医院" transform="ref(svg,13973.0175,-3558.8416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）歯舞会服部デンタルクリニック,東京都品川区南大井６-２６-２大森ベルポートＢ館１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）歯舞会服部デンタルクリニック" transform="ref(svg,13973.1315,-3558.7766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,セブンストーリー歯科医院,東京都大田区大森東１-１-３セブンストーリー１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="セブンストーリー歯科医院" transform="ref(svg,13973.5459,-3557.7194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科医院,東京都大田区大森東１-３-８,歯科,,,9" xlink:title="服部歯科医院" transform="ref(svg,13973.4946,-3557.5335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）仁慈会クラジ歯科医院,東京都大田区大森東１-３５-４-１０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）仁慈会クラジ歯科医院" transform="ref(svg,13974.0225,-3557.6805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉原歯科医院,東京都大田区大森東１-６-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="杉原歯科医院" transform="ref(svg,13973.5516,-3557.6835)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,東京都大田区大森東２-２９-１８コーポ伊藤１０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13973.7443,-3557.2714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大田歯科,東京都大田区大森東４-３-１１１階２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="大田歯科" transform="ref(svg,13973.7741,-3556.849)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森東歯科クリニック,東京都大田区大森東５-２１-３平林コーポ１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大森東歯科クリニック" transform="ref(svg,13974.0911,-3556.8102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナカムラデンタルクリニック,東京都大田区大森南２-１１-４ＮＤＣハイム１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ナカムラデンタルクリニック" transform="ref(svg,13974.3106,-3556.2416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）和昌会森ヶ崎歯科診療所,東京都大田区大森南２-２-４,歯科,,,9" xlink:title="（医）和昌会森ヶ崎歯科診療所" transform="ref(svg,13974.2249,-3556.3385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしむら歯科,東京都大田区大森南２-７-１キヤッスルイトウ１０１,歯科　小児歯科,,,9" xlink:title="にしむら歯科" transform="ref(svg,13974.6021,-3556.2766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつもと歯科クリニック,東京都大田区大森南３-２４-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まつもと歯科クリニック" transform="ref(svg,13974.272,-3556.4816)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,足立歯科医院,東京都大田区大森南３-３０-１４,歯科,,,9" xlink:title="足立歯科医院" transform="ref(svg,13974.2607,-3556.3675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いちかわ歯科医院,東京都大田区大森中１-２-２５エンゼルハイム大森第５　１０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="いちかわ歯科医院" transform="ref(svg,13973.292,-3557.176)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹生歯科,東京都大田区大森中２-１-１７,歯科,,,9" xlink:title="竹生歯科" transform="ref(svg,13972.9974,-3556.7779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大木歯科医院,東京都大田区大森中２-１４-２４,歯科,,,9" xlink:title="大木歯科医院" transform="ref(svg,13973.4542,-3556.7767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）弘心会おおわだ歯科,東京都大田区大森中２-２０-１キクセイレジデンス１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）弘心会おおわだ歯科" transform="ref(svg,13973.2226,-3556.7222)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松木歯科医院,東京都大田区大森中２-２２-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="松木歯科医院" transform="ref(svg,13973.0844,-3556.6729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むねしげ歯科,東京都大田区大森中２-２４-１,歯科,,,9" xlink:title="むねしげ歯科" transform="ref(svg,13972.9321,-3556.6656)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大田区立（特養）大森歯科,東京都大田区大森西１-１６-１８,歯科,,,9" xlink:title="大田区立（特養）大森歯科" transform="ref(svg,13972.5328,-3557.5665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北川歯科クリニック,東京都大田区大森西２-１-７,歯科　小児歯科,,,9" xlink:title="北川歯科クリニック" transform="ref(svg,13972.7862,-3557.8439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科医院,東京都大田区大森西２-２３-２０,歯科　小児歯科,,,9" xlink:title="金子歯科医院" transform="ref(svg,13972.9884,-3557.5763)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川島歯科医院,東京都大田区大森西２-８-３千葉ビル２Ｆ,歯科,,,9" xlink:title="川島歯科医院" transform="ref(svg,13973.4098,-3557.7574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内川歯科医院,東京都大田区大森西３-１２-３０,歯科,,,9" xlink:title="内川歯科医院" transform="ref(svg,13972.4994,-3557.3029)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すぎはら歯科,東京都大田区大森西３-１３-１６村尾ビル１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すぎはら歯科" transform="ref(svg,13972.7834,-3557.2491)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東海林歯科診療室,東京都大田区大森西３-１９-１５ボヌールＡ-Ｎ１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="東海林歯科診療室" transform="ref(svg,13973.0381,-3557.2207)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森町駅前歯科,東京都大田区大森西３-２１-１３池田ビル１Ｆ,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="大森町駅前歯科" transform="ref(svg,13973.1787,-3557.2786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サンクライネ歯科,東京都大田区大森西３-７-８サンクライネビル２Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="サンクライネ歯科" transform="ref(svg,13973.1909,-3557.3983)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）耕陽会グリーンアップル歯科医院,東京都大田区大森西４-１６-１２サンフラット１Ｆ,歯科　口腔外科,,,9" xlink:title="（医）耕陽会グリーンアップル歯科医院" transform="ref(svg,13972.4064,-3557.1725)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鎌田歯科医院,東京都大田区大森西４-１６-１６,歯科,,,9" xlink:title="鎌田歯科医院" transform="ref(svg,13972.3997,-3557.1585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はっとり歯科医院,東京都大田区大森西５-１０-６ロイヤルビレッジ１０１,歯科,,,9" xlink:title="はっとり歯科医院" transform="ref(svg,13973.0754,-3557.1851)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西沢歯科医院,東京都大田区大森西５-１７-２７シヤトール戸島１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西沢歯科医院" transform="ref(svg,13972.7926,-3557.0686)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エルザ歯科クリニック,東京都大田区大森西５-６-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="エルザ歯科クリニック" transform="ref(svg,13972.8468,-3557.2236)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恵耀会安田歯科医院,東京都大田区大森西５-６-５エクセルコート大森町１階,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）恵耀会安田歯科医院" transform="ref(svg,13972.8928,-3557.1803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,影山歯科医院,東京都大田区大森西５-７-２３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="影山歯科医院" transform="ref(svg,13972.8065,-3557.1503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増田歯科医院,東京都大田区大森西６-１５-１８若林ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="増田歯科医院" transform="ref(svg,13972.7655,-3556.7476)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古屋歯科クリニック,東京都大田区大森西６-１５-２２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="古屋歯科クリニック" transform="ref(svg,13972.7662,-3556.769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,須山歯科医院,東京都大田区大森西６-４-１３,歯科,,,9" xlink:title="須山歯科医院" transform="ref(svg,13972.8079,-3556.8723)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）孝雄会寒河江歯科診療所,東京都大田区大森西７-５-１０１階,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）孝雄会寒河江歯科診療所" transform="ref(svg,13972.3549,-3557.0378)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,めぐみデンタルクリニック,東京都大田区大森西７-５-１３三常ビル２階,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="めぐみデンタルクリニック" transform="ref(svg,13972.3602,-3557.0171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かず歯科室,東京都大田区大森西７-７-１６,歯科　矯正歯科　小児歯科,,,9" xlink:title="かず歯科室" transform="ref(svg,13972.2794,-3556.8477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細野歯科クリニック,東京都大田区大森北１-１-１０朝日生命ビル７Ｆ,歯科,,,9" xlink:title="細野歯科クリニック" transform="ref(svg,13972.9439,-3558.8904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ティースデンタルオフィス,東京都大田区大森北１-１-５大東ビル１０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ティースデンタルオフィス" transform="ref(svg,13972.947,-3558.9264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森歯科クリニック,東京都大田区大森北１-１０-１２ガーデンホーム大森１Ｆ・２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大森歯科クリニック" transform="ref(svg,13972.8265,-3558.6121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）創新会Ｌｕｚ大森アプル歯科医院,東京都大田区大森北１-１０-１４８Ｆ-Ａ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）創新会Ｌｕｚ大森アプル歯科医院" transform="ref(svg,13972.8216,-3558.6463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）創新会大森・東京歯科口腔外科,東京都大田区大森北１-１０-１４８Ｆ-Ｂ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）創新会大森・東京歯科口腔外科" transform="ref(svg,13972.8216,-3558.6463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イシヅカデンタルオフィス,東京都大田区大森北１-１０-７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="イシヅカデンタルオフィス" transform="ref(svg,13972.8523,-3558.6191)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）森和会森歯科医院,東京都大田区大森北１-１１-１８大森ハウス２０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）森和会森歯科医院" transform="ref(svg,13972.8261,-3558.6982)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,セントラルビル歯科クリニック,東京都大田区大森北１-１４-５セントラルビル３Ｆ,歯科,,,9" xlink:title="セントラルビル歯科クリニック" transform="ref(svg,13972.92,-3558.5462)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上小沢歯科医院,東京都大田区大森北１-１７-１１東亜パークサイドキャッスル１０２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="上小沢歯科医院" transform="ref(svg,13973.0536,-3558.6853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すずき歯科,東京都大田区大森北１-１９-９ユーハイム２Ｆ,歯科,,,9" xlink:title="すずき歯科" transform="ref(svg,13973.1302,-3558.5958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,れいな歯科,東京都大田区大森北１-２２-２山王ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="れいな歯科" transform="ref(svg,13973.0183,-3558.5941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科クリニック,東京都大田区大森北１-２６-１５リレント大森１０１,歯科,,,9" xlink:title="高橋歯科クリニック" transform="ref(svg,13972.8887,-3558.4935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平松歯科医院,東京都大田区大森北１-２７-３大森北一ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="平松歯科医院" transform="ref(svg,13972.8529,-3558.532)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むかい歯科,東京都大田区大森北１-２８-９ラフィネ大森１Ｆ,歯科　小児歯科,,,9" xlink:title="むかい歯科" transform="ref(svg,13972.7995,-3558.4831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,針ヶ谷歯科クリニック,東京都大田区大森北１-２９-１６第６宮本ビル２Ｆ,歯科,,,9" xlink:title="針ヶ谷歯科クリニック" transform="ref(svg,13972.809,-3558.5668)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森北一歯科クリニック,東京都大田区大森北１-３-５アトラスビル４Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大森北一歯科クリニック" transform="ref(svg,13972.9208,-3558.7437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井坂歯科医院,東京都大田区大森北１-３４-１４岡谷ビル２Ｆ,歯科,,,9" xlink:title="井坂歯科医院" transform="ref(svg,13972.6794,-3558.5694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）優明会わたなべ歯科,東京都大田区大森北１-４-１０大森駅前共同ビル３階,歯科,,,9" xlink:title="（医）優明会わたなべ歯科" transform="ref(svg,13972.8456,-3558.7884)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）スマイルステーション大森イースト歯科,東京都大田区大森北１-６-１６アトレ大森４Ｆ,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="（医）スマイルステーション大森イースト歯科" transform="ref(svg,13972.819,-3558.8275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ＰＥＡＣＨもも矯正歯科,東京都大田区大森北１-８-１３カスタリア大森-U　２階,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="（医）ＰＥＡＣＨもも矯正歯科" transform="ref(svg,13972.7423,-3558.6717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宣心会こころデンタルクリニック,東京都大田区大森北１-８-２ジェイコア大森２階,歯科　小児歯科　口腔外科,,,9" xlink:title="（医）宣心会こころデンタルクリニック" transform="ref(svg,13972.7739,-3558.6821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高峰歯科医院,東京都大田区大森北１-９-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="高峰歯科医院" transform="ref(svg,13972.7725,-3558.6443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森海岸歯科クリニック,東京都大田区大森北２-１７-２α-ＮＥＸＴ大森海岸３Ｆ,歯科,,,9" xlink:title="大森海岸歯科クリニック" transform="ref(svg,13973.4921,-3558.7024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）祐清会大森徳植歯科医院,東京都大田区大森北３-２２-２１,歯科,,,9" xlink:title="（医）祐清会大森徳植歯科医院" transform="ref(svg,13973.1643,-3558.2243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斉藤歯科クリニック,東京都大田区大森北３-３３-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="斉藤歯科クリニック" transform="ref(svg,13973.3799,-3558.2182)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大須賀歯科医院,東京都大田区大森北３-４２-１メゾンシミズ２０３,歯科,,,9" xlink:title="大須賀歯科医院" transform="ref(svg,13973.5525,-3558.4186)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）壮心会ウチダ歯科クリニック,東京都大田区大森北３-５-３佐久間ビル１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）壮心会ウチダ歯科クリニック" transform="ref(svg,13973.3405,-3558.4305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,徳植デンタルクリニック,東京都大田区大森北４-１６-１１,歯科　小児歯科,,,9" xlink:title="徳植デンタルクリニック" transform="ref(svg,13972.7443,-3558.2932)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小笠原歯科医院,東京都大田区大森北４-２-１２Ｋ１３ビル,歯科,,,9" xlink:title="小笠原歯科医院" transform="ref(svg,13972.559,-3558.4171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）裕歯会小林デンタルクリニック,東京都大田区大森北４-２２-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）裕歯会小林デンタルクリニック" transform="ref(svg,13972.5386,-3558.2416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森北歯科,東京都大田区大森北５-４-１０エバグリーン栗山１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大森北歯科" transform="ref(svg,13972.6796,-3558.1031)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）つばさ会平和島駅前歯科医院,東京都大田区大森北６-１３-１０島田ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="（医）つばさ会平和島駅前歯科医院" transform="ref(svg,13973.4562,-3557.864)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）広仁会京急平和島歯科,東京都大田区大森北６-１３-６第６ＴＡＣビル１階,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）広仁会京急平和島歯科" transform="ref(svg,13973.4447,-3557.9015)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,東京都大田区大森北６-１４-１０,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13973.39,-3557.8839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平和島デンタルクリニック,東京都大田区大森北６-１７-１５　１Ａサンクレスト大森,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="平和島デンタルクリニック" transform="ref(svg,13973.2691,-3557.9137)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よこた歯科,東京都大田区大森北６-２-１１第２ＴＡＣビル１０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="よこた歯科" transform="ref(svg,13973.1248,-3558.0609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,染谷歯科医院,東京都大田区大森北６-２-５大塚ビル１Ｆ,歯科　小児歯科,,,9" xlink:title="染谷歯科医院" transform="ref(svg,13973.0602,-3558.0838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沓澤歯科医院,東京都大田区大森北６-２３-２２高塚ビル１Ｆ１０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="沓澤歯科医院" transform="ref(svg,13972.8391,-3557.9336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土橋歯科医院,東京都大田区大森北６-２７-１３,歯科,,,9" xlink:title="土橋歯科医院" transform="ref(svg,13973.4228,-3557.8271)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）亮和会はまだ歯科診療所,東京都大田区大森北６-２８-６ヴィラあさひ２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）亮和会はまだ歯科診療所" transform="ref(svg,13973.4875,-3557.7868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エイト大森歯科,東京都大田区大森本町１-２-６エイト大森３０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="エイト大森歯科" transform="ref(svg,13973.6303,-3558.7419)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）創新会アプルビル歯科医院,東京都大田区大森本町２-２５-１アプルビル１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）創新会アプルビル歯科医院" transform="ref(svg,13973.6756,-3557.874)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩田歯科医院,東京都大田区大森本町２-３２-３,歯科,,,9" xlink:title="岩田歯科医院" transform="ref(svg,13973.5764,-3557.7995)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川歯科クリニック,東京都大田区大森本町２-５-８オオタカビル２Ｆ,歯科,,,9" xlink:title="石川歯科クリニック" transform="ref(svg,13973.6508,-3557.8721)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森山王デンタルオフィス,東京都大田区山王１-２３-２２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大森山王デンタルオフィス" transform="ref(svg,13972.5321,-3559.3574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西山歯科医院,東京都大田区山王１-２５-８,歯科,,,9" xlink:title="西山歯科医院" transform="ref(svg,13972.4977,-3559.3766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまだ歯科口腔外科クリニック,東京都大田区山王１-２６-２４東明山王マンション１０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまだ歯科口腔外科クリニック" transform="ref(svg,13972.5509,-3559.2834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,カトウ歯科医院,東京都大田区山王１-４４-２ベルフローラ１Ｆ,歯科　小児歯科,,,9" xlink:title="カトウ歯科医院" transform="ref(svg,13971.9601,-3559.1908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,東京都大田区山王１-６-４ＪＯＹＣＥ　Ｒ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13972.8246,-3559.1061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）正翔会横須賀歯科医院,東京都大田区山王２-１-５大森駅ビルララ地下１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）正翔会横須賀歯科医院" transform="ref(svg,13972.8392,-3558.9926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）正翔会横須賀デンタルオフィス,東京都大田区山王２-１-５大森駅ビルララ三階,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）正翔会横須賀デンタルオフィス" transform="ref(svg,13972.8392,-3558.9926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小沼歯科医院,東京都大田区山王２-１-６キヤビックビル７Ｆ,歯科,,,9" xlink:title="小沼歯科医院" transform="ref(svg,13972.8328,-3559.0169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,東京都大田区山王２-１９-６,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13972.3086,-3559.1302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内田歯科医院,東京都大田区山王２-２-７八景坂ビル５Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="内田歯科医院" transform="ref(svg,13972.7095,-3558.806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山王デンタルクリニック,東京都大田区山王２-３-１２セザール山王１０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山王デンタルクリニック" transform="ref(svg,13972.6496,-3558.7108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大橋歯科クリニック,東京都大田区山王２-３６-４大橋ビル１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大橋歯科クリニック" transform="ref(svg,13972.1431,-3559.1715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まきた歯科クリニック,東京都大田区山王２-５-３伊川ビル２階,歯科,,,9" xlink:title="まきた歯科クリニック" transform="ref(svg,13972.7989,-3559.0546)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山歯科医院,東京都大田区山王３-１-６仲尾ビル２Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中山歯科医院" transform="ref(svg,13972.5174,-3558.4895)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森川歯科医院,東京都大田区山王３-１４-１橋爪ビル２階,歯科,,,9" xlink:title="森川歯科医院" transform="ref(svg,13972.1762,-3558.1668)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保歯科医院,東京都大田区山王３-１５-２２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="久保歯科医院" transform="ref(svg,13972.1279,-3558.2063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）創生会松元教貢歯科医院,東京都大田区山王３-１８-３井上ビル２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）創生会松元教貢歯科医院" transform="ref(svg,13972.2446,-3558.2981)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウィステリアデンタルクリニック,東京都大田区山王３-２３-１フージー山王１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ウィステリアデンタルクリニック" transform="ref(svg,13972.3248,-3558.3454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池上通り古澤歯科,東京都大田区山王３-２３-３,歯科　小児歯科,,,9" xlink:title="池上通り古澤歯科" transform="ref(svg,13972.3128,-3558.3347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,テルデンタルクリニック,東京都大田区山王３-２７-６大森ラルタビル２階,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="テルデンタルクリニック" transform="ref(svg,13972.3944,-3558.4191)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,尾崎歯科医院,東京都大田区山王３-３０-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="尾崎歯科医院" transform="ref(svg,13972.5841,-3558.6117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）足羽会松川歯科医院,東京都大田区山王３-３１-５坂田ビル２Ｆ,歯科　矯正歯科,,,9" xlink:title="（医）足羽会松川歯科医院" transform="ref(svg,13972.6006,-3558.6709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北村歯科医院,東京都大田区山王４-１１-７シャトレ山王ビル１Ｆ１０４,歯科,,,9" xlink:title="北村歯科医院" transform="ref(svg,13971.9092,-3559.0203)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩澤歯科診療所,東京都大田区山王４-２３-１７,歯科,,,9" xlink:title="岩澤歯科診療所" transform="ref(svg,13972.1744,-3558.749)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アイカ歯科医院,東京都大田区東馬込２-５-１７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アイカ歯科医院" transform="ref(svg,13971.753,-3559.379)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科クリニック,東京都大田区南馬込１-３０-６,歯科,,,9" xlink:title="高山歯科クリニック" transform="ref(svg,13971.2003,-3559.2852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,南馬込歯科医院,東京都大田区南馬込１-４５-１６,歯科　小児歯科,,,9" xlink:title="南馬込歯科医院" transform="ref(svg,13971.5838,-3559.095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山-ｱ歯科医院,東京都大田区南馬込４-１-２３,歯科,,,9" xlink:title="山-ｱ歯科医院" transform="ref(svg,13971.1629,-3558.7693)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長谷川歯科クリニック,東京都大田区南馬込５-１８-１１ハイツ大和１Ｆ,歯科,,,9" xlink:title="長谷川歯科クリニック" transform="ref(svg,13970.8561,-3558.7968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白井歯科医院,東京都大田区南馬込５-２５-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="白井歯科医院" transform="ref(svg,13970.8306,-3558.5977)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆきたに歯科,東京都大田区南馬込５-３８-１０メゾン丸共１０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ゆきたに歯科" transform="ref(svg,13970.6722,-3558.6273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西馬込駅前クリニック,東京都大田区南馬込５-３９-８,歯科,,,9" xlink:title="西馬込駅前クリニック" transform="ref(svg,13970.6682,-3558.6593)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいがせ矯正歯科,東京都大田区南馬込５-４２-３ニュートーア馬込２０７,歯科　矯正歯科,,,9" xlink:title="あいがせ矯正歯科" transform="ref(svg,13970.543,-3558.5785)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐竹歯科医院,東京都大田区南馬込５-４３-３ヴィラ・モリ２０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="佐竹歯科医院" transform="ref(svg,13970.4979,-3558.5127)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜並木塚本歯科医院,東京都大田区南馬込６-２１-１チェリオ櫻並木１０１,歯科　小児歯科,,,9" xlink:title="桜並木塚本歯科医院" transform="ref(svg,13971.226,-3558.3795)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とみた歯科クリニック,東京都大田区中馬込２-１２-７コンフォート中馬込１Ｆ,歯科,,,9" xlink:title="とみた歯科クリニック" transform="ref(svg,13970.8824,-3559.4256)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のり歯科クリニック,東京都大田区西馬込２-１８-１５第６シャルム西馬込１０１,歯科,,,9" xlink:title="のり歯科クリニック" transform="ref(svg,13970.3329,-3558.7462)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふくなが歯科医院,東京都大田区西馬込２-２-５フラワーハイム-T３０２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふくなが歯科医院" transform="ref(svg,13970.5318,-3558.668)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,篠崎デンタルクリニック,東京都大田区西馬込２-２０-５グローイングビル２Ｆ,歯科,,,9" xlink:title="篠崎デンタルクリニック" transform="ref(svg,13970.5245,-3558.6227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじさわ歯科医院,東京都大田区中央３-５-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふじさわ歯科医院" transform="ref(svg,13971.6714,-3557.7735)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢口記念大森ユニオン歯科,東京都大田区中央３-５-６セントパレス４Ｆ,歯科,,,9" xlink:title="矢口記念大森ユニオン歯科" transform="ref(svg,13971.6938,-3557.7855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木邑歯科医院,東京都大田区中央３-７-２,歯科,,,9" xlink:title="木邑歯科医院" transform="ref(svg,13971.7305,-3557.7188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,レストキッズデンタルクリニック,東京都大田区中央３-７-６,小児歯科　矯正歯科　歯科,,,9" xlink:title="レストキッズデンタルクリニック" transform="ref(svg,13971.7647,-3557.693)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石井歯科医院,東京都大田区中央４-１５-４,歯科,,,9" xlink:title="石井歯科医院" transform="ref(svg,13971.4648,-3557.8969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおつか歯科医院,東京都大田区中央４-２６-１６,歯科　小児歯科,,,9" xlink:title="おおつか歯科医院" transform="ref(svg,13971.4869,-3557.818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）博仁会立石歯科医院,東京都大田区中央４-３１-６,歯科,,,9" xlink:title="（医）博仁会立石歯科医院" transform="ref(svg,13971.9137,-3557.9697)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）保歯会梅本歯科医院,東京都大田区中央４-３４-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）保歯会梅本歯科医院" transform="ref(svg,13971.7305,-3557.8313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,廣橋歯科医院,東京都大田区中央６-２５-１２,歯科　歯科口腔外科,,,9" xlink:title="廣橋歯科医院" transform="ref(svg,13971.5111,-3557.7495)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷歯科クリニック,東京都大田区中央６-３０-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="谷歯科クリニック" transform="ref(svg,13971.2162,-3557.5805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水沼歯科医院,東京都大田区中央７-２-１高垣ビル２階,歯科　小児歯科,,,9" xlink:title="水沼歯科医院" transform="ref(svg,13971.4616,-3557.6518)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あきた歯科,東京都大田区中央７-６-２４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="あきた歯科" transform="ref(svg,13971.3226,-3557.4966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十嵐歯科医院,東京都大田区中央７-７-９,歯科,,,9" xlink:title="五十嵐歯科医院" transform="ref(svg,13971.5069,-3557.5434)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福田歯科医院,東京都大田区中央８-３０-９,歯科,,,9" xlink:title="福田歯科医院" transform="ref(svg,13971.8549,-3557.2602)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,東京都大田区中央８-３２-１３,歯科　小児歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13971.784,-3557.1342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新谷歯科医院,東京都大田区池上１-２７-１２ニイヤビル２Ｆ,歯科,,,9" xlink:title="新谷歯科医院" transform="ref(svg,13971.1323,-3557.5357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ヨシダ歯科,東京都大田区池上１-８-１２　１階,歯科,,,9" xlink:title="（医）ヨシダ歯科" transform="ref(svg,13970.7808,-3558.0639)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いけがみ矯正歯科クリニック,東京都大田区池上３-３１-１１-２０２,矯正歯科,,,9" xlink:title="いけがみ矯正歯科クリニック" transform="ref(svg,13970.3373,-3557.3743)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池上セントラル歯科,東京都大田区池上３-４０-１９グランイーグル池上駅前-U１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="池上セントラル歯科" transform="ref(svg,13970.2209,-3557.2932)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小原歯科医院,東京都大田区池上３-４１-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小原歯科医院" transform="ref(svg,13970.3486,-3557.35)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）誠明会しまずえ歯科医院,東京都大田区池上４-１６-１４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）誠明会しまずえ歯科医院" transform="ref(svg,13970.5754,-3557.3608)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（公社）東京都大田区大森歯科医師会休日応急診療所,東京都大田区池上４-１９-７,歯科,,,9" xlink:title="（公社）東京都大田区大森歯科医師会休日応急診療所" transform="ref(svg,13970.5238,-3557.5343)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,香川歯科医院,東京都大田区池上４-２０-６イースタンパレス池上１０３,歯科,,,9" xlink:title="香川歯科医院" transform="ref(svg,13970.4587,-3557.5536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なつデンタルクリニック,東京都大田区池上４-３１-１０シティハウス池上イースト１０６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なつデンタルクリニック" transform="ref(svg,13970.4787,-3557.313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,倉治歯科医院,東京都大田区池上４-７-４,歯科　小児歯科,,,9" xlink:title="倉治歯科医院" transform="ref(svg,13970.8604,-3557.469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ココデンタルクリニック,東京都大田区池上５-１-１ＫＴＹビル１０１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ココデンタルクリニック" transform="ref(svg,13971.0065,-3557.4515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よこぼり歯科クリニック,東京都大田区池上５-５-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="よこぼり歯科クリニック" transform="ref(svg,13970.9535,-3557.3517)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲垣歯科医院,東京都大田区池上５-７-７,歯科,,,9" xlink:title="稲垣歯科医院" transform="ref(svg,13970.7608,-3557.3539)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池上歯科医院,東京都大田区池上６-１-１大西ビル２０３,歯科,,,9" xlink:title="池上歯科医院" transform="ref(svg,13970.3751,-3557.2655)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆか歯科クリニック,東京都大田区池上６-１-２１フォーラムビル２階,歯科　小児歯科,,,9" xlink:title="ゆか歯科クリニック" transform="ref(svg,13970.3818,-3557.2552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヨダ歯科医院,東京都大田区池上６-１１-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ヨダ歯科医院" transform="ref(svg,13970.3684,-3557.1082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）池上駅前歯科,東京都大田区池上６-２-１７第２水口ビル３０１,歯科,,,9" xlink:title="（医）池上駅前歯科" transform="ref(svg,13970.3164,-3557.2465)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渋谷歯科クリニック,東京都大田区池上６-２０-１１-１０１,歯科　歯科口腔外科,,,9" xlink:title="渋谷歯科クリニック" transform="ref(svg,13970.3683,-3557.0308)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠井歯科医院,東京都大田区池上６-３６-１５,歯科,,,9" xlink:title="笠井歯科医院" transform="ref(svg,13970.2619,-3556.7984)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大柳歯科,東京都大田区池上６-４-１８ブリックタウン小林２Ｆ,歯科　小児歯科,,,9" xlink:title="大柳歯科" transform="ref(svg,13970.3794,-3557.2018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科医院,東京都大田区東糀谷１-１２-２３,歯科,,,9" xlink:title="佐々木歯科医院" transform="ref(svg,13973.8546,-3555.9585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つづき歯科医院,東京都大田区東糀谷２-１４-２１アーバンライフ大鳥居２０１,歯科　小児歯科,,,9" xlink:title="つづき歯科医院" transform="ref(svg,13974.1097,-3555.3892)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川又歯科クリニック,東京都大田区東糀谷３-５-１４,歯科,,,9" xlink:title="川又歯科クリニック" transform="ref(svg,13974.1977,-3555.3518)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,羽田エイル歯科・矯正歯科,東京都大田区東糀谷３-６-１１　１階,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="羽田エイル歯科・矯正歯科" transform="ref(svg,13974.2303,-3555.2359)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,齋藤歯科医院,東京都大田区東糀谷４-１０-２３,歯科　矯正歯科　小児歯科,,,9" xlink:title="齋藤歯科医院" transform="ref(svg,13974.2344,-3555.4087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠井歯科医院,東京都大田区東糀谷５-１６-２５,歯科,,,9" xlink:title="笠井歯科医院" transform="ref(svg,13974.2555,-3555.7784)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,団歯科医院,東京都大田区西糀谷１-１３-１４,歯科,,,9" xlink:title="団歯科医院" transform="ref(svg,13972.9681,-3555.8511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森住歯科医院,東京都大田区西糀谷１-２１-１７,歯科,,,9" xlink:title="森住歯科医院" transform="ref(svg,13972.8453,-3555.7336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）友伸会西糀谷歯科,東京都大田区西糀谷１-２３-１６クリセントマム１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）友伸会西糀谷歯科" transform="ref(svg,13973.0358,-3555.739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大田区立（特養）糀谷歯科,東京都大田区西糀谷２-１２-１,歯科,,,9" xlink:title="大田区立（特養）糀谷歯科" transform="ref(svg,13973.7233,-3555.9261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ドエル小笠原デンタルクリニック,東京都大田区西糀谷２-２１-２,歯科,,,9" xlink:title="ドエル小笠原デンタルクリニック" transform="ref(svg,13973.4964,-3555.8429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふれあいファミリー歯科,東京都大田区西糀谷２-２６-４都営西糀谷２-アパート４棟１０６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ふれあいファミリー歯科" transform="ref(svg,13973.7128,-3555.7176)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,東京都大田区西糀谷３-１２-４,歯科　矯正歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13973.5561,-3555.5309)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有福歯科医院,東京都大田区西糀谷３-１４-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="有福歯科医院" transform="ref(svg,13973.3949,-3555.4654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木嶋歯科,東京都大田区西糀谷３-３６-９ＫＤビル２Ｆ,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="木嶋歯科" transform="ref(svg,13973.9676,-3555.321)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわぶち歯科,東京都大田区西糀谷３-４０-３ルミエール大鳥居東館１０２,歯科　小児歯科,,,9" xlink:title="いわぶち歯科" transform="ref(svg,13973.7873,-3555.2701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩田歯科医院,東京都大田区西糀谷３-７-３,歯科　小児歯科,,,9" xlink:title="岩田歯科医院" transform="ref(svg,13973.8324,-3555.692)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,開発歯科,東京都大田区西糀谷３-９-２２ピラム２Ｆ,歯科　小児歯科,,,9" xlink:title="開発歯科" transform="ref(svg,13973.8186,-3555.5031)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よねくら歯科医院,東京都大田区西糀谷４-１０-２横山ビル１Ｆ,歯科　小児歯科,,,9" xlink:title="よねくら歯科医院" transform="ref(svg,13972.938,-3555.5987)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伴場歯科医院,東京都大田区西糀谷４-１３-１０ジョイシーズビル西糀谷２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="伴場歯科医院" transform="ref(svg,13972.9896,-3555.548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,糀谷歯科医院,東京都大田区西糀谷４-１３-１６,歯科　小児歯科,,,9" xlink:title="糀谷歯科医院" transform="ref(svg,13972.994,-3555.4609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川名部歯科医院,東京都大田区西糀谷４-２１-４糀谷Ｔビル１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="川名部歯科医院" transform="ref(svg,13973.0707,-3555.4551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）志友会くすのき歯科医院,東京都大田区西糀谷４-２７-１０守田ビル３階,歯科　小児歯科,,,9" xlink:title="（医）志友会くすのき歯科医院" transform="ref(svg,13972.9834,-3555.3871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浜田歯科医院,東京都大田区西糀谷４-４-２５,歯科　小児歯科,,,9" xlink:title="浜田歯科医院" transform="ref(svg,13973.0197,-3555.6727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,東京都大田区北糀谷１-１１-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13973.6485,-3556.3805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富山歯科クリニック,東京都大田区北糀谷１-２０-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="富山歯科クリニック" transform="ref(svg,13973.694,-3556.1628)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科医院,東京都大田区萩中１-１-１６,歯科,,,9" xlink:title="服部歯科医院" transform="ref(svg,13972.3083,-3555.2174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すぎはら歯科クリニック,東京都大田区萩中１-１-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="すぎはら歯科クリニック" transform="ref(svg,13972.3262,-3555.233)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斉藤歯科医院,東京都大田区萩中２-１-１５,歯科　矯正歯科　小児歯科,,,9" xlink:title="斉藤歯科医院" transform="ref(svg,13972.9943,-3555.2323)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,東京都大田区萩中２-１-１９,歯科　矯正歯科　小児歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13972.9837,-3555.2656)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）一樹会くろいわ歯科医院,東京都大田区萩中３-７-１金井ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）一樹会くろいわ歯科医院" transform="ref(svg,13973.9764,-3555.2141)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科,東京都大田区東六郷１-３-１１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="小林歯科" transform="ref(svg,13972.025,-3555.3868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）スマイル・フロンティアかがや歯科医院,東京都大田区仲六郷１-３６-６　１階,歯科　小児歯科,,,9" xlink:title="（医）スマイル・フロンティアかがや歯科医院" transform="ref(svg,13971.2434,-3555.336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荻野歯科医院,東京都大田区仲六郷１-４２-４,歯科,,,9" xlink:title="荻野歯科医院" transform="ref(svg,13971.5524,-3555.291)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井原歯科,東京都大田区東矢口１-１８-１石川ビル２Ｆ,歯科,,,9" xlink:title="井原歯科" transform="ref(svg,13970.8168,-3556.4597)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,兼松歯科,東京都大田区東矢口１-１８-４,歯科,,,9" xlink:title="兼松歯科" transform="ref(svg,13970.7802,-3556.4501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡野歯科医院,東京都大田区東矢口１-８-３,歯科,,,9" xlink:title="岡野歯科医院" transform="ref(svg,13970.4923,-3556.6213)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増川歯科医院,東京都大田区東矢口３-１５-１６,歯科,,,9" xlink:title="増川歯科医院" transform="ref(svg,13970.6113,-3556.2597)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あずさわ歯科,東京都大田区東矢口３-１９-１０第１５菊地ビルローリエ蓮沼１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あずさわ歯科" transform="ref(svg,13970.8547,-3556.2311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,東京都大田区多摩川２-２１-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,13970.3436,-3555.8157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つつみ歯科,東京都大田区東蒲田１-１-１プラムパーク嶋田２０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="つつみ歯科" transform="ref(svg,13972.8989,-3556.6562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はなわ歯科医院,東京都大田区東蒲田１-１３-１１梅屋敷大黒荘１Ｆ,歯科,,,9" xlink:title="はなわ歯科医院" transform="ref(svg,13972.964,-3556.4485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢木歯科医院,東京都大田区東蒲田２-２３-２,歯科,,,9" xlink:title="矢木歯科医院" transform="ref(svg,13972.7616,-3556.1908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）--起会よねやま歯科医院,東京都大田区東蒲田２-２９-１４松澤ビル２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）--起会よねやま歯科医院" transform="ref(svg,13972.5595,-3556.216)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土屋歯科医院,東京都大田区南蒲田１-１-１４,歯科,,,9" xlink:title="土屋歯科医院" transform="ref(svg,13972.4381,-3556.0008)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉村歯科医院,東京都大田区南蒲田１-１４-１９,歯科,,,9" xlink:title="吉村歯科医院" transform="ref(svg,13972.5955,-3555.6993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）良真会倉沢歯科医院,東京都大田区南蒲田１-３-１４第二クリンコーポ,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）良真会倉沢歯科医院" transform="ref(svg,13972.4892,-3555.9617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むしが歯科,東京都大田区南蒲田１-７-２２静和マンション１Ｆ,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="むしが歯科" transform="ref(svg,13972.7242,-3555.9282)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）仁慈会テクノポートデンタルクリニック,東京都大田区南蒲田２-１６-１トキメックビルディング別館２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）仁慈会テクノポートデンタルクリニック" transform="ref(svg,13972.2457,-3555.5718)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永田歯科クリニック,東京都大田区南蒲田２-７-１ファインフューチャー樹心１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="永田歯科クリニック" transform="ref(svg,13972.4776,-3555.6909)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小田歯科医院,東京都大田区南蒲田３-１-２６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小田歯科医院" transform="ref(svg,13972.6145,-3555.5717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉原歯科医院,東京都大田区南蒲田３-１６-２１,歯科,,,9" xlink:title="杉原歯科医院" transform="ref(svg,13972.3607,-3555.2626)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科,東京都大田区南蒲田３-９-４,歯科,,,9" xlink:title="金子歯科" transform="ref(svg,13972.4595,-3555.3524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西本歯科医院,東京都大田区西蒲田１-１６-１９,歯科,,,9" xlink:title="西本歯科医院" transform="ref(svg,13971.5467,-3557.0301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮本歯科医院,東京都大田区西蒲田１-１８-１１,歯科　小児歯科,,,9" xlink:title="宮本歯科医院" transform="ref(svg,13971.3698,-3557.0415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,女塚歯科医院,東京都大田区西蒲田３-１-１３,歯科,,,9" xlink:title="女塚歯科医院" transform="ref(svg,13971.1202,-3556.9832)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,由井歯科医院,東京都大田区西蒲田４-１-５,歯科,,,9" xlink:title="由井歯科医院" transform="ref(svg,13971.8708,-3556.9925)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）創星会かまた歯科クリニック,東京都大田区西蒲田５-１４-５蒲田７号館１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）創星会かまた歯科クリニック" transform="ref(svg,13971.6025,-3556.6235)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国分歯科医院,東京都大田区西蒲田５-１６-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="国分歯科医院" transform="ref(svg,13971.4503,-3556.5739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,東京都大田区西蒲田５-１８-１９,歯科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,13971.3256,-3556.5649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島田歯科医院,東京都大田区西蒲田５-１９-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="島田歯科医院" transform="ref(svg,13971.4292,-3556.4879)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）俊成会大谷歯科医院,東京都大田区西蒲田５-４-１０,歯科,,,9" xlink:title="（医）俊成会大谷歯科医院" transform="ref(svg,13971.6205,-3556.7535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あくたがわ歯科,東京都大田区西蒲田５-８-１７メゾンエランプース１-Ｆ,歯科　小児歯科　矯正歯科,,,9" xlink:title="あくたがわ歯科" transform="ref(svg,13971.2585,-3556.7349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほんだ歯科医院,東京都大田区西蒲田５-９-１２,歯科　小児歯科,,,9" xlink:title="ほんだ歯科医院" transform="ref(svg,13971.3112,-3556.6151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）政志会サイトウ歯科,東京都大田区西蒲田６-２１-９　１・２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）政志会サイトウ歯科" transform="ref(svg,13971.2852,-3556.5152)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,東京都大田区西蒲田６-３１-７,歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13970.903,-3556.47)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）正松会潮田歯科医院,東京都大田区西蒲田６-３３-１-１０１,歯科,,,9" xlink:title="（医）正松会潮田歯科医院" transform="ref(svg,13971.0527,-3556.4862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タカミチ歯科医院,東京都大田区西蒲田６-３４-９,歯科,,,9" xlink:title="タカミチ歯科医院" transform="ref(svg,13971.132,-3556.4674)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なるかわ歯科医院,東京都大田区西蒲田７-１８-６ロータスフラット-U２０１,歯科,,,9" xlink:title="なるかわ歯科医院" transform="ref(svg,13970.9056,-3556.3971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,國分歯科,東京都大田区西蒲田７-２３-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="國分歯科" transform="ref(svg,13971.1098,-3556.3617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イイジマ歯科医院,東京都大田区西蒲田７-４-３カーサ蒲田３０９,歯科,,,9" xlink:title="イイジマ歯科医院" transform="ref(svg,13971.5511,-3556.3974)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こばやし歯科クリニック,東京都大田区西蒲田７-４４-６パシフィックタワー３階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こばやし歯科クリニック" transform="ref(svg,13971.3656,-3556.2889)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三晃歯科医院,東京都大田区西蒲田７-４５-６,歯科,,,9" xlink:title="三晃歯科医院" transform="ref(svg,13971.4062,-3556.2888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きくち歯科クリニック,東京都大田区西蒲田７-４８-８ルミエール光４階,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="きくち歯科クリニック" transform="ref(svg,13971.4334,-3556.2515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）治山会小山歯科,東京都大田区西蒲田７-５-１３森ビル５階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）治山会小山歯科" transform="ref(svg,13971.5023,-3556.3843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）友伸会サンライズ蒲田歯科,東京都大田区西蒲田７-５０-１２結城ビル１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）友伸会サンライズ蒲田歯科" transform="ref(svg,13971.1713,-3556.2286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森歯科医院,東京都大田区西蒲田７-５０-２ロイヤルハイツ１Ｆ,歯科,,,9" xlink:title="森歯科医院" transform="ref(svg,13971.1735,-3556.2477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ときた歯科クリニック,東京都大田区西蒲田７-５０-５クレメンシア２Ｆ,歯科　歯科口腔外科,,,9" xlink:title="ときた歯科クリニック" transform="ref(svg,13971.2191,-3556.2537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かねこ歯科,東京都大田区西蒲田７-５１-１０辻ビル１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かねこ歯科" transform="ref(svg,13971.1302,-3556.2304)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江川歯科医院,東京都大田区西蒲田７-６-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="江川歯科医院" transform="ref(svg,13971.4527,-3556.367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,味方尚之歯科診療室,東京都大田区西蒲田７-６１-１東京蒲田文化会館２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="味方尚之歯科診療室" transform="ref(svg,13971.1748,-3556.1936)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤岡歯科医院,東京都大田区西蒲田７-６２-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="藤岡歯科医院" transform="ref(svg,13971.304,-3556.2125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蒲田総合デンタルクリニック,東京都大田区西蒲田７-６７-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="蒲田総合デンタルクリニック" transform="ref(svg,13971.4703,-3556.2056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）和晃会クリーン歯科,東京都大田区西蒲田７-６８-１グランデシュオ蒲田西館９階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）和晃会クリーン歯科" transform="ref(svg,13971.5644,-3556.2538)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊地歯科医院,東京都大田区西蒲田７-６９-１東急プラザ７階,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="菊地歯科医院" transform="ref(svg,13971.5326,-3556.184)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさひろ歯科クリニック,東京都大田区西蒲田７-７-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あさひろ歯科クリニック" transform="ref(svg,13971.4401,-3556.4006)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,穴田歯科クリニック,東京都大田区西蒲田７-９-４ＳＳ７西蒲田ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="穴田歯科クリニック" transform="ref(svg,13971.2838,-3556.4224)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エノモトビル歯科医院,東京都大田区西蒲田８-１-６エノモトビル４Ｆ,歯科,,,9" xlink:title="エノモトビル歯科医院" transform="ref(svg,13971.4863,-3556.1312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柴田矯正歯科医院,東京都大田区西蒲田８-１-７グランタウンビル８Ｆ,矯正歯科,,,9" xlink:title="柴田矯正歯科医院" transform="ref(svg,13971.4855,-3556.1182)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,出口歯科医院,東京都大田区西蒲田８-１６-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="出口歯科医院" transform="ref(svg,13971.0668,-3556.0386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蒲原歯科医院,東京都大田区西蒲田８-２３-８柴ビル３Ｆ,歯科,,,9" xlink:title="蒲原歯科医院" transform="ref(svg,13971.4662,-3556.0238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）Ｈ・Ｆ・Ｅ橋本歯科医院,東京都大田区西蒲田８-３-６　１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）Ｈ・Ｆ・Ｅ橋本歯科医院" transform="ref(svg,13971.3866,-3556.1033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮地歯科医院,東京都大田区蒲田１-１５-１６,歯科,,,9" xlink:title="宮地歯科医院" transform="ref(svg,13972.0538,-3556.5433)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲葉歯科医院,東京都大田区蒲田１-２-１９,歯科,,,9" xlink:title="稲葉歯科医院" transform="ref(svg,13972.0418,-3556.8483)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）郁信会いくこ歯科医院,東京都大田区蒲田１-２-５ビューハイム１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）郁信会いくこ歯科医院" transform="ref(svg,13972.0386,-3556.8747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかい歯科医院,東京都大田区蒲田１-３-７ファミーユＴＡＫＡＤＡ１階,歯科　小児歯科,,,9" xlink:title="さかい歯科医院" transform="ref(svg,13972.2419,-3556.8275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科医院,東京都大田区蒲田２-１７-１４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="服部歯科医院" transform="ref(svg,13972.3079,-3556.6339)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）崇徳会医大通り歯科医院,東京都大田区蒲田２-１８-２２メゾンフルール１階,歯科　小児歯科,,,9" xlink:title="（医）崇徳会医大通り歯科医院" transform="ref(svg,13972.29,-3556.6024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きむら歯科クリニック,東京都大田区蒲田２-４-９サンバーレ２０００１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="きむら歯科クリニック" transform="ref(svg,13972.5312,-3556.7727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）明悠清会うめやしき歯科,東京都大田区蒲田２-５-３カースルＭ２階,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）明悠清会うめやしき歯科" transform="ref(svg,13972.5929,-3556.7609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）学而会永田歯科医院,東京都大田区蒲田２-７-１７中村ビル１、２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）学而会永田歯科医院" transform="ref(svg,13972.794,-3556.7273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大田区立（特養）蒲田歯科,東京都大田区蒲田２-８-８,歯科,,,9" xlink:title="大田区立（特養）蒲田歯科" transform="ref(svg,13972.6995,-3556.6224)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒瀬歯科医院,東京都大田区蒲田３-１０-３,歯科,,,9" xlink:title="荒瀬歯科医院" transform="ref(svg,13972.488,-3556.4675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,建石デンタルクリニック,東京都大田区蒲田３-１５-１１松葉ビル１階,歯科　矯正歯科　小児歯科,,,9" xlink:title="建石デンタルクリニック" transform="ref(svg,13972.4192,-3556.2811)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小倉デンタルクリニック,東京都大田区蒲田３-１９-１６真島ビル４０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小倉デンタルクリニック" transform="ref(svg,13972.2953,-3556.2452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲葉歯科医院,東京都大田区蒲田４-１８-１２クオーレイナバ２０２,歯科　小児歯科,,,9" xlink:title="稲葉歯科医院" transform="ref(svg,13972.2936,-3556.0429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,東京都大田区蒲田４-２３-１１,歯科　矯正歯科　小児歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13972.193,-3556.0268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科診療所,東京都大田区蒲田４-２９-１日新第三ビル２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山口歯科診療所" transform="ref(svg,13971.9921,-3556.0949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,由井歯科医院,東京都大田区蒲田４-４３-１２-２０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="由井歯科医院" transform="ref(svg,13972.0281,-3555.8566)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三宅歯科医院,東京都大田区蒲田４-４６-２　３階,歯科,,,9" xlink:title="三宅歯科医院" transform="ref(svg,13972.2315,-3555.8893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮田歯科医院,東京都大田区蒲田４-５-７,歯科　小児歯科,,,9" xlink:title="宮田歯科医院" transform="ref(svg,13972.2359,-3556.1625)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増原歯科医院,東京都大田区蒲田４-６-６,歯科,,,9" xlink:title="増原歯科医院" transform="ref(svg,13972.3041,-3556.1337)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）グッドスマイル会ささき矯正歯科,東京都大田区蒲田５-１１-８千代ビル３階,歯科　矯正歯科,,,9" xlink:title="（医）グッドスマイル会ささき矯正歯科" transform="ref(svg,13971.7366,-3556.2912)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,東京都大田区蒲田５-１１-９蒲田会館ビル３階,歯科　小児歯科,,,9" xlink:title="神田歯科医院" transform="ref(svg,13971.7197,-3556.2973)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）健寧会安田歯科医院,東京都大田区蒲田５-１６-９川田ビル３Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）健寧会安田歯科医院" transform="ref(svg,13971.722,-3556.2209)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みなみ歯科・矯正歯科,東京都大田区蒲田５-２６-８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="みなみ歯科・矯正歯科" transform="ref(svg,13972.0065,-3556.2513)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）泰志会はらだ歯科クリニック,東京都大田区蒲田５-２７-１０ＴＫビル２階,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）泰志会はらだ歯科クリニック" transform="ref(svg,13972.0647,-3556.2017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なおのデンタルオフィス,東京都大田区蒲田５-２８-２ＭＣＭビル３階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なおのデンタルオフィス" transform="ref(svg,13972.0226,-3556.2033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井田歯科医院,東京都大田区蒲田５-２８-７,歯科　小児歯科,,,9" xlink:title="井田歯科医院" transform="ref(svg,13972.0701,-3556.1666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）樹恵会アロマスクエア歯科クリニック,東京都大田区蒲田５-３７-１アロマスクエア３階,歯科　矯正歯科,,,9" xlink:title="（医）樹恵会アロマスクエア歯科クリニック" transform="ref(svg,13971.8246,-3556.091)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宏育会大津歯科医院,東京都大田区蒲田５-４０-３月村ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）宏育会大津歯科医院" transform="ref(svg,13971.6533,-3556.1239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）健光会白鳥歯科,東京都大田区蒲田５-４０-７大塚ビル３階３０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）健光会白鳥歯科" transform="ref(svg,13971.6489,-3556.0722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）優鵠會オアシス歯科,東京都大田区蒲田５-４７-７マルエツ蒲田店２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）優鵠會オアシス歯科" transform="ref(svg,13971.615,-3555.9559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大熊歯科医院,東京都大田区蒲田５-５０-６,歯科　小児歯科,,,9" xlink:title="大熊歯科医院" transform="ref(svg,13971.8139,-3555.9036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）星宏会菅井歯科クリニック,東京都大田区蒲田５-９-１０大月ビル２階,歯科　小児歯科,,,9" xlink:title="（医）星宏会菅井歯科クリニック" transform="ref(svg,13971.8279,-3556.292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,東京都大田区蒲田本町２-１９-１１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13971.7213,-3555.627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にじいろ歯科クリニック,東京都大田区蒲田本町２-２０-１１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="にじいろ歯科クリニック" transform="ref(svg,13971.6996,-3555.5983)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）友喜会蒲田歯科クリニック,東京都大田区蒲田本町２-８-２０サンハイツ１０１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）友喜会蒲田歯科クリニック" transform="ref(svg,13971.7604,-3555.7191)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科医院,東京都大田区新蒲田１-２１-１７,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="さいとう歯科医院" transform="ref(svg,13970.9035,-3555.8274)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかだ歯科医院,東京都大田区新蒲田１-３-４山口ビル,歯科　小児歯科,,,9" xlink:title="なかだ歯科医院" transform="ref(svg,13971.4105,-3555.8853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蒲田歯科医師会休日応急診療所,東京都大田区新蒲田１-４-１４,歯科,,,9" xlink:title="蒲田歯科医師会休日応急診療所" transform="ref(svg,13971.2757,-3555.8769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,戸辺歯科医院,東京都大田区新蒲田３-２７-１７,歯科　小児歯科　歯科矯正歯科,,,9" xlink:title="戸辺歯科医院" transform="ref(svg,13970.7171,-3555.5394)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山村歯科医院,東京都大田区新蒲田３-３-２,歯科　小児歯科,,,9" xlink:title="山村歯科医院" transform="ref(svg,13970.7019,-3555.8656)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊池歯科医院,東京都大田区新蒲田３-６-１６グレイスコート多摩川１０３,歯科,,,9" xlink:title="菊池歯科医院" transform="ref(svg,13970.4819,-3555.7962)" x="0" y="0"/>
+</g>
+</svg>

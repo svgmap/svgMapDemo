@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13218.75 -3410.15625 35.15625 35.15625" go:dataArea="13218.75 -3410.15625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（医）国重外科医院,山口県岩国市通津２４０９-１,消化器科　外科　皮膚科　放射線科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）国重外科医院" transform="ref(svg,13220.8449,-3407.3676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西岡医院,山口県岩国市通津３７１５-２,内科　消化器内科　小児科,,,9" xlink:title="（医）西岡医院" transform="ref(svg,13220.6159,-3407.0214)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩国市立柱島診療所,山口県岩国市柱島１３２-７,内科,,,9" xlink:title="岩国市立柱島診療所" transform="ref(svg,13242.1456,-3402.1851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ふじもと小児科,山口県岩国市保津町２-４-５１,小児科,,,9" xlink:title="（医）ふじもと小児科" transform="ref(svg,13220.9227,-3408.3134)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊原内科消化器科,山口県岩国市由宇町由宇崎４-１,内科　消化器内科,,,9" xlink:title="伊原内科消化器科" transform="ref(svg,13221.6792,-3403.6853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）久米医院,山口県岩国市由宇町中央１-１２-５,内科　循環器内科,,,9" xlink:title="（医）久米医院" transform="ref(svg,13221.0374,-3404.5443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柳井市立平郡診療所,山口県柳井市平郡１８４３,内科,,,9" xlink:title="柳井市立平郡診療所" transform="ref(svg,13225.8936,-3377.9364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柳井市立平郡診療所西出張診療所,山口県柳井市平郡４６９４,内科,,,9" xlink:title="柳井市立平郡診療所西出張診療所" transform="ref(svg,13220.2169,-3380.1353)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おげんきクリニック,山口県大島郡周防大島町大字小松５５８,消化器内科　整形外科　外科　リハビリテーション科　麻酔科　皮膚科　泌尿器科,,,9" xlink:title="おげんきクリニック" transform="ref(svg,13219.355,-3393.4064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川口医院,山口県大島郡周防大島町大字外入２２２８-２０,内科　小児科　脳外科,,,9" xlink:title="川口医院" transform="ref(svg,13233.0216,-3388.6833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,救護施設愛和苑診療所,山口県大島郡周防大島町大字土居１４６５-１,精神科,,,9" xlink:title="救護施設愛和苑診療所" transform="ref(svg,13229.9452,-3391.8129)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽費老人ホーム慈光荘診療所,山口県大島郡周防大島町大字久賀５１４１-２,内科　外科　整形外科,,,9" xlink:title="軽費老人ホーム慈光荘診療所" transform="ref(svg,13226.0225,-3394.5792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,嶋元医院,山口県大島郡周防大島町大字小松１７５４,内科　小児科　循環器内科　放射線科,,,9" xlink:title="嶋元医院" transform="ref(svg,13219.2486,-3393.4942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）橘福祉会診療所,山口県大島郡周防大島町大字東安下庄７７４-９特別養護老人ホームオレンジ苑内,内科,,,9" xlink:title="（福）橘福祉会診療所" transform="ref(svg,13229.247,-3389.9196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）白寿苑診療所,山口県大島郡周防大島町大字西方１６２３-３,内科,,,9" xlink:title="（特養）白寿苑診療所" transform="ref(svg,13233.7313,-3390.0178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ほのぼの苑診療所,山口県大島郡周防大島町大字小松１３３-１,内科,,,9" xlink:title="（特養）ほのぼの苑診療所" transform="ref(svg,13219.6356,-3392.7514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やまびこ苑診療所,山口県大島郡周防大島町大字久賀５３７５-１,内科　外科,,,9" xlink:title="（特養）やまびこ苑診療所" transform="ref(svg,13225.8795,-3394.6114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野村医院,山口県大島郡周防大島町大字横見６９３,内科,,,9" xlink:title="野村医院" transform="ref(svg,13219.3628,-3389.2554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,正木内科医院,山口県大島郡周防大島町大字西安下庄２６-８,内科,,,9" xlink:title="正木内科医院" transform="ref(svg,13227.6799,-3389.8563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安本医院,山口県大島郡周防大島町大字土居９２２,消化器内科（胃腸内科）　消化器外科（胃腸外科）　外科　整形外科　泌尿器科　肛門外科　リハビリテーション科　放射線科　麻酔科　脳神経外科,,,9" xlink:title="（医）安本医院" transform="ref(svg,13230.628,-3391.313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山中クリニック,山口県大島郡周防大島町大字久賀５３６８-１,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　リウマチ科　外科　消化器外科　肛門外科　整形外科　リハビリテーション科　心臓血管外科,,,9" xlink:title="山中クリニック" transform="ref(svg,13225.9774,-3394.614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津和地診療所,愛媛県松山市津和地４２０,内科　外科,,,9" xlink:title="津和地診療所" transform="ref(svg,13251.2794,-3398.2264)" x="0" y="0"/>
+</g>
+</svg>

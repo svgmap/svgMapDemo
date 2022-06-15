@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13992.1875 -4007.8125 70.3125 70.3125" go:dataArea="13992.1875 -4007.8125 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（特養）森泉荘,秋田県北秋田市阿仁前田下前田家ノ下モ２８,内科,,,9" xlink:title="（特養）森泉荘" transform="ref(svg,14041.4129,-4006.9963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設森幸園,秋田県北秋田市阿仁前田菅ノ沢７３,外科　内科,,,9" xlink:title="障害者支援施設森幸園" transform="ref(svg,14040.5719,-4006.0322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿仁かざはり苑診療室,秋田県北秋田市阿仁吉田上ミ上野５５-９,内科,,,9" xlink:title="阿仁かざはり苑診療室" transform="ref(svg,14039.2047,-4002.3063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）山水荘医務室,秋田県北秋田市阿仁水無宮後４,内科,,,9" xlink:title="（特養）山水荘医務室" transform="ref(svg,14040.4807,-4000.2435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北秋田市立阿仁診療所,秋田県北秋田市阿仁銀山下新町１２８,リハビリテーション科　外科　歯科口腔外科　小児科　内科,,,9" xlink:title="北秋田市立阿仁診療所" transform="ref(svg,14040.4732,-4000.0676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北秋田市阿仁養護老人ホームもろび苑,秋田県北秋田市阿仁幸屋渡字前野７-３,内科,,,9" xlink:title="北秋田市阿仁養護老人ホームもろび苑" transform="ref(svg,14045.6596,-3990.4253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）杉風荘,秋田県北秋田郡上小阿仁村沖田面友倉９８,内科,,,9" xlink:title="（特養）杉風荘" transform="ref(svg,14028.3374,-4005.0723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,友生園診療室,秋田県北秋田郡上小阿仁村福舘友倉７９-１１,外科　内科,,,9" xlink:title="友生園診療室" transform="ref(svg,14028.6642,-4005.7617)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村立上小阿仁国保診療所,秋田県北秋田郡上小阿仁村小沢田向川原２１４,歯科　内科　泌尿器科,,,9" xlink:title="村立上小阿仁国保診療所" transform="ref(svg,14029.3692,-4006.3676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）希望苑医務室,秋田県山本郡三種町鹿渡町後２５１,内科,,,9" xlink:title="（特養）希望苑医務室" transform="ref(svg,14007.5939,-4004.0136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鹿渡内科医院,秋田県山本郡三種町鹿渡東小瀬川４２-８,呼吸器科　循環器科　小児科　内科,,,9" xlink:title="鹿渡内科医院" transform="ref(svg,14008.1528,-4003.3923)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こだま会長信田の森心療クリニック,秋田県山本郡三種町森岳石倉沢１-２,心療内科　精神科,,,9" xlink:title="（医）こだま会長信田の森心療クリニック" transform="ref(svg,14009.4679,-4007.7378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）柔心会男鹿整形外科,秋田県男鹿市船越一向６７-１８０,整形外科,,,9" xlink:title="（医）柔心会男鹿整形外科" transform="ref(svg,13994.8032,-3989.8155)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかぎ眼科クリニック,秋田県男鹿市船越内子１-５６０,眼科,,,9" xlink:title="たかぎ眼科クリニック" transform="ref(svg,13993.0936,-3990.4127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たむら船越クリニック,秋田県男鹿市船越内子２２４-９,外科　循環器内科　小児科　小児外科　内科,,,9" xlink:title="たむら船越クリニック" transform="ref(svg,13993.807,-3990.2866)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設ゆりの希医務室,秋田県男鹿市船越内子２９４-３,外科　循環器内科　内科,,,9" xlink:title="地域密着型介護老人福祉施設ゆりの希医務室" transform="ref(svg,13992.2523,-3990.7093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしだ内科クリニック,秋田県男鹿市船越本町１２-１,呼吸器内科　循環器内科　内科,,,9" xlink:title="よしだ内科クリニック" transform="ref(svg,13994.6657,-3990.2878)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長沼医院,秋田県男鹿市船越本町１３-１７,消化器内科（胃腸内科）　内科,,,9" xlink:title="長沼医院" transform="ref(svg,13994.7346,-3990.3257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）若美福祉会ひまわり苑医務室,秋田県男鹿市野石大場沢下１-１１,内科,,,9" xlink:title="（福）若美福祉会ひまわり苑医務室" transform="ref(svg,13992.614,-4003.8109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐藤医院,秋田県男鹿市払戸中樋１４６-３,リウマチ科　循環器内科　小児科　消化器内科　内科,,,9" xlink:title="（医）佐藤医院" transform="ref(svg,13993.6511,-3993.0522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,香曽我部医院,秋田県男鹿市払戸字渡部１５,循環器内科　小児科　内科,,,9" xlink:title="香曽我部医院" transform="ref(svg,13992.7189,-3993.8101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおこし眼科,秋田県潟上市天王長沼２３-５,眼科,,,9" xlink:title="おおこし眼科" transform="ref(svg,14004.8722,-3981.2849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斎藤整形外科,秋田県潟上市天王長沼４０-２１,リウマチ科　リハビリテーション科　整形外科,,,9" xlink:title="斎藤整形外科" transform="ref(svg,14004.5896,-3981.4535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せきクリニック,秋田県潟上市天王長沼４２-５,外科　消化器内科（胃腸内科）　内科　乳腺外科　肛門外科,,,9" xlink:title="せきクリニック" transform="ref(svg,14004.6503,-3981.4244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）五洋電子診療所,秋田県潟上市天王鶴沼台４３-２２４,内科,,,9" xlink:title="（株）五洋電子診療所" transform="ref(svg,14001.6098,-3986.0638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）正和会地域密着型（特養）たんちょう,秋田県潟上市天王棒沼台２４７-３４,内科,,,9" xlink:title="（福）正和会地域密着型（特養）たんちょう" transform="ref(svg,14001.1622,-3985.863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）敬徳会出戸診療所,秋田県潟上市天王北野３０７-５５,小児科　内科,,,9" xlink:title="（医）敬徳会出戸診療所" transform="ref(svg,14002.5939,-3984.3822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）松恵苑医務室,秋田県潟上市天王鶴沼台４３-２２６,内科,,,9" xlink:title="（特養）松恵苑医務室" transform="ref(svg,14001.7823,-3986.0552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正和会南秋田眼科医院,秋田県潟上市昭和大久保街道下１０６-５,眼科,,,9" xlink:title="（医）正和会南秋田眼科医院" transform="ref(svg,14006.2128,-3987.0333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正和会小玉医院,秋田県潟上市昭和大久保街道下９６-８,呼吸器内科　循環器内科　小児科　消化器内科（胃腸内科）　整形外科　内科,,,9" xlink:title="（医）正和会小玉医院" transform="ref(svg,14006.1938,-3986.9963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正和会南秋田整形外科医院,秋田県潟上市昭和大久保街道下９６-２,リウマチ科　リハビリテーション科　眼科　整形外科　放射線科,,,9" xlink:title="（医）正和会南秋田整形外科医院" transform="ref(svg,14006.173,-3987.0296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハートインクリニック,秋田県潟上市昭和大久保町後１７３-４２,心療内科　精神科　内科,,,9" xlink:title="ハートインクリニック" transform="ref(svg,14005.9237,-3986.9567)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明翁堂佐々木医院,秋田県潟上市昭和大久保堤の上９１,外科　消化器内科（胃腸内科）　皮膚科　放射線科,,,9" xlink:title="（医）明翁堂佐々木医院" transform="ref(svg,14006.4704,-3987.0912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）昭寿苑診療所,秋田県潟上市昭和大久保北野海老漉沼端７４-３,精神科　内科,,,9" xlink:title="（特養）昭寿苑診療所" transform="ref(svg,14003.8129,-3984.5034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神田医院,秋田県潟上市飯田川下虻川屋敷１００,循環器内科　小児科　内科,,,9" xlink:title="神田医院" transform="ref(svg,14007.0375,-3987.7977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）わかば園,秋田県潟上市飯田川下虻川上谷地１６８-１,内科,,,9" xlink:title="（特養）わかば園" transform="ref(svg,14007.0593,-3986.934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）相澤医院あいざわ胃腸科クリニック,秋田県潟上市飯田川飯塚樋ノ下７５-１,リハビリテーション科　外科　呼吸器内科　耳鼻いんこう科　循環器内科　小児科　小児外科　消化器内科（胃腸内科）　心療内科　整形外科　精神科　内科　泌尿器科　皮膚科　放射線科　肛門外科,,,9" xlink:title="（医）相澤医院あいざわ胃腸科クリニック" transform="ref(svg,14007.1349,-3990.0354)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千葉内科医院,秋田県南秋田郡五城目町石田六ケ村堰添１１３-４,循環器内科　小児科　消化器内科（胃腸内科）　内科,,,9" xlink:title="千葉内科医院" transform="ref(svg,14012.3279,-3994.9416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正和会湖東快晴クリニック,秋田県南秋田郡五城目町上町２８４-１,リウマチ科　循環器内科　整形外科　内科,,,9" xlink:title="（医）正和会湖東快晴クリニック" transform="ref(svg,14012.5471,-3994.7539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笹尾医院,秋田県南秋田郡五城目町下タ町２４４,小児科　内科,,,9" xlink:title="笹尾医院" transform="ref(svg,14011.95,-3994.3212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）智徳会ささき内科クリニック,秋田県南秋田郡五城目町鵜ノ木９０-１,小児科　心療内科　内科,,,9" xlink:title="（医）智徳会ささき内科クリニック" transform="ref(svg,14011.639,-3994.418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）広青苑,秋田県南秋田郡五城目町上樋口樽沢１３７,内科,,,9" xlink:title="（特養）広青苑" transform="ref(svg,14011.7156,-3993.1671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム森山荘診療所,秋田県南秋田郡五城目町上樋口樽沢１８７,内科,,,9" xlink:title="養護老人ホーム森山荘診療所" transform="ref(svg,14011.8142,-3993.2643)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）悠紀会ごじょうめ眼科クリニック,秋田県南秋田郡五城目町東磯ノ目２-１-１０,眼科,,,9" xlink:title="（医）悠紀会ごじょうめ眼科クリニック" transform="ref(svg,14011.5018,-3994.2805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大窪胃腸科内科医院,秋田県南秋田郡五城目町西磯ノ目２-２-７,消化器内科（胃腸内科）,,,9" xlink:title="大窪胃腸科内科医院" transform="ref(svg,14010.6939,-3994.3224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）うたせ苑,秋田県南秋田郡八郎潟町真坂沢田１２２,循環器内科　内科,,,9" xlink:title="（特養）うたせ苑" transform="ref(svg,14008.2705,-3996.7359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅利整形外科医院,秋田県南秋田郡八郎潟町上沖谷地６３-１,整形外科,,,9" xlink:title="浅利整形外科医院" transform="ref(svg,14008.2995,-3994.6212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,児玉内科医院,秋田県南秋田郡八郎潟町中田６７-１４,消化器内科　内科,,,9" xlink:title="児玉内科医院" transform="ref(svg,14007.743,-3994.8307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,児玉医院歯科,秋田県南秋田郡八郎潟町一日市１１５-１,矯正歯科　歯科　歯科口腔外科　小児歯科　内科,,,9" xlink:title="児玉医院歯科" transform="ref(svg,14007.4503,-3994.2016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋医院,秋田県南秋田郡八郎潟町一日市８４-１,循環器科　内科,,,9" xlink:title="高橋医院" transform="ref(svg,14007.2847,-3994.1674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国民健康保険井川町診療所,秋田県南秋田郡井川町北川尻海老沢樋ノ口１０６-１,内科,,,9" xlink:title="国民健康保険井川町診療所" transform="ref(svg,14008.0554,-3991.4175)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）井川町福祉会障害者支援施設桐ヶ丘,秋田県南秋田郡井川町寺沢綱木沢１３３-２,外科　消化器内科　内科　肛門外科,,,9" xlink:title="（福）井川町福祉会障害者支援施設桐ヶ丘" transform="ref(svg,14012.1357,-3989.5572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井川町（特養）さくら苑,秋田県南秋田郡井川町寺沢綱木沢１４５-５,内科,,,9" xlink:title="井川町（特養）さくら苑" transform="ref(svg,14012.0679,-3989.4236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大潟村診療所,秋田県南秋田郡大潟村中央１-１３,内科,,,9" xlink:title="大潟村診療所" transform="ref(svg,13995.9362,-4001.9965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大潟村（特養）ひだまり苑,秋田県南秋田郡大潟村西３-３,内科,,,9" xlink:title="大潟村（特養）ひだまり苑" transform="ref(svg,13995.5833,-4002.5269)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県秋田中央保健所,秋田県潟上市昭和乱橋古開１７２-１,小児科　神経内科　精神科　内科,,,9" xlink:title="秋田県秋田中央保健所" transform="ref(svg,14005.435,-3985.1664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設あかひげ,秋田県潟上市昭和大久保字街道下８４-６,内科,,,9" xlink:title="地域密着型介護老人福祉施設あかひげ" transform="ref(svg,14005.961,-3987.1145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,工藤胃腸内科クリニック,秋田県秋田市中通１-３-５秋田キャッスルホテル２階,胃腸内科　内科　肛門外科,,,9" xlink:title="工藤胃腸内科クリニック" transform="ref(svg,14012.0355,-3971.7799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県福祉相談センター,秋田県秋田市中通２-１-５１,耳鼻いんこう科　整形外科,,,9" xlink:title="秋田県福祉相談センター" transform="ref(svg,14012.2713,-3971.7295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県赤十字血液センター中通出張所,秋田県秋田市中通２-３-８アトリオン１階,内科,,,9" xlink:title="秋田県赤十字血液センター中通出張所" transform="ref(svg,14012.4655,-3971.7381)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メンタルクリニック秋田駅前,秋田県秋田市中通２-６-４４ニュー金座街ビル４階,心療内科　精神科,,,9" xlink:title="メンタルクリニック秋田駅前" transform="ref(svg,14012.6098,-3971.6581)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仲小路皮ふ科医院,秋田県秋田市中通１-３-４３,皮膚科,,,9" xlink:title="仲小路皮ふ科医院" transform="ref(svg,14011.965,-3971.6678)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡内科クリニック,秋田県秋田市中通１-３-４６,呼吸器内科　循環器内科　内科,,,9" xlink:title="松岡内科クリニック" transform="ref(svg,14011.9759,-3971.693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秋峰会千秋ひろこうじ眼科医院,秋田県秋田市中通１-３-５キャッスルホテル２階,眼科,,,9" xlink:title="（医）秋峰会千秋ひろこうじ眼科医院" transform="ref(svg,14012.0355,-3971.7799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう脳神経・メンタルクリニック,秋田県秋田市中通１-３-５,心療内科　神経内科　精神科,,,9" xlink:title="さとう脳神経・メンタルクリニック" transform="ref(svg,14012.0476,-3971.7579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）駅前整形外科医院クリニカ・オルト,秋田県秋田市中通１-３-５秋田キャッスルホテル２Ｆ,整形外科,,,9" xlink:title="（医）駅前整形外科医院クリニカ・オルト" transform="ref(svg,14012.0355,-3971.7799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さが医院,秋田県秋田市中通５-１-１６,腎臓内科　内科,,,9" xlink:title="さが医院" transform="ref(svg,14011.8763,-3971.4579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,熊谷内科医院,秋田県秋田市中通５-５-８,呼吸器内科　循環器内科　内科,,,9" xlink:title="熊谷内科医院" transform="ref(svg,14011.9939,-3971.2578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神経科・内科笠松医院,秋田県秋田市中通５-７-１９,精神科,,,9" xlink:title="神経科・内科笠松医院" transform="ref(svg,14011.99,-3971.3935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清心堂湊小児科医院,秋田県秋田市中通５-７-３４,小児科,,,9" xlink:title="（医）清心堂湊小児科医院" transform="ref(svg,14011.9008,-3971.344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つばき宍戸眼科,秋田県秋田市中通３-３-１,眼科,,,9" xlink:title="つばき宍戸眼科" transform="ref(svg,14011.961,-3971.6259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科医院,秋田県秋田市中通３-３-２４,内科,,,9" xlink:title="鈴木内科医院" transform="ref(svg,14012.0175,-3971.5262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）長谷山会長谷山内科医院,秋田県秋田市中通３-３-４３,内科,,,9" xlink:title="（医）長谷山会長谷山内科医院" transform="ref(svg,14011.9314,-3971.4789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小川内科医院,秋田県秋田市中通３-３-５５,胃腸科　循環器科　内科,,,9" xlink:title="（医）小川内科医院" transform="ref(svg,14011.95,-3971.5787)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎耳鼻咽喉科医院,秋田県秋田市中通３-４-１０,耳鼻いんこう科,,,9" xlink:title="山崎耳鼻咽喉科医院" transform="ref(svg,14012.1843,-3971.6068)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田赤十字病院附属あきた健康管理センター,秋田県秋田市中通３-４-２３,外科　眼科　呼吸器内科　産婦人科　循環器内科　消化器内科（胃腸内科）　内科,,,9" xlink:title="秋田赤十字病院附属あきた健康管理センター" transform="ref(svg,14012.1496,-3971.5201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）岡田医院,秋田県秋田市中通４-１-４１,皮膚科,,,9" xlink:title="（医）岡田医院" transform="ref(svg,14012.2136,-3971.4564)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京青山クリニック秋田院,秋田県秋田市中通４-６-６第二丸島ビル２Ｆ,美容外科,,,9" xlink:title="東京青山クリニック秋田院" transform="ref(svg,14012.5734,-3971.5585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田鉄道健診センター,秋田県秋田市中通７-２-５,内科,,,9" xlink:title="秋田鉄道健診センター" transform="ref(svg,14012.8582,-3971.3435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みゆきレディースクリニック,秋田県秋田市中通２-１-３５,産婦人科,,,9" xlink:title="みゆきレディースクリニック" transform="ref(svg,14012.285,-3971.6285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小泉耳鼻咽喉科,秋田県秋田市中通２-１-４１　２Ｆ,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="小泉耳鼻咽喉科" transform="ref(svg,14012.2446,-3971.6481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県精神保健福祉センター,秋田県秋田市中通２-１-５１,神経内科　精神科　内科,,,9" xlink:title="秋田県精神保健福祉センター" transform="ref(svg,14012.2713,-3971.7295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,コーラルビューティ東京形成美容外科秋田院,秋田県秋田市中通２-２-７トランスワン２１-５Ｆ,美容外科,,,9" xlink:title="コーラルビューティ東京形成美容外科秋田院" transform="ref(svg,14012.4492,-3971.6675)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高清水医院,秋田県秋田市中通６-１５-６,消化器内科　内科,,,9" xlink:title="高清水医院" transform="ref(svg,14012.7173,-3971.3062)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦整形外科医院,秋田県秋田市中通６-１-２４,整形外科,,,9" xlink:title="三浦整形外科医院" transform="ref(svg,14012.2733,-3971.3131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おーくらクリニック,秋田県秋田市中通６-１-２４,産婦人科,,,9" xlink:title="おーくらクリニック" transform="ref(svg,14012.2729,-3971.3079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋正喜クリニック,秋田県秋田市中通６-６-１５パークヒルズ中通,循環器内科,,,9" xlink:title="高橋正喜クリニック" transform="ref(svg,14012.4726,-3971.359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,越後谷クリニック,秋田県秋田市東通仲町１-２５,外科　消化器内科（胃腸内科）　内科　肛門外科,,,9" xlink:title="越後谷クリニック" transform="ref(svg,14013.3303,-3971.6726)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤盛レィディーズクリニック,秋田県秋田市東通仲町４-１アルヴェ４Ｆ,産婦人科　内科,,,9" xlink:title="（医）藤盛レィディーズクリニック" transform="ref(svg,14013.1412,-3971.594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秋田ヒール田代クリニック,秋田県秋田市東通１-２３-１,心療内科　神経内科　精神科,,,9" xlink:title="（医）秋田ヒール田代クリニック" transform="ref(svg,14013.6671,-3971.6064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博愛会山川内科,秋田県秋田市東通１-２５-２２,消化器内科（胃腸内科）　内科,,,9" xlink:title="（医）博愛会山川内科" transform="ref(svg,14013.7086,-3971.6656)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）城東整形外科,秋田県秋田市東通６-７-６,整形外科,,,9" xlink:title="（医）城東整形外科" transform="ref(svg,14013.7262,-3971.4304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石鼎会石田医院,秋田県秋田市東通観音前８-５,泌尿器科　泌尿器科（人工透析）　皮膚科,,,9" xlink:title="（医）石鼎会石田医院" transform="ref(svg,14013.3786,-3971.101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たわらや内科,秋田県秋田市東通館ノ越８-１１,アレルギー科　呼吸器内科　内科,,,9" xlink:title="たわらや内科" transform="ref(svg,14013.0488,-3970.9031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）わらべ会稲庭クリニック,秋田県秋田市南通亀の町２-２１,精神科,,,9" xlink:title="（医）わらべ会稲庭クリニック" transform="ref(svg,14011.6891,-3970.9815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）早川眼科医院早川眼科伊奈皮ふ科医院,秋田県秋田市南通亀の町４-３６,眼科　皮膚科,,,9" xlink:title="（医）早川眼科医院早川眼科伊奈皮ふ科医院" transform="ref(svg,14011.6893,-3971.1255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秋田医仁会秋田メモリアルクリニック,秋田県秋田市南通亀の町７-２６,整形外科　内科　脳神経外科　放射線科,,,9" xlink:title="（医）秋田医仁会秋田メモリアルクリニック" transform="ref(svg,14011.7981,-3970.9913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明和会中通健康クリニック,秋田県秋田市南通みその町４-１７,内科,,,9" xlink:title="（医）明和会中通健康クリニック" transform="ref(svg,14012.3271,-3971.038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大野小児科医院,秋田県秋田市南通築地２-１５,アレルギー科　小児科　小児循環器科,,,9" xlink:title="（医）大野小児科医院" transform="ref(svg,14012.4895,-3971.1367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ひぐちウィメンズクリニック,秋田県秋田市南通築地６-３４,産婦人科,,,9" xlink:title="（医）ひぐちウィメンズクリニック" transform="ref(svg,14012.631,-3971.1352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福島内科医院,秋田県秋田市南通宮田１５-４６,リハビリテーション科　循環器内科　小児科　消化器内科（胃腸内科）　内科,,,9" xlink:title="福島内科医院" transform="ref(svg,14012.5669,-3970.7212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桑原内科クリニック,秋田県秋田市楢山登町５-２８,消化器内科（胃腸内科）　内科,,,9" xlink:title="桑原内科クリニック" transform="ref(svg,14011.3951,-3970.751)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおさか眼科クリニック,秋田県秋田市楢山南中町３-３３,眼科,,,9" xlink:title="おおさか眼科クリニック" transform="ref(svg,14011.7533,-3970.5664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南浦医院,秋田県秋田市楢山本町１-３２,循環器内科　小児科　内科,,,9" xlink:title="南浦医院" transform="ref(svg,14011.936,-3970.7471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松戸眼科医院,秋田県秋田市楢山共和町１-７,眼科,,,9" xlink:title="松戸眼科医院" transform="ref(svg,14011.4785,-3970.4414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ものお耳鼻科クリニック,秋田県秋田市楢山川口境８-２４,アレルギー科　耳鼻いんこう科,,,9" xlink:title="ものお耳鼻科クリニック" transform="ref(svg,14011.1052,-3970.3392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多田皮膚科,秋田県秋田市広面鍋沼５９-１１,皮膚科,,,9" xlink:title="多田皮膚科" transform="ref(svg,14014.6317,-3971.6684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にいつ内科クリニック,秋田県秋田市広面樋ノ沖２０-１,内科,,,9" xlink:title="にいつ内科クリニック" transform="ref(svg,14015.015,-3971.7589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひらの眼科,秋田県秋田市広面樋ノ沖２７-２,眼科,,,9" xlink:title="ひらの眼科" transform="ref(svg,14015.0311,-3971.6403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）すこやか会福田胃腸科クリニック,秋田県秋田市広面家ノ下３４-１,消化器内科（胃腸内科）　内科　乳腺外科,,,9" xlink:title="（医）すこやか会福田胃腸科クリニック" transform="ref(svg,14014.3562,-3972.2881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小児科内科橋本愛隣医院,秋田県秋田市広面近藤堰越７８-１,小児科　内科,,,9" xlink:title="小児科内科橋本愛隣医院" transform="ref(svg,14014.6497,-3972.7013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福峰会はりう産婦人科内科クリニック,秋田県秋田市広面近藤堰添４９-１,産婦人科　内科,,,9" xlink:title="（医）福峰会はりう産婦人科内科クリニック" transform="ref(svg,14014.5157,-3972.6881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水産婦人科クリニック,秋田県秋田市広面糠塚１１６-１,産婦人科　不妊治療,,,9" xlink:title="清水産婦人科クリニック" transform="ref(svg,14014.9993,-3972.8892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）隆仁会秋田往診クリニック,秋田県秋田市広面川崎１２５-１,外科　内科,,,9" xlink:title="（医）隆仁会秋田往診クリニック" transform="ref(svg,14015.3398,-3972.9342)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秋田泌尿器科クリニック秋田泌尿器科クリニック,秋田県秋田市広面谷地沖６-１,漢方泌尿器科　女性泌尿器科　小児泌尿器科　神経泌尿器科　性感染症泌尿器科　内科　泌尿器科　泌尿器科（人工透析）　皮膚科　老年泌尿器科,,,9" xlink:title="（医）秋田泌尿器科クリニック秋田泌尿器科クリニック" transform="ref(svg,14014.8602,-3972.301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたぬき小児科医院,秋田県秋田市広面谷地田３３-３,小児科,,,9" xlink:title="わたぬき小児科医院" transform="ref(svg,14014.7207,-3972.0337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）晨整会工藤整形外科医院,秋田県秋田市広面谷地田８-１,リハビリテーション科　整形外科,,,9" xlink:title="（医）晨整会工藤整形外科医院" transform="ref(svg,14014.7996,-3971.948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広面ファミリークリニック,秋田県秋田市広面土手下５２-２,呼吸器内科　循環器内科　小児科　泌尿器科　皮膚科,,,9" xlink:title="広面ファミリークリニック" transform="ref(svg,14014.5526,-3972.3956)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵裕会井谷耳鼻咽喉科医院,秋田県秋田市広面鍋沼５２-１,耳鼻いんこう科,,,9" xlink:title="（医）恵裕会井谷耳鼻咽喉科医院" transform="ref(svg,14014.6271,-3971.5542)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須藤医院,秋田県秋田市広面樋口１８-１５,循環器内科　消化器内科　内科,,,9" xlink:title="須藤医院" transform="ref(svg,14015.3792,-3971.9335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石田小児科医院,秋田県秋田市広面蓮沼１１,アレルギー科　小児科,,,9" xlink:title="石田小児科医院" transform="ref(svg,14014.7741,-3973.0248)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきた乳腺クリニック,秋田県秋田市広面蓮沼２３-２,がん　甲状腺外科　内分泌内科　乳腺外科,,,9" xlink:title="あきた乳腺クリニック" transform="ref(svg,14014.8823,-3972.5836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鎌田循環器科内科クリニック,秋田県秋田市広面字蓮沼８７-１,呼吸器内科　循環器内科　内科,,,9" xlink:title="（医）鎌田循環器科内科クリニック" transform="ref(svg,14014.9651,-3972.6098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今井眼科医院,秋田県秋田市広面蓮沼８７-１,眼科,,,9" xlink:title="今井眼科医院" transform="ref(svg,14014.9632,-3972.6098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アーク循環器クリニック,秋田県秋田市広面谷地沖２６-１,循環器内科　腎臓内科　内科,,,9" xlink:title="アーク循環器クリニック" transform="ref(svg,14014.788,-3972.2138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしのみやこども医院,秋田県秋田市広面蓮沼２１-５,アレルギー科　小児科,,,9" xlink:title="にしのみやこども医院" transform="ref(svg,14014.9118,-3972.5586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら小児科医院,秋田県秋田市桜１-１-１１,アレルギー科　小児科,,,9" xlink:title="さくら小児科医院" transform="ref(svg,14014.6539,-3970.9341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋内科医院,秋田県秋田市桜４-１-１,胃腸内科　循環器内科　小児科　内科,,,9" xlink:title="高橋内科医院" transform="ref(svg,14015.1428,-3970.8211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠山医院,秋田県秋田市横森５-２１-１８,消化器内科（胃腸内科）　内科,,,9" xlink:title="遠山医院" transform="ref(svg,14014.555,-3970.8727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はたの循環器クリニック,秋田県秋田市横森３-１-９,循環器内科　内科,,,9" xlink:title="はたの循環器クリニック" transform="ref(svg,14014.2439,-3970.6448)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）わらべ会ひがし稲庭クリニック,秋田県秋田市下北手松崎岩瀬１２４,リハビリテーション科　神経内科　内科,,,9" xlink:title="（医）わらべ会ひがし稲庭クリニック" transform="ref(svg,14015.5984,-3971.7875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のりこ皮ふ科,秋田県秋田市牛島東５-９-３８,皮膚科,,,9" xlink:title="のりこ皮ふ科" transform="ref(svg,14012.4379,-3969.6051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川上医院,秋田県秋田市牛島東７-７-１６,消化器内科　内科,,,9" xlink:title="川上医院" transform="ref(svg,14012.9802,-3969.6796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）敬寿会鈴木内科胃腸科医院,秋田県秋田市牛島東２-２-３７,消化器内科（胃腸内科）　糖尿病内科　内科,,,9" xlink:title="（医）敬寿会鈴木内科胃腸科医院" transform="ref(svg,14011.8314,-3970.0898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなみ整形外科クリニック,秋田県秋田市牛島東６-４-１,リウマチ科　リハビリテーション科　整形外科,,,9" xlink:title="みなみ整形外科クリニック" transform="ref(svg,14012.3879,-3969.5177)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）水沢医院,秋田県秋田市茨島４-６-３７,外科　消化器内科　内科　肛門外科,,,9" xlink:title="（医）水沢医院" transform="ref(svg,14010.5102,-3969.5785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）幸楽園,秋田県秋田市上新城中片野４,整形外科　内科,,,9" xlink:title="（特養）幸楽園" transform="ref(svg,14010.7094,-3978.5018)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）久幸会今村記念クリニック,秋田県秋田市下新城長岡毛無谷地２６５,リハビリテーション科　歯科　歯科口腔外科　小児科　小児歯科　整形外科,,,9" xlink:title="（医）久幸会今村記念クリニック" transform="ref(svg,14006.0616,-3980.5501)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）秋田中央福祉会（特養）金寿園,秋田県秋田市下新城笠岡字川向２８,精神科　内科,,,9" xlink:title="（福）秋田中央福祉会（特養）金寿園" transform="ref(svg,14007.6077,-3979.113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）えびす会（特養）海松園,秋田県秋田市下新城中野街道端西２３３-４７,内科,,,9" xlink:title="（福）えびす会（特養）海松園" transform="ref(svg,14005.545,-3979.737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,身体障害者療護センターほくと診療所,秋田県秋田市下新城中野街道端西１１-１,救急科　脳神経外科,,,9" xlink:title="身体障害者療護センターほくと診療所" transform="ref(svg,14005.9425,-3979.4346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）吉成医院,秋田県秋田市下新城中野琵琶沼２１１-１８,消化器内科（胃腸内科）　内科　皮膚科,,,9" xlink:title="（医）吉成医院" transform="ref(svg,14005.7677,-3980.565)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,設楽産婦人科内科クリニック,秋田県秋田市外旭川前谷地４３-１,産婦人科　内科,,,9" xlink:title="設楽産婦人科内科クリニック" transform="ref(svg,14009.2383,-3975.5895)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いなば内科胃腸科クリニック,秋田県秋田市外旭川待合１４-３,胃腸内科　消化器内科　糖尿病内科　内科　内視鏡内科,,,9" xlink:title="いなば内科胃腸科クリニック" transform="ref(svg,14009.5661,-3975.1121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）惇慧会外旭川サテライトクリニック,秋田県秋田市外旭川中谷地４６,歯科　歯科口腔外科　小児科　神経内科　精神科　内科　皮膚科,,,9" xlink:title="（医）惇慧会外旭川サテライトクリニック" transform="ref(svg,14009.9309,-3975.5438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしやま内科腎クリニック,秋田県秋田市外旭川中谷地６７-１,循環器内科　人工透析内科　腎臓内科　糖尿病内科（代謝内科）　内科,,,9" xlink:title="いしやま内科腎クリニック" transform="ref(svg,14009.5732,-3975.5789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）翠松会木曽医院,秋田県秋田市外旭川八幡田１０-６,呼吸器内科　循環器内科　小児科　消化器内科（胃腸内科）　内科,,,9" xlink:title="（医）翠松会木曽医院" transform="ref(svg,14010.9342,-3974.4035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひもり内科・消化器科クリニック,秋田県秋田市外旭川八幡田１-１１-４０,消化器内科（胃腸内科）　内科,,,9" xlink:title="ひもり内科・消化器科クリニック" transform="ref(svg,14010.6486,-3974.5478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新田医院,秋田県秋田市泉一ノ坪２６-２３,循環器科　内科,,,9" xlink:title="新田医院" transform="ref(svg,14011.8572,-3973.7031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さんのへ耳鼻咽喉科クリニック,秋田県秋田市泉東町８-５７,アレルギー科　耳鼻いんこう科,,,9" xlink:title="さんのへ耳鼻咽喉科クリニック" transform="ref(svg,14012.6521,-3973.4518)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,能登谷整形外科医院,秋田県秋田市泉東町８-５９,リハビリテーション科　整形外科,,,9" xlink:title="能登谷整形外科医院" transform="ref(svg,14012.6028,-3973.4785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はやかわ眼科クリニック,秋田県秋田市泉東町８-９,眼科,,,9" xlink:title="はやかわ眼科クリニック" transform="ref(svg,14012.6306,-3973.4943)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたなべ眼科医院,秋田県秋田市泉登木２２６-３,眼科,,,9" xlink:title="わたなべ眼科医院" transform="ref(svg,14010.1787,-3973.7338)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こどものクリニック,秋田県秋田市泉中央５-１９-１８,小児科,,,9" xlink:title="（医）こどものクリニック" transform="ref(svg,14011.7468,-3973.1112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,七海医院,秋田県秋田市泉南２-９-２０,心療内科　精神科　内科,,,9" xlink:title="七海医院" transform="ref(svg,14011.1505,-3973.0187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すがの整形外科クリニック,秋田県秋田市泉菅野１-１１-３２,整形外科,,,9" xlink:title="すがの整形外科クリニック" transform="ref(svg,14010.6541,-3973.776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,リンデンバウムいずみ診療所,秋田県秋田市泉菅野２-１７-１１,内科,,,9" xlink:title="リンデンバウムいずみ診療所" transform="ref(svg,14011.5076,-3973.6082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）光峰苑内診療所,秋田県秋田市添川鶴木台６５-３,内科,,,9" xlink:title="（特養）光峰苑内診療所" transform="ref(svg,14015.3255,-3975.3933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）秋田育明会竹生寮,秋田県秋田市柳田竹生１６８,内科,,,9" xlink:title="（福）秋田育明会竹生寮" transform="ref(svg,14016.2061,-3973.3161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）秋田育明会柳田新生寮医務室,秋田県秋田市柳田竹生１９７,内科,,,9" xlink:title="（福）秋田育明会柳田新生寮医務室" transform="ref(svg,14016.4386,-3973.2067)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）魁聖園,秋田県秋田市新藤田治郎沢５２-６,内科,,,9" xlink:title="（特養）魁聖園" transform="ref(svg,14013.806,-3974.3226)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かがや内科医院,秋田県秋田市旭川南町１３-１８,アレルギー科　呼吸器内科　内科,,,9" xlink:title="かがや内科医院" transform="ref(svg,14012.9517,-3973.7926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川原医院,秋田県秋田市手形字山崎１９４-１,産科　内科　婦人科　麻酔科,,,9" xlink:title="川原医院" transform="ref(svg,14013.1336,-3972.2854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきたすてらクリニック,秋田県秋田市手形西谷地１-２,アレルギー科　形成外科　皮膚科,,,9" xlink:title="あきたすてらクリニック" transform="ref(svg,14013.1503,-3971.9717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田大学保健管理センター,秋田県秋田市手形学園町１-１,内科,,,9" xlink:title="秋田大学保健管理センター" transform="ref(svg,14013.3478,-3972.7286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とむら皮ふ科,秋田県秋田市手形田中１１-２２,皮膚科,,,9" xlink:title="とむら皮ふ科" transform="ref(svg,14013.0998,-3973.3426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柳田医院,秋田県秋田市手形田中４-１５,胃腸内科　外科　皮膚科,,,9" xlink:title="柳田医院" transform="ref(svg,14012.9062,-3972.9909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,お肌のクリニック,秋田県秋田市手形住吉町１-３三愛会ビル２Ｆ,小児皮膚科　皮膚科,,,9" xlink:title="お肌のクリニック" transform="ref(svg,14013.0092,-3972.5336)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こころのクリニック,秋田県秋田市手形住吉町１-３,心療内科　精神科,,,9" xlink:title="こころのクリニック" transform="ref(svg,14013.0003,-3972.5351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）　ＳＯＵＮＤ　　ＳＬＥＥＰ　あきた睡眠クリニック,秋田県秋田市手形新栄町７-３,耳鼻いんこう科,,,9" xlink:title="（医）　ＳＯＵＮＤ　　ＳＬＥＥＰ　あきた睡眠クリニック" transform="ref(svg,14013.0518,-3972.3377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,落合整形外科医院,秋田県秋田市手形新栄町７-４７,整形外科,,,9" xlink:title="落合整形外科医院" transform="ref(svg,14013.0969,-3972.3432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村医院,秋田県秋田市千秋城下町５-６,内科,,,9" xlink:title="中村医院" transform="ref(svg,14012.8466,-3972.1461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ウイロード・クリニック,秋田県秋田市千秋久保田町３-１５,心療内科　神経内科　精神科,,,9" xlink:title="ウイロード・クリニック" transform="ref(svg,14012.7445,-3971.7752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京美容外科秋田院,秋田県秋田市千秋久保田町３-１５三宅ビル４Ｆ,形成外科　皮膚科　美容外科,,,9" xlink:title="東京美容外科秋田院" transform="ref(svg,14012.7434,-3971.7732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきた駅前内科外科クリニック,秋田県秋田市千秋久保田町３-１５三宅ビル２Ｆ,一般外科　一般内科　消化器内科　乳腺外科　肛門外科,,,9" xlink:title="あきた駅前内科外科クリニック" transform="ref(svg,14012.7434,-3971.7732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）太田眼科,秋田県秋田市千秋久保田町３-２１千秋アイラックビル,眼科,,,9" xlink:title="（医）太田眼科" transform="ref(svg,14012.6873,-3971.7795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）秋田県総合保健事業団,秋田県秋田市千秋久保田町６-６,外科　眼科　内科　婦人科,,,9" xlink:title="（公財）秋田県総合保健事業団" transform="ref(svg,14012.6279,-3971.9664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県総合保健センター,秋田県秋田市千秋久保田町６-６,外科　眼科　耳鼻いんこう科　内科　婦人科,,,9" xlink:title="秋田県総合保健センター" transform="ref(svg,14012.6279,-3971.9664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石田皮ふ科医院,秋田県秋田市千秋明徳町１-３４,皮膚科,,,9" xlink:title="石田皮ふ科医院" transform="ref(svg,14012.0161,-3971.9797)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しかま医院,秋田県秋田市保戸野原の町８-３８,外科　内科　肛門外科,,,9" xlink:title="しかま医院" transform="ref(svg,14011.3299,-3972.5509)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いなみ小児科ファミリークリニック,秋田県秋田市保戸野中町１-４５,外科　小児科　内科,,,9" xlink:title="いなみ小児科ファミリークリニック" transform="ref(svg,14011.7068,-3972.2183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋眼科医院,秋田県秋田市保戸野中町１-５３,眼科,,,9" xlink:title="高橋眼科医院" transform="ref(svg,14011.6607,-3972.1926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相沢整形外科医院,秋田県秋田市保戸野中町２-１２,整形外科,,,9" xlink:title="相沢整形外科医院" transform="ref(svg,14011.7826,-3972.2604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石田内科医院,秋田県秋田市保戸野中町６-４８,心療内科　内科,,,9" xlink:title="石田内科医院" transform="ref(svg,14011.7901,-3972.3488)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩渕内科胃腸科クリニック,秋田県秋田市保戸野中町７-１６,内科胃腸科,,,9" xlink:title="岩渕内科胃腸科クリニック" transform="ref(svg,14011.9401,-3972.6263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内科胃腸科濱島医院,秋田県秋田市保戸野すわ町１５-２０,消化器内科（胃腸内科）　内科,,,9" xlink:title="（医）内科胃腸科濱島医院" transform="ref(svg,14011.2833,-3972.5144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細部眼科医院,秋田県秋田市保戸野すわ町１５-２,眼科,,,9" xlink:title="細部眼科医院" transform="ref(svg,14011.2899,-3972.4745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立木医院,秋田県秋田市保戸野鉄砲町１１-２８,人工透析内科　内科　泌尿器科,,,9" xlink:title="立木医院" transform="ref(svg,14011.2076,-3972.4985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本郵政（株）東北郵政健康管理センター秋田分室,秋田県秋田市保戸野鉄砲町５-６３,内科,,,9" xlink:title="日本郵政（株）東北郵政健康管理センター秋田分室" transform="ref(svg,14010.9999,-3972.2919)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やすおか小児科医院,秋田県秋田市保戸野千代田町１４-９,アレルギー科　小児科,,,9" xlink:title="やすおか小児科医院" transform="ref(svg,14011.0345,-3972.8023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すずきクリニック,秋田県秋田市泉北３-１７-１０,外科　小児科　内科,,,9" xlink:title="すずきクリニック" transform="ref(svg,14011.0591,-3973.5565)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泉皮膚科クリニック,秋田県秋田市泉北２-１０-７,皮膚科,,,9" xlink:title="泉皮膚科クリニック" transform="ref(svg,14010.7134,-3973.5085)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやざわペインクリニック,秋田県秋田市東通仲町４-１-４Ｆ,麻酔科,,,9" xlink:title="みやざわペインクリニック" transform="ref(svg,14013.1467,-3971.5818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田胃腸科内科医院,秋田県秋田市泉中央２-１６-２３,消化器内科（胃腸内科）,,,9" xlink:title="和田胃腸科内科医院" transform="ref(svg,14010.7278,-3973.358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片岡内科医院,秋田県秋田市泉南３-１７-１７,消化器内科（胃腸内科）　内科,,,9" xlink:title="片岡内科医院" transform="ref(svg,14011.7674,-3972.9694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）櫻会大町内科外科クリニック,秋田県秋田市大町１-２-２３,外科　眼科　消化器内科　内科　肛門外科,,,9" xlink:title="（医）櫻会大町内科外科クリニック" transform="ref(svg,14011.8031,-3972.0269)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田胃腸クリニック,秋田県秋田市大町１-６-１２,消化器内科（胃腸内科）　糖尿病内科（代謝内科）　内視鏡内科,,,9" xlink:title="武田胃腸クリニック" transform="ref(svg,14011.3308,-3972.1016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米山内科医院,秋田県秋田市大町５-４-４９,内科,,,9" xlink:title="米山内科医院" transform="ref(svg,14011.3942,-3971.3717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笹原内科医院,秋田県秋田市大町３-４-４１,消化器内科（胃腸内科）　内科,,,9" xlink:title="笹原内科医院" transform="ref(svg,14011.4215,-3971.7641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈心会寺田内科医院,秋田県秋田市旭南１-１-６,呼吸器内科　循環器内科　内科,,,9" xlink:title="（医）慈心会寺田内科医院" transform="ref(svg,14010.8603,-3971.252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）秋田聖徳会養護老人ホーム診療所,秋田県秋田市旭南１-５-６,内科,,,9" xlink:title="（福）秋田聖徳会養護老人ホーム診療所" transform="ref(svg,14011.0211,-3971.2067)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島田クリニック,秋田県秋田市川元山下町７-２１,アレルギー科　小児科,,,9" xlink:title="島田クリニック" transform="ref(svg,14010.5412,-3971.2695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）秋田聖徳会障がい福祉サポートセンター聖和医務静養室,秋田県秋田市川元小川町１-８,内科,,,9" xlink:title="（福）秋田聖徳会障がい福祉サポートセンター聖和医務静養室" transform="ref(svg,14010.3776,-3970.7469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）秋田県総合保健事業団中央健診センター,秋田県秋田市川尻町大川反２３３-１８６の内,外科　眼科　内科　婦人科,,,9" xlink:title="（公財）秋田県総合保健事業団中央健診センター" transform="ref(svg,14008.5753,-3971.4412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県赤十字血液センター,秋田県秋田市川尻町大川反２３３-１８６,内科,,,9" xlink:title="秋田県赤十字血液センター" transform="ref(svg,14008.5763,-3971.4408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平野いたみのクリニック,秋田県秋田市川尻御休町５-４０,内科　放射線科　麻酔科,,,9" xlink:title="平野いたみのクリニック" transform="ref(svg,14009.7285,-3971.3507)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）新秋会（特養）ひなた,秋田県秋田市土崎港西３-１１-５,内科,,,9" xlink:title="（福）新秋会（特養）ひなた" transform="ref(svg,14006.6607,-3975.6955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東海林整形外科クリニック,秋田県秋田市川尻総社町１７-８,リウマチ科　整形外科,,,9" xlink:title="東海林整形外科クリニック" transform="ref(svg,14010.2052,-3971.0378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,銭谷内科胃腸科クリニック,秋田県秋田市川尻上野町１-６４,消化器内科（胃腸内科）　内科,,,9" xlink:title="銭谷内科胃腸科クリニック" transform="ref(svg,14010.1518,-3970.9845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くらみつ内科クリニック,秋田県秋田市山王５-１０-２８,消化器内科　内科,,,9" xlink:title="くらみつ内科クリニック" transform="ref(svg,14010.4883,-3971.4668)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいとう神経科クリニック,秋田県秋田市山王３-８-３４山王ツインビル３Ｆ,精神科,,,9" xlink:title="さいとう神経科クリニック" transform="ref(svg,14010.4559,-3971.7091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地方職員（共済）組合秋田県支部診療室,秋田県秋田市山王４-１-２,内科,,,9" xlink:title="地方職員（共済）組合秋田県支部診療室" transform="ref(svg,14010.2248,-3971.7494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）栄山会山王胃腸科,秋田県秋田市山王２-１-４９,外科　消化器内科（胃腸内科）　内科　麻酔科　肛門外科,,,9" xlink:title="（医）栄山会山王胃腸科" transform="ref(svg,14010.55,-3971.9401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はしづめクリニック,秋田県秋田市山王新町１９-２７,内科　乳腺外科,,,9" xlink:title="はしづめクリニック" transform="ref(svg,14009.3415,-3971.6061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）櫻会山王眼科クリニック,秋田県秋田市山王中園町１０-２７,眼科,,,9" xlink:title="（医）櫻会山王眼科クリニック" transform="ref(svg,14009.3479,-3971.4377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田胃腸科内科クリニック,秋田県秋田市山王中園町１０-３０,呼吸器内科　消化器内科（胃腸内科）　内科,,,9" xlink:title="吉田胃腸科内科クリニック" transform="ref(svg,14009.3514,-3971.468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山王レディースクリニック,秋田県秋田市山王中園町１０-３５,産婦人科　内科,,,9" xlink:title="山王レディースクリニック" transform="ref(svg,14009.3412,-3971.5225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はらだ小児科医院,秋田県秋田市山王中園町２-１６,アレルギー科　小児科,,,9" xlink:title="はらだ小児科医院" transform="ref(svg,14009.7019,-3971.4254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）本間医院,秋田県秋田市山王中園町３-１４,呼吸器内科　循環器内科　小児科,,,9" xlink:title="（医）本間医院" transform="ref(svg,14009.6314,-3971.383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）圭山会山王整形外科医院,秋田県秋田市山王中島町１５-１８,リハビリテーション科　形成外科　整形外科,,,9" xlink:title="（医）圭山会山王整形外科医院" transform="ref(svg,14008.9093,-3971.8075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）桜丘会（特養）八橋医務室,秋田県秋田市八橋イサノ１-２-４,内科,,,9" xlink:title="（福）桜丘会（特養）八橋医務室" transform="ref(svg,14009.442,-3973.0737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）笹尾整形外科医院,秋田県秋田市八橋新川向１１-９,整形外科,,,9" xlink:title="（医）笹尾整形外科医院" transform="ref(svg,14010.19,-3972.8799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博通会澤口医院,秋田県秋田市八橋三和町１４-６,アレルギー科　小児科,,,9" xlink:title="（医）博通会澤口医院" transform="ref(svg,14010.0726,-3972.9817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林胃腸科内科,秋田県秋田市八橋田五郎２-１１-９,消化器内科（胃腸内科）,,,9" xlink:title="小林胃腸科内科" transform="ref(svg,14009.5519,-3972.9992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えのきこどもクリニック,秋田県秋田市八橋田五郎２-１３-１８,アレルギー科　小児科,,,9" xlink:title="えのきこどもクリニック" transform="ref(svg,14009.4133,-3972.9622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かん眼科,秋田県秋田市八橋本町５-５-２０,眼科,,,9" xlink:title="かん眼科" transform="ref(svg,14009.4162,-3972.5146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やばせ内科クリニック,秋田県秋田市八橋本町５-８-３１,消化器内科（胃腸内科）,,,9" xlink:title="（医）やばせ内科クリニック" transform="ref(svg,14009.5771,-3972.6774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中込内科医院,秋田県秋田市八橋本町３-１-５,呼吸器内科　循環器内科　内科,,,9" xlink:title="中込内科医院" transform="ref(svg,14010.1841,-3972.3003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田市保健所,秋田県秋田市八橋南１-８-３,内科,,,9" xlink:title="秋田市保健所" transform="ref(svg,14009.1457,-3972.0313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大平荘診療所,秋田県秋田市太平八田藤の崎２３１-３,内科,,,9" xlink:title="大平荘診療所" transform="ref(svg,14018.0739,-3974.7224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沓沢医院,秋田県秋田市雄和椿川長者屋敷９-１,内科,,,9" xlink:title="沓沢医院" transform="ref(svg,14015.95,-3962.4149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）花の家,秋田県秋田市雄和石田苗代沢１８,内科,,,9" xlink:title="（特養）花の家" transform="ref(svg,14017.292,-3959.4445)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健雄会岩崎医院,秋田県秋田市雄和妙法上大部９０-１,外科　消化器内科（胃腸内科）　内科,,,9" xlink:title="（医）健雄会岩崎医院" transform="ref(svg,14017.0048,-3959.2166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県厚生協会障害者支援施設雄高園,秋田県秋田市雄和戸賀沢金山沢８９-２９,内科,,,9" xlink:title="秋田県厚生協会障害者支援施設雄高園" transform="ref(svg,14019.8807,-3957.3476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,雄和さくらクリニック,秋田県秋田市雄和新波字竹ノ花４２-１,内科,,,9" xlink:title="雄和さくらクリニック" transform="ref(svg,14023.1289,-3952.8779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）一つ森診療室,秋田県秋田市上北手荒巻鳥越２２９-１,内科,,,9" xlink:title="（特養）一つ森診療室" transform="ref(svg,14014.0279,-3969.4068)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）南寿園,秋田県秋田市上北手猿田後谷地１０８-３,男性呼吸器内科　男性整形外科　男性内科　男性内科（血液）,,,9" xlink:title="（特養）南寿園" transform="ref(svg,14016.9932,-3968.1468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）祥仁会秋田南クリニック,秋田県秋田市上北手百崎諏訪ノ沢３-１１５,人工透析内科　内科　泌尿器科,,,9" xlink:title="（医）祥仁会秋田南クリニック" transform="ref(svg,14016.2828,-3968.948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）秋田けやき会（特養）やすらぎホームけやき医務室,秋田県秋田市御所野下堤５-１-５,精神科　内科,,,9" xlink:title="（福）秋田けやき会（特養）やすらぎホームけやき医務室" transform="ref(svg,14015.4934,-3966.6888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,御所野かなや眼科,秋田県秋田市御所野元町４-１４-３２,眼科,,,9" xlink:title="御所野かなや眼科" transform="ref(svg,14017.2162,-3966.2199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県赤十字血液センター御所野出張所,秋田県秋田市御所野地蔵田１-１-１イオンモール秋田１Ｆ及び３Ｆ,内科,,,9" xlink:title="秋田県赤十字血液センター御所野出張所" transform="ref(svg,14016.0656,-3966.3498)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とおる内科医院,秋田県秋田市御所野地蔵田２-１-３-２,アレルギー科　リウマチ科　呼吸器内科　循環器内科　小児科　消化器内科（胃腸内科）　内科,,,9" xlink:title="とおる内科医院" transform="ref(svg,14015.7868,-3966.3978)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,御所野整形外科,秋田県秋田市御所野地蔵田２-１-４９,整形外科,,,9" xlink:title="御所野整形外科" transform="ref(svg,14015.8089,-3966.4666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）メディカルユー御所野アイクリニック,秋田県秋田市御所野元町１-１-１７フレスポ御所野２階,眼科,,,9" xlink:title="（医）メディカルユー御所野アイクリニック" transform="ref(svg,14016.4208,-3966.1134)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,御所野内科クリニック,秋田県秋田市御所野元町５-３-５,内科,,,9" xlink:title="御所野内科クリニック" transform="ref(svg,14016.8326,-3966.0621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部クリニック,秋田県秋田市仁井田本町３-２８-１３,呼吸器内科　循環器内科　内科,,,9" xlink:title="阿部クリニック" transform="ref(svg,14013.3436,-3967.6939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杏仁会御所野ひかりクリニック,秋田県秋田市仁井田横山２６０-１,漢方外来　循環器内科　内科　皮膚科,,,9" xlink:title="（医）杏仁会御所野ひかりクリニック" transform="ref(svg,14015.2536,-3967.7329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科おのば能登医院,秋田県秋田市仁井田中新田６６-１,耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科おのば能登医院" transform="ref(svg,14012.5599,-3967.7376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永沢整形外科クリニック,秋田県秋田市仁井田中新田７７,整形外科,,,9" xlink:title="永沢整形外科クリニック" transform="ref(svg,14012.305,-3967.7626)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）水心会おのば高橋小児科クリニック,秋田県秋田市仁井田中新田７８,アレルギー科　小児科,,,9" xlink:title="（医）水心会おのば高橋小児科クリニック" transform="ref(svg,14012.2729,-3967.779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おのば腎泌尿器科クリニック,秋田県秋田市仁井田中新田８０,性感染症内科　内科　泌尿器科,,,9" xlink:title="おのば腎泌尿器科クリニック" transform="ref(svg,14012.2713,-3967.7841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おのば眼科,秋田県秋田市仁井田中新田８１,眼科,,,9" xlink:title="おのば眼科" transform="ref(svg,14012.2455,-3967.7719)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加賀谷記念小松こども医院,秋田県秋田市御野場新町４-７-２２,小児科　内科,,,9" xlink:title="加賀谷記念小松こども医院" transform="ref(svg,14012.6134,-3966.8907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松内科クリニック,秋田県秋田市御野場新町２-１０-１２,呼吸器内科　循環器内科　内科,,,9" xlink:title="小松内科クリニック" transform="ref(svg,14012.3206,-3967.1321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,御野場たなかレディースクリニック,秋田県秋田市仁井田新田２-１４-２１,産婦人科,,,9" xlink:title="御野場たなかレディースクリニック" transform="ref(svg,14012.4425,-3967.8089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科・胃腸科高橋医院,秋田県秋田市仁井田新田１-１５-３５,消化器内科（胃腸内科）,,,9" xlink:title="内科・胃腸科高橋医院" transform="ref(svg,14012.364,-3968.0802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁明会すずき眼科,秋田県秋田市仁井田新田１-１-３６,眼科,,,9" xlink:title="（医）仁明会すずき眼科" transform="ref(svg,14012.3362,-3968.3595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にいだ内科循環器科クリニック,秋田県秋田市仁井田新田３-１４-１７,循環器内科　内科,,,9" xlink:title="にいだ内科循環器科クリニック" transform="ref(svg,14011.9397,-3967.9078)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中込内科循環器科クリニック,秋田県秋田市仁井田二ツ屋１-８-５５,循環器内科　小児科　内科,,,9" xlink:title="中込内科循環器科クリニック" transform="ref(svg,14012.3133,-3969.1521)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛川整形外科クリニック,秋田県秋田市仁井田蕗見町７-１１,整形外科,,,9" xlink:title="愛川整形外科クリニック" transform="ref(svg,14012.4832,-3968.5862)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明和会ふき健診クリニック,秋田県秋田市仁井田潟中町２-４１,内科,,,9" xlink:title="（医）明和会ふき健診クリニック" transform="ref(svg,14012.2469,-3968.7824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山岸クリニック,秋田県秋田市大住４-１２-４７,呼吸器内科　循環器内科　小児科　内科,,,9" xlink:title="山岸クリニック" transform="ref(svg,14011.4606,-3968.7621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下浜診療所,秋田県秋田市下浜羽川下山４８-１３２,小児科　内科,,,9" xlink:title="下浜診療所" transform="ref(svg,14006.5675,-3961.161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本大昭和板紙（株）秋田工場診療所,秋田県秋田市向浜２-１-１,内科,,,9" xlink:title="日本大昭和板紙（株）秋田工場診療所" transform="ref(svg,14005.8556,-3974.1687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三新会三浦小児科内科医院,秋田県秋田市新屋勝平町２-２５,循環器科　小児科　内科,,,9" xlink:title="（医）三新会三浦小児科内科医院" transform="ref(svg,14008.3632,-3969.7307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きびら内科クリニック,秋田県秋田市新屋天秤野５-１０,呼吸器内科　循環器内科　内科,,,9" xlink:title="きびら内科クリニック" transform="ref(svg,14008.4561,-3970.6475)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）富田会富田胃腸科内科医院,秋田県秋田市新屋豊町１０-３,胃腸内科,,,9" xlink:title="（医）富田会富田胃腸科内科医院" transform="ref(svg,14008.897,-3970.3158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田眼科,秋田県秋田市新屋日吉町７-４１,眼科,,,9" xlink:title="吉田眼科" transform="ref(svg,14007.8989,-3967.7321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松寿会軽費老人ホームＡ型だいせん診療所,秋田県秋田市新屋大川町１７-３,内科,,,9" xlink:title="松寿会軽費老人ホームＡ型だいせん診療所" transform="ref(svg,14008.762,-3968.81)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,一戸医院,秋田県秋田市新屋大川町９-７,外科　内科,,,9" xlink:title="一戸医院" transform="ref(svg,14008.8981,-3968.7747)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おきた町診療所,秋田県秋田市新屋沖田町５-２,外科　消化器内科（胃腸内科）　内科　肛門外科,,,9" xlink:title="（医）おきた町診療所" transform="ref(svg,14008.9161,-3967.5167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新屋駅前耳鼻咽喉科,秋田県秋田市新屋扇町１３-１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="新屋駅前耳鼻咽喉科" transform="ref(svg,14008.5688,-3967.749)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）・森川内科・呼吸器科クリニック,秋田県秋田市新屋表町３-１８,呼吸器内科　循環器内科　内科,,,9" xlink:title="（医）・森川内科・呼吸器科クリニック" transform="ref(svg,14008.4131,-3968.3301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木村内科クリニック,秋田県秋田市新屋田尻沢東町１０-５,呼吸器内科　循環器内科　内科,,,9" xlink:title="木村内科クリニック" transform="ref(svg,14009.6861,-3967.2242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）新成会（特養）新成園,秋田県秋田市浜田元中村２８０-９,内科,,,9" xlink:title="（福）新成会（特養）新成園" transform="ref(svg,14006.9483,-3968.0028)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）松寿会養護老人ホーム松寿園医務室,秋田県秋田市浜田陳ケ原１５-５,内科,,,9" xlink:title="（福）松寿会養護老人ホーム松寿園医務室" transform="ref(svg,14006.9193,-3965.2793)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）松寿会（盲）養護老人ホーム松峰園医務室,秋田県秋田市浜田陳ケ原１５-８,内科,,,9" xlink:title="（福）松寿会（盲）養護老人ホーム松峰園医務室" transform="ref(svg,14006.9162,-3965.2168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松涛園診療所,秋田県秋田市浜田陳ケ原３５-３１,内科,,,9" xlink:title="松涛園診療所" transform="ref(svg,14006.8043,-3965.0435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴田医院,秋田県秋田市河辺北野田高屋黒沼下堤下２０-１１,リウマチ科　整形外科　内科,,,9" xlink:title="柴田医院" transform="ref(svg,14021.7333,-3965.3476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部眼科,秋田県秋田市東通仲町４-１,眼科,,,9" xlink:title="阿部眼科" transform="ref(svg,14013.1229,-3971.5845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明和会畑谷中通診療所,秋田県秋田市河辺畑谷中村７４-２,外科　内科,,,9" xlink:title="（医）明和会畑谷中通診療所" transform="ref(svg,14016.8911,-3964.1698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明和会前郷中通診療所,秋田県秋田市豊岩豊巻大日沢２,外科　内科,,,9" xlink:title="（医）明和会前郷中通診療所" transform="ref(svg,14011.3538,-3964.2921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明和会小山中通診療所,秋田県秋田市豊岩小山神田４,外科　内科,,,9" xlink:title="（医）明和会小山中通診療所" transform="ref(svg,14013.4335,-3963.0314)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）高清水寿光園,秋田県秋田市寺内後城６-４１,腎臓内科　整形外科　内科,,,9" xlink:title="（特養）高清水寿光園" transform="ref(svg,14007.3991,-3974.0149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊秋田駐屯地医務室,秋田県秋田市寺内将軍野１,歯科　整形外科　内科,,,9" xlink:title="陸上自衛隊秋田駐屯地医務室" transform="ref(svg,14008.6378,-3976.1619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あかつき会菅原内科クリニック,秋田県秋田市寺内堂ノ沢１-４-２１,呼吸器内科　循環器内科　内科,,,9" xlink:title="（医）あかつき会菅原内科クリニック" transform="ref(svg,14009.0411,-3973.4744)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）並木クリニック,秋田県秋田市寺内堂ノ沢１-７-２８,産婦人科,,,9" xlink:title="（医）並木クリニック" transform="ref(svg,14009.0341,-3973.5652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）祥穂会つつみ整形外科,秋田県秋田市寺内堂ノ沢３-８-２４,リウマチ科　リハビリテーション科　整形外科　内科　皮膚科,,,9" xlink:title="（医）祥穂会つつみ整形外科" transform="ref(svg,14008.9396,-3973.6861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）及川医院,秋田県秋田市飯島新町３-１-２０,胃腸内科　精神科　内科,,,9" xlink:title="（医）及川医院" transform="ref(svg,14008.3364,-3977.1524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水整形外科医院,秋田県秋田市飯島道東２-１５-３１,整形外科,,,9" xlink:title="清水整形外科医院" transform="ref(svg,14006.6366,-3978.1899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もりた整形外科医院,秋田県秋田市港北松野町２-２,整形外科,,,9" xlink:title="もりた整形外科医院" transform="ref(svg,14007.9127,-3976.7531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部内科医院,秋田県秋田市将軍野東１-７-２６,内科,,,9" xlink:title="阿部内科医院" transform="ref(svg,14008.3723,-3975.742)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはしこどもクリニック,秋田県秋田市将軍野青山町４-４７,アレルギー科　小児科,,,9" xlink:title="たかはしこどもクリニック" transform="ref(svg,14009.0035,-3975.9909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉成皮膚科クリニック,秋田県秋田市将軍野桂町３３-１８,皮膚科,,,9" xlink:title="吉成皮膚科クリニック" transform="ref(svg,14008.9961,-3975.9501)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤内科医院,秋田県秋田市将軍野南１-１０-５５,内科,,,9" xlink:title="佐藤内科医院" transform="ref(svg,14008.0283,-3974.7155)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米谷耳鼻咽喉科医院,秋田県秋田市将軍野南１-１０-５７,耳鼻いんこう科,,,9" xlink:title="米谷耳鼻咽喉科医院" transform="ref(svg,14008.0545,-3974.6948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松浦医院,秋田県秋田市将軍野南１-１４-７３,アレルギー科　リハビリテーション科　産婦人科　心療内科　内科　泌尿器科　皮膚科,,,9" xlink:title="松浦医院" transform="ref(svg,14008.4578,-3974.5787)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村山クリニック,秋田県秋田市将軍野南５-１２-１９,呼吸器内科　循環器内科　内科,,,9" xlink:title="村山クリニック" transform="ref(svg,14008.265,-3975.0862)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高木内科胃腸科医院,秋田県秋田市将軍野南４-６-２０,消化器内科　内科,,,9" xlink:title="高木内科胃腸科医院" transform="ref(svg,14008.6949,-3974.5916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アネス・ケア　Ａｎｅｓ-Ｃａｒｅ,秋田県秋田市土崎港北４-５-４９,麻酔科（出張麻酔）,,,9" xlink:title="アネス・ケア　Ａｎｅｓ-Ｃａｒｅ" transform="ref(svg,14007.5331,-3976.2441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明和会港北中通診療所,秋田県秋田市土崎港北６-１-５,矯正歯科　歯科　歯科口腔外科　循環器内科　小児科　小児歯科　消化器内科（胃腸内科）　内科　放射線科,,,9" xlink:title="（医）明和会港北中通診療所" transform="ref(svg,14007.5605,-3976.5507)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）うちやま眼科医院,秋田県秋田市土崎港東３-２-２４,眼科,,,9" xlink:title="（医）うちやま眼科医院" transform="ref(svg,14007.7502,-3975.794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）土崎鹿嶋医院,秋田県秋田市土崎港東４-４-７０,外科　消化器内科　内科　肛門外科,,,9" xlink:title="（医）土崎鹿嶋医院" transform="ref(svg,14008.2879,-3975.5129)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木内科・循環器科医院,秋田県秋田市土崎港東４-５-３８,呼吸器内科　循環器内科　消化器内科（胃腸内科）　内科,,,9" xlink:title="佐々木内科・循環器科医院" transform="ref(svg,14007.9746,-3975.7821)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）土崎レディースクリニック,秋田県秋田市土崎港南３-５-５,産婦人科　内科,,,9" xlink:title="（医）土崎レディースクリニック" transform="ref(svg,14007.4811,-3974.4373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もろおか医院,秋田県秋田市土崎港南２-３-６４,ペインクリニック外科　外科　肝臓内科　呼吸器科　消化器内科（胃腸・内視鏡内科）　糖尿病代謝内科　内科　内視鏡外科　内視鏡内科　皮膚泌尿器科　肛門科　肛門外科,,,9" xlink:title="もろおか医院" transform="ref(svg,14007.4023,-3974.6838)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なべしま眼科クリニック,秋田県秋田市土崎港中央５-７-１５,眼科,,,9" xlink:title="なべしま眼科クリニック" transform="ref(svg,14007.0029,-3975.9338)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成徳会健生クリニック,秋田県秋田市土崎港中央１-２１-３６,呼吸器内科　循環器内科　消化器内科　心療内科　精神科　内科,,,9" xlink:title="（医）成徳会健生クリニック" transform="ref(svg,14007.1475,-3975.278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきたレディースクリニック安田,秋田県秋田市土崎港中央５-３-３７,産科　産婦人科（生殖医療・不妊治療）　婦人科,,,9" xlink:title="あきたレディースクリニック安田" transform="ref(svg,14006.8775,-3975.7881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）玉田眼科,秋田県秋田市土崎港中央５-６-２９,眼科,,,9" xlink:title="（医）玉田眼科" transform="ref(svg,14006.8973,-3975.9023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おのざき小児科医院,秋田県秋田市土崎港中央３-３-３０,小児科,,,9" xlink:title="おのざき小児科医院" transform="ref(svg,14006.912,-3975.4753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清瞭会吉本眼科医院,秋田県秋田市土崎港中央３-４-３６,眼科,,,9" xlink:title="（医）清瞭会吉本眼科医院" transform="ref(svg,14006.8088,-3975.4872)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向島医院,秋田県秋田市土崎港中央３-５-１０,呼吸器内科　循環器内科　消化器内科（胃腸内科）　内科,,,9" xlink:title="向島医院" transform="ref(svg,14006.7571,-3975.5495)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いしがき整形外科クリニック,秋田県秋田市土崎港中央４-６-２２,リウマチ科　リハビリテーション科　整形外科,,,9" xlink:title="（医）いしがき整形外科クリニック" transform="ref(svg,14007.4819,-3975.3339)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,港町内科皮膚科,秋田県秋田市土崎港中央６-１３-２５,内科　皮膚科,,,9" xlink:title="港町内科皮膚科" transform="ref(svg,14007.2475,-3975.7)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながぬま内科,秋田県秋田市土崎港中央６-２-２４,消化器内科（胃腸内科）　内科,,,9" xlink:title="ながぬま内科" transform="ref(svg,14007.422,-3975.4885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子医院,秋田県秋田市土崎港中央６-３-１８,小児科　内科,,,9" xlink:title="金子医院" transform="ref(svg,14007.2738,-3975.4088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真和会真崎耳鼻咽喉科医院,秋田県秋田市土崎港中央６-８-３,耳鼻いんこう科,,,9" xlink:title="（医）真和会真崎耳鼻咽喉科医院" transform="ref(svg,14007.4315,-3975.5337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つかだ泌尿器科クリニック,秋田県秋田市飯島新町１-１-６,内科　泌尿器科,,,9" xlink:title="つかだ泌尿器科クリニック" transform="ref(svg,14008.9155,-3976.364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯島ファミリークリニック,秋田県秋田市飯島新町２-１２-１,呼吸器内科　循環器内科　消化器内科　神経内科　内科,,,9" xlink:title="飯島ファミリークリニック" transform="ref(svg,14008.7714,-3976.9955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川医院,秋田県秋田市土崎港相染町大谷地３５,外科　消化器内科　内科　皮膚科　肛門外科,,,9" xlink:title="石川医院" transform="ref(svg,14006.8694,-3977.2393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田近医院,秋田県秋田市河辺北野田高屋上前田表７６-１,呼吸器内科　循環器内科　小児科　消化器内科（胃腸内科）　内科,,,9" xlink:title="（医）田近医院" transform="ref(svg,14021.1492,-3965.1721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）河辺ふくし会（特養）河辺荘内診療所,秋田県秋田市河辺大張野字水口沢２１６,内科,,,9" xlink:title="（福）河辺ふくし会（特養）河辺荘内診療所" transform="ref(svg,14026.0294,-3965.9359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清流会岩見三内クリニック,秋田県秋田市河辺三内外川原１１５,外科　内科,,,9" xlink:title="（医）清流会岩見三内クリニック" transform="ref(svg,14028.926,-3970.8412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁政会サンクリニック,秋田県秋田市土崎港中央４-８-１０,心療内科　精神科,,,9" xlink:title="（医）仁政会サンクリニック" transform="ref(svg,14007.471,-3975.3637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,御所野いとう眼科,秋田県秋田市御所野地蔵田１-１-１イオンモール秋田２階,眼科,,,9" xlink:title="御所野いとう眼科" transform="ref(svg,14016.068,-3966.3497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,美子スキンクリニック,秋田県秋田市中通１-３-５秋田キャッスルホテル２階,皮膚科　美容皮膚科,,,9" xlink:title="美子スキンクリニック" transform="ref(svg,14012.0355,-3971.7799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かおりレディスクリニック,秋田県秋田市八橋三和町５-２,婦人科,,,9" xlink:title="かおりレディスクリニック" transform="ref(svg,14009.957,-3972.7668)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田肛門外科おぬきクリニック,秋田県秋田市広面字鍋沼３５,肛門外科,,,9" xlink:title="秋田肛門外科おぬきクリニック" transform="ref(svg,14014.6694,-3971.7268)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひかり睡眠ケアクリニック,秋田県秋田市桜２-１７-２３,循環器内科　内科,,,9" xlink:title="ひかり睡眠ケアクリニック" transform="ref(svg,14014.9722,-3970.9294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いおりクリニック,秋田県秋田市中通２-８-１フォンテＡＫＩＴＡ４階,心療内科　精神科　内科,,,9" xlink:title="いおりクリニック" transform="ref(svg,14012.7583,-3971.625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）和光会共立クリニック,秋田県秋田市南通亀の町１４-２３,外科　消化器外科（胃腸外科）　消化器内科（胃腸内科）　内科　泌尿器科,,,9" xlink:title="（医）和光会共立クリニック" transform="ref(svg,14011.9778,-3970.8837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西武百貨店秋田店診療所,秋田県秋田市中通２-６-１,内科,,,9" xlink:title="西武百貨店秋田店診療所" transform="ref(svg,14012.6357,-3971.7168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かのこメンタルクリニック,秋田県秋田市山王５-１０-７山王プロムナード,精神科　糖尿病内科（代謝内科）,,,9" xlink:title="かのこメンタルクリニック" transform="ref(svg,14010.6654,-3971.4918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきた内科・呼吸器内科クリニック,秋田県秋田市東通１-５-１７,アレルギー科　呼吸器内科　内科,,,9" xlink:title="あきた内科・呼吸器内科クリニック" transform="ref(svg,14013.4313,-3971.5126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ミチヒロ胃腸内科クリニック,秋田県秋田市広面鍋沼９３-１,消化器内科（胃腸内科）　糖尿病内科（代謝内科）　内科,,,9" xlink:title="ミチヒロ胃腸内科クリニック" transform="ref(svg,14014.4577,-3971.696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わだクリニック,秋田県秋田市寺内三千刈８６-３,小児科　内科,,,9" xlink:title="わだクリニック" transform="ref(svg,14009.6869,-3974.2566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米山消化器内科クリニック,秋田県秋田市御所野元町１-１-１フレスポ御所野Ｂ-２,消化器内科　内科,,,9" xlink:title="米山消化器内科クリニック" transform="ref(svg,14016.2836,-3966.0536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）作左部医院,秋田県由利本荘市石脇石脇４６,整形外科　内科,,,9" xlink:title="（医）作左部医院" transform="ref(svg,14005.066,-3939.6312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さとうハートクリニック,秋田県由利本荘市石脇田尻野６-５３,循環器内科　内科,,,9" xlink:title="（医）さとうハートクリニック" transform="ref(svg,14003.1253,-3940.4066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまだ糖尿病・胃腸内科クリニック,秋田県由利本荘市川口高花１０５-３,消化器内科（胃腸内科）　糖尿病内科（代謝内科）　内科,,,9" xlink:title="やまだ糖尿病・胃腸内科クリニック" transform="ref(svg,14006.3172,-3940.2322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花ごよみ医務室,秋田県由利本荘市土谷新谷地１６０,内科,,,9" xlink:title="花ごよみ医務室" transform="ref(svg,14007.0153,-3939.1832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）早川眼科医院,秋田県由利本荘市裏尾崎町４,眼科,,,9" xlink:title="（医）早川眼科医院" transform="ref(svg,14005.0197,-3938.732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥山内科医院,秋田県由利本荘市花畑町２-５７-２,アレルギー科　呼吸器内科　内科,,,9" xlink:title="奥山内科医院" transform="ref(svg,14005.5704,-3938.8296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新田目皮膚科医院,秋田県由利本荘市花畑町４-３４,皮膚科,,,9" xlink:title="新田目皮膚科医院" transform="ref(svg,14005.4864,-3938.6331)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）　　ＹＡＭＡＺＥＮ　本荘整形外科,秋田県由利本荘市花畑町２-３２-１,リウマチ科　リハビリテーション科　外科　整形外科　内科,,,9" xlink:title="（医）　　ＹＡＭＡＺＥＮ　本荘整形外科" transform="ref(svg,14005.6638,-3938.7729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤内科医院,秋田県由利本荘市東町２３,内科,,,9" xlink:title="伊藤内科医院" transform="ref(svg,14005.3159,-3938.8834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）医尽会浅野耳鼻咽喉科医院,秋田県由利本荘市表尾崎町１７-４,耳鼻いんこう科,,,9" xlink:title="（医）医尽会浅野耳鼻咽喉科医院" transform="ref(svg,14004.8163,-3938.6968)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内藤クリニック,秋田県由利本荘市中竪町１,外科　内科,,,9" xlink:title="内藤クリニック" transform="ref(svg,14005.2358,-3938.7646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明幸会中央線診療所,秋田県由利本荘市岩渕下３９-２,内科,,,9" xlink:title="（医）明幸会中央線診療所" transform="ref(svg,14005.228,-3939.1535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しぶやこまちクリニック,秋田県由利本荘市赤沼下４３４-１,産婦人科　内科,,,9" xlink:title="しぶやこまちクリニック" transform="ref(svg,14005.8312,-3939.0901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梵天内科クリニック,秋田県由利本荘市東梵天１７１-１,消化器内科（胃腸内科）　内科　臨床検査科,,,9" xlink:title="梵天内科クリニック" transform="ref(svg,14006.427,-3938.4466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつだあかちゃんこどもクリニック,秋田県由利本荘市東梵天１７４-１,アレルギー科　小児科　新生児内科,,,9" xlink:title="まつだあかちゃんこどもクリニック" transform="ref(svg,14006.3642,-3938.4521)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田眼科,秋田県由利本荘市東梵天１９２-３,眼科,,,9" xlink:title="前田眼科" transform="ref(svg,14006.4364,-3938.5059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わかまつ内科クリニック,秋田県由利本荘市東梵天２９７-１,消化器内科（胃腸内科）　糖尿病内科（代謝内科）　内科,,,9" xlink:title="わかまつ内科クリニック" transform="ref(svg,14006.3195,-3938.7904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木小児科,秋田県由利本荘市１番堰１１７-１７,小児科,,,9" xlink:title="鈴木小児科" transform="ref(svg,14006.152,-3937.6966)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）本荘久寿会ひまわりクリニック,秋田県由利本荘市１番堰１４２-１,循環器内科　内科,,,9" xlink:title="（福）本荘久寿会ひまわりクリニック" transform="ref(svg,14005.6798,-3937.8958)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明育会さけみ小児科クリニック,秋田県由利本荘市西梵天７３,アレルギー科　小児科,,,9" xlink:title="（医）明育会さけみ小児科クリニック" transform="ref(svg,14005.894,-3938.5654)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水泌尿器科内科医院,秋田県由利本荘市鶴沼１２３,感染症内科　呼吸器内科　脂質代謝内科　循環器内科　消化器内科（胃腸内科）　心臓内科　人工透析内科　腎臓内科　性感染症内科　糖尿病内科（代謝内科）　内科　泌尿器科　老年内科,,,9" xlink:title="清水泌尿器科内科医院" transform="ref(svg,14004.034,-3938.6577)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木産婦人科医院,秋田県由利本荘市給人町３７-１,産婦人科,,,9" xlink:title="佐々木産婦人科医院" transform="ref(svg,14004.2575,-3938.8493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猪股医院,秋田県由利本荘市給人町６-２,肝臓内科　消化器内科　消化器内視鏡内科　糖尿病代謝内科　内科,,,9" xlink:title="猪股医院" transform="ref(svg,14004.4524,-3938.8971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑荘会土田整形外科医院,秋田県由利本荘市砂子下５３,リウマチ科　リハビリテーション科　整形外科,,,9" xlink:title="（医）緑荘会土田整形外科医院" transform="ref(svg,14003.7981,-3938.7316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）萬生苑医務室,秋田県由利本荘市水林２８４,内科,,,9" xlink:title="（特養）萬生苑医務室" transform="ref(svg,14002.6984,-3937.556)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県由利本荘保健所,秋田県由利本荘市水林４０８,内科,,,9" xlink:title="秋田県由利本荘保健所" transform="ref(svg,14003.4581,-3938.5723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム寿荘内医務室,秋田県由利本荘市水林４５７-４,精神科　内科,,,9" xlink:title="養護老人ホーム寿荘内医務室" transform="ref(svg,14002.554,-3937.689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）中央会（特養）ふるさと学び舎,秋田県由利本荘市土谷新谷地１５７,内科,,,9" xlink:title="（福）中央会（特養）ふるさと学び舎" transform="ref(svg,14006.94,-3939.1888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）おおうち内診療室,秋田県由利本荘市岩谷町ハケノ下８０-２,内科,,,9" xlink:title="（特養）おおうち内診療室" transform="ref(svg,14010.579,-3944.7788)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いとう内科医院,秋田県由利本荘市大内三川三川９,胃腸内科　内科,,,9" xlink:title="いとう内科医院" transform="ref(svg,14010.9096,-3944.5336)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,秋田県由利本荘市中田代板井沢１１４-７,小児科　小児外科　整形外科　内科,,,9" xlink:title="伊藤医院" transform="ref(svg,14022.313,-3943.0399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽井沢診療所,秋田県由利本荘市羽広七ツ鉢１,外科　小児科　内科,,,9" xlink:title="軽井沢診療所" transform="ref(svg,14028.4614,-3941.5047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）広洋苑内医務室,秋田県由利本荘市岩城内道川字上山１３４,内科,,,9" xlink:title="（特養）広洋苑内医務室" transform="ref(svg,14005.7238,-3954.6131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,風平診療所,秋田県由利本荘市岩城内道川馬道４４-７,小児科　内科,,,9" xlink:title="風平診療所" transform="ref(svg,14006.0019,-3955.1629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松ヶ崎診療所,秋田県由利本荘市神沢字浜辺１１１-１,小児科　消化器内科（胃腸内科）　内科,,,9" xlink:title="松ヶ崎診療所" transform="ref(svg,14004.3814,-3949.0308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あじさいの郷内医務室,秋田県由利本荘市水林４５９-２,外科　内科,,,9" xlink:title="（特養）あじさいの郷内医務室" transform="ref(svg,14003.3817,-3938.3643)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）夢うさぎ医務室,秋田県由利本荘市石脇字石の花１９４-２３０,内科,,,9" xlink:title="（特養）夢うさぎ医務室" transform="ref(svg,14003.6106,-3939.8619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石河ひふ科医院,秋田県大仙市花館葛野１１０-７,皮膚科,,,9" xlink:title="石河ひふ科医院" transform="ref(svg,14047.6367,-3947.6065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はら眼科,秋田県大仙市幸町１-５０,眼科,,,9" xlink:title="はら眼科" transform="ref(svg,14048.0636,-3947.0534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦クリニック,秋田県大仙市幸町４-２３-２,神経内科　整形外科　内科　脳神経外科　放射線科,,,9" xlink:title="三浦クリニック" transform="ref(svg,14047.8317,-3947.012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中島内科医院,秋田県大仙市朝日町１７-１,消化器内科（胃腸内科）　糖尿病内科（代謝内科）　内科,,,9" xlink:title="（医）中島内科医院" transform="ref(svg,14047.2794,-3946.816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）下山胃腸科内科医院,秋田県大仙市大曲福住町２-２３,外科　消化器内科（胃腸内科）　内科　肛門外科,,,9" xlink:title="（医）下山胃腸科内科医院" transform="ref(svg,14047.5312,-3946.4251)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大曲母子医院,秋田県大仙市大曲福住町８-１８,外科　産科　産婦人科（生殖医療）　心療内科　婦人科,,,9" xlink:title="大曲母子医院" transform="ref(svg,14047.5052,-3946.569)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）萌養会たかはし内科循環器科医院,秋田県大仙市大曲福住町９-２３,呼吸器内科　循環器内科　消化器内科（胃腸内科）　心療内科　内科,,,9" xlink:title="（医）萌養会たかはし内科循環器科医院" transform="ref(svg,14047.5462,-3946.6087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉方内科医院,秋田県大仙市大曲白金町５-３１,呼吸器内科　循環器内科　内科,,,9" xlink:title="吉方内科医院" transform="ref(svg,14047.2785,-3946.4709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こにし胃腸内科,秋田県大仙市福田町２１-２３-１３,消化器内科（胃腸内科）　内科,,,9" xlink:title="こにし胃腸内科" transform="ref(svg,14048.3347,-3946.9456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白鳥耳鼻咽喉科医院,秋田県大仙市福田町２２-２１-１０,耳鼻いんこう科,,,9" xlink:title="白鳥耳鼻咽喉科医院" transform="ref(svg,14048.1797,-3946.913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤耳鼻咽喉科医院,秋田県大仙市大曲黒瀬町３-１１,耳鼻いんこう科,,,9" xlink:title="佐藤耳鼻咽喉科医院" transform="ref(svg,14048.1291,-3946.1694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山下医院,秋田県大仙市大曲黒瀬町３-４５,胃腸内科　外科　肛門外科,,,9" xlink:title="（医）山下医院" transform="ref(svg,14048.1844,-3946.1649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかお皮ふ科,秋田県大仙市大曲黒瀬町６-３３-５,皮膚科,,,9" xlink:title="あかお皮ふ科" transform="ref(svg,14048.1853,-3946.2451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木村内科医院,秋田県大仙市大曲中通町３-３,循環器内科　小児科　消化器内科　内科,,,9" xlink:title="木村内科医院" transform="ref(svg,14047.8982,-3946.1164)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田医院,秋田県大仙市大曲中通町４-２０,循環器内科　小児科　内科,,,9" xlink:title="池田医院" transform="ref(svg,14048.0238,-3946.1733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田口医院,秋田県大仙市大曲丸の内町１０-２５,産科　心療内科　婦人科,,,9" xlink:title="（医）田口医院" transform="ref(svg,14047.5867,-3946.3373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慧眞会ケイメンタルクリニック,秋田県大仙市大曲通町１０-８,心療内科　精神科,,,9" xlink:title="（医）慧眞会ケイメンタルクリニック" transform="ref(svg,14047.7711,-3946.5592)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高橋久志眼科医院,秋田県大仙市大曲通町１２-２２,眼科,,,9" xlink:title="（医）高橋久志眼科医院" transform="ref(svg,14047.7413,-3946.6638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大曲眼科医院,秋田県大仙市大曲通町８-２０,眼科,,,9" xlink:title="（医）大曲眼科医院" transform="ref(svg,14047.8205,-3946.4925)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斉藤内科医院,秋田県大仙市大曲丸子町１２-４３,内科,,,9" xlink:title="斉藤内科医院" transform="ref(svg,14049.0093,-3945.999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐藤レディースクリニック,秋田県大仙市戸蒔谷地添１０６-１,産婦人科,,,9" xlink:title="（医）佐藤レディースクリニック" transform="ref(svg,14050.3339,-3945.0685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）吉村クリニック,秋田県大仙市戸蒔谷地添７１-１,小児科　内科,,,9" xlink:title="（医）吉村クリニック" transform="ref(svg,14050.3106,-3944.9922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小山田医院,秋田県大仙市大曲須和町１-４-２１,小児科,,,9" xlink:title="小山田医院" transform="ref(svg,14048.2684,-3945.6913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高津内科医院,秋田県大仙市大曲須和町２-８-３６,内科,,,9" xlink:title="（医）高津内科医院" transform="ref(svg,14048.6288,-3945.43)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほりえ眼科医院,秋田県大仙市大曲上大町１０-２４,眼科,,,9" xlink:title="ほりえ眼科医院" transform="ref(svg,14047.7788,-3945.7919)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒井医院,秋田県大仙市大曲上大町６-２２,消化器内科（胃腸内科）　内科,,,9" xlink:title="荒井医院" transform="ref(svg,14047.9398,-3945.6344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くしま産婦人科医院,秋田県大仙市幸町１-５３,産婦人科,,,9" xlink:title="くしま産婦人科医院" transform="ref(svg,14048.0546,-3947.0383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大石脳外科クリニック,秋田県大仙市大曲浜町７-４５,内科　脳神経外科　放射線科,,,9" xlink:title="大石脳外科クリニック" transform="ref(svg,14047.5303,-3945.9563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くどう整形外科,秋田県大仙市大曲船場町１-６-３,リハビリテーション科　整形外科,,,9" xlink:title="くどう整形外科" transform="ref(svg,14047.1451,-3945.8646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐々木内科医院,秋田県大仙市大曲上栄町１-２８,循環器内科　消化器内科（胃腸内科）　内科,,,9" xlink:title="（医）佐々木内科医院" transform="ref(svg,14047.5888,-3945.199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田県大仙保健所,秋田県大仙市大曲上栄町１３-６２,内科,,,9" xlink:title="秋田県大仙保健所" transform="ref(svg,14047.8628,-3945.0891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仲村内科胃腸科医院,秋田県大仙市大曲日の出町１-７-１５,アレルギー科　呼吸器内科　循環器内科　小児科　消化器内科（胃腸内科）　糖尿病内科（代謝内科）　内科　泌尿器科　皮膚科　放射線科　臨床検査科,,,9" xlink:title="仲村内科胃腸科医院" transform="ref(svg,14047.7107,-3944.8633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こもれびの杜,秋田県大仙市飯田堰東２３５,内科,,,9" xlink:title="（特養）こもれびの杜" transform="ref(svg,14048.5339,-3944.0395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,セイコーインスツル（株）秋田医務室,秋田県大仙市大曲西根鳥居５８-２,内科（健康相談）,,,9" xlink:title="セイコーインスツル（株）秋田医務室" transform="ref(svg,14044.7446,-3945.7693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）テンダーヒルズ医務室,秋田県大仙市内小友明通３６-２,内科,,,9" xlink:title="（特養）テンダーヒルズ医務室" transform="ref(svg,14043.825,-3943.1801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高階医院,秋田県大仙市四ツ屋西下瀬５７-６,形成外科　呼吸器内科　耳鼻いんこう科　小児科　皮膚科,,,9" xlink:title="高階医院" transform="ref(svg,14050.148,-3949.3822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柳田医院,秋田県大仙市横堀南福嶋９５-２,外科　小児科　消化器内科　内科　婦人科,,,9" xlink:title="柳田医院" transform="ref(svg,14054.5377,-3949.4933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）真森苑医務室,秋田県大仙市板見内一ツ森４１０,内科,,,9" xlink:title="（特養）真森苑医務室" transform="ref(svg,14053.4543,-3947.3542)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）桜寿苑医務室,秋田県大仙市北長野野口前４７,循環器内科　消化器内科（胃腸内科）　内科,,,9" xlink:title="（特養）桜寿苑医務室" transform="ref(svg,14054.7163,-3954.8494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滑川医院,秋田県大仙市長野九日町１５-１,循環器内科　小児科　消化器内科（胃腸内科）　内科,,,9" xlink:title="滑川医院" transform="ref(svg,14053.6539,-3954.3842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井内科胃腸科医院,秋田県大仙市長野新山７０-１,消化器内科（胃腸内科）　内科,,,9" xlink:title="石井内科胃腸科医院" transform="ref(svg,14054.707,-3954.2153)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,豊岡へき地診療所,秋田県大仙市豊岡中荒井野２１-１３,整形外科,,,9" xlink:title="豊岡へき地診療所" transform="ref(svg,14061.1269,-3955.8465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）後藤内科医院,秋田県大仙市高梨田茂木８７,呼吸器内科　循環器内科　小児科　内科,,,9" xlink:title="（医）後藤内科医院" transform="ref(svg,14050.5795,-3946.0974)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）荒川医院,秋田県大仙市角間川町下中町３２,循環器内科　小児科　内科,,,9" xlink:title="（医）荒川医院" transform="ref(svg,14048.3671,-3940.5865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サン・サルビア,秋田県大仙市角間川町元道巻９７,内科,,,9" xlink:title="（特養）サン・サルビア" transform="ref(svg,14048.0019,-3939.8635)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伊藤内科医院,秋田県大仙市角間川町町頭１７８-２,リハビリテーション科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　内科,,,9" xlink:title="（医）伊藤内科医院" transform="ref(svg,14047.8789,-3940.0112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平野整形外科クリニック,秋田県大仙市角間川町八幡前２８５-１,リウマチ科　リハビリテーション科　整形外科　内科　放射線科,,,9" xlink:title="（医）平野整形外科クリニック" transform="ref(svg,14048.2581,-3939.9995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田診療所,秋田県大仙市太田町横沢窪関南５０５-１,リハビリテーション科　小児科　消化器内科（胃腸内科）　内科,,,9" xlink:title="太田診療所" transform="ref(svg,14059.8839,-3951.0646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）真木苑医務室,秋田県大仙市太田町横沢窪関南５３５-１,内科,,,9" xlink:title="（特養）真木苑医務室" transform="ref(svg,14059.8746,-3950.9922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）紀信会神岡診療所,秋田県大仙市神宮寺本郷下６４-１,循環器内科　内科,,,9" xlink:title="（医）紀信会神岡診療所" transform="ref(svg,14042.1685,-3949.0673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）愛幸園医務室,秋田県大仙市神宮寺本郷道南７８,内科,,,9" xlink:title="（特養）愛幸園医務室" transform="ref(svg,14041.7305,-3949.1525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伊藤医院,秋田県大仙市南外落合２２,内科,,,9" xlink:title="（医）伊藤医院" transform="ref(svg,14036.3553,-3945.4072)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）紀信会八嶋医院,秋田県大仙市南外悪戸野４９,内科,,,9" xlink:title="（医）紀信会八嶋医院" transform="ref(svg,14036.2361,-3944.8821)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）福寿園医務室,秋田県大仙市南外湯神台１０,内科,,,9" xlink:title="（特養）福寿園医務室" transform="ref(svg,14035.9864,-3942.8362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ウォームハート医務室,秋田県大仙市刈和野愛宕町１７-１,外科　整形外科　内科,,,9" xlink:title="（特養）ウォームハート医務室" transform="ref(svg,14037.0215,-3954.4286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康晴会生和堂医院,秋田県大仙市刈和野清光院後１５-２,小児科　内科,,,9" xlink:title="（医）康晴会生和堂医院" transform="ref(svg,14037.323,-3954.4288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）黒澤医院,秋田県大仙市刈和野清光院後２４-１,内科　泌尿器科,,,9" xlink:title="（医）黒澤医院" transform="ref(svg,14037.2946,-3954.4593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）六正会佐藤医院,秋田県大仙市刈和野清光院後４２-３５,外科　内科,,,9" xlink:title="（医）六正会佐藤医院" transform="ref(svg,14037.0888,-3954.4579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤本医院,秋田県大仙市刈和野北ノ沢１０７-２,内科,,,9" xlink:title="藤本医院" transform="ref(svg,14037.5213,-3954.2021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ありすの街,秋田県大仙市強首上野台２３-１８,基本診療科,,,9" xlink:title="（特養）ありすの街" transform="ref(svg,14031.7558,-3953.3801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）柏仁会障がい者支援施設柏の郷,秋田県大仙市強首上野台２３-１８,内科,,,9" xlink:title="（福）柏仁会障がい者支援施設柏の郷" transform="ref(svg,14031.7558,-3953.3801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慧眞会小種診療所,秋田県大仙市協和小種字上鏡台２-７,内科,,,9" xlink:title="（医）慧眞会小種診療所" transform="ref(svg,14026.1592,-3952.938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）長慶会豊島医院,秋田県大仙市協和境野田８６,小児科　内科,,,9" xlink:title="（医）長慶会豊島医院" transform="ref(svg,14032.1318,-3961.7807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沢内診療所,秋田県大仙市協和船岡沢内６７７,小児科　内科,,,9" xlink:title="沢内診療所" transform="ref(svg,14037.4079,-3967.4059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千裕会荒川診療所,秋田県大仙市協和荒川平城２２,内科,,,9" xlink:title="（医）千裕会荒川診療所" transform="ref(svg,14034.7957,-3961.4283)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千裕会佐藤内科クリニック,秋田県大仙市協和峰吉川半仙１１４,内科,,,9" xlink:title="（医）千裕会佐藤内科クリニック" transform="ref(svg,14032.6729,-3958.3417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）峰山荘医務室,秋田県大仙市協和峰吉川半仙２９-９０,内科,,,9" xlink:title="（特養）峰山荘医務室" transform="ref(svg,14032.7434,-3958.4053)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今村内科循環器科医院,秋田県仙北市角館町田町上丁３,循環器内科　内科,,,9" xlink:title="今村内科循環器科医院" transform="ref(svg,14056.4549,-3959.3994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）むつみ会野々部外科内科医院,秋田県仙北市角館町田町上丁５２-１,胃腸内科　外科　内科,,,9" xlink:title="（医）むつみ会野々部外科内科医院" transform="ref(svg,14056.6237,-3959.3177)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅原医院,秋田県仙北市角館町田町上丁６５,耳鼻いんこう科,,,9" xlink:title="菅原医院" transform="ref(svg,14056.6454,-3959.2098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鬼川医院,秋田県仙北市角館町田町下丁１７,リハビリテーション科　眼科　整形外科,,,9" xlink:title="鬼川医院" transform="ref(svg,14056.5522,-3959.0972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤医院,秋田県仙北市角館町下新町１３,外科　小児科　内科　皮膚科,,,9" xlink:title="佐藤医院" transform="ref(svg,14056.4406,-3959.0842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野医院,秋田県仙北市角館町東勝楽丁１７,耳鼻いんこう科　内科,,,9" xlink:title="大野医院" transform="ref(svg,14056.267,-3959.6431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）かくのだて桜苑医務室,秋田県仙北市角館町菅沢１５-１,内科,,,9" xlink:title="（特養）かくのだて桜苑医務室" transform="ref(svg,14057.6345,-3958.9634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム角館寿楽荘医務室,秋田県仙北市角館町白岩上西野８７-１３,内科,,,9" xlink:title="養護老人ホーム角館寿楽荘医務室" transform="ref(svg,14061.1475,-3958.5874)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長山眼科医院,秋田県仙北市角館町中菅沢４５-２,眼科,,,9" xlink:title="長山眼科医院" transform="ref(svg,14056.9912,-3959.0356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おおさわ胃腸科内科クリニック,秋田県仙北市角館町中菅沢９２-２０,消化器内科（胃腸内科）　内科,,,9" xlink:title="（医）おおさわ胃腸科内科クリニック" transform="ref(svg,14056.8856,-3959.3308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仙北市西明寺診療所,秋田県仙北市西木町門屋道目木３１９-１,外科　内科　泌尿器科,,,9" xlink:title="仙北市西明寺診療所" transform="ref(svg,14056.7427,-3966.0238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）県南ふくし会（特養）清流苑,秋田県仙北市西木町桧木内松葉２３２,内科,,,9" xlink:title="（福）県南ふくし会（特養）清流苑" transform="ref(svg,14059.1088,-3974.3207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仙北市桧木内診療所,秋田県仙北市西木町桧木内松葉２３２,外科　内科　泌尿器科,,,9" xlink:title="仙北市桧木内診療所" transform="ref(svg,14059.1088,-3974.3207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明和会神代中通診療所,秋田県仙北市田沢湖卒田早稲田４２５-１,内科,,,9" xlink:title="（医）明和会神代中通診療所" transform="ref(svg,14059.7992,-3962.3778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仙北市国民健康保険神代診療所,秋田県仙北市田沢湖神代野中清水２１６-４,呼吸器内科　小児科　内科,,,9" xlink:title="仙北市国民健康保険神代診療所" transform="ref(svg,14059.7001,-3962.3294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本整形外科医院,秋田県仙北市田沢湖小松城廻り９１-２,整形外科,,,9" xlink:title="橋本整形外科医院" transform="ref(svg,14056.7926,-3960.5539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仙南診療所,秋田県仙北郡美郷町金沢西根上糠渕３１-１,リハビリテーション科　小児科　内科,,,9" xlink:title="仙南診療所" transform="ref(svg,14052.6621,-3938.7051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ロートピア仙南,秋田県仙北郡美郷町金沢西根上糠渕３-２,内科,,,9" xlink:title="（特養）ロートピア仙南" transform="ref(svg,14052.8402,-3938.6593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武藤医院,秋田県仙北郡美郷町野中下明子２１４,小児科　内科,,,9" xlink:title="武藤医院" transform="ref(svg,14055.6131,-3942.6123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）亀谷医院,秋田県仙北郡美郷町野中宮崎８６-７,胃腸内科　外科　整形外科　内科　肛門外科,,,9" xlink:title="（医）亀谷医院" transform="ref(svg,14055.788,-3941.8776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ロートピア緑泉,秋田県仙北郡美郷町六郷作山１８７,内科,,,9" xlink:title="（特養）ロートピア緑泉" transform="ref(svg,14055.6223,-3941.5416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,栗林外科医院,秋田県仙北郡美郷町六郷新町３３-１,外科　循環器内科　消化器内科（胃腸内科）　泌尿器科　皮膚科,,,9" xlink:title="栗林外科医院" transform="ref(svg,14054.7705,-3941.9424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杏真会まっこいしゃ高橋医院,秋田県仙北郡美郷町六郷馬町６４,リハビリテーション科　小児科　消化器内科　内科,,,9" xlink:title="（医）杏真会まっこいしゃ高橋医院" transform="ref(svg,14054.9102,-3942.4564)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しんどう内科クリニック,秋田県仙北郡美郷町六郷八百刈８７-３,呼吸器内科　循環器内科　内科,,,9" xlink:title="しんどう内科クリニック" transform="ref(svg,14053.8769,-3942.3182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）真昼荘医務室,秋田県仙北郡美郷町本堂城回若林１１９,内科,,,9" xlink:title="（特養）真昼荘医務室" transform="ref(svg,14058.604,-3947.2368)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）全人会千畑クリニック,秋田県仙北郡美郷町土崎上野２３０-１,外科　小児科　整形外科　内科,,,9" xlink:title="（医）全人会千畑クリニック" transform="ref(svg,14058.0637,-3946.101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あい内科クリニック日の出,秋田県大仙市大曲日の出町２-４-４６,漢方内科　消化器内科　内科,,,9" xlink:title="あい内科クリニック日の出" transform="ref(svg,14048.0331,-3944.4483)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大曲整形外科クリニック,秋田県大仙市大花町１１-６-８,リハビリテーション科　整形外科,,,9" xlink:title="大曲整形外科クリニック" transform="ref(svg,14048.1021,-3946.7254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沢口内科医院,秋田県横手市金沢中野根小屋１６５-２９,アレルギー科　感染症内科　呼吸器内科　循環器内科　小児科　消化器内科（胃腸内科）　糖尿病内科（代謝内科）　内科,,,9" xlink:title="沢口内科医院" transform="ref(svg,14057.2286,-3937.6499)" x="0" y="0"/>
+</g>
+</svg>

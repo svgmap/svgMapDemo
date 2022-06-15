@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13236.328125 -3445.3125 17.578125 17.578125" go:dataArea="13236.328125 -3445.3125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,うりゅう歯科医院,広島県広島市中区昭和町６-２８,歯科,,,9" xlink:title="うりゅう歯科医院" transform="ref(svg,13246.524,-3438.3203)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上川歯科医院,広島県広島市中区西白島町２２-５８,歯科　小児歯科,,,9" xlink:title="上川歯科医院" transform="ref(svg,13245.8183,-3440.6714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,紙屋町歯科医院,広島県広島市中区紙屋町１-５-１０,歯科,,,9" xlink:title="紙屋町歯科医院" transform="ref(svg,13245.9231,-3439.3996)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ア歯科広島東グループ小松診療所,広島県広島市中区西平塚町８-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="ア歯科広島東グループ小松診療所" transform="ref(svg,13246.5757,-3438.8123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,広島県広島市中区東白島町１３-５,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13246.3793,-3440.5208)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤本歯科医院,広島県広島市中区銀山町１４-２２,歯科,,,9" xlink:title="藤本歯科医院" transform="ref(svg,13246.7718,-3439.0904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松島歯科医院,広島県広島市中区吉島町１-１２,歯科,,,9" xlink:title="松島歯科医院" transform="ref(svg,13244.8503,-3438.1147)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宗像歯科医院,広島県広島市中区東白島町１８-４,歯科　矯正歯科,,,9" xlink:title="宗像歯科医院" transform="ref(svg,13246.6113,-3440.3926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本山歯科医院,広島県広島市中区上八丁堀７-９,歯科,,,9" xlink:title="本山歯科医院" transform="ref(svg,13246.3712,-3439.8469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,門前歯科医院,広島県広島市中区東千田町１-１-３８,歯科,,,9" xlink:title="門前歯科医院" transform="ref(svg,13246.0093,-3438.0953)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青景歯科医院,広島県広島市中区江波二本松２-１０-３５,歯科,,,9" xlink:title="青景歯科医院" transform="ref(svg,13243.1711,-3436.6024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡野歯科医院,広島県広島市中区舟入南３-１９-１,歯科,,,9" xlink:title="岡野歯科医院" transform="ref(svg,13243.6801,-3437.5986)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阪口歯科医院,広島県広島市中区舟入幸町１３-１６,歯科,,,9" xlink:title="阪口歯科医院" transform="ref(svg,13243.9708,-3438.4897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土橋歯科診療所,広島県広島市中区小網町２-１９,歯科,,,9" xlink:title="土橋歯科診療所" transform="ref(svg,13244.5291,-3439.4027)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新見歯科医院,広島県広島市中区堺町１-２-１０,歯科,,,9" xlink:title="新見歯科医院" transform="ref(svg,13244.8859,-3439.4381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中国歯科クリニック,広島県広島市中区土橋町７-１中国新聞ビル２Ｆ,歯科,,,9" xlink:title="中国歯科クリニック" transform="ref(svg,13244.8831,-3439.2238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,愛児歯科医院,広島県広島市中区大手町５-２-２０鷹の橋パークビル３Ｆ,歯科　矯正歯科,,,9" xlink:title="愛児歯科医院" transform="ref(svg,13245.2062,-3438.458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大石歯科医院,広島県広島市中区新天地６-１２新天地ＭＲビル２階,歯科,,,9" xlink:title="大石歯科医院" transform="ref(svg,13246.3054,-3439.1004)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤岡歯科診療所,広島県広島市中区猫屋町３-２８,歯科　小児歯科,,,9" xlink:title="藤岡歯科診療所" transform="ref(svg,13244.7094,-3439.5017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）センタービル歯科,広島県広島市中区基町６-２７,歯科,,,9" xlink:title="（医）センタービル歯科" transform="ref(svg,13245.7091,-3439.5979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八丁堀歯科医院,広島県広島市中区八丁堀３-８白峯ビル４０３,歯科,,,9" xlink:title="八丁堀歯科医院" transform="ref(svg,13246.3122,-3439.6645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今田矯正歯科,広島県広島市中区八丁堀３-８ハイネス白峯ビル４０４,矯正歯科,,,9" xlink:title="今田矯正歯科" transform="ref(svg,13246.3122,-3439.6645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広島歯科クリニック,広島県広島市中区上幟町３-２３吉岡ビル１Ｆ,歯科,,,9" xlink:title="広島歯科クリニック" transform="ref(svg,13246.5489,-3439.9082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,熊谷歯科医院,広島県広島市中区西十日市町１-４,歯科,,,9" xlink:title="熊谷歯科医院" transform="ref(svg,13244.7084,-3439.8589)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こうざい歯科医院,広島県広島市中区光南２-１０-１,歯科,,,9" xlink:title="こうざい歯科医院" transform="ref(svg,13244.6179,-3436.8277)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梅田歯科医院,広島県広島市中区本川町１-１-２７,歯科,,,9" xlink:title="梅田歯科医院" transform="ref(svg,13245.0946,-3439.6461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科医院,広島県広島市中区富士見町１-１,歯科,,,9" xlink:title="村上歯科医院" transform="ref(svg,13246.3868,-3438.712)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こじま矯正歯科,広島県広島市中区河原町２-１３,矯正歯科,,,9" xlink:title="こじま矯正歯科" transform="ref(svg,13244.6238,-3439.1435)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平野歯科医院,広島県広島市中区光南１-９-１８,歯科　小児歯科,,,9" xlink:title="平野歯科医院" transform="ref(svg,13244.8615,-3436.7602)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植木歯科医院,広島県広島市中区幟町１３-２３,歯科,,,9" xlink:title="植木歯科医院" transform="ref(svg,13246.5331,-3439.3735)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梶谷歯科医院,広島県広島市中区東白島町１７-２８,歯科　矯正歯科　小児歯科,,,9" xlink:title="梶谷歯科医院" transform="ref(svg,13246.6481,-3440.3909)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河田歯科,広島県広島市中区八丁堀１４-１０新八丁堀ビル７Ｆ,歯科,,,9" xlink:title="河田歯科" transform="ref(svg,13246.3453,-3439.4505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）久米歯科医院,広島県広島市中区西平塚町７-２４,歯科,,,9" xlink:title="（医）久米歯科医院" transform="ref(svg,13246.703,-3438.8962)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒谷歯科医院,広島県広島市中区大手町２-５-６,歯科,,,9" xlink:title="荒谷歯科医院" transform="ref(svg,13245.5195,-3439.2324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関野歯科クリニック,広島県広島市中区千田町１-４-１７,歯科　矯正歯科,,,9" xlink:title="関野歯科クリニック" transform="ref(svg,13245.3638,-3438.2258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川越歯科医院,広島県広島市中区江波南３-３-１４,歯科,,,9" xlink:title="川越歯科医院" transform="ref(svg,13243.0881,-3436.4784)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）みずほ会清水歯科医院,広島県広島市中区基町１１-５和光紙屋町ビル２Ｆ,歯科,,,9" xlink:title="（医）みずほ会清水歯科医院" transform="ref(svg,13245.9204,-3439.5209)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あき歯科医院,広島県広島市中区三川町９-１２ミヤケビル３Ｆ,歯科,,,9" xlink:title="あき歯科医院" transform="ref(svg,13246.2311,-3438.8641)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,住田歯科,広島県広島市中区袋町７-３,歯科,,,9" xlink:title="住田歯科" transform="ref(svg,13246.1136,-3439.1364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津田歯科医院,広島県広島市中区大手町３-６-１９,歯科,,,9" xlink:title="津田歯科医院" transform="ref(svg,13245.38,-3438.7813)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）柄歯科医院,広島県広島市中区本通７-３０,歯科,,,9" xlink:title="（医）柄歯科医院" transform="ref(svg,13245.8096,-3439.3132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鳴戸歯科医院,広島県広島市中区橋本町５-１,歯科,,,9" xlink:title="鳴戸歯科医院" transform="ref(svg,13246.9381,-3439.4439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河村歯科医院,広島県広島市中区昭和町４-２２-２０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="河村歯科医院" transform="ref(svg,13246.341,-3438.3839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植木矯正歯科診療所,広島県広島市中区幟町１３-２３,矯正歯科,,,9" xlink:title="植木矯正歯科診療所" transform="ref(svg,13246.5331,-3439.3812)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉田歯科医院,広島県広島市中区舟入中町３-６,歯科,,,9" xlink:title="玉田歯科医院" transform="ref(svg,13244.3849,-3438.7913)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大坪歯科医院,広島県広島市中区住吉町１３-１０,歯科,,,9" xlink:title="大坪歯科医院" transform="ref(svg,13244.9101,-3438.3042)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古胡歯科医院,広島県広島市中区八丁堀６-１１-６０１ダイヤグレイス八丁堀６Ｆ,歯科,,,9" xlink:title="古胡歯科医院" transform="ref(svg,13246.3194,-3439.5958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高田歯科医院,広島県広島市中区上八丁堀５-１５新沢ビル４Ｆ,歯科,,,9" xlink:title="高田歯科医院" transform="ref(svg,13246.3648,-3439.9433)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,能勢歯科医院,広島県広島市中区上幟町１０-１５畠田ビル１Ｆ,歯科,,,9" xlink:title="能勢歯科医院" transform="ref(svg,13246.79,-3439.7245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大手町歯科医院,広島県広島市中区大手町３-８-１７,歯科　矯正歯科　小児歯科,,,9" xlink:title="大手町歯科医院" transform="ref(svg,13245.375,-3438.6949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,辻歯科医院,広島県広島市中区基町１３-１３平和生命ビル５Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="辻歯科医院" transform="ref(svg,13246.0449,-3439.4916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河野歯科,広島県広島市中区国泰寺町１-７-２８-２Ａ,歯科　小児歯科,,,9" xlink:title="河野歯科" transform="ref(svg,13245.6279,-3438.5416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒川歯科,広島県広島市中区袋町６-５３,歯科,,,9" xlink:title="荒川歯科" transform="ref(svg,13245.9457,-3439.1929)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）前野歯科,広島県広島市中区堺町２-４-１１,歯科　小児歯科,,,9" xlink:title="（医）前野歯科" transform="ref(svg,13244.4503,-3439.4574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大西歯科医院,広島県広島市中区八丁堀１５-６,歯科,,,9" xlink:title="大西歯科医院" transform="ref(svg,13246.3289,-3439.4117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,広島県広島市中区榎町１０-１３,歯科,,,9" xlink:title="前田歯科医院" transform="ref(svg,13244.6343,-3439.6053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小田歯科医院,広島県広島市中区白島北町３-１,歯科,,,9" xlink:title="小田歯科医院" transform="ref(svg,13246.3263,-3441.1114)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）のぶもと歯科,広島県広島市中区宝町９-２５,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）のぶもと歯科" transform="ref(svg,13246.1732,-3438.4635)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,香川歯科,広島県広島市中区八丁堀１６-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="香川歯科" transform="ref(svg,13246.1819,-3439.4507)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,広島県広島市中区南竹屋町６-４,歯科　小児歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13246.1401,-3438.1651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）森田会平和通り歯科口腔外科全日空ホテル診療所,広島県広島市中区中町７-２０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）森田会平和通り歯科口腔外科全日空ホテル診療所" transform="ref(svg,13245.6895,-3439.0364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,光山歯科医院,広島県広島市中区舟入幸町７-１４,歯科,,,9" xlink:title="光山歯科医院" transform="ref(svg,13244.2772,-3438.3954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ムネヒサ歯科クリニック,広島県広島市中区大手町１-４-３２,歯科,,,9" xlink:title="ムネヒサ歯科クリニック" transform="ref(svg,13245.5982,-3439.494)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山岡歯科医院,広島県広島市中区羽衣町１６-４３,歯科,,,9" xlink:title="山岡歯科医院" transform="ref(svg,13244.9689,-3437.7254)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花岡矯正歯科クリニック,広島県広島市中区大手町１-１-２０,矯正歯科,,,9" xlink:title="花岡矯正歯科クリニック" transform="ref(svg,13245.5148,-3439.5512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森野歯科医院,広島県広島市中区白島北町１４-２３,歯科　小児歯科,,,9" xlink:title="森野歯科医院" transform="ref(svg,13246.2992,-3440.8706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,広島県広島市中区国泰寺町１-３-１２,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13245.5648,-3438.7344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどり歯科医院,広島県広島市中区舟入南４-１５-１０,歯科,,,9" xlink:title="みどり歯科医院" transform="ref(svg,13243.7732,-3437.5463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本通り歯科,広島県広島市中区紙屋町２-３-１,歯科,,,9" xlink:title="本通り歯科" transform="ref(svg,13245.6811,-3439.3536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つか矯正歯科,広島県広島市中区本通７-３０,矯正歯科,,,9" xlink:title="つか矯正歯科" transform="ref(svg,13245.8096,-3439.3132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石嶋歯科医院,広島県広島市中区江波西１-２５-６,歯科　小児歯科,,,9" xlink:title="石嶋歯科医院" transform="ref(svg,13243.5604,-3437.1633)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有田歯科医院,広島県広島市中区小町６-２３,歯科,,,9" xlink:title="有田歯科医院" transform="ref(svg,13245.7149,-3438.7857)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いまい歯科医院,広島県広島市中区富士見町１２-７,歯科　小児歯科,,,9" xlink:title="いまい歯科医院" transform="ref(svg,13246.0678,-3438.5981)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,広島県広島市中区三川町７-２１,歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13246.1822,-3438.9876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,広島県広島市中区本通８-３２,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13245.98,-3439.2741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科医院,広島県広島市中区本通８-２吉井ビル,歯科,,,9" xlink:title="佐々木歯科医院" transform="ref(svg,13245.9951,-3439.2658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立町歯科クリニック,広島県広島市中区立町２-２９,歯科　矯正歯科,,,9" xlink:title="立町歯科クリニック" transform="ref(svg,13246.0758,-3439.4062)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどり小児歯科クリニック,広島県広島市中区新天地５-１２,小児歯科,,,9" xlink:title="みどり小児歯科クリニック" transform="ref(svg,13246.1753,-3439.1187)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鎌田歯科クリニック,広島県広島市中区舟入南２-１-５,歯科,,,9" xlink:title="鎌田歯科クリニック" transform="ref(svg,13243.9044,-3438.0098)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐野歯科クリニック,広島県広島市中区大手町３-８-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐野歯科クリニック" transform="ref(svg,13245.4511,-3438.7094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐伯小児歯科,広島県広島市中区吉島西１-２２-８,歯科　小児歯科,,,9" xlink:title="佐伯小児歯科" transform="ref(svg,13244.815,-3438.172)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大崎歯科医院,広島県広島市中区西十日市町１０-１２,歯科,,,9" xlink:title="大崎歯科医院" transform="ref(svg,13244.4618,-3439.8073)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆずりは歯科,広島県広島市中区十日市町１-４-２５,歯科　小児歯科,,,9" xlink:title="ゆずりは歯科" transform="ref(svg,13244.8305,-3439.6949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アーバン歯科,広島県広島市中区大手町３-１３-８,歯科,,,9" xlink:title="アーバン歯科" transform="ref(svg,13245.3907,-3438.6403)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広島口腔保健センター,広島県広島市中区富士見町１１-９,歯科,,,9" xlink:title="広島口腔保健センター" transform="ref(svg,13246.2648,-3438.6506)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森田歯科医院,広島県広島市中区幟町１４-１４,歯科,,,9" xlink:title="森田歯科医院" transform="ref(svg,13246.6491,-3439.3437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,芦浦歯科医院,広島県広島市中区胡町６-２６,歯科,,,9" xlink:title="芦浦歯科医院" transform="ref(svg,13246.2638,-3439.3552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつだ歯科クリニック,広島県広島市中区東平塚町８-２,歯科,,,9" xlink:title="まつだ歯科クリニック" transform="ref(svg,13246.8886,-3438.857)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森本歯科医院,広島県広島市中区光南１-１０-２０,歯科,,,9" xlink:title="森本歯科医院" transform="ref(svg,13244.8013,-3436.777)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,千田町歯科クリニック,広島県広島市中区千田町２-１-１０,歯科,,,9" xlink:title="千田町歯科クリニック" transform="ref(svg,13245.6843,-3437.9022)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松井歯科,広島県広島市中区舟入本町１３-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="松井歯科" transform="ref(svg,13244.1972,-3438.4949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）誠美会川原歯科医院,広島県広島市中区幟町６-２６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）誠美会川原歯科医院" transform="ref(svg,13246.6463,-3439.523)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ロイヤル歯科クリニック・ロイヤル矯正歯科,広島県広島市中区基町６-７８リーガロイヤルホテル広島１０Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="ロイヤル歯科クリニック・ロイヤル矯正歯科" transform="ref(svg,13245.7114,-3439.7357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もりた歯科医院,広島県広島市中区基町１-２０オプリビル３Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="もりた歯科医院" transform="ref(svg,13246.1592,-3439.8148)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂木歯科医院,広島県広島市中区舟入町９-７,歯科　小児歯科,,,9" xlink:title="坂木歯科医院" transform="ref(svg,13244.3584,-3438.9696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せと歯科クリニック,広島県広島市中区大手町３-１-１１平野ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="せと歯科クリニック" transform="ref(svg,13245.5009,-3438.8597)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科クリニック,広島県広島市中区八丁堀１１-１８,歯科,,,9" xlink:title="橋本歯科クリニック" transform="ref(svg,13246.2038,-3439.5058)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きむら矯正歯科クリニック,広島県広島市中区大手町２-１-６大手町高橋ビル７Ｆ,矯正歯科,,,9" xlink:title="きむら矯正歯科クリニック" transform="ref(svg,13245.6418,-3439.2842)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おざき歯科医院,広島県広島市中区白島九軒町１４-５-２０４,歯科,,,9" xlink:title="おざき歯科医院" transform="ref(svg,13246.8268,-3440.6981)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やない歯科クリニック,広島県広島市中区江波東１-１２-５０,歯科,,,9" xlink:title="やない歯科クリニック" transform="ref(svg,13243.7466,-3437.2752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中町歯科医院,広島県広島市中区中町５-８第二下中町ビル,歯科,,,9" xlink:title="中町歯科医院" transform="ref(svg,13245.9024,-3438.9947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）寿盛会林原歯科クリニック,広島県広島市中区舟入南２-１-１,歯科　矯正歯科,,,9" xlink:title="（医）寿盛会林原歯科クリニック" transform="ref(svg,13243.9238,-3438.0273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三宅歯科医院,広島県広島市中区光南１-３-２６,歯科,,,9" xlink:title="三宅歯科医院" transform="ref(svg,13244.7776,-3436.9337)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,広島県広島市中区橋本町１０-１,歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,13246.8554,-3439.3458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森本歯科クリニック,広島県広島市中区白島九軒町２４-３-１０１,歯科　小児歯科,,,9" xlink:title="森本歯科クリニック" transform="ref(svg,13246.8038,-3440.5445)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大谷歯科クリニック,広島県広島市中区大手町２-７-２６,歯科,,,9" xlink:title="大谷歯科クリニック" transform="ref(svg,13245.621,-3439.24)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央公園歯科クリニック,広島県広島市中区基町１８-２-２,歯科,,,9" xlink:title="中央公園歯科クリニック" transform="ref(svg,13245.5369,-3440.3044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科,広島県広島市中区銀山町６-２３,歯科,,,9" xlink:title="橋本歯科" transform="ref(svg,13246.8015,-3439.1895)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおの矯正歯科クリニック,広島県広島市中区大手町５-７-２７,矯正歯科　小児歯科,,,9" xlink:title="おおの矯正歯科クリニック" transform="ref(svg,13245.3189,-3438.3388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広島記念診療所,広島県広島市中区十日市町１-６-８,歯科,,,9" xlink:title="広島記念診療所" transform="ref(svg,13244.864,-3439.5746)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながさき歯科,広島県広島市中区大手町３-１０-６,歯科　歯科口腔外科,,,9" xlink:title="ながさき歯科" transform="ref(svg,13245.3196,-3438.7682)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科クリニック,広島県広島市中区本川町２-１-２４,歯科　歯科口腔外科,,,9" xlink:title="中村歯科クリニック" transform="ref(svg,13245.136,-3439.7746)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ティースプラザ歯科,広島県広島市中区中町６-３０,歯科,,,9" xlink:title="（医）ティースプラザ歯科" transform="ref(svg,13245.8454,-3439.0679)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊勢田歯科医院,広島県広島市中区鉄砲町１-２５,歯科,,,9" xlink:title="伊勢田歯科医院" transform="ref(svg,13246.5372,-3439.739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひで歯科医院,広島県広島市中区西平塚町４-１０,歯科,,,9" xlink:title="ひで歯科医院" transform="ref(svg,13246.8228,-3438.9494)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田本デンタルオフィス,広島県広島市中区紙屋町２-２-２,歯科,,,9" xlink:title="和田本デンタルオフィス" transform="ref(svg,13245.7198,-3439.4601)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仁野歯科クリニック,広島県広島市中区八丁堀１２-２２,歯科,,,9" xlink:title="仁野歯科クリニック" transform="ref(svg,13246.3569,-3439.5383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）小町歯科クリニック,広島県広島市中区小町２-２０,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）小町歯科クリニック" transform="ref(svg,13245.7369,-3438.8529)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,並木歯科クリニック,広島県広島市中区富士見町４-１７-２０２,歯科,,,9" xlink:title="並木歯科クリニック" transform="ref(svg,13246.0398,-3438.7782)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）樹会袋町深井歯科医院,広島県広島市中区袋町６-４２,歯科,,,9" xlink:title="（医）樹会袋町深井歯科医院" transform="ref(svg,13245.849,-3439.2168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,熊谷歯科クリニック,広島県広島市西十日市町１-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="熊谷歯科クリニック" transform="ref(svg,13244.7085,-3439.8599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石本歯科医院,広島県広島市中区鉄砲町９-２４カサヴェルデ八丁堀２Ｆ,歯科　矯正歯科,,,9" xlink:title="石本歯科医院" transform="ref(svg,13246.4893,-3439.4551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,南青山デンタルクリニック広島医院,広島県広島市中区胡町４-２４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="南青山デンタルクリニック広島医院" transform="ref(svg,13246.5371,-3439.2972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,広島県広島市中区大手町５-４-１４,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13245.0884,-3438.4102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沢田歯科医院,広島県広島市中区新天地４-１０　１Ｆ,歯科,,,9" xlink:title="沢田歯科医院" transform="ref(svg,13246.1813,-3439.1824)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保木歯科医院,広島県広島市中区袋町５-３,歯科,,,9" xlink:title="久保木歯科医院" transform="ref(svg,13245.7942,-3439.1515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）森田会平和通り歯科口腔外科,広島県広島市中区中町７-２２,歯科　矯正歯科,,,9" xlink:title="（医）森田会平和通り歯科口腔外科" transform="ref(svg,13245.6803,-3439.0685)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,押尾歯科医院,広島県広島市中区東白島町１１-１１,歯科　小児歯科,,,9" xlink:title="押尾歯科医院" transform="ref(svg,13246.3691,-3440.6121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,十日市歯科クリニック,広島県広島市中区十日市町１-５-２８,歯科,,,9" xlink:title="十日市歯科クリニック" transform="ref(svg,13244.8865,-3439.6562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おやま歯科・矯正歯科クリニック,広島県広島市中区本川町１-１-２２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おやま歯科・矯正歯科クリニック" transform="ref(svg,13245.0416,-3439.6564)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,波田歯科医院,広島県広島市中区吉島西１-２０-５,歯科,,,9" xlink:title="波田歯科医院" transform="ref(svg,13244.8504,-3437.4395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヘルスケア歯科クリニック,広島県広島市中区袋町４-３滝口ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ヘルスケア歯科クリニック" transform="ref(svg,13245.8144,-3439.2233)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中の棚口腔外科歯科クリニック,広島県広島市中区立町５-１４-３Ｆ中の棚バナナ館３Ｆ,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="中の棚口腔外科歯科クリニック" transform="ref(svg,13246.125,-3439.3676)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日本橋デンタル・広島,広島県広島市中区立町１-４,歯科,,,9" xlink:title="日本橋デンタル・広島" transform="ref(svg,13246.2181,-3439.3678)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしたか歯科医院,広島県広島市中区河原町９-１０,歯科　小児歯科,,,9" xlink:title="よしたか歯科医院" transform="ref(svg,13244.5647,-3438.9961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あらみつ歯科医院,広島県広島市中区舟入本町３-１６,歯科,,,9" xlink:title="あらみつ歯科医院" transform="ref(svg,13244.3908,-3438.569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三宅歯科,広島県広島市中区住吉町２-１０,歯科　矯正歯科,,,9" xlink:title="三宅歯科" transform="ref(svg,13244.8862,-3438.4559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わかさ歯科クリニック,広島県広島市中区大手町４-１-１平和ビル２０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="わかさ歯科クリニック" transform="ref(svg,13245.3927,-3438.5977)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしもと歯科クリニック,広島県広島市中区千田町１-１２-１９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はしもと歯科クリニック" transform="ref(svg,13245.5478,-3438.0604)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広島中央矯正歯科,広島県広島市中区八丁堀１１-１０,矯正歯科,,,9" xlink:title="広島中央矯正歯科" transform="ref(svg,13246.2454,-3439.4978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,広島県広島市中区鉄砲町１０-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,13246.3878,-3439.4063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金のすず歯科,広島県広島市中区大手町５-７-３,歯科,,,9" xlink:title="金のすず歯科" transform="ref(svg,13245.3357,-3438.3193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＡＩＣデンタルクリニック,広島県広島市中区中町８-６,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ＡＩＣデンタルクリニック" transform="ref(svg,13245.8853,-3438.9697)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ブライドデンタルクリニック,広島県広島市中区三川町２-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ブライドデンタルクリニック" transform="ref(svg,13246.2145,-3439.0247)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科,広島県広島市中区大手町２-７-２,歯科,,,9" xlink:title="田中歯科" transform="ref(svg,13245.6313,-3439.238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池本歯科医院,広島県広島市中区加古町１-２７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="池本歯科医院" transform="ref(svg,13245.0415,-3438.8767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,九軒町歯科,広島県広島市中区白島九軒町６-９,歯科　小児歯科,,,9" xlink:title="九軒町歯科" transform="ref(svg,13246.6032,-3440.7668)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,春野歯科クリニック,広島県広島市中区大手町１-７-１４-２０１,歯科,,,9" xlink:title="春野歯科クリニック" transform="ref(svg,13245.4466,-3439.4082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こうぎんビル中島デンタルクリニック,広島県広島市中区立町１-２３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こうぎんビル中島デンタルクリニック" transform="ref(svg,13246.1537,-3439.3904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久米歯科医院,広島県広島市中区千田町３-１０-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="久米歯科医院" transform="ref(svg,13245.8334,-3437.6654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科矯正歯科クリニック,広島県広島市中区八丁堀４-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="石田歯科矯正歯科クリニック" transform="ref(svg,13246.416,-3439.7053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もちもちの木歯科医院,広島県広島市中区河原町５-１４-３-１０１,歯科,,,9" xlink:title="もちもちの木歯科医院" transform="ref(svg,13244.6462,-3439.0394)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしもと歯科医院,広島県広島市中区西川口町１２-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はしもと歯科医院" transform="ref(svg,13243.973,-3438.1281)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科,広島県広島市中区江波本町５-３０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山本歯科" transform="ref(svg,13243.5746,-3437.0242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉岡歯科医院,広島県広島市中区十日市町２-９-５,歯科　矯正歯科,,,9" xlink:title="吉岡歯科医院" transform="ref(svg,13244.8192,-3439.8402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中井歯科口腔外科医院,広島県広島市中区紙屋町１-１-１７,歯科口腔外科,,,9" xlink:title="中井歯科口腔外科医院" transform="ref(svg,13245.9252,-3439.4551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルクリニックゼオン,広島県広島市中区鉄砲町１０-１３,歯科,,,9" xlink:title="デンタルクリニックゼオン" transform="ref(svg,13246.3952,-3439.396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしなか歯科クリニック,広島県広島市中区大手町１-４-３井上ビル３Ｆ,歯科　歯科口腔外科,,,9" xlink:title="にしなか歯科クリニック" transform="ref(svg,13245.6018,-3439.4899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かこまち歯科医院,広島県広島市中区加古町６-７,歯科　矯正歯科,,,9" xlink:title="かこまち歯科医院" transform="ref(svg,13244.9548,-3438.7486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花木歯科医院,広島県広島市中区広瀬北町５-１,歯科　小児歯科,,,9" xlink:title="花木歯科医院" transform="ref(svg,13244.7231,-3440.266)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごこちデンタルクリニック,広島県広島市中区小町３-２２マスダビル３０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ごこちデンタルクリニック" transform="ref(svg,13245.6,-3438.9222)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アルファ歯科クリニック,広島県広島市中区八丁堀３-１２砂原ビル２Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アルファ歯科クリニック" transform="ref(svg,13246.2925,-3439.6652)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかむら歯科クリニック,広島県広島市中区上八丁堀４-２７上八丁堀ビル１Ｆ,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="なかむら歯科クリニック" transform="ref(svg,13246.4517,-3439.987)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,若林デンタルクリニック並木通り,広島県広島市中区中町１-３ダイヤ並木ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="若林デンタルクリニック並木通り" transform="ref(svg,13246.0831,-3439.0419)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はなまる歯科,広島県広島市中区千田町１-５-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はなまる歯科" transform="ref(svg,13245.318,-3438.1084)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）崇光会Ｄｅｎｔａｌ　Ｏｆｆｉｃｅ　Ｃａｒｅ　Ｏｎｅ,広島県広島市中区新天地５-１６,歯科　矯正歯科,,,9" xlink:title="（医）崇光会Ｄｅｎｔａｌ　Ｏｆｆｉｃｅ　Ｃａｒｅ　Ｏｎｅ" transform="ref(svg,13246.1456,-3439.1316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,匠歯科,広島県広島市中区東千田町２-１０-２２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="匠歯科" transform="ref(svg,13245.9118,-3437.7123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沖デンタルクリニック,広島県広島市中区八丁堀１２-４わかばビル４Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="沖デンタルクリニック" transform="ref(svg,13246.3692,-3439.5292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水入歯科医院,広島県広島市中区三川町１-１８ヒロシマパーキング１Ｆ,歯科,,,9" xlink:title="水入歯科医院" transform="ref(svg,13246.2829,-3439.041)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森田歯科医院,広島県広島市中区宝町２-１フジグラン広島４Ｆ,歯科　矯正歯科,,,9" xlink:title="森田歯科医院" transform="ref(svg,13246.4325,-3438.5963)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津島歯科クリニック,広島県広島市中区十日市町１-３-３０,歯科　矯正歯科　小児歯科,,,9" xlink:title="津島歯科クリニック" transform="ref(svg,13244.7268,-3439.6877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,幟町デンタルクリニック,広島県広島市中区幟町３-５４ラフィーネ幟町１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="幟町デンタルクリニック" transform="ref(svg,13246.6186,-3439.7218)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まこと歯科クリニック,広島県広島市中区千田町３-３-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まこと歯科クリニック" transform="ref(svg,13245.7104,-3437.7156)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上野歯科医院,広島県広島市東区戸坂南１-１２-７,歯科,,,9" xlink:title="上野歯科医院" transform="ref(svg,13249.2315,-3442.5686)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梶谷歯科医院,広島県広島市東区牛田旭１-１３-１１,歯科,,,9" xlink:title="梶谷歯科医院" transform="ref(svg,13246.9921,-3441.2503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,広島県広島市東区東山町２-１２,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13249.2652,-3439.4961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西本歯科医院,広島県広島市東区尾長西１-５-６,歯科,,,9" xlink:title="西本歯科医院" transform="ref(svg,13248.708,-3439.7943)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,能美歯科医院,広島県広島市東区牛田中２-１-２４,歯科,,,9" xlink:title="能美歯科医院" transform="ref(svg,13247.3273,-3441.2155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）シャン・ヴィラージュ会野村歯科医院,広島県広島市東区光町２-６-１万勝ビル,歯科,,,9" xlink:title="（医）シャン・ヴィラージュ会野村歯科医院" transform="ref(svg,13247.9098,-3440.1547)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,広島県広島市東区矢賀新町２-７-１０,歯科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,13249.6434,-3439.3232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,広島県広島市東区東蟹屋町２-１０,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13248.4944,-3439.6461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）博和会鯉城歯科医院,広島県広島市東区光町１-１１-７,歯科,,,9" xlink:title="（医）博和会鯉城歯科医院" transform="ref(svg,13247.8296,-3439.9868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水上歯科医院,広島県広島市東区戸坂出江２-７-２０,歯科　小児歯科,,,9" xlink:title="水上歯科医院" transform="ref(svg,13248.729,-3443.4545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安芸歯科クリニック,広島県広島市東区温品５-２-６２,歯科,,,9" xlink:title="安芸歯科クリニック" transform="ref(svg,13250.866,-3441.365)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野坂歯科医院,広島県広島市東区牛田新町１-６-３６光藤ビル,歯科　矯正歯科　小児歯科,,,9" xlink:title="野坂歯科医院" transform="ref(svg,13246.569,-3442.0531)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小松歯科医院,広島県広島市東区戸坂山崎町１-６,歯科,,,9" xlink:title="小松歯科医院" transform="ref(svg,13248.519,-3443.6554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山村歯科医院,広島県広島市東区二葉の里１-２-１-１０１,歯科,,,9" xlink:title="山村歯科医院" transform="ref(svg,13247.0723,-3440.2666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三善歯科医院,広島県広島市東区馬木５-１４５５,歯科,,,9" xlink:title="三善歯科医院" transform="ref(svg,13253.0296,-3443.924)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花本歯科医院,広島県広島市東区温品６-２-１１,歯科,,,9" xlink:title="花本歯科医院" transform="ref(svg,13251.0742,-3441.9368)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,広島県広島市東区牛田本町４-２-５２,歯科　小児歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13246.8851,-3441.2951)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こたく歯科医院,広島県広島市東区若草町１０-１１,歯科,,,9" xlink:title="こたく歯科医院" transform="ref(svg,13247.9681,-3439.7704)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,別木歯科医院,広島県広島市東区戸坂出江１-２-１,歯科,,,9" xlink:title="別木歯科医院" transform="ref(svg,13248.8241,-3443.2147)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津谷歯科医院,広島県広島市東区中山東３-２-２,歯科,,,9" xlink:title="津谷歯科医院" transform="ref(svg,13250.3144,-3441.0621)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）修医会光ケ丘歯科医院,広島県広島市東区光町２-８-１９,歯科　小児歯科,,,9" xlink:title="（医）修医会光ケ丘歯科医院" transform="ref(svg,13247.9656,-3440.0248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,広島県広島市東区牛田新町３-５-６,歯科　小児歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13247.1126,-3442.799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡松歯科医院,広島県広島市東区矢賀新町４-２-２９,歯科,,,9" xlink:title="岡松歯科医院" transform="ref(svg,13249.707,-3439.2425)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,牛田歯科医院,広島県広島市東区牛田中２-７-２２,歯科,,,9" xlink:title="牛田歯科医院" transform="ref(svg,13247.389,-3440.9414)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沢村歯科医院,広島県広島市東区福田２-３４２-３,歯科　小児歯科,,,9" xlink:title="沢村歯科医院" transform="ref(svg,13253.787,-3444.9492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科医院,広島県広島市東区戸坂千足１-１０-１,歯科　小児歯科,,,9" xlink:title="遠藤歯科医院" transform="ref(svg,13247.9156,-3443.5472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平岡歯科医院,広島県広島市東区光町２-５-３,歯科,,,9" xlink:title="平岡歯科医院" transform="ref(svg,13247.9314,-3440.2302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科おかもと医院,広島県広島市東区牛田新町４-１８-２,歯科,,,9" xlink:title="歯科おかもと医院" transform="ref(svg,13247.6323,-3443.061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡村歯科医院,広島県広島市東区曙町１-８-９,歯科,,,9" xlink:title="岡村歯科医院" transform="ref(svg,13248.8517,-3439.5603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじのり歯科医院,広島県広島市東区戸坂新町１-４-１,歯科　小児歯科,,,9" xlink:title="ふじのり歯科医院" transform="ref(svg,13249.7928,-3442.3493)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）益田歯科クリニック,広島県広島市東区牛田本町３-３-１５,歯科,,,9" xlink:title="（医）益田歯科クリニック" transform="ref(svg,13246.9133,-3441.0621)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,広島県広島市東区若草町２１-１,歯科　小児歯科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,13247.8985,-3439.715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,広島県広島市東区中山東１-３-２１,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13249.9388,-3440.8972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中西歯科クリニック,広島県広島市東区牛田中１-１１-１２,歯科,,,9" xlink:title="中西歯科クリニック" transform="ref(svg,13247.2768,-3440.8492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢賀駅前歯科医院,広島県広島市東区矢賀４-１１-２８,歯科,,,9" xlink:title="矢賀駅前歯科医院" transform="ref(svg,13249.82,-3439.7711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科,広島県広島市東区温品７-１８-４-２０１,歯科,,,9" xlink:title="高山歯科" transform="ref(svg,13250.99,-3441.2876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮地デンタルクリニック,広島県広島市東区曙５-３-３０,歯科　小児歯科,,,9" xlink:title="宮地デンタルクリニック" transform="ref(svg,13249.193,-3439.426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たまき歯科医院,広島県広島市東区牛田本町２-１-２１,歯科　小児歯科,,,9" xlink:title="たまき歯科医院" transform="ref(svg,13247.0643,-3441.1626)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,光ヶ丘歯科矯正口腔外科,広島県広島市東区光町２-８-１９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="光ヶ丘歯科矯正口腔外科" transform="ref(svg,13247.9635,-3440.0221)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クリスタル歯科クリニック,広島県広島市東区牛田東２-１２-３６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="クリスタル歯科クリニック" transform="ref(svg,13248.1566,-3441.3982)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわい歯科医院,広島県広島市東区光町１-１１-１３光町大丈ビル２０２,歯科　小児歯科,,,9" xlink:title="いわい歯科医院" transform="ref(svg,13247.7841,-3439.9483)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,トリプルエープラスデンタルクリニック,広島県広島市東区牛田本町４-１-７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="トリプルエープラスデンタルクリニック" transform="ref(svg,13246.9827,-3441.1764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）戸坂ホワイト歯科,広島県広島市東区戸坂千足１-２２-６-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）戸坂ホワイト歯科" transform="ref(svg,13248.448,-3443.7284)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）あおき歯科クリニック,広島県広島市東区光町２-１２-１０　１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）あおき歯科クリニック" transform="ref(svg,13248.1448,-3439.9921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ファミリー歯科,広島県広島市東区戸坂中町１-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ファミリー歯科" transform="ref(svg,13248.6258,-3443.6439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ななほし歯科クリニック,広島県広島市東区光町１-８-６,歯科　小児歯科,,,9" xlink:title="ななほし歯科クリニック" transform="ref(svg,13248.0271,-3439.9364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きむら歯科,広島県広島市東区中山西２-６-１５,歯科,,,9" xlink:title="きむら歯科" transform="ref(svg,13249.656,-3440.8325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細原歯科医院,広島県広島市東区尾長西２-１１-３０,歯科,,,9" xlink:title="細原歯科医院" transform="ref(svg,13248.7387,-3440.0263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科・矯正歯科,広島県広島市東区牛田新町３-７-４３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かとう歯科・矯正歯科" transform="ref(svg,13247.1748,-3442.8423)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひかりまち小児歯科・矯正歯科,広島県広島市東区光町２-４-１９,矯正歯科　小児歯科,,,9" xlink:title="ひかりまち小児歯科・矯正歯科" transform="ref(svg,13247.9607,-3440.2021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おざき歯科クリニック,広島県広島市東区牛田東２-１-２２,歯科　小児歯科,,,9" xlink:title="おざき歯科クリニック" transform="ref(svg,13247.8126,-3441.0406)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フォレオ歯科医院,広島県広島市東区温品１-３-２フォレオ広島東Ｂ棟２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="フォレオ歯科医院" transform="ref(svg,13250.3597,-3440.763)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広島タワーデンタルクリニック,広島県広島市東区若草町１１-２グランアークテラス３Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="広島タワーデンタルクリニック" transform="ref(svg,13247.8211,-3439.8617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よつば歯科クリニック,広島県広島市東区戸坂新町１-７-２２　１Ｆ,歯科,,,9" xlink:title="よつば歯科クリニック" transform="ref(svg,13249.4771,-3442.3738)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保田歯科医院,広島県広島市南区大州２-９-１９,歯科,,,9" xlink:title="久保田歯科医院" transform="ref(svg,13248.8193,-3439.0078)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,児玉歯科,広島県広島市南区西蟹屋４-２-３８,歯科,,,9" xlink:title="児玉歯科" transform="ref(svg,13248.0716,-3439.0184)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有馬歯科医院,広島県広島市南区青崎２-１０-２８,歯科,,,9" xlink:title="有馬歯科医院" transform="ref(svg,13250.8303,-3437.2908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大野歯科医院,広島県広島市南区東本浦町１-６９,歯科,,,9" xlink:title="大野歯科医院" transform="ref(svg,13248.7759,-3437.7569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小田歯科医院,広島県広島市南区東雲本町１-１３-２,歯科　小児歯科,,,9" xlink:title="小田歯科医院" transform="ref(svg,13248.4939,-3438.093)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鍵山歯科医院,広島県広島市南区上東雲町３１-６,歯科,,,9" xlink:title="鍵山歯科医院" transform="ref(svg,13248.6393,-3438.4423)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,楠田歯科医院,広島県広島市南区稲荷町４-１住友生命ビル７階,歯科,,,9" xlink:title="楠田歯科医院" transform="ref(svg,13247.0897,-3439.2411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷広歯科医院,広島県広島市南区西旭町１５-３,歯科,,,9" xlink:title="谷広歯科医院" transform="ref(svg,13247.4259,-3437.1349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,薮本歯科医院,広島県広島市南区皆実町１-１３-２８,小児歯科,,,9" xlink:title="薮本歯科医院" transform="ref(svg,13246.6425,-3437.8015)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,広島県広島市南区旭１-１８-２８,歯科　矯正歯科　小児歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13248.0305,-3437.3736)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉川歯科医院,広島県広島市南区宇品海岸２-１-１０,歯科,,,9" xlink:title="玉川歯科医院" transform="ref(svg,13246.2652,-3435.5764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,尾尻歯科医院,広島県広島市南区皆実町４-１６-１,歯科,,,9" xlink:title="尾尻歯科医院" transform="ref(svg,13247.0094,-3437.5129)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河村歯科クリニック,広島県広島市南区京橋町１-２-３０１,歯科,,,9" xlink:title="河村歯科クリニック" transform="ref(svg,13247.3155,-3439.4972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森本歯科医院,広島県広島市南区東雲２-７-１９,歯科,,,9" xlink:title="森本歯科医院" transform="ref(svg,13248.9132,-3438.0663)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊岡ヘルシー歯科クリニック,広島県広島市南区翠５-２２-２６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="豊岡ヘルシー歯科クリニック" transform="ref(svg,13247.0072,-3436.82)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）博和会山陽歯科医院,広島県広島市南区南蟹屋１-３-３５,歯科,,,9" xlink:title="（医）博和会山陽歯科医院" transform="ref(svg,13248.447,-3438.9917)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三上歯科医院,広島県広島市南区宇品御幸１-９-２６-１０７,歯科,,,9" xlink:title="三上歯科医院" transform="ref(svg,13246.3947,-3436.8502)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植田歯科医院,広島県広島市南区大須賀町１３-６,歯科,,,9" xlink:title="植田歯科医院" transform="ref(svg,13247.283,-3439.7745)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科,広島県広島市南区松原町１０-２５,歯科　矯正歯科　小児歯科,,,9" xlink:title="中島歯科" transform="ref(svg,13247.2222,-3439.7526)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤林歯科医院,広島県広島市南区東本浦町１０-１３,歯科,,,9" xlink:title="藤林歯科医院" transform="ref(svg,13249.0379,-3437.5528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長澤歯科医院,広島県広島市南区的場町２-５-２１,歯科,,,9" xlink:title="長澤歯科医院" transform="ref(svg,13247.5018,-3439.1631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八島歯科医院,広島県広島市南区皆実町１-１３-３３,歯科,,,9" xlink:title="八島歯科医院" transform="ref(svg,13246.6594,-3437.8415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,旭町歯科医院,広島県広島市南区旭２-３-２１,歯科,,,9" xlink:title="旭町歯科医院" transform="ref(svg,13247.646,-3437.5254)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,だて歯科医院,広島県広島市南区皆実町６-１-４,歯科,,,9" xlink:title="だて歯科医院" transform="ref(svg,13246.4321,-3437.3275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小谷歯科医院,広島県広島市南区青崎１-６-１２,歯科,,,9" xlink:title="小谷歯科医院" transform="ref(svg,13250.6097,-3437.4113)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,広島県広島市南区翠１-３-１７,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13246.4898,-3437.0178)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,広島県広島市南区東雲１-２０-１８,歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13248.9444,-3438.2594)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,どえ歯科医院,広島県広島市南区東雲本町２-４-２０,歯科　矯正歯科　小児歯科,,,9" xlink:title="どえ歯科医院" transform="ref(svg,13248.5199,-3438.3119)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大保歯科医院,広島県広島市南区丹那町５-２,歯科,,,9" xlink:title="大保歯科医院" transform="ref(svg,13247.9665,-3436.4196)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森永歯科医院,広島県広島市南区大州３-９-２１,歯科　小児歯科,,,9" xlink:title="森永歯科医院" transform="ref(svg,13249.0406,-3438.8696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広島駅ビル歯科医院,広島県広島市南区松原町２-３７,歯科,,,9" xlink:title="広島駅ビル歯科医院" transform="ref(svg,13247.472,-3439.702)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星野歯科医院,広島県広島市南区宇品御幸３-１-７,歯科,,,9" xlink:title="星野歯科医院" transform="ref(svg,13246.408,-3436.3576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山歯科医院,広島県広島市南区東雲１-５-９,歯科,,,9" xlink:title="中山歯科医院" transform="ref(svg,13248.8469,-3438.3706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大内歯科医院,広島県広島市南区霞２-７-９,歯科,,,9" xlink:title="大内歯科医院" transform="ref(svg,13248.2112,-3437.8653)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂本歯科医院,広島県広島市南区堀越２-１-１４,歯科　小児歯科,,,9" xlink:title="坂本歯科医院" transform="ref(svg,13251.4829,-3437.539)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小田歯科医院,広島県広島市南区大州４-９-１７,歯科,,,9" xlink:title="小田歯科医院" transform="ref(svg,13249.4511,-3438.7385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やわらぎ会歯科診療所,広島県広島市南区仁保１-６-２３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やわらぎ会歯科診療所" transform="ref(svg,13249.4057,-3437.338)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）高橋歯科医院,広島県広島市南区旭２-１４-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）高橋歯科医院" transform="ref(svg,13247.6979,-3437.2561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,出崎歯科医院,広島県広島市南区猿猴橋町１-８スミヒロビル３Ｆ,歯科,,,9" xlink:title="出崎歯科医院" transform="ref(svg,13247.7797,-3439.5537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中本歯科医院,広島県広島市南区荒神町４-１,歯科　小児歯科,,,9" xlink:title="中本歯科医院" transform="ref(svg,13247.6733,-3439.4883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,洋光歯科クリニツク,広島県広島市南区向洋本町５-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="洋光歯科クリニツク" transform="ref(svg,13250.5298,-3436.8501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉光歯科医院,広島県広島市南区宇品御幸４-１０-１０,歯科,,,9" xlink:title="吉光歯科医院" transform="ref(svg,13246.3645,-3435.9354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なべしま小児歯科医院,広島県広島市南区宇品神田２-１４-２２,歯科　矯正歯科　小児歯科,,,9" xlink:title="なべしま小児歯科医院" transform="ref(svg,13246.4735,-3436.4461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三輪歯科医院,広島県広島市南区翠１-２-８,歯科,,,9" xlink:title="三輪歯科医院" transform="ref(svg,13246.4843,-3437.1611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科医院,広島県広島市南区宇品神田５-５-１,歯科　小児歯科,,,9" xlink:title="和田歯科医院" transform="ref(svg,13246.4346,-3436.044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）高輪会高木歯科医院,広島県広島市南区段原南１-１９-４,歯科　矯正歯科,,,9" xlink:title="（医）高輪会高木歯科医院" transform="ref(svg,13247.7168,-3438.2638)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森永歯科医院,広島県広島市南区松川町５-３,歯科　小児歯科,,,9" xlink:title="森永歯科医院" transform="ref(svg,13247.3217,-3438.9876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふるたに歯科,広島県広島市南区段原南２-１２-２５,歯科,,,9" xlink:title="ふるたに歯科" transform="ref(svg,13247.7676,-3438.3737)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,皆実町歯科,広島県広島市南区皆実町５-２０-１８,歯科　矯正歯科,,,9" xlink:title="皆実町歯科" transform="ref(svg,13246.5262,-3437.2899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,カトレア歯科,広島県広島市南区向洋新町２-１-７,歯科,,,9" xlink:title="カトレア歯科" transform="ref(svg,13251.0308,-3436.5746)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）あした会中西歯科医院,広島県広島市南区比治山本町１６-３５,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）あした会中西歯科医院" transform="ref(svg,13246.8295,-3438.0742)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小早川歯科クリニック,広島県広島市南区宇品御幸３-１５-１５,歯科　小児歯科,,,9" xlink:title="小早川歯科クリニック" transform="ref(svg,13246.3129,-3436.1414)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タマガワ矯正歯科クリニック,広島県広島市南区京橋町１-２,矯正歯科,,,9" xlink:title="タマガワ矯正歯科クリニック" transform="ref(svg,13247.3171,-3439.4935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東雲歯科,広島県広島市南区東雲３-１４-２９,歯科　小児歯科,,,9" xlink:title="東雲歯科" transform="ref(svg,13249.6234,-3437.7705)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしかわ歯科,広島県広島市南区宇品東２-１０-６,歯科,,,9" xlink:title="いしかわ歯科" transform="ref(svg,13247.0926,-3436.3926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高島歯科医院,広島県広島市南区段原２-１９-３,歯科,,,9" xlink:title="高島歯科医院" transform="ref(svg,13247.6389,-3438.6329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉原歯科医院,広島県広島市南区大洲１-３-２４,歯科　矯正歯科,,,9" xlink:title="杉原歯科医院" transform="ref(svg,13248.9789,-3438.7627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井田歯科医院,広島県広島市南区宇品神田３-８-１６,歯科,,,9" xlink:title="井田歯科医院" transform="ref(svg,13246.4597,-3436.2265)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小早川歯科医院,広島県広島市南区東雲本町２-５-１７,歯科　小児歯科,,,9" xlink:title="小早川歯科医院" transform="ref(svg,13248.5593,-3438.1972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小笠原歯科医院,広島県広島市南区宇品御幸１-３-６,歯科,,,9" xlink:title="小笠原歯科医院" transform="ref(svg,13246.3075,-3437.0961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有馬歯科医院,広島県広島市南区東本浦町２２-２６,歯科,,,9" xlink:title="有馬歯科医院" transform="ref(svg,13249.1334,-3437.4328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわはら歯科クリニック,広島県広島市南区青崎２-４-３２,歯科　矯正歯科,,,9" xlink:title="かわはら歯科クリニック" transform="ref(svg,13250.8058,-3437.4485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかの歯科医院,広島県広島市南区宇品神田１-１-１９,歯科,,,9" xlink:title="おかの歯科医院" transform="ref(svg,13246.508,-3436.8406)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹口歯科,広島県広島市南区段原２-１-７,歯科,,,9" xlink:title="竹口歯科" transform="ref(svg,13247.6698,-3438.9205)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉田歯科,広島県広島市南区段原３-３-２７　３Ｆ,歯科,,,9" xlink:title="玉田歯科" transform="ref(svg,13247.7452,-3438.9255)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科医院,広島県広島市南区翠３-１１-１２,歯科　小児歯科,,,9" xlink:title="橋本歯科医院" transform="ref(svg,13247.1326,-3437.0901)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イースト歯科クリニック,広島県広島市南区段原南１-３-５３,歯科　小児歯科,,,9" xlink:title="イースト歯科クリニック" transform="ref(svg,13247.6158,-3438.5528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみもと歯科医院,広島県広島市南区南蟹屋町１-１-２５,歯科　小児歯科,,,9" xlink:title="いずみもと歯科医院" transform="ref(svg,13248.5602,-3438.9652)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけだ歯科医院,広島県広島市南区仁保新町２-７-１,歯科,,,9" xlink:title="たけだ歯科医院" transform="ref(svg,13249.405,-3437.4724)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,広島県広島市南区稲荷町４-１１,歯科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,13247.0965,-3439.1637)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すずき歯科小児歯科,広島県広島市南区松原町９-１,歯科　小児歯科,,,9" xlink:title="すずき歯科小児歯科" transform="ref(svg,13247.3838,-3439.6327)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつお歯科クリニック,広島県広島市南区翠２-９-２２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まつお歯科クリニック" transform="ref(svg,13246.9129,-3437.3135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小島歯科医院,広島県広島市南区西霞町７-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="小島歯科医院" transform="ref(svg,13248.1417,-3437.6769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江夏歯科医院,広島県広島市南区東雲本町２-１３-３０,歯科,,,9" xlink:title="江夏歯科医院" transform="ref(svg,13248.6254,-3438.0795)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科医院,広島県広島市南区旭３-１-８,歯科　小児歯科,,,9" xlink:title="スマイル歯科医院" transform="ref(svg,13247.5742,-3437.2258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水内歯科医院,広島県広島市南区猿猴橋町１-３,歯科　歯科口腔外科,,,9" xlink:title="水内歯科医院" transform="ref(svg,13247.7969,-3439.5601)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みほ歯科医院,広島県広島市南区東雲３-３-２１,歯科　小児歯科,,,9" xlink:title="みほ歯科医院" transform="ref(svg,13249.279,-3437.9149)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すぐる歯科,広島県広島市南区京橋町４-１４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すぐる歯科" transform="ref(svg,13247.1233,-3439.5508)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河井歯科クリニック,広島県広島市南区旭１-９-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="河井歯科クリニック" transform="ref(svg,13247.7972,-3437.4133)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せのお歯科医院,広島県広島市南区宇品西４-１-５６,歯科,,,9" xlink:title="せのお歯科医院" transform="ref(svg,13245.906,-3435.917)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うじな歯科医院,広島県広島市南区宇品西４-３-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="うじな歯科医院" transform="ref(svg,13246.0073,-3435.7354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わかた歯科医院,広島県広島市南区宇品神田５-２０-１３,歯科,,,9" xlink:title="わかた歯科医院" transform="ref(svg,13246.4123,-3435.7593)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あい歯科,広島県広島市南区京橋町７-１８,歯科　小児歯科,,,9" xlink:title="あい歯科" transform="ref(svg,13247.1716,-3439.451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河内歯科医院,広島県広島市南区宇品西４-１３２２-２０,歯科,,,9" xlink:title="河内歯科医院" transform="ref(svg,13246.0371,-3435.922)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科,広島県広島市南区皆実町４-２-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="中村歯科" transform="ref(svg,13247.1174,-3437.6545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たに歯科クリニック,広島県広島市南区宇品御幸３-２-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たに歯科クリニック" transform="ref(svg,13246.3976,-3436.266)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,広島県広島市南区宇品西５-１１-１-１０４,歯科　小児歯科,,,9" xlink:title="木村歯科医院" transform="ref(svg,13245.8359,-3436.1723)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）東広会ゆめタウン広島歯科,広島県広島市南区皆実町２-８-１７,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）東広会ゆめタウン広島歯科" transform="ref(svg,13246.3792,-3437.6159)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田矯正歯科クリニック,広島県広島市南区金屋町２-１５-４Ｆ,矯正歯科,,,9" xlink:title="山田矯正歯科クリニック" transform="ref(svg,13247.2252,-3439.2411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科にほしんまちクリニック,広島県広島市南区仁保新町１-９-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯科にほしんまちクリニック" transform="ref(svg,13249.307,-3437.6069)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルオフィス出汐歯科,広島県広島市南区出汐２-２-２８,矯正歯科　小児歯科,,,9" xlink:title="デンタルオフィス出汐歯科" transform="ref(svg,13247.5821,-3437.7883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,段原さくら歯科クリニック,広島県広島市南区段原日出町１-１５-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="段原さくら歯科クリニック" transform="ref(svg,13248.0741,-3438.6557)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タナカ歯科医院,広島県広島市南区段原山崎町１-１-２５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="タナカ歯科医院" transform="ref(svg,13247.9922,-3438.5891)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,二反田歯科クリニック,広島県広島市南区宇品西６-７-１４ゆめタウンみゆき２Ｆ,歯科,,,9" xlink:title="二反田歯科クリニック" transform="ref(svg,13245.6805,-3435.8552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三好デンタルオフィス,広島県広島市南区金屋町２-２１-１,歯科,,,9" xlink:title="三好デンタルオフィス" transform="ref(svg,13247.2574,-3439.2525)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,向井歯科医院,広島県広島市南区段原山崎２-９-２５,歯科,,,9" xlink:title="向井歯科医院" transform="ref(svg,13247.9924,-3438.4934)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とよた歯科,広島県広島市南区出汐４-２-１１出汐ビル１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="とよた歯科" transform="ref(svg,13247.8154,-3437.7768)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グレイス矯正歯科クリニック,広島県広島市南区皆実町５-１４-１ライオンズプラザ皆実町２０３,矯正歯科,,,9" xlink:title="グレイス矯正歯科クリニック" transform="ref(svg,13246.5054,-3437.3229)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村歯科医院,広島県広島市南区段原日出１-１-１３,歯科,,,9" xlink:title="野村歯科医院" transform="ref(svg,13248.2615,-3438.8189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江盛歯科医院,広島県広島市西区庚午南２-３５-２０,歯科,,,9" xlink:title="江盛歯科医院" transform="ref(svg,13240.982,-3438.0159)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大谷歯科医院,広島県広島市西区天満町１８-１１,歯科,,,9" xlink:title="大谷歯科医院" transform="ref(svg,13243.9979,-3439.547)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長上歯科医院,広島県広島市西区己斐本町１-２５-７,歯科,,,9" xlink:title="長上歯科医院" transform="ref(svg,13242.7362,-3439.6953)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アップル歯科クリニック,広島県広島市西区庚午北２-１８-２０,歯科　矯正歯科　小児歯科,,,9" xlink:title="アップル歯科クリニック" transform="ref(svg,13241.8594,-3438.8916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木本歯科医院,広島県広島市西区草津東１-９-１１,歯科,,,9" xlink:title="木本歯科医院" transform="ref(svg,13240.5032,-3437.9455)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,熊谷歯科医院,広島県広島市西区庚午中１-５-１９,歯科,,,9" xlink:title="熊谷歯科医院" transform="ref(svg,13241.7459,-3438.5206)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科医院,広島県広島市西区三篠北町１９-１６,歯科　小児歯科,,,9" xlink:title="ささき歯科医院" transform="ref(svg,13245.5807,-3441.6767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新谷歯科医院,広島県広島市西区天満町１８-６,歯科,,,9" xlink:title="新谷歯科医院" transform="ref(svg,13244.0366,-3439.5409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,広島県広島市西区観音新町１-５-１７,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13242.8327,-3437.7463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ツノダ歯科三篠横川クリニック,広島県広島市西区三篠町２-５-１０,歯科　小児歯科,,,9" xlink:title="ツノダ歯科三篠横川クリニック" transform="ref(svg,13245.3436,-3441.3464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平岡歯科医院,広島県広島市西区東観音町１１-１１,歯科,,,9" xlink:title="平岡歯科医院" transform="ref(svg,13244.1365,-3439.1095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三浦歯科医院,広島県広島市西区庚午中２-１３-１０,歯科,,,9" xlink:title="三浦歯科医院" transform="ref(svg,13241.4819,-3438.3985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどり歯科医院,広島県広島市西区南観音２-４-４８,歯科,,,9" xlink:title="みどり歯科医院" transform="ref(svg,13243.3292,-3438.475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西広島歯科医院,広島県広島市西区己斐本町１-２４-７,歯科,,,9" xlink:title="西広島歯科医院" transform="ref(svg,13242.7165,-3439.6212)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,広島県広島市西区天満町７-２２,歯科,,,9" xlink:title="前田歯科医院" transform="ref(svg,13243.9028,-3439.6487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ピノキオ歯科医院,広島県広島市西区己斐本町１-２３-１６,矯正歯科　小児歯科,,,9" xlink:title="ピノキオ歯科医院" transform="ref(svg,13242.7804,-3439.6313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,観音歯科医院,広島県広島市西区西観音町８-５,歯科,,,9" xlink:title="観音歯科医院" transform="ref(svg,13243.867,-3439.2384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浜松歯科医院,広島県広島市西区三篠町２-１５-１４,歯科,,,9" xlink:title="浜松歯科医院" transform="ref(svg,13245.389,-3441.2333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梅木歯科医院,広島県広島市西区観音本町２-７-２８,歯科　小児歯科,,,9" xlink:title="梅木歯科医院" transform="ref(svg,13243.5352,-3438.881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島末歯科医院,広島県広島市西区己斐上４-３２-８,歯科,,,9" xlink:title="島末歯科医院" transform="ref(svg,13241.9961,-3440.9843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤原歯科医院,広島県広島市西区草津東２-１-１３,歯科,,,9" xlink:title="藤原歯科医院" transform="ref(svg,13240.6998,-3438.2947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北本歯科医院,広島県広島市西区古江新町３-９-３０２,歯科,,,9" xlink:title="北本歯科医院" transform="ref(svg,13241.1333,-3438.5867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大宮歯科医院,広島県広島市西区大宮１-２７-４,歯科,,,9" xlink:title="大宮歯科医院" transform="ref(svg,13245.6807,-3441.914)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科,広島県広島市西区商工センター１-１４-１,歯科,,,9" xlink:title="佐々木歯科" transform="ref(svg,13239.6618,-3436.9647)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊田歯科医院,広島県広島市西区井口明神町２-１-１８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="豊田歯科医院" transform="ref(svg,13238.6641,-3437.1596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福永歯科医院,広島県広島市西区南観音１-１１-３８,歯科,,,9" xlink:title="福永歯科医院" transform="ref(svg,13243.2312,-3438.2999)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せいぶ歯科医院,広島県広島市西区井口明神１-１４-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="せいぶ歯科医院" transform="ref(svg,13239.3278,-3437.3393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）うざき歯科,広島県広島市西区南観音７-１３-２０ひらいちビル,歯科,,,9" xlink:title="（医）うざき歯科" transform="ref(svg,13242.7438,-3437.8972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こせき矯正歯科,広島県広島市西区己斐本町１-１９-１４,矯正歯科,,,9" xlink:title="こせき矯正歯科" transform="ref(svg,13242.8288,-3439.6583)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,広島県広島市西区観音本町１-２２-３０,歯科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,13243.5498,-3438.8015)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安達歯科医院,広島県広島市西区楠木町３-１３-３６,歯科,,,9" xlink:title="安達歯科医院" transform="ref(svg,13245.9054,-3441.0994)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今田歯科医院,広島県広島市西区高須２-２-７,歯科　矯正歯科,,,9" xlink:title="今田歯科医院" transform="ref(svg,13241.605,-3438.9723)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹腰歯科医院,広島県広島市西区横川町２-８-９,歯科　小児歯科,,,9" xlink:title="竹腰歯科医院" transform="ref(svg,13244.9177,-3440.7885)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梅田歯科医院,広島県広島市西区草津新町２-１８-１１,歯科　小児歯科,,,9" xlink:title="梅田歯科医院" transform="ref(svg,13239.6607,-3437.4654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅川歯科,広島県広島市西区古江新町１７-３４,歯科　矯正歯科　小児歯科,,,9" xlink:title="浅川歯科" transform="ref(svg,13240.8701,-3438.4021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科,広島県広島市西区庚午北２-６-６,歯科,,,9" xlink:title="いとう歯科" transform="ref(svg,13242.11,-3439.1399)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,広島県広島市西区上天満町４-２,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13244.0387,-3439.9746)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉岡歯科医院,広島県広島市西区観音本町１-２-６,歯科,,,9" xlink:title="吉岡歯科医院" transform="ref(svg,13243.9936,-3438.8353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,力田歯科医院,広島県広島市西区鈴が峰町１４-２５,歯科　小児歯科,,,9" xlink:title="力田歯科医院" transform="ref(svg,13239.6831,-3438.2006)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,真鍋歯科医院,広島県広島市西区三篠町１-１１-１１,歯科,,,9" xlink:title="真鍋歯科医院" transform="ref(svg,13245.1049,-3441.0908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グレイス歯科,広島県広島市西区庚午中４-４-２４,歯科　小児歯科,,,9" xlink:title="グレイス歯科" transform="ref(svg,13241.546,-3438.2304)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,萬歯科医院,広島県広島市西区新庄町１４-３,歯科,,,9" xlink:title="萬歯科医院" transform="ref(svg,13245.2355,-3442.5534)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）アーク歯科クリニック,広島県広島市西区三篠町３-６-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）アーク歯科クリニック" transform="ref(svg,13245.4694,-3441.6342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福島歯科医院,広島県広島市西区三篠町３-２０-１０,歯科　小児歯科,,,9" xlink:title="福島歯科医院" transform="ref(svg,13245.5146,-3441.4183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科クリニック,広島県広島市西区井口台２-２３-３２,歯科　小児歯科,,,9" xlink:title="佐久間歯科クリニック" transform="ref(svg,13237.9123,-3437.7883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,広島県広島市西区井口１-１-１,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13239.1734,-3437.6153)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂田歯科医院,広島県広島市西区己斐本町３-１３-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="坂田歯科医院" transform="ref(svg,13242.3829,-3439.2128)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,旭橋歯科クリニック,広島県広島市西区南観音町２１-３,歯科,,,9" xlink:title="旭橋歯科クリニック" transform="ref(svg,13243.0678,-3438.8573)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大迫歯科クリニック,広島県広島市西区己斐大迫２-２１,歯科,,,9" xlink:title="大迫歯科クリニック" transform="ref(svg,13242.4217,-3441.4119)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今井歯科医院,広島県広島市西区草津南１-７-１０,歯科　小児歯科,,,9" xlink:title="今井歯科医院" transform="ref(svg,13240.0313,-3437.752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,バンビ小児歯科医院,広島県広島市西区横川町３-３-６,小児歯科,,,9" xlink:title="バンビ小児歯科医院" transform="ref(svg,13245.0963,-3440.9457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,広島県広島市西区横川町３-３-６,歯科　矯正歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13245.0963,-3440.9457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,己斐上椿田歯科医院,広島県広島市西区己斐上１-１０-３,歯科,,,9" xlink:title="己斐上椿田歯科医院" transform="ref(svg,13241.9708,-3440.3332)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三宅歯科医院,広島県広島市西区草津港１-８-１,歯科,,,9" xlink:title="三宅歯科医院" transform="ref(svg,13240.2413,-3436.7436)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科クリニック,広島県広島市西区己斐中１-９-１９,歯科,,,9" xlink:title="石田歯科クリニック" transform="ref(svg,13242.4816,-3439.971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,広島県広島市西区庚午北３-１-２,歯科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,13241.8655,-3438.8154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科,広島県広島市西区三篠町３-２４-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="山田歯科" transform="ref(svg,13245.3126,-3441.4575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長尾歯科医院,広島県広島市西区庚午中４-１５-１９,歯科,,,9" xlink:title="長尾歯科医院" transform="ref(svg,13241.4623,-3437.985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平尾歯科医院,広島県広島市西区南観音７-５-１４,歯科,,,9" xlink:title="平尾歯科医院" transform="ref(svg,13242.8753,-3438.0956)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古胡歯科医院,広島県広島市西区井口３-１０-２２,歯科,,,9" xlink:title="古胡歯科医院" transform="ref(svg,13237.4782,-3436.9014)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）博美会宮脇歯科医院,広島県広島市西区三滝本町１-１-６,歯科,,,9" xlink:title="（医）博美会宮脇歯科医院" transform="ref(svg,13244.644,-3441.5946)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけだ歯科医院,広島県広島市西区井口台２-２３-１３,歯科,,,9" xlink:title="たけだ歯科医院" transform="ref(svg,13237.7629,-3437.7744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ベアーズ小児歯科,広島県広島市西区庚午北２-１６-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="ベアーズ小児歯科" transform="ref(svg,13242.0213,-3438.9312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アルパーク歯科・矯正歯科,広島県広島市西区草津新町２-２６-１アルパーク東棟８Ｆ,歯科　矯正歯科,,,9" xlink:title="アルパーク歯科・矯正歯科" transform="ref(svg,13239.4664,-3437.3553)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,引地歯科医院,広島県広島市西区草津新町２-１５-１９,歯科,,,9" xlink:title="引地歯科医院" transform="ref(svg,13239.4478,-3437.4645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,聖ケ丘歯科医院,広島県広島市西区横川町３-１０-５,歯科,,,9" xlink:title="聖ケ丘歯科医院" transform="ref(svg,13245.2346,-3440.9019)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古閑歯科医院,広島県広島市西区東観音町２-１５ロッコー東観音コーポ,歯科,,,9" xlink:title="古閑歯科医院" transform="ref(svg,13244.0879,-3439.2623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらかみ歯科医院,広島県広島市西区南観音３-１-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="むらかみ歯科医院" transform="ref(svg,13243.1065,-3438.6998)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三戸歯科医院,広島県広島市西区中広町２-２５-１２,歯科,,,9" xlink:title="三戸歯科医院" transform="ref(svg,13244.3922,-3440.2541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉原歯科医院,広島県広島市西区庚午中３-５-２０,歯科,,,9" xlink:title="杉原歯科医院" transform="ref(svg,13241.1917,-3438.365)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんたに歯科医院,広島県広島市西区中広町３-２-１０明貴マンション２０１,歯科,,,9" xlink:title="しんたに歯科医院" transform="ref(svg,13244.5776,-3440.6498)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中谷歯科医院,広島県広島市西区横川町２-５-１２,歯科,,,9" xlink:title="中谷歯科医院" transform="ref(svg,13245.0504,-3440.8231)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおつぼ歯科クリニック,広島県広島市西区田方２-１４-１０,歯科　小児歯科,,,9" xlink:title="おおつぼ歯科クリニック" transform="ref(svg,13239.8378,-3439.0584)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしの歯科クリニック,広島県広島市西区己斐本町３-５-１４,歯科,,,9" xlink:title="よしの歯科クリニック" transform="ref(svg,13242.6055,-3439.4965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保歯科医院,広島県広島市西区南観音２-７-２１-２,歯科,,,9" xlink:title="久保歯科医院" transform="ref(svg,13242.9899,-3438.4036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井口歯科,広島県広島市西区井口５-２５-２５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="井口歯科" transform="ref(svg,13238.0014,-3436.6041)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,広島県広島市西区己斐本町３-５-４,歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13242.6412,-3439.5372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きし歯科医院,広島県広島市西区観音本町１-２０-１６,歯科,,,9" xlink:title="きし歯科医院" transform="ref(svg,13243.7281,-3438.7131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,からさき歯科医院,広島県広島市西区庚午北２-１１-２０,歯科　小児歯科,,,9" xlink:title="からさき歯科医院" transform="ref(svg,13242.0317,-3439.1062)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤井歯科医院,広島県広島市西区己斐本町１-１９-１１,歯科,,,9" xlink:title="藤井歯科医院" transform="ref(svg,13242.8132,-3439.6488)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,聖心矯正小児歯科,広島県広島市西区己斐本町１-９-２０,矯正歯科　小児歯科,,,9" xlink:title="聖心矯正小児歯科" transform="ref(svg,13242.9238,-3439.804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ矯正歯科,広島県広島市西区古江新町４-１８,歯科,,,9" xlink:title="よしだ矯正歯科" transform="ref(svg,13241.0556,-3438.5344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いのくち小児歯科,広島県広島市西区己斐本町１-８-２６,歯科　小児歯科,,,9" xlink:title="いのくち小児歯科" transform="ref(svg,13243.0095,-3439.8106)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ロワール歯科,広島県広島市西区横川町２-１０-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ロワール歯科" transform="ref(svg,13245.0483,-3440.7245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田村歯科医院,広島県広島市西区高須１-１０-２７,歯科　小児歯科,,,9" xlink:title="田村歯科医院" transform="ref(svg,13241.6222,-3439.1665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古江東歯科クリニック,広島県広島市西区古江東町３-４,歯科,,,9" xlink:title="古江東歯科クリニック" transform="ref(svg,13241.2479,-3438.9103)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よこがわ歯科,広島県広島市西区横川町３-２-１横川駅ＮＫビル３Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="よこがわ歯科" transform="ref(svg,13245.0147,-3440.9897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ドーン歯科クリニック,広島県広島市西区三篠町３-１０-９,歯科　小児歯科,,,9" xlink:title="ドーン歯科クリニック" transform="ref(svg,13245.3091,-3441.5706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田歯科医院,広島県広島市西区観音新町２-２-７,歯科,,,9" xlink:title="原田歯科医院" transform="ref(svg,13242.5705,-3437.7587)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こばやし歯科医院,広島県広島市西区横川町２-７-１９,歯科,,,9" xlink:title="こばやし歯科医院" transform="ref(svg,13244.9098,-3440.8808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もりもと歯科クリニック,広島県広島市西区己斐上１-１１-３６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="もりもと歯科クリニック" transform="ref(svg,13241.9879,-3440.6016)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なぎさ歯科クリニック,広島県広島市西区三篠北町１９-２７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なぎさ歯科クリニック" transform="ref(svg,13245.61,-3441.7312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいおい通り歯科クリニック,広島県広島市西区上天満町１０-３９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あいおい通り歯科クリニック" transform="ref(svg,13244.0325,-3439.8449)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,広島県広島市西区中広町３-２１-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13244.2851,-3440.4801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおさわ歯科医院,広島県広島市西区楠木町４-９-２６,歯科,,,9" xlink:title="おおさわ歯科医院" transform="ref(svg,13245.9276,-3441.5789)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くにはら歯科医院,広島県広島市西区中広町２-１７-８,歯科,,,9" xlink:title="くにはら歯科医院" transform="ref(svg,13244.0726,-3440.2964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山我歯科医院,広島県広島市西区草津本町３０-３,歯科,,,9" xlink:title="山我歯科医院" transform="ref(svg,13240.3256,-3437.8994)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,レイラ歯科クリニック,広島県広島市西区楠木町３-２-２０,歯科,,,9" xlink:title="レイラ歯科クリニック" transform="ref(svg,13245.7986,-3441.3911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こうご歯科,広島県広島市西区庚午中４-１９-２１,歯科,,,9" xlink:title="こうご歯科" transform="ref(svg,13241.2694,-3438.1406)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こうごファミリー歯科,広島県広島市西区庚午北３-４-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こうごファミリー歯科" transform="ref(svg,13241.7223,-3438.786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,保生堂歯科クリニック,広島県広島市西区庚午南１-７-２５,歯科　小児歯科,,,9" xlink:title="保生堂歯科クリニック" transform="ref(svg,13241.3377,-3438.0046)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）みずほ会ゆず歯科医院,広島県広島市西区横川町３-２-３６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）みずほ会ゆず歯科医院" transform="ref(svg,13244.8617,-3440.9498)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ジュン歯科クリニック,広島県広島市西区井口４-２-２７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ジュン歯科クリニック" transform="ref(svg,13237.4428,-3436.9034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,けやき歯科クリニック,広島県広島市西区庚午中３-１３-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="けやき歯科クリニック" transform="ref(svg,13240.9895,-3438.2286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,京デンタルクリニック,広島県広島市西区横川新町１０-２-１０２,歯科,,,9" xlink:title="京デンタルクリニック" transform="ref(svg,13244.6131,-3440.7967)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）柊和会広島デンタルクリニック,広島県広島市西区横川町３-８-２-２階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）柊和会広島デンタルクリニック" transform="ref(svg,13245.4261,-3440.9506)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふたばデンタルクリニック,広島県広島市西区大芝１-２-３,歯科,,,9" xlink:title="ふたばデンタルクリニック" transform="ref(svg,13245.981,-3441.8722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ともデンタルクリニック,広島県広島市西区三篠町３-６-５グランディール三篠１０１,歯科,,,9" xlink:title="ともデンタルクリニック" transform="ref(svg,13245.4924,-3441.6632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のぞみ歯科医院,広島県広島市西区草津東１-７-５,歯科　小児歯科,,,9" xlink:title="のぞみ歯科医院" transform="ref(svg,13240.7739,-3438.0201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なおデンタルクリニック,広島県広島市西区南観音町５-１４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なおデンタルクリニック" transform="ref(svg,13243.4585,-3438.7232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヤスダデンタルクリニック,広島県広島市西区楠木町２-９-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ヤスダデンタルクリニック" transform="ref(svg,13245.5364,-3441.0853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,生協歯科ひろしま,広島県広島市西区観音町１６-１９,歯科　矯正歯科　小児歯科,,,9" xlink:title="生協歯科ひろしま" transform="ref(svg,13243.7096,-3439.453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上重歯科医院,広島県広島市安佐南区西原４-１８-５,歯科,,,9" xlink:title="上重歯科医院" transform="ref(svg,13246.7837,-3443.6933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桑原歯科医院,広島県広島市安佐南区祇園２-３９-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="桑原歯科医院" transform="ref(svg,13246.4511,-3444.0725)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山野井歯科医院,広島県広島市安佐南区祇園１-１０-１９,歯科,,,9" xlink:title="山野井歯科医院" transform="ref(svg,13246.2546,-3443.8703)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉光歯科医院,広島県広島市安佐南区長束３-３８-２７,歯科,,,9" xlink:title="吉光歯科医院" transform="ref(svg,13245.7838,-3442.9234)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡橋歯科医院,広島県広島市安佐南区祇園２-２３-２０,歯科,,,9" xlink:title="岡橋歯科医院" transform="ref(svg,13246.6493,-3444.2454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西村歯科医院,広島県広島市安佐南区西原９-１９-２４,歯科　小児歯科,,,9" xlink:title="西村歯科医院" transform="ref(svg,13247.2518,-3444.6022)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤岡歯科医院,広島県広島市安佐南区古市２-１７-３岡田ビル２Ｆ,歯科,,,9" xlink:title="藤岡歯科医院" transform="ref(svg,13247.0985,-3445.2833)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古本歯科医院,広島県広島市安佐南区西原１-１１-１０,歯科,,,9" xlink:title="古本歯科医院" transform="ref(svg,13246.3254,-3443.5124)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村歯科医院,広島県広島市安佐南区祇園２-４２-１４,歯科,,,9" xlink:title="野村歯科医院" transform="ref(svg,13246.5134,-3443.8867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,衣笠歯科医院,広島県広島市安佐南区山本３-２１-１０,歯科,,,9" xlink:title="衣笠歯科医院" transform="ref(svg,13245.1597,-3443.8335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青木歯科医院,広島県広島市安佐南区長束１-２-２２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="青木歯科医院" transform="ref(svg,13246.2487,-3443.0858)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はまもと歯科医院,広島県広島市安佐南区東野２-１１-２９,歯科　小児歯科,,,9" xlink:title="はまもと歯科医院" transform="ref(svg,13248.3239,-3444.9964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八島歯科クリニック,広島県広島市安佐南区西原４-３５-１０,歯科,,,9" xlink:title="八島歯科クリニック" transform="ref(svg,13246.5456,-3443.4237)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,広島県広島市安佐南区長束西３-１-４０,歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13245.0463,-3443.0879)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山近歯科医院,広島県広島市安佐南区山本１-２８-１１,歯科,,,9" xlink:title="山近歯科医院" transform="ref(svg,13245.6242,-3443.5389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森川歯科医院,広島県広島市安佐南区中筋１-１８-２５,歯科　小児歯科,,,9" xlink:title="森川歯科医院" transform="ref(svg,13247.4812,-3445.0939)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）双葉会こはだ歯科医院,広島県広島市安佐南区中筋３-２７-１６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）双葉会こはだ歯科医院" transform="ref(svg,13247.7648,-3445.2594)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科クリニック,広島県広島市安佐南区西原８-３４-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="松本歯科クリニック" transform="ref(svg,13247.4196,-3444.2564)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,祇園歯科クリニック,広島県広島市安佐南区西原５-１７-１,歯科,,,9" xlink:title="祇園歯科クリニック" transform="ref(svg,13246.753,-3443.967)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新見歯科医院,広島県広島市安佐南区山本４-７-７,歯科,,,9" xlink:title="新見歯科医院" transform="ref(svg,13244.8646,-3443.9455)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中井歯科医院,広島県広島市安佐南区山本１-８-１９,歯科,,,9" xlink:title="中井歯科医院" transform="ref(svg,13245.4475,-3443.6328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あけた歯科医院,広島県広島市安佐南区西原１-１-１,歯科,,,9" xlink:title="あけた歯科医院" transform="ref(svg,13246.5533,-3443.7993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ａ・Ｃデンタルクリニック,広島県広島市安佐南区大塚西６-１２-１,歯科,,,9" xlink:title="Ａ・Ｃデンタルクリニック" transform="ref(svg,13239.5898,-3444.6787)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みつい歯科医院,広島県広島市安佐南区長束３-３８-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="みつい歯科医院" transform="ref(svg,13245.7479,-3442.8404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけだ歯科医院,広島県広島市安佐北区西原６-６-２５-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たけだ歯科医院" transform="ref(svg,13247.0655,-3444.2098)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科,広島県広島市安佐南区西原１-２５-１３-１,歯科　小児歯科,,,9" xlink:title="ささき歯科" transform="ref(svg,13246.2592,-3443.267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじわら歯科医院,広島県広島市安佐南区中筋３-２９-２３,歯科,,,9" xlink:title="ふじわら歯科医院" transform="ref(svg,13247.7601,-3445.1578)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおば歯科,広島県広島市安佐南区祇園５-３-８,歯科,,,9" xlink:title="あおば歯科" transform="ref(svg,13246.1233,-3444.6014)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,明見歯科医院,広島県広島市安佐南区長束西１-５-９,歯科,,,9" xlink:title="明見歯科医院" transform="ref(svg,13244.9534,-3442.9667)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ダンデンタルクリニック,広島県広島市安佐南区祇園１-３６-９,歯科,,,9" xlink:title="ダンデンタルクリニック" transform="ref(svg,13246.0434,-3443.3699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科クリニック,広島県広島市安佐南区沼田町大塚２１６４,歯科　小児歯科,,,9" xlink:title="中島歯科クリニック" transform="ref(svg,13240.1808,-3443.875)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしはら歯科クリニック,広島県広島市安佐南区西原１-７-２２,歯科　小児歯科,,,9" xlink:title="はしはら歯科クリニック" transform="ref(svg,13246.4487,-3443.619)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふなはし歯科医院,広島県広島市安佐南区山本３-６-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふなはし歯科医院" transform="ref(svg,13245.5544,-3443.8729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高井歯科医院,広島県広島市安佐南区東原１-１-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="高井歯科医院" transform="ref(svg,13247.9896,-3444.3799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさひ歯科醫院,広島県広島市安佐南区東原１-３-１-１０１,歯科　小児歯科,,,9" xlink:title="あさひ歯科醫院" transform="ref(svg,13247.8513,-3444.3223)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）青心会こころ歯科クリニック,広島県広島市安佐南区伴南４-２０-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）青心会こころ歯科クリニック" transform="ref(svg,13238.0302,-3444.9565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はなのき歯科クリニック,広島県広島市安佐南区大塚西６-６-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はなのき歯科クリニック" transform="ref(svg,13238.9172,-3444.784)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もりした歯科クリニック,広島県広島市安佐南区東原２-６-３２-１０１,歯科　小児歯科,,,9" xlink:title="もりした歯科クリニック" transform="ref(svg,13248.1077,-3444.4157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまさき歯科,広島県広島市安佐南区山本１-９-２６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまさき歯科" transform="ref(svg,13245.3869,-3443.673)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安佐祇園デンタルクリニック,広島県広島市安佐南区祇園２-１１-１６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="安佐祇園デンタルクリニック" transform="ref(svg,13246.7772,-3444.5372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下祇園駅前歯科,広島県広島市安佐南区祇園１-６-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="下祇園駅前歯科" transform="ref(svg,13246.309,-3443.9115)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,亀宝歯科医院,広島県広島市安佐南区祇園２-３１-１６-１,歯科　小児歯科,,,9" xlink:title="亀宝歯科医院" transform="ref(svg,13246.5306,-3444.0959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）淳和会川添歯科クリニック,広島県広島市安佐南区古市３-４-１６,歯科,,,9" xlink:title="（医）淳和会川添歯科クリニック" transform="ref(svg,13246.8911,-3445.1328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さつき歯科クリニック,広島県広島市安佐南区西原４-１９-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さつき歯科クリニック" transform="ref(svg,13246.8678,-3443.7865)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宝歯会広島祇園スマイル歯科小児歯科医院,広島県広島市安佐南区祇園３-５４０-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）宝歯会広島祇園スマイル歯科小児歯科医院" transform="ref(svg,13245.954,-3443.7182)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしみ歯科クリニック,広島県広島市安佐南区山本４-２６-２３吉田ビル４Ｆ,歯科　小児歯科,,,9" xlink:title="よしみ歯科クリニック" transform="ref(svg,13245.0379,-3443.6335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,医院ふるいち歯の健康ドクター,広島県広島市安佐南区古市１-１６-１７,歯科　小児歯科,,,9" xlink:title="医院ふるいち歯の健康ドクター" transform="ref(svg,13247.2202,-3444.9989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さおとめ歯科医院,広島県広島市安佐南区西原２-１１-８第４森下ビル１階１０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さおとめ歯科医院" transform="ref(svg,13246.6536,-3443.3732)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆめ歯科クリニック,広島県広島市安佐南区伴南１-５-１８-８-３０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ゆめ歯科クリニック" transform="ref(svg,13238.0751,-3444.8173)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エフ・デンタルクリニック,広島県広島市安佐南区伴南４-１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="エフ・デンタルクリニック" transform="ref(svg,13237.8485,-3444.617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,メリィハウス歯科,広島県広島市安佐南区大塚西３-２-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="メリィハウス歯科" transform="ref(svg,13239.5609,-3444.4702)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら矯正歯科クリニック,広島県広島市安佐南区山本２-３-２６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくら矯正歯科クリニック" transform="ref(svg,13245.5407,-3443.8012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮本歯科医院,広島県広島市安芸区船越南２-２０-１８,歯科,,,9" xlink:title="宮本歯科医院" transform="ref(svg,13252.427,-3437.2251)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,広島県広島市安芸区矢野西５-１３-２８,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13253.6596,-3435.1219)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,行武歯科医院,広島県広島市安芸区矢野西１-３-２,歯科　小児歯科,,,9" xlink:title="行武歯科医院" transform="ref(svg,13253.402,-3435.483)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）野間歯科医院,広島県広島市安芸区矢野東４-８-３６,歯科,,,9" xlink:title="（医）野間歯科医院" transform="ref(svg,13253.7653,-3435.4718)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,メディックス歯科クリニック,広島県広島市安芸区矢野西４-１-２１,歯科,,,9" xlink:title="メディックス歯科クリニック" transform="ref(svg,13253.2738,-3435.2311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,家頭歯科医院,広島県広島市安芸区船越５-１３-９,歯科,,,9" xlink:title="家頭歯科医院" transform="ref(svg,13252.3267,-3437.439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科クリニック,広島県広島市安芸区矢野西４-５６-２２,歯科,,,9" xlink:title="さとう歯科クリニック" transform="ref(svg,13252.9631,-3434.945)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,児玉歯科医院,広島県広島市安芸区矢野西４-６-２,歯科,,,9" xlink:title="児玉歯科医院" transform="ref(svg,13253.212,-3435.1085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大道歯科医院,広島県広島市安芸区矢野南４-９-１５,歯科,,,9" xlink:title="大道歯科医院" transform="ref(svg,13253.1139,-3433.893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじさわ歯科医院,広島県広島市安芸区矢野西４-８-１６,歯科,,,9" xlink:title="ふじさわ歯科医院" transform="ref(svg,13253.1449,-3435.1253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）俊美会野村歯科医院,広島県広島市安芸区矢野南１-１７-１１,歯科　小児歯科,,,9" xlink:title="（医）俊美会野村歯科医院" transform="ref(svg,13252.9804,-3434.5931)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くすのき歯科医院,広島県広島市安芸区船越南２-１８-２０,歯科　小児歯科,,,9" xlink:title="くすのき歯科医院" transform="ref(svg,13252.2925,-3437.2589)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アイリス歯科,広島県広島市安芸区矢野東２-２３-１５,歯科　小児歯科,,,9" xlink:title="アイリス歯科" transform="ref(svg,13253.6744,-3435.8539)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,広島県広島市安芸区船越３-１３-１６,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13252.1787,-3437.5109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,広島県広島市安芸区矢野東５-３-１５,歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13253.6272,-3435.5014)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,聖歯科クリニック,広島県広島市安芸区矢野西１-３２-１１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="聖歯科クリニック" transform="ref(svg,13253.1528,-3435.1747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川崎歯科医院,広島県広島市佐伯区五月が丘１-２２-１８,歯科,,,9" xlink:title="川崎歯科医院" transform="ref(svg,13240.2447,-3441.7611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,広島県広島市佐伯区美鈴が丘東４-１４-３,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13238.8788,-3439.505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,広島県広島市佐伯区五月ケ丘３-１-３６,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13240.125,-3442.4617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）あきひろ会山根歯科医院,広島県広島市佐伯区旭園４-２９山根ビル２Ｆ２０１,歯科　矯正歯科,,,9" xlink:title="（医）あきひろ会山根歯科医院" transform="ref(svg,13236.7461,-3436.5665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きったか歯科クリニック,広島県広島市佐伯区五日市駅前１-１１-３７ＫＲビル２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="きったか歯科クリニック" transform="ref(svg,13236.6773,-3436.7437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きなみ小児歯科矯正歯科医院,広島県広島市佐伯区五日市駅前１-１０-１,矯正歯科　小児歯科,,,9" xlink:title="きなみ小児歯科矯正歯科医院" transform="ref(svg,13236.7755,-3436.7577)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,広島県広島市佐伯区美鈴が丘東２-３-１１,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13238.5279,-3439.4093)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河野歯科医院,広島県広島市佐伯区美鈴が丘西１-５-２０,歯科,,,9" xlink:title="河野歯科医院" transform="ref(svg,13238.528,-3439.2423)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石本歯科クリニック,広島県広島市佐伯区海老山町３-８クレスト木屋１Ｆ,歯科　小児歯科,,,9" xlink:title="石本歯科クリニック" transform="ref(svg,13236.5559,-3436.5705)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こにし歯科医院,広島県広島市佐伯区皆賀１-１３-５-３,歯科　小児歯科,,,9" xlink:title="こにし歯科医院" transform="ref(svg,13237.0908,-3437.0144)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中本歯科クリニック,広島県広島市佐伯区五月が丘２-６-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="中本歯科クリニック" transform="ref(svg,13240.0512,-3442.2135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松山歯科医院,広島県広島市佐伯区八幡東３-１９-１１-５,歯科,,,9" xlink:title="松山歯科医院" transform="ref(svg,13236.3339,-3438.5967)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くにし歯科医院,広島県広島市佐伯区八幡東３-２８-１７-４０３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くにし歯科医院" transform="ref(svg,13236.3885,-3438.4972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五日市ファミリー歯科,広島県広島市佐伯区五日市駅前２-１８-１,歯科　小児歯科,,,9" xlink:title="五日市ファミリー歯科" transform="ref(svg,13236.6432,-3436.9665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井藤矯正歯科,広島県広島市佐伯区五日市駅前２-１１-１２-２０１,矯正歯科,,,9" xlink:title="井藤矯正歯科" transform="ref(svg,13236.6158,-3437.0021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,兼池歯科,広島県広島市佐伯区五日市駅前２-１５-２,歯科,,,9" xlink:title="兼池歯科" transform="ref(svg,13236.532,-3436.9327)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくらい歯科クリニック,広島県広島市佐伯区八幡東４-３２-２,歯科　小児歯科,,,9" xlink:title="さくらい歯科クリニック" transform="ref(svg,13236.5856,-3439.2817)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほりえ歯科,広島県広島市佐伯区藤の木３-２１-１４,歯科,,,9" xlink:title="ほりえ歯科" transform="ref(svg,13236.3707,-3442.082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわもと歯科クリニック坂の上の歯医者さん,広島県広島市佐伯区皆賀２-７-２３,歯科　小児歯科,,,9" xlink:title="かわもと歯科クリニック坂の上の歯医者さん" transform="ref(svg,13236.7158,-3437.43)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イチロー歯科診療所,広島県広島市佐伯区五日市駅前１-５-２５,歯科,,,9" xlink:title="イチロー歯科診療所" transform="ref(svg,13236.7619,-3436.7881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらた歯科,広島県広島市佐伯区五日市駅前１-１３-４-２０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひらた歯科" transform="ref(svg,13236.821,-3436.7116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コイン通りデンタルクリニック,広島県広島市佐伯区海老園２-８-５,歯科,,,9" xlink:title="コイン通りデンタルクリニック" transform="ref(svg,13236.3434,-3436.4072)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はんざわ歯科医院,広島県広島市佐伯区利松２-２２-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はんざわ歯科医院" transform="ref(svg,13236.8528,-3439.8425)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大類歯科医院,広島県呉市天応塩谷町２-２５,歯科,,,9" xlink:title="大類歯科医院" transform="ref(svg,13251.9194,-3428.3012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平山歯科医院,広島県呉市天応大浜２-４-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="平山歯科医院" transform="ref(svg,13251.4876,-3428.851)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,第二森田歯科医院,広島県呉市天応西条１-３-７,歯科,,,9" xlink:title="第二森田歯科医院" transform="ref(svg,13252.002,-3428.7975)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,広島県安芸郡府中町青崎南７-２２,歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13250.5133,-3437.638)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,甲元歯科医院,広島県安芸郡府中町浜田２-２-１６,歯科,,,9" xlink:title="甲元歯科医院" transform="ref(svg,13250.7214,-3438.8045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岸保歯科クリニック,広島県安芸郡府中町本町５-６-１,歯科,,,9" xlink:title="岸保歯科クリニック" transform="ref(svg,13250.443,-3439.8408)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,末永歯科医院,広島県安芸郡府中町青崎中８-７,歯科,,,9" xlink:title="末永歯科医院" transform="ref(svg,13250.7171,-3437.7362)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西川歯科医院,広島県安芸郡府中町大須１-１７-２３,歯科,,,9" xlink:title="西川歯科医院" transform="ref(svg,13250.0264,-3439.1729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村歯科医院,広島県安芸郡府中町鶴江２-１２-１１,歯科,,,9" xlink:title="野村歯科医院" transform="ref(svg,13250.6912,-3440.1146)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田辺歯科医院,広島県安芸郡府中町石井城１-５-３２,歯科,,,9" xlink:title="田辺歯科医院" transform="ref(svg,13250.8167,-3439.9277)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きく歯科医院,広島県安芸郡府中町本町４-１２-１４,歯科,,,9" xlink:title="きく歯科医院" transform="ref(svg,13250.5519,-3439.7333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹中歯科医院,広島県安芸郡府中町宮の町２-５-２７,歯科　矯正歯科,,,9" xlink:title="竹中歯科医院" transform="ref(svg,13250.7283,-3439.2104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡原歯科医院,広島県安芸郡府中町鹿篭２-１４-２５-２０１ルマ・ニシモトビル,歯科　歯科口腔外科,,,9" xlink:title="岡原歯科医院" transform="ref(svg,13250.951,-3438.0764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さんたんだ歯科医院,広島県安芸郡府中町本町２-５-１１,歯科,,,9" xlink:title="さんたんだ歯科医院" transform="ref(svg,13250.5495,-3439.6936)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,広島県安芸郡府中町みくまり２-１３-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,13251.3469,-3439.9857)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くらた歯科医院,広島県安芸郡府中町浜田１-３-１６-２０２,歯科　小児歯科,,,9" xlink:title="くらた歯科医院" transform="ref(svg,13250.4598,-3438.8928)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）竹下歯科医院,広島県安芸郡府中町桃山１-８-４-１０３,歯科,,,9" xlink:title="（医）竹下歯科医院" transform="ref(svg,13250.5349,-3437.9394)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いいだ歯科クリニック,広島県安芸郡府中町大須２-３-７１,歯科,,,9" xlink:title="いいだ歯科クリニック" transform="ref(svg,13249.6745,-3439.4357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しだはら歯科医院,広島県安芸郡府中町本町５-２-１２,歯科　小児歯科,,,9" xlink:title="しだはら歯科医院" transform="ref(svg,13250.2509,-3439.7812)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ありもり歯科医院,広島県安芸郡府中町八幡２-１３-２０,歯科　歯科口腔外科,,,9" xlink:title="ありもり歯科医院" transform="ref(svg,13251.0588,-3439.016)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くるみ歯科医院,広島県安芸郡府中町浜田３-５-１２,歯科,,,9" xlink:title="くるみ歯科医院" transform="ref(svg,13251.0482,-3438.6816)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やすとみ歯科,広島県安芸郡府中町鹿籠２-１３-１２,歯科　小児歯科,,,9" xlink:title="やすとみ歯科" transform="ref(svg,13250.7556,-3438.0224)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もりうえ歯科,広島県安芸郡府中町大須３-８-５６,歯科,,,9" xlink:title="もりうえ歯科" transform="ref(svg,13250.1074,-3439.7421)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,麻の実歯科医院,広島県安芸郡府中町八幡２-３-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="麻の実歯科医院" transform="ref(svg,13251.5301,-3439.0862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ダイヤモンドシティ歯科,広島県安芸郡府中町大須２-１-１,歯科　小児歯科,,,9" xlink:title="ダイヤモンドシティ歯科" transform="ref(svg,13249.874,-3439.3384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新谷歯科医院,広島県安芸郡府中町緑ヶ丘１６-９,歯科　小児歯科,,,9" xlink:title="新谷歯科医院" transform="ref(svg,13250.5503,-3438.3453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまなか歯科医院,広島県安芸郡府中町大通２-８-２１-１０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまなか歯科医院" transform="ref(svg,13250.3774,-3439.1681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおぞら歯科医院,広島県安芸郡府中町宮の町１-１-２６,歯科,,,9" xlink:title="あおぞら歯科医院" transform="ref(svg,13250.8874,-3439.5722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＡＩＣデンタルクリニック・ヴィラ,広島県安芸郡府中町本町２-９-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="ＡＩＣデンタルクリニック・ヴィラ" transform="ref(svg,13250.6163,-3439.6261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷-ｱ歯科クリニック,広島県安芸郡府中町本町４-５-３７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="谷-ｱ歯科クリニック" transform="ref(svg,13250.5774,-3439.9383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋田歯科医院,広島県安芸郡府中町浜田３-４-２０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="橋田歯科医院" transform="ref(svg,13251.1049,-3438.7265)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲垣歯科医院,広島県安芸郡海田町新町１９-１０,歯科,,,9" xlink:title="稲垣歯科医院" transform="ref(svg,13253.0795,-3437.2568)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）博和会平田歯科医院,広島県安芸郡海田町堀川町３-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）博和会平田歯科医院" transform="ref(svg,13253.175,-3436.8553)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根石歯科医院,広島県安芸郡海田町昭和中町２-２１,歯科,,,9" xlink:title="根石歯科医院" transform="ref(svg,13253.8148,-3436.8338)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田部矯正歯科,広島県安芸郡海田町窪町９-１３,矯正歯科,,,9" xlink:title="田部矯正歯科" transform="ref(svg,13253.0248,-3437.0238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長畑歯科医院,広島県安芸郡海田町窪町４-５１,歯科,,,9" xlink:title="長畑歯科医院" transform="ref(svg,13252.843,-3437.1529)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イチマ歯科医院,広島県安芸郡海田町南大正町４-２８-２０１,歯科,,,9" xlink:title="イチマ歯科医院" transform="ref(svg,13253.3522,-3436.6972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科クリニック,広島県安芸郡海田町日の出町３-３,歯科,,,9" xlink:title="松本歯科クリニック" transform="ref(svg,13253.5648,-3436.515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）コアラ小児歯科,広島県安芸郡海田町南大正町１-７-２０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）コアラ小児歯科" transform="ref(svg,13253.4893,-3436.7822)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おがわ歯科医院,広島県安芸郡海田町日の出町６-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おがわ歯科医院" transform="ref(svg,13253.8121,-3436.5961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,海田デンタルクリニック,広島県安芸郡海田町南昭和町９-２２,歯科　小児歯科,,,9" xlink:title="海田デンタルクリニック" transform="ref(svg,13253.5391,-3436.7043)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かいた駅前歯科,広島県安芸郡海田町窪町２-１４ハンドウビル３Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="かいた駅前歯科" transform="ref(svg,13252.9932,-3437.1611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋本歯科医院,広島県安芸郡海田町稲荷町９-１６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="秋本歯科医院" transform="ref(svg,13253.2294,-3437.2953)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）勇泉会ひまわり歯科,広島県安芸郡海田町昭和中町２-３８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）勇泉会ひまわり歯科" transform="ref(svg,13253.7269,-3436.8207)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三登歯科医院,広島県安芸郡坂町坂西１-６-８,歯科,,,9" xlink:title="三登歯科医院" transform="ref(svg,13250.8883,-3433.7222)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科医院,広島県安芸郡坂町坂東２-１９-７,歯科,,,9" xlink:title="和田歯科医院" transform="ref(svg,13251.5431,-3433.8709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじもと歯科医院,広島県安芸郡坂町北新地２-３-４０,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ふじもと歯科医院" transform="ref(svg,13251.7562,-3434.9933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかむら歯科医院,広島県安芸郡坂町横浜中央１-３-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なかむら歯科医院" transform="ref(svg,13250.7638,-3433.814)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,診療所クボ歯科クリニック,広島県安芸郡坂町坂西１-２３-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="診療所クボ歯科クリニック" transform="ref(svg,13251.6379,-3433.6923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,切串歯科診療所,広島県江田島市江田島町切串１-３３-１１,歯科,,,9" xlink:title="切串歯科診療所" transform="ref(svg,13248.0692,-3428.2992)" x="0" y="0"/>
+</g>
+</svg>

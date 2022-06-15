@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13816.40625 -3621.09375 35.15625 35.15625" go:dataArea="13816.40625 -3621.09375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,大泉中央診療所,山梨県北杜市大泉町谷戸２９６９,内科　小児科　精神科　神経科　耳鼻咽喉科　皮膚科,,,9" xlink:title="大泉中央診療所" transform="ref(svg,13838.61,-3586.1863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尾根進藤医院,山梨県北杜市小淵沢町２０８６,内科　小児科,,,9" xlink:title="尾根進藤医院" transform="ref(svg,13831.2922,-3586.3127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八ヶ岳りんごクリニック,山梨県北杜市小淵沢町１０１４６-２,精神科　心療内科,,,9" xlink:title="八ヶ岳りんごクリニック" transform="ref(svg,13832.776,-3587.2427)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仁生園診療所,山梨県北杜市長坂町小荒間１２９３,内科,,,9" xlink:title="仁生園診療所" transform="ref(svg,13834.8215,-3587.4303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八ヶ岳名水会指定障害者支援施設星の里医務室,山梨県北杜市長坂町小荒間１０９５-７,内科,,,9" xlink:title="八ヶ岳名水会指定障害者支援施設星の里医務室" transform="ref(svg,13834.974,-3587.3799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐久広域老人ホーム勝間園診療所,長野県佐久市下小田切５３０,内科,,,9" xlink:title="佐久広域老人ホーム勝間園診療所" transform="ref(svg,13847.9366,-3618.7258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐久広域救護施設清和寮診療所,長野県佐久市北川５５７,内科　神経内科　精神科,,,9" xlink:title="佐久広域救護施設清和寮診療所" transform="ref(svg,13847.7524,-3617.5238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大沢新田出張診療所,長野県佐久市大沢新田３７１７-１,内科　小児科,,,9" xlink:title="大沢新田出張診療所" transform="ref(svg,13841.4855,-3619.119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つつみハートクリニック,長野県佐久市臼田４７６-１,内科　循環器科　呼吸器科　消化器科　アレルギー科,,,9" xlink:title="つつみハートクリニック" transform="ref(svg,13848.0745,-3620.4344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐久市湯沢無医地区出張診療所,長野県佐久市春日２２５３-１５,内科,,,9" xlink:title="佐久市湯沢無医地区出張診療所" transform="ref(svg,13833.5652,-3619.3389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐久市長者原無医地区出張診療所,長野県佐久市布施５３１６-１,内科,,,9" xlink:title="佐久市長者原無医地区出張診療所" transform="ref(svg,13837.9613,-3619.8181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら診療所,長野県佐久市下小田切５０-１,内科　外科　整形外科　胃腸科　形成外科　皮膚科　リウマチ科　リハビリテーション科,,,9" xlink:title="さくら診療所" transform="ref(svg,13847.676,-3619.0891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安藤クリニック,長野県佐久市臼田１１１４-６,形成外科　外科　内科　皮膚科,,,9" xlink:title="安藤クリニック" transform="ref(svg,13847.1483,-3620.9709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田嶋クリニック,長野県佐久市臼田１６５２-１,内科　消化器科　呼吸器内科　アレルギー科,,,9" xlink:title="田嶋クリニック" transform="ref(svg,13846.9851,-3620.4464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たむらペインクリニック,長野県佐久市臼田伊勢宮２２９２-１,内科　麻酔科,,,9" xlink:title="たむらペインクリニック" transform="ref(svg,13847.5837,-3619.5325)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐久広域老人ホーム美ノ輪荘診療所,長野県南佐久郡小海町大字小海３４４９-１,内科,,,9" xlink:title="佐久広域老人ホーム美ノ輪荘診療所" transform="ref(svg,13846.9512,-3605.4777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生連佐久総合病院付属小海診療所,長野県南佐久郡小海町大字小海４２６９-９,内科　胃腸科　小児科　外科　整形外科　眼科　リハビリテーション科　放射線科　皮膚科　麻酔科,,,9" xlink:title="厚生連佐久総合病院付属小海診療所" transform="ref(svg,13848.2404,-3608.8345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松原湖高原クリニック,長野県南佐久郡小海町大字豊里５９０７,内科　整形外科,,,9" xlink:title="松原湖高原クリニック" transform="ref(svg,13841.397,-3605.5882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野辺山へき地診療所,長野県南佐久郡南牧村大字野辺山７９-３,内科　外科,,,9" xlink:title="野辺山へき地診療所" transform="ref(svg,13847.3409,-3595.6772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南牧村出張診療所,長野県南佐久郡南牧村大字海ノ口９６６-３,内科　眼科,,,9" xlink:title="南牧村出張診療所" transform="ref(svg,13849.0591,-3602.1727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）のべやま医務室,長野県南佐久郡南牧村大字野辺山６５-３,内科,,,9" xlink:title="（特養）のべやま医務室" transform="ref(svg,13846.489,-3596.0241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,どんぐりの森クリニック,長野県南佐久郡南牧村大字野辺山１０８-３,内科　呼吸器内科　アレルギー科　ペインクリニック科,,,9" xlink:title="どんぐりの森クリニック" transform="ref(svg,13847.0543,-3595.5641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,身体障害者療護施設千曲園,長野県南佐久郡佐久穂町大字高野町１６２３-１,内科　外科,,,9" xlink:title="身体障害者療護施設千曲園" transform="ref(svg,13846.8978,-3616.5214)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高見沢医院,長野県南佐久郡佐久穂町大字海瀬１７,内科　小児科　放射線科　胃腸科　小児外科,,,9" xlink:title="高見沢医院" transform="ref(svg,13848.7958,-3615.9918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八千穂クリニック,長野県南佐久郡佐久穂町大字畑４８１-４,内科　消化器科　小児科　放射線科,,,9" xlink:title="八千穂クリニック" transform="ref(svg,13847.2428,-3614.2474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設佐久療護園,長野県南佐久郡佐久穂町大字高野町１６２３-６,内科　外科　整形外科,,,9" xlink:title="障害者支援施設佐久療護園" transform="ref(svg,13846.9245,-3616.4447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たなべ診療所,長野県南佐久郡佐久穂町大字高野町１５００-４０,内科　小児科,,,9" xlink:title="たなべ診療所" transform="ref(svg,13847.0361,-3616.7011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,エコ-バレ-スキ-場冬期診療所,長野県小県郡長和町大門３５２４,内科　外科,,,9" xlink:title="エコ-バレ-スキ-場冬期診療所" transform="ref(svg,13820.7758,-3612.0654)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国保依田窪病院附属和田診療所,長野県小県郡長和町和田１４８２-２,内科　外科,,,9" xlink:title="国保依田窪病院附属和田診療所" transform="ref(svg,13821.7197,-3620.8883)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前島診療所,長野県茅野市湖東４９７９,内科　小児科,,,9" xlink:title="前島診療所" transform="ref(svg,13821.2731,-3602.3191)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,救護施設八ヶ岳寮診療所,長野県茅野市金沢４５１５,内科　神経科,,,9" xlink:title="救護施設八ヶ岳寮診療所" transform="ref(svg,13818.9083,-3595.7307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米沢診療所,長野県茅野市米沢４０４７-１,内科　小児科,,,9" xlink:title="米沢診療所" transform="ref(svg,13818.597,-3603.2642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科三田医院,長野県茅野市玉川４５８９-１,耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科三田医院" transform="ref(svg,13817.3077,-3598.9366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小口医院金沢診療所,長野県茅野市金沢２２０２-２,内科　小児科　消化器科　婦人科,,,9" xlink:title="小口医院金沢診療所" transform="ref(svg,13818.8019,-3594.7498)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉川診療所,長野県茅野市玉川７３６１-１,内科　外科　循環器科　胃腸科,,,9" xlink:title="玉川診療所" transform="ref(svg,13820.8161,-3598.4774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,兵藤整形外科医院,長野県茅野市玉川長峰４５４４-２,整形外科　外科　リウマチ科　リハビリテーション科,,,9" xlink:title="兵藤整形外科医院" transform="ref(svg,13817.6654,-3598.8472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,眞田医院,長野県茅野市中大塩１１-９３,内科　小児科　アレルギー科,,,9" xlink:title="眞田医院" transform="ref(svg,13818.5879,-3602.7597)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細田眼科医院,長野県茅野市本町西１５-３２,眼科,,,9" xlink:title="細田眼科医院" transform="ref(svg,13816.4581,-3599.9093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泉野診療所,長野県茅野市泉野７０８８,内科　小児科　外科,,,9" xlink:title="泉野診療所" transform="ref(svg,13822.7776,-3599.4004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尖石診療所,長野県茅野市豊平４４８５-１,内科　消化器科　小児科,,,9" xlink:title="尖石診療所" transform="ref(svg,13822.0637,-3601.6089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ともみ内科医院,長野県茅野市本町東３-５,内科　小児科,,,9" xlink:title="ともみ内科医院" transform="ref(svg,13816.9157,-3599.795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）りんどう苑診療所,長野県茅野市豊平１９０７-１,内科,,,9" xlink:title="（特養）りんどう苑診療所" transform="ref(svg,13819.7747,-3601.8277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原田内科呼吸ケアクリニック,長野県茅野市玉川４４９６-１,内科　呼吸器内科,,,9" xlink:title="原田内科呼吸ケアクリニック" transform="ref(svg,13817.6059,-3598.9747)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅川クリニック内科循環器内科,長野県茅野市玉川３０８０-３,内科　循環器科,,,9" xlink:title="浅川クリニック内科循環器内科" transform="ref(svg,13818.8389,-3599.2472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設ふれあいの里,長野県茅野市玉川４３００-９,内科,,,9" xlink:title="介護老人福祉施設ふれあいの里" transform="ref(svg,13817.7636,-3599.0419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北山診療所,長野県茅野市北山４８０８-１,内科　小児科,,,9" xlink:title="北山診療所" transform="ref(svg,13822.4536,-3603.3995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林医院,長野県諏訪郡富士見町境７３７２,内科　小児科　循環器科,,,9" xlink:title="小林医院" transform="ref(svg,13827.3989,-3588.4008)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,セイコーエプソン（株）富士見事業所健康管理室,長野県諏訪郡富士見町富士見２８１,内科,,,9" xlink:title="セイコーエプソン（株）富士見事業所健康管理室" transform="ref(svg,13820.727,-3593.6985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,セイコーエプソン（株）諏訪南事業所健康管理室,長野県諏訪郡富士見町富士見１０１０,内科,,,9" xlink:title="セイコーエプソン（株）諏訪南事業所健康管理室" transform="ref(svg,13821.7566,-3593.2655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小池医院,長野県諏訪郡富士見町富士見４６５４,内科　胃腸科　小児科,,,9" xlink:title="小池医院" transform="ref(svg,13823.6473,-3590.8109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しらかば園診療所,長野県諏訪郡富士見町落合９５０７-１,内科　精神科,,,9" xlink:title="しらかば園診療所" transform="ref(svg,13824.1035,-3589.6424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）若草会文化ヶ丘医院,長野県諏訪郡富士見町富士見４６５４,内科　外科　小児科　呼吸器科　循環器科　整形外科　胃腸科　泌尿器科　放射線科,,,9" xlink:title="（医）若草会文化ヶ丘医院" transform="ref(svg,13823.4246,-3591.2952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）恋月荘診療部門,長野県諏訪郡富士見町落合１１０７２-４,内科,,,9" xlink:title="（特養）恋月荘診療部門" transform="ref(svg,13824.3023,-3591.5288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）紅林荘医務室,長野県諏訪郡富士見町富士見３１０７-２,内科,,,9" xlink:title="（特養）紅林荘医務室" transform="ref(svg,13822.8419,-3590.9611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富士見やまびこクリニック,長野県諏訪郡富士見町落合９９８４-１８８,内科　小児科　アレルギー科　呼吸器内科,,,9" xlink:title="富士見やまびこクリニック" transform="ref(svg,13823.8558,-3591.7522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）アイリス,長野県諏訪郡原村１０３７７-２,内科　外科,,,9" xlink:title="（特養）アイリス" transform="ref(svg,13818.8588,-3595.8747)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原村国民健康保険直営診療所,長野県諏訪郡原村払沢６６４９-３,内科　外科　整形外科　脳神経外科,,,9" xlink:title="原村国民健康保険直営診療所" transform="ref(svg,13821.5852,-3596.2859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八ヶ岳診療所,長野県諏訪郡原村３９０９-１４,内科　精神科,,,9" xlink:title="八ヶ岳診療所" transform="ref(svg,13822.5293,-3597.0868)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長野県厚生連富士見高原医療福祉センター中新田診療所,長野県諏訪郡原村１３２２１-２,内科　神経内科　小児科　整形外科　精神科,,,9" xlink:title="長野県厚生連富士見高原医療福祉センター中新田診療所" transform="ref(svg,13823.6786,-3595.5943)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）さくらの,長野県諏訪郡原村１３２２１-６,内科　精神科,,,9" xlink:title="地域密着型（特養）さくらの" transform="ref(svg,13823.7036,-3595.6367)" x="0" y="0"/>
+</g>
+</svg>

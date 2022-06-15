@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13886.71875 -3796.875 35.15625 35.15625" go:dataArea="13886.71875 -3796.875 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,かねこ歯科医院,新潟県阿賀野市百津町４-２９,歯科　小児歯科,,,9" xlink:title="かねこ歯科医院" transform="ref(svg,13921.8392,-3782.864)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,京ヶ瀬歯科医院,新潟県阿賀野市姥ケ橋９９８-１,歯科,,,9" xlink:title="京ヶ瀬歯科医院" transform="ref(svg,13918.6119,-3784.2856)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,緑岡歯科医院,新潟県阿賀野市緑岡３-１,歯科,,,9" xlink:title="緑岡歯科医院" transform="ref(svg,13918.7488,-3784.0573)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科医院,新潟県阿賀野市山口１-６-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="よしだ歯科医院" transform="ref(svg,13921.5041,-3784.0974)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十嵐歯科医院,新潟県五泉市吉沢１-６-１２,歯科,,,9" xlink:title="五十嵐歯科医院" transform="ref(svg,13917.9903,-3773.7599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白井歯科医院,新潟県五泉市駅前１-９-８金子ビル２Ｆ,歯科,,,9" xlink:title="白井歯科医院" transform="ref(svg,13917.753,-3773.6715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清野歯科医院,新潟県五泉市本町６-１-１,歯科,,,9" xlink:title="清野歯科医院" transform="ref(svg,13917.6113,-3774.4402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹川歯科医院,新潟県五泉市泉町１-４-１２,歯科,,,9" xlink:title="笹川歯科医院" transform="ref(svg,13917.1745,-3774.1815)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅井歯科医院,新潟県五泉市駅前２-６-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="浅井歯科医院" transform="ref(svg,13918.1682,-3773.5071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長谷川歯科医院,新潟県五泉市伊勢の川４-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="長谷川歯科医院" transform="ref(svg,13917.4533,-3774.7922)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金丸歯科医院,新潟県五泉市駅前２-８-１４,歯科,,,9" xlink:title="金丸歯科医院" transform="ref(svg,13918.3957,-3773.3625)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関川歯科医院,新潟県五泉市吉沢２-１-３,歯科,,,9" xlink:title="関川歯科医院" transform="ref(svg,13918.0781,-3773.7609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,亀嶋歯科医院,新潟県五泉市本町２-３-３０,歯科,,,9" xlink:title="亀嶋歯科医院" transform="ref(svg,13917.5806,-3774.0257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河辺歯科医院,新潟県五泉市東本町２-８-４４,歯科　小児歯科,,,9" xlink:title="河辺歯科医院" transform="ref(svg,13918.2082,-3774.0766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科クリニック,新潟県五泉市木越１９９８-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="武田歯科クリニック" transform="ref(svg,13917.7103,-3772.5027)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はらだ歯科医院,新潟県五泉市本町１-９-７,歯科　小児歯科,,,9" xlink:title="はらだ歯科医院" transform="ref(svg,13917.7206,-3773.6017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川上歯科,新潟県五泉市論瀬５９７５-１４,歯科　小児歯科,,,9" xlink:title="川上歯科" transform="ref(svg,13920.3852,-3774.6616)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県五泉市東本町２-５-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13918.1318,-3774.0979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおば歯科,新潟県五泉市赤海字下島８４１-１,歯科　小児歯科,,,9" xlink:title="あおば歯科" transform="ref(svg,13919.1236,-3774.4062)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科クリニック,新潟県五泉市南本町２-３-１２,歯科　小児歯科,,,9" xlink:title="わたなべ歯科クリニック" transform="ref(svg,13917.6649,-3773.1482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,新潟県五泉市村松乙６３３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13918.0201,-3769.2978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大石歯科医院,新潟県五泉市村松甲２４３７-３,歯科,,,9" xlink:title="大石歯科医院" transform="ref(svg,13918.2752,-3769.4245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,新潟県五泉市村松甲２５８３-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13918.4525,-3769.4099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡村歯科医院,新潟県五泉市村松甲１８５４の丙,歯科　小児歯科,,,9" xlink:title="岡村歯科医院" transform="ref(svg,13917.5395,-3768.9769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅家歯科医院,新潟県五泉市村松乙２８２-１,歯科,,,9" xlink:title="菅家歯科医院" transform="ref(svg,13917.449,-3769.1272)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いいはま歯科クリニック,新潟県五泉市村松甲２１９０-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いいはま歯科クリニック" transform="ref(svg,13917.794,-3769.2465)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大歯科医院,新潟県五泉市三本木早出３０３３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大歯科医院" transform="ref(svg,13918.5024,-3775.3387)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,新潟県五泉市旭町８-３９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13918.139,-3774.7189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいば歯科医院,新潟県三条市桜木町２６-５,歯科,,,9" xlink:title="あいば歯科医院" transform="ref(svg,13894.6516,-3761.898)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青-蜴負ﾈ医院,新潟県三条市西四日町４-１４-１６,歯科　矯正歯科　小児歯科,,,9" xlink:title="青-蜴負ﾈ医院" transform="ref(svg,13895.1482,-3762.1183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アトアール歯科医院,新潟県三条市一ノ門２-７-１１,歯科,,,9" xlink:title="アトアール歯科医院" transform="ref(svg,13896.908,-3763.0127)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,市川歯科医院,新潟県三条市居島１-７,歯科,,,9" xlink:title="市川歯科医院" transform="ref(svg,13895.9034,-3762.9735)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,市川歯科医院,新潟県三条市東裏館２-１０-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="市川歯科医院" transform="ref(svg,13895.8219,-3763.6001)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一之木戸大渓歯科医院,新潟県三条市一ノ門２-４-４３,歯科,,,9" xlink:title="一之木戸大渓歯科医院" transform="ref(svg,13896.7558,-3763.0933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）駅南歯科小林,新潟県三条市西大崎１-５-５５,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）駅南歯科小林" transform="ref(svg,13898.5988,-3762.6062)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）歯交会今井歯科医院,新潟県三条市旭町２-２-２６,歯科,,,9" xlink:title="（医）歯交会今井歯科医院" transform="ref(svg,13896.1115,-3763.53)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うらだて歯科,新潟県三条市東裏館２-１９-１１,歯科　矯正歯科,,,9" xlink:title="うらだて歯科" transform="ref(svg,13896.0538,-3763.8261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科医院,新潟県三条市北四日町９-９,歯科,,,9" xlink:title="金子歯科医院" transform="ref(svg,13895.3707,-3762.4354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川崎歯科医院,新潟県三条市本町２-４-１,歯科　小児歯科,,,9" xlink:title="川崎歯科医院" transform="ref(svg,13895.6909,-3763.0012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川田歯科矯正歯科医院,新潟県三条市興野２-２１-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="川田歯科矯正歯科医院" transform="ref(svg,13897.0004,-3763.5414)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きずな歯科クリニック,新潟県三条市南四日町１-５-７-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="きずな歯科クリニック" transform="ref(svg,13895.6036,-3762.31)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北入蔵歯科ワタナベ,新潟県三条市北入蔵１-３-１６,歯科　小児歯科,,,9" xlink:title="北入蔵歯科ワタナベ" transform="ref(svg,13898.1158,-3763.1704)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桐生歯科医院,新潟県三条市三竹２-４-３１-３,歯科　小児歯科,,,9" xlink:title="桐生歯科医院" transform="ref(svg,13898.1683,-3762.5803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くまがい歯科医院,新潟県三条市林町２-２-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くまがい歯科医院" transform="ref(svg,13896.5193,-3763.2828)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桑原歯科医院,新潟県三条市本町３-４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="桑原歯科医院" transform="ref(svg,13895.5883,-3763.0306)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,新潟県三条市南新保４-１８,歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,13895.987,-3762.1338)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科クリニック,新潟県三条市荒町２-２２-１７,歯科,,,9" xlink:title="小林歯科クリニック" transform="ref(svg,13895.2855,-3764.0329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,新潟県三条市島田２-７-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13894.5279,-3762.6182)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂上歯科医院,新潟県三条市一ノ門１-１-１２,歯科,,,9" xlink:title="坂上歯科医院" transform="ref(svg,13896.6231,-3762.8614)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,新潟県三条市旭町１-６-４,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13896.0811,-3763.1274)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科診療所,新潟県三条市本町４-２-２８,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐藤歯科診療所" transform="ref(svg,13895.3454,-3762.9524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科榎本医院,新潟県三条市一ノ門２-８-１５,歯科　矯正歯科,,,9" xlink:title="歯科榎本医院" transform="ref(svg,13896.9764,-3762.9957)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田巻歯科医院,新潟県三条市元町２-２９,歯科,,,9" xlink:title="田巻歯科医院" transform="ref(svg,13895.5552,-3763.1341)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土田歯科矯正歯科医院,新潟県三条市島田２-７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="土田歯科矯正歯科医院" transform="ref(svg,13894.6415,-3762.6451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナオ歯科,新潟県三条市北入蔵１-１-１,歯科,,,9" xlink:title="ナオ歯科" transform="ref(svg,13897.8807,-3763.1275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野島歯科医院,新潟県三条市元町１８-３,歯科,,,9" xlink:title="野島歯科医院" transform="ref(svg,13895.5234,-3763.3038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はなみ矯正歯科,新潟県三条市上須頃５９７,矯正歯科,,,9" xlink:title="はなみ矯正歯科" transform="ref(svg,13893.708,-3763.6167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,羽生歯科医院,新潟県三条市塚野目４-１３-５,歯科,,,9" xlink:title="羽生歯科医院" transform="ref(svg,13897.4695,-3763.7313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林町歯科医院,新潟県三条市林町２-１４-３,歯科,,,9" xlink:title="林町歯科医院" transform="ref(svg,13896.6589,-3763.6435)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東三条歯科,新潟県三条市東三条１-１８-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="東三条歯科" transform="ref(svg,13897.2149,-3762.8385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ファミリー歯科診療所,新潟県三条市西裏館２-４-２１,歯科　矯正歯科,,,9" xlink:title="ファミリー歯科診療所" transform="ref(svg,13895.5731,-3763.687)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふるかわ歯科医院,新潟県三条市石上２-１４-１５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふるかわ歯科医院" transform="ref(svg,13895.4768,-3764.4255)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星野歯科医院,新潟県三条市西大崎１-２０-２２,歯科,,,9" xlink:title="星野歯科医院" transform="ref(svg,13898.633,-3762.1252)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森山歯科医院,新潟県三条市本町５-１-１０,歯科,,,9" xlink:title="森山歯科医院" transform="ref(svg,13895.2412,-3763.0343)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八百枝歯科医院,新潟県三条市本町３-６-１３,歯科,,,9" xlink:title="八百枝歯科医院" transform="ref(svg,13895.6357,-3762.9343)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やちだ歯科医院,新潟県三条市上保内乙２１６-２,歯科　小児歯科,,,9" xlink:title="やちだ歯科医院" transform="ref(svg,13901.246,-3763.939)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,新潟県三条市島田２-６-２５,歯科　小児歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13894.3834,-3762.6583)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉野矯正歯科,新潟県三条市東三条１-５-１川商ビル４のＡ,矯正歯科,,,9" xlink:title="吉野矯正歯科" transform="ref(svg,13897.2476,-3763.1342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,嵐南歯科金子,新潟県三条市南四日町４-１１-４８,歯科　小児歯科,,,9" xlink:title="嵐南歯科金子" transform="ref(svg,13895.2706,-3761.7566)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおやぎ歯科医院,新潟県加茂市大字下条甲５０３-１６,歯科　小児歯科,,,9" xlink:title="あおやぎ歯科医院" transform="ref(svg,13903.5053,-3765.0241)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）松下歯科医院,新潟県加茂市青海町１-１１-３,歯科,,,9" xlink:title="（医）松下歯科医院" transform="ref(svg,13905.6628,-3766.5608)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,５番町歯科診療所,新潟県加茂市５番町１３-７,歯科,,,9" xlink:title="５番町歯科診療所" transform="ref(svg,13905.858,-3765.5255)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささおか歯科医院,新潟県加茂市寿町２０-１８,歯科,,,9" xlink:title="ささおか歯科医院" transform="ref(svg,13904.3469,-3765.8363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上条渡辺歯科医院,新潟県加茂市上条４-３６,歯科　小児歯科,,,9" xlink:title="上条渡辺歯科医院" transform="ref(svg,13906.2691,-3765.8305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すぎもと歯科,新潟県加茂市５番町４-６,歯科　矯正歯科,,,9" xlink:title="すぎもと歯科" transform="ref(svg,13906.0632,-3765.6818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武内歯科医院,新潟県加茂市旭町１０-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="武内歯科医院" transform="ref(svg,13904.3981,-3765.9829)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永井こども歯科医院,新潟県加茂市新栄町２-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="永井こども歯科医院" transform="ref(svg,13904.1221,-3766.4614)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永井歯科医院,新潟県加茂市栄町８-１８,歯科,,,9" xlink:title="永井歯科医院" transform="ref(svg,13904.1339,-3766.2365)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三浦歯科医院,新潟県加茂市陣ヶ峰１３-１２,歯科,,,9" xlink:title="三浦歯科医院" transform="ref(svg,13905.3625,-3766.9243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,皆川歯科医院,新潟県加茂市穀町６-１７,歯科,,,9" xlink:title="皆川歯科医院" transform="ref(svg,13905.2994,-3765.9866)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やおえだ歯科医院,新潟県加茂市穀町８-２９,歯科　小児歯科,,,9" xlink:title="やおえだ歯科医院" transform="ref(svg,13905.3285,-3765.9372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米山歯科医院,新潟県加茂市旭町１３-２５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="米山歯科医院" transform="ref(svg,13904.2224,-3766.0337)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ロイヤル歯科クリニック,新潟県加茂市駅前５-１８　２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="ロイヤル歯科クリニック" transform="ref(svg,13905.1128,-3765.9131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,新潟県加茂市松坂町２-２４,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13905.2109,-3765.8119)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東町歯科医院,新潟県燕市吉田東町３２５７-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="東町歯科医院" transform="ref(svg,13888.2505,-3769.623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十嵐歯科医院,新潟県燕市廿六木三区,歯科,,,9" xlink:title="五十嵐歯科医院" transform="ref(svg,13891.9383,-3766.8044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,新潟県燕市吉田日之出町２-１１,歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,13887.9324,-3768.5994)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井手口歯科クリニック,新潟県燕市東太田７０４７,歯科　小児歯科,,,9" xlink:title="井手口歯科クリニック" transform="ref(svg,13891.3637,-3767.0787)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科医院,新潟県燕市横田５１９-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="いとう歯科医院" transform="ref(svg,13888.1894,-3762.7224)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江村歯科医院,新潟県燕市八王寺７０３,歯科　小児歯科,,,9" xlink:title="江村歯科医院" transform="ref(svg,13892.0352,-3764.5154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥山歯科医院,新潟県燕市杣木３１６７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="奥山歯科医院" transform="ref(svg,13890.4617,-3767.7168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,亀倉歯科医院,新潟県燕市吉田堤町１１-５,歯科,,,9" xlink:title="亀倉歯科医院" transform="ref(svg,13887.9752,-3768.8123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河田歯科醫院,新潟県燕市吉田本所字本地９９-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="河田歯科醫院" transform="ref(svg,13887.6098,-3769.6428)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木原歯科医院,新潟県燕市杣木２３７,歯科,,,9" xlink:title="木原歯科医院" transform="ref(svg,13893.4044,-3767.2035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ぎょうぶ歯科医院,新潟県燕市吉田西太田７７８-５,歯科,,,9" xlink:title="ぎょうぶ歯科医院" transform="ref(svg,13887.5898,-3767.4143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小湊歯科医院,新潟県燕市次新１０４８-２,歯科,,,9" xlink:title="小湊歯科医院" transform="ref(svg,13895.7352,-3768.5719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小司歯科医院,新潟県燕市吉田東栄町５１-１７,歯科　歯科口腔外科,,,9" xlink:title="小司歯科医院" transform="ref(svg,13887.6788,-3768.0787)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斎藤歯科医院,新潟県燕市秋葉町４-６-２７,歯科,,,9" xlink:title="斎藤歯科医院" transform="ref(svg,13891.5012,-3766.3211)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科クリニック,新潟県燕市吉田文京町２-１５,歯科,,,9" xlink:title="さとう歯科クリニック" transform="ref(svg,13888.1337,-3770.1496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科クリニック,新潟県燕市井土巻５-３３,歯科　矯正歯科　小児歯科,,,9" xlink:title="さとう歯科クリニック" transform="ref(svg,13893.8539,-3765.2449)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,七里歯科医院,新潟県燕市南１-１６-１３,歯科,,,9" xlink:title="七里歯科医院" transform="ref(svg,13892.4721,-3765.9658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,篠原歯科医院,新潟県燕市燕５０７,歯科　小児歯科,,,9" xlink:title="篠原歯科医院" transform="ref(svg,13893.3221,-3766.8308)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高井歯科医院,新潟県燕市秋葉町３-７-２３,歯科,,,9" xlink:title="高井歯科医院" transform="ref(svg,13891.8167,-3766.1007)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高桑歯科医院,新潟県燕市新町４７３７-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="高桑歯科医院" transform="ref(svg,13893.1442,-3766.3737)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,新潟県燕市秋葉町１-２-２２,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13892.2684,-3766.2623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田巻歯科医院,新潟県燕市白山町２-１-３０,歯科　小児歯科,,,9" xlink:title="田巻歯科医院" transform="ref(svg,13892.4199,-3766.5366)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,筒井歯科医院,新潟県燕市燕３１３２,歯科,,,9" xlink:title="筒井歯科医院" transform="ref(svg,13892.8589,-3766.6338)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルクリニックツチヤ,新潟県燕市吉田３７５１,歯科　矯正歯科　小児歯科,,,9" xlink:title="デンタルクリニックツチヤ" transform="ref(svg,13888.372,-3769.8918)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はすみ歯科医院,新潟県燕市道金８６０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="はすみ歯科医院" transform="ref(svg,13891.2669,-3764.0027)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯のお医者さんしらとり,新潟県燕市吉田３７３８-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯のお医者さんしらとり" transform="ref(svg,13888.5531,-3769.859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細山歯科医院,新潟県燕市秋葉町１-８-１１,歯科　歯科口腔外科,,,9" xlink:title="細山歯科医院" transform="ref(svg,13892.2666,-3766.1571)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本多歯科医院,新潟県燕市白山町１-１-１４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="本多歯科医院" transform="ref(svg,13892.0111,-3766.515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,美樹歯科クリニック,新潟県燕市水道町４-４８４-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="美樹歯科クリニック" transform="ref(svg,13891.3222,-3766.0813)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科クリニック,新潟県燕市吉田浜首町２９-１８,歯科,,,9" xlink:title="よしだ歯科クリニック" transform="ref(svg,13887.018,-3769.1842)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡部歯科医院,新潟県燕市吉田２７８０-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="渡部歯科医院" transform="ref(svg,13888.6297,-3769.3768)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたべ歯科クリニック,新潟県燕市東太田１２０４-２,歯科　小児歯科,,,9" xlink:title="わたべ歯科クリニック" transform="ref(svg,13893.5763,-3767.8542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川名歯科医院,新潟県南蒲原郡田上町大字川船河甲１０７３-１７,歯科,,,9" xlink:title="川名歯科医院" transform="ref(svg,13906.1112,-3767.9789)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,櫻木歯科医院,新潟県南蒲原郡田上町田上丙１２０９-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="櫻木歯科医院" transform="ref(svg,13907.3468,-3771.2831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瀬--歯科医院,新潟県南蒲原郡田上町大字田上字横山丙２４９４-６,歯科　小児歯科,,,9" xlink:title="瀬--歯科医院" transform="ref(svg,13907.5734,-3771.9602)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科医院,新潟県南蒲原郡田上町大字田上丁２４０２-４９,歯科　矯正歯科　小児歯科,,,9" xlink:title="ひまわり歯科医院" transform="ref(svg,13906.7194,-3770.1825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青木歯科医院,新潟県新潟市北区内島見８５９-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="青木歯科医院" transform="ref(svg,13920.8711,-3794.1269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安達歯科医院,新潟県新潟市北区柳原４-１-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="安達歯科医院" transform="ref(svg,13921.0273,-3791.8316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有田歯科医院,新潟県新潟市北区松浜東町２-１３-３４,歯科,,,9" xlink:title="有田歯科医院" transform="ref(svg,13915.3122,-3795.5379)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科医院,新潟県新潟市北区須戸２-６-４０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かとう歯科医院" transform="ref(svg,13918.6096,-3791.7552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,新潟県新潟市北区松浜１-１８-３,歯科,,,9" xlink:title="神田歯科医院" transform="ref(svg,13914.5238,-3795.0999)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北村歯科医院,新潟県新潟市北区三軒屋町１５-３１,歯科　歯科口腔外科,,,9" xlink:title="北村歯科医院" transform="ref(svg,13914.8569,-3794.9596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くまくらデンタルオフィス,新潟県新潟市北区石動１-１５-５,歯科　小児歯科,,,9" xlink:title="くまくらデンタルオフィス" transform="ref(svg,13921.3739,-3792.1018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グリーン歯科医院,新潟県新潟市北区石動１-２-３７,歯科　矯正歯科　小児歯科,,,9" xlink:title="グリーン歯科医院" transform="ref(svg,13921.4971,-3792.4196)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県新潟市北区早通南１-５-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13917.9269,-3792.0622)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,新潟県新潟市北区松浜本町１-１２-１４,歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13914.7579,-3795.1067)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しげたに歯科医院,新潟県新潟市北区長戸呂４２７-２,歯科　小児歯科,,,9" xlink:title="しげたに歯科医院" transform="ref(svg,13917.8956,-3788.2881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すずき歯科クリニック,新潟県新潟市北区松浜６-１３-２７,歯科,,,9" xlink:title="すずき歯科クリニック" transform="ref(svg,13914.0759,-3795.5759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すみれ野歯科医院,新潟県新潟市北区すみれ野１-１３-１３,歯科,,,9" xlink:title="すみれ野歯科医院" transform="ref(svg,13915.9633,-3791.9844)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,聖良歯科医院,新潟県新潟市北区木崎２７６１-３６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="聖良歯科医院" transform="ref(svg,13919.1596,-3794.3196)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,月岡歯科医院,新潟県新潟市北区葛塚４７４５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="月岡歯科医院" transform="ref(svg,13921.791,-3792.7451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つくしの歯科医院,新潟県新潟市北区濁川１-１８-８,歯科,,,9" xlink:title="つくしの歯科医院" transform="ref(svg,13915.6896,-3793.021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,常木歯科医院,新潟県新潟市北区白新町２-７-１３,歯科　小児歯科,,,9" xlink:title="常木歯科医院" transform="ref(svg,13921.5847,-3791.5902)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,冨田歯科医院,新潟県新潟市北区白新町２-４-２１,歯科　矯正歯科　小児歯科,,,9" xlink:title="冨田歯科医院" transform="ref(svg,13921.7082,-3791.7)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊栄インター歯科,新潟県新潟市北区かぶとやま２-１-６２ベイシア豊栄店内,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="豊栄インター歯科" transform="ref(svg,13921.8679,-3792.8767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なりた歯科医院,新潟県新潟市北区川西３-１-２４,歯科,,,9" xlink:title="なりた歯科医院" transform="ref(svg,13921.2953,-3790.9253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,萩原歯科医院,新潟県新潟市北区つくし野２-１-１,歯科,,,9" xlink:title="萩原歯科医院" transform="ref(svg,13915.6471,-3792.7169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひぐち歯科医院,新潟県新潟市北区葛塚９４-１,歯科　小児歯科,,,9" xlink:title="ひぐち歯科医院" transform="ref(svg,13921.0931,-3791.328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,不二崎歯科医院,新潟県新潟市北区松浜本町２-９-１１,歯科,,,9" xlink:title="不二崎歯科医院" transform="ref(svg,13914.3565,-3794.9719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホリデンタルオフィス,新潟県新潟市北区白新町４-８-５,歯科,,,9" xlink:title="ホリデンタルオフィス" transform="ref(svg,13921.1925,-3791.3549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほんま歯科医院,新潟県新潟市北区早通北４-６-３１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ほんま歯科医院" transform="ref(svg,13918.4172,-3792.2117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もろ歯科クリニック,新潟県新潟市北区石動１-２３-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="もろ歯科クリニック" transform="ref(svg,13921.1833,-3792.1282)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉副歯科医院,新潟県新潟市北区早通南３-１-６,歯科,,,9" xlink:title="吉副歯科医院" transform="ref(svg,13917.7353,-3791.8855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおば歯科,新潟県新潟市東区紫竹６-１８-４３,歯科　矯正歯科　小児歯科,,,9" xlink:title="あおば歯科" transform="ref(svg,13908.3734,-3790.9239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅見歯科医院,新潟県新潟市東区向陽２-１０-２,歯科　小児歯科,,,9" xlink:title="浅見歯科医院" transform="ref(svg,13911.4063,-3794.1684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安部歯科医院,新潟県新潟市東区物見山２-１３-１９,歯科,,,9" xlink:title="安部歯科医院" transform="ref(svg,13909.3651,-3794.5335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あゆかわ歯科医院,新潟県新潟市東区山木戸４-７-７,歯科　小児歯科,,,9" xlink:title="あゆかわ歯科医院" transform="ref(svg,13908.4371,-3792.1957)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,粟山歯科医院,新潟県新潟市東区石山６-４-１３,歯科　小児歯科,,,9" xlink:title="粟山歯科医院" transform="ref(svg,13910.1162,-3790.069)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杏歯科クリニック,新潟県新潟市東区東中島３-９-５４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="杏歯科クリニック" transform="ref(svg,13911.739,-3791.0801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯島歯科医院,新潟県新潟市東区牡丹山６-１０-７,歯科,,,9" xlink:title="飯島歯科医院" transform="ref(svg,13909.6224,-3791.8151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしやま歯科医院,新潟県新潟市東区はなみずき２-６-２０,歯科　小児歯科,,,9" xlink:title="いしやま歯科医院" transform="ref(svg,13910.2951,-3791.6748)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊東歯科医院,新潟県新潟市東区中山８-２７-１１,歯科,,,9" xlink:title="伊東歯科医院" transform="ref(svg,13909.3448,-3791.668)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いろかわ歯科医院,新潟県新潟市東区秋葉１-６-３４,歯科　小児歯科,,,9" xlink:title="いろかわ歯科医院" transform="ref(svg,13908.3927,-3794.0228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宇賀村歯科医院,新潟県新潟市東区牡丹山３-１-１４,歯科,,,9" xlink:title="宇賀村歯科医院" transform="ref(svg,13909.3712,-3792.4027)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エル歯科医院,新潟県新潟市東区大形本町３-１-２イオン新潟東店　２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="エル歯科医院" transform="ref(svg,13911.4614,-3792.4871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オオヒラ歯科クリニック,新潟県新潟市東区太平１-３-１０,歯科,,,9" xlink:title="オオヒラ歯科クリニック" transform="ref(svg,13911.6776,-3794.7237)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,新潟県新潟市東区北葉町１３-４,歯科　小児歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13907.5315,-3793.9188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,新潟県新潟市東区下場本町１４-４,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13910.7373,-3790.5757)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科医院,新潟県新潟市東区中木戸５０-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小川歯科医院" transform="ref(svg,13909.9302,-3792.5319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小黒歯科医院,新潟県新潟市東区紫竹５-１９-１５ボ・ヌール・トワ-X１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="小黒歯科医院" transform="ref(svg,13907.9042,-3790.5352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,新潟県新潟市東区東中野山３-１０-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13911.3021,-3790.1683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おひさま歯科診療所,新潟県新潟市東区有楽３-５-５,歯科,,,9" xlink:title="おひさま歯科診療所" transform="ref(svg,13911.308,-3794.0457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梶川歯科医院,新潟県新潟市東区太平４-１-７,歯科　歯科口腔外科,,,9" xlink:title="梶川歯科医院" transform="ref(svg,13910.8366,-3794.4601)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,勝見歯科医院,新潟県新潟市東区石山６-１６-４,歯科,,,9" xlink:title="勝見歯科医院" transform="ref(svg,13909.6007,-3789.8743)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かねこ歯科クリニック,新潟県新潟市東区古湊町３-５０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かねこ歯科クリニック" transform="ref(svg,13907.1687,-3793.7758)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かめかめ歯科医院,新潟県新潟市東区新石山４-５-５,歯科,,,9" xlink:title="かめかめ歯科医院" transform="ref(svg,13909.5513,-3790.0941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桑原歯科医院,新潟県新潟市東区下木戸２-１４-１０,歯科　矯正歯科,,,9" xlink:title="桑原歯科医院" transform="ref(svg,13909.4707,-3792.6469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こうど歯科クリニック,新潟県新潟市東区河渡本町２２-５６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こうど歯科クリニック" transform="ref(svg,13910.7548,-3793.4092)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小竹歯科医院,新潟県新潟市東区太平３-５-１０,歯科　小児歯科,,,9" xlink:title="小竹歯科医院" transform="ref(svg,13911.0988,-3794.5649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ことぶき歯科,新潟県新潟市東区はなみずき１-１６-１０,歯科　小児歯科,,,9" xlink:title="ことぶき歯科" transform="ref(svg,13910.1149,-3791.4857)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県新潟市東区秋葉通２-３７２２-１０５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13908.3399,-3794.1651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいかわ歯科医院,新潟県新潟市東区新松崎２-５-７,歯科　小児歯科,,,9" xlink:title="さいかわ歯科医院" transform="ref(svg,13911.7636,-3793.2857)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂詰歯科医院,新潟県新潟市東区有楽３-４-３,歯科　小児歯科,,,9" xlink:title="坂詰歯科医院" transform="ref(svg,13911.0865,-3794.0211)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科医院,新潟県新潟市東区紫竹７-１２-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐々木歯科医院" transform="ref(svg,13908.8495,-3791.0677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,新潟県新潟市東区長者町６-１０,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13907.2592,-3793.5946)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,新潟県新潟市東区東明１-８-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13908.2973,-3789.8897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,新潟県新潟市東区粟山４-１-２１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13910.1407,-3789.8441)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白田歯科医院,新潟県新潟市東区宝町１-３８,歯科,,,9" xlink:title="白田歯科医院" transform="ref(svg,13908.6921,-3794.2167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）豊医会スマイル歯科おざき,新潟県新潟市東区中山６-３-３５ｅ-メディカルプラザ３Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）豊医会スマイル歯科おざき" transform="ref(svg,13908.1023,-3791.2562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平歯科医院,新潟県新潟市東区中興野５-５１,歯科,,,9" xlink:title="平歯科医院" transform="ref(svg,13913.7576,-3792.1028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけと歯科クリニック,新潟県新潟市東区寺山２-２-１０,歯科　小児歯科,,,9" xlink:title="たけと歯科クリニック" transform="ref(svg,13910.8907,-3792.3921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹本歯科医院,新潟県新潟市東区逢谷内４-８-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="竹本歯科医院" transform="ref(svg,13911.809,-3792.1747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田代歯科クリニック,新潟県新潟市東区松和町８-２１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="田代歯科クリニック" transform="ref(svg,13909.6906,-3794.1243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富樫歯科医院,新潟県新潟市東区牡丹山２-６-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="富樫歯科医院" transform="ref(svg,13908.9875,-3792.0872)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とさか歯科医院,新潟県新潟市東区大形本町４-８-１６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="とさか歯科医院" transform="ref(svg,13912.0702,-3792.3074)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とみい歯科医院,新潟県新潟市東区空港西２-２０-１８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="とみい歯科医院" transform="ref(svg,13909.9439,-3794.8699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ないとう歯科医院,新潟県新潟市東区物見山２-３５-１９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ないとう歯科医院" transform="ref(svg,13909.6266,-3794.5399)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中川歯科医院,新潟県新潟市東区中山７-２３-９,歯科,,,9" xlink:title="中川歯科医院" transform="ref(svg,13908.4354,-3791.2099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかきど歯科,新潟県新潟市東区中木戸２１６-４,歯科,,,9" xlink:title="なかきど歯科" transform="ref(svg,13909.9149,-3792.6887)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仲又歯科,新潟県新潟市東区東中島２-２-３アスティオン東中島１Ｆ,歯科　小児歯科,,,9" xlink:title="仲又歯科" transform="ref(svg,13910.8701,-3790.7801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にわ歯科医院,新潟県新潟市東区中山２-１０-１５,歯科,,,9" xlink:title="にわ歯科医院" transform="ref(svg,13908.1484,-3791.572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしもと歯科医院,新潟県新潟市東区河渡本町１-１,歯科　小児歯科,,,9" xlink:title="はしもと歯科医院" transform="ref(svg,13910.0499,-3793.3564)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科医院,新潟県新潟市東区東中野山１-２-１３,歯科,,,9" xlink:title="服部歯科医院" transform="ref(svg,13910.8377,-3790.2263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花かいどう矯正歯科医院,新潟県新潟市東区空港西２-１６-２３,矯正歯科,,,9" xlink:title="花かいどう矯正歯科医院" transform="ref(svg,13909.9017,-3794.7293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花みずき歯科医院,新潟県新潟市東区寺山３-３０-２４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="花みずき歯科医院" transform="ref(svg,13911.1445,-3791.8658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はやつ歯科クリニック,新潟県新潟市東区もえぎ野２-５-１９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はやつ歯科クリニック" transform="ref(svg,13910.1364,-3789.3005)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平原歯科新潟東区役所内診療所,新潟県新潟市東区下木戸１-４-１新潟市東区役所内,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="平原歯科新潟東区役所内診療所" transform="ref(svg,13909.2592,-3792.4877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フカワ歯科医院,新潟県新潟市東区大形本町５-３-２０,歯科　矯正歯科　小児歯科,,,9" xlink:title="フカワ歯科医院" transform="ref(svg,13912.1203,-3792.1939)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふなえ歯科医院,新潟県新潟市東区船江町２-１０-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふなえ歯科医院" transform="ref(svg,13910.0434,-3795.1805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ぼたんやまデンタルクリニック,新潟県新潟市東区上木戸４-１-９,歯科　小児歯科,,,9" xlink:title="ぼたんやまデンタルクリニック" transform="ref(svg,13910.0241,-3792.1302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｗｈｉｔｅ　Ｂｅｒｒｙ　こうなん歯科,新潟県新潟市東区江南６-１-３１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="Ｗｈｉｔｅ　Ｂｅｒｒｙ　こうなん歯科" transform="ref(svg,13908.3207,-3790.3076)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マリデンタルクリニック,新潟県新潟市東区東明５-１-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="マリデンタルクリニック" transform="ref(svg,13908.677,-3789.9266)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科医院,新潟県新潟市東区河渡２-３-２５,歯科,,,9" xlink:title="水野歯科医院" transform="ref(svg,13910.0973,-3793.72)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやの歯科医院,新潟県新潟市東区江南２-７-１７,歯科　小児歯科,,,9" xlink:title="みやの歯科医院" transform="ref(svg,13907.9916,-3790.1802)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みるく歯科クリニック,新潟県新潟市東区有楽１-７-１,歯科　小児歯科,,,9" xlink:title="みるく歯科クリニック" transform="ref(svg,13910.3441,-3793.9174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,新潟県新潟市東区河渡１-４-１５,歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13909.7771,-3793.4396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もえぎの歯科,新潟県新潟市東区もえぎ野３-１２-１０,歯科　小児歯科,,,9" xlink:title="もえぎの歯科" transform="ref(svg,13910.5231,-3789.5736)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,新潟県新潟市東区豊１-１-２３,歯科　小児歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,13910.292,-3792.5079)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまざき小児歯科,新潟県新潟市東区粟山２-１-２０,歯科　矯正歯科　小児歯科,,,9" xlink:title="やまざき小児歯科" transform="ref(svg,13909.9476,-3789.7334)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ライオン歯科,新潟県新潟市東区新松崎２-１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ライオン歯科" transform="ref(svg,13911.6962,-3792.9632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,りょう歯科クリニック,新潟県新潟市東区東中野山４-１５-３,小児歯科　歯科口腔外科,,,9" xlink:title="りょう歯科クリニック" transform="ref(svg,13911.2337,-3790.4425)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,間歯科医院,新潟県新潟市中央区南出来島１-１５-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="間歯科医院" transform="ref(svg,13902.6439,-3789.5213)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤坂歯科医院,新潟県新潟市中央区緑町３４３７-１４,歯科,,,9" xlink:title="赤坂歯科医院" transform="ref(svg,13905.6785,-3792.9002)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤柴歯科東堀クリニック,新潟県新潟市中央区東堀前通５番町４０６,歯科,,,9" xlink:title="赤柴歯科東堀クリニック" transform="ref(svg,13904.5017,-3791.874)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あきの歯科クリニック,新潟県新潟市中央区白山浦新町通７９-１,歯科　小児歯科,,,9" xlink:title="あきの歯科クリニック" transform="ref(svg,13902.6589,-3791.3473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アクア歯科クリニック,新潟県新潟市中央区文京町１-２３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アクア歯科クリニック" transform="ref(svg,13901.1763,-3790.55)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アサオ歯科医院,新潟県新潟市中央区上大川前通６番町１１９５-１川口ビル２Ｆ,歯科,,,9" xlink:title="アサオ歯科医院" transform="ref(svg,13904.7523,-3791.9602)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさお歯科クリニック,新潟県新潟市中央区新島町通４ノ町２２３７-４,歯科,,,9" xlink:title="あさお歯科クリニック" transform="ref(svg,13905.4269,-3792.5569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅妻歯科医院,新潟県新潟市中央区万代１-２-３コープ野村万代２Ｆ,歯科,,,9" xlink:title="浅妻歯科医院" transform="ref(svg,13905.7388,-3791.5765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒井歯科,新潟県新潟市中央区上近江４-２-２０,歯科,,,9" xlink:title="荒井歯科" transform="ref(svg,13903.0761,-3789.9442)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アルモニ矯正歯科,新潟県新潟市中央区上近江４-１２-２０ＤｅＫＫＹ４０１　１Ｆ,矯正歯科,,,9" xlink:title="アルモニ矯正歯科" transform="ref(svg,13902.9681,-3789.8322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井伊歯科医院,新潟県新潟市中央区鐙２-１４-２３-１,歯科　小児歯科,,,9" xlink:title="井伊歯科医院" transform="ref(svg,13907.0566,-3790.4032)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いいじま歯科,新潟県新潟市中央区笹口２-３-５,歯科,,,9" xlink:title="いいじま歯科" transform="ref(svg,13906.336,-3790.9608)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いかみ歯科クリニック,新潟県新潟市中央区関屋下川原町１-６７１,歯科,,,9" xlink:title="いかみ歯科クリニック" transform="ref(svg,13902.5958,-3791.5831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十嵐歯科医院,新潟県新潟市中央区大島１３０-５０,歯科　小児歯科,,,9" xlink:title="五十嵐歯科医院" transform="ref(svg,13902.5162,-3788.0536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いがらし歯科クリニック,新潟県新潟市中央区附船町１-４３４８-１,歯科　小児歯科,,,9" xlink:title="いがらし歯科クリニック" transform="ref(svg,13905.396,-3793.4482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いくの歯科医院,新潟県新潟市中央区鐙西２-１８-１４,歯科,,,9" xlink:title="いくの歯科医院" transform="ref(svg,13906.2018,-3790.2025)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,新潟県新潟市中央区万代４-１-５,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13905.7917,-3791.7544)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,新潟県新潟市中央区東堀通６番町１０５０,歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,13904.5158,-3792.038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石橋歯科クリニック,新潟県新潟市中央区上所上１-５-１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="石橋歯科クリニック" transform="ref(svg,13903.3365,-3790.5728)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イシモト歯科医院,新潟県新潟市中央区東大通１-７-８アイ・エム第一ビル１Ｆ,歯科　矯正歯科,,,9" xlink:title="イシモト歯科医院" transform="ref(svg,13906.1465,-3791.5128)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）こばやし歯科医院,新潟県新潟市中央区女池上山４-１８-９,歯科　小児歯科,,,9" xlink:title="（医）こばやし歯科医院" transform="ref(svg,13902.4901,-3789.3384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ニイガタクリニック,新潟県新潟市中央区関屋本村町１-１２７-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）ニイガタクリニック" transform="ref(svg,13902.1319,-3791.1956)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ふかまち歯科矯正,新潟県新潟市中央区弁天１-４-２２グリンビル３Ｆ,矯正歯科,,,9" xlink:title="（医）ふかまち歯科矯正" transform="ref(svg,13905.8833,-3791.4268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）豊医会スマイルキッズデンタルパーク,新潟県新潟市中央区万代３-１-１メディアシップ３Ｆ,歯科　小児歯科,,,9" xlink:title="（医）豊医会スマイルキッズデンタルパーク" transform="ref(svg,13905.609,-3791.8607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イワシタ歯科,新潟県新潟市中央区古町通５番町６０１,歯科,,,9" xlink:title="イワシタ歯科" transform="ref(svg,13904.4206,-3791.9878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植木歯科医院,新潟県新潟市中央区寄附町５０１６-１,歯科,,,9" xlink:title="植木歯科医院" transform="ref(svg,13904.8943,-3793.2611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上田歯科医院,新潟県新潟市中央区女池東１-６-１５,歯科,,,9" xlink:title="上田歯科医院" transform="ref(svg,13905.2314,-3789.7077)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宇佐美歯科医院,新潟県新潟市中央区上大川前通８番町１２４９,歯科,,,9" xlink:title="宇佐美歯科医院" transform="ref(svg,13904.8602,-3792.3347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エクセレント歯科クリニック新潟医院,新潟県新潟市中央区紫竹山１-２-５ＴＭビル２Ｆ・Ｂ,歯科　歯科口腔外科,,,9" xlink:title="エクセレント歯科クリニック新潟医院" transform="ref(svg,13906.5834,-3790.1262)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江口歯科医院,新潟県新潟市中央区西堀前通２番町７０９白柳ビル２Ｆ,歯科,,,9" xlink:title="江口歯科医院" transform="ref(svg,13904.0219,-3791.6852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塩屋歯科,新潟県新潟市中央区上近江４-９-９,歯科,,,9" xlink:title="塩屋歯科" transform="ref(svg,13903.0961,-3789.6683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オアシスデンタルクリニック,新潟県新潟市中央区東万代町１-５ルークスビル２-Ａ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="オアシスデンタルクリニック" transform="ref(svg,13906.2258,-3791.6175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおきば矯正歯科医院,新潟県新潟市中央区西堀前通５番町７６４-１伊藤ビル３Ｆ,矯正歯科,,,9" xlink:title="おおきば矯正歯科医院" transform="ref(svg,13904.3516,-3792.0427)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,新潟県新潟市中央区関屋金衛町２-２７６-１グリーンハイツ１０３,歯科　小児歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13901.4932,-3791.2379)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大藤歯科医院,新潟県新潟市中央区附船町１-４３８３,歯科,,,9" xlink:title="大藤歯科医院" transform="ref(svg,13905.5488,-3793.4999)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおむら歯科医院,新潟県新潟市中央区愛宕１-２-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おおむら歯科医院" transform="ref(svg,13902.8503,-3788.8276)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オオワキ歯科医院,新潟県新潟市中央区本町通１３番町３１３９山本時計店ビル２Ｆ,歯科,,,9" xlink:title="オオワキ歯科医院" transform="ref(svg,13904.8278,-3793.1352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡崎歯科医院,新潟県新潟市中央区西堀前通４番町７３５岡崎ビル２階,歯科　小児歯科,,,9" xlink:title="岡崎歯科医院" transform="ref(svg,13904.2358,-3791.8701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,新潟県新潟市中央区南笹口１-１０-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13906.7394,-3790.8232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,新潟県新潟市中央区堀之内南１-１７-７ロータス日東１Ｆ,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13905.2575,-3790.4018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,新潟県新潟市中央区本町通１０番町１８５９,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13904.8237,-3792.6208)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,新潟県新潟市中央区中大畑町５２４,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13904.157,-3792.5561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,新潟県新潟市中央区古町通１番町５２３,歯科　小児歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13904.045,-3791.6041)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科クリニック,新潟県新潟市中央区万代１-４-３３損保ジャパン・アクサ新潟ビル３階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小野歯科クリニック" transform="ref(svg,13905.751,-3791.7121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ｏｌｉｖｅ　ｄｅｎｔａｌ　ｈｏｕｓｅ,新潟県新潟市中央区神道寺１-１-２４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ｏｌｉｖｅ　ｄｅｎｔａｌ　ｈｏｕｓｅ" transform="ref(svg,13905.7614,-3790.0797)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かいづクリニックドンテール,新潟県新潟市中央区出来島１-５-４３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かいづクリニックドンテール" transform="ref(svg,13902.3811,-3790.0638)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,片桐歯科医院,新潟県新潟市中央区東大通１-２-２５北越第１ビル５Ｆ,歯科,,,9" xlink:title="片桐歯科医院" transform="ref(svg,13906.0091,-3791.4259)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,勝見歯科医院,新潟県新潟市中央区白山浦１-４０５,歯科,,,9" xlink:title="勝見歯科医院" transform="ref(svg,13903.5102,-3791.5481)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科クリニック,新潟県新潟市中央区上大川前通５番町６４-１コープシティ上大川前１０１,歯科　小児歯科,,,9" xlink:title="加藤歯科クリニック" transform="ref(svg,13904.7495,-3791.877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かなや歯科クリニック,新潟県新潟市中央区京王２-１-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かなや歯科クリニック" transform="ref(svg,13907.7547,-3789.5362)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子医科歯科医院,新潟県新潟市中央区長嶺町３-１８,歯科,,,9" xlink:title="金子医科歯科医院" transform="ref(svg,13907.0459,-3791.5123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,亀田歯科診療所,新潟県新潟市中央区東大通１-４-１マルタケビル５Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="亀田歯科診療所" transform="ref(svg,13906.1553,-3791.3758)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かも歯科クリニック,新潟県新潟市中央区幸西１-５-２０メゾン八千代１Ｆ,歯科　小児歯科,,,9" xlink:title="かも歯科クリニック" transform="ref(svg,13905.0087,-3791.2133)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川上歯科医院,新潟県新潟市中央区明石１-３-１１,歯科,,,9" xlink:title="川上歯科医院" transform="ref(svg,13906.5585,-3791.5861)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,新潟県新潟市中央区関屋浜松町９８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="神田歯科医院" transform="ref(svg,13901.4747,-3790.7409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,キタムラ歯科医院,新潟県新潟市中央区鳥屋野２-５-２１,歯科　小児歯科,,,9" xlink:title="キタムラ歯科医院" transform="ref(svg,13902.1244,-3788.6886)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矯正歯科さくらぎクリニック,新潟県新潟市中央区神道寺１-５-２７,矯正歯科,,,9" xlink:title="矯正歯科さくらぎクリニック" transform="ref(svg,13905.7057,-3789.8547)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久代歯科医院,新潟県新潟市中央区姥ケ山６-１３-５,歯科,,,9" xlink:title="久代歯科医院" transform="ref(svg,13908.2227,-3789.2789)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くりの木歯科,新潟県新潟市中央区沼垂東６-１-３０,歯科　小児歯科,,,9" xlink:title="くりの木歯科" transform="ref(svg,13907.0507,-3792.238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｋ-Vｓ　Ｗｈｉｔｅ　Ｄｅｎｔａｌ　Ｃｌｉｎｉｃ,新潟県新潟市中央区上大川前通１１番町１８９９,歯科,,,9" xlink:title="Ｋ-Vｓ　Ｗｈｉｔｅ　Ｄｅｎｔａｌ　Ｃｌｉｎｉｃ" transform="ref(svg,13904.9384,-3792.7468)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こうの歯科医院,新潟県新潟市中央区西堀通５番町８４０-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こうの歯科医院" transform="ref(svg,13904.2901,-3792.137)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県新潟市中央区沼垂東１-７-１２,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13907.1251,-3791.848)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県新潟市中央区上大川前通９番町１２６４,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13904.9365,-3792.4658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山歯科医院,新潟県新潟市中央区西堀前通１１番町１６４５-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="小山歯科医院" transform="ref(svg,13904.5475,-3792.7887)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こんどう歯科医院,新潟県新潟市中央区堀之内１,歯科,,,9" xlink:title="こんどう歯科医院" transform="ref(svg,13904.6229,-3790.4298)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,齋藤歯科医院,新潟県新潟市中央区本馬越１-１０-１６,歯科,,,9" xlink:title="齋藤歯科医院" transform="ref(svg,13907.5914,-3791.2741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斉藤歯科医院,新潟県新潟市中央区横７番町通２-４５９３-１,歯科,,,9" xlink:title="斉藤歯科医院" transform="ref(svg,13905.1427,-3793.2476)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂井歯科医院,新潟県新潟市中央区天明町２-１７藤屋ビル１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="坂井歯科医院" transform="ref(svg,13906.3916,-3791.8942)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,新潟県新潟市中央区東幸町１１-１本間ハイツ１階,歯科　小児歯科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,13904.8457,-3790.7422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科クリニック,新潟県新潟市中央区文京町７-１,歯科　小児歯科,,,9" xlink:title="さくら歯科クリニック" transform="ref(svg,13901.0779,-3790.616)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹川歯科医院,新潟県新潟市中央区学校町通３番町４９８-１,歯科,,,9" xlink:title="笹川歯科医院" transform="ref(svg,13902.8107,-3791.6821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささくら矯正歯科クリニック,新潟県新潟市中央区学校町通２番町５９８-４０,矯正歯科,,,9" xlink:title="ささくら矯正歯科クリニック" transform="ref(svg,13903.5845,-3791.6647)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,新潟県新潟市中央区女池６-１９-１７,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13903.9383,-3789.0994)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,新潟県新潟市中央区田中町５１７９,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13904.1634,-3792.9804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三和歯科医院,新潟県新潟市中央区関屋本村町１-１０５,歯科,,,9" xlink:title="三和歯科医院" transform="ref(svg,13902.2164,-3791.3525)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塩谷歯科医院,新潟県新潟市中央区東堀前通３番町３７７-１,歯科,,,9" xlink:title="塩谷歯科医院" transform="ref(svg,13904.3283,-3791.7002)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塩谷歯科医院,新潟県新潟市中央区鐙西１-１-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="塩谷歯科医院" transform="ref(svg,13906.3291,-3790.5172)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科村松医院,新潟県新潟市中央区弁天２-１-１弁天ビル３Ｆ,歯科　歯科口腔外科,,,9" xlink:title="歯科村松医院" transform="ref(svg,13905.8978,-3791.4581)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しまだ歯科こども歯科クリニック,新潟県新潟市中央区大島２０４-１,歯科　小児歯科,,,9" xlink:title="しまだ歯科こども歯科クリニック" transform="ref(svg,13902.3735,-3788.1541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,新潟県新潟市中央区東堀前通７番町１０７５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="清水歯科医院" transform="ref(svg,13904.6379,-3792.2535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,じょうじ歯科クリニック,新潟県新潟市中央区堀之内南１-１５-１５とやのショッピングセンター内,歯科　小児歯科,,,9" xlink:title="じょうじ歯科クリニック" transform="ref(svg,13905.2791,-3790.5574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,椙田歯科医院,新潟県新潟市中央区寄居町６９７尾川ビル２Ｆ,歯科,,,9" xlink:title="椙田歯科医院" transform="ref(svg,13903.9943,-3792.325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すぎやま矯正歯科,新潟県新潟市中央区万代２-３-３４万代グレース１０３,矯正歯科,,,9" xlink:title="すぎやま矯正歯科" transform="ref(svg,13905.4165,-3791.7499)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すずの木歯科クリニック,新潟県新潟市中央区上近江２-２-２０-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すずの木歯科クリニック" transform="ref(svg,13903.7308,-3790.0464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すみや歯科医院,新潟県新潟市中央区長潟３-７-２０,歯科,,,9" xlink:title="すみや歯科医院" transform="ref(svg,13907.0712,-3788.7575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関塚歯科医院,新潟県新潟市中央区西堀前通６番町９０５第二西堀ビル４Ｆ,歯科,,,9" xlink:title="関塚歯科医院" transform="ref(svg,13904.3973,-3792.1651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田井デンタルクリニック,新潟県新潟市中央区美咲町１-３１-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="田井デンタルクリニック" transform="ref(svg,13901.5684,-3789.2316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高居歯科医院,新潟県新潟市中央区女池４-１９-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="高居歯科医院" transform="ref(svg,13903.7888,-3789.5388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高瀬歯科,新潟県新潟市中央区万代２-３-３４万代グレース１０１,歯科,,,9" xlink:title="高瀬歯科" transform="ref(svg,13905.42,-3791.7469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかとう矯正歯科医院,新潟県新潟市中央区笹口２-１０-１ウィン２１ビル２階,矯正歯科,,,9" xlink:title="たかとう矯正歯科医院" transform="ref(svg,13906.6429,-3791.0931)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高頭歯科医院,新潟県新潟市中央区東堀通８番町１３７０,歯科,,,9" xlink:title="高頭歯科医院" transform="ref(svg,13904.6699,-3792.3801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,新潟県新潟市中央区営所通１番町３２８,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13904.1047,-3792.1322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科医院,新潟県新潟市中央区本町通７番町１１５３新潟本町通ビル３Ｆ,歯科,,,9" xlink:title="高山歯科医院" transform="ref(svg,13904.7495,-3792.2933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タケデンタルクリニック,新潟県新潟市中央区米山５-２-４,歯科,,,9" xlink:title="タケデンタルクリニック" transform="ref(svg,13905.7384,-3790.6566)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,新潟県新潟市中央区関屋新町通１-３３,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13902.5054,-3791.0868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉井歯科医院,新潟県新潟市中央区本町通９番町１３２５,歯科,,,9" xlink:title="玉井歯科医院" transform="ref(svg,13904.8082,-3792.4838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,千歳歯科クリニック,新潟県新潟市中央区新光町５-１千歳ビルディング１Ｆ,歯科,,,9" xlink:title="千歳歯科クリニック" transform="ref(svg,13902.2562,-3790.0116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池主歯科医院,新潟県新潟市中央区信濃町５-２３,歯科,,,9" xlink:title="池主歯科医院" transform="ref(svg,13901.2901,-3790.6934)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央歯科クリニック,新潟県新潟市中央区湖南４-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="中央歯科クリニック" transform="ref(svg,13903.9723,-3787.6958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,筒井歯科クリニック,新潟県新潟市中央区白山浦２-６４６-９７,歯科,,,9" xlink:title="筒井歯科クリニック" transform="ref(svg,13902.9732,-3791.2053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,常川歯科医院,新潟県新潟市中央区東万代町９-２１,歯科,,,9" xlink:title="常川歯科医院" transform="ref(svg,13906.2501,-3791.7831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,手島歯科医院,新潟県新潟市中央区日の出１-１４-６,歯科　矯正歯科,,,9" xlink:title="手島歯科医院" transform="ref(svg,13907.2141,-3791.9284)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,てじま歯科医院,新潟県新潟市中央区万代１-２-１４シルバー流通ビル５０１,歯科,,,9" xlink:title="てじま歯科医院" transform="ref(svg,13905.6705,-3791.5308)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長井歯科医院,新潟県新潟市中央区上所上３-１-３５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="長井歯科医院" transform="ref(svg,13903.2042,-3790.3245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長野歯科医院,新潟県新潟市中央区関屋田町１-１３３,歯科,,,9" xlink:title="長野歯科医院" transform="ref(svg,13902.5299,-3791.3513)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新潟駅前歯科クリニック,新潟県新潟市中央区弁天１-１-２２東信新潟ビル４階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="新潟駅前歯科クリニック" transform="ref(svg,13905.9784,-3791.285)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新潟県歯科医師会附属歯科診療所,新潟県新潟市中央区堀之内南３-８-１３,歯科,,,9" xlink:title="新潟県歯科医師会附属歯科診療所" transform="ref(svg,13904.9799,-3790.0747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（公財）新潟県歯科保健協会附属歯科診療所,新潟県新潟市中央区堀之内南３-８-１３,歯科,,,9" xlink:title="（公財）新潟県歯科保健協会附属歯科診療所" transform="ref(svg,13904.9799,-3790.0747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新潟県庁内歯科診療所,新潟県新潟市中央区新光町４-１,歯科　小児歯科,,,9" xlink:title="新潟県庁内歯科診療所" transform="ref(svg,13902.3205,-3790.248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新潟市口腔保健福祉センター,新潟県新潟市中央区紫竹山３-３-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="新潟市口腔保健福祉センター" transform="ref(svg,13907.0445,-3790.087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西山歯科医院,新潟県新潟市中央区学校町通２番町５９８,歯科,,,9" xlink:title="西山歯科医院" transform="ref(svg,13903.4139,-3791.7045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野田歯科医院,新潟県新潟市中央区女池１-１-９,歯科,,,9" xlink:title="野田歯科医院" transform="ref(svg,13905.1135,-3789.8439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村歯科医院,新潟県新潟市中央区米山６-１-１２,歯科　小児歯科,,,9" xlink:title="野村歯科医院" transform="ref(svg,13905.8465,-3790.3641)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハート歯科クリニック,新潟県新潟市中央区関屋金鉢山町７６マンションロビン１０４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ハート歯科クリニック" transform="ref(svg,13901.7306,-3790.8368)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はぎわら歯科クリニック,新潟県新潟市中央区出来島１-６-１メディカルビル２Ｆ,歯科,,,9" xlink:title="はぎわら歯科クリニック" transform="ref(svg,13902.3597,-3790.05)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はせがわ矯正歯科クリニック,新潟県新潟市中央区花園１-１-１新潟駅ＣｏＣｏＬｏ本館メディカルコートＡ,矯正歯科,,,9" xlink:title="はせがわ矯正歯科クリニック" transform="ref(svg,13906.1713,-3791.2893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）長谷川歯科,新潟県新潟市中央区１-堀通町５９３８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）長谷川歯科" transform="ref(svg,13903.571,-3791.4534)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長谷川歯科医院,新潟県新潟市中央区西湊町通１ノ町２６９３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="長谷川歯科医院" transform="ref(svg,13905.1122,-3792.9497)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花園歯科新潟駅前診療所,新潟県新潟市中央区花園１-２-２コープシティ花園ガレッソ２階,歯科,,,9" xlink:title="花園歯科新潟駅前診療所" transform="ref(svg,13906.2087,-3791.3444)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田歯科医院,新潟県新潟市中央区信濃町４-８,歯科,,,9" xlink:title="原田歯科医院" transform="ref(svg,13901.1981,-3790.6255)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,万代医院歯科,新潟県新潟市中央区弁天３-２-１万代医院ビル２Ｆ,歯科,,,9" xlink:title="万代医院歯科" transform="ref(svg,13905.8672,-3791.2807)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日景矯正歯科,新潟県新潟市中央区東大通１-１三越ブラザー共同ビル８Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="日景矯正歯科" transform="ref(svg,13906.0525,-3791.3427)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日野歯科クリニック,新潟県新潟市中央区寄居町３４０梶原ビル２Ｆ,歯科　歯科口腔外科,,,9" xlink:title="日野歯科クリニック" transform="ref(svg,13904.0255,-3792.2259)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,廣瀬歯科医院,新潟県新潟市中央区東湊町通１ノ町２５８６,歯科,,,9" xlink:title="廣瀬歯科医院" transform="ref(svg,13905.0782,-3792.7089)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,廣瀬歯科医院,新潟県新潟市中央区関屋昭和町２-１１０,歯科,,,9" xlink:title="廣瀬歯科医院" transform="ref(svg,13901.7389,-3791.0528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤村歯科医院,新潟県新潟市中央区女池７-１１-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="藤村歯科医院" transform="ref(svg,13904.3649,-3788.9074)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星野歯科医院,新潟県新潟市中央区米山３-１-６３マルヤマビル４Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="星野歯科医院" transform="ref(svg,13906.2863,-3790.8549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星野歯科医院,新潟県新潟市中央区上大川前通９番町１２８１,歯科,,,9" xlink:title="星野歯科医院" transform="ref(svg,13904.8719,-3792.4976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀田歯科医院,新潟県新潟市中央区沼垂東４-７-２０,歯科,,,9" xlink:title="堀田歯科医院" transform="ref(svg,13906.9105,-3792.1126)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀田歯科医院,新潟県新潟市中央区笹口３-１１-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="堀田歯科医院" transform="ref(svg,13907.0441,-3791.2322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀歯科医院,新潟県新潟市中央区弁天橋通１-５-１,歯科,,,9" xlink:title="堀歯科医院" transform="ref(svg,13906.8889,-3789.3122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホワイト歯科クリニック,新潟県新潟市中央区白山浦２-６４６-３２,歯科,,,9" xlink:title="ホワイト歯科クリニック" transform="ref(svg,13902.9998,-3791.2918)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本町みゆき歯科,新潟県新潟市中央区本町通６番町１１０８-１ぷらっと本町ビル１階,歯科　矯正歯科　小児歯科,,,9" xlink:title="本町みゆき歯科" transform="ref(svg,13904.6314,-3792.0632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本間歯科医院,新潟県新潟市中央区南浜通１番町３７０,歯科,,,9" xlink:title="本間歯科医院" transform="ref(svg,13904.1662,-3792.3773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほんま歯科クリニック,新潟県新潟市中央区笹口１-１-１プラーカメディカルスクエア,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ほんま歯科クリニック" transform="ref(svg,13906.3735,-3791.0995)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,巻口歯科医院,新潟県新潟市中央区礎町通４ノ町２１２６,歯科,,,9" xlink:title="巻口歯科医院" transform="ref(svg,13905.187,-3792.2858)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつい歯科こども歯科クリニック,新潟県新潟市中央区山二ツ４-４-７,歯科　小児歯科,,,9" xlink:title="まつい歯科こども歯科クリニック" transform="ref(svg,13908.3597,-3789.1323)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松川歯科医院,新潟県新潟市中央区営所通１番町３１４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="松川歯科医院" transform="ref(svg,13903.9467,-3792.1259)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松川歯科医院,新潟県新潟市中央区月町２０４８,歯科　小児歯科,,,9" xlink:title="松川歯科医院" transform="ref(svg,13905.0803,-3792.2634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松波町歯科医院,新潟県新潟市中央区関屋松波町３-１９９,歯科　小児歯科,,,9" xlink:title="松波町歯科医院" transform="ref(svg,13902.0448,-3791.6257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三上歯科医院,新潟県新潟市中央区弁天橋通３-８-１３,歯科,,,9" xlink:title="三上歯科医院" transform="ref(svg,13907.3605,-3788.9845)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水落歯科医院,新潟県新潟市中央区西堀通３番町２５８,歯科,,,9" xlink:title="水落歯科医院" transform="ref(svg,13904.0831,-3791.9286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みねお歯科医院,新潟県新潟市中央区網川原２-１０-１０,歯科　小児歯科,,,9" xlink:title="みねお歯科医院" transform="ref(svg,13902.3656,-3789.1898)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮尾歯科クリニック,新潟県新潟市中央区上近江４-１２-２０Ｄｅｋｋｙ４０１　１Ｆ,歯科　小児歯科,,,9" xlink:title="宮尾歯科クリニック" transform="ref(svg,13902.9642,-3789.8322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮本歯科医院,新潟県新潟市中央区鐙西１-１０-１５石黒ビル２Ｆ,歯科,,,9" xlink:title="宮本歯科医院" transform="ref(svg,13906.5311,-3790.2432)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,新潟県新潟市中央区本町通８番町１３５３,歯科　小児歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13904.7317,-3792.4313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,新潟県新潟市中央区関屋大川前１-７-１５,歯科　矯正歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13901.5535,-3790.4095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,新潟県新潟市中央区米山６-８-２１,歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13905.7406,-3790.2609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村山歯科医院,新潟県新潟市中央区西湊町通３ノ町３３０６-３,歯科,,,9" xlink:title="村山歯科医院" transform="ref(svg,13905.3855,-3792.9519)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,女池歯科クリニック,新潟県新潟市中央区女池２-３-１７,歯科　矯正歯科　小児歯科,,,9" xlink:title="女池歯科クリニック" transform="ref(svg,13904.6188,-3789.4485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,諸見里歯科医院,新潟県新潟市中央区新和３-１６-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="諸見里歯科医院" transform="ref(svg,13904.1498,-3789.8518)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八木歯科医院,新潟県新潟市中央区鐙１-１１-１７,歯科,,,9" xlink:title="八木歯科医院" transform="ref(svg,13906.7769,-3790.5228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまがた歯科医院,新潟県新潟市中央区山二ツ１３５１-２,歯科,,,9" xlink:title="やまがた歯科医院" transform="ref(svg,13908.7604,-3789.0889)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,新潟県新潟市中央区白山浦２-１８６-２５,歯科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,13902.9501,-3791.3778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,新潟県新潟市中央区東中通１番町８６-５３,歯科　小児歯科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,13903.8963,-3791.963)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山宮歯科医院,新潟県新潟市中央区上所上２-４-３,歯科,,,9" xlink:title="山宮歯科医院" transform="ref(svg,13903.5046,-3790.2228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ユウ歯科医院,新潟県新潟市中央区東堀前通９番町１３８４-６中央メディカルビル６Ｆ,歯科,,,9" xlink:title="ユウ歯科医院" transform="ref(svg,13904.7108,-3792.5267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,新潟県新潟市中央区下所島２-１１-５,歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13904.5265,-3790.5261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉岡歯科医院,新潟県新潟市中央区白山浦１-３４８,歯科,,,9" xlink:title="吉岡歯科医院" transform="ref(svg,13903.3193,-3791.6822)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,善隆歯科クリニック,新潟県新潟市中央区神道寺１-６-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="善隆歯科クリニック" transform="ref(svg,13905.6201,-3789.825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科医院,新潟県新潟市中央区新島町通１ノ町１９７４,歯科　小児歯科,,,9" xlink:title="よしだ歯科医院" transform="ref(svg,13904.8811,-3792.038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米山デンタルクリニック,新潟県新潟市中央区花園１-１-１新潟駅ＣｏＣｏＬｏ本館メディカルコートＢ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="米山デンタルクリニック" transform="ref(svg,13906.0982,-3791.2641)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,りんご歯科医院,新潟県新潟市中央区東大通２-３-２５山長ビル２Ｆ,歯科,,,9" xlink:title="りんご歯科医院" transform="ref(svg,13905.901,-3791.6178)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ワイズ歯科クリニック,新潟県新潟市中央区女池西２-７-１６,歯科　小児歯科,,,9" xlink:title="ワイズ歯科クリニック" transform="ref(svg,13903.3547,-3789.0353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わかば歯科クリニック,新潟県新潟市中央区万代４-２-２３オフィス万代１Ｆ,歯科,,,9" xlink:title="わかば歯科クリニック" transform="ref(svg,13905.8323,-3791.7942)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,新潟県新潟市中央区弁天３-３-５新潟マンション１０２,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13905.7329,-3791.2345)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,新潟県新潟市中央区東大通２-２-９東カン第２万代ビューハイツ２０７,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13905.8941,-3791.5442)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,新潟県新潟市中央区幸西３-２-１,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13904.7007,-3791.0796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅川歯科クリニック,新潟県新潟市江南区三條岡２-２-９,歯科　小児歯科,,,9" xlink:title="浅川歯科クリニック" transform="ref(svg,13912.2978,-3786.9363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アピタフレンドリー歯科,新潟県新潟市江南区鵜ノ子４-４６６アピタ新潟亀田店２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アピタフレンドリー歯科" transform="ref(svg,13908.8861,-3787.2097)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アポロ歯科クリニック,新潟県新潟市江南区下早通柳田１-１-１イオン新潟南ＳＣ２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アポロ歯科クリニック" transform="ref(svg,13908.2259,-3787.6217)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）吉田歯科医院よしだファミリー歯科,新潟県新潟市江南区天野２-１３-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）吉田歯科医院よしだファミリー歯科" transform="ref(svg,13903.3341,-3785.485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）良美会いとう歯科クリニック,新潟県新潟市江南区天野１-１０-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）良美会いとう歯科クリニック" transform="ref(svg,13902.7859,-3785.489)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うぐいす歯科,新潟県新潟市江南区うぐいす１-６-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="うぐいす歯科" transform="ref(svg,13913.3317,-3787.4855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,枝並歯科医院,新潟県新潟市江南区亀田水道町１-１-５４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="枝並歯科医院" transform="ref(svg,13911.53,-3787.0604)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,枝並歯科クリニック,新潟県新潟市江南区亀田四ツ興野３-３-３４,歯科,,,9" xlink:title="枝並歯科クリニック" transform="ref(svg,13909.7744,-3787.0286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えなみ歯科医院,新潟県新潟市江南区砂岡３-３-１４,歯科　矯正歯科,,,9" xlink:title="えなみ歯科医院" transform="ref(svg,13912.2963,-3786.3455)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かざま歯科クリニック,新潟県新潟市江南区稲葉１-５-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="かざま歯科クリニック" transform="ref(svg,13911.5622,-3787.591)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上野山歯科医院,新潟県新潟市江南区曙町１-２-１,歯科,,,9" xlink:title="上野山歯科医院" transform="ref(svg,13911.9506,-3786.2269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かめだデンタルクリニック,新潟県新潟市江南区東船場３-２-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かめだデンタルクリニック" transform="ref(svg,13910.6865,-3787.6846)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矯正ループ歯科,新潟県新潟市江南区早苗１-３-１７,矯正歯科,,,9" xlink:title="矯正ループ歯科" transform="ref(svg,13909.4873,-3786.9088)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,倉嶋歯科クリニック,新潟県新潟市江南区大渕３４８５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="倉嶋歯科クリニック" transform="ref(svg,13914.4618,-3789.3492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,城山歯科,新潟県新潟市江南区城山１-２-７４,歯科,,,9" xlink:title="城山歯科" transform="ref(svg,13911.0293,-3786.4505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,曽川歯科医院,新潟県新潟市江南区曽野木２-１２-３１,歯科,,,9" xlink:title="曽川歯科医院" transform="ref(svg,13904.0055,-3786.2446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高内歯科医院,新潟県新潟市江南区曽野木２-１９-１３,歯科,,,9" xlink:title="高内歯科医院" transform="ref(svg,13903.8207,-3786.2677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科クリニック,新潟県新潟市江南区茜ケ丘７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="竹内歯科クリニック" transform="ref(svg,13913.9671,-3785.6933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田辺歯科医院,新潟県新潟市江南区袋津４-４-５,歯科　小児歯科,,,9" xlink:title="田辺歯科医院" transform="ref(svg,13911.5215,-3786.4409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,チューリップ歯科,新潟県新潟市江南区亀田向陽１-３-３２,歯科　小児歯科,,,9" xlink:title="チューリップ歯科" transform="ref(svg,13911.2759,-3787.6567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,新潟県新潟市江南区曽野木１-７-１８,歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,13904.4812,-3786.7687)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,新潟県新潟市江南区亀田中島３-２４４８-１３,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13910.1418,-3788.4805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西歯科医院,新潟県新潟市江南区横越中央８-２-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西歯科医院" transform="ref(svg,13914.4077,-3785.1117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フェイス歯科医院,新潟県新潟市江南区亀田緑町４-２-２１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="フェイス歯科医院" transform="ref(svg,13910.0638,-3787.0978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,深井歯科医院,新潟県新潟市江南区西町１-３-２１,歯科,,,9" xlink:title="深井歯科医院" transform="ref(svg,13910.7241,-3787.4262)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふれあい歯科クリニック,新潟県新潟市江南区早通６-７-３４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ふれあい歯科クリニック" transform="ref(svg,13908.134,-3786.3591)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本間歯科医院,新潟県新潟市江南区早通２-１-４４,歯科,,,9" xlink:title="本間歯科医院" transform="ref(svg,13908.6671,-3786.3241)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科医院,新潟県新潟市江南区船戸山４-９-２１,歯科,,,9" xlink:title="丸山歯科医院" transform="ref(svg,13910.6067,-3786.6603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三浦歯科医院,新潟県新潟市江南区横越中央２-１０-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="三浦歯科医院" transform="ref(svg,13914.7613,-3785.6035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みゆき歯科医院,新潟県新潟市江南区亀田本町２-２-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="みゆき歯科医院" transform="ref(svg,13910.7786,-3787.133)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉副歯科医院,新潟県新潟市江南区亀田新明町５-３-２,歯科,,,9" xlink:title="吉副歯科医院" transform="ref(svg,13911.1368,-3786.5191)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしぞえ歯科クリニック,新潟県新潟市江南区元町１-３-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="よしぞえ歯科クリニック" transform="ref(svg,13910.9382,-3786.5045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,新潟県新潟市江南区西町５-２-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13910.4833,-3787.2822)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,会田歯科医院,新潟県新潟市秋葉区荻島３-２０-２６-３,歯科,,,9" xlink:title="会田歯科医院" transform="ref(svg,13911.4418,-3783.4046)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおば歯科クリニック倉田歯科医院,新潟県新潟市秋葉区西古津１-４,歯科　小児歯科,,,9" xlink:title="あおば歯科クリニック倉田歯科医院" transform="ref(svg,13911.4515,-3777.3353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十嵐歯科医院,新潟県新潟市秋葉区出戸１７６-２,歯科,,,9" xlink:title="五十嵐歯科医院" transform="ref(svg,13907.1833,-3778.6557)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十嵐歯科クリニック,新潟県新潟市秋葉区新津本町１-３-２３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="五十嵐歯科クリニック" transform="ref(svg,13912.1977,-3779.7466)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いの歯科医院,新潟県新潟市秋葉区秋葉３-４-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="いの歯科医院" transform="ref(svg,13913.5083,-3778.9795)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）玄徳会おぎかわ歯科,新潟県新潟市秋葉区田島８３３,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）玄徳会おぎかわ歯科" transform="ref(svg,13911.4657,-3782.9902)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）徳真会松村歯科新津診療所,新潟県新潟市秋葉区美幸町３-１-１２-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）徳真会松村歯科新津診療所" transform="ref(svg,13911.4456,-3780.0244)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植木中条歯科医院,新潟県新潟市秋葉区小須戸１０５-１２,歯科,,,9" xlink:title="植木中条歯科医院" transform="ref(svg,13907.0657,-3775.4724)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うめつ歯科医院,新潟県新潟市秋葉区古田１-６-４１,歯科　矯正歯科　小児歯科,,,9" xlink:title="うめつ歯科医院" transform="ref(svg,13911.1276,-3779.463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浦田歯科医院,新潟県新潟市秋葉区田家２-２-２３,歯科,,,9" xlink:title="浦田歯科医院" transform="ref(svg,13912.4621,-3778.7446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えんどう歯科医院,新潟県新潟市秋葉区あおば通１-７-１１,歯科,,,9" xlink:title="えんどう歯科医院" transform="ref(svg,13910.1715,-3783.2393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥田歯科医院,新潟県新潟市秋葉区新津本町２-３-１,歯科　小児歯科,,,9" xlink:title="奥田歯科医院" transform="ref(svg,13912.3442,-3779.8009)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,海津歯科医院,新潟県新潟市秋葉区新津本町３-１２-２７,歯科　小児歯科,,,9" xlink:title="海津歯科医院" transform="ref(svg,13912.3989,-3779.5475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かえつ歯科,新潟県新潟市秋葉区中沢町１-２５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かえつ歯科" transform="ref(svg,13912.5133,-3779.185)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五三蔵井上歯科医院,新潟県新潟市秋葉区新津４５１３-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="五三蔵井上歯科医院" transform="ref(svg,13911.2905,-3779.3133)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こすぎ小児歯科,新潟県新潟市秋葉区荻島１-１５-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="こすぎ小児歯科" transform="ref(svg,13911.9063,-3783.2911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県新潟市秋葉区新津本町２-８-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13912.4544,-3779.9734)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,齋藤歯科医院,新潟県新潟市秋葉区川口７７０-２,歯科,,,9" xlink:title="齋藤歯科医院" transform="ref(svg,13911.809,-3781.5492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,新潟県新潟市秋葉区中野２-１５-３,歯科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,13911.36,-3783.7042)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹川矯正歯科,新潟県新潟市秋葉区川口６３８-３,矯正歯科,,,9" xlink:title="笹川矯正歯科" transform="ref(svg,13911.6856,-3781.5033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さつき野歯科・矯正歯科医院,新潟県新潟市秋葉区さつき野２-１１-２０,歯科　矯正歯科　小児歯科,,,9" xlink:title="さつき野歯科・矯正歯科医院" transform="ref(svg,13911.6072,-3781.1267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）佐野歯科医院,新潟県新潟市秋葉区北上２-１-５４,歯科　小児歯科,,,9" xlink:title="（医）佐野歯科医院" transform="ref(svg,13912.5184,-3780.9766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さわだ歯科医院,新潟県新潟市秋葉区古田３-５-１７,歯科,,,9" xlink:title="さわだ歯科医院" transform="ref(svg,13910.7393,-3779.5783)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,澤田歯科医院,新潟県新潟市秋葉区新津本町２-７-３新津ロイヤルコープ１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="澤田歯科医院" transform="ref(svg,13912.6114,-3779.8754)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サン歯科クリニック,新潟県新潟市秋葉区新津本町４-１７-５８,歯科　矯正歯科　小児歯科,,,9" xlink:title="サン歯科クリニック" transform="ref(svg,13912.7874,-3779.4638)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科小林医院,新潟県新潟市秋葉区新町１-６-３２,歯科　矯正歯科　小児歯科,,,9" xlink:title="歯科小林医院" transform="ref(svg,13912.8285,-3779.8304)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渋谷歯科医院,新潟県新潟市秋葉区新栄町１６-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="渋谷歯科医院" transform="ref(svg,13911.8294,-3778.8287)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清野歯科医院,新潟県新潟市秋葉区下興野町２２-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="清野歯科医院" transform="ref(svg,13912.0489,-3780.7407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,曽根歯科医院,新潟県新潟市秋葉区善道町１-６-４７,歯科　矯正歯科　小児歯科,,,9" xlink:title="曽根歯科医院" transform="ref(svg,13912.3356,-3780.2939)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,新潟県新潟市秋葉区新津東町１-１０-７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13914.0562,-3780.3108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけいし歯科クリニック,新潟県新潟市秋葉区美善２-４-７,歯科　小児歯科,,,9" xlink:title="たけいし歯科クリニック" transform="ref(svg,13911.5766,-3780.5455)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,新潟県新潟市秋葉区小須戸３６１０,歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,13906.712,-3775.758)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田澤歯科医院,新潟県新潟市秋葉区新津本町２-４-９,歯科　小児歯科,,,9" xlink:title="田澤歯科医院" transform="ref(svg,13912.3794,-3779.7511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とがし歯科医院,新潟県新潟市秋葉区車場３-７-３５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="とがし歯科医院" transform="ref(svg,13910.8283,-3783.7696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新津赤柴歯科医院,新潟県新潟市秋葉区新津本町３-７-３６,歯科,,,9" xlink:title="新津赤柴歯科医院" transform="ref(svg,13912.4452,-3779.6155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,プレイス歯科クリニック,新潟県新潟市秋葉区程島２０４５-１,歯科,,,9" xlink:title="プレイス歯科クリニック" transform="ref(svg,13911.1817,-3779.0249)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まるやま歯科医院,新潟県新潟市秋葉区程島１８７６-１２,歯科　小児歯科,,,9" xlink:title="まるやま歯科医院" transform="ref(svg,13911.381,-3778.4415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三村歯科医院,新潟県新潟市秋葉区新津本町３-３-３０,歯科,,,9" xlink:title="三村歯科医院" transform="ref(svg,13912.4644,-3779.6972)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森歯科医院,新潟県新潟市秋葉区矢代田１９６６-１,歯科,,,9" xlink:title="森歯科医院" transform="ref(svg,13909.559,-3774.7844)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森山歯科医院,新潟県新潟市秋葉区朝日２２１-２,歯科,,,9" xlink:title="森山歯科医院" transform="ref(svg,13911.8037,-3777.264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢部歯科医院,新潟県新潟市秋葉区小須戸３７４１,歯科,,,9" xlink:title="矢部歯科医院" transform="ref(svg,13906.8014,-3775.5517)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまざき歯科医院,新潟県新潟市秋葉区新津東町３-４-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="やまざき歯科医院" transform="ref(svg,13914.3564,-3780.4773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,新潟県新潟市秋葉区小須戸３４３０,歯科　小児歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13906.9097,-3775.9192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和山歯科医院,新潟県新潟市秋葉区新保３５,歯科　小児歯科,,,9" xlink:title="和山歯科医院" transform="ref(svg,13907.4227,-3775.5138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あじかた伊藤歯科医院,新潟県新潟市南区味方１１７７-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あじかた伊藤歯科医院" transform="ref(svg,13901.345,-3778.6692)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あたか歯科医院,新潟県新潟市南区親和町６-１８,歯科　小児歯科,,,9" xlink:title="あたか歯科医院" transform="ref(svg,13902.0205,-3776.6937)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いけはた歯科医院,新潟県新潟市南区大通黄金２-７-１,歯科,,,9" xlink:title="いけはた歯科医院" transform="ref(svg,13902.2421,-3782.4885)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,薄田歯科医院,新潟県新潟市南区白根ノ内七軒７３９,歯科　歯科口腔外科,,,9" xlink:title="薄田歯科医院" transform="ref(svg,13902.3529,-3776.4085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保歯科医院,新潟県新潟市南区高井興野１３４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="久保歯科医院" transform="ref(svg,13901.5052,-3779.5475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木暮歯科医院,新潟県新潟市南区白根３０９４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="木暮歯科医院" transform="ref(svg,13901.3506,-3776.2912)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こせんだ歯科医院,新潟県新潟市南区能登５０７-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こせんだ歯科医院" transform="ref(svg,13902.0165,-3776.9045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくま歯科クリニック,新潟県新潟市南区庄瀬１０７３-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくま歯科クリニック" transform="ref(svg,13903.7607,-3771.7724)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,椎名歯科医院,新潟県新潟市南区臼井１３７８-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="椎名歯科医院" transform="ref(svg,13905.1545,-3778.3919)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しのはら歯科,新潟県新潟市南区鯵潟４４１-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="しのはら歯科" transform="ref(svg,13901.6427,-3777.5964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すわのき歯科クリニック,新潟県新潟市南区白根水道町９-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すわのき歯科クリニック" transform="ref(svg,13901.1999,-3775.4725)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ダイセー歯科クリニック,新潟県新潟市南区上下諏訪木１２６-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ダイセー歯科クリニック" transform="ref(svg,13901.3148,-3775.9315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかはし歯科医院,新潟県新潟市南区西白根１３９１-１,歯科　小児歯科,,,9" xlink:title="たかはし歯科医院" transform="ref(svg,13901.0305,-3776.093)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝澤歯科医院,新潟県新潟市南区月潟２２９-１,歯科,,,9" xlink:title="滝澤歯科医院" transform="ref(svg,13899.2272,-3772.228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科,新潟県新潟市南区助次右エ門組２３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="竹内歯科" transform="ref(svg,13901.7031,-3776.1112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,新潟県新潟市南区親和町２-３３,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13901.83,-3776.6698)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,月潟歯科クリニック,新潟県新潟市南区月潟４５７-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="月潟歯科クリニック" transform="ref(svg,13899.2547,-3772.682)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にへい歯科医院,新潟県新潟市南区白根ノ内七軒６３５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="にへい歯科医院" transform="ref(svg,13901.9298,-3776.274)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野内歯科医院,新潟県新潟市南区戸頭１３９９-５,歯科　小児歯科,,,9" xlink:title="野内歯科医院" transform="ref(svg,13901.8818,-3775.8129)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野沢歯科医院,新潟県新潟市南区新飯田８２２-甲,歯科,,,9" xlink:title="野沢歯科医院" transform="ref(svg,13898.0158,-3768.166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フォーラム歯科医院,新潟県新潟市南区能登２-１０-１２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="フォーラム歯科医院" transform="ref(svg,13901.5706,-3777.0034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおき歯科医院,新潟県新潟市西区坂井砂山４-３-２８,歯科　小児歯科,,,9" xlink:title="あおき歯科医院" transform="ref(svg,13895.8388,-3786.9297)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおやま歯科医院,新潟県新潟市西区浦山２-１-６６サンシャイン青山２Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あおやま歯科医院" transform="ref(svg,13900.5967,-3790.135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,朝妻歯科医院,新潟県新潟市西区小新西３-１１-１,歯科,,,9" xlink:title="朝妻歯科医院" transform="ref(svg,13899.2091,-3787.4727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅妻歯科黒埼診療所,新潟県新潟市西区山田２６０２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="浅妻歯科黒埼診療所" transform="ref(svg,13901.4703,-3786.3761)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アップル歯科医院,新潟県新潟市西区小針上山４-３０,歯科,,,9" xlink:title="アップル歯科医院" transform="ref(svg,13899.4848,-3789.5355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,雨田歯科医院,新潟県新潟市西区寺尾前通３-３-４,歯科,,,9" xlink:title="雨田歯科医院" transform="ref(svg,13898.1684,-3787.8292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あゆみ歯科医院,新潟県新潟市西区小針５-８-１５,歯科　矯正歯科　小児歯科,,,9" xlink:title="あゆみ歯科医院" transform="ref(svg,13899.5284,-3788.6701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あらし歯科口腔外科クリニック,新潟県新潟市西区大学南２-２-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あらし歯科口腔外科クリニック" transform="ref(svg,13894.4608,-3786.632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いからし歯科,新潟県新潟市西区五十嵐２の町８２５４,歯科　小児歯科,,,9" xlink:title="いからし歯科" transform="ref(svg,13893.9999,-3786.4594)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十嵐歯科医院,新潟県新潟市西区内野町１２０７,歯科,,,9" xlink:title="五十嵐歯科医院" transform="ref(svg,13893.8784,-3785.583)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池矯正歯科医院,新潟県新潟市西区寺尾東３-２-１９,矯正歯科,,,9" xlink:title="池矯正歯科医院" transform="ref(svg,13897.4169,-3787.3104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川歯科医院,新潟県新潟市西区坂井砂山２-１５-１７,歯科　小児歯科,,,9" xlink:title="石川歯科医院" transform="ref(svg,13895.8992,-3787.3212)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十川歯科医院,新潟県新潟市西区新通南２-１１-１１,歯科　小児歯科,,,9" xlink:title="五十川歯科医院" transform="ref(svg,13895.9662,-3785.9215)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いっせい歯科クリニック,新潟県新潟市西区青山４-７-１,歯科,,,9" xlink:title="いっせい歯科クリニック" transform="ref(svg,13899.7286,-3789.6188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,新潟県新潟市西区寺尾西１-５-２１,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13896.9694,-3788.1627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いのうえ歯科クリニック,新潟県新潟市西区新通西２-８-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いのうえ歯科クリニック" transform="ref(svg,13895.0176,-3786.2013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）まつみだい歯科診療所,新潟県新潟市西区松美台５-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）まつみだい歯科診療所" transform="ref(svg,13899.2839,-3789.4269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）徳真会松村歯科新潟診療所,新潟県新潟市西区小新４９５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）徳真会松村歯科新潟診療所" transform="ref(svg,13900.1889,-3788.2863)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩野歯科医院,新潟県新潟市西区大野町２９３２,歯科,,,9" xlink:title="岩野歯科医院" transform="ref(svg,13901.4861,-3784.5548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわの小児歯科,新潟県新潟市西区大野町２９３３,歯科　小児歯科,,,9" xlink:title="いわの小児歯科" transform="ref(svg,13901.4833,-3784.5554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上野歯科医院,新潟県新潟市西区寺地５４４-６,歯科　小児歯科,,,9" xlink:title="上野歯科医院" transform="ref(svg,13900.8216,-3788.097)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大島歯科医院,新潟県新潟市西区内野町５５５,歯科,,,9" xlink:title="大島歯科医院" transform="ref(svg,13893.8143,-3785.7207)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおはし歯科医院,新潟県新潟市西区寺尾西２-２-３６,歯科　矯正歯科　小児歯科,,,9" xlink:title="おおはし歯科医院" transform="ref(svg,13896.8773,-3787.9474)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大村歯科医院,新潟県新潟市西区小針西２-１１-８,歯科,,,9" xlink:title="大村歯科医院" transform="ref(svg,13898.3284,-3788.6328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,新潟県新潟市西区新中浜１-８-１０,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13891.3416,-3784.7464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小畑歯科医院,新潟県新潟市西区小針西１-３-７,歯科,,,9" xlink:title="小畑歯科医院" transform="ref(svg,13898.8068,-3788.7706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,新潟県新潟市西区寺尾台２-５-１,歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13897.6938,-3788.3319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,新潟県新潟市西区真砂１-１-７,歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13898.878,-3788.9898)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川上歯科医院,新潟県新潟市西区寺尾西５-８-６２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="川上歯科医院" transform="ref(svg,13896.3445,-3788.2257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川崎歯科医院,新潟県新潟市西区小針台１-４７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="川崎歯科医院" transform="ref(svg,13898.9659,-3789.169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわべ歯科医院,新潟県新潟市西区内野関場４６８２,歯科　小児歯科,,,9" xlink:title="かわべ歯科医院" transform="ref(svg,13892.2186,-3784.8658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神成歯科医院,新潟県新潟市西区内野町４６８,歯科　小児歯科,,,9" xlink:title="神成歯科医院" transform="ref(svg,13893.6196,-3785.7275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科クリニック,新潟県新潟市西区青山１-２３-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="木村歯科クリニック" transform="ref(svg,13900.1877,-3789.5905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桐生歯科医院,新潟県新潟市西区流通センター３-３-４,歯科,,,9" xlink:title="桐生歯科医院" transform="ref(svg,13899.2682,-3786.3635)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒川歯科医院,新潟県新潟市西区松海が丘２-４-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="黒川歯科医院" transform="ref(svg,13897.6535,-3788.8383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｋ・歯科クリニック,新潟県新潟市西区立仏５９-１,歯科　小児歯科,,,9" xlink:title="Ｋ・歯科クリニック" transform="ref(svg,13900.9098,-3786.7677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,子田歯科医院,新潟県新潟市西区松美台４-６６,歯科　小児歯科,,,9" xlink:title="子田歯科医院" transform="ref(svg,13899.2017,-3789.5971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県新潟市西区五十嵐３の町南４-７６,歯科　矯正歯科　小児歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13893.1641,-3785.8166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県新潟市西区平島１３０１中野プラザ３０３,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13900.8951,-3789.0461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,新潟県新潟市西区山田６６２和泉ビル２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13901.7344,-3786.2077)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかい歯科矯正歯科クリニック,新潟県新潟市西区山田４１６-１第二大鵬ビル１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="さかい歯科矯正歯科クリニック" transform="ref(svg,13901.68,-3786.7039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,新潟県新潟市西区鳥原２６４０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,13900.8292,-3784.9924)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科クリニック,新潟県新潟市西区小針南台３-２８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="佐藤歯科クリニック" transform="ref(svg,13899.2695,-3788.9672)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,四反田歯科医院,新潟県新潟市西区五十嵐２の町９０５５-２,歯科　小児歯科,,,9" xlink:title="四反田歯科医院" transform="ref(svg,13893.3239,-3786.7432)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下川路歯科医院,新潟県新潟市西区みずき野２-１４-３３,歯科　小児歯科,,,9" xlink:title="下川路歯科医院" transform="ref(svg,13890.3855,-3781.5485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新町歯科,新潟県新潟市西区青山新町１８-１６,歯科,,,9" xlink:title="新町歯科" transform="ref(svg,13899.9591,-3789.7477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉本歯科クリニック,新潟県新潟市西区小針１-４-１７,歯科,,,9" xlink:title="杉本歯科クリニック" transform="ref(svg,13900.3289,-3788.9513)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科医院,新潟県新潟市西区鳥原１５１-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="杉山歯科医院" transform="ref(svg,13901.2248,-3784.8856)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すずきデンタルクリニック,新潟県新潟市西区ときめき西１-１-１９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すずきデンタルクリニック" transform="ref(svg,13900.7603,-3787.3582)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せいだデンタルクリニック,新潟県新潟市西区五十嵐東３-１３-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="せいだデンタルクリニック" transform="ref(svg,13895.5022,-3787.7802)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高木小児歯科医院,新潟県新潟市西区寺尾上２-１-４７,小児歯科,,,9" xlink:title="高木小児歯科医院" transform="ref(svg,13897.2454,-3787.7989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかだ歯科医院,新潟県新潟市西区赤塚４３９０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たかだ歯科医院" transform="ref(svg,13888.415,-3781.4992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,--橋歯科医院,新潟県新潟市西区大野町３２７９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="--橋歯科医院" transform="ref(svg,13901.8768,-3784.7354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝歯科医院,新潟県新潟市西区善久９７,歯科,,,9" xlink:title="滝歯科医院" transform="ref(svg,13901.7056,-3785.9563)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たざわ歯科医院,新潟県新潟市西区小針南２１-１,歯科　小児歯科,,,9" xlink:title="たざわ歯科医院" transform="ref(svg,13898.8541,-3788.2746)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たて歯科医院,新潟県新潟市西区金巻７８５-１,歯科　小児歯科,,,9" xlink:title="たて歯科医院" transform="ref(svg,13900.9239,-3784.3754)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田辺歯科医院,新潟県新潟市西区坂井東６-１２-３３,歯科,,,9" xlink:title="田辺歯科医院" transform="ref(svg,13896.6584,-3787.2154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,多和田歯科医院,新潟県新潟市西区五十嵐中島５-１-１２,歯科,,,9" xlink:title="多和田歯科医院" transform="ref(svg,13891.7935,-3784.7705)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つちや歯科医院,新潟県新潟市西区真砂２-１３-２０,歯科,,,9" xlink:title="つちや歯科医院" transform="ref(svg,13898.1577,-3789.0599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺尾歯科医院,新潟県新潟市西区寺尾西３-４-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="寺尾歯科医院" transform="ref(svg,13896.583,-3787.8052)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,唐歯科医院,新潟県新潟市西区坂井９５３-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="唐歯科医院" transform="ref(svg,13896.0865,-3786.9803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中原歯科医院,新潟県新潟市西区金巻２０３７-１,歯科,,,9" xlink:title="中原歯科医院" transform="ref(svg,13900.1032,-3783.3429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西原歯科医院,新潟県新潟市西区大野町２８７９,歯科,,,9" xlink:title="西原歯科医院" transform="ref(svg,13901.753,-3784.7576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根津歯科医院,新潟県新潟市西区寺尾東３-１-１２,歯科　小児歯科,,,9" xlink:title="根津歯科医院" transform="ref(svg,13897.4196,-3787.2221)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野田歯科医院,新潟県新潟市西区寺尾６-３３,歯科　矯正歯科　小児歯科,,,9" xlink:title="野田歯科医院" transform="ref(svg,13898.0231,-3788.1072)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ばばこども歯科クリニック,新潟県新潟市西区平島１-３-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="ばばこども歯科クリニック" transform="ref(svg,13900.4105,-3789.1844)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東青山歯科医院,新潟県新潟市西区東青山１-５-１９青山ビル２Ｆ,歯科,,,9" xlink:title="東青山歯科医院" transform="ref(svg,13900.2507,-3789.3651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひかり歯科医院,新潟県新潟市西区五十嵐２の町８９５６,歯科　小児歯科,,,9" xlink:title="ひかり歯科医院" transform="ref(svg,13893.0693,-3786.8783)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科医院,新潟県新潟市西区小針４-３９-７,歯科　小児歯科,,,9" xlink:title="ひまわり歯科医院" transform="ref(svg,13899.5662,-3788.1804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらの歯科医院,新潟県新潟市西区坂井東３-２７-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひらの歯科医院" transform="ref(svg,13897.6558,-3787.113)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フォレスト歯科クリニック,新潟県新潟市西区内野山手１-１-３２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="フォレスト歯科クリニック" transform="ref(svg,13893.7145,-3786.2132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,深井・加藤歯科医院,新潟県新潟市西区寺尾西３-１２-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="深井・加藤歯科医院" transform="ref(svg,13896.4451,-3787.6212)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤巻歯科医院,新潟県新潟市西区小針１-２９-１１,歯科　小児歯科,,,9" xlink:title="藤巻歯科医院" transform="ref(svg,13900.152,-3788.9929)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじわら歯科クリニック,新潟県新潟市西区上新栄町６-１８-２０,歯科　小児歯科,,,9" xlink:title="ふじわら歯科クリニック" transform="ref(svg,13895.8934,-3788.0537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,プレール歯科,新潟県新潟市西区平島２-１２-１０,歯科　小児歯科,,,9" xlink:title="プレール歯科" transform="ref(svg,13900.744,-3789.2727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,保苅歯科医院,新潟県新潟市西区寺尾上２-３-７０,歯科,,,9" xlink:title="保苅歯科医院" transform="ref(svg,13897.2292,-3787.5642)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほんま歯科,新潟県新潟市西区寺尾台３-１６-２２,歯科,,,9" xlink:title="ほんま歯科" transform="ref(svg,13897.2962,-3788.0804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マーブル歯科クリニック,新潟県新潟市西区青山２-５-１イオン新潟青山店２階,歯科　矯正歯科　小児歯科,,,9" xlink:title="マーブル歯科クリニック" transform="ref(svg,13899.6528,-3789.9737)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松木歯科医院,新潟県新潟市西区坂井１０３３-１,歯科,,,9" xlink:title="松木歯科医院" transform="ref(svg,13896.4073,-3786.9524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松田歯科医院,新潟県新潟市西区小針７-５-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="松田歯科医院" transform="ref(svg,13898.9937,-3788.1288)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科クリニック,新潟県新潟市西区寺尾北１-５-１６,歯科,,,9" xlink:title="松本歯科クリニック" transform="ref(svg,13897.2244,-3788.6165)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三村歯科医院,新潟県新潟市西区小針が丘２-５４,歯科,,,9" xlink:title="三村歯科医院" transform="ref(svg,13899.0648,-3789.0969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやざき歯科医院,新潟県新潟市西区寺尾朝日通１１-１,歯科　小児歯科,,,9" xlink:title="みやざき歯科医院" transform="ref(svg,13898.6927,-3788.4876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,新潟県新潟市西区青山５-９-３４,歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13899.7213,-3789.9565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,メイプル歯科クリニック,新潟県新潟市西区坂井７９１-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="メイプル歯科クリニック" transform="ref(svg,13895.5564,-3786.6933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,明倫短期大学附属歯科診療所,新潟県新潟市西区真砂３-１６-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="明倫短期大学附属歯科診療所" transform="ref(svg,13898.2524,-3789.4109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やかた歯科医院,新潟県新潟市西区寺地２０３１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やかた歯科医院" transform="ref(svg,13900.9863,-3788.2628)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山岸歯科医院,新潟県新潟市西区五十嵐中島２-１-１０,歯科,,,9" xlink:title="山岸歯科医院" transform="ref(svg,13892.5555,-3785.1194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまむろ歯科医院,新潟県新潟市西区五十嵐１の町７２８３,歯科,,,9" xlink:title="やまむろ歯科医院" transform="ref(svg,13894.857,-3787.4626)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横堀歯科医院,新潟県新潟市西区松美台２-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="横堀歯科医院" transform="ref(svg,13899.4288,-3789.5904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,新潟県新潟市西区内野町８０９-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13894.3558,-3786.214)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしざわ歯科,新潟県新潟市西区赤塚４５９８,歯科,,,9" xlink:title="よしざわ歯科" transform="ref(svg,13888.2201,-3781.1881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,レオ歯科クリニック,新潟県新潟市西区坂井東５-２５-２１,歯科,,,9" xlink:title="レオ歯科クリニック" transform="ref(svg,13897.0849,-3787.1106)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わしざわ歯科大学前クリニック,新潟県新潟市西区五十嵐１の町６７０５,歯科,,,9" xlink:title="わしざわ歯科大学前クリニック" transform="ref(svg,13895.032,-3786.9452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科医院,新潟県新潟市西区青山新町１-３,歯科　小児歯科,,,9" xlink:title="和田歯科医院" transform="ref(svg,13899.8319,-3789.2857)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科医院,新潟県新潟市西区坂井東３-１５-２２,歯科　小児歯科,,,9" xlink:title="わたなべ歯科医院" transform="ref(svg,13897.7335,-3787.3877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,新潟県新潟市西区大野町３６７０,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13901.8806,-3784.8364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アサオ歯科医院,新潟県新潟市西蒲区巻甲２６６０-１,歯科,,,9" xlink:title="アサオ歯科医院" transform="ref(svg,13888.9413,-3775.9333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊東歯科医院,新潟県新潟市西蒲区巻甲２４７５-４,歯科,,,9" xlink:title="伊東歯科医院" transform="ref(svg,13888.8485,-3775.6298)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）玄徳会しらとり歯科,新潟県新潟市西蒲区巻甲４３８０-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）玄徳会しらとり歯科" transform="ref(svg,13889.2122,-3775.3798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上原歯科クリニック,新潟県新潟市西蒲区巻甲４４８０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="上原歯科クリニック" transform="ref(svg,13889.4775,-3775.47)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北沢歯科医院,新潟県新潟市西蒲区巻甲３７９５,歯科,,,9" xlink:title="北沢歯科医院" transform="ref(svg,13888.6426,-3775.719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きちろく歯科医院,新潟県新潟市西蒲区中之口５２３-１,歯科,,,9" xlink:title="きちろく歯科医院" transform="ref(svg,13896.79,-3771.6175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科クリニック,新潟県新潟市西蒲区巻甲４１２３-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="小林歯科クリニック" transform="ref(svg,13889.358,-3775.9319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,新潟県新潟市西蒲区-B１０３-３,歯科　小児歯科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,13891.3797,-3779.3988)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白石歯科医院,新潟県新潟市西蒲区巻甲２４２７-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="白石歯科医院" transform="ref(svg,13888.7118,-3775.4616)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白鳥歯科クリニック,新潟県新潟市西蒲区赤鏥４３７-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="白鳥歯科クリニック" transform="ref(svg,13889.185,-3774.989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,袖山歯科医院,新潟県新潟市西蒲区巻甲２９２０,歯科　小児歯科,,,9" xlink:title="袖山歯科医院" transform="ref(svg,13888.3743,-3775.8067)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高木歯科医院,新潟県新潟市西蒲区巻甲２６２２,歯科　矯正歯科　小児歯科,,,9" xlink:title="高木歯科医院" transform="ref(svg,13888.8518,-3775.8891)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高野歯科医院,新潟県新潟市西蒲区巻甲１４０４-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="高野歯科医院" transform="ref(svg,13888.4936,-3776.5578)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,新潟県新潟市西蒲区巻甲２５２９-１１,歯科　矯正歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,13888.8153,-3775.7079)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,棚橋歯科医院,新潟県新潟市西蒲区曽根３５８,歯科,,,9" xlink:title="棚橋歯科医院" transform="ref(svg,13891.6542,-3779.1279)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たはた歯科医院,新潟県新潟市西蒲区巻乙１５９４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たはた歯科医院" transform="ref(svg,13888.0595,-3775.8186)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永瀬歯科医院,新潟県新潟市西蒲区熊谷１-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="永瀬歯科医院" transform="ref(svg,13897.5373,-3776.6546)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながの歯科医院,新潟県新潟市西蒲区巻甲２６７９-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ながの歯科医院" transform="ref(svg,13888.9084,-3775.9787)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西蒲原地区休日急患歯科診療所,新潟県新潟市西蒲区巻甲４３６３,歯科,,,9" xlink:title="西蒲原地区休日急患歯科診療所" transform="ref(svg,13889.315,-3775.5004)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野沢歯科医院,新潟県新潟市西蒲区六分１０６３,歯科,,,9" xlink:title="野沢歯科医院" transform="ref(svg,13898.3113,-3770.8423)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のざわ歯科クリニック,新潟県新潟市西蒲区小吉１０７６-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="のざわ歯科クリニック" transform="ref(svg,13897.8905,-3770.6909)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科診療所,新潟県新潟市西蒲区福島１９６６-１,歯科　小児歯科,,,9" xlink:title="原歯科診療所" transform="ref(svg,13895.9415,-3772.6528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらさわ歯科医院,新潟県新潟市西蒲区和納１４４３-１,歯科　小児歯科,,,9" xlink:title="ひらさわ歯科医院" transform="ref(svg,13888.5629,-3772.3516)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本間歯科医院,新潟県新潟市西蒲区和納１５９７-１０,歯科　小児歯科,,,9" xlink:title="本間歯科医院" transform="ref(svg,13888.1148,-3772.4051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松崎歯科医院,新潟県新潟市西蒲区馬堀６５７１,歯科,,,9" xlink:title="松崎歯科医院" transform="ref(svg,13891.2525,-3774.8243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八百板歯科医院,新潟県新潟市西蒲区-B１３８-１,歯科,,,9" xlink:title="八百板歯科医院" transform="ref(svg,13891.2687,-3779.2879)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八木歯科クリニック,新潟県新潟市西蒲区巻３２３２-３,歯科　小児歯科,,,9" xlink:title="八木歯科クリニック" transform="ref(svg,13889.3966,-3776.6033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山添歯科医院山添矯正歯科,新潟県新潟市西蒲区巻甲２１２５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山添歯科医院山添矯正歯科" transform="ref(svg,13888.7547,-3776.3419)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆう歯科医院,新潟県新潟市西蒲区巻甲４０８１-５新星ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="ゆう歯科医院" transform="ref(svg,13889.3099,-3776.0193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,若月歯科医院,新潟県新潟市西蒲区押付１-６３,歯科　矯正歯科　小児歯科,,,9" xlink:title="若月歯科医院" transform="ref(svg,13892.111,-3778.7959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺デンタルクリニック,新潟県新潟市西蒲区曽根２９８-甲,歯科,,,9" xlink:title="渡辺デンタルクリニック" transform="ref(svg,13891.7606,-3779.5753)" x="0" y="0"/>
+</g>
+</svg>

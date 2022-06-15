@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14000.9765625 -3585.9375 8.7890625 8.7890625" go:dataArea="14000.9765625 -3585.9375 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,飯塚歯科医院,千葉県我孫子市湖北台６-１０-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="飯塚歯科医院" transform="ref(svg,14007.1091,-3585.9334)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいだ歯科クリニック,千葉県白井市西白井３-１４-４７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あいだ歯科クリニック" transform="ref(svg,14003.1393,-3580.0693)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あまり歯科医院,千葉県白井市堀込１-１-１１サニービル２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="あまり歯科医院" transform="ref(svg,14005.2642,-3578.3167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）櫻雅会オリオン歯科医院,千葉県白井市大松１-２２-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）櫻雅会オリオン歯科医院" transform="ref(svg,14002.4471,-3578.2709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,けやき台鈴木歯科,千葉県白井市けやき台１-２-２澤田ビル２階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="けやき台鈴木歯科" transform="ref(svg,14003.2104,-3578.3124)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斉藤歯科医院,千葉県白井市復１４６５-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="斉藤歯科医院" transform="ref(svg,14006.502,-3579.8913)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科クリニック,千葉県白井市清水口１-２-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくら歯科クリニック" transform="ref(svg,14003.3371,-3578.5385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科室中島,千葉県白井市根１９２７-１５,歯科,,,9" xlink:title="歯科室中島" transform="ref(svg,14002.547,-3579.0155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）白井歯科クリニック,千葉県白井市神々廻１８８９-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）白井歯科クリニック" transform="ref(svg,14008.6914,-3580.7711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しろいファミリー歯科,千葉県白井市堀込１-１-１-１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="しろいファミリー歯科" transform="ref(svg,14005.3584,-3578.353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すまいる歯科,千葉県白井市清水口１-２-５福田第１ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すまいる歯科" transform="ref(svg,14003.2825,-3578.5374)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）俊久会セントラル歯科,千葉県白井市清水口１-１-２５西白井駅前セントラルビル１階,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）俊久会セントラル歯科" transform="ref(svg,14003.2196,-3578.5492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タマキ歯科医院,千葉県白井市冨士１-５９,歯科,,,9" xlink:title="タマキ歯科医院" transform="ref(svg,14003.0129,-3577.1715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富塚歯科医院,千葉県白井市折立３８８-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="富塚歯科医院" transform="ref(svg,14004.1368,-3581.1544)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西白井歯科医院,千葉県白井市大山口２-３-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西白井歯科医院" transform="ref(svg,14002.5659,-3578.6967)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ハーツデンタルクリニック,千葉県白井市清水口１-１-１４サンロード商店街２階,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="（医）ハーツデンタルクリニック" transform="ref(svg,14003.0968,-3578.5017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広瀬歯科医院,千葉県白井市南山２-２-６,歯科,,,9" xlink:title="広瀬歯科医院" transform="ref(svg,14006.2728,-3578.0949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富士デンタルクリニック,千葉県白井市富士２９４-２,歯科,,,9" xlink:title="富士デンタルクリニック" transform="ref(svg,14002.9966,-3577.982)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,プラザ南山歯科,千葉県白井市南山２-１-２-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="プラザ南山歯科" transform="ref(svg,14006.1919,-3578.1836)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）弘栄会ホワイト歯科クリニック,千葉県白井市根１４９-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）弘栄会ホワイト歯科クリニック" transform="ref(svg,14004.6167,-3578.1992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）厚生敬和会ほんま歯科クリニック,千葉県白井市堀込１-２-７白井Ｆビル２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）厚生敬和会ほんま歯科クリニック" transform="ref(svg,14005.4314,-3578.2581)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マルジン歯科,千葉県白井市根１７８０,歯科　小児歯科,,,9" xlink:title="マルジン歯科" transform="ref(svg,14003.7612,-3579.737)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉岡歯科クリニック,千葉県白井市根１７４１-７,歯科　小児歯科,,,9" xlink:title="吉岡歯科クリニック" transform="ref(svg,14003.4186,-3579.175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ライオン歯科,千葉県白井市根１７２０-１０,歯科　小児歯科,,,9" xlink:title="ライオン歯科" transform="ref(svg,14003.0676,-3578.8542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和奏デンタルクリニック,千葉県白井市根１７０９-３湯浅ビル１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="和奏デンタルクリニック" transform="ref(svg,14002.8531,-3578.5509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,千葉県船橋市小室町３３１９-５,歯科　小児歯科,,,9" xlink:title="神田歯科医院" transform="ref(svg,14007.4691,-3578.7507)" x="0" y="0"/>
+</g>
+</svg>

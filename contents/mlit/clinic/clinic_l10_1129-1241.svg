@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13961.42578125 -3546.38671875 4.39453125 4.39453125" go:dataArea="13961.42578125 -3546.38671875 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（医）恵仁会松島クリニック,神奈川県横浜市西区伊勢町３-１３８,内科　胃腸科,,,9" xlink:title="（医）恵仁会松島クリニック" transform="ref(svg,13961.8344,-3545.4376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,同仁堂田中医院,神奈川県横浜市西区岡野１-３-６,内科　消化器科　外科　整形外科　眼科,,,9" xlink:title="同仁堂田中医院" transform="ref(svg,13961.5551,-3546.0927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ミルディス皮膚科横浜西口,神奈川県横浜市西区岡野１-１４横浜メディカルセンタービル２Ｆ,皮膚科,,,9" xlink:title="ミルディス皮膚科横浜西口" transform="ref(svg,13961.4551,-3546.3783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜岡野町クリニック,神奈川県横浜市西区岡野町１-１４-１横浜メディカルセンタービル３Ｆ,内科　内科（胃腸科）　外科　内科（脳神経内科）　外科（肛門科）,,,9" xlink:title="横浜岡野町クリニック" transform="ref(svg,13961.4542,-3546.3761)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日産自動車（健保）本社地区診療所,神奈川県横浜市西区高島１-１-１,内科　心臓内科,,,9" xlink:title="日産自動車（健保）本社地区診療所" transform="ref(svg,13962.623,-3546.3494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善仁会ヘルチェックファーストプレイス横浜クリニック,神奈川県横浜市西区高島２-７-１ファーストプレイス横浜６Ｆ,内科,,,9" xlink:title="（医）善仁会ヘルチェックファーストプレイス横浜クリニック" transform="ref(svg,13962.2976,-3546.2519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜東口鳥居クリニック,神奈川県横浜市西区高島２-１４-１３エストビル３Ｆ,泌尿器科　皮膚科,,,9" xlink:title="横浜東口鳥居クリニック" transform="ref(svg,13962.2461,-3546.3857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜メンタルヘルスクリニック,神奈川県横浜市西区高島２-１４-１７　５Ｆ,心臓内科　精神科　神経科,,,9" xlink:title="横浜メンタルヘルスクリニック" transform="ref(svg,13962.2373,-3546.3552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜循環器呼吸器内科クリニック,神奈川県横浜市西区高島２-１４-１７クレアトール横浜ビル３Ｆ,循環器内科　呼吸器内科　糖尿病内科　内科,,,9" xlink:title="横浜循環器呼吸器内科クリニック" transform="ref(svg,13962.2373,-3546.3552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,諸星クリニック,神奈川県横浜市西区中央１-４-９,内科　神経科　心臓内科,,,9" xlink:title="諸星クリニック" transform="ref(svg,13961.686,-3545.2899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一社）横浜市西区医師会西区休日診療所,神奈川県横浜市西区中央１-１５-１８,内科　小児科,,,9" xlink:title="（一社）横浜市西区医師会西区休日診療所" transform="ref(svg,13961.6658,-3545.4118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）吉村耳鼻咽喉科医院,神奈川県横浜市西区中央１-２７-１３,耳鼻いんこう科,,,9" xlink:title="（医）吉村耳鼻咽喉科医院" transform="ref(svg,13961.7721,-3545.6481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡部医院,神奈川県横浜市西区中央２-１９-１５,内科　放射線科,,,9" xlink:title="岡部医院" transform="ref(svg,13961.5151,-3545.2457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口医院,神奈川県横浜市西区戸部町３-１０１,内科　小児科　放射線科,,,9" xlink:title="山口医院" transform="ref(svg,13962.3362,-3545.2948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科クリニック,神奈川県横浜市西区戸部町５-２０４,内科,,,9" xlink:title="鈴木内科クリニック" transform="ref(svg,13962.4039,-3545.5876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博仁会ハマノ産婦人科,神奈川県横浜市西区戸部本町２４-１,産婦人科　内科　泌尿器科　皮膚科,,,9" xlink:title="（医）博仁会ハマノ産婦人科" transform="ref(svg,13962.1174,-3545.6263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸部医院,神奈川県横浜市西区戸部本町５０-１７メゾン・ド・アイ壹番館１０１,内科　外科　整形外科　皮膚科　泌尿器科　肛門科,,,9" xlink:title="戸部医院" transform="ref(svg,13961.8962,-3545.7423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸部ハマノ愛生園診療所,神奈川県横浜市西区戸部本町５０-３３,内科　精神科,,,9" xlink:title="戸部ハマノ愛生園診療所" transform="ref(svg,13961.8135,-3545.7345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松井眼科医院,神奈川県横浜市西区戸部本町５１-１０,眼科,,,9" xlink:title="松井眼科医院" transform="ref(svg,13962.145,-3545.8224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川本クリニック,神奈川県横浜市西区西戸部町１-１５,内科　消化器科　循環器科　脳神経外科,,,9" xlink:title="川本クリニック" transform="ref(svg,13962.2739,-3544.9323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡邊醫院,神奈川県横浜市西区西戸部町２-１２０,内科　小児科　神経内科　心臓内科　精神科,,,9" xlink:title="渡邊醫院" transform="ref(svg,13962.2205,-3545.0294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西戸部こどもクリニック,神奈川県横浜市西区西戸部町２-１７４,小児科,,,9" xlink:title="西戸部こどもクリニック" transform="ref(svg,13961.9028,-3545.2155)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よこはま高島町クリニック,神奈川県横浜市西区平沼１-１-３横浜オーシャンビル１Ｆ,内科　外科　脳神経外科　神経内科,,,9" xlink:title="よこはま高島町クリニック" transform="ref(svg,13962.2061,-3546.0156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三木メンタルクリニック,神奈川県横浜市西区平沼１-１-３　３Ｆ,精神科　心臓内科,,,9" xlink:title="三木メンタルクリニック" transform="ref(svg,13962.2061,-3546.0156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田渕レデイスクリニック,神奈川県横浜市西区平沼１-２-１２甘糟ビル２Ｆ-Ｅ,内科　産婦人科,,,9" xlink:title="田渕レデイスクリニック" transform="ref(svg,13962.1115,-3546.0789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かげしま整形外科,神奈川県横浜市西区平沼１-２-１２甘糟平沼ビル２Ｆ-Ｄ,整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）かげしま整形外科" transform="ref(svg,13962.0988,-3546.0819)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いちの内科クリニック,神奈川県横浜市西区平沼１-２-１２甘糟平沼ビル２Ｆ,内科　呼吸器科　アレルギー科,,,9" xlink:title="いちの内科クリニック" transform="ref(svg,13962.1007,-3546.0814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮路胃腸科医院,神奈川県横浜市西区平沼１-２-２３中村ビル１Ｆ,内科　胃腸科　循環器科　外科　皮膚科,,,9" xlink:title="宮路胃腸科医院" transform="ref(svg,13962.1111,-3546.1093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまなかクリニック,神奈川県横浜市西区平沼１-１７-８シャルマンヒロ１Ｆ,内科　胃腸科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="やまなかクリニック" transform="ref(svg,13961.737,-3545.9127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木曜社平沼クリニック,神奈川県横浜市西区平沼１-３２-１３,呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）木曜社平沼クリニック" transform="ref(svg,13961.9003,-3546.0641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヨコハマグランドインターコンチネンタルホテル医務室,神奈川県横浜市西区みなとみらい１-１-１,内科　外科,,,9" xlink:title="ヨコハマグランドインターコンチネンタルホテル医務室" transform="ref(svg,13963.7257,-3545.7708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）城見会アムスランドマーククリニック,神奈川県横浜市西区みなとみらい２-２ランドマークタワー７Ｆ,内科,,,9" xlink:title="（医）城見会アムスランドマーククリニック" transform="ref(svg,13963.1667,-3545.4722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵仁会松島ランドマーククリニック,神奈川県横浜市西区みなとみらい２-２-１ランドマークタワー７Ｆ,内科　胃腸科　外科　肛門科　放射線科　心臓内科　精神科,,,9" xlink:title="（医）恵仁会松島ランドマーククリニック" transform="ref(svg,13963.1207,-3545.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）横浜ロイヤルパークホテル健康管理室,神奈川県横浜市西区みなとみらい２-２-１地下２Ｆ,内科,,,9" xlink:title="（株）横浜ロイヤルパークホテル健康管理室" transform="ref(svg,13963.1207,-3545.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ルビーテッククリニックランドマークヨコハマ,神奈川県横浜市西区みなとみらい２-２-１横浜ランドマークタワー７Ｆ,皮膚科,,,9" xlink:title="ルビーテッククリニックランドマークヨコハマ" transform="ref(svg,13963.1207,-3545.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ランドマーク医院,神奈川県横浜市西区みなとみらい２-２-１横浜ランドマークタワー７Ｆ,内科　呼吸器内科　消化器内科　循環器内科　精神科　心臓内科,,,9" xlink:title="（医）ランドマーク医院" transform="ref(svg,13963.1207,-3545.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ランドマーク横浜国際クリニック分室,神奈川県横浜市西区みなとみらい２-２-１ランドマークタワー１Ｆ,内科　神経内科　外科　脳神経外科　リハビリテーション科　放射線科,,,9" xlink:title="ランドマーク横浜国際クリニック分室" transform="ref(svg,13963.1207,-3545.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ランドマーク横浜国際クリニック,神奈川県横浜市西区みなとみらい２-２-１ランドマークタワー７Ｆ,内科　神経内科　外科　脳神経外科　リハビリテーション科　放射線科,,,9" xlink:title="ランドマーク横浜国際クリニック" transform="ref(svg,13963.1207,-3545.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日揮健康管理センター,神奈川県横浜市西区みなとみらい２-３-１クイーンズタワーＡ棟１７Ｆ,内科　外科　歯科,,,9" xlink:title="日揮健康管理センター" transform="ref(svg,13963.3016,-3545.5778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ランドマーク医院クイーンズクリニック,神奈川県横浜市西区みなとみらい２-３-５クイーンズタワーＣ棟４Ｆ,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）ランドマーク医院クイーンズクリニック" transform="ref(svg,13963.3955,-3545.6979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クイーンズアイクリニック,神奈川県横浜市西区みなとみらい２-３-５クイーンズタワーＣ４Ｆ,眼科,,,9" xlink:title="クイーンズアイクリニック" transform="ref(svg,13963.3955,-3545.6979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クイーンズスクエア・皮膚科・アレルギー科,神奈川県横浜市西区みなとみらい２-３-５クイーンズタワーＣ棟８Ｆ,皮膚科　アレルギー科,,,9" xlink:title="クイーンズスクエア・皮膚科・アレルギー科" transform="ref(svg,13963.3955,-3545.6979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらいアイクリニック,神奈川県横浜市西区みなとみらい２-３-５クイーンズタワーＣ８Ｆ,眼科,,,9" xlink:title="みなとみらいアイクリニック" transform="ref(svg,13963.3955,-3545.6979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜銀行健康管理センター,神奈川県横浜市西区みなとみらい３-１-１,内科　眼科　歯科,,,9" xlink:title="横浜銀行健康管理センター" transform="ref(svg,13962.9476,-3545.4254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱重工業（株）横浜健康管理センター,神奈川県横浜市西区みなとみらい３-３,内科,,,9" xlink:title="三菱重工業（株）横浜健康管理センター" transform="ref(svg,13962.9751,-3545.6254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜エムエムクリニック,神奈川県横浜市西区みなとみらい３-３-１三菱重工横浜ビル３Ｆ,内科　消化器科　循環器科　外科　産婦人科,,,9" xlink:title="横浜エムエムクリニック" transform="ref(svg,13962.9704,-3545.6176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜エムエムクリニック・サテライトワン,神奈川県横浜市西区みなとみらい３-３-１三菱重工横浜ビル３Ｆ,産婦人科,,,9" xlink:title="横浜エムエムクリニック・サテライトワン" transform="ref(svg,13962.9704,-3545.6176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かもめ・みなとみらいクリニック,神奈川県横浜市西区みなとみらい３-６-３,人工透析腎臓内科,,,9" xlink:title="かもめ・みなとみらいクリニック" transform="ref(svg,13963.2367,-3545.8578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらい夢クリニック,神奈川県横浜市西区みなとみらい３-６-３ＭＭパークビル２Ｆ２０１街区,婦人科　泌尿器科,,,9" xlink:title="みなとみらい夢クリニック" transform="ref(svg,13963.2528,-3545.8583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらいメディカルスクエア,神奈川県横浜市西区みなとみらい３-６-３,外科　内科　循環器科　消化器科　放射線科,,,9" xlink:title="みなとみらいメディカルスクエア" transform="ref(svg,13963.2526,-3545.8594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらいクリニック,神奈川県横浜市西区みなとみらい３-６-３ＭＭパークビル３Ｆ,内科　糖内内分泌内科,,,9" xlink:title="みなとみらいクリニック" transform="ref(svg,13963.2526,-3545.8594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらいセントラルクリニック,神奈川県横浜市西区みなとみらい４-６-２みなとみらいグランドセントラルタワー２Ｆ,内科　循環器内科　内分泌内科,,,9" xlink:title="みなとみらいセントラルクリニック" transform="ref(svg,13962.9428,-3545.8727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メンタルクリニック横浜みなとみらい,神奈川県横浜市西区みなとみらい４-６-２グランドセントラルテラス２Ｆ２０６,心臓内科　精神科,,,9" xlink:title="メンタルクリニック横浜みなとみらい" transform="ref(svg,13962.9449,-3545.8375)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千代田化工建設（株）本社医務室,神奈川県横浜市西区みなとみらい４-６-２みなとみらいグランドセントラルタワー１９Ｆ,内科　歯科　精神科,,,9" xlink:title="千代田化工建設（株）本社医務室" transform="ref(svg,13962.9428,-3545.8727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慶徳会ＭＭわんぱくこどもクリニック,神奈川県横浜市西区みなとみらい４-７-１　２Ｆ-８,小児科　アレルギー科,,,9" xlink:title="（医）慶徳会ＭＭわんぱくこどもクリニック" transform="ref(svg,13963.0518,-3545.911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらいレディースクリニック,神奈川県横浜市西区みなとみらい４-７-１-２Ｆ-Ｄ,婦人科　産科,,,9" xlink:title="みなとみらいレディースクリニック" transform="ref(svg,13963.0518,-3545.911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらい耳鼻咽喉科,神奈川県横浜市西区みなとみらい４-７-１みなとみらいメディカルモール２Ｆ,耳鼻いんこう科　アレルギー科　気管食道科,,,9" xlink:title="みなとみらい耳鼻咽喉科" transform="ref(svg,13963.055,-3545.9066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらい眼科,神奈川県横浜市西区みなとみらい４-７-１みなとみらいミッドスクエア２Ｆ-Ｃ,眼科　小児科　眼科　アレルギー科,,,9" xlink:title="みなとみらい眼科" transform="ref(svg,13963.0466,-3545.9064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ＭＭ会みなとみらい内科クリニック,神奈川県横浜市西区みなとみらい４-７,内科　消化器科　心臓内科,,,9" xlink:title="（医）ＭＭ会みなとみらい内科クリニック" transform="ref(svg,13963.0528,-3545.9127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ルーシークリニック,神奈川県横浜市西区みなとみらい４-９-２-Ｃ２９１０,麻酔科,,,9" xlink:title="ルーシークリニック" transform="ref(svg,13963.082,-3546.0608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富士ゼロックス（株）横浜みなとみらい事業所健康推進室,神奈川県横浜市西区みなとみらい６-１横浜みなとみらい事業所７Ｆ,内科,,,9" xlink:title="富士ゼロックス（株）横浜みなとみらい事業所健康推進室" transform="ref(svg,13962.7533,-3546.3423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,Ｆ・マリノス医務室,神奈川県横浜市西区みなとみらい６-２マリノスタウンＭＭ２１トレーニングセンター内,内科　整形外科,,,9" xlink:title="Ｆ・マリノス医務室" transform="ref(svg,13962.9753,-3546.3535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハートクリニック横浜,神奈川県横浜市西区南幸２-１１-１横浜エム・エスビル２Ｆ,心臓内科　精神科,,,9" xlink:title="ハートクリニック横浜" transform="ref(svg,13961.6946,-3546.3206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハートクリニック横浜ショートケア,神奈川県横浜市西区南幸２-１１-１横浜エム・エスビル６Ｆ,心臓内科　精神科,,,9" xlink:title="ハートクリニック横浜ショートケア" transform="ref(svg,13961.6946,-3546.3206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渋谷美容外科クリニック横浜院,神奈川県横浜市西区南幸２-１１-１横浜エムエスビル６Ｆ,美容外科　形成外科　皮膚科　眼科,,,9" xlink:title="渋谷美容外科クリニック横浜院" transform="ref(svg,13961.6913,-3546.3179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＡＢＣクリニック,神奈川県横浜市西区南幸２-１２-５城勘ビル４Ｆ,美容外科,,,9" xlink:title="ＡＢＣクリニック" transform="ref(svg,13961.5978,-3546.3468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京ＡＧＡクリニック横浜院,神奈川県横浜市西区南幸２-１３-１２レスポワール２９６　３０３,美容外科　形成外科　皮膚科,,,9" xlink:title="東京ＡＧＡクリニック横浜院" transform="ref(svg,13961.7344,-3546.3645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柳川ビルクリニック,神奈川県横浜市西区南幸２-２１-５,内科　胃腸科　外科　リハビリテーション科　歯科,,,9" xlink:title="柳川ビルクリニック" transform="ref(svg,13961.5219,-3546.3853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河村内科医院,神奈川県横浜市西区宮崎町４５,内科,,,9" xlink:title="河村内科医院" transform="ref(svg,13962.7926,-3545.1719)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相生２３クリニック,神奈川県横浜市中区相生町１-３モアグランド関内ビル１Ｆ,内科　泌尿器科,,,9" xlink:title="相生２３クリニック" transform="ref(svg,13963.9696,-3544.5964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内仲通りクリニック,神奈川県横浜市中区相生町２-４２-３横浜エクセレント-]-Zビル３Ｆ,内科　精神科　心臓内科,,,9" xlink:title="関内仲通りクリニック" transform="ref(svg,13963.8838,-3544.6025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まゆみ皮フ科クリニック,神奈川県横浜市中区相生町２-４２-３横浜エクセレント-]-Z７Ｆ,皮膚科,,,9" xlink:title="まゆみ皮フ科クリニック" transform="ref(svg,13963.8827,-3544.6003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬車道レディスクリニック,神奈川県横浜市中区相生町４-６５-３馬車道メディカルスクエア５Ｆ,婦人科,,,9" xlink:title="馬車道レディスクリニック" transform="ref(svg,13963.6551,-3544.7701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとメンタルクリニック,神奈川県横浜市中区相生町６-１０９志村ビル１Ｆ,精神科　神経科　心臓内科,,,9" xlink:title="みなとメンタルクリニック" transform="ref(svg,13963.431,-3544.8702)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口クリニック,神奈川県横浜市中区曙町１-１０,内科　神経内科　リハビリテーション科　放射線科,,,9" xlink:title="山口クリニック" transform="ref(svg,13963.0761,-3544.11)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よこはま港南診療所,神奈川県横浜市中区池袋５,内科,,,9" xlink:title="よこはま港南診療所" transform="ref(svg,13965.0749,-3542.0614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）吉沢皮膚科,神奈川県横浜市中区石川町１-１,外科　皮膚泌尿器科,,,9" xlink:title="（医）吉沢皮膚科" transform="ref(svg,13964.5112,-3543.8984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町眼科,神奈川県横浜市中区石川町１-３ＧＳビル４０１,眼科,,,9" xlink:title="元町眼科" transform="ref(svg,13964.491,-3543.8947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小菅医院,神奈川県横浜市中区石川町１-１１-２,内科　消化器科　循環器科　小児科　精神科　アレルギー科　外科　整形外科　婦人科　麻酔科,,,9" xlink:title="小菅医院" transform="ref(svg,13964.4313,-3543.8478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えみ子皮膚科クリニック,神奈川県横浜市中区石川町１-１２プラザセレス石川-U２０１,皮膚科　美容皮膚科,,,9" xlink:title="えみ子皮膚科クリニック" transform="ref(svg,13964.5355,-3543.8408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かめのはしクリニック,神奈川県横浜市中区石川町３-１０８-１,内科　小児科,,,9" xlink:title="かめのはしクリニック" transform="ref(svg,13964.1622,-3543.7298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）予防会横浜クリニック,神奈川県横浜市中区伊勢佐木町３-１０７ＮＩビル２Ｆ,婦人科　泌尿器科　性感染症内科　皮膚科,,,9" xlink:title="（医）予防会横浜クリニック" transform="ref(svg,13962.9679,-3544.1965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲村眼科クリニック,神奈川県横浜市中区伊勢佐木町５-１２５,眼科,,,9" xlink:title="稲村眼科クリニック" transform="ref(svg,13962.7655,-3544.0857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たに内科クリニック,神奈川県横浜市中区伊勢佐木町５-１２５伊勢佐木クイントパラディオ１Ｆ,内科　アレルギー科　リウマチ科,,,9" xlink:title="たに内科クリニック" transform="ref(svg,13962.7655,-3544.0857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）岩田クリニック,神奈川県横浜市中区伊勢佐木町５-１２９-１４ストーク伊勢佐木７番館２Ｆ,内科　消化器科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）岩田クリニック" transform="ref(svg,13962.7,-3544.0523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とみい眼科,神奈川県横浜市中区伊勢佐木町６-１４３-２ＩＴビル１Ｆ,眼科,,,9" xlink:title="とみい眼科" transform="ref(svg,13962.5777,-3543.9126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神人整形外科クリニック,神奈川県横浜市中区伊勢佐木町６-１４６ストーク伊勢佐木６番館１０１,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="神人整形外科クリニック" transform="ref(svg,13962.4472,-3543.8834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまて眼科クリニック,神奈川県横浜市中区上野町２-７４-２カワノビル２Ｆ,眼科,,,9" xlink:title="やまて眼科クリニック" transform="ref(svg,13965.3121,-3543.2505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内メンタルクリニック,神奈川県横浜市中区扇町１-１-２５キンガビル７Ｆ,内科　精神科　神経科　心臓内科,,,9" xlink:title="関内メンタルクリニック" transform="ref(svg,13963.8759,-3544.171)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内ケンクリニック,神奈川県横浜市中区太田町２-３１-１,内科　小児科　整形外科,,,9" xlink:title="関内ケンクリニック" transform="ref(svg,13963.8764,-3544.6712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬車道さくらクリニック,神奈川県横浜市中区太田町６-７３コーケンキャピタルビル２Ｆ,泌尿器科　内科　皮膚科,,,9" xlink:title="馬車道さくらクリニック" transform="ref(svg,13963.5028,-3544.9321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アンジュール横浜クリニック,神奈川県横浜市中区太田町６-７９アブソルート横濱馬車道ビル５Ｆ,皮膚科　形成外科　美容外科,,,9" xlink:title="アンジュール横浜クリニック" transform="ref(svg,13963.5145,-3544.8789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ベイサイドさちクリニック,神奈川県横浜市中区太田町６-７９Ａｂｓｏｌｕｔｅ横濱馬車道ビル８Ｆ,内科　精神科　心臓内科,,,9" xlink:title="ベイサイドさちクリニック" transform="ref(svg,13963.5145,-3544.8789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うしくぼ消化器・内科クリニック,神奈川県横浜市中区翁町１-４-１マリンウェーブビル２Ｆ,内科　消化器科　循環器科　胃腸科　心臓内科　アレルギー科　皮膚科　泌尿器科　肛門科　放射線科　呼吸器外科,,,9" xlink:title="うしくぼ消化器・内科クリニック" transform="ref(svg,13963.807,-3544.1723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内サンドウ内科医院,神奈川県横浜市中区尾上町２-１８-１ＹＳビル２Ｆ,内科　循環器内科　消化器内科,,,9" xlink:title="関内サンドウ内科医院" transform="ref(svg,13963.7324,-3544.5184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜尾上町クリニック,神奈川県横浜市中区尾上町２-１８-１ＹＳビル９Ｆ,精神科　心臓内科　神経内科,,,9" xlink:title="横浜尾上町クリニック" transform="ref(svg,13963.7324,-3544.5184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋山眼科医院,神奈川県横浜市中区尾上町３-２８,内科　眼科　耳鼻いんこう科,,,9" xlink:title="秋山眼科医院" transform="ref(svg,13963.6787,-3544.5516)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内鈴木クリニック,神奈川県横浜市中区尾上町３-２８横浜国際ビル２Ｆ,内科　消化器科　循環器科　整形外科,,,9" xlink:title="関内鈴木クリニック" transform="ref(svg,13963.6819,-3544.5533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陽の光クリニック,神奈川県横浜市中区尾上町３-２８-３Ｆ,内科　消化器科　リハビリテーション科,,,9" xlink:title="陽の光クリニック" transform="ref(svg,13963.6792,-3544.5527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かとう内科クリニック,神奈川県横浜市中区尾上町３-３９尾上町ビル８Ｆ,内科　リウマチ科　アレルギー科,,,9" xlink:title="かとう内科クリニック" transform="ref(svg,13963.6453,-3544.5266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＫＯ　ＣＬＩＮＩＣ,神奈川県横浜市中区尾上町４-５４Ｋａｎｎａｉｅｘビル８Ｆ,形成外科　美容外科　美容皮膚科,,,9" xlink:title="ＫＯ　ＣＬＩＮＩＣ" transform="ref(svg,13963.5515,-3544.5733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慶博会関内医院,神奈川県横浜市中区尾上町５-７６明治屋尾上町ビルディング３０１,内科　消化器内科　循環器内科　外科　肛門外科,,,9" xlink:title="（医）慶博会関内医院" transform="ref(svg,13963.4176,-3544.6526)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,雨宮クリニック,神奈川県横浜市中区尾上町５-７６明治屋尾上町ビル５Ｆ,内科　産婦人科,,,9" xlink:title="雨宮クリニック" transform="ref(svg,13963.4219,-3544.6559)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川又クリニック,神奈川県横浜市中区尾上町５-７６明治屋尾上町ビルディング５Ｆ,精神科　心臓内科,,,9" xlink:title="川又クリニック" transform="ref(svg,13963.4176,-3544.6513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤眼科医院,神奈川県横浜市中区尾上町６-９０,眼科,,,9" xlink:title="佐藤眼科医院" transform="ref(svg,13963.311,-3544.7827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜税関診療所,神奈川県横浜市中区海岸通１-１横浜税関分庁舎２Ｆ,内科,,,9" xlink:title="横浜税関診療所" transform="ref(svg,13964.4619,-3544.8127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜検疫所診察室,神奈川県横浜市中区海岸通１-１,内科,,,9" xlink:title="横浜検疫所診察室" transform="ref(svg,13964.4619,-3544.8127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神奈川県警察本部厚生課健康管理センター,神奈川県横浜市中区海岸通２-４神奈川県警察本部庁舎内１０Ｆ,内科,,,9" xlink:title="神奈川県警察本部厚生課健康管理センター" transform="ref(svg,13964.1047,-3544.9875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬車道慶友クリニック,神奈川県横浜市中区海岸通５-２５-２-２３シャレール海岸通２Ｆ,内科　循環器内科　外科　心臓外科,,,9" xlink:title="馬車道慶友クリニック" transform="ref(svg,13963.7996,-3545.1277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜馬車道皮膚科・ペインクリニック,神奈川県横浜市中区海岸通５-２５-２-２４シャレール海岸通２Ｆ,皮膚科　美容外科　麻酔科　アレルギー科,,,9" xlink:title="横浜馬車道皮膚科・ペインクリニック" transform="ref(svg,13963.7996,-3545.1277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かねこ内科,神奈川県横浜市中区柏葉３３,内科,,,9" xlink:title="かねこ内科" transform="ref(svg,13964.1204,-3543.1879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜港運健康保健組合診療所,神奈川県横浜市中区北仲通４-４４,内科,,,9" xlink:title="横浜港運健康保健組合診療所" transform="ref(svg,13963.7959,-3544.9935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,虎の門病院横浜第２合同庁舎診療所,神奈川県横浜市中区北仲通５-５７横浜第２合同庁舎,内科,,,9" xlink:title="虎の門病院横浜第２合同庁舎診療所" transform="ref(svg,13963.7438,-3545.0479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（独）航海訓練所練習船日本丸医務室,神奈川県横浜市中区北仲通５-５７,内科,,,9" xlink:title="（独）航海訓練所練習船日本丸医務室" transform="ref(svg,13963.7131,-3545.0771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川町クリニック,神奈川県横浜市中区寿町１-１-２,精神科　神経科　心臓内科　内科,,,9" xlink:title="石川町クリニック" transform="ref(svg,13964.0606,-3544.0675)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜家庭裁判所医務室,神奈川県横浜市中区寿町１-２,内科　精神科　婦人科,,,9" xlink:title="横浜家庭裁判所医務室" transform="ref(svg,13964.0242,-3544.1044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寿町勤労者福祉協会診療所,神奈川県横浜市中区寿町４-１４,内科　小児科　精神科　心臓内科,,,9" xlink:title="寿町勤労者福祉協会診療所" transform="ref(svg,13963.8204,-3543.8295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜市救急医療センター,神奈川県横浜市中区桜木町１-１横浜市健康福祉総合センター内１Ｆ-３Ｆ,内科　小児科　眼科　耳鼻いんこう科,,,9" xlink:title="横浜市救急医療センター" transform="ref(svg,13963.1101,-3545.115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜木町オーシャンクリニック,神奈川県横浜市中区桜木町１-１-７ＴＯＣみなとみらい３Ｆ,皮膚科　泌尿器科　内科　精神科　形成外科,,,9" xlink:title="桜木町オーシャンクリニック" transform="ref(svg,13963.0454,-3545.2334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとみらいケンズクリニック,神奈川県横浜市中区桜木町１-１-７ＴＯＣみなとみらい３Ｆ,消化器内科　胃腸内科　循環器内科　呼吸器内科　内科　心臓内科　漢方内科,,,9" xlink:title="みなとみらいケンズクリニック" transform="ref(svg,13963.0454,-3545.2334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしづ眼科,神奈川県横浜市中区桜木町１-１-７ＴＯＣみなとみらい３Ｆ,眼科,,,9" xlink:title="よしづ眼科" transform="ref(svg,13963.0454,-3545.2334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大星会横浜大星クリニック,神奈川県横浜市中区桜木町１-１-８日石横浜ビル２９Ｆ,内科　外科　皮膚科,,,9" xlink:title="（医）大星会横浜大星クリニック" transform="ref(svg,13963.0067,-3545.3854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,テティス横濱美容皮膚科,神奈川県横浜市中区桜木町１-１０１-１クロスゲート６Ｆ,美容皮膚科,,,9" xlink:title="テティス横濱美容皮膚科" transform="ref(svg,13963.2537,-3545.0845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜海上保安部診療所,神奈川県横浜市中区新港町１-２-１,内科,,,9" xlink:title="横浜海上保安部診療所" transform="ref(svg,13964.4087,-3545.486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天崎内科医院,神奈川県横浜市中区末広町２-４-８,内科　消化器科,,,9" xlink:title="天崎内科医院" transform="ref(svg,13963.3053,-3544.4247)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小笹医院,神奈川県横浜市中区末吉町３-５６-５,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="小笹医院" transform="ref(svg,13962.5088,-3543.9586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中クリニック横浜公園,神奈川県横浜市中区住吉町１-１２-５横浜エクセレント-]-Y２Ｆ,内科　内分泌内科　代謝内科,,,9" xlink:title="田中クリニック横浜公園" transform="ref(svg,13963.9421,-3544.4907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関谷クリニック,神奈川県横浜市中区滝之上１２８,内科　消化器内科　肛門外科　腎臓内科　糖尿病内科　アレルギー疾患内科,,,9" xlink:title="関谷クリニック" transform="ref(svg,13964.0257,-3542.0061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町クリニック,神奈川県横浜市中区竹之丸１５８-２０,内科　小児科,,,9" xlink:title="元町クリニック" transform="ref(svg,13964.1982,-3542.853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,臼井医院,神奈川県横浜市中区千歳町１-２横浜ＴＨビル２Ｆ,内科　胃腸科　循環器科　小児科　皮膚科,,,9" xlink:title="臼井医院" transform="ref(svg,13963.5231,-3543.785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）敬和会平松整形外科クリニック,神奈川県横浜市中区千歳町１-２,整形外科　リハビリテーション科,,,9" xlink:title="（医）敬和会平松整形外科クリニック" transform="ref(svg,13963.5231,-3543.785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）オハナ長者町ファミリークリニック,神奈川県横浜市中区長者町３-７-５ＹＳ長者町ビル１Ｆ,内科　皮膚科,,,9" xlink:title="（医）オハナ長者町ファミリークリニック" transform="ref(svg,13963.374,-3543.9717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,Ｂ-Ｒａｉｎ　Ｃｌｉｎｉｃ,神奈川県横浜市中区長者町３-７-５ＹＳ長者町ビル１Ｆ,精神科　心臓内科,,,9" xlink:title="Ｂ-Ｒａｉｎ　Ｃｌｉｎｉｃ" transform="ref(svg,13963.374,-3543.9717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石橋泌尿器科皮フ科クリニック,神奈川県横浜市中区長者町９-１６６-１ソフィアヨコハマ,泌尿器科　皮膚科　内科,,,9" xlink:title="石橋泌尿器科皮フ科クリニック" transform="ref(svg,13962.8209,-3544.4491)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,郷整形外科,神奈川県横浜市中区長者町９-１６６-６,整形外科　リハビリテーション科,,,9" xlink:title="郷整形外科" transform="ref(svg,13962.8232,-3544.4232)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,リー・クリニック,神奈川県横浜市中区長者町９-１７５第１０吉田ビル３Ｆ,内科　放射線科,,,9" xlink:title="リー・クリニック" transform="ref(svg,13962.8092,-3544.4732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花岡皮膚科クリニック,神奈川県横浜市中区常盤町３-２５サンビルディング６Ｆ,皮膚科,,,9" xlink:title="花岡皮膚科クリニック" transform="ref(svg,13963.6578,-3544.6332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけレディースクリニック,神奈川県横浜市中区常盤町３-３６関内ＳＳビル４Ｆ,産科　婦人科,,,9" xlink:title="たけレディースクリニック" transform="ref(svg,13963.6432,-3544.6091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜ベイサイドクリニック,神奈川県横浜市中区常盤町３-３６関内ＳＳビル６Ｆ,内科　心臓内科,,,9" xlink:title="横浜ベイサイドクリニック" transform="ref(svg,13963.6432,-3544.6091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬車道クリニック,神奈川県横浜市中区常盤町５-６６-２,内科　胃腸科　外科　整形外科,,,9" xlink:title="馬車道クリニック" transform="ref(svg,13963.4764,-3544.702)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山部内科クリニック,神奈川県横浜市中区西竹之丸１１０,内科　リハビリテーション科,,,9" xlink:title="山部内科クリニック" transform="ref(svg,13964.1319,-3542.641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神奈川県職員健康管理センター,神奈川県横浜市中区日本大通１,内科　心臓内科,,,9" xlink:title="神奈川県職員健康管理センター" transform="ref(svg,13964.2347,-3544.7505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本大通満岡クリニック,神奈川県横浜市中区日本大通５２ロイヤーズビル５Ｆ,心臓内科　精神科　神経科,,,9" xlink:title="日本大通満岡クリニック" transform="ref(svg,13964.1147,-3544.5262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）神奈川県予防医学協会中央診療所,神奈川県横浜市中区日本大通５８日本大通ビル,内科　消化器内科　循環器内科　整形外科　呼吸器内科　婦人科　外科　泌尿器科　乳腺外科　放射線科　病理診療科,,,9" xlink:title="（公財）神奈川県予防医学協会中央診療所" transform="ref(svg,13964.0775,-3544.5325)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつい内科医院,神奈川県横浜市中区野毛町１-１１-１,内科　胃腸科,,,9" xlink:title="まつい内科医院" transform="ref(svg,13963.1247,-3544.8111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきばクリニック,神奈川県横浜市中区野毛町３-１６０-４,内科　漢方内科　胃腸内科　内視鏡内科　肛門内科　消化器内科,,,9" xlink:title="あきばクリニック" transform="ref(svg,13962.8839,-3544.8497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜野毛坂クリニック,神奈川県横浜市中区野毛町３-１６０-４ちぇるる野毛２Ｆ,内科　呼吸器科　循環器科　アレルギー科,,,9" xlink:title="横浜野毛坂クリニック" transform="ref(svg,13962.8746,-3544.8414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜木町整形外科ペインクリニック,神奈川県横浜市中区野毛町３-１６０-４ちぇるる野毛,整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="桜木町整形外科ペインクリニック" transform="ref(svg,13962.8746,-3544.8414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜関内わだクリニック,神奈川県横浜市中区羽衣町２-７-４ダイワロイネットホテル横浜関内２Ｆ,内科　外科,,,9" xlink:title="横浜関内わだクリニック" transform="ref(svg,13963.3294,-3544.3354)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜サンクリニック,神奈川県横浜市中区羽衣町３-７６-３アクセラ２１ビル８Ｆ,内科　形成外科　美容外科　皮膚科　麻酔科,,,9" xlink:title="横浜サンクリニック" transform="ref(svg,13963.3335,-3544.2867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サザン・クリニック横浜,神奈川県横浜市中区花咲町１-５ヨネヤマビル２Ｆ,内科　皮膚科　泌尿器科　性病科　心臓内科,,,9" xlink:title="サザン・クリニック横浜" transform="ref(svg,13963.162,-3544.7821)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＩＭＣクリニック,神奈川県横浜市中区花咲町１-１８第一測量桜木町ビル６Ｆ,内科,,,9" xlink:title="ＩＭＣクリニック" transform="ref(svg,13963.1521,-3544.8372)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜木町クリニック,神奈川県横浜市中区花咲町１-４８ロゼ桜木町２Ｆ,精神科　心臓内科,,,9" xlink:title="桜木町クリニック" transform="ref(svg,13963.0346,-3544.9514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猪子メンタルクリニック,神奈川県横浜市中区花咲町２-７０ミツミビル１０３,精神科　心臓内科　児童精神科,,,9" xlink:title="猪子メンタルクリニック" transform="ref(svg,13962.9051,-3544.9786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤門医院,神奈川県横浜市中区英町８,内科　消化器科　胃腸科　循環器科　小児科　外科　皮膚科,,,9" xlink:title="赤門医院" transform="ref(svg,13962.3039,-3544.1812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松田クリニック,神奈川県横浜市中区日ノ出町１-１９-５Ｆ,内科　循環器内科　消化器内科　放射線科,,,9" xlink:title="松田クリニック" transform="ref(svg,13962.7372,-3544.5321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,育愛会レディースクリニック,神奈川県横浜市中区日ノ出町１-７５-２Ｆ,婦人科　美容皮膚科,,,9" xlink:title="育愛会レディースクリニック" transform="ref(svg,13962.6288,-3544.4428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇津見眼科医院,神奈川県横浜市中区日ノ出町２-１１２,眼科,,,9" xlink:title="宇津見眼科医院" transform="ref(svg,13962.5822,-3544.3342)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディースクリニックマリーナ,神奈川県横浜市中区不老町１-１-１４関内駅前エスビル３Ｆ,産婦人科　心臓内科,,,9" xlink:title="レディースクリニックマリーナ" transform="ref(svg,13963.7777,-3544.2083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳井内科関内クリニック,神奈川県横浜市中区不老町１-２-１中央第６関内ビル６０２,内科　消化器内科　糖尿病内科,,,9" xlink:title="徳井内科関内クリニック" transform="ref(svg,13963.7086,-3544.2421)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,風野クリニック,神奈川県横浜市中区不老町１-３-３フェニックス関内１０１,内科　胃腸科,,,9" xlink:title="風野クリニック" transform="ref(svg,13963.6724,-3544.2584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内耳鼻咽喉科クリニック,神奈川県横浜市中区不老町１-３-３フェニックス関内２０１,耳鼻いんこう科,,,9" xlink:title="関内耳鼻咽喉科クリニック" transform="ref(svg,13963.6737,-3544.2568)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まこと心のクリニック,神奈川県横浜市中区不老町１-５-１１Ｋ-ＳＰＩＲＥビル３Ｆ,内科　精神科　心臓内科,,,9" xlink:title="まこと心のクリニック" transform="ref(svg,13963.6847,-3544.2202)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ポーラのクリニック,神奈川県横浜市中区不老町３-１４-５中外ビル２Ｆ,内科　循環器科　呼吸器科　皮膚科　心臓内科,,,9" xlink:title="ポーラのクリニック" transform="ref(svg,13963.5985,-3544.0423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡田内科クリニック,神奈川県横浜市中区蓬莱町１-１-３関内パークビル３０２,内科　呼吸器科　消化器科　循環器科　神経内科,,,9" xlink:title="岡田内科クリニック" transform="ref(svg,13963.5506,-3544.3398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青山会関内クリニック,神奈川県横浜市中区蓬莱町１-１-３関内パークビル５Ｆ,精神科,,,9" xlink:title="青山会関内クリニック" transform="ref(svg,13963.5462,-3544.3403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保内科クリニック,神奈川県横浜市中区蓬莱町２-３-３,内科　小児科　アレルギー科　皮膚科,,,9" xlink:title="久保内科クリニック" transform="ref(svg,13963.4595,-3544.3247)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科診療室,神奈川県横浜市中区蓬莱町２-３-４,内科　小児科,,,9" xlink:title="鈴木内科診療室" transform="ref(svg,13963.4607,-3544.321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松和会望星関内クリニック,神奈川県横浜市中区蓬莱町２-４-１,内科　泌尿器科,,,9" xlink:title="（医）松和会望星関内クリニック" transform="ref(svg,13963.4965,-3544.3084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内整形外科持田クリニック,神奈川県横浜市中区蓬莱町２-５ガーデンパーク関内１Ｆ,外科　整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="関内整形外科持田クリニック" transform="ref(svg,13963.4506,-3544.2621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸賀崎産婦人科医院,神奈川県横浜市中区蓬莱町２-６-１４,産科　婦人科,,,9" xlink:title="戸賀崎産婦人科医院" transform="ref(svg,13963.4214,-3544.3001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内藤脳外科神経内科放射線科クリニック,神奈川県横浜市中区蓬莱町２-６-１４戸賀崎ビル,神経内科　脳神経外科　放射線科,,,9" xlink:title="内藤脳外科神経内科放射線科クリニック" transform="ref(svg,13963.4185,-3544.302)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,イセザキ眼科医院,神奈川県横浜市中区蓬莱町３-１１０伊勢佐木眼科ビル２Ｆ,眼科,,,9" xlink:title="イセザキ眼科医院" transform="ref(svg,13963.315,-3544.1903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大通り公園クリニック,神奈川県横浜市中区蓬莱町３-１１３,内科　消化器内科　循環器内科　皮膚科,,,9" xlink:title="大通り公園クリニック" transform="ref(svg,13963.3265,-3544.1845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）創祥会小菅医院,神奈川県横浜市中区本郷町１-２６,内科　小児科　皮膚科,,,9" xlink:title="（医）創祥会小菅医院" transform="ref(svg,13965.4524,-3543.2598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福島医院,神奈川県横浜市中区本郷町２-４５,内科　呼吸器科　胃腸科　循環器科　リハビリテーション科,,,9" xlink:title="（医）福島医院" transform="ref(svg,13965.6536,-3543.1684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八巻整形外科クリニック,神奈川県横浜市中区本郷町２-４５福島ビル５Ｆ,整形外科　リハビリテーション科,,,9" xlink:title="八巻整形外科クリニック" transform="ref(svg,13965.657,-3543.174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長原耳鼻咽喉科クリニック,神奈川県横浜市中区本郷町２-４５-２福島ビル３Ｆ,耳鼻いんこう科　気管食道科,,,9" xlink:title="長原耳鼻咽喉科クリニック" transform="ref(svg,13965.6476,-3543.1799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋皮フ科クリニック,神奈川県横浜市中区本郷町２-４５-２福島クリニックビル３０２,皮膚科　アレルギー科,,,9" xlink:title="高橋皮フ科クリニック" transform="ref(svg,13965.6364,-3543.1819)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本郷町田園眼科クリニック,神奈川県横浜市中区本郷町２-４５-２福島ビル４Ｆ,眼科,,,9" xlink:title="本郷町田園眼科クリニック" transform="ref(svg,13965.6349,-3543.1824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古橋整形外科医院,神奈川県横浜市中区本郷町２-５６,整形外科　リハビリテーション科,,,9" xlink:title="古橋整形外科医院" transform="ref(svg,13965.6573,-3543.2766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かりべクリニック,神奈川県横浜市中区本町１-３綜通横浜ビル２Ｆ,内科　精神科　心臓内科,,,9" xlink:title="かりべクリニック" transform="ref(svg,13964.1331,-3544.7861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）祥應会福田俊子レディスクリニック,神奈川県横浜市中区本町１-３綜通横浜ビル２Ｆ,産婦人科,,,9" xlink:title="（医）祥應会福田俊子レディスクリニック" transform="ref(svg,13964.1331,-3544.7861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしずみ耳鼻科クリニック,神奈川県横浜市中区本町３-２４-３エルドシック横濱２Ｆ,耳鼻いんこう科　アレルギー科　気管食道科,,,9" xlink:title="よしずみ耳鼻科クリニック" transform="ref(svg,13963.9086,-3544.8904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬車道内科クリニック,神奈川県横浜市中区本町４-３８横浜本町ビル１階,内科　胃腸科　循環器科　アレルギー科,,,9" xlink:title="馬車道内科クリニック" transform="ref(svg,13963.7907,-3544.9653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内クリニック,神奈川県横浜市中区本町４-４３セボン関内第２ビル３Ｆ,内科,,,9" xlink:title="関内クリニック" transform="ref(svg,13963.7437,-3544.9144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（独）都市再生機構診療所,神奈川県横浜市中区本町６-５０-１,内科,,,9" xlink:title="（独）都市再生機構診療所" transform="ref(svg,13963.509,-3545.0279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜ヘルスケアクリニック,神奈川県横浜市中区本町６-５０-１横浜アイランドタワーＢ１,内科　整形外科　脳神経外科　皮膚科,,,9" xlink:title="横浜ヘルスケアクリニック" transform="ref(svg,13963.5087,-3545.0145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなとクリニック,神奈川県横浜市中区本牧町１-７キャスト本牧１Ｆ,内科　小児科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="みなとクリニック" transform="ref(svg,13965.7558,-3543.1726)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤医院,神奈川県横浜市中区本牧町１-１８,内科,,,9" xlink:title="佐藤医院" transform="ref(svg,13965.729,-3543.2687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺道小児科医院,神奈川県横浜市中区本牧町１-１７８,小児科　アレルギー科,,,9" xlink:title="寺道小児科医院" transform="ref(svg,13965.7437,-3542.9172)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩崎クリニック,神奈川県横浜市中区真砂町２-１２関内駅前第一ビル２Ｆ,内科　外科,,,9" xlink:title="岩崎クリニック" transform="ref(svg,13963.6946,-3544.4666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内駅前内科クリニック,神奈川県横浜市中区真砂町３-３３セルテ２Ｆ,内科　糖尿病内科,,,9" xlink:title="関内駅前内科クリニック" transform="ref(svg,13963.5854,-3544.4871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善仁会横浜クリニック,神奈川県横浜市中区真砂町３-３３セルテ１０Ｆ,人工透析内科,,,9" xlink:title="（医）善仁会横浜クリニック" transform="ref(svg,13963.5854,-3544.4871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かんない駅前眼科クリニック,神奈川県横浜市中区真砂町３-３８キリン関内ビル４Ｆ,眼科,,,9" xlink:title="かんない駅前眼科クリニック" transform="ref(svg,13963.5426,-3544.5016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川町内科クリニック,神奈川県横浜市中区松影町１-３-７ロックヒルズ-[３Ｆ,内科　消化器内科　外科　肛門外科,,,9" xlink:title="石川町内科クリニック" transform="ref(svg,13964.1376,-3543.9805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ことぶき共同診療所,神奈川県横浜市中区松影町２-７-１７リバーハイツ石川町２Ｆ,内科　精神科　神経科　整形外科,,,9" xlink:title="ことぶき共同診療所" transform="ref(svg,13964.0699,-3543.8857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健仁会健仁外科医院,神奈川県横浜市中区松影町２-８-１０,呼吸器科　消化器科　小児科　外科　整形外科,,,9" xlink:title="（医）健仁会健仁外科医院" transform="ref(svg,13964.0736,-3543.8231)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）純仁会関内マリンクリニック,神奈川県横浜市中区港町２-９-４関内幸和ビル９Ｆ,内科　性感染症内科,,,9" xlink:title="（医）純仁会関内マリンクリニック" transform="ref(svg,13963.6303,-3544.4293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鳥山整形外科,神奈川県横浜市中区港町６-２８,整形外科,,,9" xlink:title="鳥山整形外科" transform="ref(svg,13963.3179,-3544.7588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,セルポートクリニック横浜,神奈川県横浜市中区南仲通３-３５横浜エクセレント-V２Ｆ,美容外科　形成外科,,,9" xlink:title="セルポートクリニック横浜" transform="ref(svg,13963.818,-3544.8294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科渡部医院,神奈川県横浜市中区麦田町２-５２,内科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="内科渡部医院" transform="ref(svg,13964.6926,-3543.3267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野崎小児科医院,神奈川県横浜市中区麦田町４-９９,内科　小児科,,,9" xlink:title="野崎小児科医院" transform="ref(svg,13964.9708,-3543.222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川俣クリニック,神奈川県横浜市中区麦田町４-１０７ライフ山手２０１,内科　リハビリテーション科　麻酔科,,,9" xlink:title="川俣クリニック" transform="ref(svg,13964.9646,-3543.2542)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山手消化器・内科クリニック,神奈川県横浜市中区麦田町４-１０２-３,内科　消化器内科,,,9" xlink:title="山手消化器・内科クリニック" transform="ref(svg,13964.9086,-3543.282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）神奈川県結核予防会かながわクリニック,神奈川県横浜市中区元浜町４-３２県民共済ビル３Ｆ．４Ｆ,内科　外科　消化器内科　婦人科,,,9" xlink:title="（公財）神奈川県結核予防会かながわクリニック" transform="ref(svg,13963.8714,-3544.9841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向井クリニック,神奈川県横浜市中区元町１-５１-１Ｆ-ｆｌａｔビル１Ｆ,内科　消化器内科　外科　皮膚科,,,9" xlink:title="向井クリニック" transform="ref(svg,13965.0632,-3544.0471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町宮地クリニック,神奈川県横浜市中区元町２-８６,内科　不妊治療外科　腎臓泌尿器科,,,9" xlink:title="元町宮地クリニック" transform="ref(svg,13964.8836,-3544.0828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＬＵＮＡ骨盤底トータルサポートクリニック,神奈川県横浜市中区元町２-９６-４鈴音第一ビル２Ｆ,婦人科　女性泌尿器科　乳腺外科　外科　美容皮膚科,,,9" xlink:title="ＬＵＮＡ骨盤底トータルサポートクリニック" transform="ref(svg,13964.8948,-3544.0226)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,女性医療クリニックＬＵＮＡ・ＡＮＮＥＸ,神奈川県横浜市中区元町３-１１５百段館３Ｆ,女性内科　漢方内科　婦人科　女性泌尿器科　精神科,,,9" xlink:title="女性医療クリニックＬＵＮＡ・ＡＮＮＥＸ" transform="ref(svg,13964.8533,-3544.0658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜元町女性医療クリニックＬＵＮＡ,神奈川県横浜市中区元町３-１１５百段館５Ｆ,内科　婦人科　泌尿器科,,,9" xlink:title="横浜元町女性医療クリニックＬＵＮＡ" transform="ref(svg,13964.8533,-3544.0658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町アイクリニック,神奈川県横浜市中区元町４-１６８関内元町第２ビル５Ｆ,眼科,,,9" xlink:title="元町アイクリニック" transform="ref(svg,13964.7145,-3543.9618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町セントラルクリニック,神奈川県横浜市中区元町４-１６８元町第２ビル５Ｆ,内科　消化器内科　外科　形成外科　美容外科　皮膚科,,,9" xlink:title="元町セントラルクリニック" transform="ref(svg,13964.7142,-3543.9627)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町メンタルクリニック,神奈川県横浜市中区元町４-１６８関内不動産元町第２ビル６Ｆ,精神科　心臓内科,,,9" xlink:title="元町メンタルクリニック" transform="ref(svg,13964.7131,-3543.964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋山内科クリニック,神奈川県横浜市中区元町５-２０９北村ビル３Ｆ,内科　循環器科　小児科,,,9" xlink:title="秋山内科クリニック" transform="ref(svg,13964.62,-3543.8889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子内科診療所,神奈川県横浜市中区山下町２産業貿易センタービル３Ｆ,内科,,,9" xlink:title="金子内科診療所" transform="ref(svg,13964.574,-3544.6903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（財）日本検疫衛生協会横浜診療所,神奈川県横浜市中区山下町２産業貿易センタービル３Ｆ,内科,,,9" xlink:title="（財）日本検疫衛生協会横浜診療所" transform="ref(svg,13964.5767,-3544.6961)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜サトウクリニック,神奈川県横浜市中区山下町２３日土地山下町ビル８Ｆ,腫瘍内科　腫瘍外科　腫瘍泌尿器科　腫瘍婦人科,,,9" xlink:title="横浜サトウクリニック" transform="ref(svg,13964.5408,-3544.635)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パークサイド柴田メンタルクリニック,神奈川県横浜市中区山下町２５上田ビル２Ｆ,内科　精神科　神経科　心臓内科,,,9" xlink:title="パークサイド柴田メンタルクリニック" transform="ref(svg,13964.6995,-3544.5456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山下公園クリニック,神奈川県横浜市中区山下町２８-２,内科　小児科　歯科,,,9" xlink:title="山下公園クリニック" transform="ref(svg,13964.8087,-3544.5083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）野間メンタルヘルスクリニック,神奈川県横浜市中区山下町３２-１３原ビル６０１,精神科,,,9" xlink:title="（医）野間メンタルヘルスクリニック" transform="ref(svg,13964.9691,-3544.3811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町たかつか内科クリニック,神奈川県横浜市中区山下町３７-８グローリオタワー横浜元町２Ｆ,内科　呼吸器内科　消化器内科　循環器内科,,,9" xlink:title="元町たかつか内科クリニック" transform="ref(svg,13965.0902,-3544.2558)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町こどもクリニック,神奈川県横浜市中区山下町３７-８グローリオタワー横浜元町２Ｆ,小児科,,,9" xlink:title="元町こどもクリニック" transform="ref(svg,13965.0902,-3544.2558)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元町レディースクリニック,神奈川県横浜市中区山下町３７-８グローリオタワー横浜元町２０４-２,産婦人科,,,9" xlink:title="元町レディースクリニック" transform="ref(svg,13965.0749,-3544.2674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三志会よこはま元町クリニック,神奈川県横浜市中区山下町３７-８グローリオタワー横浜元町２Ｆ,内科　整形外科　形成外科　皮膚科,,,9" xlink:title="（医）三志会よこはま元町クリニック" transform="ref(svg,13965.0902,-3544.2558)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中華街医院,神奈川県横浜市中区山下町７３-３ヴァルス山下町ビル７０１,内科　外科　整形外科　皮膚科,,,9" xlink:title="中華街医院" transform="ref(svg,13964.4614,-3544.5141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,誠友医院,神奈川県横浜市中区山下町１１３-４-３Ｆ,内科　小児科　精神科　リハビリテーション科　アレルギー科,,,9" xlink:title="誠友医院" transform="ref(svg,13964.7474,-3544.0986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）星和会元町メディカルクリニック,神奈川県横浜市中区山下町１２３-１横浜クリードビル８Ｆ,内科,,,9" xlink:title="（医）星和会元町メディカルクリニック" transform="ref(svg,13964.7721,-3544.1768)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陽和クリニック,神奈川県横浜市中区山下町１８５,内科　外科　放射線科,,,9" xlink:title="陽和クリニック" transform="ref(svg,13964.7477,-3544.3127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花園橋クリニック,神奈川県横浜市中区山下町２２３-１テルウェル横浜ビル１Ｆ,内科　外科　整形外科,,,9" xlink:title="花園橋クリニック" transform="ref(svg,13964.1343,-3544.2553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,グランベル横浜ビル眼科クリニック,神奈川県横浜市中区山下町２５２グランベル横浜ビル１Ｆ,眼科,,,9" xlink:title="グランベル横浜ビル眼科クリニック" transform="ref(svg,13964.1105,-3544.2323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,産婦人科マチダクリニック,神奈川県横浜市中区山田町７-８産友ビル１０１,産科　婦人科,,,9" xlink:title="産婦人科マチダクリニック" transform="ref(svg,13963.2637,-3543.7899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,イチロークリニック,神奈川県横浜市中区山田町８-１フロール山田第３共同住宅１Ｆ,内科　消化器科,,,9" xlink:title="イチロークリニック" transform="ref(svg,13963.2642,-3543.8619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川クリニック,神奈川県横浜市中区山手町５５,内科　外科　救急科,,,9" xlink:title="石川クリニック" transform="ref(svg,13964.8801,-3543.9469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ザ・ブラフ・メディカル＆デンタル・クリニック,神奈川県横浜市中区山手町８２,内科　小児科　外科　歯科,,,9" xlink:title="ザ・ブラフ・メディカル＆デンタル・クリニック" transform="ref(svg,13965.1465,-3543.7115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和外科・整形外科医院,神奈川県横浜市中区大和町１-２１,外科　整形外科　肛門科　放射線科,,,9" xlink:title="大和外科・整形外科医院" transform="ref(svg,13964.9704,-3543.1906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島医院,神奈川県横浜市中区大和町２-３４-５山手駅前クリニックビル１Ｆ,内科　胃腸内科　外科　皮膚科,,,9" xlink:title="中島医院" transform="ref(svg,13964.6153,-3542.8259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇都宮内科胃腸科医院,神奈川県横浜市中区大和町２-３７,内科　胃腸科,,,9" xlink:title="宇都宮内科胃腸科医院" transform="ref(svg,13964.5587,-3542.7773)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山手の森こころのクリニック,神奈川県横浜市中区大和町２-６０-１,精神科　心臓内科　児童精神科,,,9" xlink:title="山手の森こころのクリニック" transform="ref(svg,13964.6853,-3542.8929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山手クリニック,神奈川県横浜市中区山元町２-６０,内科　リハビリテーション科　放射線科,,,9" xlink:title="山手クリニック" transform="ref(svg,13963.8326,-3543.1094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまもと整形外科医院,神奈川県横浜市中区山元町２-７７-１０メゾンマルセ南糧２Ｆ,整形外科　リハビリテーション科,,,9" xlink:title="やまもと整形外科医院" transform="ref(svg,13963.7816,-3542.9136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山崎医院,神奈川県横浜市中区山元町３-１４２,内科　小児科,,,9" xlink:title="（医）山崎医院" transform="ref(svg,13963.8064,-3542.8879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大石クリニック,神奈川県横浜市中区弥生町４-４１-２Ｆ,内科　精神科　神経科　神経内科　麻酔科,,,9" xlink:title="大石クリニック" transform="ref(svg,13962.5626,-3543.8322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜スタジアム医務室,神奈川県横浜市中区横浜公園,内科　外科,,,9" xlink:title="横浜スタジアム医務室" transform="ref(svg,13963.8226,-3544.2777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鏡明会石井耳鼻咽喉科診療所,神奈川県横浜市中区吉田町７２,耳鼻いんこう科,,,9" xlink:title="（医）鏡明会石井耳鼻咽喉科診療所" transform="ref(svg,13963.1864,-3544.7195)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川町整形外科,神奈川県横浜市中区吉浜町１-２パークスクエア横浜２Ｆ,整形外科　リハビリテーション科　ペインクリニック内科,,,9" xlink:title="石川町整形外科" transform="ref(svg,13964.3376,-3543.9535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健伸会石川町なのはなクリニック,神奈川県横浜市中区吉浜町１-２パークスクエア横浜２Ｆ,内科　眼科,,,9" xlink:title="（医）健伸会石川町なのはなクリニック" transform="ref(svg,13964.3376,-3543.9535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜井耳鼻咽喉科医院,神奈川県横浜市中区吉浜町１-９エトワール吉浜３０２,耳鼻いんこう科　気管食道内科,,,9" xlink:title="桜井耳鼻咽喉科医院" transform="ref(svg,13964.2141,-3543.9951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川嶋泌尿器・皮膚科医院,神奈川県横浜市中区吉浜町２-４アクシス元町２Ｆ,皮膚科　泌尿器科　性感染症内科　性感染症外科,,,9" xlink:title="川嶋泌尿器・皮膚科医院" transform="ref(svg,13964.1888,-3543.8502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田クリニック,神奈川県横浜市中区吉浜町２-１４広岡ビル４Ｆ,胃腸科　外科　肛門科　放射線科,,,9" xlink:title="前田クリニック" transform="ref(svg,13964.1107,-3543.9219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,廣瀬医院,神奈川県横浜市中区若葉町２-２４,内科,,,9" xlink:title="廣瀬医院" transform="ref(svg,13962.8183,-3544.2019)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしだ形成外科クリニック,神奈川県横浜市中区若葉町２-２４-５松井ビル１Ｆ,形成外科　美容外科　皮膚科,,,9" xlink:title="よしだ形成外科クリニック" transform="ref(svg,13962.803,-3544.1906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古川耳鼻咽喉科医院,神奈川県横浜市中区若葉町２-２４-５松井ビル２Ｆ,耳鼻いんこう科　気管食道内科,,,9" xlink:title="古川耳鼻咽喉科医院" transform="ref(svg,13962.803,-3544.1906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原クリニック,神奈川県横浜市南区浦舟町１-１メディカル浦舟７Ｆ,精神科　神経科,,,9" xlink:title="原クリニック" transform="ref(svg,13962.8464,-3543.5322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はやし整形外科,神奈川県横浜市南区浦舟町３-３４カーザ・ペルラ２Ｆ,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="はやし整形外科" transform="ref(svg,13962.6112,-3543.4784)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もみやまクリニック,神奈川県横浜市南区浦舟町３-３４カーザ・ペルラ３Ｆ,内科　胃腸科　外科,,,9" xlink:title="もみやまクリニック" transform="ref(svg,13962.63,-3543.4829)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜市中央児童相談所診療室,神奈川県横浜市南区浦舟町３-４４-２,小児科　精神科,,,9" xlink:title="横浜市中央児童相談所診療室" transform="ref(svg,13962.6441,-3543.4376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浦舟ホーム医務室,神奈川県横浜市南区浦舟町３-４６-３Ｆ,内科,,,9" xlink:title="浦舟ホーム医務室" transform="ref(svg,13962.5907,-3543.4154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）横浜市天神ホーム医務室,神奈川県横浜市南区浦舟町３-４６-５Ｆ,内科,,,9" xlink:title="（特養）横浜市天神ホーム医務室" transform="ref(svg,13962.5907,-3543.4154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜市浦舟園医務室,神奈川県横浜市南区浦舟町３-４６-６Ｆ,内科　精神科,,,9" xlink:title="横浜市浦舟園医務室" transform="ref(svg,13962.5907,-3543.4154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浦舟金沢内科クリニック,神奈川県横浜市南区浦舟町４-４７-２-２０１,内科　消化器科,,,9" xlink:title="浦舟金沢内科クリニック" transform="ref(svg,13962.5153,-3543.4617)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかりクリニック,神奈川県横浜市南区浦舟町４-４７-２-２０３,精神科　神経科　心臓内科,,,9" xlink:title="あかりクリニック" transform="ref(svg,13962.5163,-3543.4659)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サラクリニック,神奈川県横浜市南区浦舟町４-４７-２メディカルコートマリス３０２,内科　産婦人科,,,9" xlink:title="サラクリニック" transform="ref(svg,13962.5141,-3543.4672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜みなと眼科,神奈川県横浜市南区浦舟町４-４７-２メディカルコートマリス,眼科,,,9" xlink:title="横浜みなと眼科" transform="ref(svg,13962.517,-3543.4648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うらふね脳外科クリニック,神奈川県横浜市南区浦舟町４-５０,脳神経外科,,,9" xlink:title="うらふね脳外科クリニック" transform="ref(svg,13962.462,-3543.4459)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）アリア大沼皮フ科,神奈川県横浜市南区浦舟町４-５０-４パティオ富貴２Ｆ-２０１,皮膚科,,,9" xlink:title="（医）アリア大沼皮フ科" transform="ref(svg,13962.498,-3543.4541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山王クリニック,神奈川県横浜市南区山王町２-２２ル・ヴァン・スレーブ山王１０１,内科　消化器科　リハビリテーション科　放射線科　小児皮膚科,,,9" xlink:title="山王クリニック" transform="ref(svg,13962.01,-3543.6088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善仁会吉野町第一クリニック,神奈川県横浜市南区山王町３-２４-８港横浜ビル２Ｆ,人工透析内科,,,9" xlink:title="（医）善仁会吉野町第一クリニック" transform="ref(svg,13961.9271,-3543.6141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉野町眼科,神奈川県横浜市南区山王町４-２６-３,眼科,,,9" xlink:title="吉野町眼科" transform="ref(svg,13961.8009,-3543.5888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水野医院,神奈川県横浜市南区白金町１-９,内科　皮膚科,,,9" xlink:title="水野医院" transform="ref(svg,13962.2616,-3543.9571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,碧水脳神経外科クリニック,神奈川県横浜市南区白妙町２-７,脳神経外科,,,9" xlink:title="碧水脳神経外科クリニック" transform="ref(svg,13962.6728,-3543.5241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白木内科,神奈川県横浜市南区白妙町３-４１,内科　消化器科　循環器科,,,9" xlink:title="白木内科" transform="ref(svg,13962.5428,-3543.4796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂井医院,神奈川県横浜市南区高砂町３-２８ＴｈａｎｋｓＬｉｆｅＢＬＤ．１０１,内科　小児科　皮膚科　胃腸内科　リハビリテーション科　放射線科,,,9" xlink:title="坂井医院" transform="ref(svg,13961.8915,-3543.3667)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐治内科,神奈川県横浜市南区高根町１-４,内科　小児科,,,9" xlink:title="佐治内科" transform="ref(svg,13962.799,-3543.6937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相原アレルギー科・小児科クリニック,神奈川県横浜市南区高根町３-１７ストーク大通り公園参番館２０１,アレルギー科　小児科　リウマチ科　皮膚科,,,9" xlink:title="相原アレルギー科・小児科クリニック" transform="ref(svg,13962.5465,-3543.66)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内田内科クリニック,神奈川県横浜市南区中村町１-１-１アークヒルズ１Ｆ,内科　小児科　外科　リハビリテーション科,,,9" xlink:title="内田内科クリニック" transform="ref(svg,13963.6069,-3543.6722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）神奈川県結核予防会中央健康相談所,神奈川県横浜市南区中村町３-１９１-７,内科　呼吸器科　放射線科,,,9" xlink:title="（公財）神奈川県結核予防会中央健康相談所" transform="ref(svg,13962.7677,-3543.2927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚田医院,神奈川県横浜市南区中村町３-１９９-３,内科　小児科　放射線科,,,9" xlink:title="塚田医院" transform="ref(svg,13963.049,-3543.344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,救護施設清明の郷医務室,神奈川県横浜市南区中村町５-３１５-２Ｆ,内科,,,9" xlink:title="救護施設清明の郷医務室" transform="ref(svg,13962.2607,-3542.883)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）リバーサイドフェニックス医務室,神奈川県横浜市南区中村町５-３１６-１,内科　外科,,,9" xlink:title="（特養）リバーサイドフェニックス医務室" transform="ref(svg,13962.3007,-3542.8318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わかたけプラザクリニック,神奈川県横浜市南区西中町２-３１,内科　消化器内科　循環器内科　アレルギー疾患内科　老年内科　糖尿病内科,,,9" xlink:title="わかたけプラザクリニック" transform="ref(svg,13962.126,-3544.0516)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榊原医院,神奈川県横浜市南区西中町３-４４,内科　小児科　放射線科,,,9" xlink:title="榊原医院" transform="ref(svg,13962.0167,-3544.0037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜ひまわりクリニック,神奈川県横浜市南区西中町４-７２,内科　皮膚科　リハビリテーション科,,,9" xlink:title="横浜ひまわりクリニック" transform="ref(svg,13961.7051,-3543.9218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいとう整形外科クリニック,神奈川県横浜市南区日枝町３-９１-２,整形外科　リハビリテーション科,,,9" xlink:title="さいとう整形外科クリニック" transform="ref(svg,13961.7926,-3543.7346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富永医院,神奈川県横浜市南区東蒔田町１６-１９,内科　小児科,,,9" xlink:title="富永医院" transform="ref(svg,13961.6405,-3543.0294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふたば整形外科,神奈川県横浜市南区二葉町１-１-３０,整形外科　リハビリテーション科,,,9" xlink:title="ふたば整形外科" transform="ref(svg,13962.2137,-3543.5241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斗星堂クリニック,神奈川県横浜市南区二葉町４-３８-１,内科　整形外科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="斗星堂クリニック" transform="ref(svg,13961.7694,-3543.3717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三宅医院,神奈川県横浜市南区平楽１３８-１２,内科　小児科,,,9" xlink:title="三宅医院" transform="ref(svg,13963.2294,-3543.0536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江川内科クリニック,神奈川県横浜市南区堀ノ内町２-１３６-１６エンゼルハイム蒔田１Ｆ１,内科　消化器科　循環器科　呼吸器科,,,9" xlink:title="江川内科クリニック" transform="ref(svg,13961.5142,-3542.963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向井外科産婦人科医院,神奈川県横浜市南区前里町４-１０１,外科　産婦人科　放射線科,,,9" xlink:title="向井外科産婦人科医院" transform="ref(svg,13961.6654,-3543.8455)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）倶伸会渡辺医院,神奈川県横浜市南区真金町１-３,内科　心臓内科　精神科,,,9" xlink:title="（医）倶伸会渡辺医院" transform="ref(svg,13962.901,-3543.6073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慶博会村山クリニック,神奈川県横浜市南区真金町１-７,内科　胃腸科　外科　肛門科　リハビリテーション科,,,9" xlink:title="（医）慶博会村山クリニック" transform="ref(svg,13963.102,-3543.6395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小田切呼吸器科クリニック,神奈川県横浜市南区真金町２-２０-８ＬＭ横浜長者町南１Ｆ,呼吸器科,,,9" xlink:title="小田切呼吸器科クリニック" transform="ref(svg,13962.9426,-3543.7817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三友会横浜健診クリニック,神奈川県横浜市南区万世町１-１８-２ビッグヴァンステイツ伊勢佐木南第２　２Ｆ-２０２,内科,,,9" xlink:title="（医）三友会横浜健診クリニック" transform="ref(svg,13963.1716,-3543.6115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大川小児科医院,神奈川県横浜市南区万世町２-２７,小児科,,,9" xlink:title="大川小児科医院" transform="ref(svg,13963.0955,-3543.5767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三上耳鼻咽喉科,神奈川県横浜市南区南太田１-４-３２Ｃｅｒｕｌｅａｎ南太田１Ｆ　Ａ,耳鼻いんこう科　アレルギー科,,,9" xlink:title="三上耳鼻咽喉科" transform="ref(svg,13961.617,-3543.7803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広岡小児科,神奈川県横浜市南区南太田１-１０-１,内科　小児科,,,9" xlink:title="広岡小児科" transform="ref(svg,13961.496,-3543.5919)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みうらクリニック,神奈川県横浜市南区南太田１-２９-２ｍａｉｓｏｎｙ．１Ｆ,内科　消化器内科　胃腸内科　外科　肛門外科,,,9" xlink:title="みうらクリニック" transform="ref(svg,13961.5587,-3543.7885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保クリニック,神奈川県横浜市南区南吉田町２-２８横浜コスタセイス１Ｆ,内科　胃腸科　循環器科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="久保クリニック" transform="ref(svg,13961.9944,-3543.682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,弓削医院,神奈川県横浜市南区睦町１-７-５,内科　小児科,,,9" xlink:title="弓削医院" transform="ref(svg,13961.9845,-3543.1185)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鴻鵠会睦町クリニック,神奈川県横浜市南区睦町１-８-３　１Ｆ・２Ｆ・３Ｆ,内科　外科　消化器内科　肛門外科,,,9" xlink:title="（医）鴻鵠会睦町クリニック" transform="ref(svg,13962.0179,-3543.0789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,畑岡外科クリニック,神奈川県横浜市南区睦町２-１８１-４,外科　整形外科　形成外科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="畑岡外科クリニック" transform="ref(svg,13961.8261,-3542.9468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,児島医院,神奈川県横浜市南区吉野町３-７-２,胃腸科　外科　整形外科　皮膚科　放射線科,,,9" xlink:title="児島医院" transform="ref(svg,13961.8895,-3543.5856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清和会吉野町レディースクリニック,神奈川県横浜市南区吉野町４-１９,内科　産科　婦人科,,,9" xlink:title="（医）清和会吉野町レディースクリニック" transform="ref(svg,13961.7818,-3543.5737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）新磯子ホーム医務室,神奈川県横浜市磯子区滝頭２-２９-１,内科,,,9" xlink:title="（特養）新磯子ホーム医務室" transform="ref(svg,13962.3107,-3542.025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）たきがしら芭蕉苑医務室,神奈川県横浜市磯子区滝頭２-３０-１,内科,,,9" xlink:title="（特養）たきがしら芭蕉苑医務室" transform="ref(svg,13962.2519,-3542.0206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関屋内科,神奈川県横浜市磯子区丸山１-５-７ヴィラ・デル・ソーレ圓山２Ｆ２０２,内科,,,9" xlink:title="関屋内科" transform="ref(svg,13962.3578,-3542.416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢吹整形外科,神奈川県横浜市磯子区丸山２-３-６,整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="矢吹整形外科" transform="ref(svg,13962.4277,-3542.2534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）湊眼科医院,神奈川県横浜市磯子区丸山２-８-２,眼科,,,9" xlink:title="（医）湊眼科医院" transform="ref(svg,13962.3821,-3542.1602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林クリニック,神奈川県横浜市磯子区丸山２-９-１０,内科　胃腸科　外科　泌尿器科　肛門科,,,9" xlink:title="林クリニック" transform="ref(svg,13962.3319,-3542.1731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）春緑会武安医院,神奈川県横浜市磯子区丸山２-１５-１,内科　消化器科　循環器科　小児科,,,9" xlink:title="（医）春緑会武安医院" transform="ref(svg,13962.2603,-3542.2318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武安耳鼻咽喉科医院,神奈川県横浜市磯子区丸山２-１５-２,耳鼻いんこう科,,,9" xlink:title="武安耳鼻咽喉科医院" transform="ref(svg,13962.2783,-3542.2388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかや内科医院,神奈川県横浜市磯子区丸山２-１８-６,内科　消化器内科,,,9" xlink:title="なかや内科医院" transform="ref(svg,13962.3263,-3542.093)" x="0" y="0"/>
+</g>
+</svg>

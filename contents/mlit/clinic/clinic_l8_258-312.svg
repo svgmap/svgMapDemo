@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13535.15625 -3515.625 17.578125 17.578125" go:dataArea="13535.15625 -3515.625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,高屋こども診療所,京都府南丹市園部町小山東町平成台１　５-１,小児科　アレルギー科,,,9" xlink:title="高屋こども診療所" transform="ref(svg,13548.3038,-3510.0399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京都太陽の園診療所,京都府南丹市園部町横田前３２,内科,,,9" xlink:title="京都太陽の園診療所" transform="ref(svg,13545.7578,-3510.333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こひつじの苑診療所,京都府南丹市園部町横田前１１,内科,,,9" xlink:title="こひつじの苑診療所" transform="ref(svg,13545.8158,-3510.3457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仁丹医院,京都府南丹市園部町河原町４-１３,内科　外科,,,9" xlink:title="仁丹医院" transform="ref(svg,13546.8226,-3511.0757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川西診療所,京都府南丹市園部町宮町３６,内科　小児科,,,9" xlink:title="川西診療所" transform="ref(svg,13547.1402,-3510.9332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,廣野医院,京都府南丹市園部町若松町１１５,内科　放射線科,,,9" xlink:title="廣野医院" transform="ref(svg,13547.3235,-3511.1871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京丹アイクリニック,京都府南丹市園部町上木崎町寺ノ下２７-１,眼科,,,9" xlink:title="京丹アイクリニック" transform="ref(svg,13546.8882,-3511.3065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,げんの耳鼻咽喉科,京都府南丹市園部町上木崎町寺ノ下２７-１,耳鼻いんこう科,,,9" xlink:title="げんの耳鼻咽喉科" transform="ref(svg,13546.8882,-3511.3)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田小児科内科医院,京都府南丹市園部町上木崎町寺ノ下２７-８,内科　小児科,,,9" xlink:title="吉田小児科内科医院" transform="ref(svg,13546.8758,-3511.2957)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長生園診療所,京都府南丹市園部町上木崎町坪ノ内１９,内科　精神科　外科　整形外科　皮膚科,,,9" xlink:title="長生園診療所" transform="ref(svg,13547.2406,-3511.5537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長生園医務室,京都府南丹市園部町上木崎町坪ノ内１９,内科　外科,,,9" xlink:title="（特養）長生園医務室" transform="ref(svg,13547.2406,-3511.5537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南八田診療所,京都府南丹市園部町南八田縄手２７-１,内科,,,9" xlink:title="南八田診療所" transform="ref(svg,13543.0316,-3506.1899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サトウ眼科医院,京都府南丹市園部町木崎町土手下５-６,眼科,,,9" xlink:title="サトウ眼科医院" transform="ref(svg,13547.1814,-3511.4592)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八木地区診療所,京都府南丹市八木町室橋山田１０-１,内科,,,9" xlink:title="八木地区診療所" transform="ref(svg,13552.1367,-3509.7609)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田医院神吉診療所,京都府南丹市八木町八木神吉西河原１６,内科　小児科,,,9" xlink:title="山田医院神吉診療所" transform="ref(svg,13552.3075,-3506.6531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,冨井内科医院,京都府南丹市園部町横田３-１５１,内科　消化器科,,,9" xlink:title="冨井内科医院" transform="ref(svg,13546.291,-3510.8505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,タムラクリニック,京都府南丹市園部町小山東町平和台２-６１,糖尿病内科　漢方内科　ペインクリニック外科　美容皮膚科,,,9" xlink:title="タムラクリニック" transform="ref(svg,13548.3978,-3509.7046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺澤皮ふ科医院,京都府南丹市園部町美園町６-１９-２,皮膚科,,,9" xlink:title="寺澤皮ふ科医院" transform="ref(svg,13547.3181,-3510.9741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はぎの里オアシス医務室,京都府南丹市園部町横田２-１１１-１,内科,,,9" xlink:title="（特養）はぎの里オアシス医務室" transform="ref(svg,13546.0624,-3511.0812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまざき眼科園部クリニック,京都府南丹市園部町河原町４-３１-１,眼科,,,9" xlink:title="やまざき眼科園部クリニック" transform="ref(svg,13546.8707,-3511.1418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西田医院,京都府南丹市園部町美園町３-３,内科　外科　皮膚科　肛門外科　整形外科,,,9" xlink:title="西田医院" transform="ref(svg,13547.2315,-3510.7382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮前診療所,京都府亀岡市宮前町宮川西垣内１７,外科　内科,,,9" xlink:title="宮前診療所" transform="ref(svg,13548.0538,-3503.9204)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,亀岡友愛園診療所,京都府亀岡市本梅町平松ナベ倉１２,内科,,,9" xlink:title="亀岡友愛園診療所" transform="ref(svg,13549.5764,-3501.8663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,第２亀岡園診療所,京都府亀岡市稗田野町奥条古畑２,内科　皮膚科　外科　神経科　整形外科　リハビリテーション科,,,9" xlink:title="第２亀岡園診療所" transform="ref(svg,13550.9911,-3502.9638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神前分院,京都府亀岡市宮前町神前上段川４６生涯学習神前ふれあいセンター,内科,,,9" xlink:title="神前分院" transform="ref(svg,13551.0168,-3505.2031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,亀岡友愛園診療所,京都府亀岡市本梅町平松ナベ倉１２,内科,,,9" xlink:title="亀岡友愛園診療所" transform="ref(svg,13549.5764,-3501.8663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,畑野診療所,京都府亀岡市畑野町千ヶ畑西山５-２４,内科　消化器内科,,,9" xlink:title="畑野診療所" transform="ref(svg,13543.1632,-3501.4484)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13359.375 -3656.25 140.625 140.625" go:dataArea="13359.375 -3656.25 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,京丹後市立久美浜病院,京都府京丹後市久美浜町１６１,内科　小児科　外科　皮膚科　歯科　泌尿器科　眼科　耳鼻いんこう科　リハビリテーション科　歯科口腔外科　整形外科　心療内科　精神科,,,2" xlink:title="京丹後市立久美浜病院" transform="ref(svg,13490.1097,-3559.9941)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立豊岡病院組合立豊岡病院出石医療センター,兵庫県豊岡市出石町福住１３００,内科　外科　整形外科　リハビリテーション科　皮膚科　放射線科,,,2" xlink:title="公立豊岡病院組合立豊岡病院出石医療センター" transform="ref(svg,13486.0396,-3546.7598)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立豊岡病院組合立豊岡病院日高医療センター,兵庫県豊岡市日高町岩中８１,小児科　内科　外科　産婦人科　リハビリテーション科　眼科　放射線科　整形外科　皮膚科,,,2" xlink:title="公立豊岡病院組合立豊岡病院日高医療センター" transform="ref(svg,13477.0917,-3546.7)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立豊岡病院組合立豊岡病院,兵庫県豊岡市戸牧１０９４,小児科　内科　外科　脳神経外科　心臓外科　形成外科　整形外科　リハビリテーション科　産婦人科　消化器科　呼吸器科　呼吸器外科　皮膚科　泌尿器科　耳鼻いんこう科　循環器科　リウマチ科　眼科　放射線科　麻酔科　精神科　神経内科　歯科口腔外科　救急科　胸部外科,,,2" xlink:title="公立豊岡病院組合立豊岡病院" transform="ref(svg,13480.6654,-3552.6988)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,浜坂七釜温泉病院,兵庫県美方郡新温泉町七釜９０４,内科　整形外科　リハビリテーション科,,,4" xlink:title="浜坂七釜温泉病院" transform="ref(svg,13447.8457,-3561.1189)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立浜坂病院,兵庫県美方郡新温泉町二日市１８４-１,小児科　内科　外科　整形外科　リハビリテーション科　耳鼻いんこう科　麻酔科,,,2" xlink:title="公立浜坂病院" transform="ref(svg,13447.5576,-3561.8425)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立村岡病院,兵庫県美方郡香美町村岡区村岡３０３６-１,小児科　内科　外科　リハビリテーション科　眼科　放射線科,,,2" xlink:title="公立村岡病院" transform="ref(svg,13459.7662,-3546.833)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立香住病院,兵庫県美方郡香美町香住区若松５４０,小児科　内科　外科　整形外科　婦人科　耳鼻いんこう科　泌尿器科,,,2" xlink:title="公立香住病院" transform="ref(svg,13463.3817,-3564.3273)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大植病院,兵庫県朝来市多々良木１５１４,内科　精神科,,,4" xlink:title="大植病院" transform="ref(svg,13481.3954,-3524.4371)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立豊岡病院組合立朝来梁瀬医療センター,兵庫県朝来市山東町矢名瀬町９００-１,内科　外科　放射線科,,,2" xlink:title="公立豊岡病院組合立朝来梁瀬医療センター" transform="ref(svg,13488.2167,-3531.8435)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立豊岡病院組合立朝来和田山医療センター,兵庫県朝来市和田山町竹田２０２１,内科　外科　整形外科　リハビリテーション科　消化器内科　リウマチ科　泌尿器科　循環器内科　皮膚科　放射線科,,,2" xlink:title="公立豊岡病院組合立朝来和田山医療センター" transform="ref(svg,13483.9837,-3529.4796)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,但馬病院,兵庫県養父市八鹿町上網場１５５,精神科,,,4" xlink:title="但馬病院" transform="ref(svg,13477.8608,-3540.023)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,公立八鹿病院,兵庫県養父市八鹿町八鹿１８７８-１,小児科　内科　外科　整形外科　リハビリテーション科　産婦人科　耳鼻いんこう科　胃腸科　皮膚科　脳神経外科　循環器科　呼吸器科　泌尿器科　眼科　放射線科　麻酔科　精神科　神経科　神経内科　乳腺外科　救急科　消化器内科　歯科口腔外科,,,2" xlink:title="公立八鹿病院" transform="ref(svg,13477.3217,-3540.4894)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取県立厚生病院,鳥取県倉吉市東昭和町１５０,内科　呼吸器内科　消化器内科　循環器内科　精神科　脳神経内科　小児科　外科　消化器外科　整形外科　脳神経外　皮膚科　心臓血管外科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　放射線科,,,2" xlink:title="鳥取県立厚生病院" transform="ref(svg,13384.0482,-3543.6005)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）里仁会北岡病院,鳥取県倉吉市明治町１０３１-５,内科　消化器科　外科　整形外科,,,4" xlink:title="（医）里仁会北岡病院" transform="ref(svg,13382.3454,-3543.3785)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）清和会垣田病院,鳥取県倉吉市上井３０２-１,内科　循環器科　神経内科　整形外科　眼科,,,4" xlink:title="（医）清和会垣田病院" transform="ref(svg,13384.6168,-3545.3823)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）専仁会信生病院,鳥取県倉吉市清谷町１-２８６,内科　消化器科　循環器科　神経内科　外科　放射線科　リハビリテーション科,,,4" xlink:title="（医）専仁会信生病院" transform="ref(svg,13384.9253,-3547.7512)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）共済会清水病院,鳥取県倉吉市宮川町１２９,整形外科　リハビリテーション科　リウマチ科　外科　脳外科　内科　神経内科,,,4" xlink:title="（医）共済会清水病院" transform="ref(svg,13383.374,-3543.3541)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）十字会野島病院,鳥取県倉吉市瀬崎町２７１４-１,内科　消化器科　循環器科　心療内科　神経内科　精神科　外科　心臓血管外科　脳神経外科　整形外科　形成外科　眼科　耳鼻咽喉科　泌尿器科　婦人科　放射線科　麻酔科　肛門科　リハビリテーション科　乳腺・内分泌外科,,,4" xlink:title="（医）十字会野島病院" transform="ref(svg,13381.9736,-3543.1557)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）清生会谷口病院,鳥取県倉吉市上井町１-１３,内科　皮膚科　泌尿器科　麻酔科,,,4" xlink:title="（医）清生会谷口病院" transform="ref(svg,13385.04,-3545.138)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,医療福祉センター倉吉病院,鳥取県倉吉市山根４３,精神科　皮膚科,,,4" xlink:title="医療福祉センター倉吉病院" transform="ref(svg,13385.6163,-3545.1642)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,藤井政雄記念病院,鳥取県倉吉市山根４３-１,内科　消化器科　循環器科　呼吸器科　心療内科　神経内科　精神科　外科　皮膚科　婦人科　リハビリテーション科,,,4" xlink:title="藤井政雄記念病院" transform="ref(svg,13385.6393,-3545.0722)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（公社）鳥取県中部医師会立三朝温泉病院,鳥取県東伯郡三朝町山田６９０,内科　神経内科　整形外科　リウマチ科　リハビリテーション科,,,6" xlink:title="（公社）鳥取県中部医師会立三朝温泉病院" transform="ref(svg,13388.3124,-3541.3277)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,岡山大学病院三朝医療センター,鳥取県東伯郡三朝町山田８２７,内科,,,1" xlink:title="岡山大学病院三朝医療センター" transform="ref(svg,13388.0813,-3541.3248)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構鳥取医療センター,鳥取県鳥取市三津８７６,内科　呼吸器内科　神経内科　精神科　小児科　外科　整形外科　放射線科　リハビリテーション科　歯科,,,1" xlink:title="（独）国立病院機構鳥取医療センター" transform="ref(svg,13414.9497,-3552.1479)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取県立中央病院,鳥取県鳥取市江津７３０,内科　消化器内科　血液内科　糖尿病・内分泌・代謝内科　呼吸器内科　心臓内科　神経内科　精神科　小児科　外科　呼吸器外科　心臓血管外科　脳神経外科　整形外科　形成外科　小児外科　眼科　耳鼻いんこう科　皮膚科　泌尿器科　産婦人科　放射線科　麻酔科,歯科口腔外科,,2" xlink:title="鳥取県立中央病院" transform="ref(svg,13421.2004,-3552.2769)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取市立病院,鳥取県鳥取市的場１-１,内科　循環器内科　神経内科　精神科　小児科　外科　脳神経外科　整形外科　眼科　耳鼻咽喉科　皮膚科　泌尿器科　産婦人科　放射線科　麻酔科　リハビリテーション科　歯科,,,2" xlink:title="鳥取市立病院" transform="ref(svg,13423.4247,-3547.4292)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取赤十字病院,鳥取県鳥取市尚徳町１１７,内科　循環器科　神経内科　小児科　外科　心臓血管外科　脳神経外科　整形外科　眼科　耳鼻咽喉科　皮膚科　泌尿器科　産婦人科　放射線科　麻酔科　リウマチ科　歯科口腔外科,,,2" xlink:title="鳥取赤十字病院" transform="ref(svg,13423.5685,-3550.1502)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取生協病院,鳥取県鳥取市末広温泉町４５８,内科　消化器科　循環器科　呼吸器科　神経内科　精神科　小児科　外科　脳神経外科　整形外科　耳鼻咽喉科　放射線科　麻酔科　アレルギー科　リウマチ科　リハビリテーション科,,,6" xlink:title="鳥取生協病院" transform="ref(svg,13423.1852,-3549.4628)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）明和会医療福祉センター渡辺病院,鳥取県鳥取市東町３-３０７,内科　心療内科　神経内科　精神科　外科,,,4" xlink:title="（医）明和会医療福祉センター渡辺病院" transform="ref(svg,13423.3761,-3550.8326)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,幡病院,鳥取県鳥取市雲山５７,精神科,,,4" xlink:title="幡病院" transform="ref(svg,13423.903,-3548.1164)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）緑会上田病院,鳥取県鳥取市西町１-４５１,内科　神経科　精神科,,,4" xlink:title="（医）緑会上田病院" transform="ref(svg,13423.4989,-3550.4434)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取産院,鳥取県鳥取市吉方温泉１-６５３,内科　小児科　産婦人科,,,4" xlink:title="鳥取産院" transform="ref(svg,13423.2315,-3549.5177)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）尾-ｱ病院,鳥取県鳥取市湖山町北２-５５５,内科　外科　整形外科　呼吸器内科　神経内科　泌尿器科　皮膚科　人工透析内科,,,4" xlink:title="（医）尾-ｱ病院" transform="ref(svg,13417.4032,-3552.2624)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ウェルフェア北園渡辺病院,鳥取県鳥取市覚寺１８１,内科　神経内科　精神科　リハビリテーション科,,,4" xlink:title="ウェルフェア北園渡辺病院" transform="ref(svg,13423.3763,-3552.3289)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,岩美町国民健康保険岩美病院,鳥取県岩美郡岩美町浦富１０２９-２,内科　循環器科　心療内科　精神科　小児科　外科　整形外科　眼科　耳鼻咽喉科　皮膚科　放射線科　歯科　歯科口腔外科,,,2" xlink:title="岩美町国民健康保険岩美病院" transform="ref(svg,13433.3645,-3557.2866)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取医療生協鹿野温泉病院,鳥取県鳥取市鹿野町今市２４２,内科　神経内科　精神科　外科　脳神経外科　整形外科　眼科　リハビリテーション科,,,6" xlink:title="鳥取医療生協鹿野温泉病院" transform="ref(svg,13405.0457,-3546.2129)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国民健康保険智頭病院,鳥取県八頭郡智頭町智頭１８７５,内科　神経内科　小児科　外科　整形外科　眼科　耳鼻咽喉科　皮膚科　泌尿器科　婦人科　放射線科　麻酔科　リハビリテーション科,,,2" xlink:title="国民健康保険智頭病院" transform="ref(svg,13422.4182,-3526.3869)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,真庭市国民健康保険湯原温泉病院,岡山県真庭市下湯原５６,内科　神経内科　呼吸器科（呼吸器内科）　消化器科（消化器内科・胃腸内科）　循環器科（循環器内科）　アレルギー科　リウマチ科　外科　整形外科　脳神経外科　呼吸器外科　皮膚科　肛門科（肛門外科）　婦人科　リハビリテーション科　放射線科,消化器外科（胃腸外科）,,2" xlink:title="真庭市国民健康保険湯原温泉病院" transform="ref(svg,13373.3924,-3518.7428)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）慈恵会平井病院,岡山県津山市加茂町中原６１,内科　小児科　外科　整形外科　リハビリテーション科　放射線科,,,4" xlink:title="（医）慈恵会平井病院" transform="ref(svg,13405.2185,-3517.6222)" x="0" y="0"/>
+</g>
+</svg>

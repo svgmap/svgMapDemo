@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13658.203125 -3550.78125 17.578125 17.578125" go:dataArea="13658.203125 -3550.78125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,松原医院,岐阜県岐阜市柳津町丸野１-７２,内科　小児科　精神科　神経科　外科　整形外科　脳神経外科　リハビリテーション科　放射線科,,,9" xlink:title="松原医院" transform="ref(svg,13672.8939,-3536.6865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まるの内科クリニック,岐阜県岐阜市柳津町丸野１-７０-１,内科　消化器内科　神経内科,,,9" xlink:title="まるの内科クリニック" transform="ref(svg,13672.7907,-3536.6562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけのうちクリニック,岐阜県岐阜市柳津町高桑東３-１６,内科　小児科　外科　整形外科,,,9" xlink:title="たけのうちクリニック" transform="ref(svg,13671.2754,-3536.0983)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒田内科クリニック,岐阜県岐阜市柳津町上佐波西３-１５１,内科　消化器内科　循環器内科　糖尿病内科　小児科,,,9" xlink:title="黒田内科クリニック" transform="ref(svg,13671.4192,-3537.4329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かねまつ整形外科,岐阜県岐阜市柳津町上佐波１-２４,リウマチ科　外科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="かねまつ整形外科" transform="ref(svg,13672.1941,-3537.7168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤皮膚科,岐阜県岐阜市柳津町北塚５-２０-２,皮膚科,,,9" xlink:title="伊藤皮膚科" transform="ref(svg,13673.3301,-3536.7947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たじりか医院,岐阜県岐阜市柳津町蓮池２-２４,内科　小児科　外科　皮膚科　リハビリテーション科　胃腸科,,,9" xlink:title="たじりか医院" transform="ref(svg,13674.7108,-3536.7522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おざわクリニック,岐阜県岐阜市茜部新所３-５４-２,内科　循環器科　心療内科　アレルギー科　小児科,,,9" xlink:title="おざわクリニック" transform="ref(svg,13675.4529,-3538.3741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさのキッズクリニック,岐阜県岐阜市茜部新所４-１１３-１,小児科　アレルギー科,,,9" xlink:title="あさのキッズクリニック" transform="ref(svg,13675.4424,-3538.1181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たなか耳鼻咽喉科,岐阜県岐阜市茜部中島１-１,小児科　アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="たなか耳鼻咽喉科" transform="ref(svg,13675.2005,-3539.4417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかなべクリニック,岐阜県岐阜市茜部中島１-２５-１,内科　呼吸器科　循環器科　小児科,,,9" xlink:title="あかなべクリニック" transform="ref(svg,13675.1744,-3539.3563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜県赤十字血液センター,岐阜県岐阜市茜部中島２-１０,内科,,,9" xlink:title="岐阜県赤十字血液センター" transform="ref(svg,13675.1581,-3539.0538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹内医院,岐阜県岐阜市茜部野瀬３-１３６,内科　消化器科　小児科　外科　整形外科　こう門科,,,9" xlink:title="竹内医院" transform="ref(svg,13674.5143,-3537.423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福富医院,岐阜県岐阜市安食１２２８,内科　小児科　アレルギー科　外科　リハビリテーション科,,,9" xlink:title="福富医院" transform="ref(svg,13672.106,-3549.0248)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,全国土木建築国民（健保）中部健康管理センター岐阜医務室,岐阜県岐阜市宇佐南１-６-８,内科,,,9" xlink:title="全国土木建築国民（健保）中部健康管理センター岐阜医務室" transform="ref(svg,13673.6102,-3539.6602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,早崎レディースクリニック,岐阜県岐阜市雲雀町１-２１-１,産婦人科,,,9" xlink:title="早崎レディースクリニック" transform="ref(svg,13675.498,-3541.848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひろせ内科医院,岐阜県岐阜市下鵜飼１６６４-２,内科　消化器科　小児科,,,9" xlink:title="ひろせ内科医院" transform="ref(svg,13671.4537,-3546.6261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜県精神保健福祉センター,岐阜県岐阜市下奈良２-２-１,精神科　神経科,,,9" xlink:title="岐阜県精神保健福祉センター" transform="ref(svg,13671.3559,-3539.1435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅井耳鼻咽喉科院,岐阜県岐阜市加納栄町通４-３,耳鼻いんこう科,,,9" xlink:title="浅井耳鼻咽喉科院" transform="ref(svg,13675.5266,-3540.5402)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加納内科クリニック,岐阜県岐阜市加納寿町２-７,内科　消化器科　循環器科　麻酔科,,,9" xlink:title="加納内科クリニック" transform="ref(svg,13674.961,-3540.4031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加納皮膚科,岐阜県岐阜市加納上本町３-１５,アレルギー科　皮膚科,,,9" xlink:title="加納皮膚科" transform="ref(svg,13675.7518,-3540.5356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広瀬内科医院,岐阜県岐阜市加納上本町３-３０,内科　消化器科,,,9" xlink:title="広瀬内科医院" transform="ref(svg,13675.7283,-3540.4904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖徳会小笠原内科,岐阜県岐阜市加納村松町３-３,内科　循環器内科　緩和ケア内科,,,9" xlink:title="（医）聖徳会小笠原内科" transform="ref(svg,13675.0958,-3540.2358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水谷医院,岐阜県岐阜市加納朝日町３-４６-１０,内科　循環器内科　腎臓内科　人工透析内科,,,9" xlink:title="水谷医院" transform="ref(svg,13675.7792,-3540.1826)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川内科眼科,岐阜県岐阜市加納長刀堀４-４１,内科　循環器科　小児科　眼科　リハビリテーション科,,,9" xlink:title="石川内科眼科" transform="ref(svg,13675.7492,-3539.9936)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伏見医院,岐阜県岐阜市加納伏見町２０-３,内科　婦人科,,,9" xlink:title="伏見医院" transform="ref(svg,13675.4436,-3540.8392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大庭小児科,岐阜県岐阜市加納本町５-１,小児科　アレルギー科,,,9" xlink:title="大庭小児科" transform="ref(svg,13675.6524,-3540.6276)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたなべ皮ふ科,岐阜県岐阜市加納龍興町１-１０,アレルギー科　皮膚科　麻酔科,,,9" xlink:title="わたなべ皮ふ科" transform="ref(svg,13675.0926,-3540.049)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みさお内科外科胃腸科,岐阜県岐阜市加納龍興町３-２,内科　小児科　外科　整形外科　こう門科　麻酔科　胃腸科,,,9" xlink:title="みさお内科外科胃腸科" transform="ref(svg,13674.8443,-3540.0977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹田クリニック,岐阜県岐阜市河渡３-１１０,内科　小児科　外科　整形外科　眼科　リハビリテーション科　ペインクリニック内科,,,9" xlink:title="竹田クリニック" transform="ref(svg,13669.9748,-3541.085)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福田医院,岐阜県岐阜市萱場東町８-６-２,内科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="福田医院" transform="ref(svg,13673.4523,-3543.8614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平林クリニック,岐阜県岐阜市菊地町２-４１,内科　精神科　神経科　心療内科,,,9" xlink:title="平林クリニック" transform="ref(svg,13674.6618,-3540.7069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハヤシ胃クリニック,岐阜県岐阜市吉野町５-１２,消化器科,,,9" xlink:title="ハヤシ胃クリニック" transform="ref(svg,13675.7517,-3541.0901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永井医院,岐阜県岐阜市鏡島西２-７-１７,内科　小児科,,,9" xlink:title="永井医院" transform="ref(svg,13671.5374,-3541.0661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦医院,岐阜県岐阜市鏡島精華３-１７-５,内科　消化器科　循環器科　呼吸器外科,,,9" xlink:title="三浦医院" transform="ref(svg,13671.8803,-3541.1338)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺眼科クリニック,岐阜県岐阜市鏡島精華３-７-１４,眼科,,,9" xlink:title="渡辺眼科クリニック" transform="ref(svg,13672.0228,-3541.2082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺耳鼻咽喉科クリニック,岐阜県岐阜市鏡島精華３-７-１４,耳鼻いんこう科　気管食道科,,,9" xlink:title="渡辺耳鼻咽喉科クリニック" transform="ref(svg,13672.021,-3541.2115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉村整形外科,岐阜県岐阜市近島５-１０-１３,リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="吉村整形外科" transform="ref(svg,13673.6212,-3543.2586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺耳鼻咽喉科,岐阜県岐阜市金町３-９-３,耳鼻いんこう科,,,9" xlink:title="渡辺耳鼻咽喉科" transform="ref(svg,13675.6922,-3541.9009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泉内科,岐阜県岐阜市金町４-１,内科　循環器内科,,,9" xlink:title="泉内科" transform="ref(svg,13675.7196,-3541.782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森皮膚科,岐阜県岐阜市金町５-１１,皮膚科　泌尿器科,,,9" xlink:title="森皮膚科" transform="ref(svg,13675.6461,-3541.7036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古田産科婦人科クリニック,岐阜県岐阜市金町７-３,産科　婦人科,,,9" xlink:title="古田産科婦人科クリニック" transform="ref(svg,13675.7129,-3541.3302)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鎌倉内科,岐阜県岐阜市鍵屋西町２-２３,内科　循環器科,,,9" xlink:title="鎌倉内科" transform="ref(svg,13674.2718,-3541.729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島小児科,岐阜県岐阜市鍵屋東町２-１,小児科,,,9" xlink:title="中島小児科" transform="ref(svg,13674.8711,-3541.8478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,基生会おおのレディースクリニック,岐阜県岐阜市光町１-４４,産婦人科,,,9" xlink:title="基生会おおのレディースクリニック" transform="ref(svg,13674.5497,-3543.3595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちかいしクリニック,岐阜県岐阜市光町２-４４,内科　神経内科　リウマチ科　外科　整形外科　脳神経外科　皮膚科　リハビリテーション科　放射線科,,,9" xlink:title="ちかいしクリニック" transform="ref(svg,13674.7,-3543.4845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴田医院,岐阜県岐阜市光明町１-８,内科,,,9" xlink:title="柴田医院" transform="ref(svg,13674.9279,-3541.5246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森医院,岐阜県岐阜市香取町３-４８,内科　循環器科　外科　整形外科　リハビリテーション科,,,9" xlink:title="森医院" transform="ref(svg,13672.8046,-3541.3868)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野々村医院,岐阜県岐阜市黒野３０６-１,内科　消化器科　小児科,,,9" xlink:title="野々村医院" transform="ref(svg,13672.2009,-3546.0648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒野あそか苑医務室,岐阜県岐阜市黒野４０４-１,内科,,,9" xlink:title="黒野あそか苑医務室" transform="ref(svg,13671.9405,-3546.0059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,篠田医院,岐阜県岐阜市今川町２-８,内科　消化器科　リハビリテーション科,,,9" xlink:title="篠田医院" transform="ref(svg,13675.6772,-3542.2767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜県身体障害者更生相談所医務室,岐阜県岐阜市鷺山向井町２５６３-１８,整形外科　耳鼻いんこう科,,,9" xlink:title="岐阜県身体障害者更生相談所医務室" transform="ref(svg,13675.6176,-3544.0998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さぎ山クリニック,岐阜県岐阜市鷺山北町８-２９,内科　呼吸器科　消化器科　小児科　外科　整形外科　耳鼻いんこう科　皮膚科　泌尿器科　こう門科　リハビリテーション科　麻酔科,,,9" xlink:title="さぎ山クリニック" transform="ref(svg,13675.3356,-3545.1403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本医院,岐阜県岐阜市桜通１-２,内科　呼吸器科　循環器科　小児科,,,9" xlink:title="山本医院" transform="ref(svg,13675.206,-3541.9924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山耳鼻咽喉科,岐阜県岐阜市市橋４-１３-６,アレルギー科　耳鼻いんこう科,,,9" xlink:title="中山耳鼻咽喉科" transform="ref(svg,13672.4554,-3540.3512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西岐阜産婦人科医院,岐阜県岐阜市市橋５-３-９,産科　婦人科,,,9" xlink:title="西岐阜産婦人科医院" transform="ref(svg,13672.2598,-3540.347)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまやクリニック,岐阜県岐阜市市橋５-５-１０,精神科　神経科　心療内科,,,9" xlink:title="やまやクリニック" transform="ref(svg,13672.1742,-3540.2537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島クリニック,岐阜県岐阜市寺田５-７３-３,内科　小児科　アレルギー科,,,9" xlink:title="島クリニック" transform="ref(svg,13670.3132,-3541.7911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ナーシングケア寺田診療所,岐阜県岐阜市寺田７-８５,内科,,,9" xlink:title="（特養）ナーシングケア寺田診療所" transform="ref(svg,13670.0699,-3541.9265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江崎医院,岐阜県岐阜市鹿島町３-４-１,内科　呼吸器内科　消化器内科　循環器内科　放射線科　糖尿病内科　代謝・内分泌内科,,,9" xlink:title="江崎医院" transform="ref(svg,13674.1341,-3541.4885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森内科クリニック,岐阜県岐阜市鹿島町５-１８,内科　循環器科,,,9" xlink:title="森内科クリニック" transform="ref(svg,13673.9002,-3541.4825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いずみ皮膚科,岐阜県岐阜市鹿島町８-１７,皮膚科,,,9" xlink:title="いずみ皮膚科" transform="ref(svg,13673.0071,-3541.2917)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺皮フ科クリニック,岐阜県岐阜市若宮町６-８,皮膚科,,,9" xlink:title="渡辺皮フ科クリニック" transform="ref(svg,13675.6235,-3542.0826)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小牧内科クリニック,岐阜県岐阜市昭和町２-１１,内科　呼吸器科　消化器科　循環器科　小児科　アレルギー科　リウマチ科　リハビリテーション科,,,9" xlink:title="小牧内科クリニック" transform="ref(svg,13675.0488,-3541.5272)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かさい内科クリニック,岐阜県岐阜市上尻毛日吉１２５,内科　呼吸器内科　消化器内科　循環器内科　小児科　皮膚科　リハビリテーション科　アレルギー科　糖尿病内科,,,9" xlink:title="かさい内科クリニック" transform="ref(svg,13670.9749,-3544.4468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河田医院,岐阜県岐阜市城田寺３１１,内科　循環器科　小児科　皮膚科,,,9" xlink:title="河田医院" transform="ref(svg,13674.4476,-3547.2968)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまが整形外科,岐阜県岐阜市真砂町９-１５,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="やまが整形外科" transform="ref(svg,13675.3004,-3541.8508)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野川眼科医院,岐阜県岐阜市神室町４-３１,眼科,,,9" xlink:title="野川眼科医院" transform="ref(svg,13675.4385,-3541.7714)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しもむら医院,岐阜県岐阜市神室町５-３,内科　消化器内科,,,9" xlink:title="しもむら医院" transform="ref(svg,13675.3796,-3541.8377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森耳鼻咽喉科,岐阜県岐阜市須賀４-１８-８,アレルギー科　耳鼻いんこう科,,,9" xlink:title="森耳鼻咽喉科" transform="ref(svg,13671.4488,-3538.7816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いずみレディスクリニック,岐阜県岐阜市菅生６-２-４,小児科　産科　婦人科,,,9" xlink:title="いずみレディスクリニック" transform="ref(svg,13672.8201,-3542.4762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安田こどもクリニック,岐阜県岐阜市菅生７-５-１６,小児科　アレルギー科,,,9" xlink:title="安田こどもクリニック" transform="ref(svg,13673.1433,-3542.5527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高井外科,岐阜県岐阜市正木１９７８-７２,外科　肛門外科　麻酔科　歯科　消化器外科　産婦人科,,,9" xlink:title="（医）高井外科" transform="ref(svg,13674.8843,-3544.6607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディースクリニックまぶち,岐阜県岐阜市正木北町１２-１０,産科　婦人科,,,9" xlink:title="レディースクリニックまぶち" transform="ref(svg,13674.6804,-3545.3291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石黒クリニック,岐阜県岐阜市正木北町６-３７,内科　呼吸器科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="石黒クリニック" transform="ref(svg,13674.9963,-3545.3541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおたに皮ふ科,岐阜県岐阜市正木北町６-３８,アレルギー科　皮膚科,,,9" xlink:title="おおたに皮ふ科" transform="ref(svg,13675.0101,-3545.3544)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ささきクリニック,岐阜県岐阜市清字上沼７６０-５,内科　消化器科　小児科,,,9" xlink:title="ささきクリニック" transform="ref(svg,13674.347,-3540.6355)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いちだクリニック,岐阜県岐阜市清本町１０-１８,整形外科　形成外科　美容外科　皮膚科,,,9" xlink:title="いちだクリニック" transform="ref(svg,13673.7496,-3540.9413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,七郷クリニック,岐阜県岐阜市西改田上の町６２-３,内科　消化器科　小児科　アレルギー科　皮膚科　リハビリテーション科,,,9" xlink:title="七郷クリニック" transform="ref(svg,13670.2299,-3545.0595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,眼科クリニックやすえ,岐阜県岐阜市鏡島西２-３-１２,眼科,,,9" xlink:title="眼科クリニックやすえ" transform="ref(svg,13671.716,-3540.9197)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,育誠会木野村医院,岐阜県岐阜市鏡島西２-１６-１１,内科　小児科　皮膚科,,,9" xlink:title="育誠会木野村医院" transform="ref(svg,13671.2745,-3540.8077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真和会マナベ産婦人科医院,岐阜県岐阜市鏡島西２-１９-５,産婦人科,,,9" xlink:title="（医）真和会マナベ産婦人科医院" transform="ref(svg,13671.2181,-3540.7905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,夏目内科クリニック,岐阜県岐阜市鏡島西３-４-１,内科　糖尿病内科　内分泌内科,,,9" xlink:title="夏目内科クリニック" transform="ref(svg,13671.1414,-3540.8006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しばた耳鼻咽喉科,岐阜県岐阜市西中島７-６-３,アレルギー科　耳鼻いんこう科,,,9" xlink:title="しばた耳鼻咽喉科" transform="ref(svg,13672.1917,-3542.953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日野医院,岐阜県岐阜市西島町１-１６,内科　消化器科　外科　整形外科　皮膚科,,,9" xlink:title="日野医院" transform="ref(svg,13673.3247,-3542.587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西野町クリニック,岐阜県岐阜市西野町４-４３,内科　消化器科　小児科　皮膚科　リハビリテーション科,,,9" xlink:title="西野町クリニック" transform="ref(svg,13675.4413,-3542.6193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いいぬま小児科,岐阜県岐阜市西野町５-４７,小児科,,,9" xlink:title="いいぬま小児科" transform="ref(svg,13675.3823,-3542.5822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山内科胃腸科クリニック,岐阜県岐阜市西野町５-４９,内科　呼吸器科　消化器科　循環器科　リハビリテーション科　放射線科,,,9" xlink:title="杉山内科胃腸科クリニック" transform="ref(svg,13675.3432,-3542.5893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高牟礼耳鼻咽喉科,岐阜県岐阜市西野町５-５３,耳鼻いんこう科　気管食道科,,,9" xlink:title="高牟礼耳鼻咽喉科" transform="ref(svg,13675.2996,-3542.5473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田泌尿器皮フ科,岐阜県岐阜市西鶉３-６５-１,皮膚科　泌尿器科,,,9" xlink:title="和田泌尿器皮フ科" transform="ref(svg,13672.6115,-3538.0784)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みながわ内科・循環器科クリニック,岐阜県岐阜市折立８９５-１,内科　呼吸器科　消化器科　循環器科　リハビリテーション科　放射線科,,,9" xlink:title="みながわ内科・循環器科クリニック" transform="ref(svg,13672.8738,-3545.7348)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大口医院,岐阜県岐阜市千手堂中町１-４,内科　皮膚科　泌尿器科,,,9" xlink:title="大口医院" transform="ref(svg,13675.1696,-3541.6806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋眼科医院,岐阜県岐阜市早田栄町１-２３,眼科,,,9" xlink:title="高橋眼科医院" transform="ref(svg,13675.0224,-3543.454)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本荘内科・呼吸器科,岐阜県岐阜市早苗町１-２４,内科　呼吸器科　小児科　皮膚科,,,9" xlink:title="本荘内科・呼吸器科" transform="ref(svg,13674.3749,-3541.5169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜刑務所医務課診療所,岐阜県岐阜市則松１-３４-１,内科　精神科　外科　眼科　耳鼻いんこう科　歯科,,,9" xlink:title="岐阜刑務所医務課診療所" transform="ref(svg,13670.1168,-3548.3297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,網代診療所,岐阜県岐阜市則松１-２４,内科　消化器科　小児科　外科　整形外科　リハビリテーション科,,,9" xlink:title="網代診療所" transform="ref(svg,13669.9494,-3548.3001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桑原こども内科クリニック,岐阜県岐阜市則武東２-５-９,小児科,,,9" xlink:title="桑原こども内科クリニック" transform="ref(svg,13674.8021,-3543.7574)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木内科・眼科,岐阜県岐阜市則武中３-５-１５,内科　消化器科　小児科　眼科,,,9" xlink:title="青木内科・眼科" transform="ref(svg,13673.9692,-3544.3931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐北クリニック,岐阜県岐阜市洞稲木９９４-１２,内科　消化器科　小児科　外科　整形外科　皮膚科　こう門科,,,9" xlink:title="岐北クリニック" transform="ref(svg,13671.4518,-3547.0378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニック足立,岐阜県岐阜市大池町６２,精神科　心療内科,,,9" xlink:title="クリニック足立" transform="ref(svg,13673.8347,-3541.4867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸谷内科,岐阜県岐阜市大福町８-３５,内科　小児科　心療内科　糖尿病・代謝内科,,,9" xlink:title="戸谷内科" transform="ref(svg,13673.5971,-3543.7721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梅田クリニック,岐阜県岐阜市旦島１-６-１４,内科　呼吸器科　消化器科　循環器科　外科　整形外科　心臓血管外科　リハビリテーション科,,,9" xlink:title="梅田クリニック" transform="ref(svg,13672.6231,-3543.2133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しま医院,岐阜県岐阜市池ノ上町４-７４,内科　小児科　産婦人科　麻酔科,,,9" xlink:title="しま医院" transform="ref(svg,13674.0773,-3542.9352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜県立寿楽苑医務室,岐阜県岐阜市中２-４７０,内科　精神科,,,9" xlink:title="岐阜県立寿楽苑医務室" transform="ref(svg,13670.8225,-3546.8921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷村クリニック,岐阜県岐阜市中西郷４-６７-１,内科　外科　脳神経外科,,,9" xlink:title="谷村クリニック" transform="ref(svg,13669.888,-3546.8242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大川医院耳鼻咽喉科,岐阜県岐阜市中鶉７-１８-１,アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="大川医院耳鼻咽喉科" transform="ref(svg,13673.1417,-3537.8189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山内眼科,岐阜県岐阜市長住町８-７,眼科,,,9" xlink:title="山内眼科" transform="ref(svg,13675.0456,-3541.2802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤医院,岐阜県岐阜市長住町９-１８,内科　泌尿器科,,,9" xlink:title="加藤医院" transform="ref(svg,13674.8876,-3541.2398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤脳神経外科クリニック,岐阜県岐阜市長住町９-１８,神経内科　脳神経外科　リハビリテーション科,,,9" xlink:title="加藤脳神経外科クリニック" transform="ref(svg,13674.8876,-3541.2398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤眼科,岐阜県岐阜市長住町９-１８,眼科,,,9" xlink:title="加藤眼科" transform="ref(svg,13674.8885,-3541.2369)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内田眼科,岐阜県岐阜市徹明通４-１８,眼科,,,9" xlink:title="（医）内田眼科" transform="ref(svg,13675.3317,-3541.7308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋医院,岐阜県岐阜市徹明通４-５,内科　呼吸器科　消化器科　循環器科　小児科　アレルギー科,,,9" xlink:title="高橋医院" transform="ref(svg,13675.4379,-3541.7585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新美クリニック,岐阜県岐阜市都通１-６,内科　循環器科　神経内科,,,9" xlink:title="新美クリニック" transform="ref(svg,13674.5709,-3542.1764)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬渕医院,岐阜県岐阜市都通１-８,アレルギー科　皮膚科,,,9" xlink:title="馬渕医院" transform="ref(svg,13674.6118,-3542.1631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやこ園,岐阜県岐阜市都通２-２３,耳鼻いんこう科,,,9" xlink:title="みやこ園" transform="ref(svg,13674.6693,-3541.9689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中根整形外科,岐阜県岐阜市島田東町４１-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="中根整形外科" transform="ref(svg,13674.1582,-3541.6366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐伯クリニック,岐阜県岐阜市東鶉２-１４-５,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="佐伯クリニック" transform="ref(svg,13674.4169,-3538.3148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）岐阜高島屋従業員医務室,岐阜県岐阜市日ノ出町２-２５,内科,,,9" xlink:title="（株）岐阜高島屋従業員医務室" transform="ref(svg,13675.7549,-3541.8496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石村内科,岐阜県岐阜市日光町９-７-１,内科　呼吸器科　循環器科　リハビリテーション科,,,9" xlink:title="石村内科" transform="ref(svg,13674.4124,-3543.6772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くまざき内科,岐阜県岐阜市日置江１-７２,内科　小児科,,,9" xlink:title="くまざき内科" transform="ref(svg,13670.8876,-3537.356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一社）ぎふ綜合健診センター,岐阜県岐阜市日置江４-４７,内科　放射線科　婦人科,,,9" xlink:title="（一社）ぎふ綜合健診センター" transform="ref(svg,13670.4034,-3536.859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きさらぎ内科,岐阜県岐阜市如月町６-３６-１,内科　循環器科,,,9" xlink:title="きさらぎ内科" transform="ref(svg,13673.4783,-3541.1546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＮＴＴ西日本東海病院健診センタ岐阜診療所,岐阜県岐阜市梅ケ枝町２-３１,内科,,,9" xlink:title="ＮＴＴ西日本東海病院健診センタ岐阜診療所" transform="ref(svg,13675.4471,-3542.4123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋産婦人科,岐阜県岐阜市梅ケ枝町３-４１-３,内科　小児科　産婦人科,,,9" xlink:title="高橋産婦人科" transform="ref(svg,13675.2579,-3542.4167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野中内科,岐阜県岐阜市梅河町２-５,内科　消化器科　循環器科,,,9" xlink:title="野中内科" transform="ref(svg,13675.5103,-3542.151)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島洋診療所,岐阜県岐阜市白菊町２-３９,内科　リウマチ科,,,9" xlink:title="中島洋診療所" transform="ref(svg,13673.807,-3543.305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村瀬内科胃腸科クリニック,岐阜県岐阜市美島町２-１３,内科　消化器科,,,9" xlink:title="村瀬内科胃腸科クリニック" transform="ref(svg,13675.0234,-3543.527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンライフ彦坂医務室,岐阜県岐阜市彦坂川北２３０,内科,,,9" xlink:title="（特養）サンライフ彦坂医務室" transform="ref(svg,13673.8718,-3549.9246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,恩田眼科クリニック,岐阜県岐阜市北島４-６-８,眼科,,,9" xlink:title="恩田眼科クリニック" transform="ref(svg,13672.7528,-3543.3254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本郷メンタルクリニック,岐阜県岐阜市本郷町５-１７,精神科　心療内科,,,9" xlink:title="本郷メンタルクリニック" transform="ref(svg,13674.6634,-3542.0963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤内科小児科,岐阜県岐阜市本荘２６１３,内科　呼吸器科　消化器科　循環器科　小児科　リウマチ科,,,9" xlink:title="加藤内科小児科" transform="ref(svg,13672.9129,-3541.2203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,又丸診療所,岐阜県岐阜市又丸６７-７,内科　精神科,,,9" xlink:title="又丸診療所" transform="ref(svg,13670.4185,-3544.115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東クリニック,岐阜県岐阜市又丸宮東２０-１,内科　消化器科　外科　こう門科　リハビリテーション科,,,9" xlink:title="東クリニック" transform="ref(svg,13670.271,-3543.4914)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺クリニック,岐阜県岐阜市木田２-１７-１,内科　外科　脳神経外科　リハビリテーション科,,,9" xlink:title="田辺クリニック" transform="ref(svg,13671.8796,-3545.0828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国立大学法人岐阜大学保健管理センター,岐阜県岐阜市柳戸１-１,内科　精神科,,,9" xlink:title="国立大学法人岐阜大学保健管理センター" transform="ref(svg,13673.3997,-3546.7723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,守屋医院,岐阜県岐阜市柳川町１８,内科　循環器科　外科　心臓血管外科,,,9" xlink:title="守屋医院" transform="ref(svg,13675.2297,-3541.8065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＡＴグループ診療所,岐阜県岐阜市薮田東１-６-３,内科,,,9" xlink:title="ＡＴグループ診療所" transform="ref(svg,13672.3976,-3539.6615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三里診療所,岐阜県岐阜市六条北１-３６,内科　小児科　外科　皮膚科　泌尿器科,,,9" xlink:title="三里診療所" transform="ref(svg,13674.2253,-3540.4794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つばさ皮フ科クリニック,岐阜県岐阜市六条北２-１０-９,アレルギー科　皮膚科　泌尿器科,,,9" xlink:title="つばさ皮フ科クリニック" transform="ref(svg,13674.2541,-3540.1125)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つちや整形外科,岐阜県岐阜市六条北２-１０-９,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="つちや整形外科" transform="ref(svg,13674.2541,-3540.1125)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六条わたなべ内科,岐阜県岐阜市六条北２-１０-９,内科　呼吸器科　消化器科,,,9" xlink:title="六条わたなべ内科" transform="ref(svg,13674.2579,-3540.1131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜泌尿器科,岐阜県岐阜市葭町２-８,外科　皮膚科　泌尿器科　こう門科,,,9" xlink:title="岐阜泌尿器科" transform="ref(svg,13674.4128,-3541.2246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）岐阜県職員互助会県庁診療所,岐阜県岐阜市薮田南２-１-１,内科,,,9" xlink:title="（一財）岐阜県職員互助会県庁診療所" transform="ref(svg,13672.2205,-3539.116)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜県医師会立健康管理クリニック,岐阜県岐阜市薮田南３-５-１１,内科,,,9" xlink:title="岐阜県医師会立健康管理クリニック" transform="ref(svg,13672.4035,-3538.9736)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,操健康クリニック,岐阜県岐阜市薮田南１-４-２０,内科　呼吸器内科　消化器内科　循環器内科　リハビリテーション科　放射線科　小児科　皮膚科　アレルギー科,,,9" xlink:title="操健康クリニック" transform="ref(svg,13672.5195,-3539.4974)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇部エクシモ（株）岐阜工場診療所,岐阜県岐阜市薮田西２-１-１,内科,,,9" xlink:title="宇部エクシモ（株）岐阜工場診療所" transform="ref(svg,13670.759,-3539.8084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはし整形外科,岐阜県岐阜市菊地町２-１５,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="たかはし整形外科" transform="ref(svg,13674.6472,-3540.748)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かさい内科小児科皮ふ科,岐阜県岐阜市西荘４-１５-３２,内科　消化器科　循環器科　小児科　皮膚科,,,9" xlink:title="かさい内科小児科皮ふ科" transform="ref(svg,13671.9346,-3540.5613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜西内科,岐阜県岐阜市西荘４-７,内科　神経内科　アレルギー科　皮膚科,,,9" xlink:title="岐阜西内科" transform="ref(svg,13671.9445,-3540.7309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）燦燦医務室,岐阜県岐阜市鏡島南１-２-３０,内科,,,9" xlink:title="（特養）燦燦医務室" transform="ref(svg,13671.7055,-3540.7783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六条眼科クリニック,岐阜県岐阜市六条片田１-１６-３,眼科,,,9" xlink:title="六条眼科クリニック" transform="ref(svg,13674.716,-3539.4205)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐久間耳鼻咽喉科,岐阜県岐阜市美島町３-２１-１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="佐久間耳鼻咽喉科" transform="ref(svg,13674.9117,-3543.5838)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立山クリニック,岐阜県岐阜市古市場神田８１-１,内科　消化器科　循環器科　小児科　外科　整形外科　皮膚科　こう門科　リハビリテーション科,,,9" xlink:title="立山クリニック" transform="ref(svg,13673.0257,-3546.2415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やぶたこどもクリニック,岐阜県岐阜市薮田南３-６-３,小児科,,,9" xlink:title="やぶたこどもクリニック" transform="ref(svg,13672.4032,-3538.9112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いちえん眼科クリニック,岐阜県岐阜市中鶉７-１９,眼科,,,9" xlink:title="いちえん眼科クリニック" transform="ref(svg,13673.1198,-3537.8211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やすらぎの里川部苑,岐阜県岐阜市川部３-４３,内科　外科,,,9" xlink:title="（特養）やすらぎの里川部苑" transform="ref(svg,13670.929,-3543.4649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はっとりクリニック,岐阜県岐阜市鏡島精華２-４-２５,アレルギー科　耳鼻いんこう科,,,9" xlink:title="はっとりクリニック" transform="ref(svg,13672.344,-3541.0504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せきぐちクリニック,岐阜県岐阜市則武中４-２-１,内科　消化器科　外科　リハビリテーション科,,,9" xlink:title="せきぐちクリニック" transform="ref(svg,13674.5692,-3544.1109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,折居クリニック,岐阜県岐阜市鷺山北町８-３８,内科　小児科　アレルギー科　歯科　矯正歯科　小児歯科,,,9" xlink:title="折居クリニック" transform="ref(svg,13675.4551,-3545.1233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おのぎクリニック,岐阜県岐阜市萱場南２-１２-１７,内科　胃腸内科　肝臓・消化器内科　呼吸器内科　アレルギー科　大腸・肛門内科,,,9" xlink:title="おのぎクリニック" transform="ref(svg,13673.0983,-3543.4502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつおクリニック,岐阜県岐阜市茜部新所４-１３２-１,内科　小児科　外科　整形外科　小児外科　皮膚科　胃腸内科　リハビリテーション科　肛門外科,,,9" xlink:title="まつおクリニック" transform="ref(svg,13675.4313,-3538.0638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河渡こどもクリニック,岐阜県岐阜市河渡４-４０,小児科,,,9" xlink:title="河渡こどもクリニック" transform="ref(svg,13670.0086,-3541.4335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,シティ・タワー診療所,岐阜県岐阜市橋本町２-５２,内科　小児科,,,9" xlink:title="シティ・タワー診療所" transform="ref(svg,13675.4175,-3541.0698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜市保健所,岐阜県岐阜市都通２-１９,内科　小児科　婦人科　放射線科　歯科,,,9" xlink:title="岐阜市保健所" transform="ref(svg,13674.6797,-3541.9557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まさきアイクリニック,岐阜県岐阜市正木中１-２-１,眼科,,,9" xlink:title="まさきアイクリニック" transform="ref(svg,13674.5009,-3544.852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あまおどりクリニック,岐阜県岐阜市雨踊町５-１,内科　循環器内科,,,9" xlink:title="あまおどりクリニック" transform="ref(svg,13674.6492,-3541.3002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こいし整形外科・リウマチ科クリニック,岐阜県岐阜市茜部大川１-９-２,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="こいし整形外科・リウマチ科クリニック" transform="ref(svg,13674.7558,-3538.493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜メイツ睡眠障害治療クリニック,岐阜県岐阜市薮田南４-１５-２０,内科　呼吸器内科,,,9" xlink:title="岐阜メイツ睡眠障害治療クリニック" transform="ref(svg,13671.7988,-3539.0451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中原クリニック,岐阜県岐阜市浪花町２-１５,内科　外科　リハビリテーション科　消化器内科　肛門外科　乳腺外科,,,9" xlink:title="中原クリニック" transform="ref(svg,13675.0022,-3542.2598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかなべひろせクリニック,岐阜県岐阜市茜部菱野２-１５,内科　消化器内科,,,9" xlink:title="あかなべひろせクリニック" transform="ref(svg,13675.2106,-3538.6572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あい健康クリニックやすえ,岐阜県岐阜市鏡島南１-６-５,循環器内科,,,9" xlink:title="あい健康クリニックやすえ" transform="ref(svg,13671.6513,-3540.8308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしだスマイルクリニック,岐阜県岐阜市本荘西３-１１８,内科　外科　消化器内科　呼吸器内科　循環器内科　神経内科　整形外科,,,9" xlink:title="よしだスマイルクリニック" transform="ref(svg,13673.0858,-3541.0973)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西本整形外科リハビリクリニック,岐阜県岐阜市古市場３２１-７,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="西本整形外科リハビリクリニック" transform="ref(svg,13672.3866,-3546.6939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こじま内科クリニック,岐阜県岐阜市西中島７-５-１５,内科　糖尿病内科,,,9" xlink:title="こじま内科クリニック" transform="ref(svg,13672.1378,-3543.0224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みうら眼科クリニック,岐阜県岐阜市六条福寿町６-７,眼科,,,9" xlink:title="みうら眼科クリニック" transform="ref(svg,13674.5048,-3540.0518)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いちき皮膚科,岐阜県岐阜市東島３-９-１３,皮膚科　小児皮膚科　アレルギー科,,,9" xlink:title="いちき皮膚科" transform="ref(svg,13673.5118,-3542.7527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泌尿器科皮膚科竹内クリニック,岐阜県岐阜市西荘２-５-５０,泌尿器科　皮膚科,,,9" xlink:title="泌尿器科皮膚科竹内クリニック" transform="ref(svg,13672.3287,-3541.0086)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土野メンタルクリニック,岐阜県岐阜市山吹町６-１９-２,精神科　心療内科,,,9" xlink:title="土野メンタルクリニック" transform="ref(svg,13674.6766,-3543.2278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たろう整形外科,岐阜県岐阜市鷺山１７６８-５８０,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="たろう整形外科" transform="ref(svg,13675.0688,-3544.6016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神谷ひふ科,岐阜県岐阜市河渡３-１５８-２,皮膚科　美容皮膚科　小児皮膚科,,,9" xlink:title="神谷ひふ科" transform="ref(svg,13669.8049,-3540.9669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかしま脳神経外科クリニック,岐阜県岐阜市則武東２-１５-１８,脳神経外科　神経内科　リハビリテーション科,,,9" xlink:title="なかしま脳神経外科クリニック" transform="ref(svg,13674.7285,-3544.0485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鶴声会岐阜中央クリニック,岐阜県岐阜市沖ノ橋町２-９-１,内科　外科　肛門外科　整形外科　皮膚科　泌尿器科　消化器内科　リハビリテーション科　放射線科　麻酔科,,,9" xlink:title="（医）鶴声会岐阜中央クリニック" transform="ref(svg,13675.0086,-3541.8774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢田眼科クリニック,岐阜県岐阜市柳津町丸野３-３-６,眼科,,,9" xlink:title="矢田眼科クリニック" transform="ref(svg,13672.8771,-3536.2418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大橋・谷整形外科,岐阜県岐阜市薮田南３-１２-１７,整形外科　リウマチ科　リハビリテーション科　麻酔科　内科,,,9" xlink:title="大橋・谷整形外科" transform="ref(svg,13672.1396,-3539.0136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やすらぎの里川部苑新館,岐阜県岐阜市川部３-１９-１,内科,,,9" xlink:title="（特養）やすらぎの里川部苑新館" transform="ref(svg,13670.921,-3543.5407)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,喜久寿苑診療所,岐阜県岐阜市河渡２-４５,内科　精神科,,,9" xlink:title="喜久寿苑診療所" transform="ref(svg,13669.7888,-3540.8835)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしおか耳鼻科クリニック,岐阜県岐阜市西改田字川向１３０-１,耳鼻いんこう科,,,9" xlink:title="よしおか耳鼻科クリニック" transform="ref(svg,13670.5447,-3545.0116)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すこやかこどもクリニック,岐阜県岐阜市鹿島町５-１６,小児科　小児神経内科　アレルギー科,,,9" xlink:title="すこやかこどもクリニック" transform="ref(svg,13673.8551,-3541.4713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐阜保健所本巣・山県センター,岐阜県岐阜市薮田南５-１４-５３,内科　小児科　精神科,,,9" xlink:title="岐阜保健所本巣・山県センター" transform="ref(svg,13671.5264,-3539.1757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設るぴなすビラ診療所,岐阜県岐阜市須賀２-５-１,内科,,,9" xlink:title="介護老人福祉施設るぴなすビラ診療所" transform="ref(svg,13672.0535,-3538.8103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ナーシングケア加納診療所,岐阜県岐阜市加納愛宕町１８-２,内科,,,9" xlink:title="（特養）ナーシングケア加納診療所" transform="ref(svg,13675.0947,-3540.8997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久野耳鼻咽喉科クリニック,岐阜県岐阜市柳津町丸野３-３-６,耳鼻いんこう科　小児耳鼻いんこう科　アレルギー科,,,9" xlink:title="久野耳鼻咽喉科クリニック" transform="ref(svg,13672.8771,-3536.2418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加納クリニック,岐阜県岐阜市江添３-８-１６,脳外科　神経内科　心療内科,,,9" xlink:title="加納クリニック" transform="ref(svg,13672.503,-3539.4947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかのまちクリニック,岐阜県岐阜市本荘中ノ町１０-２９-１,内科　循環器内科　小児科,,,9" xlink:title="なかのまちクリニック" transform="ref(svg,13673.2605,-3540.3131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しまメンタルクリニック,岐阜県岐阜市東島２-１４-２,心療内科　精神科,,,9" xlink:title="しまメンタルクリニック" transform="ref(svg,13673.7254,-3542.6422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なだこどもとアレルギーのクリニック,岐阜県岐阜市市橋３-９-７,小児科　小児アレルギー科,,,9" xlink:title="なだこどもとアレルギーのクリニック" transform="ref(svg,13672.4539,-3539.9995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おくむらこどもクリニック,岐阜県岐阜市宇佐南２-９-１９,小児科　小児心療内科,,,9" xlink:title="おくむらこどもクリニック" transform="ref(svg,13673.4941,-3539.5099)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）岐阜県職員互助会県庁診療所,岐阜県岐阜市薮田南２-１-１,内科,,,9" xlink:title="（一財）岐阜県職員互助会県庁診療所" transform="ref(svg,13672.2205,-3539.116)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一社）岐阜市医師会診療所,岐阜県岐阜市青柳町５-４,内科　眼科,,,9" xlink:title="（一社）岐阜市医師会診療所" transform="ref(svg,13674.8462,-3542.7152)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本巣市本巣保健センター診療所,岐阜県本巣市文殊３２４,内科　小児科　歯科,,,9" xlink:title="本巣市本巣保健センター診療所" transform="ref(svg,13667.8205,-3548.2991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠松刑務所医務課診療所,岐阜県羽島郡笠松町中川町２３,内科　精神科　婦人科　歯科,,,9" xlink:title="笠松刑務所医務課診療所" transform="ref(svg,13675.6201,-3537.2457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠松町診療所,岐阜県羽島郡笠松町長池４０８-１,内科　歯科,,,9" xlink:title="笠松町診療所" transform="ref(svg,13674.6366,-3535.8559)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）リバーサイド笠松園診察室,岐阜県羽島郡笠松町田代６２１-１,内科　外科,,,9" xlink:title="（特養）リバーサイド笠松園診察室" transform="ref(svg,13675.2468,-3535.9884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片山クリニック,岐阜県羽島郡笠松町田代字若宮１０９８-１,内科　呼吸器科　小児科　外科　リハビリテーション科,,,9" xlink:title="片山クリニック" transform="ref(svg,13674.5629,-3536.026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科小児科小寺医院,岐阜県羽島郡笠松町美笠通３-２０,内科　小児科,,,9" xlink:title="内科小児科小寺医院" transform="ref(svg,13675.5815,-3536.9143)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田耳鼻咽喉科,岐阜県羽島郡笠松町北及１６７３-１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="山田耳鼻咽喉科" transform="ref(svg,13674.4497,-3535.3688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩村医院,岐阜県羽島郡笠松町門間１２７０,内科　循環器内科　呼吸器内科　消化器内科　小児科　眼科,,,9" xlink:title="岩村医院" transform="ref(svg,13673.897,-3535.145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,羽島クリニック,岐阜県羽島郡笠松町門間５７８-１,内科　消化器科　循環器科　小児科　外科　整形外科　泌尿器科　リハビリテーション科,,,9" xlink:title="羽島クリニック" transform="ref(svg,13673.291,-3535.807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおかわ整形外科,岐阜県羽島郡笠松町門間８５３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="おおかわ整形外科" transform="ref(svg,13673.4437,-3535.5112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）寿光苑診療所,岐阜県羽島市小熊町２-７５０,内科,,,9" xlink:title="（特養）寿光苑診療所" transform="ref(svg,13671.0468,-3534.9271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陳産婦人科,岐阜県羽島市小熊町島４-７７,内科　小児科　産婦人科　皮膚科,,,9" xlink:title="陳産婦人科" transform="ref(svg,13670.6838,-3533.715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丹菊整形外科,岐阜県羽島市小熊町島２-７８-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="丹菊整形外科" transform="ref(svg,13670.6075,-3533.513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわたクリニック,岐阜県羽島市正木町上大浦２-３８,内科　外科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="いわたクリニック" transform="ref(svg,13674.1634,-3534.0869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今井田医院,岐阜県羽島市正木町須賀小松４７,内科　小児科,,,9" xlink:title="今井田医院" transform="ref(svg,13673.0036,-3534.1547)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,里村耳鼻咽喉科,岐阜県羽島市足近町４-２６５-１,アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="里村耳鼻咽喉科" transform="ref(svg,13671.3641,-3533.8742)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加地内科,岐阜県羽島市足近町７-４７３,内科　呼吸器科　循環器科　消化器科　糖尿病内科　代謝内科　神経内科　小児科　放射線科,,,9" xlink:title="加地内科" transform="ref(svg,13672.1936,-3533.8485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小田内科,岐阜県羽島市足近町１-４１-１,内科　小児科　皮膚科　形成外科,,,9" xlink:title="小田内科" transform="ref(svg,13672.7621,-3535.2643)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瑞穂市巣南保健センター,岐阜県瑞穂市宮田３０４-２,内科　歯科,,,9" xlink:title="瑞穂市巣南保健センター" transform="ref(svg,13664.9788,-3540.255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清光会名和内科,岐阜県瑞穂市重里２００５,内科　循環器科　小児科,,,9" xlink:title="（医）清光会名和内科" transform="ref(svg,13665.952,-3541.6101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瑞穂市保健センター,岐阜県瑞穂市別府１２８３,内科　歯科,,,9" xlink:title="瑞穂市保健センター" transform="ref(svg,13669.1884,-3539.1582)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）若園医院,岐阜県瑞穂市唐栗２７３,内科　小児科　皮膚科,,,9" xlink:title="（医）若園医院" transform="ref(svg,13664.0932,-3541.2503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つじクリニック,岐阜県本巣市七五三３１９-１,内科　小児科　外科　整形外科　皮膚科　こう門科　リハビリテーション科　胃腸科,,,9" xlink:title="つじクリニック" transform="ref(svg,13665.6835,-3545.3254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀部クリニック,岐阜県本巣市仏生寺２４-５,内科　消化器科　小児科　アレルギー科　外科　整形外科　小児外科　皮膚科　泌尿器科　こう門科　リハビリテーション科,,,9" xlink:title="堀部クリニック" transform="ref(svg,13668.9475,-3544.3999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）幸仁会白木医院,岐阜県本巣市下真桑７１６,内科　消化器科　循環器科,,,9" xlink:title="（医）幸仁会白木医院" transform="ref(svg,13665.8086,-3543.875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まくわクリニック,岐阜県本巣市軽海４９５-７,内科　小児科　外科　整形外科　皮膚科　リハビリテーション科　放射線科　胃腸科,,,9" xlink:title="まくわクリニック" transform="ref(svg,13665.6365,-3542.9076)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本整形外科,岐阜県本巣市上真桑２２４０-１０２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="橋本整形外科" transform="ref(svg,13667.3314,-3544.3218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高木クリニック,岐阜県瑞穂市古橋１０７５-１,内科　小児科　消化器内科,,,9" xlink:title="高木クリニック" transform="ref(svg,13665.0388,-3539.231)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国枝医院,岐阜県瑞穂市牛牧８０１-１,内科　循環器内科　糖尿病内科　小児科　皮膚科　耳鼻いんこう科,,,9" xlink:title="国枝医院" transform="ref(svg,13666.7041,-3538.6805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メンタルヘルスオフィス穂積すこやか診療所,岐阜県瑞穂市只越９０７-５,内科　精神科　神経内科　心療内科,,,9" xlink:title="メンタルヘルスオフィス穂積すこやか診療所" transform="ref(svg,13668.8081,-3539.8499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほづみ耳鼻咽喉科クリニック,岐阜県瑞穂市別府７２６-５,耳鼻いんこう科　小児科　気管食道内科　麻酔科　内科　アレルギー科,,,9" xlink:title="ほづみ耳鼻咽喉科クリニック" transform="ref(svg,13668.9534,-3539.5323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐竹整形外科,岐阜県瑞穂市穂積１８４５-１,リウマチ科　整形外科　形成外科　皮膚科　リハビリテーション科,,,9" xlink:title="佐竹整形外科" transform="ref(svg,13669.1797,-3538.364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京極こどもクリニック,岐阜県瑞穂市只越４６０-５,小児科,,,9" xlink:title="京極こどもクリニック" transform="ref(svg,13668.101,-3539.8075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇土医院,岐阜県瑞穂市馬場小城町１-８２,内科　消化器科　循環器科　小児科　眼科　放射線科,,,9" xlink:title="宇土医院" transform="ref(svg,13669.0628,-3540.8814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下野外科胃腸科医院,岐阜県瑞穂市馬場上光町１-１０６,内科　消化器科　循環器科　小児科　外科　整形外科　皮膚科　泌尿器科　こう門科　リハビリテーション科　放射線科　麻酔科,,,9" xlink:title="下野外科胃腸科医院" transform="ref(svg,13668.5774,-3541.26)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おさだクリニック,岐阜県瑞穂市馬場前畑町３-３３,アレルギー科　皮膚科,,,9" xlink:title="おさだクリニック" transform="ref(svg,13668.228,-3541.4354)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関谷皮膚科,岐阜県瑞穂市別府１０５３,内科　小児科　皮膚科,,,9" xlink:title="関谷皮膚科" transform="ref(svg,13669.412,-3539.3034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広瀬内科クリニック,岐阜県瑞穂市別府１０７４-１,内科　呼吸器科　消化器科　循環器科　小児科　神経内科　婦人科　皮膚科　リハビリテーション科　放射線科,,,9" xlink:title="広瀬内科クリニック" transform="ref(svg,13669.223,-3539.3257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,所内科医院,岐阜県瑞穂市別府２３１,内科　循環器科　小児科　胃腸科,,,9" xlink:title="所内科医院" transform="ref(svg,13669.0239,-3539.6873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほづみ整形外科医院,岐阜県瑞穂市別府７９１-１,リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="ほづみ整形外科医院" transform="ref(svg,13668.8315,-3539.4826)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉村内科,岐阜県瑞穂市別府１２９７,内科　循環器科　小児科　外科　リハビリテーション科　胃腸科,,,9" xlink:title="吉村内科" transform="ref(svg,13668.9852,-3539.2426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひぐちクリニック,岐阜県瑞穂市別府７２５-１,皮膚科　アレルギー科　美容皮膚科,,,9" xlink:title="ひぐちクリニック" transform="ref(svg,13668.9729,-3539.5387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ほづみ園付設診療所,岐阜県瑞穂市宝江村東５７６-１,内科,,,9" xlink:title="（特養）ほづみ園付設診療所" transform="ref(svg,13667.1275,-3537.0849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福田内科医院,岐阜県瑞穂市本田１０１７-１,内科　消化器科　循環器科　小児科　放射線科　胃腸科,,,9" xlink:title="福田内科医院" transform="ref(svg,13667.573,-3540.6109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンシャインＭ＆Ｄクリニック,岐阜県瑞穂市本田１７４-１,内科　泌尿器科　人工透析内科　歯科　歯科口腔外科,,,9" xlink:title="サンシャインＭ＆Ｄクリニック" transform="ref(svg,13667.3791,-3541.4997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,熊田医院耳鼻咽喉科,岐阜県瑞穂市本田三ノ改田１０４６-１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="熊田医院耳鼻咽喉科" transform="ref(svg,13667.3682,-3540.6927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,齋藤リウマチ科内科整形外科,岐阜県本巣郡北方町栄町１-２７,内科　神経科　アレルギー科　リウマチ科　外科　整形外科　皮膚科　泌尿器科　リハビリテーション科　麻酔科,,,9" xlink:title="齋藤リウマチ科内科整形外科" transform="ref(svg,13668.6469,-3543.9673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北方ひまわりクリニック,岐阜県本巣郡北方町曲路２-１３６,内科　呼吸器科　循環器科　小児科　アレルギー科　リハビリテーション科　胃腸科,,,9" xlink:title="北方ひまわりクリニック" transform="ref(svg,13669.4869,-3543.1423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,モアレディースクリニック,岐阜県本巣郡北方町高屋条里３-９０,小児科　産科　婦人科,,,9" xlink:title="モアレディースクリニック" transform="ref(svg,13668.7456,-3541.3223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鹿野クリニック,岐阜県本巣郡北方町高屋白木２-７７,内科　呼吸器科　循環器科　小児科　外科　小児外科　リハビリテーション科,,,9" xlink:title="鹿野クリニック" transform="ref(svg,13669.2662,-3541.7418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いのうえクリニック,岐阜県本巣郡北方町芝原東町３-５０,内科　循環器科　小児科,,,9" xlink:title="いのうえクリニック" transform="ref(svg,13669.6652,-3544.5126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとうファミリークリニック,岐阜県本巣郡北方町小柳１-９５,内科　小児科　外科　整形外科　脳神経外科　皮膚科　泌尿器科　肛門外科　リハビリテーション科　放射線科　麻酔科　糖尿病内科　循環器内科　呼吸器内科　消化器内科,,,9" xlink:title="さとうファミリークリニック" transform="ref(svg,13669.2535,-3543.3974)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野口整形外科内科医院,岐阜県本巣郡北方町柱本５９２-３,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="野口整形外科内科医院" transform="ref(svg,13668.6378,-3542.7845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山こどもクリニック,岐阜県本巣郡北方町柱本南１-３０６,小児科　アレルギー科,,,9" xlink:title="杉山こどもクリニック" transform="ref(svg,13668.9279,-3542.5456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山内科,岐阜県本巣郡北方町朝日町１-３４,内科,,,9" xlink:title="杉山内科" transform="ref(svg,13669.3556,-3544.0788)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北方町保健センター,岐阜県本巣郡北方町高屋石末１-１０,内科　歯科,,,9" xlink:title="北方町保健センター" transform="ref(svg,13669.368,-3542.4856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,岐阜県本巣郡北方町北方１７４９-４,内科　皮膚科,,,9" xlink:title="伊藤医院" transform="ref(svg,13668.3578,-3543.8631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野医院,岐阜県本巣郡北方町北方１７６８,内科　小児科,,,9" xlink:title="大野医院" transform="ref(svg,13668.147,-3543.8218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本多医院,岐阜県本巣郡北方町北方３１１-５,内科　小児科,,,9" xlink:title="本多医院" transform="ref(svg,13669.3032,-3543.716)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もとす広域連合療育医療施設休日急患診療所,岐阜県本巣郡北方町北方３２１９-２５,内科　小児科,,,9" xlink:title="もとす広域連合療育医療施設休日急患診療所" transform="ref(svg,13667.839,-3543.9464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北方医院,岐阜県本巣郡北方町北方１８１６-２３,内科　小児科　外科　糖尿病内科,,,9" xlink:title="北方医院" transform="ref(svg,13668.2262,-3543.6483)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いとうレディースケアクリニック,岐阜県本巣郡北方町大字北方字大牧３１９５,小児科　産科　婦人科,,,9" xlink:title="いとうレディースケアクリニック" transform="ref(svg,13668.3383,-3542.3094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もとす広域連合老人福祉施設大和園養護老人ホーム附設診療所,岐阜県本巣市曽井中島１１５６-４,内科,,,9" xlink:title="もとす広域連合老人福祉施設大和園養護老人ホーム附設診療所" transform="ref(svg,13666.6153,-3548.2638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もとす広域連合老人福祉施設大和園（特養）附設診療所,岐阜県本巣市曽井中島１１５６-４,内科,,,9" xlink:title="もとす広域連合老人福祉施設大和園（特養）附設診療所" transform="ref(svg,13666.6153,-3548.2638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本巣内科クリニック,岐阜県本巣市曽井中島宮前１０１１,内科　循環器科　小児科　リハビリテーション科　胃腸科,,,9" xlink:title="本巣内科クリニック" transform="ref(svg,13667.0442,-3548.6308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宝寿クリニック,岐阜県本巣市文殊１１５-７５,内科　小児科　外科　整形外科　小児外科　皮膚科,,,9" xlink:title="宝寿クリニック" transform="ref(svg,13669.3814,-3549.5879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本巣市真正保健センター,岐阜県本巣市下真桑１１９９-１,内科　小児科　歯科,,,9" xlink:title="本巣市真正保健センター" transform="ref(svg,13665.5436,-3543.2881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,糸貫内科クリニック,岐阜県本巣市三橋７８-１,内科　小児科　皮膚科　美容皮膚科,,,9" xlink:title="糸貫内科クリニック" transform="ref(svg,13667.7262,-3545.864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本巣市糸貫保健センター,岐阜県本巣市上保１２６１-４,内科　小児科　歯科,,,9" xlink:title="本巣市糸貫保健センター" transform="ref(svg,13667.497,-3546.32)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかしまこどもクリニック,岐阜県瑞穂市十九条字鳥居前２４７-１,小児科,,,9" xlink:title="なかしまこどもクリニック" transform="ref(svg,13666.4041,-3539.5263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みずほクリニック,岐阜県瑞穂市本田５５６-１,内科　小児科　外科　リハビリテーション科,,,9" xlink:title="みずほクリニック" transform="ref(svg,13667.3771,-3541.0387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三輪クリニック,岐阜県瑞穂市森３９７-１,内科　循環器科　リハビリテーション科,,,9" xlink:title="三輪クリニック" transform="ref(svg,13664.9763,-3541.8199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国枝医院,岐阜県本巣市文殊８８１-１,内科　小児科　消化器内科　アレルギー科,,,9" xlink:title="国枝医院" transform="ref(svg,13667.9338,-3548.4935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）フレンドリーおりべ医務室,岐阜県本巣市七五三字五反田７３５,内科,,,9" xlink:title="（特養）フレンドリーおりべ医務室" transform="ref(svg,13665.2979,-3544.8211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みや眼科クリニック,岐阜県本巣郡北方町小柳１-１１２,眼科,,,9" xlink:title="みや眼科クリニック" transform="ref(svg,13669.3021,-3543.3721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障がい者支援施設あいそら羽島診療所,岐阜県羽島市足近町市場１１３０,内科　整形外科　歯科,,,9" xlink:title="障がい者支援施設あいそら羽島診療所" transform="ref(svg,13673.1543,-3534.6166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかしま医院,岐阜県本巣市早野６５３-１,内科　小児科,,,9" xlink:title="なかしま医院" transform="ref(svg,13665.8412,-3545.4503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふくた眼科クリニック,岐阜県瑞穂市本田１０１８-１,アレルギー科　眼科,,,9" xlink:title="ふくた眼科クリニック" transform="ref(svg,13667.6039,-3540.5962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひらたクリニック,岐阜県羽島郡笠松町田代３２５-１,内科　神経内科　外科　整形外科　脳神経外科,,,9" xlink:title="ひらたクリニック" transform="ref(svg,13675.6019,-3536.4166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）銀の郷診療所,岐阜県羽島郡笠松町美笠通３-８-１,内科,,,9" xlink:title="（特養）銀の郷診療所" transform="ref(svg,13675.5135,-3536.8977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらクリニック,岐阜県瑞穂市稲里６８９-３,内科　肝臓・胃腸内科　小児科,,,9" xlink:title="さくらクリニック" transform="ref(svg,13668.7139,-3538.287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やま皮膚科,岐阜県本巣市三橋３-８５,皮膚科　アレルギー科,,,9" xlink:title="やま皮膚科" transform="ref(svg,13667.6868,-3544.9594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高屋伊勢田耳鼻咽喉科,岐阜県本巣郡北方町高屋伊勢田２-１０７-１,耳鼻いんこう科　アレルギー科,,,9" xlink:title="高屋伊勢田耳鼻咽喉科" transform="ref(svg,13669.1681,-3541.1688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやざき眼科クリニック,岐阜県本巣市三橋１０４４-４,眼科,,,9" xlink:title="みやざき眼科クリニック" transform="ref(svg,13667.6103,-3545.6131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いとう耳鼻咽喉科,岐阜県本巣郡北方町加茂４７３,耳鼻いんこう科　アレルギー科　皮膚科　小児科,,,9" xlink:title="いとう耳鼻咽喉科" transform="ref(svg,13668.327,-3543.9376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう整形外科,岐阜県羽島郡笠松町田代５０１,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="さとう整形外科" transform="ref(svg,13675.2807,-3536.1997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フラワーアイクリニック,岐阜県本巣市三橋１１００,眼科,,,9" xlink:title="フラワーアイクリニック" transform="ref(svg,13667.3006,-3545.5501)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いとうレディースケアクリニックアネックス,岐阜県瑞穂市別府字堤内五ノ町１２２７-１,産科　婦人科　小児科,,,9" xlink:title="いとうレディースケアクリニックアネックス" transform="ref(svg,13669.5322,-3539.1691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きらり皮フ科クリニック,岐阜県本巣郡北方町柱本１-１９７-１,皮膚科　小児皮膚科　アレルギー科,,,9" xlink:title="きらり皮フ科クリニック" transform="ref(svg,13668.9308,-3542.7591)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さの内科クリニック,岐阜県羽島市小熊町島２-１２,循環器内科　呼吸器内科　糖尿病内科　小児科,,,9" xlink:title="さの内科クリニック" transform="ref(svg,13670.6879,-3533.3742)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンビレッジ瑞穂医務室,岐阜県瑞穂市只越２１９-２,内科,,,9" xlink:title="（特養）サンビレッジ瑞穂医務室" transform="ref(svg,13667.4391,-3540.0858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北方アイクリニック,岐阜県本巣郡北方町平成３-１５,眼科,,,9" xlink:title="北方アイクリニック" transform="ref(svg,13668.2037,-3543.1513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおぐち泌尿器クリニック,岐阜県瑞穂市別府７３８-１,泌尿器科　女性泌尿器科,,,9" xlink:title="おおぐち泌尿器クリニック" transform="ref(svg,13668.7342,-3539.5189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンライズ長良診療所,岐阜県安八郡安八町森部１８７５-１,内科,,,9" xlink:title="（特養）サンライズ長良診療所" transform="ref(svg,13667.6133,-3533.8885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にわ整形外科,岐阜県安八郡安八町東結字芝原東１５０９-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="にわ整形外科" transform="ref(svg,13666.773,-3535.9955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおくま内科クリニック,岐阜県安八郡安八町東結字芝原東１５２０-１,内科　循環器内科　小児科　腎臓内科　人工透析内科,,,9" xlink:title="おおくま内科クリニック" transform="ref(svg,13666.7737,-3536.0412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安八診療所,岐阜県安八郡安八町南今ヶ渕２７０-２,内科　小児科　耳鼻いんこう科　皮膚科　内科（人工透析）,,,9" xlink:title="安八診療所" transform="ref(svg,13666.7753,-3533.7449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安八町保健センター,岐阜県安八郡安八町南今ヶ渕３７５,内科　歯科,,,9" xlink:title="安八町保健センター" transform="ref(svg,13666.5132,-3533.6229)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石田医院,岐阜県安八郡安八町氷取７３９,内科　小児科,,,9" xlink:title="石田医院" transform="ref(svg,13666.3782,-3533.2092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中医院,岐阜県安八郡神戸町大字神戸１８２,内科　呼吸器科　消化器科　循環器科　小児科　アレルギー科　放射線科,,,9" xlink:title="田中医院" transform="ref(svg,13660.3851,-3541.7603)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下野内科,岐阜県安八郡神戸町神戸９５５,内科　呼吸器科　消化器科　循環器科　小児科　皮膚科,,,9" xlink:title="下野内科" transform="ref(svg,13660.9799,-3542.1553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太平洋工業（株）北大垣工場診療所,岐阜県安八郡神戸町横井字堤外１３００-１,内科,,,9" xlink:title="太平洋工業（株）北大垣工場診療所" transform="ref(svg,13660.3983,-3543.759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱マテリアル（株）岐阜製作所診療所,岐阜県安八郡神戸町横井中新田１５２８-１,内科,,,9" xlink:title="三菱マテリアル（株）岐阜製作所診療所" transform="ref(svg,13660.2498,-3543.916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神戸町保健センター,岐阜県安八郡神戸町神戸１０１８,内科　歯科,,,9" xlink:title="神戸町保健センター" transform="ref(svg,13660.9473,-3541.8435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつながファミリークリニック,岐阜県安八郡神戸町神戸１７０５-１,内科　外科　消化器内科　循環器内科　整形外科　リハビリテーション科　小児科,,,9" xlink:title="まつながファミリークリニック" transform="ref(svg,13660.4925,-3541.4557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高田医院,岐阜県安八郡神戸町大字神戸４６８,内科　小児科　産科　婦人科,,,9" xlink:title="高田医院" transform="ref(svg,13660.46,-3541.8709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣北クリニック,岐阜県安八郡神戸町大字末守字大明神７３７-１,内科　消化器科　外科　人工透析内科　麻酔科,,,9" xlink:title="大垣北クリニック" transform="ref(svg,13659.5456,-3541.96)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まちだ眼科,岐阜県安八郡神戸町大字末守字縫１０１７-１,眼科,,,9" xlink:title="まちだ眼科" transform="ref(svg,13659.452,-3542.2534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヒフカクリニックのりこ,岐阜県安八郡神戸町八条２８２-２,アレルギー科　皮膚科,,,9" xlink:title="ヒフカクリニックのりこ" transform="ref(svg,13660.3792,-3540.7771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋医院,岐阜県安八郡神戸町八条６８９-１,内科　外科　漢方内科　疼痛緩和内科,,,9" xlink:title="高橋医院" transform="ref(svg,13659.9166,-3540.5947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒川胃腸科外科クリニック,岐阜県安八郡神戸町北一色３-１,内科　小児科　外科　整形外科　皮膚科　泌尿器科　こう門科　リハビリテーション科　胃腸科,,,9" xlink:title="黒川胃腸科外科クリニック" transform="ref(svg,13658.5952,-3542.9123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ラック内診療所,岐阜県安八郡神戸町北一色元神明１０,内科,,,9" xlink:title="（特養）ラック内診療所" transform="ref(svg,13658.6902,-3542.8786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹田整形外科,岐阜県安八郡神戸町北一色字北島８２５,リウマチ科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="竹田整形外科" transform="ref(svg,13659.5616,-3542.991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,墨俣医院,岐阜県大垣市墨俣町上宿８７４-１,内科　循環器科　小児科　外科　整形外科　こう門科　胃腸科,,,9" xlink:title="墨俣医院" transform="ref(svg,13667.7679,-3535.7967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣市墨俣保健センター,岐阜県大垣市墨俣町墨俣１１４１-１,内科　歯科,,,9" xlink:title="大垣市墨俣保健センター" transform="ref(svg,13668.2519,-3536.0221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,シブヤ皮フ科・内科クリニック,岐阜県大垣市旭町４-６,内科　アレルギー科　皮膚科,,,9" xlink:title="シブヤ皮フ科・内科クリニック" transform="ref(svg,13662.8754,-3535.9665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田内科,岐阜県大垣市綾野５-２９,内科　循環器科,,,9" xlink:title="吉田内科" transform="ref(svg,13658.4777,-3533.9002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もりレディースクラブクリニック,岐阜県大垣市河間町１-１３,小児科　産婦人科,,,9" xlink:title="もりレディースクラブクリニック" transform="ref(svg,13660.4903,-3538.292)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のぎの森クリニック,岐阜県大垣市禾森５-５０,精神科　神経内科　心療内科,,,9" xlink:title="のぎの森クリニック" transform="ref(svg,13662.2311,-3535.0769)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,真鍋医院,岐阜県大垣市花園町４-１０-１,内科　小児科　産婦人科　麻酔科,,,9" xlink:title="真鍋医院" transform="ref(svg,13662.8281,-3535.8811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,名和医院,岐阜県大垣市開発町２-６５-１,内科　小児科　外科　整形外科　脳神経外科　皮膚科　泌尿器科　リハビリテーション科　放射線科,,,9" xlink:title="名和医院" transform="ref(svg,13663.8042,-3538.3521)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白木眼科クリニック,岐阜県大垣市郭町東２-４５,眼科,,,9" xlink:title="白木眼科クリニック" transform="ref(svg,13661.8523,-3536.0776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣整形外科,岐阜県大垣市笠縫町奥屋敷４５４-１,内科　リウマチ科　整形外科　形成外科　リハビリテーション科　放射線科,,,9" xlink:title="大垣整形外科" transform="ref(svg,13660.6714,-3537.7233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沼口医院,岐阜県大垣市笠木町６５０,内科　小児科　消化器内科　循環器内科,,,9" xlink:title="沼口医院" transform="ref(svg,13659.5562,-3537.681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しみず消化器クリニック,岐阜県大垣市割田２-１３１-１,内科　消化器内科　内視鏡内科　肝臓内科　小児科　外科　こう門科　皮膚科　整形外科,,,9" xlink:title="しみず消化器クリニック" transform="ref(svg,13660.643,-3534.1553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太平洋工業（株）本社西大垣工場診療所,岐阜県大垣市久徳町１００,内科,,,9" xlink:title="太平洋工業（株）本社西大垣工場診療所" transform="ref(svg,13658.6296,-3536.2316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田耳鼻咽喉科,岐阜県大垣市久徳町５８２-１,小児科　耳鼻いんこう科,,,9" xlink:title="前田耳鼻咽喉科" transform="ref(svg,13659.037,-3535.8996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しずさと診療所,岐阜県大垣市久徳町１５３-１,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="しずさと診療所" transform="ref(svg,13659.112,-3536.4347)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹中胃腸科,岐阜県大垣市宮町１-２９,内科　胃腸内科　消化器内科　呼吸器内科,,,9" xlink:title="竹中胃腸科" transform="ref(svg,13661.3795,-3536.5094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）昇陽会城北整形外科クリニック,岐阜県大垣市桐ヶ崎町８０,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）昇陽会城北整形外科クリニック" transform="ref(svg,13661.4923,-3536.433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東島内科医院,岐阜県大垣市御殿町１-５６,内科　糖尿病内科　内分泌内科　代謝（脂質代謝）内科　リウマチ科　アレルギー科,,,9" xlink:title="東島内科医院" transform="ref(svg,13661.5208,-3535.9429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤眼科医院,岐阜県大垣市御殿町１-５７,眼科,,,9" xlink:title="近藤眼科医院" transform="ref(svg,13661.4929,-3536.0064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤井耳鼻咽喉科医院,岐阜県大垣市御殿町２-５,耳鼻いんこう科,,,9" xlink:title="赤井耳鼻咽喉科医院" transform="ref(svg,13661.5641,-3535.9244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣駅前眼科,岐阜県大垣市高屋町１-１５０-３,眼科,,,9" xlink:title="大垣駅前眼科" transform="ref(svg,13661.6549,-3536.6223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬渕消化器内科クリニック,岐阜県大垣市高屋町１-５４,内科　小児科　循環器内科　消化器内科　放射線科,,,9" xlink:title="馬渕消化器内科クリニック" transform="ref(svg,13661.6936,-3536.4691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たらお皮膚科,岐阜県大垣市高屋町２-４４,皮膚科,,,9" xlink:title="たらお皮膚科" transform="ref(svg,13661.9632,-3536.6312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,児玉レディスクリニック,岐阜県大垣市高砂町１-３１,小児科　産科　婦人科,,,9" xlink:title="児玉レディスクリニック" transform="ref(svg,13661.5126,-3536.3478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックママ,岐阜県大垣市今宿３-３４-１,内科　小児科　産婦人科,,,9" xlink:title="クリニックママ" transform="ref(svg,13663.6373,-3536.6385)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しかの皮膚科,岐阜県大垣市三塚町１０９１,内科　皮膚科,,,9" xlink:title="（医）しかの皮膚科" transform="ref(svg,13663.043,-3536.4224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹中医院,岐阜県大垣市室村町１-５４-２,内科　循環器科　小児科,,,9" xlink:title="竹中医院" transform="ref(svg,13661.205,-3537.4504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉谷眼科,岐阜県大垣市室町２-２０,眼科,,,9" xlink:title="杉谷眼科" transform="ref(svg,13661.1522,-3536.443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,倉橋クリニック,岐阜県大垣市宿地町９４３-１,内科　外科　整形外科　胃腸科　皮膚泌尿器科,,,9" xlink:title="倉橋クリニック" transform="ref(svg,13660.8249,-3537.4002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三城クリニック,岐阜県大垣市上面２-６１,内科　小児科　外科　整形外科　皮膚科　リハビリテーション科　胃腸科,,,9" xlink:title="三城クリニック" transform="ref(svg,13664.4317,-3536.1867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺内科医院,岐阜県大垣市上面２-９２-２,内科　消化器科　小児科　皮膚科,,,9" xlink:title="田辺内科医院" transform="ref(svg,13664.3663,-3536.0562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水野こどもクリニック,岐阜県大垣市新町２-１００,小児科,,,9" xlink:title="水野こどもクリニック" transform="ref(svg,13662.0882,-3535.9201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥田整形外科,岐阜県大垣市新田町１-１１-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="奥田整形外科" transform="ref(svg,13662.7044,-3534.362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡内科クリニック,岐阜県大垣市新田町２-１４,内科　外科　消化器内科　循環器内科　リハビリテーション科　放射線科　人工透析内科,,,9" xlink:title="松岡内科クリニック" transform="ref(svg,13662.2482,-3534.3489)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅井耳鼻科クリニック,岐阜県大垣市清水町２７,アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="浅井耳鼻科クリニック" transform="ref(svg,13662.045,-3536.119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川医院,岐阜県大垣市西之川町１-２４０,内科　小児科　神経科　整形外科　皮膚科　泌尿器科　こう門科　リハビリテーション科　胃腸科,,,9" xlink:title="小川医院" transform="ref(svg,13661.2113,-3538.8732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,イビデン（株）青柳診療所,岐阜県大垣市青柳町３００,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="イビデン（株）青柳診療所" transform="ref(svg,13660.4469,-3534.2544)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口産婦人科,岐阜県大垣市静里町９１４,内科　小児科　産婦人科　リハビリテーション科　漢方内科,,,9" xlink:title="山口産婦人科" transform="ref(svg,13659.1784,-3535.7453)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣セントラルクリニック,岐阜県大垣市赤坂新田１-６３-１,内科　消化器科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="大垣セントラルクリニック" transform="ref(svg,13658.5634,-3538.2646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村島内科,岐阜県大垣市船町５-１１-２,内科　循環器内科,,,9" xlink:title="村島内科" transform="ref(svg,13660.9379,-3535.5743)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハットリレディスクリニック,岐阜県大垣市大井２-３８-３,内科　小児科　産科　婦人科,,,9" xlink:title="ハットリレディスクリニック" transform="ref(svg,13663.2792,-3534.877)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松永耳鼻咽喉科医院,岐阜県大垣市大村１-１４３-１,耳鼻いんこう科　アレルギー科,,,9" xlink:title="松永耳鼻咽喉科医院" transform="ref(svg,13665.3207,-3535.2295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西尾医院,岐阜県大垣市竹島町４３,内科　消化器科　眼科,,,9" xlink:title="西尾医院" transform="ref(svg,13661.7037,-3535.8154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣バイパス医院,岐阜県大垣市中野町５-４１９-１,内科　呼吸器科　循環器科　小児科　外科　整形外科　皮膚科　泌尿器科　こう門科　胃腸科,,,9" xlink:title="大垣バイパス医院" transform="ref(svg,13660.9726,-3537.8794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サクマ医院,岐阜県大垣市鶴見町７２１-１,内科　小児科　皮膚科　胃腸科,,,9" xlink:title="サクマ医院" transform="ref(svg,13663.981,-3536.0737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大橋医院,岐阜県大垣市伝馬町１０４-１,内科　消化器科　循環器科　リハビリテーション科　小児科,,,9" xlink:title="大橋医院" transform="ref(svg,13662.1111,-3536.3056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かとう皮フ科,岐阜県大垣市伝馬町６,皮膚科,,,9" xlink:title="かとう皮フ科" transform="ref(svg,13662.1232,-3536.337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣市保健センター,岐阜県大垣市東外側町２-２４,内科　小児科　歯科,,,9" xlink:title="大垣市保健センター" transform="ref(svg,13661.4311,-3536.4017)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宗宮整形外科,岐阜県大垣市東外側町２-１７,リウマチ科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="宗宮整形外科" transform="ref(svg,13661.6237,-3536.4162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣市急患医療センター,岐阜県大垣市東外側町２-２４,内科　小児科,,,9" xlink:title="大垣市急患医療センター" transform="ref(svg,13661.4311,-3536.4017)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゴールドライフ大東内診療所,岐阜県大垣市東前１-７９,内科　精神科,,,9" xlink:title="（特養）ゴールドライフ大東内診療所" transform="ref(svg,13663.0232,-3535.0724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はやかわクリニック,岐阜県大垣市東町２-７-１,内科　循環器科　小児科　麻酔科,,,9" xlink:title="はやかわクリニック" transform="ref(svg,13664.9692,-3536.8594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンヴェール大垣診療所,岐阜県大垣市東町４-４３-２,内科,,,9" xlink:title="（特養）サンヴェール大垣診療所" transform="ref(svg,13664.7691,-3536.9714)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河野小児科,岐阜県大垣市藤江町２-１２３,小児科,,,9" xlink:title="河野小児科" transform="ref(svg,13662.3939,-3536.4385)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤江アイクリニック,岐阜県大垣市藤江町５-１０-１,眼科,,,9" xlink:title="藤江アイクリニック" transform="ref(svg,13662.4737,-3536.1499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,岐阜県大垣市藤江町６-１０９,内科　放射線科　胃腸科,,,9" xlink:title="伊藤医院" transform="ref(svg,13662.4042,-3536.2118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）楽只会青木眼科医院,岐阜県大垣市南高橋町２-１１-２,小児科　眼科,,,9" xlink:title="（医）楽只会青木眼科医院" transform="ref(svg,13662.3252,-3535.9182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,説田医院,岐阜県大垣市南高橋町２-２,内科　小児科,,,9" xlink:title="説田医院" transform="ref(svg,13662.2269,-3535.9258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市川外科,岐阜県大垣市南若森町３２８,呼吸器科　循環器科　外科　整形外科　脳神経外科　こう門科　リハビリテーション科　麻酔科　胃腸科　皮膚泌尿器科,,,9" xlink:title="市川外科" transform="ref(svg,13660.5009,-3535.1298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とみだ内科,岐阜県大垣市南頬町４-１４４,内科　消化器科　循環器科　小児科　神経内科　放射線科　呼吸器科　糖尿病内科,,,9" xlink:title="とみだ内科" transform="ref(svg,13661.936,-3535.4569)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くさかべ整形外科,岐阜県大垣市波須３-３０-１,リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="くさかべ整形外科" transform="ref(svg,13664.5969,-3536.5521)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水皮膚科,岐阜県大垣市馬場町１-１,内科　アレルギー科　皮膚科　性感染症内科,,,9" xlink:title="清水皮膚科" transform="ref(svg,13661.0092,-3535.8167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田内科,岐阜県大垣市-組町２-１６,内科　心療内科　精神科,,,9" xlink:title="池田内科" transform="ref(svg,13661.0434,-3536.1196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひのきこどもクリニック,岐阜県大垣市桧町８９６-１,小児科,,,9" xlink:title="ひのきこどもクリニック" transform="ref(svg,13658.7792,-3536.8008)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山岸マタニティクリニック,岐阜県大垣市俵町１３３,内科　小児科　産科　婦人科,,,9" xlink:title="山岸マタニティクリニック" transform="ref(svg,13661.3271,-3535.7823)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北條クリニック,岐阜県大垣市福田町５７-１,アレルギー科　眼科　耳鼻いんこう科,,,9" xlink:title="北條クリニック" transform="ref(svg,13658.7465,-3537.992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう内科クリニック,岐阜県大垣市北方町４-１０３,内科　小児科　リハビリテーション科,,,9" xlink:title="さとう内科クリニック" transform="ref(svg,13661.7787,-3539.3923)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山中クリニック,岐阜県大垣市本今町１８７-１,内科　アレルギー科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="山中クリニック" transform="ref(svg,13660.981,-3535.0824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲川耳鼻咽喉科,岐阜県大垣市本町１-４６,アレルギー科　耳鼻いんこう科　リハビリテーション科,,,9" xlink:title="稲川耳鼻咽喉科" transform="ref(svg,13661.9339,-3536.1149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山川医院,岐阜県大垣市本町１-８２,内科　循環器科　小児科,,,9" xlink:title="山川医院" transform="ref(svg,13661.9597,-3536.2645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,万石小児科,岐阜県大垣市万石１-２６０,小児科,,,9" xlink:title="万石小児科" transform="ref(svg,13665.4165,-3536.2727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井口クリニック,岐阜県大垣市領家町２-９３,内科　外科　脳神経外科,,,9" xlink:title="井口クリニック" transform="ref(svg,13661.8387,-3538.5294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡医院,岐阜県大垣市林町１０-１３０７-３,内科　外科　整形外科　脳神経外科　麻酔科　皮膚泌尿器科,,,9" xlink:title="松岡医院" transform="ref(svg,13661.8312,-3537.5836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富田こどもクリニック,岐阜県大垣市林町１０-７１-１,小児科,,,9" xlink:title="富田こどもクリニック" transform="ref(svg,13661.8808,-3537.7045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北村医院,岐阜県大垣市林町１-５０,内科　精神科　神経科　心療内科,,,9" xlink:title="北村医院" transform="ref(svg,13662.2429,-3536.9021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よこまく内科クリニック,岐阜県大垣市林町５-８,内科　呼吸器科　循環器科　アレルギー科　リウマチ科,,,9" xlink:title="よこまく内科クリニック" transform="ref(svg,13661.9275,-3536.8204)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森耳鼻咽喉科医院,岐阜県大垣市林町７-６７２,アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="森耳鼻咽喉科医院" transform="ref(svg,13662.2696,-3537.3813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤クリニック,岐阜県大垣市林町８-８５-１,内科　循環器科,,,9" xlink:title="近藤クリニック" transform="ref(svg,13662.0793,-3537.3967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たしろクリニック,岐阜県揖斐郡大野町下磯４９８-１,内科　呼吸器科　消化器科　小児科,,,9" xlink:title="たしろクリニック" transform="ref(svg,13662.711,-3543.3379)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若原整形外科,岐阜県揖斐郡大野町黒野１１７-２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="若原整形外科" transform="ref(svg,13662.4922,-3546.7323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小森内科胃腸科,岐阜県揖斐郡大野町大字黒野６４５-１,内科　呼吸器科　消化器科　循環器科　小児科　神経内科　リハビリテーション科　放射線科,,,9" xlink:title="小森内科胃腸科" transform="ref(svg,13663.4744,-3546.9142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大久保医院,岐阜県揖斐郡大野町黒野７３４-５,内科　消化器科　循環器科　小児科　神経内科　皮膚科,,,9" xlink:title="大久保医院" transform="ref(svg,13663.7772,-3546.6688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林医院,岐阜県揖斐郡大野町瀬古２３２,内科　循環器科　小児科　皮膚科　胃腸科,,,9" xlink:title="小林医院" transform="ref(svg,13661.0991,-3547.0066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小森眼科,岐阜県揖斐郡大野町大字中之元１１２４,眼科,,,9" xlink:title="小森眼科" transform="ref(svg,13661.9073,-3546.6701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野町診療所,岐阜県揖斐郡大野町大野８０,内科　小児科,,,9" xlink:title="大野町診療所" transform="ref(svg,13662.8227,-3547.0625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはし耳鼻咽喉科,岐阜県揖斐郡大野町中之元１１２４-５,小児科　アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="たかはし耳鼻咽喉科" transform="ref(svg,13661.9548,-3546.6688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）まほろば診療室,岐阜県揖斐郡大野町南方石ノ上３５６-１,内科　精神科,,,9" xlink:title="（特養）まほろば診療室" transform="ref(svg,13662.0845,-3545.2651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおのクリニック,岐阜県揖斐郡大野町南方二度桜１９１,内科　小児科　外科　皮膚科　こう門科　リハビリテーション科　胃腸内科　整形外科,,,9" xlink:title="おおのクリニック" transform="ref(svg,13662.0854,-3545.2582)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野原クリニック,岐阜県揖斐郡揖斐川町清水１６７３-１,内科　小児科　皮膚科,,,9" xlink:title="野原クリニック" transform="ref(svg,13659.367,-3547.2812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）尚和園診療所,岐阜県揖斐郡揖斐川町清水７７,内科,,,9" xlink:title="（特養）尚和園診療所" transform="ref(svg,13659.7002,-3547.3583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設西濃サンホーム内診療所,岐阜県揖斐郡揖斐川町長良字大門２４-１,内科,,,9" xlink:title="障害者支援施設西濃サンホーム内診療所" transform="ref(svg,13659.45,-3547.4368)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くぼえクリニック皮フ科,岐阜県大垣市北方町５-１-１,皮膚科,,,9" xlink:title="くぼえクリニック皮フ科" transform="ref(svg,13661.7998,-3539.7419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国枝医院,岐阜県揖斐郡大野町黒野５８０,内科　小児科,,,9" xlink:title="国枝医院" transform="ref(svg,13663.5307,-3546.4557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣さくらファミリークリニック,岐阜県大垣市築捨町５-５９-１,内科　小児科　アレルギー科　外科　美容外科　皮膚科　泌尿器科　こう門科,,,9" xlink:title="大垣さくらファミリークリニック" transform="ref(svg,13662.0116,-3533.592)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）パサーダ内診療所,岐阜県大垣市北方町２-７０-１,内科,,,9" xlink:title="（特養）パサーダ内診療所" transform="ref(svg,13661.0506,-3539.6466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩田医院,岐阜県大垣市墨俣町墨俣１１２１-１,内科　循環器科　小児科　放射線科,,,9" xlink:title="岩田医院" transform="ref(svg,13668.2434,-3536.1632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）守田クリニック,岐阜県大垣市林町４-５７-１,心療内科　精神科　神経内科　内科　皮膚科,,,9" xlink:title="（医）守田クリニック" transform="ref(svg,13662.0479,-3536.8666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけもとこどもクリニック,岐阜県大垣市東前３-４-１,小児科,,,9" xlink:title="たけもとこどもクリニック" transform="ref(svg,13663.4024,-3534.8556)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大井内科クリニック,岐阜県大垣市大井２-４５,内科　循環器内科　神経内科　リハビリテーション科,,,9" xlink:title="大井内科クリニック" transform="ref(svg,13663.0882,-3534.8177)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,イビデン（株）大垣診療所,岐阜県大垣市神田町２-１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="イビデン（株）大垣診療所" transform="ref(svg,13660.4807,-3535.9614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とくやま眼科クリニック,岐阜県大垣市小野３-９３-１,アレルギー科　眼科,,,9" xlink:title="とくやま眼科クリニック" transform="ref(svg,13664.329,-3536.734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺内科クリニック,岐阜県大垣市御殿町２-２１,内科　糖尿病内科　消化器内科　循環器内科,,,9" xlink:title="渡辺内科クリニック" transform="ref(svg,13661.4264,-3535.9052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,後藤医院,岐阜県大垣市錦町４１,内科　呼吸器科　消化器科　リウマチ科,,,9" xlink:title="後藤医院" transform="ref(svg,13662.0412,-3536.5416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西濃保健所,岐阜県大垣市江崎町４２２-３,内科　呼吸器科　循環器科　小児科　精神科　産婦人科　放射線科,,,9" xlink:title="西濃保健所" transform="ref(svg,13663.3087,-3535.6371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細川おなかクリニック,岐阜県大垣市世安町２-６８-７,内科　消化器科,,,9" xlink:title="細川おなかクリニック" transform="ref(svg,13661.3172,-3535.163)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ねざさ腎泌尿器科皮膚科,岐阜県大垣市中川町３-８３-１,泌尿器科　皮膚科　腎臓内科,,,9" xlink:title="ねざさ腎泌尿器科皮膚科" transform="ref(svg,13662.1432,-3537.9338)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆり形成内科整形おおの,岐阜県揖斐郡大野町大字大野７５３-１４１,形成外科　内科　整形外科　皮膚科　リハビリテーション科　美容外科,,,9" xlink:title="ゆり形成内科整形おおの" transform="ref(svg,13663.8993,-3548.0311)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ぎふ愛の里診療所,岐阜県揖斐郡大野町大字大野字上城東７４２-１４,形成外科,,,9" xlink:title="ぎふ愛の里診療所" transform="ref(svg,13663.9927,-3547.9948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むらいクリニック,岐阜県大垣市大井２-４４-２,耳鼻いんこう科　アレルギー科,,,9" xlink:title="むらいクリニック" transform="ref(svg,13663.1751,-3534.8039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いかわクリニック,岐阜県大垣市和合新町１-７９-１,心療内科　児童精神科,,,9" xlink:title="いかわクリニック" transform="ref(svg,13665.174,-3537.4102)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックラポール,岐阜県揖斐郡大野町大字大野９２４-１,内科　消化器内科　循環器内科　神経内科　小児科　放射線科　リハビリテーション科　呼吸器内科,,,9" xlink:title="クリニックラポール" transform="ref(svg,13663.5434,-3547.8246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほり眼科,岐阜県大垣市北方町４-９１-１,眼科,,,9" xlink:title="ほり眼科" transform="ref(svg,13661.6624,-3539.3278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やすだクリニック小児科・内科,岐阜県大垣市北切石町３-１-１,小児科　内科,,,9" xlink:title="やすだクリニック小児科・内科" transform="ref(svg,13660.6207,-3535.9578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山中ジェネラルクリニック,岐阜県安八郡安八町森部１８７０-１,救急科　外科　内科　脳神経外科　整形外科　リハビリテーション科,,,9" xlink:title="山中ジェネラルクリニック" transform="ref(svg,13667.6102,-3533.8549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム揖斐川尚和園附属診療所,岐阜県揖斐郡揖斐川町清水７７,内科,,,9" xlink:title="養護老人ホーム揖斐川尚和園附属診療所" transform="ref(svg,13659.7002,-3547.3583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石田内科,岐阜県大垣市旭町２-１-１,内科　循環器内科,,,9" xlink:title="石田内科" transform="ref(svg,13662.5474,-3535.9898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣アイクリニック,岐阜県大垣市三塚町４６３-１,眼科,,,9" xlink:title="大垣アイクリニック" transform="ref(svg,13662.8543,-3536.5359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,外野医院,岐阜県大垣市外野２-１００,眼科,,,9" xlink:title="外野医院" transform="ref(svg,13661.4484,-3533.6703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はぶクリニック,岐阜県大垣市桐ケ崎町５８モアビル２Ｆ,心療内科　精神科,,,9" xlink:title="はぶクリニック" transform="ref(svg,13661.6564,-3536.4731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）すいと大垣診療所,岐阜県大垣市北方町５-２５-１,内科,,,9" xlink:title="（特養）すいと大垣診療所" transform="ref(svg,13661.8881,-3539.5583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックＩＢ,岐阜県揖斐郡揖斐川町長良６５７-１,内科　小児科　外科,,,9" xlink:title="クリニックＩＢ" transform="ref(svg,13658.4604,-3547.4519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大垣競輪場医務室,岐阜県大垣市早苗町１-１,内科　外科,,,9" xlink:title="大垣競輪場医務室" transform="ref(svg,13662.8459,-3536.1079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むかわハートクリニック,岐阜県大垣市寺内町３-５３-１,内科　循環器内科,,,9" xlink:title="むかわハートクリニック" transform="ref(svg,13661.5786,-3535.6093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおがき皮膚科クリニック,岐阜県大垣市赤坂新田１-１３８-１,皮膚科　アレルギー科　美容皮膚科,,,9" xlink:title="おおがき皮膚科クリニック" transform="ref(svg,13658.7484,-3538.606)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小児・アレルギークリニックｉｎＧＯＤＯ,岐阜県安八郡神戸町北一色５８２-２,小児科　アレルギー科,,,9" xlink:title="小児・アレルギークリニックｉｎＧＯＤＯ" transform="ref(svg,13659.5571,-3542.8013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アクア眼科クリニック,岐阜県大垣市林町６-８０-２１,眼科,,,9" xlink:title="アクア眼科クリニック" transform="ref(svg,13661.7971,-3537.0631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みんなのいぶきクリニック,岐阜県大垣市見取町１-８０-１,内科　呼吸器内科　疼痛緩和内科　整形外科,,,9" xlink:title="みんなのいぶきクリニック" transform="ref(svg,13661.3111,-3537.1286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）優・悠・邑和合診療所,岐阜県大垣市和合本町２-１１４-１,内科　精神科,,,9" xlink:title="（特養）優・悠・邑和合診療所" transform="ref(svg,13664.6557,-3537.2772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ライトクリニック,岐阜県大垣市鶴見町藤沢２２６,内科　小児科　形成外科,,,9" xlink:title="ライトクリニック" transform="ref(svg,13663.4489,-3536.0993)" x="0" y="0"/>
+</g>
+</svg>

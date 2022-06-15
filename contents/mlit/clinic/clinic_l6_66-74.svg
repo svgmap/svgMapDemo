@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13640.625 -3796.875 70.3125 70.3125" go:dataArea="13640.625 -3796.875 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,宮丸医院,石川県輪島市門前町道下７-４９,内科　外科　放射線科,,,9" xlink:title="宮丸医院" transform="ref(svg,13674.2219,-3728.8794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮下医院,石川県輪島市三井町長沢６-１２,内科　循環器科　外科,,,9" xlink:title="宮下医院" transform="ref(svg,13690.1847,-3731.3941)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川県能登北部保健福祉センター,石川県輪島市鳳至町畠田１０２-４,不明,,,9" xlink:title="石川県能登北部保健福祉センター" transform="ref(svg,13689.6549,-3739.2045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あての木園医務室,石川県輪島市三井町小泉上野２,内科,,,9" xlink:title="（特養）あての木園医務室" transform="ref(svg,13689.3352,-3740.0042)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生垣医院,石川県鳳珠郡能登町字柳田ロ部１,内科　小児科,,,9" xlink:title="生垣医院" transform="ref(svg,13709.0533,-3737.2356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）青雲会大和医院,石川県輪島市門前町道下７-６,内科　精神科　神経科　胃腸科,,,9" xlink:title="（医）青雲会大和医院" transform="ref(svg,13674.6551,-3728.9937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,嘉門内科クリニック,石川県輪島市杉平町矢田７-１,内科,,,9" xlink:title="嘉門内科クリニック" transform="ref(svg,13690.8547,-3738.8141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伊藤医院,石川県輪島市水守町中ノ瀬４-８,内科　小児科,,,9" xlink:title="（医）伊藤医院" transform="ref(svg,13689.0811,-3738.7791)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山岸医院,石川県輪島市門前町本市１１-８-１,内科　胃腸科　外科　整形外科,,,9" xlink:title="山岸医院" transform="ref(svg,13678.7357,-3729.2681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川勤労者医療協会輪島診療所,石川県輪島市堀町１字１３-２,内科　リウマチ科　小児科　整形外科　リハビリテーション科,,,9" xlink:title="石川勤労者医療協会輪島診療所" transform="ref(svg,13689.511,-3738.9332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桶本眼科,石川県輪島市釜屋谷町１-２-２,眼科,,,9" xlink:title="（医）桶本眼科" transform="ref(svg,13689.2315,-3738.8674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こすもす附属診療所,石川県鳳珠郡能登町字五郎左エ門分藤１７,内科,,,9" xlink:title="（特養）こすもす附属診療所" transform="ref(svg,13708.8979,-3734.6568)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホームふるさと能登附属診療所,石川県輪島市気勝平町１-２７０,内科,,,9" xlink:title="養護老人ホームふるさと能登附属診療所" transform="ref(svg,13689.3797,-3738.1435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）フナキ舩木クリニック,石川県輪島市釜屋谷町３字５,内科　胃腸科　外科　整形外科　脳神経外科,,,9" xlink:title="（医）フナキ舩木クリニック" transform="ref(svg,13689.3499,-3739.2154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青山彩光苑穴水ライフサポートセンター,石川県鳳珠郡穴水町字麦ヶ浦１５-３９-１２,内科,,,9" xlink:title="青山彩光苑穴水ライフサポートセンター" transform="ref(svg,13692.1277,-3727.2512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,能登町瑞穂診療所,石川県鳳珠郡能登町字瑞穂１０字１６６,内科　外科,,,9" xlink:title="能登町瑞穂診療所" transform="ref(svg,13704.0486,-3728.0451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆきわりそう附属診療所,石川県輪島市門前町深田２２-４２,内科,,,9" xlink:title="（特養）ゆきわりそう附属診療所" transform="ref(svg,13678.0631,-3728.9139)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みやび附属診療所,石川県輪島市町野町寺地１０２７,内科,,,9" xlink:title="（特養）みやび附属診療所" transform="ref(svg,13708.7098,-3743.4945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市立輪島病院舳倉診療所,石川県輪島市海士町所属出邑山１-４,内科,,,9" xlink:title="市立輪島病院舳倉診療所" transform="ref(svg,13689.7801,-3740.1531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市立輪島病院西保診療所,石川県輪島市大沢町ホサソ２０１,内科　外科　整形外科,,,9" xlink:title="市立輪島病院西保診療所" transform="ref(svg,13680.2769,-3737.5168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,輪島市国民健康保険門前診療所,石川県輪島市門前町深田２１-１７-１,眼科,,,9" xlink:title="輪島市国民健康保険門前診療所" transform="ref(svg,13677.9428,-3728.8305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）董仙会恵寿鳩ヶ丘クリニック,石川県鳳珠郡穴水町字麦ヶ浦１５、３９-８,内科　胃腸科　リハビリテーション科,,,9" xlink:title="（医）董仙会恵寿鳩ヶ丘クリニック" transform="ref(svg,13692.0672,-3727.4218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）福祉の杜付属診療所,石川県輪島市山岸町い２６-２,内科,,,9" xlink:title="（特養）福祉の杜付属診療所" transform="ref(svg,13690.7268,-3738.3052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,粟倉医院,石川県輪島市町野町粟蔵ホ部１９甲,内科　泌尿器科,,,9" xlink:title="粟倉医院" transform="ref(svg,13709.1164,-3742.3338)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市立輪島病院南志見診療所,石川県輪島市小田屋町ロ部４,内科　外科　整形外科,,,9" xlink:title="市立輪島病院南志見診療所" transform="ref(svg,13703.044,-3743.2126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）輪島荘医務室,石川県輪島市光浦町４９字２１,内科,,,9" xlink:title="（特養）輪島荘医務室" transform="ref(svg,13689.307,-3739.9907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）第２ゆきわりそう附属診療所,石川県輪島市門前町深田ろ６,内科,,,9" xlink:title="地域密着型（特養）第２ゆきわりそう附属診療所" transform="ref(svg,13678.0595,-3728.918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市立輪島病院七浦診療所,石川県輪島市門前町鵜山１２-５０,内科,,,9" xlink:title="市立輪島病院七浦診療所" transform="ref(svg,13675.2941,-3734.5382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川県精育園医務室,石川県鳳珠郡穴水町七海６字５０,内科　精神科,,,9" xlink:title="石川県精育園医務室" transform="ref(svg,13691.7541,-3727.3807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永井医院,石川県輪島市鳳至町下町８８,内科　小児科,,,9" xlink:title="永井医院" transform="ref(svg,13689.866,-3739.7414)" x="0" y="0"/>
+</g>
+</svg>

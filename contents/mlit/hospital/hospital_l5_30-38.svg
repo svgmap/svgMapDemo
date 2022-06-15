@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13218.75 -3656.25 140.625 140.625" go:dataArea="13218.75 -3656.25 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,日野病院,鳥取県日野郡日野町野田３３２,内科　血液内科　胃腸科　糖尿病　呼吸器科　心療内科　総合診療内科　神経内科　精神科　小児科　外科　呼吸器外科　心臓血管外科　整形外科　眼科　耳鼻咽喉科　皮膚科　泌尿器科　婦人科　麻酔科　アレルギー科　リハビリテーション科,,,6" xlink:title="日野病院" transform="ref(svg,13343.6234,-3523.6369)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,日南町国民健康保険日南病院,鳥取県日野郡日南町生山５１１-７,内科　小児科　外科　整形外科　眼科　耳鼻咽喉科,,,3" xlink:title="日南町国民健康保険日南病院" transform="ref(svg,13331.9954,-3516.5951)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国立大学法人鳥取大学医学部附属病院,鳥取県米子市西町３６-１,循環器内科　内分泌代謝内科　消化器内科　腎臓内科　呼吸器内科　膠原病内科　アレルギー科　精神科　小児科　消化器外科　小児外科　心臓血管外科　乳腺・内分泌外科　整形外科　リウマチ科　皮膚科　形成外科　泌尿器科　眼科　耳鼻咽頭科　頭頸部外科　放射線科,放射線治療科　産婦人科　麻酔科　歯科口腔外科　神経内科　脳神経外科　脳神経小児科　救急科　胸部外科　血液内科　薬物療法内科　内科,,1" xlink:title="国立大学法人鳥取大学医学部附属病院" transform="ref(svg,13332.4502,-3542.9122)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構米子医療センター,鳥取県米子市車尾４-１７-１,内科　呼吸器内科　消化器内科　循環器内科　心療内科　血液腫瘍内科　神経内科　放射線科　小児科　外科　胸部・血管外科　整形外科　泌尿器科　婦人科　眼科　耳鼻咽喉科　歯科口腔外科　糖尿病・代謝内科　腎臓内科,,,1" xlink:title="（独）国立病院機構米子医療センター" transform="ref(svg,13336.1812,-3543.5673)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取県立総合療育センター,鳥取県米子市上福原７-１３-３,精神科　小児科　整形外科　耳鼻咽喉科　皮膚科　リハビリテーション科　歯科,,,2" xlink:title="鳥取県立総合療育センター" transform="ref(svg,13335.3634,-3545.6262)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,山陰労災病院,鳥取県米子市皆生新田１-８-１,内科　消化器内科　循環器科　呼吸器内科　神経内科　精神科　外科　心臓血管外科　脳神経外科　整形外科　眼科　耳鼻咽喉科　皮膚科　泌尿器科　放射線科　麻酔科　リハビリテーション科　歯科口腔外科,,,1" xlink:title="山陰労災病院" transform="ref(svg,13336.4653,-3545.1649)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）同愛会博愛病院,鳥取県米子市両三柳１８８０,内科　消化器科　胃腸科　循環器科　呼吸器科　神経内科　小児科　外科　胸部外科　血管外科　整形外科　眼科　皮膚科　泌尿器科　産婦人科　放射線科　麻酔科　肛門科　リハビリテーション科,,,4" xlink:title="（医）同愛会博愛病院" transform="ref(svg,13331.9932,-3545.5254)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）育生会高島病院,鳥取県米子市西町６,内科　消化器科　呼吸器科　神経内科　外科　呼吸器外科　脳神経外科　整形外科　麻酔科　肛門科　リハビリテーション科,,,4" xlink:title="（医）育生会高島病院" transform="ref(svg,13332.8055,-3543.021)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,養和病院,鳥取県米子市上後藤３-５-１,内科　神経内科　精神科　リハビリテーション科,,,4" xlink:title="養和病院" transform="ref(svg,13331.8541,-3544.8129)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）勤誠会米子病院,鳥取県米子市日原３１９-１,心療内科　神経内科　精神科,,,4" xlink:title="（医）勤誠会米子病院" transform="ref(svg,13335.7066,-3540.9883)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,皆生病院,鳥取県米子市新開４-５-１,精神科,,,5" xlink:title="皆生病院" transform="ref(svg,13334.3922,-3545.9588)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）友紘会皆生温泉病院,鳥取県米子市皆生新田３-７-８,内科　脳神経外科　整形外科　リハビリテーション科,,,4" xlink:title="（医）友紘会皆生温泉病院" transform="ref(svg,13336.815,-3545.4729)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,新田外科胃腸科病院,鳥取県米子市中島２-１-４６,内科　胃腸科　循環器科　呼吸器科　心療内科　外科　整形外科　リハビリテーション科,,,4" xlink:title="新田外科胃腸科病院" transform="ref(svg,13334.9513,-3543.3709)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,錦海リハビリテーション病院,鳥取県米子市錦海町３-４-５,リハビリテーション科,,,6" xlink:title="錦海リハビリテーション病院" transform="ref(svg,13331.9893,-3541.8692)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鳥取県済生会境港総合病院,鳥取県境港市米川町４４,内科　神経内科　小児科　外科　脳神経外科　整形外科　眼科　耳鼻咽喉科　泌尿器科　婦人科　放射線科　麻酔科,,,2" xlink:title="鳥取県済生会境港総合病院" transform="ref(svg,13322.2215,-3553.9672)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,元町病院,鳥取県境港市上道町１８９５-１,内科　整形外科　皮膚科　リウマチ科　リハビリテーション科,,,4" xlink:title="元町病院" transform="ref(svg,13323.582,-3554.2387)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南部町国民健康保険西伯病院,鳥取県西伯郡南部町倭３９７,内科　神経科　精神科　小児科　外科　整形外科　耳鼻咽喉科　婦人科　麻酔科　リハビリテーション科　歯科,,,2" xlink:title="南部町国民健康保険西伯病院" transform="ref(svg,13332.558,-3534.8214)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）仁厚会米子東病院,鳥取県米子市淀江町佐陀２１６９,内科　循環器科　整形外科　リハビリテーション科,,,4" xlink:title="（医）仁厚会米子東病院" transform="ref(svg,13339.4454,-3545.2484)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大山リハビリテーション病院,鳥取県西伯郡伯耆町大原９２７-１,内科　呼吸器科　神経内科　精神科　リハビリテーション科,,,5" xlink:title="大山リハビリテーション病院" transform="ref(svg,13345.6477,-3538.5379)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,伯耆中央病院,鳥取県西伯郡伯耆町長山１５２-１,内科　小児科　外科　整形外科　眼科　耳鼻咽喉科　皮膚科　リウマチ科　リハビリテーション科,,,4" xlink:title="伯耆中央病院" transform="ref(svg,13343.4093,-3535.1644)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構松江医療センター,島根県松江市上乃木５-８-３１,内科　呼吸器内科　循環器内科　消化器内科　神経内科　アレルギー科　小児科　外科　呼吸器外科　整形外科　リハビリテーション科　放射線科　麻酔科　歯科,,,1" xlink:title="（独）国立病院機構松江医療センター" transform="ref(svg,13306.5089,-3545.0253)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,松江市立病院,島根県松江市乃白町３２-１,内科　呼吸器内科　循環器内科　消化器内科　神経内科　皮膚科　小児科　精神科　外科　心臓血管外科　泌尿器科　脳神経外科　整形外科　形成外科　眼科　耳鼻いんこう科　産婦人科　リハビリテーション科　放射線科　麻酔科　病理診断科　歯科口腔外科,,,2" xlink:title="松江市立病院" transform="ref(svg,13305.5551,-3543.8672)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,総合病院松江生協病院,島根県松江市西津田８-８-８,内科　呼吸器内科　循環器内科　消化器内科　神経内科　皮膚科　小児科　外科　泌尿器科　肛門外科　脳神経外科　整形外科　眼科　耳鼻いんこう科　産婦人科　リハビリテーション科　放射線科　麻酔科,,,6" xlink:title="総合病院松江生協病院" transform="ref(svg,13306.7643,-3545.4236)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,東部島根医療福祉センター,島根県松江市東生馬町１５-１,内科　皮膚科　小児科　脳神経外科　整形外科　耳鼻いんこう科　リハビリテーション科　歯科,,,6" xlink:title="東部島根医療福祉センター" transform="ref(svg,13303.1133,-3549.4457)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,松江青葉病院,島根県松江市上乃木５-１-８,内科　精神科　神経科,,,4" xlink:title="松江青葉病院" transform="ref(svg,13306.1264,-3545.3182)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,松江記念病院,島根県松江市上乃木３-４-１,内科　呼吸器内科　循環器内科　消化器内科　神経内科　皮膚科　小児科　外科　消化器外科(胃腸外科)　肛門外科　整形外科　婦人科　リハビリテーション科　放射線科　麻酔科　歯科口腔外科,,,4" xlink:title="松江記念病院" transform="ref(svg,13305.9055,-3544.848)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,松江生協リハビリテーション病院,島根県松江市佐草町４５６-１,内科　神経内科　整形外科　リハビリテーション科　放射線科,,,6" xlink:title="松江生協リハビリテーション病院" transform="ref(svg,13307.2189,-3543.1672)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,松江赤十字病院,島根県松江市母衣町２００,内科　呼吸器内科　循環器内科　消化器内科　腎臓内科　神経内科　糖尿病内科（代謝内科）　血液内科　皮膚科　小児科　精神科　外科　呼吸器外科　心臓血管外科　乳腺外科　泌尿器科　脳神経外科　整形外科　形成外科　眼科　耳鼻いんこう科　産婦人科,リハビリテーション科　放射線科　麻酔科　病理診断科　歯科口腔外科,,2" xlink:title="松江赤十字病院" transform="ref(svg,13305.7144,-3547.0531)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）仁風会八雲病院,島根県松江市大庭町１４６０-３,神経内科　精神科　心療内科,,,4" xlink:title="（医）仁風会八雲病院" transform="ref(svg,13308.3946,-3543.7713)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿島病院,島根県松江市鹿島町名分２４３-１,内科　呼吸器内科　循環器内科　消化器内科　神経内科　整形外科　リハビリテーション科　放射線科,,,4" xlink:title="鹿島病院" transform="ref(svg,13300.6817,-3552.6277)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）地域医療機能推進機構玉造病院,島根県松江市玉湯町湯町１-２,内科　循環器内科　消化器内科　神経内科　リウマチ科　脳神経外科　整形外科　形成外科　リハビリテーション科　麻酔科　歯科　歯科口腔外科,,,1" xlink:title="（独）地域医療機能推進機構玉造病院" transform="ref(svg,13301.8036,-3543.0929)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）同仁会こなんホスピタル,島根県松江市宍道町白石１２９-１,内科　神経内科　精神科　心療内科,,,4" xlink:title="（医）同仁会こなんホスピタル" transform="ref(svg,13292.5737,-3541.4393)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,日立記念病院,島根県安来市安来町１２７８-５,内科　外科　整形外科　小児外科　放射線科　歯科,,,4" xlink:title="日立記念病院" transform="ref(svg,13324.8373,-3542.3593)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,安来市立病院,島根県安来市広瀬町広瀬１９３１,内科　神経内科　皮膚科　小児科　外科　泌尿器科　整形外科　形成外科　眼科　耳鼻いんこう科　婦人科　リハビリテーション科　放射線科　麻酔科,,,2" xlink:title="安来市立病院" transform="ref(svg,13317.7204,-3537.0036)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,安来市医師会病院,島根県安来市伯太町安田１７００,内科　外科,,,6" xlink:title="安来市医師会病院" transform="ref(svg,13327.371,-3537.1926)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,安来第一病院,島根県安来市安来町８９９-１,内科　呼吸器内科　循環器内科　消化器内科　神経内科　皮膚科　小児科　精神科　心療内科　外科　呼吸器外科　乳腺外科　泌尿器科　脳神経外科　整形外科　リハビリテーション科,,,4" xlink:title="安来第一病院" transform="ref(svg,13325.1968,-3543.2938)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,雲南市立病院,島根県雲南市大東町飯田９６-１,内科　皮膚科　小児科　精神科　外科　泌尿器科　脳神経外科　整形外科　眼科　耳鼻いんこう科　産婦人科　リハビリテーション科　放射線科　麻酔科　歯科口腔外科,,,2" xlink:title="雲南市立病院" transform="ref(svg,13295.9941,-3532.374)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,奥出雲コスモ病院,島根県雲南市木次町里方１２７５-２,内科　神経内科　精神科,,,4" xlink:title="奥出雲コスモ病院" transform="ref(svg,13290.6995,-3530.3661)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,平成記念病院,島根県雲南市三刀屋町三刀屋１２９４-１,内科　呼吸器内科　循環器内科　消化器内科　腎臓内科　神経内科　皮膚科　外科　泌尿器科　整形外科　眼科　耳鼻いんこう科　婦人科　リハビリテーション科　放射線科,,,4" xlink:title="平成記念病院" transform="ref(svg,13288.4783,-3529.2516)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,町立奥出雲病院,島根県仁多郡奥出雲町三成１６２２-１,内科　皮膚科　小児科　外科　泌尿器科　整形外科　眼科　耳鼻いんこう科　産婦人科　リハビリテーション科　麻酔科,,,2" xlink:title="町立奥出雲病院" transform="ref(svg,13299.7117,-3519.61)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,出雲市民病院,島根県出雲市塩冶町１５３６-１,内科　循環器内科　消化器内科　神経内科　外科　泌尿器科　整形外科　眼科　耳鼻いんこう科　リハビリテーション科　放射線科　麻酔科,,,6" xlink:title="出雲市民病院" transform="ref(svg,13275.146,-3536.2447)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）耕雲堂小林病院,島根県出雲市今市町５１０,内科,,,4" xlink:title="（医）耕雲堂小林病院" transform="ref(svg,13276.2397,-3536.5142)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）同仁会海星病院,島根県出雲市大津町３６５６-１,内科　神経内科　精神科,,,4" xlink:title="（医）同仁会海星病院" transform="ref(svg,13277.3308,-3536.0936)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,島根県立中央病院,島根県出雲市姫原４-１-１,内科　呼吸器内科　循環器内科　消化器内科　神経内科　皮膚科　アレルギー科　小児科　精神科　外科　呼吸器外科　心臓血管外科　泌尿器科　脳神経外科　整形外科　形成外科　眼科　耳鼻いんこう科　小児外科　産婦人科　リハビリテーション科　放射線科　麻酔科　歯科,,,2" xlink:title="島根県立中央病院" transform="ref(svg,13275.4871,-3537.4979)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,島根大学医学部附属病院,島根県出雲市塩冶町８９-１,呼吸器内科　循環器内科　消化器内科　腎臓内科　神経内科　糖尿病内科（代謝内科）　血液内科　皮膚科　小児科　精神科　呼吸器外科　心臓血管外科　乳腺外科　消化器外科(胃腸外科)　泌尿器科　脳神経外科　整形外科　眼科　耳鼻いんこう科　小児外科　産科　婦人科,放射線科　麻酔科　病理診断科　臨床検査科　歯科口腔外科,,1" xlink:title="島根大学医学部附属病院" transform="ref(svg,13275.281,-3534.7696)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）壽生会寿生病院,島根県出雲市上塩冶町２８６２-１,内科,,,4" xlink:title="（医）壽生会寿生病院" transform="ref(svg,13277.8572,-3535.4344)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,出雲市民リハビリテーション病院,島根県出雲市知井宮町２３８,内科　小児科　リハビリテーション科,,,6" xlink:title="出雲市民リハビリテーション病院" transform="ref(svg,13272.5371,-3534.3745)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,島根県立こころの医療センター,島根県出雲市下古志町１５７４-４,神経内科　精神科　心療内科,,,2" xlink:title="島根県立こころの医療センター" transform="ref(svg,13273.4784,-3533.3824)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,出雲市立総合医療センター,島根県出雲市灘分町６１３,内科　循環器内科　消化器内科　神経内科　皮膚科　小児科　精神科　外科　泌尿器科　脳神経外科　整形外科　眼科　耳鼻いんこう科　産婦人科　リハビリテーション科　放射線科,,,2" xlink:title="出雲市立総合医療センター" transform="ref(svg,13282.3871,-3542.9789)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,斐川生協病院,島根県出雲市斐川町直江４８８３-１,内科　呼吸器内科　循環器内科　消化器内科　外科　整形外科　眼科　リハビリテーション科,,,6" xlink:title="斐川生協病院" transform="ref(svg,13282.3403,-3539.2772)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,出雲徳洲会病院,島根県出雲市斐川町直江３９６４-１,内科　呼吸器内科　循環器内科　神経内科　皮膚科　外科　心臓血管外科　泌尿器科　脳神経外科　整形外科　形成外科　リハビリテーション科　放射線科　麻酔科,,,4" xlink:title="出雲徳洲会病院" transform="ref(svg,13282.2014,-3538.1553)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大田市立病院,島根県大田市大田町吉永１４２８-３,内科　呼吸器内科　循環器内科　消化器内科　神経内科　皮膚科　小児科　精神科　外科　呼吸器外科　心臓血管外科　泌尿器科　脳神経外科　整形外科　眼科　耳鼻いんこう科　産婦人科　リハビリテーション科　放射線科　麻酔科,,,2" xlink:title="大田市立病院" transform="ref(svg,13250.2537,-3518.0939)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）恵和会石東病院,島根県大田市大田町大田イ８６０-３,内科　精神科,,,4" xlink:title="（医）恵和会石東病院" transform="ref(svg,13250.6132,-3519.9701)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,隠岐広域連合立隠岐病院,島根県隠岐郡隠岐の島町城北町３５５,内科　腎臓内科　神経内科　皮膚科　小児科　精神科　外科　泌尿器科　整形外科　眼科　耳鼻いんこう科　産婦人科　麻酔科　救急科　歯科口腔外科,,,6" xlink:title="隠岐広域連合立隠岐病院" transform="ref(svg,13331.8897,-3621.5696)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,隠岐広域連合立隠岐島前病院,島根県隠岐郡西ノ島町大字美田２０７１-１,内科　小児科　精神科　外科　整形外科　眼科　耳鼻いんこう科　産婦人科,,,6" xlink:title="隠岐広域連合立隠岐島前病院" transform="ref(svg,13303.6309,-3610.6348)" x="0" y="0"/>
+</g>
+</svg>

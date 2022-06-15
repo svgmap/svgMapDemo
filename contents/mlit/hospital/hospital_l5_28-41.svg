@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12937.5 -3234.375 140.625 140.625" go:dataArea="12937.5 -3234.375 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,くまもと芦北療育医療センター,熊本県葦北郡芦北町芦北２８１３,内科　小児科　歯科,,,6" xlink:title="くまもと芦北療育医療センター" transform="ref(svg,13049.6828,-3229.7276)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,溝部病院,熊本県葦北郡芦北町湯浦４０３-１,内科　消化器(内)科　リハビリテーション科,,,4" xlink:title="溝部病院" transform="ref(svg,13050.3794,-3226.8772)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）弘翔会井上病院,熊本県芦北郡芦北町佐敷２８０-１,内科　胃腸科　小児科　皮膚科,,,4" xlink:title="（医）弘翔会井上病院" transform="ref(svg,13050.5876,-3230.2772)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,白梅病院,熊本県水俣市浜４０８９-１,内科　リハビリテーション科,,,4" xlink:title="白梅病院" transform="ref(svg,13041.3414,-3223.025)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,水俣協立病院,熊本県水俣市桜井町２-２-１２,内科　呼吸器(内)科　消化器(内)科　循環器(内)科　精神科　神経内科　リハビリテーション科　放射線科,,,4" xlink:title="水俣協立病院" transform="ref(svg,13039.5859,-3220.5766)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,水俣病院,熊本県水俣市浜４０５１,精神科,,,4" xlink:title="水俣病院" transform="ref(svg,13039.5711,-3222.6148)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,渕上病院,熊本県水俣市塩浜町２-１９,内科　胃腸科　循環器(内)科　外科　整形外科　リハビリテーション科,,,4" xlink:title="渕上病院" transform="ref(svg,13039.4396,-3221.2844)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,岡部病院,熊本県水俣市桜井町３-３-３,内科　外科　整形外科　皮膚科　ひ尿器科　こう門科　麻酔科,,,4" xlink:title="岡部病院" transform="ref(svg,13039.8489,-3220.75)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,みずほ病院,熊本県水俣市袋７０５-１４,精神科　神経科　心療内科,,,4" xlink:title="みずほ病院" transform="ref(svg,13037.6882,-3218.7493)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国保水俣市立総合医療センター,熊本県水俣市天神町１-２-１,小児科　神経内科　外科　整形外科　脳神経外科　産婦人科　眼科　耳鼻いんこう科　皮膚科　ひ尿器科　リハビリテーション科　放射線科　麻酔科　歯科口腔外科　呼吸器内科　消化器内科　循環器内科　代謝内科,,,2" xlink:title="国保水俣市立総合医療センター" transform="ref(svg,13040.5756,-3221.0059)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,水俣市立明水園,熊本県水俣市浜４０７６,内科,,,6" xlink:title="水俣市立明水園" transform="ref(svg,13040.9363,-3222.9927)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,人吉医療センター,熊本県人吉市老神町３５,内科　小児科　神経内科　外科　整形外科　脳神経外科　呼吸器外科　産婦人科　眼科　耳鼻いんこう科　皮膚科　ひ尿器科　リハビリテーション科　放射線科　麻酔科　歯科口腔外科　呼吸器内科　消化器内科　循環器内科　代謝内分泌内科　血管外科,,,1" xlink:title="人吉医療センター" transform="ref(svg,13075.9002,-3220.9824)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,光生病院,熊本県人吉市下原田町字西門１１２５-２,精神科　神経科,,,4" xlink:title="光生病院" transform="ref(svg,13072.2256,-3223.0518)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）外山胃腸病院,熊本県人吉市南泉田町１,内科　胃腸科　外科　整形外科　形成外科　こう門科　リハビリテーション科　麻酔科,,,4" xlink:title="（医）外山胃腸病院" transform="ref(svg,13076.071,-3221.7845)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,堤病院,熊本県人吉市下林町２３２,内科　循環器(内)科　小児科　リハビリテーション科　放射線科,,,4" xlink:title="堤病院" transform="ref(svg,13073.5592,-3221.7898)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,手塚病院,熊本県人吉市上青井町１６１,内科　胃腸科　外科　整形外科　皮膚ひ尿器科,,,4" xlink:title="手塚病院" transform="ref(svg,13075.5072,-3221.2523)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,愛生会外山病院,熊本県人吉市南泉田町８９,内科　呼吸器(内)科　消化器(内)科　胃腸科　循環器(内)科　リハビリテーション科　放射線科,,,4" xlink:title="愛生会外山病院" transform="ref(svg,13076.2691,-3221.6921)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）蘇春堂球磨病院,熊本県人吉市上青井町１７６,内科　消化器(内)科　小児科　外科　整形外科　小児外科　耳鼻いんこう科　ひ尿器科　リハビリテーション科,,,4" xlink:title="（医）蘇春堂球磨病院" transform="ref(svg,13075.6519,-3221.3806)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）蘇春堂人吉中央温泉病院,熊本県人吉市上青井町１７０-１,内科　整形外科　婦人科　皮膚ひ尿器科　リハビリテーション科,,,4" xlink:title="（医）蘇春堂人吉中央温泉病院" transform="ref(svg,13075.6768,-3221.3325)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,万江病院,熊本県人吉市瓦屋町字典子１７１８-１,内科　呼吸器(内)科　消化器(内)科　循環器(内)科　リハビリテーション科,,,4" xlink:title="万江病院" transform="ref(svg,13075.6968,-3222.4089)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,吉田病院,熊本県人吉市下城本町１５０１,精神科　神経科,,,4" xlink:title="吉田病院" transform="ref(svg,13074.1549,-3221.5686)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,人吉リハビリテーション病院,熊本県人吉市下新町３５９,内科　呼吸器(内)科　消化器(内)科　循環器(内)科　リハビリテーション科　放射線科,,,4" xlink:title="人吉リハビリテーション病院" transform="ref(svg,13076.9106,-3221.5007)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国民健康保険天草市立河浦病院,熊本県天草市河浦町白木河内２２３-１１,内科　小児科　外科　整形外科　リハビリテーション科,,,2" xlink:title="国民健康保険天草市立河浦病院" transform="ref(svg,13008.2406,-3231.7117)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,福本病院,熊本県天草市牛深町１５２２-４６,内科　胃腸科　循環器(内)科　神経内科　整形外科　眼科　リハビリテーション科,,,4" xlink:title="福本病院" transform="ref(svg,13003.0318,-3220.0492)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,天草市立牛深市民病院,熊本県天草市牛深町３０５０,内科　小児科　外科　整形外科　産婦人科　眼科　耳鼻いんこう科,,,2" xlink:title="天草市立牛深市民病院" transform="ref(svg,13001.704,-3219.4952)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,牛深保養院,熊本県天草市二浦町亀浦３１９８,精神科,,,4" xlink:title="牛深保養院" transform="ref(svg,13002.5142,-3226.2701)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）芳徳会京町共立病院,宮崎県えびの市大字向江５０８,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　腎臓内科　糖尿病内科（代謝内科）　リハビリテーション科　放射線科,,,4" xlink:title="（医）芳徳会京町共立病院" transform="ref(svg,13077.0294,-3204.7645)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,花牟禮病院,鹿児島県いちき串木野市元町１９０,内科　消化器科　放射線科,,,4" xlink:title="花牟禮病院" transform="ref(svg,13026.6541,-3171.9704)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,金子病院,鹿児島県いちき串木野市照島６００２,内科　呼吸器科　胃腸科　外科　肛門科　リハビリテーション科　放射線科,,,4" xlink:title="金子病院" transform="ref(svg,13027.7986,-3170.7211)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南洲整形外科病院,鹿児島県いちき串木野市別府３９９４-５,リウマチ科　整形外科　リハビリテーション科　麻酔科,,,4" xlink:title="南洲整形外科病院" transform="ref(svg,13028.332,-3170.2733)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,丸田病院,鹿児島県いちき串木野市旭町８３,内科　胃腸科　リハビリテーション科,,,4" xlink:title="丸田病院" transform="ref(svg,13026.7643,-3171.9204)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,いちき串木野市医師会立脳神経外科センター,鹿児島県いちき串木野市生福５３９１-３,脳神経外科　リハビリテーション科,,,6" xlink:title="いちき串木野市医師会立脳神経外科センター" transform="ref(svg,13030.1714,-3172.0623)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,みなと病院,鹿児島県いちき串木野市湊町１-２０８,心療内科　精神科　神経科,,,4" xlink:title="みなと病院" transform="ref(svg,13029.0893,-3169.2414)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ゆのもと記念病院,鹿児島県日置市東市来町湯田３６１４,内科　神経内科　呼吸器科　消化器科　循環器科　リウマチ科　小児歯科　歯科口腔外科　麻酔科　整形外科　眼科　耳鼻いんこう科　リハビリテーション科　放射線科　歯科,,,4" xlink:title="ゆのもと記念病院" transform="ref(svg,13033.6907,-3167.3094)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,博悠会温泉病院,鹿児島県日置市東市来町湯田４６４８,内科　外科　婦人科　リハビリテーション科　麻酔科,,,4" xlink:title="博悠会温泉病院" transform="ref(svg,13034.8756,-3167.5341)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,はやしだ整形外科病院,鹿児島県日置市伊集院町下谷口２４２３,整形外科　リハビリテーション科　麻酔科,,,5" xlink:title="はやしだ整形外科病院" transform="ref(svg,13040.4304,-3162.0093)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島こども病院,鹿児島県日置市伊集院町妙円寺２-２０００-６６９,小児科,,,4" xlink:title="鹿児島こども病院" transform="ref(svg,13038.6803,-3164.2334)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,伊集院病院,鹿児島県日置市伊集院町徳重１５６,内科　精神科　神経科　呼吸器科　消化器科,,,4" xlink:title="伊集院病院" transform="ref(svg,13039.8023,-3163.342)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,守屋病院,鹿児島県日置市伊集院町徳重３１,内科　外科　整形外科　リハビリテーション科　消化器内科,,,4" xlink:title="守屋病院" transform="ref(svg,13040.021,-3163.08)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,本庄病院,鹿児島県日置市伊集院町下谷口１９４２,内科　消化器科　外科　放射線科,,,4" xlink:title="本庄病院" transform="ref(svg,13039.7569,-3162.7159)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,外科馬場病院,鹿児島県日置市吹上町湯之浦２３７８,外科　内科　循環器科　消化器科　神経内科　整形外科　脳神経外科　リウマチ科　リハビリテーション科　放射線科　麻酔科,,,4" xlink:title="外科馬場病院" transform="ref(svg,13035.9162,-3150.3407)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,湯田内科病院,鹿児島県日置市東市来町湯田２９９４,内科　神経内科　皮膚科　リハビリテーション科　整形外科　呼吸器内科　血液内科,,,4" xlink:title="湯田内科病院" transform="ref(svg,13033.1054,-3167.2408)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,今林整形外科病院,鹿児島県指宿市十町３５２-２,リウマチ科　整形外科　リハビリテーション科　麻酔科,,,4" xlink:title="今林整形外科病院" transform="ref(svg,13063.3213,-3125.4146)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,赤崎病院,鹿児島県指宿市開聞仙田２３０７,内科　精神科,,,4" xlink:title="赤崎病院" transform="ref(svg,13054.9054,-3121.0944)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,阿多病院,鹿児島県南さつま市金峰町花瀬１９２９,内科　精神科　神経科　消化器科　放射線科,,,4" xlink:title="阿多病院" transform="ref(svg,13033.7695,-3143.1701)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,有馬病院,鹿児島県南さつま市加世田地頭所５７０,内科　神経内科　胃腸科　リウマチ科　外科　整形外科　リハビリテーション科,,,4" xlink:title="有馬病院" transform="ref(svg,13032.1343,-3142.2819)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,伊藤記念病院,鹿児島県指宿市東方３６７,内科　神経内科　循環器科　皮膚泌尿器科　リハビリテーション科,,,4" xlink:title="伊藤記念病院" transform="ref(svg,13062.5529,-3124.581)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,指宿温泉病院,鹿児島県指宿市西方１０５０,内科　神経内科　リハビリテーション科,,,4" xlink:title="指宿温泉病院" transform="ref(svg,13062.3837,-3126.0633)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,指宿浩然会病院,鹿児島県指宿市十町１１４５,内科　消化器内科　循環器内科　リハビリテーション科　神経内科　漢方内科　呼吸器内科,,,4" xlink:title="指宿浩然会病院" transform="ref(svg,13063.8999,-3124.9149)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,指宿さがら病院,鹿児島県指宿市湯の浜１-１１-２９,内科　神経内科　呼吸器内科　消化器外科　外科　肛門科　リハビリテーション科　放射線科,,,4" xlink:title="指宿さがら病院" transform="ref(svg,13064.4187,-3123.6213)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,指宿竹元病院,鹿児島県指宿市東方７５３１,内科　心療内科　精神科　リハビリテーション科,,,4" xlink:title="指宿竹元病院" transform="ref(svg,13062.186,-3125.6574)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ウエルフェア九州病院,鹿児島県枕崎市白沢北町１９１,内科　心療内科　精神科,,,4" xlink:title="ウエルフェア九州病院" transform="ref(svg,13035.166,-3125.9252)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,尾辻病院,鹿児島県枕崎市住吉町６０,胃腸科　外科　整形外科　小児外科　リハビリテーション科　放射線科　麻酔科,,,4" xlink:title="尾辻病院" transform="ref(svg,13029.6784,-3127.1793)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,小原病院,鹿児島県枕崎市折口町１０９,内科　外科　整形外科　脳神経外科　肛門科　婦人科　呼吸器外科　腎臓内科　人工透析内科　神経内科　糖尿病内科　泌尿器科　リハビリテーション科　放射線科　循環器内科（透）　消化器外科　麻酔科　循環器外科,,,4" xlink:title="小原病院" transform="ref(svg,13029.5907,-3126.9532)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,加世田病院,鹿児島県南さつま市加世田唐仁原１１８１,内科　心療内科　外科　脳神経外科　精神科　皮膚科　リハビリテーション科　神経科　老年内科,,,6" xlink:title="加世田病院" transform="ref(svg,13031.1188,-3142.0378)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,川辺生協病院,鹿児島県南九州市川辺町両添１１１８,内科　呼吸器科　消化器科　循環器科　小児科,,,6" xlink:title="川辺生協病院" transform="ref(svg,13040.3267,-3139.1752)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,菊野病院,鹿児島県南九州市川辺町平山３８１５,内科　神経内科　リウマチ科　外科　整形外科　リハビリテーション科　循環器内科　消化器内科　呼吸器内科,,,4" xlink:title="菊野病院" transform="ref(svg,13039.0007,-3138.5822)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,久木田整形外科病院,鹿児島県枕崎市港町１１３,リウマチ科　整形外科　リハビリテーション科,,,4" xlink:title="久木田整形外科病院" transform="ref(svg,13029.8275,-3126.8256)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,県立薩南病院,鹿児島県南さつま市加世田高橋１９６８-４,内科　消化器科　循環器科　外科　整形外科　放射線科,,,2" xlink:title="県立薩南病院" transform="ref(svg,13029.3875,-3144.0947)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,こだま病院,鹿児島県南九州市川辺町田部田３５２５,心療内科　精神科　内科,,,4" xlink:title="こだま病院" transform="ref(svg,13038.2654,-3139.4341)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,サザン・リージョン病院,鹿児島県枕崎市緑町２２０,内科　神経内科　呼吸器科　消化器科　胃腸科　循環器科　歯科口腔外科　麻酔科　血液浄化　糖尿病内科　整形外科　耳鼻いんこう科　リハビリテーション科　放射線科　歯科　矯正歯科　小児歯科　外科　脳神経外科　泌尿器科　肛門科　婦人科　眼科,,,4" xlink:title="サザン・リージョン病院" transform="ref(svg,13029.3596,-3127.6506)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,真愛病院,鹿児島県南さつま市加世田東本町７-３,整形外科　リハビリテーション科　麻酔科,,,4" xlink:title="真愛病院" transform="ref(svg,13032.5191,-3141.995)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,園田病院,鹿児島県枕崎市緑町２１９,眼科,,,4" xlink:title="園田病院" transform="ref(svg,13029.3438,-3127.5969)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,立神リハビリテーション温泉病院,鹿児島県枕崎市火之神町６２０,内科　リハビリテーション科,,,4" xlink:title="立神リハビリテーション温泉病院" transform="ref(svg,13027.6867,-3125.3713)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構指宿医療センター,鹿児島県指宿市十二町４１４５,内科　神経内科　呼吸器科　循環器科　小児科　外科　放射線科　麻酔科　消化器科　脳血管内科　整形外科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　リハビリテーション科,,,1" xlink:title="（独）国立病院機構指宿医療センター" transform="ref(svg,13064.5987,-3122.0613)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,中村温泉病院,鹿児島県南九州市頴娃町別府１,内科　神経内科　消化器科　小児科　外科　整形外科　耳鼻いんこう科　リハビリテーション科　放射線科,,,4" xlink:title="中村温泉病院" transform="ref(svg,13045.5794,-3125.3342)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南薩ケアほすぴたる,鹿児島県南九州市川辺町平山５８６０,内科　神経内科　消化器科　リハビリテーション科,,,4" xlink:title="南薩ケアほすぴたる" transform="ref(svg,13039.5102,-3138.9041)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,西田病院,鹿児島県指宿市十二町２１０５-１,内科　心療内科　精神科,,,4" xlink:title="西田病院" transform="ref(svg,13063.8731,-3123.8453)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,肥後病院,鹿児島県指宿市十二町２１５７,内科　呼吸器科　胃腸科　循環器科　小児科　放射線科,,,4" xlink:title="肥後病院" transform="ref(svg,13064.0983,-3123.8453)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,枕崎市立病院,鹿児島県枕崎市日之出町２３０,内科,,,2" xlink:title="枕崎市立病院" transform="ref(svg,13030.2784,-3127.1681)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南九州さくら病院,鹿児島県南九州市知覧町永里２０８２,内科　心療内科　精神科　老年精神科,,,4" xlink:title="南九州さくら病院" transform="ref(svg,13044.0391,-3134.6316)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南さつま市立坊津病院,鹿児島県南さつま市坊津町泊１９,内科　整形外科,,,2" xlink:title="南さつま市立坊津病院" transform="ref(svg,13022.464,-3127.509)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南さつま中央病院,鹿児島県南さつま市加世田本町３７-４,内科　消化器内科　胃腸内科　外科　肛門外科　婦人科　麻酔科　消化器外科　内科（人工透析）,,,4" xlink:title="南さつま中央病院" transform="ref(svg,13032.1277,-3141.6355)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,宮薗病院,鹿児島県指宿市開聞十町１２６６,内科　小児科　外科　婦人科　放射線科　神経内科,,,4" xlink:title="宮薗病院" transform="ref(svg,13053.9632,-3120.432)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,山川病院,鹿児島県指宿市山川小川１５７１,内科　心療内科　循環器科　外科　整形外科　脳神経外科　眼科　リハビリテーション科　人工透析内科　泌尿器科　放射線科,,,4" xlink:title="山川病院" transform="ref(svg,13060.3949,-3119.9932)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,内山病院,鹿児島県阿久根市高松町２２,内科　外科　消化器内科　泌尿器科　神経内科　放射線科　血液内科　呼吸器内科　リハビリテーション科　循環器内科　泌尿器科（人工透析）　糖尿病内科　内分泌内科,,,4" xlink:title="内山病院" transform="ref(svg,13019.7807,-3201.7982)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,伊達病院,鹿児島県薩摩川内市神田町４-２５,内科　胃腸内科　外科　整形外科,,,4" xlink:title="伊達病院" transform="ref(svg,13030.5372,-3181.4022)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,クオラリハビリテーション病院,鹿児島県薩摩郡さつま町船木２３１１-６,内科　消化器内科　循環器内科　整形外科　泌尿器科（人工透析）　眼科　リハビリテーション科　歯科　麻酔科,,,4" xlink:title="クオラリハビリテーション病院" transform="ref(svg,13043.8882,-3187.3441)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,出水郡医師会広域医療センター,鹿児島県阿久根市赤瀬川４５１３,内科　神経内科　消化器外科　消化器内科　循環器内科　小児外科　リハビリテーション科　放射線科　麻酔科　外科　整形外科　脳神経外科　泌尿器科　眼科　耳鼻いんこう科,,,6" xlink:title="出水郡医師会広域医療センター" transform="ref(svg,13019.4926,-3202.8216)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,出水郡医師会立第二病院,鹿児島県出水市高尾野町柴引２５７４,内科　リハビリテーション科,,,6" xlink:title="出水郡医師会立第二病院" transform="ref(svg,13030.2325,-3204.9987)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,出水総合医療センター,鹿児島県出水市明神町５２０,内科　神経内科　呼吸器内科　消化器内科　循環器内科　小児科　腎臓内科　肝臓内科　眼科　リハビリテーション科　放射線科　麻酔科　糖尿病・代謝内科　血液内科　外科　整形外科　脳神経外科　皮膚科　泌尿器科　婦人科,,,2" xlink:title="出水総合医療センター" transform="ref(svg,13033.6112,-3211.6124)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,出水病院,鹿児島県出水市麓町２９-１,内科　心療内科　精神科　歯科,,,4" xlink:title="出水病院" transform="ref(svg,13036.2438,-3208.0517)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,市比野記念病院,鹿児島県薩摩川内市樋脇町市比野３０７９,内科　神経内科　循環器内科　呼吸器内科　外科　整形外科　脳神経外科　放射線科　リハビリテーション科,,,4" xlink:title="市比野記念病院" transform="ref(svg,13040.0831,-3178.5752)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,稲津病院,鹿児島県薩摩郡さつま町宮之城屋地１３７８,外科　内科　胃腸内科　循環器内科　整形外科　リハビリテーション科,,,4" xlink:title="稲津病院" transform="ref(svg,13045.389,-3189.7786)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,上村病院,鹿児島県薩摩川内市東開聞町９-２２,内科　外科　呼吸器外科　乳腺外科　消化器外科　消化器内科　肛門外科　呼吸器内科　麻酔科　リハビリテーション科,,,4" xlink:title="上村病院" transform="ref(svg,13030.3546,-3181.7743)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,済生会川内病院,鹿児島県薩摩川内市原田町２-４６,内科　小児科　外科　整形外科　小児外科　皮膚科　泌尿器科　産婦人科　眼科　放射線科　麻酔科　病理診断科,,,2" xlink:title="済生会川内病院" transform="ref(svg,13030.5891,-3182.7201)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,坂口病院,鹿児島県薩摩川内市大王町１-１,内科　小児科,,,4" xlink:title="坂口病院" transform="ref(svg,13029.9673,-3182.363)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,薩摩郡医師会病院,鹿児島県薩摩郡さつま町轟町５１０,内科　呼吸器内科　消化器内科　循環器内科　神経内科　リハビリテーション科　放射線科　外科　整形外科　救急科　麻酔科,,,6" xlink:title="薩摩郡医師会病院" transform="ref(svg,13045.8484,-3191.6967)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,荘記念病院,鹿児島県出水市高尾野町下水流８６２-１,内科　精神科　神経内科,,,4" xlink:title="荘記念病院" transform="ref(svg,13028.5511,-3208.9022)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,川内市医師会立市民病院,鹿児島県薩摩川内市永利町字西平４１０７-７,内科　神経内科　呼吸器内科　消化器内科　循環器内科　小児科　リハビリテーション科　放射線科　麻酔科　外科　整形外科　脳神経外科　心臓血管外科　小児外科　泌尿器科,,,6" xlink:title="川内市医師会立市民病院" transform="ref(svg,13034.9289,-3179.8006)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,高江記念病院,鹿児島県薩摩川内市永利町２５０４-１,外科　内科　リハビリテーション科　整形外科　循環器内科　糖尿病内科　消化器内科,,,4" xlink:title="高江記念病院" transform="ref(svg,13034.6158,-3180.8083)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,立志病院,鹿児島県薩摩郡さつま町湯田１５０２-１０,内科　神経内科　呼吸器科　放射線科,,,4" xlink:title="立志病院" transform="ref(svg,13046.6562,-3194.9951)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,中郷病院,鹿児島県薩摩川内市中郷１-１-７,内科　精神科　心療内科,,,4" xlink:title="中郷病院" transform="ref(svg,13031.3866,-3182.8687)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,永井病院,鹿児島県薩摩川内市大小路町２１-５,内科　胃腸内科　呼吸器内科　循環器内科　心療内科,,,4" xlink:title="永井病院" transform="ref(svg,13030.2842,-3182.2969)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ファミリーＨＰ薩摩,鹿児島県薩摩川内市水引町３２４７-１,内科　心療内科　精神科　理学療法科,,,4" xlink:title="ファミリーＨＰ薩摩" transform="ref(svg,13022.934,-3185.9634)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,宮之城病院,鹿児島県薩摩郡さつま町船木３４,内科　心療内科　精神科　神経科,,,4" xlink:title="宮之城病院" transform="ref(svg,13045.2749,-3189.4339)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,森園病院,鹿児島県薩摩川内市大小路町１９-３８,内科　リウマチ科　整形外科　リハビリテーション科　呼吸器内科　糖尿病内科　消化器内科　神経内科　放射線科,,,4" xlink:title="森園病院" transform="ref(svg,13030.3518,-3182.1733)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,吉井中央病院,鹿児島県出水市平和町３３６,内科　消化器内科　循環器内科　外科　整形外科　リハビリテーション科,,,4" xlink:title="吉井中央病院" transform="ref(svg,13032.4553,-3208.2435)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,若松記念病院,鹿児島県薩摩川内市神田町１１-２０,内科　胃腸科　外科　整形外科　肛門科　眼科　リハビリテーション科,,,4" xlink:title="若松記念病院" transform="ref(svg,13030.3195,-3181.5651)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,脇本病院,鹿児島県阿久根市脇本９０９３-２,内科　精神科　神経科,,,4" xlink:title="脇本病院" transform="ref(svg,13018.6442,-3208.5265)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国分中央病院,鹿児島県霧島市国分中央１-２５-７０,内科　神経内科　消化器科　外科　脳神経外科　皮膚科　リハビリテーション科　呼吸器内科　循環器内科　歯科,,,4" xlink:title="国分中央病院" transform="ref(svg,13076.8647,-3174.1786)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,霧島記念病院,鹿児島県霧島市国分福島１-５-１９,内科　神経内科　リウマチ科　外科　整形外科　脳神経外科　リハビリテーション科　胃腸内科　循環器内科　呼吸器内科,,,4" xlink:title="霧島記念病院" transform="ref(svg,13075.3242,-3172.8347)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国分生協病院,鹿児島県霧島市国分中央３-２２-１８,内科　呼吸器科　消化器科　循環器科　小児科　外科　肛門科　リハビリテーション科　救急科　糖尿病内科　人工透析内科　腎臓内科,,,6" xlink:title="国分生協病院" transform="ref(svg,13076.6545,-3173.6699)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,協愛病院,鹿児島県霧島市国分新町１-６-５２-６,内科　神経内科　呼吸器科　消化器科　循環器科　リウマチ科　リハビリテーション科　麻酔科,,,5" xlink:title="協愛病院" transform="ref(svg,13076.1177,-3175.0431)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ハートフル隼人病院,鹿児島県霧島市隼人町住吉１００,内科　心療内科　精神科　耳鼻いんこう科,,,4" xlink:title="ハートフル隼人病院" transform="ref(svg,13074.537,-3172.2716)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,松下病院,鹿児島県霧島市隼人町真孝９９８,内科　心療内科　精神科　神経内科　リハビリテーション科　老年精神科　漢方内科,,,4" xlink:title="松下病院" transform="ref(svg,13073.2228,-3173.0641)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,隼人温泉病院,鹿児島県霧島市隼人町姫城１-２６４-２,内科　神経内科　循環器科　外科　リハビリテーション科,,,4" xlink:title="隼人温泉病院" transform="ref(svg,13075.6607,-3176.6199)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,隼人尚愛会病院,鹿児島県霧島市隼人町小田２４０,内科　消化器科　外科　肛門科　リハビリテーション科,,,4" xlink:title="隼人尚愛会病院" transform="ref(svg,13072.5634,-3173.6704)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,霧島市立医師会医療センター,鹿児島県霧島市隼人町松永３３２０,内科　呼吸器科　消化器科　循環器科　リウマチ科　小児科　外科　整形外科　脳神経外科　耳鼻いんこう科　リハビリテーション科　放射線科,,,2" xlink:title="霧島市立医師会医療センター" transform="ref(svg,13076.1994,-3177.8237)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,栗野病院,鹿児島県姶良郡湧水町北方１８５４,内科　精神科　神経科　リハビリテーション科,,,4" xlink:title="栗野病院" transform="ref(svg,13071.2527,-3195.818)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構南九州病院,鹿児島県姶良市加治木町木田１８８２,内科　神経内科　呼吸器科　循環器科　小児科　外科　呼吸器外科　放射線科　歯科　麻酔科,,,1" xlink:title="（独）国立病院機構南九州病院" transform="ref(svg,13064.3539,-3173.0807)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,加治木記念病院,鹿児島県姶良市加治木町木田１２２７,内科　精神科　神経科,,,4" xlink:title="加治木記念病院" transform="ref(svg,13064.8335,-3173.0081)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,フィオーレ第一病院,鹿児島県姶良市加治木町本町３０７-１,産科　婦人科,,,4" xlink:title="フィオーレ第一病院" transform="ref(svg,13066.3009,-3173.87)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大井病院,鹿児島県姶良市加治木町本町１４１,内科　胃腸科　循環器科　リウマチ科　外科　整形外科　脳神経外科　皮膚科　肛門科　リハビリテーション科　放射線科,,,4" xlink:title="大井病院" transform="ref(svg,13066.6829,-3173.631)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,加治木温泉病院,鹿児島県姶良市加治木町木田４７１４,内科　消化器科　泌尿器科　耳鼻いんこう科　リハビリテーション科　歯科　循環器科,,,4" xlink:title="加治木温泉病院" transform="ref(svg,13066.3637,-3174.9783)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,加治木整形外科病院,鹿児島県姶良市加治木町港町１４７-２,内科　リウマチ科　整形外科　リハビリテーション科　循環器内科,,,4" xlink:title="加治木整形外科病院" transform="ref(svg,13066.5617,-3173.3005)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ザ王病院,鹿児島県姶良市加治木町反土２１５１-１,内科　リウマチ科　整形外科　脳神経外科　皮膚科　泌尿器科　リハビリテーション科,,,4" xlink:title="ザ王病院" transform="ref(svg,13066.5597,-3174.6392)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島県立姶良病院,鹿児島県姶良市平松６０６７,精神科　神経科　歯科,,,2" xlink:title="鹿児島県立姶良病院" transform="ref(svg,13061.1527,-3170.9888)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,希望ヶ丘病院,鹿児島県姶良市平松５０６９,内科　心療内科　小児科　眼科　リハビリテーション科　消化器内科　循環器内科　小児リハビリテーション科　精神科,,,4" xlink:title="希望ヶ丘病院" transform="ref(svg,13059.7147,-3171.2039)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,青雲会病院,鹿児島県姶良市西餠田３０１１,内科　外科　整形外科　脳神経外科　呼吸器外科　泌尿器科　皮膚科　胃腸外科　腫瘍外科　腹部外科　胆のう外科　大腸外科　形成外科　消化器内科　胃腸内科　糖尿病内科　内視鏡内科　消化器外科　乳腺外科　肛門科　眼科　リハビリテーション科　放射線科　歯科,循環器内科,,4" xlink:title="青雲会病院" transform="ref(svg,13061.2853,-3172.1332)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,クオラリハビリテーション病院あいら,鹿児島県姶良市西餠田３１６０,内科　リウマチ科　整形外科　皮膚科　リハビリテーション科　麻酔科　循環器内科,,,4" xlink:title="クオラリハビリテーション病院あいら" transform="ref(svg,13061.8781,-3172.8894)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,県立北薩病院,鹿児島県伊佐市大口宮人５０２-４,内科　脳神経外科　リハビリテーション科　放射線科　神経内科　呼吸器科　消化器科　循環器科　小児科　外科,,,2" xlink:title="県立北薩病院" transform="ref(svg,13061.3105,-3205.7225)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大口病院,鹿児島県伊佐市大口大田６８,内科　心療内科　精神科,,,4" xlink:title="大口病院" transform="ref(svg,13060.1743,-3206.7194)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,寺田病院,鹿児島県伊佐市大口上町３１-４,内科　呼吸器科　胃腸科　外科　整形外科　肛門科　耳鼻いんこう科　リハビリテーション科,,,4" xlink:title="寺田病院" transform="ref(svg,13060.7227,-3206.2206)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,整形外科松元病院,鹿児島県伊佐市大口里４９１-２,リウマチ科　整形外科　皮膚科　リハビリテーション科　麻酔科,,,4" xlink:title="整形外科松元病院" transform="ref(svg,13060.411,-3206.0789)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大口温泉リハビリテーション病院,鹿児島県伊佐市大口青木３０２２-３４,リハビリテーション科　放射線科　歯科口腔外科　内科　消化器科　循環器科,,,4" xlink:title="大口温泉リハビリテーション病院" transform="ref(svg,13063.3749,-3205.7076)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,水間病院,鹿児島県伊佐市菱刈前目２１２５,内科　皮膚科　婦人科　リハビリテーション科　消化器内科　泌尿器科（人工透析）,,,4" xlink:title="水間病院" transform="ref(svg,13064.3736,-3201.1013)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,クオラリハビリテーション病院あいら,鹿児島県姶良市西餅田２３００-１,整形外科　リハビリテーション科　循環器科　内科　リウマチ科　麻酔科,,,4" xlink:title="クオラリハビリテーション病院あいら" transform="ref(svg,13061.8781,-3172.8894)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,垂水市立医療センター垂水中央病院,鹿児島県垂水市錦江町１-１４０,内科　神経内科　外科　整形外科　泌尿器科　眼科　糖尿病内科　血液内科　耳鼻いんこう科　リハビリテーション科　放射線科　消化器内科　循環器内科　呼吸器内科,,,2" xlink:title="垂水市立医療センター垂水中央病院" transform="ref(svg,13069.4163,-3149.0545)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,垂水徳洲会病院,鹿児島県垂水市田神字河崎１２-２,内科　外科　整形外科　消化器内科　リハビリテーション科,,,4" xlink:title="垂水徳洲会病院" transform="ref(svg,13070.1296,-3149.6687)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,厚地脳神経外科病院,鹿児島県鹿児島市東千石町４-１３,神経内科　脳神経外科　リハビリテーション科,,,4" xlink:title="厚地脳神経外科病院" transform="ref(svg,13055.1865,-3159.1512)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,厚地リハビリテーション病院,鹿児島県鹿児島市東郡元町１１-６,リハビリテーション科　内科　神経内科　脳神経外科,,,4" xlink:title="厚地リハビリテーション病院" transform="ref(svg,13054.9655,-3155.4046)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,天辰病院,鹿児島県鹿児島市桜ケ丘４-１-８,胃腸科　外科　眼科　耳鼻いんこう科,,,4" xlink:title="天辰病院" transform="ref(svg,13051.7436,-3155.0546)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,高見馬場リハビリテーション病院,鹿児島県鹿児島市西千石町１６-８,神経内科　リハビリテーション科,,,4" xlink:title="高見馬場リハビリテーション病院" transform="ref(svg,13055.0711,-3158.9771)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,内科有馬病院,鹿児島県鹿児島市平之町１-２７,内科　神経内科　リハビリテーション科　胃腸内科,,,4" xlink:title="内科有馬病院" transform="ref(svg,13054.5816,-3158.9353)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,あんびる病院,鹿児島県鹿児島市稲荷町１２-６,内科　呼吸器内科　消化器内科　循環器内科　リハビリテーション科,,,4" xlink:title="あんびる病院" transform="ref(svg,13056.8006,-3161.0398)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,たちばな循環器科いいやま病院,鹿児島県鹿児島市上荒田町３３-５,内科　循環器内科,,,5" xlink:title="たちばな循環器科いいやま病院" transform="ref(svg,13054.6819,-3157.3971)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,伊敷病院,鹿児島県鹿児島市下伊敷２-４-１５,内科　精神科　神経内科,,,4" xlink:title="伊敷病院" transform="ref(svg,13053.7114,-3161.4042)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,伊集院病院,鹿児島県鹿児島市池之上町９-２７,産婦人科　麻酔科,,,4" xlink:title="伊集院病院" transform="ref(svg,13056.4057,-3160.848)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,今給黎総合病院,鹿児島県鹿児島市下竜尾町４-１６,内科　糖尿病内科　血液内科　神経内科　呼吸器内科　消化器内科　麻酔科　救急科　病理診断科　気管食道・耳鼻いんこう科　リハビリテーション科　放射線診断科　放射線治療科　歯科　歯科口腔外科　呼吸器外科　皮膚科　泌尿器科　産婦人科　新生児内科　眼科,循環器内科　小児科　外科（消化器・乳腺・内分泌・小児・肛門）　整形外科　形成外科　脳神経外科,,6" xlink:title="今給黎総合病院" transform="ref(svg,13055.888,-3160.3148)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,今村病院,鹿児島県鹿児島市堀江町１７-１,内科　小児科　外科　呼吸器内科　産婦人科　放射線科　泌尿器科　消化器内科　循環器内科　血液内科　糖尿病内科　消化器外科　大腸・肛門外科,,,6" xlink:title="今村病院" transform="ref(svg,13056.0141,-3159.1141)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,今村病院分院,鹿児島県鹿児島市鴨池新町１１-２３,内科　消化器内科　循環器内科　呼吸器内科　神経内科　泌尿器科（人工透析）　消化器外科　人工透析内科　糖尿病内科　精神科　放射線科　整形外科　外科　リハビリテーション科　ペインクリニック内科　病理診断科　救急科　血液内科　腎臓内科　眼科　皮膚科,脳神経外科　麻酔科　耳鼻いんこう科　気管食道・耳鼻咽喉科,,6" xlink:title="今村病院分院" transform="ref(svg,13055.7667,-3155.6648)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,岩尾病院,鹿児島県鹿児島市甲突町１７-１８,内科　神経内科　消化器科　整形外科　リハビリテーション科　麻酔科,,,4" xlink:title="岩尾病院" transform="ref(svg,13055.9507,-3158.2222)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,植村病院（康成会）,鹿児島県鹿児島市草牟田１-４-７,内科　神経内科　胃腸科　循環器科　リハビリテーション科,,,4" xlink:title="植村病院（康成会）" transform="ref(svg,13053.9,-3160.2012)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,植村病院（愛仁会）,鹿児島県鹿児島市伊敷２-１-２,内科　消化器内科　循環器内科　外科　呼吸器内科　心臓血管外科　麻酔科　救急科　脳神経外科,,,4" xlink:title="植村病院（愛仁会）" transform="ref(svg,13052.8733,-3161.6825)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,上山病院,鹿児島県鹿児島市宇宿３-１７-６,内科　腎臓内科　人工透析内科　循環器内科,,,4" xlink:title="上山病院" transform="ref(svg,13053.868,-3154.1896)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大勝病院,鹿児島県鹿児島市真砂本町３-９５,神経内科　リハビリテーション科,,,4" xlink:title="大勝病院" transform="ref(svg,13054.8585,-3155.7281)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,沖野循環器科病院,鹿児島県鹿児島市西千石町１３-３０,内科　呼吸器科　胃腸科　循環器科　リハビリテーション科,,,4" xlink:title="沖野循環器科病院" transform="ref(svg,13054.9155,-3158.9513)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,納病院,鹿児島県鹿児島市高麗町７-１,内科　消化器科　整形外科　リハビリテーション科　放射線科,,,4" xlink:title="納病院" transform="ref(svg,13055.0174,-3158.2988)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,小田代病院,鹿児島県鹿児島市荒田１-２５-６,外科　内科　整形外科　リハビリテーション科　麻酔科　消化器外科　消化器内科　循環器内科　糖尿病内科　リウマチ科　泌尿器科,,,4" xlink:title="小田代病院" transform="ref(svg,13055.0123,-3157.6692)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,小田原病院,鹿児島県鹿児島市山之口町８-１,内科　外科　胃腸科　整形外科　麻酔科　放射線科　理学診療科　肛門科,,,4" xlink:title="小田原病院" transform="ref(svg,13055.351,-3158.7943)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,尾辻病院,鹿児島県鹿児島市南新町１-２９,精神科,,,4" xlink:title="尾辻病院" transform="ref(svg,13054.1858,-3155.6768)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,産科婦人科柿木病院,鹿児島県鹿児島市加治屋町１５-３,産科　婦人科　麻酔科,,,4" xlink:title="産科婦人科柿木病院" transform="ref(svg,13055.0891,-3158.7293)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島市医師会病院,鹿児島県鹿児島市鴨池新町７-１,内科　神経内科　リハビリテーション科　外科　婦人科　放射線科　救急科　病理診断科　呼吸器外科　泌尿器科　緩和ケア内科　麻酔科　呼吸器内科　消化器内科　循環器内科　消化器外科　ペインクリニック科,,,6" xlink:title="鹿児島市医師会病院" transform="ref(svg,13055.6391,-3156.0071)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,健翔会病院,鹿児島県鹿児島市東郡元町５-１０,内視鏡外科　内科　外科　胃腸内科　腫瘍外科　肛門外科　リハビリテーション科,,,4" xlink:title="健翔会病院" transform="ref(svg,13054.9785,-3155.4871)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,仁愛会病院,鹿児島県鹿児島市南栄５-１０-１９,内科　神経内科　リハビリテーション科　放射線科,,,4" xlink:title="仁愛会病院" transform="ref(svg,13051.805,-3150.6959)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,新村病院,鹿児島県鹿児島市西田２-２６-２０,泌尿器科　麻酔科,,,4" xlink:title="新村病院" transform="ref(svg,13054.034,-3158.5476)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,野上病院,鹿児島県鹿児島市小松原１-４-１,内科　心療内科　胃腸科　外科,,,4" xlink:title="野上病院" transform="ref(svg,13053.5425,-3153.9566)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,産科婦人科のぼり病院,鹿児島県鹿児島市荒田１-１３-１３,産科　婦人科　麻酔科,,,4" xlink:title="産科婦人科のぼり病院" transform="ref(svg,13055.1997,-3157.6512)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,パールランド病院,鹿児島県鹿児島市犬迫町２２５３,内科　精神科　神経内科　リハビリテーション科　歯科,,,4" xlink:title="パールランド病院" transform="ref(svg,13050.4292,-3162.3174)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,八反丸病院,鹿児島県鹿児島市下竜尾町３-２８,内科　心療内科　リウマチ科　外科　整形外科　リハビリテーション科,,,4" xlink:title="八反丸病院" transform="ref(svg,13056.0238,-3160.3626)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,林内科胃腸科病院,鹿児島県鹿児島市武２-３３-８,内科　呼吸器内科　消化器内科　循環器内科　胃腸内科　リハビリテーション科　放射線科,,,4" xlink:title="林内科胃腸科病院" transform="ref(svg,13053.6368,-3158.4872)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,日高病院,鹿児島県鹿児島市西千石町８-１３,整形外科　リハビリテーション科　リウマチ科　神経内科　麻酔科　循環器科　形成外科,,,4" xlink:title="日高病院" transform="ref(svg,13054.8103,-3158.8335)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,地域医療・福祉ステーションひまわり病院,鹿児島県鹿児島市上之園町２０-２８,リハビリテーション科,,,6" xlink:title="地域医療・福祉ステーションひまわり病院" transform="ref(svg,13054.6748,-3158.0559)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,前田病院,鹿児島県鹿児島市中央町３０-１１,内科　胃腸科　整形外科　リハビリテーション科,,,4" xlink:title="前田病院" transform="ref(svg,13054.3141,-3158.0002)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,増田整形外科病院,鹿児島県鹿児島市郡元１-１-１,リウマチ科　整形外科　リハビリテーション科,,,4" xlink:title="増田整形外科病院" transform="ref(svg,13054.0269,-3157.1417)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（公財）東風会三船病院,鹿児島県鹿児島市吉野町１０００４-１,内科　消化器科　外科　形成外科　呼吸器科　リハビリテーション科,,,6" xlink:title="（公財）東風会三船病院" transform="ref(svg,13060.0887,-3163.3329)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,三宅病院,鹿児島県鹿児島市谷山中央７-３-１,内科　呼吸器内科　消化器内科　リハビリテーション科　放射線科,,,4" xlink:title="三宅病院" transform="ref(svg,13051.4383,-3152.4069)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,森口病院,鹿児島県鹿児島市下田町１７６３,精神科　消化器内科,,,4" xlink:title="森口病院" transform="ref(svg,13054.5669,-3164.5852)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,やまびこ医療福祉センター,鹿児島県鹿児島市皆与志町１７７９,内科　小児科　外科　整形外科　リハビリテーション科,,,6" xlink:title="やまびこ医療福祉センター" transform="ref(svg,13051.5943,-3165.5501)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,横山病院,鹿児島県鹿児島市永吉町１-１１-１,内科　心療内科　精神科　神経内科,,,6" xlink:title="横山病院" transform="ref(svg,13053.4224,-3159.9958)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,横山記念病院,鹿児島県鹿児島市吉野町４８２６-１,心療精神科　脳神経外科　精神科　老年精神科,,,4" xlink:title="横山記念病院" transform="ref(svg,13058.5341,-3165.9989)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,吉田温泉病院,鹿児島県鹿児島市本名町４７０,内科　胃腸科　外科　リハビリテーション科,,,4" xlink:title="吉田温泉病院" transform="ref(svg,13054.6435,-3169.1956)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,吉野病院,鹿児島県鹿児島市吉野町３０９５,心療内科　精神科　神経科,,,4" xlink:title="吉野病院" transform="ref(svg,13057.1022,-3164.9313)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,米沢病院,鹿児島県鹿児島市新照院町１９-８,内科　皮膚科　リハビリテーション科　消化器内科　循環器内科　呼吸器内科　糖尿病内科,,,4" xlink:title="米沢病院" transform="ref(svg,13054.3444,-3159.3575)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,米盛病院,鹿児島県鹿児島市草牟田２-２９-５０,リウマチ科　整形外科　リハビリテーション科　麻酔科　救急科,,,4" xlink:title="米盛病院" transform="ref(svg,13053.8444,-3160.709)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,隆成会病院,鹿児島県鹿児島市郡元２-１１-２０,外科　小児外科　リハビリテーション科　内科　胃腸科　循環器科,,,4" xlink:title="隆成会病院" transform="ref(svg,13054.8067,-3156.2581)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,米盛病院,鹿児島県鹿児島市与次郎１-７-１,リハビリテーション科　麻酔科　救急科　リウマチ科　整形外科,,,4" xlink:title="米盛病院" transform="ref(svg,13056.2539,-3157.0632)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,アクラス中央病院,鹿児島県鹿児島市武岡１-１２１-５,内科　呼吸器内科　消化器内科　循環器内科　放射線科　リハビリテーション科　心療内科　精神科,,,4" xlink:title="アクラス中央病院" transform="ref(svg,13052.6395,-3158.5976)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島赤十字病院,鹿児島県鹿児島市平川町２５４５,内科　呼吸器内科　リウマチ科　整形外科　脳神経外科　リハビリテーション科　放射線科　麻酔科　循環器内科,,,2" xlink:title="鹿児島赤十字病院" transform="ref(svg,13051.3342,-3146.0693)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島大学病院,鹿児島県鹿児島市桜ケ丘８-３５-１,内科　心療内科　精神科　神経内科　呼吸器内科　消化器内科　病理診断科　矯正歯科　小児歯科　歯科口腔外科　麻酔科　消化器外科　救急科　婦人科　眼科　耳鼻いんこう科　リハビリテーション科　放射線科　歯科　呼吸器外科　心臓血管外科　小児外科　皮膚科　泌尿器科,産科　循環器内科　リウマチ科　小児科　外科　整形外科　脳神経外科,,1" xlink:title="鹿児島大学病院" transform="ref(svg,13052.7903,-3154.8092)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島逓信病院,鹿児島県鹿児島市下伊敷１-１２-１,内科　肝臓内科　消化器内科　外科　肝臓外科　消化器外科　肛門外科　眼科　整形外科　婦人科,,,6" xlink:title="鹿児島逓信病院" transform="ref(svg,13053.8085,-3161.0641)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,川島病院,鹿児島県鹿児島市谷山中央１-４１９６,内科　胃腸科　外科　麻酔科,,,4" xlink:title="川島病院" transform="ref(svg,13051.9056,-3152.6208)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,かんまち尾辻病院,鹿児島県鹿児島市下竜尾町６-１８,内科　呼吸器科　胃腸科　外科　リハビリテーション科　麻酔科,,,4" xlink:title="かんまち尾辻病院" transform="ref(svg,13055.7683,-3160.3812)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構鹿児島医療センター,鹿児島県鹿児島市城山町８-１,内科　神経内科　消化器内科　循環器内科　小児科　外科　脳・血管内科　歯科口腔外科　救急科　腫瘍内科　病理診断科　耳鼻いんこう科　リハビリテーション科　放射線科　麻酔科　血液内科　糖尿病・内分泌内科　脳神経外科　心臓血管外科　皮膚科　泌尿器科　産婦人科,眼科,,1" xlink:title="（独）国立病院機構鹿児島医療センター" transform="ref(svg,13055.6045,-3159.9936)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,池田病院,鹿児島県鹿児島市西田１-４-１,内科　小児科,,,4" xlink:title="池田病院" transform="ref(svg,13054.4269,-3158.6689)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,愛育病院,鹿児島県鹿児島市小松原１-４３-１５,産科　婦人科,,,4" xlink:title="愛育病院" transform="ref(svg,13053.1722,-3153.3901)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,共立病院,鹿児島県鹿児島市南郡元町１１-１１,内科　呼吸器科　消化器科　リウマチ科　外科　整形外科　呼吸器外科　心臓血管外科　肛門科　リハビリテーション科　麻酔科,,,4" xlink:title="共立病院" transform="ref(svg,13054.5588,-3155.6394)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,玉水会病院,鹿児島県鹿児島市下伊敷１-１-５,内科　心療内科　神経内科　消化器科　循環器科　リハビリテーション科,,,4" xlink:title="玉水会病院" transform="ref(svg,13053.49,-3160.876)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,黒木外科胃腸科病院,鹿児島県鹿児島市田上町２-２７-１７,胃腸科　外科　肛門科,,,4" xlink:title="黒木外科胃腸科病院" transform="ref(svg,13053.1964,-3157.4185)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,花倉病院,鹿児島県鹿児島市吉野町５１４７,内科　精神科,,,4" xlink:title="花倉病院" transform="ref(svg,13058.1771,-3164.7852)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島厚生連病院,鹿児島県鹿児島市天保山町２２-２５,内科　肝臓内科　糖尿病内科　外科　消化器外科　消化器内科　眼科　耳鼻いんこう科　精神科　病理診断科　循環器内科　呼吸器内科　呼吸器外科　放射線科　麻酔科　リハビリテーション科,,,2" xlink:title="鹿児島厚生連病院" transform="ref(svg,13056.5369,-3157.3293)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,済生会鹿児島病院,鹿児島県鹿児島市南林寺町１-１１,内科　腎臓内科　透析内科　循環器内科　消化器内科　放射線科　呼吸器内科,,,2" xlink:title="済生会鹿児島病院" transform="ref(svg,13055.7899,-3158.4821)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,坂之上病院,鹿児島県鹿児島市光山２-３１-７６,内科　精神科　神経科,,,4" xlink:title="坂之上病院" transform="ref(svg,13051.0401,-3149.2083)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,相良病院,鹿児島県鹿児島市松原町３-３１,内科　婦人科　放射線科　麻酔科　乳腺外科　病理診断科　内分泌外科　緩和ケア科,,,4" xlink:title="相良病院" transform="ref(svg,13055.7683,-3158.6053)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,-ｱ元病院,鹿児島県鹿児島市東千石町４-１３,内科　循環器内科　神経内科　精神科　リハビリテーション科,,,4" xlink:title="-ｱ元病院" transform="ref(svg,13055.201,-3159.1723)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,桜島病院,鹿児島県鹿児島市野尻町５９,内科　外科　眼科　リハビリテーション科　放射線科　耳鼻いんこう科,,,4" xlink:title="桜島病院" transform="ref(svg,13061.6346,-3156.8052)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鮫島病院,鹿児島県鹿児島市加治屋町９-８,内科　胃腸科　外科　肛門科　麻酔科,,,4" xlink:title="鮫島病院" transform="ref(svg,13055.0585,-3158.5589)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,整形外科三愛病院,鹿児島県鹿児島市郡元３-１４-７,リウマチ科　整形外科　リハビリテーション科　内科,,,4" xlink:title="整形外科三愛病院" transform="ref(svg,13054.9212,-3155.927)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,三州病院,鹿児島県鹿児島市犬迫町７７８３-１,内科　精神科　神経科,,,4" xlink:title="三州病院" transform="ref(svg,13048.2629,-3162.5812)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,三州脇田丘病院,鹿児島県鹿児島市宇宿７-２６-１,内科　心療内科　精神科　神経科,,,4" xlink:title="三州脇田丘病院" transform="ref(svg,13053.3825,-3155.0249)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,内科柴田病院,鹿児島県鹿児島市中町１２-１４,内科　循環器内科,,,4" xlink:title="内科柴田病院" transform="ref(svg,13055.6077,-3159.4222)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,下稲葉病院,鹿児島県鹿児島市山之口町６-３,皮膚科　泌尿器科,,,5" xlink:title="下稲葉病院" transform="ref(svg,13055.3317,-3158.717)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,白石病院,鹿児島県鹿児島市薬師１-１２-２２,内科　呼吸器科　消化器科　循環器科　リハビリテーション科　放射線科,,,4" xlink:title="白石病院" transform="ref(svg,13054.17,-3159.1028)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,白坂病院,鹿児島県鹿児島市中央町１３-１４,内科　リウマチ科　外科　整形外科　リハビリテーション科　放射線科,,,4" xlink:title="白坂病院" transform="ref(svg,13054.5212,-3158.3278)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,白濱病院,鹿児島県鹿児島市常盤町１-１７-１,精神科　神経内科,,,4" xlink:title="白濱病院" transform="ref(svg,13053.2982,-3158.708)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,新杏病院,鹿児島県鹿児島市宇宿３-４１-１,内科　循環器科　心臓血管外科,,,4" xlink:title="新杏病院" transform="ref(svg,13053.7432,-3154.1402)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,総合病院鹿児島生協病院,鹿児島県鹿児島市谷山中央５-２０-１０,内科　神経内科　アレルギー科　リウマチ科　小児科　外科　救急科　腎臓内科　人工透析内科　糖尿病内科　内分泌内科　病理診断科　リハビリテーション科　放射線科　麻酔科　呼吸器内科　消化器内科　循環器内科　整形外科　泌尿器科　肛門外科　産婦人科　眼科,耳鼻いんこう科,,6" xlink:title="総合病院鹿児島生協病院" transform="ref(svg,13051.3504,-3151.7752)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,成人病院,鹿児島県鹿児島市上荒田町１６-３０,内科　消化器内科　循環器内科　放射線科,,,6" xlink:title="成人病院" transform="ref(svg,13054.4851,-3157.603)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,清風病院,鹿児島県鹿児島市真砂町７３-２０,内科　呼吸器科　胃腸科　循環器科　放射線科,,,4" xlink:title="清風病院" transform="ref(svg,13055.1183,-3155.9219)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,高田病院,鹿児島県鹿児島市堀江町５-１,内科　消化器科　循環器科　皮膚科　泌尿器科　リハビリテーション科,,,4" xlink:title="高田病院" transform="ref(svg,13055.9756,-3159.0056)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,田上記念病院,鹿児島県鹿児島市西別府町１７９９,内科　神経内科　循環器内科　リハビリテーション科　呼吸器内科　歯科　血液内科,,,4" xlink:title="田上記念病院" transform="ref(svg,13048.4998,-3159.9348)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,谷山病院,鹿児島県鹿児島市小原町８-１,内科　精神科　神経科　歯科,,,6" xlink:title="谷山病院" transform="ref(svg,13053.1707,-3154.1177)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,整形外科田平病院,鹿児島県鹿児島市加治屋町１６-１２,リウマチ科　整形外科　リハビリテーション科,,,4" xlink:title="整形外科田平病院" transform="ref(svg,13055.1964,-3158.6865)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,玉里病院,鹿児島県鹿児島市玉里町２６-２０,内科　精神科　神経科,,,4" xlink:title="玉里病院" transform="ref(svg,13054.0615,-3161.2623)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,中央病院,鹿児島県鹿児島市泉町６-７,内科　心臓血管外科　神経内科　呼吸器内科　消化器内科　循環器内科　麻酔科　外科　整形外科　こう門外科　眼科　リハビリテーション科　放射線科,,,4" xlink:title="中央病院" transform="ref(svg,13055.9447,-3159.3985)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,Ｔｓｕｋａｓａ　Ｈｅａｌｔｈ　Ｃａｒｅ　Ｈｏｓｐｉｔａｌ,鹿児島県鹿児島市山田町４４１,心療内科　精神科　神経内科,,,4" xlink:title="Ｔｓｕｋａｓａ　Ｈｅａｌｔｈ　Ｃａｒｅ　Ｈｏｓｐｉｔａｌ" transform="ref(svg,13050.7935,-3155.4701)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,土橋病院,鹿児島県鹿児島市西田１-１６-１,内科　心療内科　精神科　神経内科　アレルギー科　リハビリテーション科　放射線科　呼吸器内科,,,4" xlink:title="土橋病院" transform="ref(svg,13054.3556,-3158.8651)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島徳洲会病院,鹿児島県鹿児島市下荒田３-８-１,内科　精神科　呼吸器内科　消化器内科　循環器内科　小児科　泌尿器科　肛門外科　眼科　リハビリテーション科　放射線科　麻酔科　外科　整形外科　形成外科　脳神経外科　心臓血管外科　皮膚科,,,4" xlink:title="鹿児島徳洲会病院" transform="ref(svg,13055.5613,-3157.1709)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,富岡胃腸科外科病院,鹿児島県鹿児島市宇宿１-３２-１,内科　胃腸内科　外科　整形外科　麻酔科　リハビリテーション科,,,4" xlink:title="富岡胃腸科外科病院" transform="ref(svg,13054.1926,-3154.7077)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,豊島病院,鹿児島県鹿児島市下荒田３-２７-１,外科　脳神経外科　リハビリテーション科　放射線科　消化器内科,,,4" xlink:title="豊島病院" transform="ref(svg,13055.2602,-3157.091)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,中江病院,鹿児島県鹿児島市西千石町４-１３,内科　呼吸器科　胃腸科　循環器科,,,4" xlink:title="中江病院" transform="ref(svg,13054.6607,-3158.879)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,なかむら内科病院,鹿児島県鹿児島市鴨池１-５７-１,内科　呼吸器内科　消化器内科　循環器内科　リハビリテーション科　放射線科,,,4" xlink:title="なかむら内科病院" transform="ref(svg,13054.8215,-3156.4531)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,鹿児島市立病院,鹿児島県鹿児島市加治屋町２０-１７,内科　消化器科　循環器科　リウマチ科　小児科　外科　歯科口腔外科　麻酔科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　放射線科　歯科　整形外科　形成外科　脳神経外科　心臓血管外科　小児外科　皮膚科,,,2" xlink:title="鹿児島市立病院" transform="ref(svg,13055.3138,-3158.4583)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,かごしま高岡病院,鹿児島県鹿児島市西千石町１４-１２,内科　放射線科　リハビリテーション科　呼吸器内科　循環器内科　消化器内科,,,4" xlink:title="かごしま高岡病院" transform="ref(svg,13054.9175,-3159.0297)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,シーピーシー治験病院,鹿児島県鹿児島市唐湊４-１８-３８,内科,,,6" xlink:title="シーピーシー治験病院" transform="ref(svg,13054.0383,-3156.5651)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,整形外科横峯病院,鹿児島県鹿児島市松原町１３-２７,整形外科　リハビリテーション科　リウマチ科,,,6" xlink:title="整形外科横峯病院" transform="ref(svg,13055.9537,-3158.7498)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南風病院,鹿児島県鹿児島市長田町１４-３,内科　呼吸器内科　循環器内科　消化器内科　腎臓内科　神経内科　病理診断科　人工透析内科　肝臓内科　ペインクリニック内科　小児整形外科　緩和ケア内科　外科　消化器外科　脳神経外科　整形外科　放射線科　麻酔科,,,6" xlink:title="南風病院" transform="ref(svg,13055.7195,-3160.4264)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南鹿児島さくら病院,鹿児島県鹿児島市南郡元町２４-１５,内科　リウマチ科　整形外科　リハビリテーション科　消化器外科　呼吸器内科,,,6" xlink:title="南鹿児島さくら病院" transform="ref(svg,13054.4154,-3155.243)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,リハビリテーション病院吉村,鹿児島県鹿児島市大竜町５-３１,内科　心療内科　リハビリテーション科　放射線科　リウマチ科　呼吸器内科　循環器内科　消化器内科,,,4" xlink:title="リハビリテーション病院吉村" transform="ref(svg,13056.2748,-3160.4455)" x="0" y="0"/>
+</g>
+</svg>

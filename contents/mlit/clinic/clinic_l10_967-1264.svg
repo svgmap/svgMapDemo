@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13249.51171875 -3445.3125 4.39453125 4.39453125" go:dataArea="13249.51171875 -3445.3125 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,伊達医院,広島県広島市東区温品７-１２-２６,内科　消化器内科　小児科　外科　リハビリテーション科,,,9" xlink:title="伊達医院" transform="ref(svg,13250.9245,-3441.3652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小沢医院,広島県広島市東区温品６-３-１３,内科　循環器内科,,,9" xlink:title="小沢医院" transform="ref(svg,13251.023,-3441.8615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おちあい循環器内科クリニック,広島県広島市東区温品４-６-２２,内科　循環器内科　糖尿病内科　心療内科　産婦人科,,,9" xlink:title="おちあい循環器内科クリニック" transform="ref(svg,13250.796,-3441.1477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）上田耳鼻咽喉科医院,広島県広島市東区温品６-３-１５,耳鼻いんこう科,,,9" xlink:title="（医）上田耳鼻咽喉科医院" transform="ref(svg,13251.0114,-3441.8429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）温品荘診療所,広島県広島市東区温品７-１２-３５,内科,,,9" xlink:title="（特養）温品荘診療所" transform="ref(svg,13250.9623,-3441.4029)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）芳谷眼科医院,広島県広島市東区温品５-２-２３,眼科,,,9" xlink:title="（医）芳谷眼科医院" transform="ref(svg,13250.7849,-3441.2683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,肥野藤内科医院,広島県広島市東区馬木２-５４１-５,内科　消化器内科,,,9" xlink:title="肥野藤内科医院" transform="ref(svg,13252.8033,-3443.6909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山整形外科医院,広島県広島市東区中山東１-５-８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="中山整形外科医院" transform="ref(svg,13250.0546,-3441.0153)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松原クリニックまつばらクリニック,広島県広島市東区温品７-１１-３５,消化器内科　外科　整形外科　麻酔科,,,9" xlink:title="（医）松原クリニックまつばらクリニック" transform="ref(svg,13250.8758,-3441.4511)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おかもと整形外科クリニック,広島県広島市東区温品７-５-２６,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）おかもと整形外科クリニック" transform="ref(svg,13250.9441,-3441.5996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たけなお会たにぐち小児クリニック,広島県広島市東区中山東２-２-９,アレルギー科　小児科,,,9" xlink:title="（医）たけなお会たにぐち小児クリニック" transform="ref(svg,13250.4859,-3441.0259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松野クリニック,広島県広島市東区中山東２-２-３３,内科　呼吸器内科　循環器内科　消化器内科　外科　肛門外科,,,9" xlink:title="松野クリニック" transform="ref(svg,13250.4914,-3440.9986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）虹の里クリニック,広島県広島市東区馬木２-１３９８-１,内科,,,9" xlink:title="（特養）虹の里クリニック" transform="ref(svg,13252.8089,-3443.8094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土井クリニック戸坂,広島県広島市東区戸坂大上４-２１-２６,内科　循環器内科　消化器内科,,,9" xlink:title="土井クリニック戸坂" transform="ref(svg,13249.6498,-3442.4139)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋泌尿器科・皮ふ科クリニック,広島県広島市東区温品７-１０-１１-１８,皮膚科　アレルギー科　感染症内科　泌尿器科,,,9" xlink:title="高橋泌尿器科・皮ふ科クリニック" transform="ref(svg,13250.9762,-3441.466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしがめ小児科,広島県広島市東区温品７-１０-１１-２０,小児科,,,9" xlink:title="いしがめ小児科" transform="ref(svg,13250.9662,-3441.4707)" x="0" y="0"/>
+</g>
+</svg>

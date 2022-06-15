@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14132.8125 -3867.1875 70.3125 70.3125" go:dataArea="14132.8125 -3867.1875 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,網小医院,宮城県石巻市長渡浜杉１３-３,内科　外科　整形外科　脳神経外科　泌尿器科,,,9" xlink:title="網小医院" transform="ref(svg,14147.8334,-3826.6293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石巻市雄勝診療所,宮城県石巻市雄勝町大浜字小滝浜９-１６,内科　外科　整形外科,,,9" xlink:title="石巻市雄勝診療所" transform="ref(svg,14150.5636,-3851.3297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石巻市田代診療所,宮城県石巻市大字田代浜字仁斗田１２６,内科,,,9" xlink:title="石巻市田代診療所" transform="ref(svg,14142.4861,-3829.223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石巻市橋浦診療所,宮城県石巻市北上町橋浦字大須２１５,内科　小児科,,,9" xlink:title="石巻市橋浦診療所" transform="ref(svg,14141.0755,-3854.6845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石巻市寄磯診療所,宮城県石巻市前網浜田鳥３-７,内科,,,9" xlink:title="石巻市寄磯診療所" transform="ref(svg,14152.5444,-3839.011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おしか清心苑診療所,宮城県石巻市鮎川浜清崎山７,内科　精神科　外科,,,9" xlink:title="おしか清心苑診療所" transform="ref(svg,14149.8053,-3829.827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かづま内科クリニック,宮城県石巻市鹿妻南１-１３-６,内科　心療内科　神経内科　胃腸科,,,9" xlink:title="かづま内科クリニック" transform="ref(svg,14134.1551,-3842.1348)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久門医院,宮城県石巻市垂水町３-６-１,内科,,,9" xlink:title="久門医院" transform="ref(svg,14137.0911,-3842.8432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木整形外科クリニック,宮城県石巻市鹿妻北１-６-１５,整形外科　リハビリテーション科,,,9" xlink:title="鈴木整形外科クリニック" transform="ref(svg,14134.4741,-3842.2644)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）きたかみ医務室,宮城県石巻市北上町橋浦字大須２３４,内科　外科,,,9" xlink:title="（特養）きたかみ医務室" transform="ref(svg,14141.0697,-3854.7785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）涼風園医務室,宮城県石巻市流留字沖２１-１,内科　外科,,,9" xlink:title="（特養）涼風園医務室" transform="ref(svg,14137.7102,-3842.6359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,雄心苑診療所,宮城県石巻市雄勝町小島字和田１２３,内科　外科　整形外科,,,9" xlink:title="雄心苑診療所" transform="ref(svg,14150.0258,-3851.1598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム万生園診療所,宮城県石巻市沢田字折立入６１-２,内科　精神科,,,9" xlink:title="養護老人ホーム万生園診療所" transform="ref(svg,14138.5262,-3843.8202)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,女川町地域医療センター,宮城県牡鹿郡女川町鷲神浜字堀切山５１-６,内科　心療内科　小児科　外科　整形外科　皮膚科　眼科,,,9" xlink:title="女川町地域医療センター" transform="ref(svg,14144.5049,-3844.3401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）おながわ医務室,宮城県牡鹿郡女川町浦宿浜字小屋ノ口１-１,内科,,,9" xlink:title="（特養）おながわ医務室" transform="ref(svg,14142.6892,-3843.7376)" x="0" y="0"/>
+</g>
+</svg>

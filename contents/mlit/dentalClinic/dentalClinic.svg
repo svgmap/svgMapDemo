@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<!--  参考データです -->
+<!-- Tramsform:[100.0,0.0,0.0,-100.0,0.0,0.0] -->
+<!-- 基準緯線:0.0 -->
+<!-- Bounds:ReferencedEnvelope[123.0057248 : 145.7533185, 24.27003684 : 45.44010186] -->
+<!-- TypeName:dentalClinic -->
+<!-- Count:8 -->
+<!-- NS:dentalClinic -->
+<!-- Geom:GeometryDescriptorImpl the_geom <the_geom:Point> nillable 0:1 -->
+<!-- attrNo:0 Name:the_geom type:Point -->
+<!-- attrNo:1 Name:医療機関分類 type:String -->
+<!-- attrNo:2 Name:施設名称 type:String -->
+<!-- attrNo:3 Name:所在地 type:String -->
+<!-- attrNo:4 Name:診療科目１ type:String -->
+<!-- attrNo:5 Name:診療科目２ type:String -->
+<!-- attrNo:6 Name:診療科目３ type:String -->
+<!-- attrNo:7 Name:開設者分類 type:String -->
+<!-- OriginalDatum:JGD2000 -->
+<!-- OriginalCrd:LatLon -->
+<!-- defMainColor:green -->
+<!-- outlineColor: -->
+<!-- mainColorCol:-1 -->
+<!-- outLineColorCol:-1 -->
+<!-- POIsizeCol:-1 -->
+<!-- captionCol:-1 -->
+<!-- dupCheckCol:-1 -->
+<!-- linkCol:2 -->
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<!-- Total:69125 records. -->
+<!-- LEVEL: 0 -->
+<animation xlink:href="dentalClinic_1-0.svg" x="13500" y="-9000" width="4500" height="4500" visibleMinZoom="8.88"/>
+<image xlink:href="dentalClinic/lvl3/tile1_0.png" preserveAspectRatio="none" x="13500" y="-9000" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<image xlink:href="dentalClinic/lvl3/tile0_1.png" preserveAspectRatio="none" x="9000" y="-4500" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<image xlink:href="dentalClinic/lvl3/tile1_1.png" preserveAspectRatio="none" x="13500" y="-4500" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<!-- LEVEL: 1 -->
+<animation xlink:href="dentalClinic_cont_l1_1-2.svg" x="11250" y="-4500" width="2250" height="2250" visibleMinZoom="17.77"/>
+<image xlink:href="dentalClinic/lvl4/tile1_2.png" preserveAspectRatio="none" x="11250" y="-4500" width="2250" height="2250" visibleMinZoom="8.885" visibleMaxZoom="17.77"/>
+<animation xlink:href="dentalClinic_cont_l1_2-2.svg" x="13500" y="-4500" width="2250" height="2250" visibleMinZoom="17.77"/>
+<image xlink:href="dentalClinic/lvl4/tile2_2.png" preserveAspectRatio="none" x="13500" y="-4500" width="2250" height="2250" visibleMinZoom="8.885" visibleMaxZoom="17.77"/>
+<!-- LEVEL: 2 -->
+<!-- LEVEL: 3 -->
+<!-- LEVEL: 4 -->
+<!-- LEVEL: 5 -->
+<!-- LEVEL: 6 -->
+<!-- LEVEL: 7 -->
+<!-- LEVEL: 8 -->
+<!-- LEVEL: 9 -->
+<!-- LEVEL: 10 -->
+<!-- LEVEL: 11 -->
+</svg>
