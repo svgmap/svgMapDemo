@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13570.3125 -3515.625 8.7890625 8.7890625" go:dataArea="13570.3125 -3515.625 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（医）北村クリニック,京都府京都市左京区静市市原町７４４-７,内科　消化器内科　外科　肛門外科　リハビリテーション科,,,9" xlink:title="（医）北村クリニック" transform="ref(svg,13576.6118,-3507.3571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清久会飯田医院,京都府京都市左京区岩倉中町１７４-６,内科　小児科　皮膚科,,,9" xlink:title="（医）清久会飯田医院" transform="ref(svg,13579.025,-3507.3481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）陽光会やまぐち医院,京都府京都市左京区岩倉忠在地町５４１,呼吸器科　消化器科　外科　理学診療科,,,9" xlink:title="（医）陽光会やまぐち医院" transform="ref(svg,13578.7189,-3507.4607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,垣内医院,京都府京都市左京区静市市原町４６７-２,内科　循環器内科　消化器内科　皮膚科　小児科,,,9" xlink:title="垣内医院" transform="ref(svg,13576.1632,-3508.2604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京都産業大学保健診療所,京都府京都市北区上賀茂本山,内科　外科　神経精神科,,,9" xlink:title="京都産業大学保健診療所" transform="ref(svg,13575.6839,-3506.9512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京都府医師会雲ケ畑診療所,京都府京都市北区雲ケ畑中畑町１７６,内科,,,9" xlink:title="京都府医師会雲ケ畑診療所" transform="ref(svg,13572.1916,-3511.3002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京都府医師会鞍馬診療所,京都府京都市左京区鞍馬本町２５４,内科　小児科,,,9" xlink:title="京都府医師会鞍馬診療所" transform="ref(svg,13577.3011,-3511.3768)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小泉眼科医院,京都府京都市左京区岩倉忠在地町５０６-８,眼科,,,9" xlink:title="小泉眼科医院" transform="ref(svg,13578.7829,-3507.8279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公社）信和会京都民医連洛北診療所,京都府京都市左京区岩倉忠在地町５２９,内科　小児科　外科　アレルギー科,,,9" xlink:title="（公社）信和会京都民医連洛北診療所" transform="ref(svg,13578.7677,-3507.5942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）岩蔵の郷サテライト特養ユニティ長谷医務室,京都府京都市左京区岩倉長谷町１６４８　１階,内科,,,9" xlink:title="（福）岩蔵の郷サテライト特養ユニティ長谷医務室" transform="ref(svg,13579.0624,-3508.0945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴岡耳鼻咽喉科医院,京都府京都市左京区岩倉忠在地町２６７-１グランドールさかた,耳鼻いんこう科　気管食道科　アレルギー科,,,9" xlink:title="鶴岡耳鼻咽喉科医院" transform="ref(svg,13578.7576,-3507.3404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）市原寮静市診療所,京都府京都市左京区静市市原町１２７８,内科　精神科　外科　整形外科　眼科　皮膚科　ひ尿器科,,,9" xlink:title="（特養）市原寮静市診療所" transform="ref(svg,13576.1771,-3509.0723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）静原寮静原診療所,京都府京都市左京区静市静原町５８２,内科,,,9" xlink:title="（特養）静原寮静原診療所" transform="ref(svg,13578.3285,-3510.7171)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）洛翠園医務室,京都府京都市左京区岩倉村松町２０３,内科　神経内科,,,9" xlink:title="（特養）洛翠園医務室" transform="ref(svg,13578.1655,-3508.8414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とよだ医院,京都府京都市左京区岩倉中町２２５-５ドムス岩倉Ｔ-１０２,内科　糖尿病内科,,,9" xlink:title="とよだ医院" transform="ref(svg,13578.8502,-3507.3309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,人見整形外科医院,京都府京都市左京区岩倉忠在地町２８３-１,整形外科　形成外科　理学診療科　リウマチ科,,,9" xlink:title="人見整形外科医院" transform="ref(svg,13578.7235,-3507.1702)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,皮膚科・美容皮膚科のぶはらさとみクリニック,京都府京都市左京区岩倉西河原町３６３コンチネンタルヒロ１Ｆ,皮膚科　美容皮膚科,,,9" xlink:title="皮膚科・美容皮膚科のぶはらさとみクリニック" transform="ref(svg,13578.0667,-3506.9221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヨネダ岩倉診療所,京都府京都市左京区岩倉忠在地町２２４,内科　外科,,,9" xlink:title="ヨネダ岩倉診療所" transform="ref(svg,13578.5687,-3507.4809)" x="0" y="0"/>
+</g>
+</svg>

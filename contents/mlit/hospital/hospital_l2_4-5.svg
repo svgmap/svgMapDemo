@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13500.0 -3375.0 1125.0 1125.0" go:dataArea="13500.0 -3375.0 1125.0 1125.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,国民健康保険町立八丈病院,東京都八丈島八丈町三根２６-１１,内科　消化器内科　循環器内科　糖尿病内科　腎臓内科　内視鏡内科　小児科　精神科　神経内科　外科　整形外科　産科　眼科　耳鼻いんこう科　皮膚科　泌尿器科　リハビリ科,,,2" xlink:title="国民健康保険町立八丈病院" transform="ref(svg,13979.1743,-3311.2799)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,紀南病院,和歌山県田辺市新庄町４６-７０,内科　消化器科　呼吸器科　循環器科　小児科　外科　整形外科　脳神経外科　呼吸器外科　心臓血管外科　小児外科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　リハビリテーション科　放射線科　皮膚科　麻酔科　形成外科　神経内科　歯科口腔外科　病理診断科,,,2" xlink:title="紀南病院" transform="ref(svg,13540.4505,-3373.0286)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,紀南こころの医療センター,和歌山県田辺市たきない町２５-１,精神科　神経科,,,2" xlink:title="紀南こころの医療センター" transform="ref(svg,13539.8708,-3369.9371)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）研医会田辺中央病院,和歌山県田辺市南新町１４７,内科　外科　整形外科　肛門外科　リハビリテーション科,,,4" xlink:title="（医）研医会田辺中央病院" transform="ref(svg,13537.935,-3373.2846)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,南紀医療福祉センター,和歌山県西牟婁郡上富田町岩田１７７６-１,内科　小児科　整形外科　精神科　歯科,,,6" xlink:title="南紀医療福祉センター" transform="ref(svg,13544.4051,-3370.8353)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）洗心会玉置病院,和歌山県田辺市上屋敷２-５-１,内科　外科　消化器科　整形外科　脳神経外科,,,4" xlink:title="（医）洗心会玉置病院" transform="ref(svg,13537.6282,-3373.0941)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構南和歌山医療センター,和歌山県田辺市たきない町２７-１,内科　外科　小児科　眼科　耳鼻咽喉科　産婦人科　消化器科　循環器科　呼吸器科　整形外科　脳神経外科　胸部外科　心臓血管外科　皮膚科　泌尿器科　精神科　リハビリテーション科　放射線科　麻酔科　歯科口腔外科　救急科　腫瘍内科　呼吸器外科　乳腺外科,,,1" xlink:title="（独）国立病院機構南和歌山医療センター" transform="ref(svg,13539.9433,-3370.062)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,白浜はまゆう病院,和歌山県西牟婁郡白浜町１４４７,内科　心療内科　外科　整形外科　小児科　皮膚科　泌尿器科　リハビリテーション科　眼科　循環器科　呼吸器科　耳鼻咽喉科　リウマチ科　神経内科　消化器科　産婦人科　麻酔科　脳神経外科　アレルギー科,,,6" xlink:title="白浜はまゆう病院" transform="ref(svg,13534.8928,-3368.1842)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国保すさみ病院,和歌山県西牟婁郡すさみ町周参見２３８０,内科　外科　リハビリテーション科,,,2" xlink:title="国保すさみ病院" transform="ref(svg,13549.6232,-3355.6231)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）宝山会白浜小南病院,和歌山県西牟婁郡白浜町３２２０-９,内科　リハビリテーション科　放射線科,,,4" xlink:title="（医）宝山会白浜小南病院" transform="ref(svg,13535.6042,-3368.0281)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,くしもと町立病院,和歌山県東牟婁郡串本町サンゴ台６９１-７,内科　外科　小児科　眼科　耳鼻咽喉科　産婦人科　整形外科　脳神経外科　泌尿器科,,,2" xlink:title="くしもと町立病院" transform="ref(svg,13578.4415,-3348.4774)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,串本有田病院,和歌山県東牟婁郡串本町有田４９９-１,内科　外科　眼科　循環器内科　皮膚科　放射線科　神経内科　リハビリテーション科　脳神経外科,,,4" xlink:title="串本有田病院" transform="ref(svg,13573.8522,-3349.4607)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）芳純会潮岬病院,和歌山県東牟婁郡串本町潮岬４１７,内科　精神科　心療内科,,,4" xlink:title="（医）芳純会潮岬病院" transform="ref(svg,13577.0033,-3345.4217)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,新宮市立医療センター,和歌山県新宮市蜂伏１８-７,内科　循環器内科　神経内科　皮膚科　小児科　外科　肛門科　呼吸器外科　心臓血管外科　泌尿器科　脳神経外科　整形外科　形成外科　眼科　耳鼻咽喉科　産婦人科　リハビリテーション科　放射線科　麻酔科　歯科口腔外科,,,2" xlink:title="新宮市立医療センター" transform="ref(svg,13596.4006,-3368.6676)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（一財）新宮病院,和歌山県新宮市仲之町２-１-１５,内科　リウマチ科　整形外科　リハビリテーション科　歯科口腔外科,,,6" xlink:title="（一財）新宮病院" transform="ref(svg,13598.9023,-3372.9234)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）両茂会岩-ｱ病院,和歌山県新宮市三輪崎１３８４,精神科,,,4" xlink:title="（医）両茂会岩-ｱ病院" transform="ref(svg,13598.0558,-3369.1534)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,那智勝浦町立温泉病院,和歌山県東牟婁郡那智勝浦町天満４８３-１,内科　循環器内科　糖尿病内科　小児科　外科　整形外科　眼科　耳鼻咽喉科　婦人科　リハビリテーション科　放射線科,,,2" xlink:title="那智勝浦町立温泉病院" transform="ref(svg,13593.6054,-3363.4423)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）日進会日比記念病院,和歌山県東牟婁郡那智勝浦町朝日１-２２１,内科　呼吸器内科　循環器内科　神経内科　外科　消化器外科　脳神経外科　整形外科　リハビリテーション科　放射線科　麻酔科,,,4" xlink:title="（医）日進会日比記念病院" transform="ref(svg,13593.688,-3363.0101)" x="0" y="0"/>
+</g>
+</svg>

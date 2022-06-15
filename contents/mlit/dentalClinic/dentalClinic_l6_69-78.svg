@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13851.5625 -3515.625 70.3125 70.3125" go:dataArea="13851.5625 -3515.625 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,力石歯科医院,神奈川県足柄下郡真鶴町真鶴８５３,歯科,,,9" xlink:title="力石歯科医院" transform="ref(svg,13914.064,-3515.4333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科医院,神奈川県足柄下郡湯河原町土肥１-４-１８,歯科,,,9" xlink:title="金子歯科医院" transform="ref(svg,13910.3939,-3514.5625)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平間歯科医院,神奈川県足柄下郡湯河原町宮上５５２,歯科,,,9" xlink:title="平間歯科医院" transform="ref(svg,13907.2643,-3514.6579)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,室伏歯科医院,神奈川県足柄下郡湯河原町宮下５３３,歯科,,,9" xlink:title="室伏歯科医院" transform="ref(svg,13909.8085,-3514.3745)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,湯河原歯科医院,神奈川県足柄下郡湯河原町土肥２-１６-６,歯科,,,9" xlink:title="湯河原歯科医院" transform="ref(svg,13910.6073,-3514.4292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平間歯科カジヤ医院,神奈川県足柄下郡湯河原町中央３-２-１,歯科,,,9" xlink:title="平間歯科カジヤ医院" transform="ref(svg,13910.9917,-3515.0703)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,錦織歯科医院,神奈川県足柄下郡湯河原町宮上４４６-６,歯科,,,9" xlink:title="錦織歯科医院" transform="ref(svg,13907.8196,-3514.3921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高木歯科医院,神奈川県足柄下郡湯河原町中央１-１６１７-２２,歯科,,,9" xlink:title="高木歯科医院" transform="ref(svg,13911.3203,-3514.5792)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,愛歯科湯河原診療所,神奈川県足柄下郡湯河原町土肥１-３-１０一福堂第２ビル３Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="愛歯科湯河原診療所" transform="ref(svg,13910.1785,-3514.5239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,門川歯科クリニック,神奈川県足柄下郡湯河原町土肥２-２１-２７角田ビル１Ｆ,歯科,,,9" xlink:title="門川歯科クリニック" transform="ref(svg,13910.8797,-3514.3059)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あらい歯科,神奈川県足柄下郡湯河原町土肥１-１３-２,歯科,,,9" xlink:title="あらい歯科" transform="ref(svg,13910.4129,-3514.393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大橋歯科医院,神奈川県足柄下郡湯河原町宮上１３７,歯科　小児歯科,,,9" xlink:title="大橋歯科医院" transform="ref(svg,13908.7893,-3514.141)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）博真志会かとう歯科医院,神奈川県足柄下郡湯河原町中央３-６-２,歯科,,,9" xlink:title="（医）博真志会かとう歯科医院" transform="ref(svg,13911.022,-3515.0244)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヤサカ歯科,神奈川県足柄下郡湯河原町吉浜５７２,歯科,,,9" xlink:title="ヤサカ歯科" transform="ref(svg,13912.486,-3515.2295)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こしみず歯科医院,神奈川県足柄下郡真鶴町真鶴１８１４-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="こしみず歯科医院" transform="ref(svg,13913.1595,-3515.5734)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,城堀歯科クリニック,神奈川県足柄下郡湯河原町城堀８７-５,歯科　矯正歯科,,,9" xlink:title="城堀歯科クリニック" transform="ref(svg,13910.506,-3514.6104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,臼井歯科医院,静岡県下田市６-４５４-３,歯科　小児歯科,,,9" xlink:title="臼井歯科医院" transform="ref(svg,13893.3567,-3467.503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,勝田歯科医院,静岡県下田市１-２０-２４,歯科,,,9" xlink:title="勝田歯科医院" transform="ref(svg,13894.4269,-3467.5539)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊池歯科医院,静岡県下田市２-１２-２６,歯科,,,9" xlink:title="菊池歯科医院" transform="ref(svg,13894.2883,-3467.3585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,キクチ歯科医院,静岡県下田市河内１４９-４,歯科,,,9" xlink:title="キクチ歯科医院" transform="ref(svg,13893.9384,-3470.0358)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矯正歯科兼松医院,静岡県下田市東本郷１-９-２１,歯科　矯正歯科,,,9" xlink:title="矯正歯科兼松医院" transform="ref(svg,13894.6333,-3467.9811)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹本歯科診療所,静岡県下田市２-１-２０,歯科,,,9" xlink:title="笹本歯科診療所" transform="ref(svg,13894.2723,-3467.4324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科診療所,静岡県下田市西本郷１-７-２０,歯科,,,9" xlink:title="杉山歯科診療所" transform="ref(svg,13894.4505,-3468.1933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,静岡県下田市東本郷１-２０-８,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13894.6111,-3468.2201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田原歯科医院,静岡県下田市５-１-４１,歯科,,,9" xlink:title="田原歯科医院" transform="ref(svg,13893.8771,-3467.3029)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土屋歯科医院,静岡県下田市東本郷１-５-２４,歯科,,,9" xlink:title="土屋歯科医院" transform="ref(svg,13894.5343,-3467.9056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,馬場歯科医院,静岡県下田市１-２-１６,歯科,,,9" xlink:title="馬場歯科医院" transform="ref(svg,13894.41,-3467.785)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,静岡県下田市西本郷２-１３-８,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13894.2169,-3468.4858)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科医院,静岡県賀茂郡東伊豆町稲取３９９-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="かとう歯科医院" transform="ref(svg,13904.1422,-3477.1091)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科医院,静岡県賀茂郡東伊豆町奈良本２５０,歯科　矯正歯科,,,9" xlink:title="川村歯科医院" transform="ref(svg,13906.145,-3481.937)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,雲野歯科クリニック,静岡県賀茂郡東伊豆町稲取７１５,歯科,,,9" xlink:title="雲野歯科クリニック" transform="ref(svg,13904.1411,-3476.9725)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村松歯科医院,静岡県賀茂郡東伊豆町稲取２７８-９,歯科　小児歯科,,,9" xlink:title="村松歯科医院" transform="ref(svg,13903.8983,-3477.3724)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森田歯科医院,静岡県賀茂郡東伊豆町片瀬５６４-１４,歯科,,,9" xlink:title="森田歯科医院" transform="ref(svg,13906.0607,-3480.4452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石原歯科医院,静岡県賀茂郡河津町浜１８０-３,歯科,,,9" xlink:title="石原歯科医院" transform="ref(svg,13899.8347,-3474.8039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いなば歯科医院,静岡県賀茂郡河津町下佐ヶ野５２-４,歯科　小児歯科,,,9" xlink:title="いなば歯科医院" transform="ref(svg,13895.7105,-3477.4828)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,庄内歯科クリニック,静岡県賀茂郡河津町浜１４６-４,歯科,,,9" xlink:title="庄内歯科クリニック" transform="ref(svg,13899.5065,-3474.715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヒロ歯科クリニック,静岡県賀茂郡河津町浜１５７-２,歯科,,,9" xlink:title="ヒロ歯科クリニック" transform="ref(svg,13899.6309,-3474.7542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村屋歯科医院,静岡県賀茂郡河津町田中２０７-５,歯科　小児歯科,,,9" xlink:title="中村屋歯科医院" transform="ref(svg,13898.7014,-3475.6025)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くまざわ歯科医院,静岡県賀茂郡南伊豆町手石６０-１,歯科　歯科口腔外科,,,9" xlink:title="くまざわ歯科医院" transform="ref(svg,13888.3912,-3465.1616)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,澤田歯科医院,静岡県賀茂郡南伊豆町加納６５２,歯科,,,9" xlink:title="澤田歯科医院" transform="ref(svg,13885.6288,-3465.0085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平野歯科医院,静岡県賀茂郡南伊豆町湊３３７-２,歯科,,,9" xlink:title="平野歯科医院" transform="ref(svg,13888.0495,-3464.84)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山田歯科診療所,静岡県賀茂郡松崎町松崎４９４-１,歯科,,,9" xlink:title="小山田歯科診療所" transform="ref(svg,13877.5793,-3475.3604)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,静岡県賀茂郡松崎町松崎３５４,歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13877.7811,-3475.3512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口歯科医院,静岡県賀茂郡松崎町江奈２１４-８,歯科,,,9" xlink:title="田口歯科医院" transform="ref(svg,13877.8348,-3475.6738)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中江歯科医院,静岡県賀茂郡松崎町松崎３６７,歯科,,,9" xlink:title="中江歯科医院" transform="ref(svg,13877.76,-3475.4576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡部歯科医院,静岡県賀茂郡松崎町江奈２５２-９,歯科,,,9" xlink:title="渡部歯科医院" transform="ref(svg,13878.0797,-3475.5919)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松崎歯科診療所,静岡県賀茂郡松崎町伏倉５２０-３,歯科,,,9" xlink:title="松崎歯科診療所" transform="ref(svg,13879.4025,-3475.0344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長嶋歯科医院,静岡県賀茂郡西伊豆町仁科３６２,歯科,,,9" xlink:title="長嶋歯科医院" transform="ref(svg,13877.6274,-3477.0431)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀内歯科医院,静岡県賀茂郡西伊豆町仁科２１３-１,歯科,,,9" xlink:title="堀内歯科医院" transform="ref(svg,13877.8536,-3476.9673)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤井歯科医院,静岡県賀茂郡西伊豆町宇久須８３４-３,歯科　小児歯科,,,9" xlink:title="藤井歯科医院" transform="ref(svg,13878.3167,-3484.9267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｆデンタルクリニック,静岡県賀茂郡西伊豆町宇久須４１０-１,歯科,,,9" xlink:title="Ｆデンタルクリニック" transform="ref(svg,13877.617,-3484.7253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田子歯科診療所,静岡県賀茂郡西伊豆町田子１０１０-１６,歯科　小児歯科,,,9" xlink:title="田子歯科診療所" transform="ref(svg,13876.9468,-3480.9157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,熱海歯科クリニック,静岡県熱海市田原本町４-１６,歯科　小児歯科,,,9" xlink:title="熱海歯科クリニック" transform="ref(svg,13907.6231,-3510.2003)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）愛歯科診療所,静岡県熱海市田原本町９-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）愛歯科診療所" transform="ref(svg,13907.9127,-3510.335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）共潮会網代歯科医院,静岡県熱海市下多賀１６５-６,歯科,,,9" xlink:title="（医）共潮会網代歯科医院" transform="ref(svg,13908.2328,-3504.4454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,愛歯科原田診療所,静岡県熱海市田原本町９-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="愛歯科原田診療所" transform="ref(svg,13907.9127,-3510.335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,静岡県熱海市水口町４-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="石田歯科医院" transform="ref(svg,13906.8312,-3509.7226)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,泉デンタルクリニック,静岡県熱海市泉８２-１,歯科,,,9" xlink:title="泉デンタルクリニック" transform="ref(svg,13907.8533,-3514.2102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,静岡県熱海市清水町５-１５,歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13907.2869,-3509.3537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こあくつ歯科医院,静岡県熱海市福道町３-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こあくつ歯科医院" transform="ref(svg,13906.6476,-3509.8285)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こはら歯科クリニック,静岡県熱海市下多賀１０８-１４,歯科,,,9" xlink:title="こはら歯科クリニック" transform="ref(svg,13908.3673,-3504.415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,静岡県熱海市下多賀１８２,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13908.0979,-3504.3141)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,静岡県熱海市東海岸町４-１１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13907.4912,-3509.7667)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ジョージ歯科,静岡県熱海市田原本町９-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ジョージ歯科" transform="ref(svg,13907.9127,-3510.335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,セントラル歯科,静岡県熱海市中央町１-９,歯科,,,9" xlink:title="セントラル歯科" transform="ref(svg,13907.1683,-3509.5796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立山歯科医院,静岡県熱海市桃山町１８-１３,歯科　小児歯科,,,9" xlink:title="立山歯科医院" transform="ref(svg,13907.967,-3510.6386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渓歯科医院,静岡県熱海市清水町１４-１０,歯科,,,9" xlink:title="渓歯科医院" transform="ref(svg,13907.0266,-3509.3675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷口歯科医院,静岡県熱海市昭和町２０-１３,歯科,,,9" xlink:title="谷口歯科医院" transform="ref(svg,13906.8619,-3509.1257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷口歯科診療所,静岡県熱海市銀座町１３-４,歯科,,,9" xlink:title="谷口歯科診療所" transform="ref(svg,13907.3477,-3509.7293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ツイキ歯科医院,静岡県熱海市中央町１９-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="ツイキ歯科医院" transform="ref(svg,13907.1113,-3509.5344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土屋歯科医院,静岡県熱海市下多賀９０６-５,歯科,,,9" xlink:title="土屋歯科医院" transform="ref(svg,13907.0984,-3504.9438)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野田デンタルクリニック,静岡県熱海市清水町２１-７,歯科,,,9" xlink:title="野田デンタルクリニック" transform="ref(svg,13907.0651,-3509.4699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野本歯科医院,静岡県熱海市清水町１-１４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="野本歯科医院" transform="ref(svg,13907.1288,-3509.4452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,二見歯科医院,静岡県熱海市上多賀８５０,歯科,,,9" xlink:title="二見歯科医院" transform="ref(svg,13907.3712,-3506.0748)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本田歯科医院,静岡県熱海市銀座町１４-２５,歯科,,,9" xlink:title="本田歯科医院" transform="ref(svg,13907.3019,-3509.7487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みと歯科,静岡県熱海市田原本町９-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="みと歯科" transform="ref(svg,13907.9127,-3510.335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢田デンタル,静岡県熱海市西山町１９-６,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="矢田デンタル" transform="ref(svg,13906.3711,-3510.6634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまだ歯科医院,静岡県熱海市清水町６-２７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまだ歯科医院" transform="ref(svg,13907.2459,-3509.3121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）健伸会はぎわら歯科,静岡県伊東市八幡野１１９４-３０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）健伸会はぎわら歯科" transform="ref(svg,13910.26,-3487.8119)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）皓歯会ひだ歯科医院,静岡県伊東市川奈１２２８-２１０,歯科,,,9" xlink:title="（医）皓歯会ひだ歯科医院" transform="ref(svg,13911.8193,-3495.3062)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）新正会高原歯科医院,静岡県伊東市富戸１３１７-５１２３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）新正会高原歯科医院" transform="ref(svg,13911.0467,-3490.2553)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）青歯会ちゃいるど歯科医院,静岡県伊東市松原本町１６-１６,歯科　小児歯科,,,9" xlink:title="（医）青歯会ちゃいるど歯科医院" transform="ref(svg,13909.5834,-3497.3269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）双翔会いなば矯正歯科,静岡県伊東市和田２-３-５,矯正歯科,,,9" xlink:title="（医）双翔会いなば矯正歯科" transform="ref(svg,13910.2686,-3496.8975)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわな駅前歯科,静岡県伊東市川奈１２３０-１９,歯科　歯科口腔外科,,,9" xlink:title="かわな駅前歯科" transform="ref(svg,13912.3569,-3495.1696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,愛歯科クリニック,静岡県伊東市八幡野１１８３,歯科　矯正歯科　小児歯科,,,9" xlink:title="愛歯科クリニック" transform="ref(svg,13910.8062,-3487.8133)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あかつき歯科医院,静岡県伊東市松川町３-２,歯科　矯正歯科,,,9" xlink:title="あかつき歯科医院" transform="ref(svg,13909.5728,-3497.2033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科医院,静岡県伊東市東松原町１３-３,歯科　口腔外科,,,9" xlink:title="飯田歯科医院" transform="ref(svg,13909.7537,-3497.1968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石井歯科医院,静岡県伊東市静海町４-２０,歯科,,,9" xlink:title="石井歯科医院" transform="ref(svg,13910.4695,-3496.9363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川歯科,静岡県伊東市銀座元町６-１,歯科,,,9" xlink:title="石川歯科" transform="ref(svg,13909.756,-3497.0449)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊東中央歯科医院,静岡県伊東市中央町９-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="伊東中央歯科医院" transform="ref(svg,13909.4702,-3497.2003)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井原歯科岡診療所,静岡県伊東市桜木町１-５-１１,歯科,,,9" xlink:title="井原歯科岡診療所" transform="ref(svg,13909.3887,-3496.6202)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うさみ歯科クリニック,静岡県伊東市宇佐美１５７２-５５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="うさみ歯科クリニック" transform="ref(svg,13907.8733,-3500.6804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウノ歯科医院,静岡県伊東市八幡野１２９８-６１,歯科,,,9" xlink:title="ウノ歯科医院" transform="ref(svg,13910.5652,-3488.6328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,栄光歯科医院,静岡県伊東市荻１５２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="栄光歯科医院" transform="ref(svg,13909.0788,-3493.639)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エトワール歯科クリニック,静岡県伊東市広野１-１-２６,歯科,,,9" xlink:title="エトワール歯科クリニック" transform="ref(svg,13909.2337,-3496.3911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エムアイデンタルクリニック,静岡県伊東市南町２-３-２３,歯科　小児歯科　矯正歯科,,,9" xlink:title="エムアイデンタルクリニック" transform="ref(svg,13908.8507,-3495.5482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エンゼル歯科クリニック,静岡県伊東市鎌田９５７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="エンゼル歯科クリニック" transform="ref(svg,13908.203,-3494.7369)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大高歯科医院,静岡県伊東市湯川１-１４-１６,歯科,,,9" xlink:title="大高歯科医院" transform="ref(svg,13909.3344,-3497.366)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大竹歯科医院,静岡県伊東市湯川２-１６-２３,歯科,,,9" xlink:title="大竹歯科医院" transform="ref(svg,13909.4542,-3497.5173)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡山歯科,静岡県伊東市湯川１-６-４,歯科,,,9" xlink:title="岡山歯科" transform="ref(svg,13909.3783,-3497.4205)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科医院,静岡県伊東市宇佐美１７８２-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小川歯科医院" transform="ref(svg,13908.3317,-3500.5902)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上條歯科医院,静岡県伊東市宇佐美１８７４-２１,歯科,,,9" xlink:title="上條歯科医院" transform="ref(svg,13908.1695,-3500.5101)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊池歯科医院,静岡県伊東市吉田１１８-１,歯科,,,9" xlink:title="菊池歯科医院" transform="ref(svg,13912.2173,-3493.3752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小出歯科医院,静岡県伊東市桜ガ丘２-５-８,歯科,,,9" xlink:title="小出歯科医院" transform="ref(svg,13908.7752,-3495.6493)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,静岡県伊東市荻１４７-３,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13908.9771,-3493.6099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂井小児歯科,静岡県伊東市寿町７-１０,矯正歯科　小児歯科,,,9" xlink:title="坂井小児歯科" transform="ref(svg,13909.3462,-3496.9869)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しまだ歯科医院,静岡県伊東市猪戸１-６-１２,歯科,,,9" xlink:title="しまだ歯科医院" transform="ref(svg,13909.2064,-3497.2312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下村歯科医院,静岡県伊東市吉田４０４,歯科,,,9" xlink:title="下村歯科医院" transform="ref(svg,13912.0648,-3493.6082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新谷歯科医院,静岡県伊東市宇佐美１６０９-５,歯科,,,9" xlink:title="新谷歯科医院" transform="ref(svg,13907.9628,-3500.8381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,静岡県伊東市竹の内２-１-４,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13909.9282,-3496.9497)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高川歯科医院,静岡県伊東市八幡野１１８９-５８,歯科,,,9" xlink:title="高川歯科医院" transform="ref(svg,13910.528,-3487.5874)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土屋歯科診療所,静岡県伊東市竹の内２-４-２０,歯科,,,9" xlink:title="土屋歯科診療所" transform="ref(svg,13909.7581,-3496.8855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鶴岡歯科医院,静岡県伊東市宮川町１-３-１３,歯科,,,9" xlink:title="鶴岡歯科医院" transform="ref(svg,13908.6551,-3495.4425)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科クリニックＤｅｎ,静岡県伊東市玖須美元和田７２０-１４３,歯科　矯正歯科　小児歯科,,,9" xlink:title="歯科クリニックＤｅｎ" transform="ref(svg,13911.4695,-3494.8778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仁田歯科医院,静岡県伊東市宇佐美１９６６-１８,歯科　小児歯科,,,9" xlink:title="仁田歯科医院" transform="ref(svg,13907.8273,-3500.3103)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富士見歯科医院,静岡県伊東市玖須美元和田７３０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="富士見歯科医院" transform="ref(svg,13910.7803,-3495.5894)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホワイト歯科クリニック,静岡県伊東市竹の内１-５-１３,歯科,,,9" xlink:title="ホワイト歯科クリニック" transform="ref(svg,13909.5624,-3496.7716)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前島歯科医院,静岡県伊東市玖須美元和田７２７-７１,歯科,,,9" xlink:title="前島歯科医院" transform="ref(svg,13911.4668,-3494.9865)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,南島歯科医院,静岡県伊東市吉田７５８-１２,歯科,,,9" xlink:title="南島歯科医院" transform="ref(svg,13911.5129,-3494.2232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,望月歯科医院,静岡県伊東市岡広町４-１８,歯科,,,9" xlink:title="望月歯科医院" transform="ref(svg,13908.9979,-3496.8248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,モモセ歯科クリニック,静岡県伊東市大原３-１５-２０,歯科,,,9" xlink:title="モモセ歯科クリニック" transform="ref(svg,13910.3417,-3496.4496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八幡野歯科診療所,静岡県伊東市八幡野９８９-３,歯科,,,9" xlink:title="八幡野歯科診療所" transform="ref(svg,13910.2825,-3487.4506)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米山歯科,静岡県伊東市桜木町１-２-４,歯科,,,9" xlink:title="米山歯科" transform="ref(svg,13909.4073,-3496.7418)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさい歯科クリニック,静岡県沼津市錦町６４８-１８,歯科　小児歯科　矯正歯科,,,9" xlink:title="あさい歯科クリニック" transform="ref(svg,13885.1257,-3510.0347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,静岡県沼津市岡一色堤下１２８-２１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="石田歯科医院" transform="ref(svg,13888.082,-3512.7113)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,庵原歯科医院,静岡県沼津市添地町１４９,歯科,,,9" xlink:title="庵原歯科医院" transform="ref(svg,13885.6871,-3510.082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）久正会矢部歯科医院香貫診療所,静岡県沼津市下香貫馬場４８７-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）久正会矢部歯科医院香貫診療所" transform="ref(svg,13887.1977,-3508.3645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）長澤歯科医院,静岡県沼津市大手町３-１-３エイブルコア５階,歯科,,,9" xlink:title="（医）長澤歯科医院" transform="ref(svg,13886.0045,-3510.1926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エクセル歯科,静岡県沼津市原町中２-１３-２６,歯科　矯正歯科,,,9" xlink:title="エクセル歯科" transform="ref(svg,13880.0398,-3512.8625)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大川矯正歯科クリニック,静岡県沼津市杉崎町７-５,矯正歯科,,,9" xlink:title="大川矯正歯科クリニック" transform="ref(svg,13886.5517,-3510.5575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐野歯科医院,静岡県沼津市大岡１４２０,歯科,,,9" xlink:title="佐野歯科医院" transform="ref(svg,13887.8355,-3510.3712)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科クリニック,静岡県沼津市志下１７８-２,歯科　矯正歯科,,,9" xlink:title="鈴木歯科クリニック" transform="ref(svg,13887.8067,-3506.7179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ファミリー歯科,静岡県沼津市高島本町９-１キンヤ第２ビル１階,歯科　矯正歯科,,,9" xlink:title="ファミリー歯科" transform="ref(svg,13885.9506,-3510.9594)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ライオン歯科,静岡県沼津市共栄町２０-６,歯科　矯正歯科,,,9" xlink:title="ライオン歯科" transform="ref(svg,13887.1639,-3511.9616)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（福）あしたか太陽の丘診療所,静岡県沼津市宮本５-２,歯科,,,9" xlink:title="（福）あしたか太陽の丘診療所" transform="ref(svg,13883.909,-3514.4907)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ｉＤＥＮＴＡＬＣＬＩＮＩＣ,静岡県沼津市大手町３-４-１２杉山ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ｉＤＥＮＴＡＬＣＬＩＮＩＣ" transform="ref(svg,13886.0024,-3510.1185)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あい敬歯科医院,静岡県沼津市高砂町７-１０,歯科,,,9" xlink:title="あい敬歯科医院" transform="ref(svg,13885.8166,-3513.1765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅井歯科医院,静岡県沼津市浅間町２５１,歯科,,,9" xlink:title="浅井歯科医院" transform="ref(svg,13885.5414,-3509.5362)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,旭歯科医院,静岡県沼津市末広町６７,歯科,,,9" xlink:title="旭歯科医院" transform="ref(svg,13885.465,-3509.7446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさひデンタルクリニック,静岡県沼津市沼北町２-１１-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あさひデンタルクリニック" transform="ref(svg,13885.3208,-3511.4821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アップル歯科医院,静岡県沼津市新宿町８-３,歯科,,,9" xlink:title="アップル歯科医院" transform="ref(svg,13885.9584,-3510.7358)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯島歯科医院,静岡県沼津市五月町５-１１,歯科,,,9" xlink:title="飯島歯科医院" transform="ref(svg,13886.2528,-3511.5284)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いくこ歯科医院,静岡県沼津市原６５５-１５,歯科　小児歯科,,,9" xlink:title="いくこ歯科医院" transform="ref(svg,13878.4388,-3512.7559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,静岡県沼津市北高島町１３-３０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13885.6768,-3511.2428)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石原矯正歯科,静岡県沼津市米山町２-７-２Ｆ,矯正歯科,,,9" xlink:title="石原矯正歯科" transform="ref(svg,13886.2917,-3510.5292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしわた歯科医院,静岡県沼津市大手町４-３-４０,歯科,,,9" xlink:title="いしわた歯科医院" transform="ref(svg,13885.9222,-3509.8186)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石渡歯科クリニック,静岡県沼津市東椎路８８-１１,歯科,,,9" xlink:title="石渡歯科クリニック" transform="ref(svg,13884.4242,-3512.2276)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊東歯科医院,静岡県沼津市大塚１４１-１,歯科,,,9" xlink:title="伊東歯科医院" transform="ref(svg,13880.8612,-3512.0959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲玉歯科医院,静岡県沼津市大岡１８８１-３ベルメゾン９３-１０１,歯科,,,9" xlink:title="稲玉歯科医院" transform="ref(svg,13886.877,-3511.1416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,庵原町中歯科医院,静岡県沼津市原町中１-３-１０,歯科,,,9" xlink:title="庵原町中歯科医院" transform="ref(svg,13879.5814,-3513.0521)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウエダ歯科,静岡県沼津市平町１５-１０上田ビル２Ｆ,歯科　矯正歯科,,,9" xlink:title="ウエダ歯科" transform="ref(svg,13886.5831,-3509.9942)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植松歯科医院,静岡県沼津市若葉町１７-２７,歯科　小児歯科,,,9" xlink:title="植松歯科医院" transform="ref(svg,13885.6439,-3512.0371)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,牛臥歯科診療所,静岡県沼津市下香貫塩場３０７９-１１,歯科,,,9" xlink:title="牛臥歯科診療所" transform="ref(svg,13886.7039,-3507.8475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梅田歯科医院,静岡県沼津市米山町２-２９梅田ビル１Ｆ,歯科,,,9" xlink:title="梅田歯科医院" transform="ref(svg,13886.3443,-3510.4698)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,雲野歯科医院,静岡県沼津市山王台１-６,歯科,,,9" xlink:title="雲野歯科医院" transform="ref(svg,13886.7399,-3510.38)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,頴川歯科矯正歯科,静岡県沼津市高島本町１１-１５頴川ビル１Ｆ,歯科　矯正歯科,,,9" xlink:title="頴川歯科矯正歯科" transform="ref(svg,13886.1163,-3510.9631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江塚歯科医院,静岡県沼津市杉崎町２-１９,歯科,,,9" xlink:title="江塚歯科医院" transform="ref(svg,13886.4566,-3510.5509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大嶽歯科医院,静岡県沼津市岡一色４２１-２,歯科　小児歯科,,,9" xlink:title="大嶽歯科医院" transform="ref(svg,13887.8355,-3512.9145)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大島歯科医院,静岡県沼津市筒井町２-６,歯科　歯科口腔外科,,,9" xlink:title="大島歯科医院" transform="ref(svg,13886.3545,-3511.921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大津歯科医院,静岡県沼津市真砂町７-９,歯科,,,9" xlink:title="大津歯科医院" transform="ref(svg,13884.9849,-3510.0177)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおひら歯科,静岡県沼津市大平１８１１-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おおひら歯科" transform="ref(svg,13890.9815,-3507.2758)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡山デンタルクリニック,静岡県沼津市西椎路１１８-１,歯科,,,9" xlink:title="岡山デンタルクリニック" transform="ref(svg,13882.2492,-3512.3048)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おざわ歯科医院,静岡県沼津市大岡１５４１-４,歯科　小児歯科,,,9" xlink:title="おざわ歯科医院" transform="ref(svg,13887.1717,-3510.0583)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,静岡県沼津市高島町８-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13886.0147,-3510.4829)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鏡歯科医院,静岡県沼津市岡一色７７０-１,歯科,,,9" xlink:title="鏡歯科医院" transform="ref(svg,13887.9755,-3513.1826)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柏木歯科医院,静岡県沼津市添地町２１３,歯科,,,9" xlink:title="柏木歯科医院" transform="ref(svg,13885.6828,-3509.9613)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,片岡歯科医院,静岡県沼津市下香貫樋之口１７１０-２,歯科,,,9" xlink:title="片岡歯科医院" transform="ref(svg,13887.5278,-3507.54)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,静岡県沼津市北今沢１６-１,歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13881.708,-3512.4574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鎌田歯科医院,静岡県沼津市御幸町２４-４６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="鎌田歯科医院" transform="ref(svg,13886.4576,-3509.3064)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,亀井歯科医院,静岡県沼津市大手町１-１-９,歯科　小児歯科,,,9" xlink:title="亀井歯科医院" transform="ref(svg,13885.7168,-3510.2617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川口歯科医院,静岡県沼津市高島町２１-２,歯科,,,9" xlink:title="川口歯科医院" transform="ref(svg,13885.791,-3510.4728)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,静岡県沼津市大手町５-６-２,歯科,,,9" xlink:title="神田歯科医院" transform="ref(svg,13885.804,-3509.9798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,城内歯科医院,静岡県沼津市三枚橋町１３-９,歯科　小児歯科,,,9" xlink:title="城内歯科医院" transform="ref(svg,13886.3989,-3509.9398)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きくた歯科医院,静岡県沼津市下河原７３-２,歯科　小児歯科,,,9" xlink:title="きくた歯科医院" transform="ref(svg,13885.6957,-3508.8309)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杏林歯科,静岡県沼津市西椎路１９３-４,歯科,,,9" xlink:title="杏林歯科" transform="ref(svg,13882.5122,-3512.7422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,工藤歯科診療所,静岡県沼津市高島本町１１-３,歯科,,,9" xlink:title="工藤歯科診療所" transform="ref(svg,13886.0678,-3510.9459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,栗田歯科医院,静岡県沼津市幸町４,歯科,,,9" xlink:title="栗田歯科医院" transform="ref(svg,13885.4911,-3509.5039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒木歯科診療所,静岡県沼津市本郷町２２-１８,歯科　小児歯科,,,9" xlink:title="黒木歯科診療所" transform="ref(svg,13887.0261,-3509.2116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くわはら矯正歯科医院,静岡県沼津市大手町５-５-３森田ビル５Ｆ,歯科　矯正歯科,,,9" xlink:title="くわはら矯正歯科医院" transform="ref(svg,13885.8587,-3509.9607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,敬愛歯科医院,静岡県沼津市下香貫下障子３１５１-５東広ビル２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="敬愛歯科医院" transform="ref(svg,13886.9544,-3508.2189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＫＬＴ川口歯科医院,静岡県沼津市本町３７,歯科　矯正歯科　小児歯科,,,9" xlink:title="ＫＬＴ川口歯科医院" transform="ref(svg,13885.6352,-3509.6198)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＫＬＴメモリアル歯科,静岡県沼津市大手町３-２-２０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ＫＬＴメモリアル歯科" transform="ref(svg,13886.0467,-3510.1793)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コーラルビューティクリニック,静岡県沼津市大手町５-５-３森田ビル４Ｆ,歯科　形成外科　整形外科　美容外科,,,9" xlink:title="コーラルビューティクリニック" transform="ref(svg,13885.8587,-3509.9607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごとう歯科医院,静岡県沼津市原１４１８-４５,歯科　矯正歯科　小児歯科,,,9" xlink:title="ごとう歯科医院" transform="ref(svg,13880.5752,-3512.9037)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,静岡県沼津市東椎路８３１,歯科　矯正歯科　小児歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,13883.4432,-3512.2593)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斎藤歯科医院,静岡県沼津市玉江町１-４,歯科,,,9" xlink:title="斎藤歯科医院" transform="ref(svg,13886.8017,-3508.964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堺沢歯科医院,静岡県沼津市大手町２-９-５,歯科,,,9" xlink:title="堺沢歯科医院" transform="ref(svg,13886.1391,-3510.0057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,酒井歯科医院,静岡県沼津市今沢３４０,歯科　歯科口腔外科,,,9" xlink:title="酒井歯科医院" transform="ref(svg,13881.5134,-3511.9275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜井歯科医院,静岡県沼津市沼北町１-５-１７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="桜井歯科医院" transform="ref(svg,13885.3985,-3511.3794)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹本歯科,静岡県沼津市大手町５-６-７スルガビル５Ｆ,歯科,,,9" xlink:title="笹本歯科" transform="ref(svg,13885.786,-3509.9541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトウ歯科,静岡県沼津市石川１６３,歯科　矯正歯科,,,9" xlink:title="サトウ歯科" transform="ref(svg,13877.785,-3514.7007)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,静岡県沼津市大岡８１０-２６,歯科　小児歯科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,13887.9271,-3511.1109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,澤木歯科医院,静岡県沼津市旭町２２,歯科　小児歯科,,,9" xlink:title="澤木歯科医院" transform="ref(svg,13885.4556,-3509.2394)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,庄司歯科医院,静岡県沼津市本町９,歯科　矯正歯科　小児歯科,,,9" xlink:title="庄司歯科医院" transform="ref(svg,13885.6846,-3509.5689)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小児歯科よしいけ,静岡県沼津市市場町７-８,小児歯科,,,9" xlink:title="小児歯科よしいけ" transform="ref(svg,13886.2592,-3509.4706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シラカベ歯科医院,静岡県沼津市本字下一丁田８８９-７,歯科　小児歯科,,,9" xlink:title="シラカベ歯科医院" transform="ref(svg,13885.2343,-3509.3495)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,静岡県沼津市北高島町４-１１杉ビル２Ｆ,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13885.9534,-3511.2129)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,静岡県沼津市吉田町２８-２６,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13886.1725,-3509.3619)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すんとう歯科クリニック,静岡県沼津市大平１３８-１,歯科　小児歯科,,,9" xlink:title="すんとう歯科クリニック" transform="ref(svg,13890.6162,-3507.8287)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せきざわ歯科医院,静岡県沼津市西間門２２７-４,歯科　小児歯科,,,9" xlink:title="せきざわ歯科医院" transform="ref(svg,13884.1972,-3510.3899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せりざわ歯科医院,静岡県沼津市我入道江川１６-２６,歯科,,,9" xlink:title="せりざわ歯科医院" transform="ref(svg,13886.396,-3508.1705)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,芹澤歯科医院,静岡県沼津市大岡１９６２,歯科　矯正歯科,,,9" xlink:title="芹澤歯科医院" transform="ref(svg,13886.8414,-3511.4916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ソデ歯科医院,静岡県沼津市高島町２７-１１,歯科,,,9" xlink:title="ソデ歯科医院" transform="ref(svg,13885.7939,-3510.5675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口歯科医院,静岡県沼津市今沢字西町６８０-２,歯科,,,9" xlink:title="田口歯科医院" transform="ref(svg,13881.3935,-3512.2068)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなか歯科,静岡県沼津市東沢田２３３-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="たなか歯科" transform="ref(svg,13885.6061,-3512.2021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央歯科医院,静岡県沼津市末広町２８,歯科　小児歯科,,,9" xlink:title="中央歯科医院" transform="ref(svg,13885.38,-3509.7651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塚本歯科クリニック,静岡県沼津市下香貫前原１４９９-１,歯科,,,9" xlink:title="塚本歯科クリニック" transform="ref(svg,13887.1709,-3507.7168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土屋歯科,静岡県沼津市大岡１１４２-１,歯科　矯正歯科,,,9" xlink:title="土屋歯科" transform="ref(svg,13888.1802,-3510.395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津野歯科医院,静岡県沼津市大岡２２７５-６,歯科,,,9" xlink:title="津野歯科医院" transform="ref(svg,13887.8735,-3511.4989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルオフィスみなと,静岡県沼津市本田町５-１７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="デンタルオフィスみなと" transform="ref(svg,13885.4376,-3510.9322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長尾歯科医院,静岡県沼津市上香貫宮原町１５０５,歯科,,,9" xlink:title="長尾歯科医院" transform="ref(svg,13887.0407,-3508.7291)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながさわ原町歯科医院,静岡県沼津市原１７６４-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ながさわ原町歯科医院" transform="ref(svg,13880.4441,-3513.216)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,静岡県沼津市三園町９-１４,歯科　矯正歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,13886.5765,-3508.7832)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中野歯科医院,静岡県沼津市下本町５０,歯科,,,9" xlink:title="中野歯科医院" transform="ref(svg,13885.6029,-3509.4803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中ノ森歯科医院,静岡県沼津市緑ヶ丘２-１０,歯科,,,9" xlink:title="中ノ森歯科医院" transform="ref(svg,13887.2341,-3512.0013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にいづま歯科,静岡県沼津市大手町２-７-１７大手町ハイツ２Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="にいづま歯科" transform="ref(svg,13886.2101,-3510.0504)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西家歯科医院,静岡県沼津市原１９８,歯科,,,9" xlink:title="西家歯科医院" transform="ref(svg,13879.7858,-3512.4966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野口歯科医院,静岡県沼津市三枚橋町６-５,歯科,,,9" xlink:title="野口歯科医院" transform="ref(svg,13886.3248,-3510.0848)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,パートナー歯科,静岡県沼津市大岡１７１９-１,歯科　小児歯科,,,9" xlink:title="パートナー歯科" transform="ref(svg,13887.2983,-3510.4092)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はせがわ歯科,静岡県沼津市三枚橋日ノ出町３８３-８,歯科　小児歯科,,,9" xlink:title="はせがわ歯科" transform="ref(svg,13886.8019,-3511.0282)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,静岡県沼津市御幸町１４-１０,歯科,,,9" xlink:title="原歯科医院" transform="ref(svg,13886.4757,-3509.6131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田歯科医院,静岡県沼津市大塚３２７-３,歯科,,,9" xlink:title="原田歯科医院" transform="ref(svg,13880.4487,-3512.349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,パル博愛歯科,静岡県沼津市末広町４,歯科　矯正歯科　小児歯科,,,9" xlink:title="パル博愛歯科" transform="ref(svg,13885.4291,-3509.7816)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はんがい歯科医院,静岡県沼津市米山町２-７-１Ｆ,歯科,,,9" xlink:title="はんがい歯科医院" transform="ref(svg,13886.2917,-3510.5292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科,静岡県沼津市中瀬町１０-１１,歯科,,,9" xlink:title="ひまわり歯科" transform="ref(svg,13888.0014,-3509.9107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平原歯科クリニック,静岡県沼津市大岡５１７-４鈴福ビル１Ｆ,歯科,,,9" xlink:title="平原歯科クリニック" transform="ref(svg,13888.5051,-3510.6791)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろせ歯科クリニック,静岡県沼津市根古屋２０３-２,歯科,,,9" xlink:title="ひろせ歯科クリニック" transform="ref(svg,13880.1944,-3513.8704)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古屋歯科医院,静岡県沼津市下香貫藤井原１６１８-６,歯科,,,9" xlink:title="古屋歯科医院" transform="ref(svg,13887.4581,-3507.813)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,へだ歯科クリニック,静岡県沼津市戸田２７６９-１,歯科,,,9" xlink:title="へだ歯科クリニック" transform="ref(svg,13877.2883,-3498.0318)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ベル歯科医院,静岡県沼津市中沢田２９０-４,歯科,,,9" xlink:title="ベル歯科医院" transform="ref(svg,13885.0243,-3512.1648)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほりうち矯正歯科クリニック,静岡県沼津市西間門４４７-２,矯正歯科,,,9" xlink:title="ほりうち矯正歯科クリニック" transform="ref(svg,13884.2041,-3510.1952)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀江歯科医院,静岡県沼津市三園町２-１１,歯科,,,9" xlink:title="堀江歯科医院" transform="ref(svg,13886.5537,-3509.1288)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増田歯科医院,静岡県沼津市新町４０４,歯科,,,9" xlink:title="増田歯科医院" transform="ref(svg,13885.6618,-3509.37)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増田デンタルクリニック,静岡県沼津市大岡２４３７-１,歯科　小児歯科,,,9" xlink:title="増田デンタルクリニック" transform="ref(svg,13888.0798,-3511.5271)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増山歯科医院,静岡県沼津市添地町１２５,歯科　小児歯科,,,9" xlink:title="増山歯科医院" transform="ref(svg,13885.6384,-3510.1167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,町田歯科クリニック,静岡県沼津市原７２０,歯科　小児歯科,,,9" xlink:title="町田歯科クリニック" transform="ref(svg,13878.4052,-3512.8992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松永歯科,静岡県沼津市八幡町２-２,歯科,,,9" xlink:title="松永歯科" transform="ref(svg,13885.639,-3509.9016)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本デンタルクリニック,静岡県沼津市米山町２-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="松本デンタルクリニック" transform="ref(svg,13886.2942,-3510.497)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,光野歯科クリニック,静岡県沼津市下香貫大久保２２９５-１４,歯科　小児歯科,,,9" xlink:title="光野歯科クリニック" transform="ref(svg,13887.8537,-3507.1383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三津間歯科医院,静岡県沼津市大岡１７５６-３３,歯科,,,9" xlink:title="三津間歯科医院" transform="ref(svg,13887.3094,-3510.5278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みと歯科医院,静岡県沼津市内浦長浜８１-３,歯科,,,9" xlink:title="みと歯科医院" transform="ref(svg,13889.4984,-3501.8345)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ミノベ歯科医院,静岡県沼津市大手町３-３-２,歯科,,,9" xlink:title="ミノベ歯科医院" transform="ref(svg,13886.037,-3510.1467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮内歯科医院,静岡県沼津市中沢田４６６,歯科,,,9" xlink:title="宮内歯科医院" transform="ref(svg,13885.5209,-3512.2351)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三宅歯科医院,静岡県沼津市玉江町７-３５,歯科　矯正歯科　小児歯科,,,9" xlink:title="三宅歯科医院" transform="ref(svg,13886.767,-3508.7384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらまつ歯科医院,静岡県沼津市高沢町４-２５,歯科,,,9" xlink:title="むらまつ歯科医院" transform="ref(svg,13885.4761,-3510.4552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もちづき歯科医院,静岡県沼津市大塚８７１-５,歯科,,,9" xlink:title="もちづき歯科医院" transform="ref(svg,13880.857,-3512.58)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,望月歯科医院,静岡県沼津市宮町４５７,歯科,,,9" xlink:title="望月歯科医院" transform="ref(svg,13885.7382,-3509.3342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森田歯科医院,静岡県沼津市戸田１５７４-１７,歯科　小児歯科,,,9" xlink:title="森田歯科医院" transform="ref(svg,13879.2862,-3497.0634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢田歯科医院,静岡県沼津市御幸町１０-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="矢田歯科医院" transform="ref(svg,13886.7174,-3509.6205)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,静岡県沼津市戸田５２２,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13877.7409,-3496.9398)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヤマダデンタルオフィス,静岡県沼津市大手町１-１-３パレットビル９Ｆ,歯科　小児歯科,,,9" xlink:title="ヤマダデンタルオフィス" transform="ref(svg,13886.068,-3510.2255)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本矯正歯科,静岡県沼津市上土町４３-２,矯正歯科,,,9" xlink:title="山本矯正歯科" transform="ref(svg,13885.7832,-3509.6988)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科,静岡県沼津市上土町４３-２,歯科　小児歯科,,,9" xlink:title="山本歯科" transform="ref(svg,13885.7891,-3509.6935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,幸歯科医院,静岡県沼津市下香貫宮脇３１４-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="幸歯科医院" transform="ref(svg,13887.0771,-3508.5274)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,れいこ歯科,静岡県沼津市高沢町９-１９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="れいこ歯科" transform="ref(svg,13885.5337,-3510.5888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科医院,静岡県沼津市志下４３０-１,歯科,,,9" xlink:title="わたなべ歯科医院" transform="ref(svg,13888.0677,-3506.1653)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,静岡県沼津市花園町５-３,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13886.9199,-3512.328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科クリニック,静岡県沼津市松長７８０-１,歯科　小児歯科,,,9" xlink:title="わたなべ歯科クリニック" transform="ref(svg,13882.5382,-3511.9446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたり歯科医院,静岡県沼津市大岡３８０９-５,歯科,,,9" xlink:title="わたり歯科医院" transform="ref(svg,13888.642,-3512.9503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）矯仁会浅井歯科診療所,静岡県三島市本町２-９,歯科,,,9" xlink:title="（医）矯仁会浅井歯科診療所" transform="ref(svg,13891.4437,-3512.0293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山矯正歯科,静岡県三島市広小路町１３-４,歯科　矯正歯科,,,9" xlink:title="杉山矯正歯科" transform="ref(svg,13891.1738,-3511.8683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フレンズ歯科,静岡県三島市松本２６８-５エムエスコーポ１階,歯科　矯正歯科,,,9" xlink:title="フレンズ歯科" transform="ref(svg,13891.8532,-3508.7333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青木歯科クリニック,静岡県三島市一番町９-８アオキビル内,歯科,,,9" xlink:title="青木歯科クリニック" transform="ref(svg,13891.4415,-3512.6253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イイヅカ歯科医院,静岡県三島市壱町田７２-７,歯科,,,9" xlink:title="イイヅカ歯科医院" transform="ref(svg,13891.9549,-3513.3698)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井出歯科医院,静岡県三島市青木６６-３,歯科,,,9" xlink:title="井出歯科医院" transform="ref(svg,13891.9561,-3510.5344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＳＤＣさいとう歯科クリニック,静岡県三島市谷田夏梅木６６４-５,歯科,,,9" xlink:title="ＳＤＣさいとう歯科クリニック" transform="ref(svg,13893.7022,-3510.7069)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,静岡県三島市本町３-９,歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13891.4161,-3512.0221)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,静岡県三島市加屋町３-１５,歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13890.4603,-3511.6127)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かげしま歯科,静岡県三島市谷田字並木２９６-１９,歯科,,,9" xlink:title="かげしま歯科" transform="ref(svg,13893.3552,-3511.242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠井歯科医院,静岡県三島市南二日町２４-９,歯科,,,9" xlink:title="笠井歯科医院" transform="ref(svg,13892.521,-3511.218)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かたの歯科,静岡県三島市谷田１３６-２９,歯科,,,9" xlink:title="かたの歯科" transform="ref(svg,13893.0058,-3511.4562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かまた歯科クリニック,静岡県三島市文教町１-１-３５,歯科　矯正歯科　小児歯科,,,9" xlink:title="かまた歯科クリニック" transform="ref(svg,13891.4882,-3512.8217)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加茂川歯科医院,静岡県三島市加茂川町３９７３-２,歯科,,,9" xlink:title="加茂川歯科医院" transform="ref(svg,13892.2804,-3512.7528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊地歯科,静岡県三島市本町２-８,歯科,,,9" xlink:title="菊地歯科" transform="ref(svg,13891.4494,-3512.0136)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北岡歯科医院,静岡県三島市広小路町５-９,歯科,,,9" xlink:title="北岡歯科医院" transform="ref(svg,13891.0658,-3511.917)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,栗原歯科医院,静岡県三島市中央町１-３１,歯科　歯科口腔外科,,,9" xlink:title="栗原歯科医院" transform="ref(svg,13891.6629,-3511.9273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,静岡県三島市文教町２-１-１７,歯科　矯正歯科　小児歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,13891.5294,-3512.9124)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こも池歯科クリニック,静岡県三島市大宮町３-１-１１,歯科　矯正歯科,,,9" xlink:title="こも池歯科クリニック" transform="ref(svg,13891.5799,-3512.4649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斉藤歯科クリニック,静岡県三島市大場１６４-５,歯科,,,9" xlink:title="斉藤歯科クリニック" transform="ref(svg,13894.0253,-3509.2051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サクラ歯科,静岡県三島市大社町８-３０,歯科,,,9" xlink:title="サクラ歯科" transform="ref(svg,13892.2404,-3512.0459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科シズオカクリニック,静岡県三島市泉町１-４０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="歯科シズオカクリニック" transform="ref(svg,13891.2243,-3512.0983)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白井歯科医院,静岡県三島市末広町１-５,歯科,,,9" xlink:title="白井歯科医院" transform="ref(svg,13891.2571,-3513.4959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんゆう歯科,静岡県三島市松本３９１-１０,歯科,,,9" xlink:title="しんゆう歯科" transform="ref(svg,13891.5674,-3509.6052)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科医院,静岡県三島市八反畑１３２-７,歯科,,,9" xlink:title="杉山歯科医院" transform="ref(svg,13892.1135,-3509.9317)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すぎやま歯科クリニック,静岡県三島市大場５７５-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="すぎやま歯科クリニック" transform="ref(svg,13894.6693,-3509.4825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,静岡県三島市御園７７-３,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13892.155,-3508.0327)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,静岡県三島市中央町１-１２,歯科　小児歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13891.6466,-3511.8522)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科クリニック,静岡県三島市徳倉９２１,歯科,,,9" xlink:title="鈴木歯科クリニック" transform="ref(svg,13890.9689,-3514.5551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高木歯科医院,静岡県三島市長伏１２８-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="高木歯科医院" transform="ref(svg,13891.6708,-3508.6167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田川歯科医院,静岡県三島市東大場２-２-１７,歯科,,,9" xlink:title="田川歯科医院" transform="ref(svg,13895.1326,-3510.7248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武井歯科,静岡県三島市谷田並木９７５-９,歯科,,,9" xlink:title="武井歯科" transform="ref(svg,13893.6804,-3511.4009)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹花歯科医院,静岡県三島市東本町１-１３-２３,歯科,,,9" xlink:title="竹花歯科医院" transform="ref(svg,13892.3064,-3511.5786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,静岡県三島市本町８-３４,歯科　矯正歯科　小児歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13891.269,-3511.8741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田村歯科医院,静岡県三島市徳倉１-１２-３１,歯科　小児歯科,,,9" xlink:title="田村歯科医院" transform="ref(svg,13891.4826,-3514.0676)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鳥居歯科医院,静岡県三島市光ケ丘１-４９-５,歯科,,,9" xlink:title="鳥居歯科医院" transform="ref(svg,13892.3675,-3513.5061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ないとう歯科医院,静岡県三島市徳倉８７６-２６,歯科,,,9" xlink:title="ないとう歯科医院" transform="ref(svg,13891.0488,-3514.907)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中郷歯科医院,静岡県三島市長伏４２-７,歯科　小児歯科,,,9" xlink:title="中郷歯科医院" transform="ref(svg,13891.5969,-3509.0226)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長野歯科医院,静岡県三島市芝本町５-２９,歯科,,,9" xlink:title="長野歯科医院" transform="ref(svg,13891.4348,-3512.2108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,静岡県三島市中央町３-７,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13891.7591,-3511.9187)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしはら歯科,静岡県三島市南町１７-１８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="にしはら歯科" transform="ref(svg,13891.4615,-3511.1665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沼田歯科クリニック,静岡県三島市加茂４０-１６,歯科,,,9" xlink:title="沼田歯科クリニック" transform="ref(svg,13893.1995,-3513.5905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,半田歯科医院,静岡県三島市大場１２６,歯科,,,9" xlink:title="半田歯科医院" transform="ref(svg,13893.8858,-3509.2008)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日野原歯科クリニック,静岡県三島市南田町２-１４,歯科　矯正歯科,,,9" xlink:title="日野原歯科クリニック" transform="ref(svg,13891.593,-3511.248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平川歯科医院,静岡県三島市萩３２０-４７,歯科,,,9" xlink:title="平川歯科医院" transform="ref(svg,13890.8116,-3515.252)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広小路だいとう歯科,静岡県三島市広小路町１３-１０,歯科,,,9" xlink:title="広小路だいとう歯科" transform="ref(svg,13891.1656,-3511.8368)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヒロ歯科医院,静岡県三島市梅名５１６-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ヒロ歯科医院" transform="ref(svg,13892.5427,-3509.5929)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,芙蓉台デンタルクリニック,静岡県三島市徳倉８３８-４２,歯科,,,9" xlink:title="芙蓉台デンタルクリニック" transform="ref(svg,13891.2119,-3515.0978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星山歯科医院,静岡県三島市東本町１-１０-３１,歯科　矯正歯科　小児歯科,,,9" xlink:title="星山歯科医院" transform="ref(svg,13892.106,-3511.6351)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細川歯科医院,静岡県三島市東町１３-２６,歯科,,,9" xlink:title="細川歯科医院" transform="ref(svg,13892.4135,-3511.8733)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みうら歯科医院,静岡県三島市初音台２５-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="みうら歯科医院" transform="ref(svg,13893.4434,-3512.6998)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みちこデンタルクリニック,静岡県三島市一番町２-１８,歯科　小児歯科,,,9" xlink:title="みちこデンタルクリニック" transform="ref(svg,13891.4852,-3512.4106)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三宅歯科医院,静岡県三島市加屋町１０-２０,歯科,,,9" xlink:title="三宅歯科医院" transform="ref(svg,13890.6946,-3511.6157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,静岡県三島市栄町１-２４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山口歯科医院" transform="ref(svg,13890.87,-3511.8903)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,静岡県三島市本町５-６,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13891.3372,-3512.0317)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヨシダ歯科医院,静岡県三島市梅名２８４-１２,歯科,,,9" xlink:title="ヨシダ歯科医院" transform="ref(svg,13892.971,-3509.0162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉村歯科医院,静岡県三島市北田町３-５５,歯科,,,9" xlink:title="吉村歯科医院" transform="ref(svg,13891.8264,-3511.6979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米山歯科医院,静岡県三島市壱町田５１-１,歯科,,,9" xlink:title="米山歯科医院" transform="ref(svg,13891.9487,-3513.285)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科,静岡県三島市梅名１１１-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="わたなべ歯科" transform="ref(svg,13892.8887,-3509.5432)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科クリニック,静岡県三島市萩１８８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="渡辺歯科クリニック" transform="ref(svg,13890.8091,-3514.8283)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかじま歯科医院,静岡県裾野市伊豆島田８１９-４ルインズワタナベ１Ｆ,歯科　小児歯科,,,9" xlink:title="なかじま歯科医院" transform="ref(svg,13890.409,-3515.1694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,モリタデンタルクリニック,静岡県伊豆市八幡２５６-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="モリタデンタルクリニック" transform="ref(svg,13899.6995,-3495.2757)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あぶの歯科,静岡県伊豆市修善寺２６,歯科　矯正歯科　小児歯科,,,9" xlink:title="あぶの歯科" transform="ref(svg,13894.8459,-3498.2869)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池原歯科医院,静岡県伊豆市城５７-６,歯科　小児歯科,,,9" xlink:title="池原歯科医院" transform="ref(svg,13899.7356,-3495.9344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石井歯科医院,静岡県伊豆市柏久保１３０２,歯科,,,9" xlink:title="石井歯科医院" transform="ref(svg,13895.6939,-3497.5699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植田歯科医院,静岡県伊豆市松ケ瀬５８-１,歯科　小児歯科,,,9" xlink:title="植田歯科医院" transform="ref(svg,13893.028,-3494.2072)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科医院,静岡県伊豆市小立野５-１９,歯科,,,9" xlink:title="遠藤歯科医院" transform="ref(svg,13894.6237,-3497.8391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柿宇土歯科医院,静岡県伊豆市修善寺７６３-１,歯科,,,9" xlink:title="柿宇土歯科医院" transform="ref(svg,13893.0574,-3497.1725)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小長谷歯科医院,静岡県伊豆市土肥２７６５-１１,歯科,,,9" xlink:title="小長谷歯科医院" transform="ref(svg,13879.2135,-3490.8659)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,椎貝歯科医院,静岡県伊豆市土肥４９５,歯科,,,9" xlink:title="椎貝歯科医院" transform="ref(svg,13879.1437,-3491.2175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ダイニ歯科医院,静岡県伊豆市柏久保新町１３０６,歯科　矯正歯科　小児歯科,,,9" xlink:title="ダイニ歯科医院" transform="ref(svg,13895.0881,-3498.0728)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つちや歯科医院,静岡県伊豆市湯ヶ島２０８-１,歯科　小児歯科,,,9" xlink:title="つちや歯科医院" transform="ref(svg,13892.9678,-3489.4253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハタノデンタルオフィス,静岡県伊豆市柏久保１３４０,歯科　矯正歯科,,,9" xlink:title="ハタノデンタルオフィス" transform="ref(svg,13895.253,-3498.1673)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フジ歯科医院,静岡県伊豆市城６１-７,歯科　小児歯科,,,9" xlink:title="フジ歯科医院" transform="ref(svg,13899.6675,-3495.947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮内歯科医院,静岡県伊豆市大平１６０-１３,歯科　小児歯科,,,9" xlink:title="宮内歯科医院" transform="ref(svg,13893.7194,-3495.9854)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梅原歯科医院,静岡県伊豆の国市大仁８８１,歯科　小児歯科,,,9" xlink:title="梅原歯科医院" transform="ref(svg,13893.8477,-3498.9962)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ビタミンＢ歯科,静岡県伊豆の国市南條２１４-１,歯科　矯正歯科,,,9" xlink:title="ビタミンＢ歯科" transform="ref(svg,13894.7428,-3503.6909)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉本歯科医院,静岡県伊豆の国市古奈２２２,歯科,,,9" xlink:title="吉本歯科医院" transform="ref(svg,13894.014,-3503.5698)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおぞら歯科クリニック,静岡県伊豆の国市南條１９６-１高野コーポ２Ｆ２Ｂ,歯科,,,9" xlink:title="あおぞら歯科クリニック" transform="ref(svg,13894.7563,-3503.761)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおば歯科医院,静岡県伊豆の国市四日町５３０-１,歯科,,,9" xlink:title="あおば歯科医院" transform="ref(svg,13894.3206,-3505.5836)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,静岡県伊豆の国市長岡１３８-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13893.0175,-3503.3759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森歯科医院,静岡県伊豆の国市長岡８１-１グロースヴェルト２０１,歯科　矯正歯科　小児歯科,,,9" xlink:title="大森歯科医院" transform="ref(svg,13893.0662,-3503.2111)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,静岡県伊豆の国市長岡１１０２,歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13893.2897,-3502.9196)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,カワムラ歯科医院,静岡県伊豆の国市田京６９８-１０,歯科,,,9" xlink:title="カワムラ歯科医院" transform="ref(svg,13894.6914,-3501.6674)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,静岡県伊豆の国市大仁４３７-１,歯科,,,9" xlink:title="神田歯科医院" transform="ref(svg,13893.9023,-3499.5669)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三恵歯科医院,静岡県伊豆の国市三福１４７-１,歯科,,,9" xlink:title="三恵歯科医院" transform="ref(svg,13894.5372,-3500.704)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,椎貝歯科クリニック,静岡県伊豆の国市小坂４６８-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="椎貝歯科クリニック" transform="ref(svg,13893.5137,-3502.0954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉本歯科,静岡県伊豆の国市古奈３０５-６,歯科,,,9" xlink:title="杉本歯科" transform="ref(svg,13893.7366,-3503.3715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,静岡県伊豆の国市大仁５３２,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13893.8484,-3499.3214)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たま歯科医院,静岡県伊豆の国市守木字川野８３５,歯科,,,9" xlink:title="たま歯科医院" transform="ref(svg,13894.6187,-3502.2194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塚本歯科医院,静岡県伊豆の国市大仁２８２,歯科,,,9" xlink:title="塚本歯科医院" transform="ref(svg,13893.9704,-3499.4459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺田歯科,静岡県伊豆の国市中條２６７-５,歯科　矯正歯科,,,9" xlink:title="寺田歯科" transform="ref(svg,13894.2003,-3504.2497)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナガオカ歯科医院,静岡県伊豆の国市長岡１３２２-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="ナガオカ歯科医院" transform="ref(svg,13893.4473,-3502.9331)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西島歯科クリニック,静岡県伊豆の国市御門字横田５２-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="西島歯科クリニック" transform="ref(svg,13894.481,-3501.6416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,静岡県伊豆の国市長岡４０１-９,歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13892.8742,-3502.997)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はる歯科クリニック,静岡県伊豆の国市南條４７９,歯科,,,9" xlink:title="はる歯科クリニック" transform="ref(svg,13894.5529,-3503.9336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ベル歯科クリニック,静岡県伊豆の国市田京１４５-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="ベル歯科クリニック" transform="ref(svg,13894.434,-3501.1896)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀江歯科医院,静岡県伊豆の国市原木１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="堀江歯科医院" transform="ref(svg,13894.132,-3505.7387)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まきの歯科クリニック,静岡県伊豆の国市田京３８-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まきの歯科クリニック" transform="ref(svg,13894.9145,-3500.8719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,静岡県伊豆の国市南條８３２-２,歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13894.8205,-3504.1729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科クリニック,静岡県伊豆の国市原木字上町１２３-１０,歯科　小児歯科,,,9" xlink:title="山口歯科クリニック" transform="ref(svg,13894.0805,-3506.0628)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科クリニック,静岡県伊豆の国市南江間堤下１１０７-８,歯科,,,9" xlink:title="山田歯科クリニック" transform="ref(svg,13892.7755,-3505.4233)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡邊歯科医院,静岡県伊豆の国市四日町３９-１,歯科,,,9" xlink:title="渡邊歯科医院" transform="ref(svg,13894.6872,-3505.1172)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋デンタルクリニック,静岡県田方郡函南町間宮８９５-６,歯科,,,9" xlink:title="高橋デンタルクリニック" transform="ref(svg,13893.3415,-3508.4572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いで歯科医院,静岡県田方郡函南町上沢２５-２,歯科,,,9" xlink:title="いで歯科医院" transform="ref(svg,13895.0716,-3509.4655)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウエムラ歯科医院,静岡県田方郡函南町柏谷字宝蔵９９３-３,歯科　小児歯科,,,9" xlink:title="ウエムラ歯科医院" transform="ref(svg,13896.1621,-3508.7156)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科医院,静岡県田方郡函南町間宮４４８-５,歯科,,,9" xlink:title="川村歯科医院" transform="ref(svg,13893.7982,-3508.2855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくらい歯科医院,静岡県田方郡函南町肥田６０,歯科　小児歯科,,,9" xlink:title="さくらい歯科医院" transform="ref(svg,13894.1233,-3506.833)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉本秀歯科医院,静岡県田方郡函南町仁田３４-２８,歯科　矯正歯科,,,9" xlink:title="杉本秀歯科医院" transform="ref(svg,13894.2413,-3509.0394)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,芹澤歯科医院,静岡県田方郡函南町塚本９７０,歯科,,,9" xlink:title="芹澤歯科医院" transform="ref(svg,13894.119,-3507.9814)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちあき歯科医院,静岡県田方郡函南町柏谷１３１９-５,歯科,,,9" xlink:title="ちあき歯科医院" transform="ref(svg,13896.6561,-3508.8005)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つしま歯科医院,静岡県田方郡函南町塚本２７６-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="つしま歯科医院" transform="ref(svg,13893.2393,-3507.9301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中條歯科医院,静岡県田方郡函南町間宮６８５-１,歯科　小児歯科,,,9" xlink:title="中條歯科医院" transform="ref(svg,13893.852,-3508.5616)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハートデンタルクリニック,静岡県田方郡函南町柏谷２２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ハートデンタルクリニック" transform="ref(svg,13895.5191,-3508.7951)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平松歯科医院,静岡県田方郡函南町畑５２９-１５５南箱根ダイヤランド１３-８３７,歯科　小児歯科,,,9" xlink:title="平松歯科医院" transform="ref(svg,13901.4505,-3508.7168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤井歯科医院,静岡県田方郡函南町桑原８８０-１４６,歯科,,,9" xlink:title="藤井歯科医院" transform="ref(svg,13897.5683,-3511.3152)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ミエ歯科医院,静岡県田方郡函南町柏谷字養南９３-６,歯科　歯科口腔外科,,,9" xlink:title="ミエ歯科医院" transform="ref(svg,13895.3869,-3508.539)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,向笠歯科医院,静岡県田方郡函南町平井９０６,歯科,,,9" xlink:title="向笠歯科医院" transform="ref(svg,13896.0151,-3508.9863)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ルピア歯科医院,静岡県田方郡函南町間宮６４３-１,歯科,,,9" xlink:title="ルピア歯科医院" transform="ref(svg,13893.9131,-3508.0638)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科クリニック,静岡県田方郡函南町上沢７４-２,歯科,,,9" xlink:title="渡辺歯科クリニック" transform="ref(svg,13894.9469,-3509.352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白鳥歯科,静岡県駿東郡清水町堂庭１９５-７,歯科,,,9" xlink:title="白鳥歯科" transform="ref(svg,13890.7067,-3509.9554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ドリーム歯科,静岡県駿東郡清水町伏見５９４-３,歯科　矯正歯科,,,9" xlink:title="ドリーム歯科" transform="ref(svg,13889.8486,-3511.4153)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホワイト歯科,静岡県駿東郡清水町柿田２６９-５,歯科　矯正歯科,,,9" xlink:title="ホワイト歯科" transform="ref(svg,13889.5499,-3509.9429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大城歯科医院,静岡県駿東郡清水町新宿８１９-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="大城歯科医院" transform="ref(svg,13890.4799,-3511.9862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,静岡県駿東郡清水町長沢９５９-２,歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13888.6797,-3509.8938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,会田歯科医院,静岡県駿東郡清水町卸団地２０３,歯科　小児歯科,,,9" xlink:title="会田歯科医院" transform="ref(svg,13890.7109,-3509.6405)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木の花歯科医院,静岡県駿東郡清水町堂庭７２-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="木の花歯科医院" transform="ref(svg,13890.4992,-3510.2798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科医院,静岡県駿東郡清水町徳倉１５８６-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さいとう歯科医院" transform="ref(svg,13889.6904,-3508.9185)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さきかわ歯科医院,静岡県駿東郡清水町伏見６４９-７,歯科　小児歯科,,,9" xlink:title="さきかわ歯科医院" transform="ref(svg,13890.0151,-3511.3919)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,じゅんデンタルクリニック,静岡県駿東郡清水町柿田１４５-１,内科　歯科,,,9" xlink:title="じゅんデンタルクリニック" transform="ref(svg,13889.8304,-3510.4401)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんあい歯科医院,静岡県駿東郡清水町伏見２５０-１９,歯科　小児歯科,,,9" xlink:title="しんあい歯科医院" transform="ref(svg,13889.6639,-3511.2529)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉沢歯科医院,静岡県駿東郡清水町柿田２０９-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="杉沢歯科医院" transform="ref(svg,13889.8472,-3510.0396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せき歯科クリニック,静岡県駿東郡清水町的場１-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="せき歯科クリニック" transform="ref(svg,13890.7186,-3509.2955)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大藤歯科新宿医院,静岡県駿東郡清水町新宿２１１-２,歯科,,,9" xlink:title="大藤歯科新宿医院" transform="ref(svg,13890.3418,-3511.7548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とくら歯科クリニック,静岡県駿東郡清水町徳倉１１４０-１,歯科　小児歯科,,,9" xlink:title="とくら歯科クリニック" transform="ref(svg,13889.441,-3508.2666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかがわ歯科,静岡県駿東郡清水町長沢８８１-５スズキビル１Ｆ,歯科　小児歯科,,,9" xlink:title="なかがわ歯科" transform="ref(svg,13889.0813,-3509.9477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中里歯科医院,静岡県駿東郡清水町伏見２６４-１７,歯科,,,9" xlink:title="中里歯科医院" transform="ref(svg,13889.4332,-3511.2075)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伏見歯科医院,静岡県駿東郡清水町伏見１０-１,歯科　小児歯科,,,9" xlink:title="伏見歯科医院" transform="ref(svg,13890.3527,-3511.3681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,真野歯科医院,静岡県駿東郡清水町堂庭２０７-１１,歯科,,,9" xlink:title="真野歯科医院" transform="ref(svg,13890.4215,-3509.9132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,メイヨ歯科医院,静岡県駿東郡清水町長沢３１１-９,歯科,,,9" xlink:title="メイヨ歯科医院" transform="ref(svg,13889.1102,-3510.3917)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森島デンタルクリニック,静岡県駿東郡清水町徳倉４１１-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="森島デンタルクリニック" transform="ref(svg,13889.7987,-3508.1861)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆきひこ歯科医院,静岡県駿東郡清水町玉川８１-１２,歯科　小児歯科,,,9" xlink:title="ゆきひこ歯科医院" transform="ref(svg,13890.2389,-3510.8472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,静岡県駿東郡清水町徳倉１６０５-４３,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13889.9042,-3508.7382)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢部歯科医院桜堤診療所,静岡県駿東郡長泉町上土狩７０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="矢部歯科医院桜堤診療所" transform="ref(svg,13890.4855,-3514.1397)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋山歯科医院,静岡県駿東郡長泉町下土狩１０４９-１４,歯科,,,9" xlink:title="秋山歯科医院" transform="ref(svg,13889.481,-3513.3005)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科診療所,静岡県駿東郡長泉町下土狩１０６-１２,歯科,,,9" xlink:title="池田歯科診療所" transform="ref(svg,13890.5083,-3512.3649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,市川歯科医院,静岡県駿東郡長泉町中土狩９０４-１５,歯科,,,9" xlink:title="市川歯科医院" transform="ref(svg,13889.8808,-3513.5649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,勝又歯科医院,静岡県駿東郡長泉町上土狩６６８-６,歯科,,,9" xlink:title="勝又歯科医院" transform="ref(svg,13889.913,-3514.0074)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,栗田歯科医院,静岡県駿東郡長泉町下土狩５０９-２６,歯科,,,9" xlink:title="栗田歯科医院" transform="ref(svg,13890.0755,-3513.2586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瀬川歯科医院,静岡県駿東郡長泉町桜堤２-４-５,歯科,,,9" xlink:title="瀬川歯科医院" transform="ref(svg,13890.7489,-3514.2829)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,そらいろ歯科,静岡県駿東郡長泉町下長窪１０７６-１,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="そらいろ歯科" transform="ref(svg,13889.1112,-3514.8351)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タケダ歯科医院,静岡県駿東郡長泉町本宿４２５-８,歯科,,,9" xlink:title="タケダ歯科医院" transform="ref(svg,13888.9594,-3512.1878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新美歯科オーラルケア,静岡県駿東郡長泉町下土狩３３-８スワベビル２階,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="新美歯科オーラルケア" transform="ref(svg,13890.8366,-3512.8662)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西島歯科医院,静岡県駿東郡長泉町納米里７２-１,歯科,,,9" xlink:title="西島歯科医院" transform="ref(svg,13889.8581,-3514.8765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,牧野歯科医院,静岡県駿東郡長泉町下長窪平畦４３１-１,歯科　小児歯科,,,9" xlink:title="牧野歯科医院" transform="ref(svg,13888.6471,-3514.183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,めぐろ歯科,静岡県駿東郡長泉町中土狩５１８-２,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="めぐろ歯科" transform="ref(svg,13890.4197,-3513.7751)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,静岡県駿東郡長泉町納米里２１１-５,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13889.7315,-3514.5369)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米山歯科クリニック,静岡県駿東郡長泉町下土狩１３７５-１,歯科,,,9" xlink:title="米山歯科クリニック" transform="ref(svg,13889.8305,-3512.9515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋庭歯科・矯正歯科クリニック,静岡県富士市横割１-１９-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="秋庭歯科・矯正歯科クリニック" transform="ref(svg,13865.042,-3514.7557)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおぞら歯科,静岡県富士市元町１８-６,歯科　小児歯科,,,9" xlink:title="あおぞら歯科" transform="ref(svg,13864.56,-3515.4668)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋庭歯科医院,静岡県富士市中之郷１２２９-２,歯科,,,9" xlink:title="秋庭歯科医院" transform="ref(svg,13861.8038,-3514.038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋庭歯科医院たごのうら,静岡県富士市中丸１９６-８,歯科　小児歯科,,,9" xlink:title="秋庭歯科医院たごのうら" transform="ref(svg,13867.4616,-3513.3209)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石塚歯科医院,静岡県富士市鈴川町９-２８,歯科,,,9" xlink:title="石塚歯科医院" transform="ref(svg,13870.2171,-3514.2541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科,静岡県富士市水戸島元町７-８,歯科,,,9" xlink:title="伊藤歯科" transform="ref(svg,13864.9743,-3515.0995)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植松秀紀歯科医院,静岡県富士市蓼原６４-２,歯科,,,9" xlink:title="植松秀紀歯科医院" transform="ref(svg,13866.367,-3515.6068)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,海野歯科医院,静岡県富士市松岡１２１３,歯科,,,9" xlink:title="海野歯科医院" transform="ref(svg,13863.6776,-3515.6041)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大内歯科医院,静岡県富士市横割１-５-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="大内歯科医院" transform="ref(svg,13865.3675,-3514.8912)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,尾崎歯科医院,静岡県富士市鈴川町６-６,歯科,,,9" xlink:title="尾崎歯科医院" transform="ref(svg,13870.422,-3514.3321)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,貝通丸歯科,静岡県富士市中丸３９７-１,歯科,,,9" xlink:title="貝通丸歯科" transform="ref(svg,13866.9736,-3513.6868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,影山歯科,静岡県富士市森島４３４-３,歯科,,,9" xlink:title="影山歯科" transform="ref(svg,13864.7446,-3514.0862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山矯正歯科クリニック,静岡県富士市元町１９-１,矯正歯科,,,9" xlink:title="小山矯正歯科クリニック" transform="ref(svg,13864.6364,-3515.4941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,志田歯科医院,静岡県富士市松岡１３５９-２,歯科　小児歯科,,,9" xlink:title="志田歯科医院" transform="ref(svg,13863.9654,-3514.9789)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴川鈴木歯科医院,静岡県富士市鈴川本町８-１４,歯科,,,9" xlink:title="鈴川鈴木歯科医院" transform="ref(svg,13870.5659,-3514.3779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴原歯科医院,静岡県富士市中里２５５６-４,歯科　矯正歯科,,,9" xlink:title="鈴原歯科医院" transform="ref(svg,13874.6505,-3513.793)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立花歯科医院,静岡県富士市岩渕７６３-１,歯科,,,9" xlink:title="立花歯科医院" transform="ref(svg,13862.0374,-3514.751)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長生歯科医院,静岡県富士市横割６-１８-１０,歯科,,,9" xlink:title="長生歯科医院" transform="ref(svg,13866.1563,-3514.5073)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中澤歯科医院,静岡県富士市宮島１１２-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中澤歯科医院" transform="ref(svg,13865.398,-3514.3228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はじめ歯科,静岡県富士市宮島９８３-２,歯科,,,9" xlink:title="はじめ歯科" transform="ref(svg,13865.9896,-3512.8692)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富士高輪歯科,静岡県富士市横割１-１７-３０,歯科　歯科口腔外科,,,9" xlink:title="富士高輪歯科" transform="ref(svg,13865.1005,-3514.7108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北條歯科医院,静岡県富士市横割６-９-３９,歯科,,,9" xlink:title="北條歯科医院" transform="ref(svg,13865.9002,-3514.4296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マコト歯科医院,静岡県富士市水戸島２-２３-５,歯科　小児歯科,,,9" xlink:title="マコト歯科医院" transform="ref(svg,13864.6032,-3514.5806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みこと歯科,静岡県富士市鮫島１１８-１０イオン南ショッピングセンター１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="みこと歯科" transform="ref(svg,13867.5627,-3514.0211)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水上歯科医院,静岡県富士市宮下９７-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="水上歯科医院" transform="ref(svg,13863.7777,-3514.1568)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮本歯科,静岡県富士市富士町１４-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="宮本歯科" transform="ref(svg,13864.9114,-3515.3293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,望月歯科医院,静岡県富士市岩渕９７０-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="望月歯科医院" transform="ref(svg,13862.1615,-3514.7706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,望月歯科クリニック,静岡県富士市水戸島１１０-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="望月歯科クリニック" transform="ref(svg,13865.1344,-3514.5569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,元町歯科医院,静岡県富士市元町１２-２７,歯科　小児歯科,,,9" xlink:title="元町歯科医院" transform="ref(svg,13864.5751,-3515.3596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまざき歯科クリニック,静岡県富士市川成新町２７３,歯科　小児歯科,,,9" xlink:title="やまざき歯科クリニック" transform="ref(svg,13866.5091,-3513.4541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,静岡県富士市宮島８１８-６,歯科　小児歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13865.896,-3513.4435)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科クリニック,静岡県富士市富士町１６-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="吉田歯科クリニック" transform="ref(svg,13864.966,-3515.3343)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,若月歯科医院,静岡県富士市富士町７-１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="若月歯科医院" transform="ref(svg,13864.9619,-3515.2163)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科医院,静岡県富士市平垣本町６-３９,歯科,,,9" xlink:title="和田歯科医院" transform="ref(svg,13865.0071,-3515.4851)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科クリニック,静岡県富士市平垣本町６-４１,歯科,,,9" xlink:title="和田歯科クリニック" transform="ref(svg,13865.0077,-3515.4566)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡井デンタルクリニック,静岡県富士市五貫島７８-２,歯科　矯正歯科,,,9" xlink:title="渡井デンタルクリニック" transform="ref(svg,13865.0128,-3513.5174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,静岡県富士市本町１２-２４,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13865.135,-3515.5167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ビタミンＡ歯科,静岡県静岡市清水区蒲原３２２-１１,歯科　矯正歯科,,,9" xlink:title="ビタミンＡ歯科" transform="ref(svg,13861.0272,-3511.8825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安藤歯科医院,静岡県静岡市清水区由比町屋原１２６,歯科,,,9" xlink:title="安藤歯科医院" transform="ref(svg,13855.8691,-3510.3779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井川歯科医院,静岡県静岡市清水区興津中町３９８-３,歯科,,,9" xlink:title="井川歯科医院" transform="ref(svg,13852.3918,-3505.3142)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩辺歯科医院,静岡県静岡市清水区蒲原小金４４７-３,歯科,,,9" xlink:title="岩辺歯科医院" transform="ref(svg,13859.3805,-3511.6596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宇佐美歯科医院,静岡県静岡市清水区蒲原３-２３-１２,歯科,,,9" xlink:title="宇佐美歯科医院" transform="ref(svg,13860.2453,-3511.9512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エンゼル歯科,静岡県静岡市清水区興津中町１３５４-４,歯科　小児歯科,,,9" xlink:title="エンゼル歯科" transform="ref(svg,13852.5344,-3506.1498)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大関歯科医院,静岡県静岡市清水区興津中町８７,歯科,,,9" xlink:title="大関歯科医院" transform="ref(svg,13852.389,-3505.1711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大野歯科医院,静岡県静岡市清水区蒲原新田２-１３-２,歯科,,,9" xlink:title="大野歯科医院" transform="ref(svg,13859.7726,-3511.8188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,折原歯科医院,静岡県静岡市清水区蒲原新栄１４５-２,歯科,,,9" xlink:title="折原歯科医院" transform="ref(svg,13862.1389,-3512.6985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科クリニック三保,静岡県静岡市清水区三保９３２-１,歯科,,,9" xlink:title="歯科クリニック三保" transform="ref(svg,13851.8594,-3500.3823)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大塔歯科クリニック,静岡県静岡市清水区八木間町１７０１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="大塔歯科クリニック" transform="ref(svg,13852.2753,-3506.8837)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はまかぜ歯科,静岡県静岡市清水区蒲原堰沢１８０-１,歯科,,,9" xlink:title="はまかぜ歯科" transform="ref(svg,13858.0791,-3511.2858)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,樋口歯科医院,静岡県静岡市清水区興津本町２１７,歯科,,,9" xlink:title="樋口歯科医院" transform="ref(svg,13851.904,-3505.0091)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平田歯科医院,静岡県静岡市清水区由比町屋原１５６-３,歯科,,,9" xlink:title="平田歯科医院" transform="ref(svg,13855.7713,-3510.4026)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松下歯科,静岡県静岡市清水区八木間町１７６４,歯科　小児歯科,,,9" xlink:title="松下歯科" transform="ref(svg,13852.3144,-3506.9719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,望月歯科医院,静岡県静岡市清水区由比４３２-４,歯科　小児歯科　歯科　口腔外科　矯正歯科,,,9" xlink:title="望月歯科医院" transform="ref(svg,13856.2993,-3510.6904)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12972.65625 -3287.109375 17.578125 17.578125" go:dataArea="12972.65625 -3287.109375 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,えのもと整形外科,長崎県西彼杵郡時津町浜田郷７５６-１,リウマチ科　リハビリテーション科　整形外科,,,9" xlink:title="えのもと整形外科" transform="ref(svg,12986.2601,-3283.0702)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おがわ眼科クリニック,長崎県西彼杵郡時津町西時津郷１８１-６,眼科,,,9" xlink:title="おがわ眼科クリニック" transform="ref(svg,12986.0994,-3283.3882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おひさまこどもクリニック,長崎県西彼杵郡長与町高田郷９２３-１,小児科,,,9" xlink:title="おひさまこどもクリニック" transform="ref(svg,12987.1338,-3280.9468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ぎょう徳レディースクリニック,長崎県西彼杵郡長与町嬉里郷６２２,産婦人科,,,9" xlink:title="ぎょう徳レディースクリニック" transform="ref(svg,12987.414,-3282.6858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しもぐち内科,長崎県西彼杵郡長与町高田郷８４８-１９,アレルギー科　リハビリテーション科　呼吸器内科　循環器内科　小児科　消化器内科　内科,,,9" xlink:title="しもぐち内科" transform="ref(svg,12987.6609,-3280.6181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しもむらクリニック,長崎県西彼杵郡時津町浦郷４２８-１３,小児科　内科,,,9" xlink:title="しもむらクリニック" transform="ref(svg,12984.8364,-3283.0821)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しらいし胃腸科外科クリニック,長崎県西彼杵郡時津町野田郷４６-１,こう門科　リハビリテーション科　胃腸科　外科　消化器科,,,9" xlink:title="しらいし胃腸科外科クリニック" transform="ref(svg,12984.754,-3282.6034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,そのだ内科クリニック,長崎県西彼杵郡長与町まなび野２-２-２,アレルギー科　呼吸器科　内科,,,9" xlink:title="そのだ内科クリニック" transform="ref(svg,12987.3307,-3280.9893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たなか小児科クリニック,長崎県西彼杵郡時津町浦郷３９６-１７,アレルギー科　小児科,,,9" xlink:title="たなか小児科クリニック" transform="ref(svg,12984.9311,-3283.0735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つかざき皮ふ科,長崎県西彼杵郡時津町浦郷４３６-５,皮膚科,,,9" xlink:title="つかざき皮ふ科" transform="ref(svg,12984.8015,-3283.0879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とおやま内科,長崎県西彼杵郡時津町浦郷３０１-２２,内科,,,9" xlink:title="とおやま内科" transform="ref(svg,12984.7707,-3283.0186)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なづみリハビリテーションクリニック,長崎県西彼杵郡時津町左底郷３８-１,リハビリテーション科　整形外科　内科　皮膚科,,,9" xlink:title="なづみリハビリテーションクリニック" transform="ref(svg,12983.996,-3283.3227)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひらのクリニック,長崎県西彼杵郡時津町浦郷４４３-９,アレルギー科　リハビリテーション科　気管食道科　耳鼻いんこう科　麻酔科,,,9" xlink:title="ひらのクリニック" transform="ref(svg,12984.7249,-3282.9659)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひろた小児科,長崎県西彼杵郡長与町高田郷４７,小児科,,,9" xlink:title="ひろた小児科" transform="ref(svg,12985.4374,-3280.305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もとかわ耳鼻咽喉科,長崎県西彼杵郡時津町浜田郷１２-３,アレルギー科　耳鼻いんこう科,,,9" xlink:title="もとかわ耳鼻咽喉科" transform="ref(svg,12985.2217,-3282.9942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もとやま心のクリニック,長崎県西彼杵郡長与町高田郷４７,心療内科　精神科,,,9" xlink:title="もとやま心のクリニック" transform="ref(svg,12985.4544,-3280.3051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もりハートクリニック,長崎県西彼杵郡時津町浜田郷字冬切３８-３,循環器内科　内科,,,9" xlink:title="もりハートクリニック" transform="ref(svg,12985.1213,-3283.1253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サザンクリニック,長崎県西彼杵郡時津町久留里郷新開１４６６,心療内科　精神科,,,9" xlink:title="サザンクリニック" transform="ref(svg,12983.6567,-3284.1691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こが内科外科クリニック,長崎県西彼杵郡長与町嬉里郷３７８-１,胃腸内科　外科　小児科　内科,,,9" xlink:title="（医）こが内科外科クリニック" transform="ref(svg,12987.4146,-3282.4376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ぐびろ会モロキ内科医院,長崎県西彼杵郡長与町嬉里郷１０８５-１,リハビリテーション科　循環器科　小児科　内科,,,9" xlink:title="（医）ぐびろ会モロキ内科医院" transform="ref(svg,12987.2712,-3283.1107)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こいで小児科,長崎県西彼杵郡時津町西時津郷７５-１０,小児科,,,9" xlink:title="（医）こいで小児科" transform="ref(svg,12986.1705,-3283.3589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さがら整形外科,長崎県西彼杵郡時津町野田郷９-１,リハビリテーション科　整形外科,,,9" xlink:title="（医）さがら整形外科" transform="ref(svg,12984.768,-3282.7252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）なかむら整形外科,長崎県西彼杵郡長与町嬉里郷１０８０-１,リハビリテーション科　整形外科,,,9" xlink:title="（医）なかむら整形外科" transform="ref(svg,12987.3238,-3283.1342)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まつなが皮ふ科,長崎県西彼杵郡長与町斉藤郷４５-４,皮膚科,,,9" xlink:title="（医）まつなが皮ふ科" transform="ref(svg,12986.9274,-3283.2278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）もり小児科,長崎県西彼杵郡長与町嬉里郷４４８,小児科,,,9" xlink:title="（医）もり小児科" transform="ref(svg,12987.569,-3282.3589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やまもと内科,長崎県西彼杵郡時津町左底郷７８-３,呼吸器内科　内科,,,9" xlink:title="（医）やまもと内科" transform="ref(svg,12984.0766,-3283.2909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）井川内科医院,長崎県西彼杵郡長与町吉無田郷２０２２-７,小児科　内科　放射線科,,,9" xlink:title="（医）井川内科医院" transform="ref(svg,12988.0047,-3281.7853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永石眼科医院,長崎県西彼杵郡時津町浦郷４４３-５,眼科,,,9" xlink:title="（医）永石眼科医院" transform="ref(svg,12984.7291,-3282.9952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）暁会安永脳神経外科,長崎県西彼杵郡時津町浦郷２６４-３,リハビリテーション科　脳神経外科,,,9" xlink:title="（医）暁会安永脳神経外科" transform="ref(svg,12984.6905,-3282.8671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）修樹会平井内科医院,長崎県西彼杵郡長与町嬉里郷６６１,内科,,,9" xlink:title="（医）修樹会平井内科医院" transform="ref(svg,12987.4122,-3282.6718)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）新成会川崎胃腸科外科医院,長崎県西彼杵郡長与町岡郷３７-１１,リハビリテーション科　外科　整形外科　内科　肛門外科,,,9" xlink:title="（医）新成会川崎胃腸科外科医院" transform="ref(svg,12987.2931,-3283.5853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真和会山中内科消化器科医院,長崎県西彼杵郡時津町西時津郷４６６-１,リハビリテーション科　呼吸器科　循環器科　消化器科　内科,,,9" xlink:title="（医）真和会山中内科消化器科医院" transform="ref(svg,12985.7661,-3283.5505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成田内科医院,長崎県西彼杵郡長与町吉無田郷２０２６-６,小児科　内科,,,9" xlink:title="（医）成田内科医院" transform="ref(svg,12988.0126,-3281.9179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ホーム・ホスピス中尾クリニック,長崎県西彼杵郡長与町高田郷２２０２-１,外科　緩和ケア・外科,,,9" xlink:title="（医）ホーム・ホスピス中尾クリニック" transform="ref(svg,12985.3239,-3280.9059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）治光会うらの眼科クリニック,長崎県西彼杵郡時津町浦郷２７０-１２,眼科,,,9" xlink:title="（医）治光会うらの眼科クリニック" transform="ref(svg,12984.7957,-3282.8602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宮崎耳鼻咽喉科医院,長崎県西彼杵郡長与町嬉里郷１４８-１３,耳鼻いんこう科,,,9" xlink:title="（医）宮崎耳鼻咽喉科医院" transform="ref(svg,12987.2298,-3282.9492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山田眼科医院,長崎県西彼杵郡長与町嬉里郷六反田７０３-９,眼科,,,9" xlink:title="（医）山田眼科医院" transform="ref(svg,12987.3993,-3282.9101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）尚健会佐藤内科医院,長崎県西彼杵郡長与町嬉里郷４１３-４,胃腸科　呼吸器科　循環器科　小児科　消化器科　内科,,,9" xlink:title="（医）尚健会佐藤内科医院" transform="ref(svg,12987.5276,-3282.2093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大同会中山整形外科医院,長崎県西彼杵郡時津町左底郷７８-１８,リハビリテーション科　形成外科　整形外科,,,9" xlink:title="（医）大同会中山整形外科医院" transform="ref(svg,12984.0961,-3283.2994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）馬場耳鼻咽喉科医院,長崎県西彼杵郡長与町嬉里郷６６５,耳鼻いんこう科,,,9" xlink:title="（医）馬場耳鼻咽喉科医院" transform="ref(svg,12987.4378,-3282.7509)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）信合会さとう歯科,長崎県西彼杵郡時津町浦郷２７５-２,矯正歯科　歯科　小児歯科,,,9" xlink:title="（医）信合会さとう歯科" transform="ref(svg,12984.9248,-3282.8861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）森内科クリニック,長崎県西彼杵郡長与町嬉里郷４４５-１０１,リハビリテーション科　呼吸器内科　循環器内科　消化器内科　内科,,,9" xlink:title="（医）森内科クリニック" transform="ref(svg,12987.5912,-3282.3264)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田整形外科クリニック,長崎県西彼杵郡長与町吉無田郷８,リウマチ科　リハビリテーション科　整形外科,,,9" xlink:title="吉田整形外科クリニック" transform="ref(svg,12987.7831,-3282.143)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤医院,長崎県西彼杵郡時津町日並郷１３２５-８,リハビリテーション科　胃腸科　外科　呼吸器科　内科,,,9" xlink:title="近藤医院" transform="ref(svg,12982.645,-3284.8395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鍬先医院,長崎県西彼杵郡時津町浜田郷５２０-５,リハビリテーション科　胃腸科　外科　神経内科　内科,,,9" xlink:title="鍬先医院" transform="ref(svg,12985.3508,-3283.3382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原田外科・胃腸科クリニック,長崎県西彼杵郡長与町高田郷８４９-７,こう門科　リハビリテーション科　胃腸科　外科　内科,,,9" xlink:title="原田外科・胃腸科クリニック" transform="ref(svg,12987.7044,-3280.6169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸田内科,長崎県西彼杵郡時津町元村郷９０８-１５,リハビリテーション科　循環器内科　内科,,,9" xlink:title="戸田内科" transform="ref(svg,12984.5817,-3281.7975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高木クリニック,長崎県西彼杵郡時津町西時津郷７５-２０,リハビリテーション科　胃腸科　外科　呼吸器科　心臓血管外科　整形外科,,,9" xlink:title="高木クリニック" transform="ref(svg,12986.2306,-3283.3179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒-ｱ医院,長崎県西彼杵郡時津町浦郷２７５-４,外科　小児科　小児外科　内科　皮膚科,,,9" xlink:title="黒-ｱ医院" transform="ref(svg,12984.8947,-3282.906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦産婦人科,長崎県西彼杵郡時津町野田郷２５-１,外科　産科　小児科　内科　婦人科,,,9" xlink:title="三浦産婦人科" transform="ref(svg,12984.7451,-3282.6885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱電機時津診療所,長崎県西彼杵郡時津町浜田郷５１７,外科　内科,,,9" xlink:title="三菱電機時津診療所" transform="ref(svg,12985.3409,-3283.3815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,時津中央クリニック,長崎県西彼杵郡時津町浜田郷３８-２,内科,,,9" xlink:title="時津中央クリニック" transform="ref(svg,12985.0941,-3283.1138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）啓正会軽費老人ホームパンセオン・ド・長崎医務室,長崎県西彼杵郡時津町西時津郷１７３-１,内科,,,9" xlink:title="（福）啓正会軽費老人ホームパンセオン・ド・長崎医務室" transform="ref(svg,12986.3087,-3283.4471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）鶴生会（特養）悠久荘医務室,長崎県西彼杵郡長与町高田郷字森ノ木６２５,内科,,,9" xlink:title="（福）鶴生会（特養）悠久荘医務室" transform="ref(svg,12986.8541,-3280.0061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川クリニック,長崎県西彼杵郡長与町まなび野２-３０-６,こう門科　リハビリテーション科　胃腸科　外科　内科,,,9" xlink:title="小川クリニック" transform="ref(svg,12987.7578,-3281.351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本外科医院,長崎県西彼杵郡長与町嬉里郷４５８,こう門科　リハビリテーション科　胃腸科　外科　呼吸器科,,,9" xlink:title="松本外科医院" transform="ref(svg,12987.7366,-3282.2802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森の木脳神経脊髄外科,長崎県西彼杵郡長与町高田郷森の木６９８-１,リハビリテーション科　神経内科　脳神経外科,,,9" xlink:title="森の木脳神経脊髄外科" transform="ref(svg,12986.8963,-3279.9308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森川内科クリニック,長崎県西彼杵郡長与町三根郷８３-１,リハビリテーション科　消化器科　内科,,,9" xlink:title="森川内科クリニック" transform="ref(svg,12988.7217,-3281.7766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,腎・泌尿器科松尾りょういちクリニック,長崎県西彼杵郡時津町浦郷２７０-８,泌尿器科,,,9" xlink:title="腎・泌尿器科松尾りょういちクリニック" transform="ref(svg,12984.8028,-3282.9189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西田医院,長崎県西彼杵郡長与町嬉里郷４５９-１,小児科　消化器科　内科　放射線科,,,9" xlink:title="西田医院" transform="ref(svg,12987.7512,-3282.2711)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前島皮膚科医院,長崎県西彼杵郡時津町浜田郷竹ノ下６４０-１,皮膚科,,,9" xlink:title="前島皮膚科医院" transform="ref(svg,12985.8501,-3283.2029)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大福地外科胃腸科医院,長崎県西彼杵郡長与町吉無田郷２０２２-６,こう門科　胃腸科　外科　整形外科,,,9" xlink:title="大福地外科胃腸科医院" transform="ref(svg,12987.9835,-3281.8102)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎けやき医院,長崎県西彼杵郡長与町高田郷３６０７-１,こう門科　リハビリテーション科　外科　気管食道科　呼吸器科　循環器科　消化器科　内科,,,9" xlink:title="長崎けやき医院" transform="ref(svg,12986.5745,-3281.8415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎腎クリニック,長崎県西彼杵郡時津町浦郷２７２-１４,腎臓内科（人工透析）　内科,,,9" xlink:title="長崎腎クリニック" transform="ref(svg,12984.8788,-3282.8111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長沢医院,長崎県西彼杵郡長与町嬉里郷７１５,小児科　内科,,,9" xlink:title="長沢医院" transform="ref(svg,12987.404,-3282.9758)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田嶋医院,長崎県西彼杵郡時津町浦郷２６１-３,循環器科　小児科　消化器科　心療内科　神経内科　精神科　内科,,,9" xlink:title="田嶋医院" transform="ref(svg,12984.6758,-3282.9387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,都クリニック,長崎県西彼杵郡長与町高田郷４７,リハビリテーション科　内科　麻酔科,,,9" xlink:title="都クリニック" transform="ref(svg,12985.4374,-3280.305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤本クリニック,長崎県西彼杵郡時津町久留里郷１４５８,こう門科　リハビリテーション科　外科　消化器科　内科,,,9" xlink:title="藤本クリニック" transform="ref(svg,12983.551,-3284.3117)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）のぞみの杜医務室,長崎県西彼杵郡長与町吉無田郷１５７８,内科,,,9" xlink:title="（特養）のぞみの杜医務室" transform="ref(svg,12988.6362,-3281.6335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）時津荘医務室,長崎県西彼杵郡時津町西時津郷１２３５,内科,,,9" xlink:title="（特養）時津荘医務室" transform="ref(svg,12985.6035,-3284.5876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あいウーマンズクリニック,長崎県長崎市五島町５-３８五島町中村ビル１階,婦人科,,,9" xlink:title="あいウーマンズクリニック" transform="ref(svg,12987.2884,-3274.8071)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大輪会愛育小児科医院,長崎県長崎市新戸町３-１７-２７中山ビル１Ｆ,小児科,,,9" xlink:title="（医）大輪会愛育小児科医院" transform="ref(svg,12986.7059,-3271.233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アオキ眼科診療所,長崎県長崎市万才町７-１住友生命ビル３Ｆ,眼科,,,9" xlink:title="アオキ眼科診療所" transform="ref(svg,12987.5827,-3274.7461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あおぞら内科クリニック,長崎県長崎市元船町５-４メディカルモール元船２Ｆ,内科　呼吸器科　アレルギー科　循環器科,,,9" xlink:title="（医）あおぞら内科クリニック" transform="ref(svg,12987.1903,-3274.8879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）青葉苑医務室,長崎県長崎市戸町４-７-１７,外科,,,9" xlink:title="（特養）青葉苑医務室" transform="ref(svg,12986.1302,-3271.971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あが医院,長崎県長崎市油屋町１-３９,内科　呼吸器科,,,9" xlink:title="あが医院" transform="ref(svg,12988.0642,-3274.2818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤澤内科クリニック,長崎県長崎市千歳町９-２６,内科　糖尿病内科,,,9" xlink:title="赤澤内科クリニック" transform="ref(svg,12986.249,-3278.9933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）赤司消化器クリニック,長崎県長崎市桜町６-１０,外科　消化器科,,,9" xlink:title="（医）赤司消化器クリニック" transform="ref(svg,12987.9165,-3275.0136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）赤司内科消化器科医院,長崎県長崎市若葉町１４-８,内科　消化器科,,,9" xlink:title="（医）赤司内科消化器科医院" transform="ref(svg,12986.0556,-3279.0243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秋山眼科クリニック,長崎県長崎市桜馬場１-７-７,眼科,,,9" xlink:title="（医）秋山眼科クリニック" transform="ref(svg,12988.8241,-3275.2986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あき山皮ふ科医院,長崎県長崎市滑石１-２-６,皮膚科　アレルギー科,,,9" xlink:title="（医）あき山皮ふ科医院" transform="ref(svg,12985.1086,-3280.5729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきよし都美内科クリニック,長崎県長崎市若葉町１-２４フラワーメイトビル２階,内科　消化器科　心療内科,,,9" xlink:title="あきよし都美内科クリニック" transform="ref(svg,12986.2194,-3278.546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅井内科,長崎県長崎市目覚町７-７,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="浅井内科" transform="ref(svg,12986.4959,-3276.4792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あじさいクリニック,長崎県長崎市銅座町７-２９ＴＮメディカルビル３階,整形外科　リウマチ科,,,9" xlink:title="あじさいクリニック" transform="ref(svg,12987.6313,-3274.2395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）アスカ医務室,長崎県長崎市みなと坂１-５-１,内科,,,9" xlink:title="地域密着型（特養）アスカ医務室" transform="ref(svg,12983.9095,-3272.9109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あそう眼科,長崎県長崎市宝町５-５,眼科,,,9" xlink:title="（医）あそう眼科" transform="ref(svg,12986.902,-3275.8122)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）麻生外科医院,長崎県長崎市滑石２-２-８,胃腸科　外科　整形外科　肛門科　リハビリテーション科,,,9" xlink:title="（医）麻生外科医院" transform="ref(svg,12984.5003,-3280.7914)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）麻生整形外科医院,長崎県長崎市横尾２-１３-１８,外科　整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）麻生整形外科医院" transform="ref(svg,12983.6176,-3281.3626)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部内科循環器科,長崎県長崎市浜町７-２３,内科　循環器科,,,9" xlink:title="阿部内科循環器科" transform="ref(svg,12987.88,-3274.344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天野内科,長崎県長崎市小江原２-３５-１６,内科　呼吸器内科　アレルギー科　感染症内科,,,9" xlink:title="天野内科" transform="ref(svg,12983.8136,-3278.0573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）天本内科医院,長崎県長崎市万才町７-１住友生命ビル３Ｆ,内科　胃腸科　循環器科　放射線科,,,9" xlink:title="（医）天本内科医院" transform="ref(svg,12987.5821,-3274.7425)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天本泌尿器科医院,長崎県長崎市出島町１-２７,泌尿器科,,,9" xlink:title="天本泌尿器科医院" transform="ref(svg,12987.1428,-3274.3158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アミュプラザ眼科,長崎県長崎市尾上町１-１アミュプラザ長崎５階,眼科,,,9" xlink:title="アミュプラザ眼科" transform="ref(svg,12987.0896,-3275.1657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,雨森内科医院,長崎県長崎市西海町１７２３-１,内科,,,9" xlink:title="雨森内科医院" transform="ref(svg,12978.5295,-3286.0321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,心療内科新クリニック,長崎県長崎市住吉町２-２６-２Ｆ,心臓内科　精神科　神経科,,,9" xlink:title="心療内科新クリニック" transform="ref(svg,12986.1427,-3279.0932)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒谷内科医院,長崎県長崎市千歳町２１-１久部ビル２Ｆ,内科,,,9" xlink:title="荒谷内科医院" transform="ref(svg,12986.5639,-3279.0816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有高クリニック,長崎県長崎市万屋町４-１９,内科　消化器科　呼吸器科　循環器科,,,9" xlink:title="有高クリニック" transform="ref(svg,12987.8474,-3274.4925)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有冨内科,長崎県長崎市江の浦町１-１２,内科　消化器科,,,9" xlink:title="有冨内科" transform="ref(svg,12986.2371,-3275.0611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,粟津外科医院,長崎県長崎市田上２-８-１８,外科　整形外科　呼吸器科　放射線科　胃腸科　肛門科,,,9" xlink:title="粟津外科医院" transform="ref(svg,12988.9859,-3272.6522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杏会杏クリニック皮膚科・美容皮膚科,長崎県長崎市中町１-２２-３Ｆ,皮膚科　美容皮膚科,,,9" xlink:title="（医）杏会杏クリニック皮膚科・美容皮膚科" transform="ref(svg,12987.4887,-3275.1208)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杏会杏クリニック婦人科・内科・産科,長崎県長崎市中町１-２２-２Ｆ,婦人科　内科　産科,,,9" xlink:title="（医）杏会杏クリニック婦人科・内科・産科" transform="ref(svg,12987.4887,-3275.1208)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あんず整形外科,長崎県長崎市畝刈町１６１３-３３　１・３階,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="あんず整形外科" transform="ref(svg,12977.6424,-3282.5952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯田内科小児科医院,長崎県長崎市横尾２-１３-６,内科　小児科　放射線科,,,9" xlink:title="飯田内科小児科医院" transform="ref(svg,12983.6223,-3281.3541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎市伊王島国民健康保険診療所,長崎県長崎市伊王島町２-８４６-６,内科　歯科,,,9" xlink:title="長崎市伊王島国民健康保険診療所" transform="ref(svg,12977.8152,-3270.1176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）猪狩医院,長崎県長崎市小瀬戸町１５５,内科　小児科　循環器科　呼吸器科　消化器科,,,9" xlink:title="（医）猪狩医院" transform="ref(svg,12983.7172,-3272.5065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）池田胃腸内科医院,長崎県長崎市相生町５-１,内科　胃腸内科　内視鏡内科　消化器内科　呼吸器内科　循環器内科,,,9" xlink:title="（医）池田胃腸内科医院" transform="ref(svg,12987.2339,-3273.3352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）腎倫雄会池田整形外科クリニック,長崎県長崎市金屋町２-１０平田ビル５Ｆ,整形外科　リハビリテーション科,,,9" xlink:title="（医）腎倫雄会池田整形外科クリニック" transform="ref(svg,12987.4134,-3274.8298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池辺内科医院,長崎県長崎市鍛冶屋町６-４７,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="池辺内科医院" transform="ref(svg,12988.1541,-3274.3165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）いこいの園医務室,長崎県長崎市牧野町２１６８-５,内科　外科,,,9" xlink:title="（特養）いこいの園医務室" transform="ref(svg,12979.9396,-3279.6457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎市医師会医療センター診療所,長崎県長崎市栄町２-２２,内科,,,9" xlink:title="長崎市医師会医療センター診療所" transform="ref(svg,12987.772,-3274.8108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石川内科医院,長崎県長崎市五島町３-１７トーカン五島町１０３,内科,,,9" xlink:title="（医）石川内科医院" transform="ref(svg,12987.314,-3274.9043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石野皮膚科医院,長崎県長崎市目覚町３-２,皮膚科,,,9" xlink:title="石野皮膚科医院" transform="ref(svg,12986.5274,-3276.3069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石丸内科胃腸科医院,長崎県長崎市住吉町３-１８,内科　消化器内科　糖尿病内科　内分泌内科,,,9" xlink:title="石丸内科胃腸科医院" transform="ref(svg,12986.1786,-3279.1501)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井石内科医院,長崎県長崎市滑石２-５-１７,内科　循環器内科　消化器内科,,,9" xlink:title="井石内科医院" transform="ref(svg,12984.8141,-3280.7064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,胃腸科もりクリニック,長崎県長崎市松山町６-９,内科　胃腸科　肛門科,,,9" xlink:title="胃腸科もりクリニック" transform="ref(svg,12986.3345,-3277.4225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井手外科医院,長崎県長崎市樺島町４-１,外科　整形外科　消化器科　胃腸科　放射線科　肛門科　リハビリテーション科,,,9" xlink:title="井手外科医院" transform="ref(svg,12987.2878,-3274.6694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井手外科・形成外科医院,長崎県長崎市丸山町７-２,形成外科　整形外科　内科　リハビリテーション科　外科,,,9" xlink:title="井手外科・形成外科医院" transform="ref(svg,12988.0978,-3274.2109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井手内科医院,長崎県長崎市平野町１２-１１,内科　胃腸科　放射線科,,,9" xlink:title="井手内科医院" transform="ref(svg,12986.6199,-3276.9657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）井手内科クリニック,長崎県長崎市家野町２-２２,内科　呼吸器科,,,9" xlink:title="（医）井手内科クリニック" transform="ref(svg,12986.2759,-3278.6462)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伊藤クリニック,長崎県長崎市大橋町７-２０,内科　外科　肛門科　胃腸科　放射線科,,,9" xlink:title="（医）伊藤クリニック" transform="ref(svg,12986.2056,-3278.2626)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,長崎県長崎市三芳町５-４７,小児科　整形外科　リハビリテーション科　リウマチ科　麻酔科,,,9" xlink:title="伊藤医院" transform="ref(svg,12986.0715,-3278.1892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いとう内科医院,長崎県長崎市滑石３-２５-１８,内科　消化器内科　アレルギー科　老年内科　緩和内科,,,9" xlink:title="いとう内科医院" transform="ref(svg,12983.3165,-3280.8551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,糸柳ブレストクリニック,長崎県長崎市新地町１-５ＭＭＣビル４階,外科,,,9" xlink:title="糸柳ブレストクリニック" transform="ref(svg,12987.4774,-3274.2339)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いなさ内科・胃腸クリニック,長崎県長崎市弁天町１３-１２,内科　胃腸内科　内視鏡内科,,,9" xlink:title="（医）いなさ内科・胃腸クリニック" transform="ref(svg,12986.2178,-3275.3396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲佐の森診療所,長崎県長崎市大谷町４１８-１,内科,,,9" xlink:title="稲佐の森診療所" transform="ref(svg,12985.0955,-3274.8318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上内科医院,長崎県長崎市大橋町２-３,内科　消化器科　循環器科　小児科　放射線科,,,9" xlink:title="井上内科医院" transform="ref(svg,12986.2321,-3278.005)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今福皮膚科医院,長崎県長崎市桜町３-３４,皮膚科,,,9" xlink:title="今福皮膚科医院" transform="ref(svg,12987.7141,-3274.9853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いまむら整形外科医院,長崎県長崎市葉山１-２８-１日章葉山ビル３Ｆ,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="いまむら整形外科医院" transform="ref(svg,12984.8334,-3280.5948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）今村内科,長崎県長崎市桜馬場１-２-２５,内科　消化器科　胃腸科,,,9" xlink:title="（医）今村内科" transform="ref(svg,12988.7715,-3275.2515)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,入江医院,長崎県長崎市畝刈町１６１３-９５,外科　肛門科　胃腸科,,,9" xlink:title="入江医院" transform="ref(svg,12977.8881,-3282.5909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いりえ心療内科クリニック,長崎県長崎市万屋町６-１５サン萬年喜ビル２Ｆ,精神科　神経科　心臓内科,,,9" xlink:title="いりえ心療内科クリニック" transform="ref(svg,12988.0113,-3274.4898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩崎内科医院,長崎県長崎市上町１-２７-１０１,内科,,,9" xlink:title="岩崎内科医院" transform="ref(svg,12987.7457,-3275.1095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）昭成会岩永医院,長崎県長崎市平和町８-７,内科　消化器科　循環器科　リウマチ科,,,9" xlink:title="（医）昭成会岩永医院" transform="ref(svg,12986.7416,-3277.5507)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩永クリニック,長崎県長崎市旭町２１-１２,胃腸科　呼吸器科　外科　肛門科　リハビリテーション科,,,9" xlink:title="岩永クリニック" transform="ref(svg,12986.2427,-3275.1712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うどの皮ふ科,長崎県長崎市元船町５-４メディカルモール元船２Ｆ,皮膚科,,,9" xlink:title="うどの皮ふ科" transform="ref(svg,12987.1903,-3274.8879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梅木耳鼻咽喉科医院,長崎県長崎市万才町１０-３サンガーデン万才町２階,耳鼻いんこう科,,,9" xlink:title="梅木耳鼻咽喉科医院" transform="ref(svg,12987.5366,-3274.5673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浦クリニック,長崎県長崎市桶屋町５９コア桶屋町２階,消化器科　外科　リハビリテーション科,,,9" xlink:title="浦クリニック" transform="ref(svg,12988.0673,-3274.9804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）治光会浦野外科医院,長崎県長崎市大園町５-２,胃腸科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）治光会浦野外科医院" transform="ref(svg,12983.804,-3280.6888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成美会うらべ耳鼻咽喉科医院,長崎県長崎市滑石３-１９-１０,耳鼻いんこう科　アレルギー科,,,9" xlink:title="（医）成美会うらべ耳鼻咽喉科医院" transform="ref(svg,12983.5791,-3280.7938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浦山クリニック,長崎県長崎市伊勢町２-２６,内科　リウマチ科,,,9" xlink:title="浦山クリニック" transform="ref(svg,12988.4291,-3275.1785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）江上耳鼻咽喉科医院,長崎県長崎市銅座町２-１５ＮＫイリスビル３０１,耳鼻いんこう科　気管外科,,,9" xlink:title="（医）江上耳鼻咽喉科医院" transform="ref(svg,12987.5309,-3274.288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江上皮ふ科医院,長崎県長崎市住吉町３-１サン住吉２Ｆ,皮膚科,,,9" xlink:title="江上皮ふ科医院" transform="ref(svg,12986.0845,-3279.1377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江口クリニック,長崎県長崎市今博多町４５,内科　胃腸科　外科　整形外科　呼吸器科　肛門科　放射線科,,,9" xlink:title="江口クリニック" transform="ref(svg,12988.1625,-3275.0578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江良医院,長崎県長崎市住吉町５-１５,内科　循環器科,,,9" xlink:title="江良医院" transform="ref(svg,12986.0655,-3279.2045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）エルダーみずほ医務室,長崎県長崎市岩屋町４５-１,内科　外科,,,9" xlink:title="（特養）エルダーみずほ医務室" transform="ref(svg,12984.8525,-3279.9802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム延命園医務室,長崎県長崎市寺町３-１,内科,,,9" xlink:title="養護老人ホーム延命園医務室" transform="ref(svg,12988.3111,-3274.6875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健友会大浦診療所,長崎県長崎市大浦町９-３０,内科　整形外科　外科　リウマチ科　呼吸器内科　リハビリテーション科,,,9" xlink:title="（医）健友会大浦診療所" transform="ref(svg,12987.231,-3273.494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大神皮フ科,長崎県長崎市築町１-１４,皮膚科,,,9" xlink:title="大神皮フ科" transform="ref(svg,12987.5476,-3274.4901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博生会大久保医院,長崎県長崎市新地町４-１５,内科　胃腸科　循環器科,,,9" xlink:title="（医）博生会大久保医院" transform="ref(svg,12987.3724,-3274.1092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおぞら整形外科,長崎県長崎市新大工町５-１６,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="おおぞら整形外科" transform="ref(svg,12988.6716,-3275.2858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおつかこども医院,長崎県長崎市滑石６-３-１,小児科,,,9" xlink:title="おおつかこども医院" transform="ref(svg,12983.4318,-3280.4211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大坪医院,長崎県長崎市新地町６-５６-１０６,精神科　神経科　心臓内科,,,9" xlink:title="大坪医院" transform="ref(svg,12987.3926,-3274.0539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内科大坪クリニック,長崎県長崎市桶屋町５０-３,内科　消化器科　循環器科　リハビリテーション科　放射線科,,,9" xlink:title="（医）内科大坪クリニック" transform="ref(svg,12988.1162,-3274.9473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大坪整形外科,長崎県長崎市川口町１-１-１０７,整形外科　リハビリテーション科,,,9" xlink:title="大坪整形外科" transform="ref(svg,12986.4102,-3276.4124)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）耕雲会おおつる内科医院,長崎県長崎市中町５-２７,内科　消化器科　循環器科　神経内科　リハビリテーション科,,,9" xlink:title="（医）耕雲会おおつる内科医院" transform="ref(svg,12987.3391,-3275.2611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおの整形外科,長崎県長崎市大園町７-２２,整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="おおの整形外科" transform="ref(svg,12983.8116,-3280.4151)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）稲和会大場内科消化器科医院,長崎県長崎市光町１８-９,消化器科　内科　放射線科,,,9" xlink:title="（医）稲和会大場内科消化器科医院" transform="ref(svg,12986.2215,-3275.4141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おおみや小児科医院,長崎県長崎市上野町２-１,小児科,,,9" xlink:title="（医）おおみや小児科医院" transform="ref(svg,12986.8702,-3277.7044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡本ウーマンズクリニック,長崎県長崎市江戸町７-１,婦人科　産科,,,9" xlink:title="岡本ウーマンズクリニック" transform="ref(svg,12987.4667,-3274.449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈徳会小川耳鼻咽喉科医院,長崎県長崎市滑石２-９-１２,耳鼻いんこう科,,,9" xlink:title="（医）慈徳会小川耳鼻咽喉科医院" transform="ref(svg,12984.4675,-3280.7541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おぐし内科・眼科,長崎県長崎市清水町１２-４,内科　循環器科　眼科,,,9" xlink:title="（医）おぐし内科・眼科" transform="ref(svg,12985.7869,-3278.4907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥田産婦人科医院,長崎県長崎市平野町１１-９,産科　婦人科,,,9" xlink:title="奥田産婦人科医院" transform="ref(svg,12986.5781,-3276.9822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）奥内科医院,長崎県長崎市西山２-１０-１０,内科　小児科　循環器科,,,9" xlink:title="（医）奥内科医院" transform="ref(svg,12988.7412,-3276.0661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おくの内科クリニック,長崎県長崎市滑石３-８-５メディカル滑石５階,内科　呼吸器科　循環器科,,,9" xlink:title="おくの内科クリニック" transform="ref(svg,12983.8117,-3280.7709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）奥平外科医院,長崎県長崎市梁川町４-１５,外科　消化器内科　整形外科,,,9" xlink:title="（医）奥平外科医院" transform="ref(svg,12986.034,-3276.3086)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,押渕クリニック,長崎県長崎市国分町８-３,循環器科　内科,,,9" xlink:title="押渕クリニック" transform="ref(svg,12985.8541,-3272.4679)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小田循環器内科,長崎県長崎市万屋町５-３８西川家ビル３Ｆ,内科　循環器科,,,9" xlink:title="小田循環器内科" transform="ref(svg,12987.9071,-3274.4582)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）落内科医院,長崎県長崎市銅座町３-２４キノシタビル３Ｆ,内科　循環器科　呼吸器科　放射線科　消化器科,,,9" xlink:title="（医）落内科医院" transform="ref(svg,12987.5421,-3274.2642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小濱産婦人科医院,長崎県長崎市丸山町１-５,産婦人科,,,9" xlink:title="（医）小濱産婦人科医院" transform="ref(svg,12988.0056,-3274.1259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（社福）（特養）オレンジの丘医務室,長崎県長崎市ダイヤランド３-３１-８,内科　呼吸器科　循環器科,,,9" xlink:title="（社福）（特養）オレンジの丘医務室" transform="ref(svg,12985.5092,-3270.262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,賀来医院,長崎県長崎市三重町６２９-１,内科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="賀来医院" transform="ref(svg,12974.4966,-3282.141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）鶴舞苑医務室,長崎県長崎市秋月町３８９-１,内科,,,9" xlink:title="（特養）鶴舞苑医務室" transform="ref(svg,12985.1474,-3274.7571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）鶴舞苑-U医務室,長崎県長崎市大谷町４１８-１,内科,,,9" xlink:title="（特養）鶴舞苑-U医務室" transform="ref(svg,12985.0955,-3274.8318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,影浦内科医院,長崎県長崎市勝山町４,内科　消化器科　循環器科,,,9" xlink:title="影浦内科医院" transform="ref(svg,12988.082,-3275.1141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かずもり皮ふ科,長崎県長崎市岩屋町２５-７メディカル葉山３階,皮膚科　アレルギー科,,,9" xlink:title="かずもり皮ふ科" transform="ref(svg,12985.1218,-3280.2335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）かたふち村医務室,長崎県長崎市片淵３-５００-２,内科,,,9" xlink:title="（特養）かたふち村医務室" transform="ref(svg,12989.4207,-3276.6135)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤医院,長崎県長崎市油屋町２-３８,内科　小児科,,,9" xlink:title="加藤医院" transform="ref(svg,12988.1545,-3274.2739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）金子眼科クリニック,長崎県長崎市銅座町２-１５イリスビル４階,眼科,,,9" xlink:title="（医）金子眼科クリニック" transform="ref(svg,12987.5361,-3274.2977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かみむら小児科,長崎県長崎市畝刈町１６１３-８５ニューポートメディカルビル１Ｆ,小児科,,,9" xlink:title="かみむら小児科" transform="ref(svg,12977.6911,-3282.5544)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,カリタス西長崎クリニック,長崎県長崎市三京町８１１-３３,内科,,,9" xlink:title="カリタス西長崎クリニック" transform="ref(svg,12975.6073,-3282.1846)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわはら内科循環器科,長崎県長崎市花園町１-５,内科　循環器科,,,9" xlink:title="かわはら内科循環器科" transform="ref(svg,12985.2448,-3277.1146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）川原内科クリニック,長崎県長崎市滑石３-８-１,内科　循環器内科　消化器内科,,,9" xlink:title="（医）川原内科クリニック" transform="ref(svg,12983.8468,-3280.7646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）萌悠会耳鼻咽喉科神田Ｅ・Ｎ・Ｔ医院,長崎県長崎市若草町４-２５,耳鼻いんこう科,,,9" xlink:title="（医）萌悠会耳鼻咽喉科神田Ｅ・Ｎ・Ｔ医院" transform="ref(svg,12985.2713,-3277.6477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）北里外科肛門科クリニック,長崎県長崎市魚の町６-１１,肛門科　外科　消化器科　整形外科　リハビリテーション科,,,9" xlink:title="（医）北里外科肛門科クリニック" transform="ref(svg,12988.054,-3274.8456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木下漢方内科クリニック,長崎県長崎市目覚町１３-８,内科　漢方内科,,,9" xlink:title="木下漢方内科クリニック" transform="ref(svg,12986.5779,-3276.352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）きのしたこどもクリニック,長崎県長崎市住吉町３-１１サンシャイン住吉２０４,小児科,,,9" xlink:title="（医）きのしたこどもクリニック" transform="ref(svg,12986.1408,-3279.146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木下内科医院,長崎県長崎市江戸町５-１４,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）木下内科医院" transform="ref(svg,12987.5207,-3274.4335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木谷医院,長崎県長崎市大浦町８-１６,内科　消化器科,,,9" xlink:title="木谷医院" transform="ref(svg,12987.1923,-3273.5929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木谷内科循環器クリニック,長崎県長崎市坂本１-８-３０,内科　循環器科,,,9" xlink:title="（医）木谷内科循環器クリニック" transform="ref(svg,12986.7895,-3277.0684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,九州郵政健康管理センター長崎分室,長崎県長崎市岩川町９-１７,内科,,,9" xlink:title="九州郵政健康管理センター長崎分室" transform="ref(svg,12986.5662,-3276.5714)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,共立耳鼻咽喉科,長崎県長崎市旭町２６-１８,耳鼻いんこう科,,,9" xlink:title="共立耳鼻咽喉科" transform="ref(svg,12986.2801,-3274.9797)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）長寿会清原龍内科,長崎県長崎市川口町８-２０,内科　心臓内科　リハビリテーション科　精神科,,,9" xlink:title="（医）長寿会清原龍内科" transform="ref(svg,12986.3852,-3276.8314)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）倉田醫院内科婦人科,長崎県長崎市小峰町３-６,内科　婦人科　胃腸科　循環器科　リウマチ科,,,9" xlink:title="（医）倉田醫院内科婦人科" transform="ref(svg,12987.1176,-3278.2034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健正会黒岩医院,長崎県長崎市古町６,外科　心臓・血管外科　胃腸科　循環器科,,,9" xlink:title="（医）健正会黒岩医院" transform="ref(svg,12988.1054,-3275.0624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くろき眼科,長崎県長崎市畝刈町１６１３-３３サクセスカバーヒルズ２階,眼科,,,9" xlink:title="くろき眼科" transform="ref(svg,12977.6424,-3282.5952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）黒部医院,長崎県長崎市片淵１-１２-２２,循環器科　内科,,,9" xlink:title="（医）黒部医院" transform="ref(svg,12988.719,-3275.365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くわつか医院,長崎県長崎市平和町１５-７,内科　胃腸科　小児科　リハビリテーション科,,,9" xlink:title="くわつか医院" transform="ref(svg,12986.4542,-3277.4056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鍬塚皮膚科医院,長崎県長崎市城栄町１８-２０,皮膚科　泌尿器科　性病科,,,9" xlink:title="（医）鍬塚皮膚科医院" transform="ref(svg,12985.7812,-3277.5475)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）恵珠苑医務室,長崎県長崎市田上２-１５-１２,内科,,,9" xlink:title="（特養）恵珠苑医務室" transform="ref(svg,12988.6578,-3272.6513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,けんクリニック,長崎県長崎市宝町７-５第３森谷ビル２階,心臓内科　精神科,,,9" xlink:title="けんクリニック" transform="ref(svg,12986.6722,-3275.9602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）太壽会こうの医院,長崎県長崎市京泊３-３５-１,内科　呼吸器科　循環器科　気管食道科　リハビリテーション科　小児科,,,9" xlink:title="（医）太壽会こうの医院" transform="ref(svg,12977.3692,-3282.4659)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こうの眼科医院,長崎県長崎市大橋町７-２０栄久ビル２Ｆ,眼科,,,9" xlink:title="（医）こうの眼科医院" transform="ref(svg,12986.2091,-3278.2655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）河野内科医院,長崎県長崎市川平町１２０４メディケアビル２Ｆ,内科　消化器科,,,9" xlink:title="（医）河野内科医院" transform="ref(svg,12988.0371,-3279.3624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こえばる医務室,長崎県長崎市小江原４-１-３０,内科,,,9" xlink:title="（特養）こえばる医務室" transform="ref(svg,12983.2289,-3278.3637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古賀内科循環器科医院,長崎県長崎市エミネント葉山４-６,内科　循環器科　小児科,,,9" xlink:title="古賀内科循環器科医院" transform="ref(svg,12984.5344,-3279.9963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）古賀脳神経外科,長崎県長崎市新大工町５-７,脳神経外科　リハビリテーション科,,,9" xlink:title="（医）古賀脳神経外科" transform="ref(svg,12988.5853,-3275.271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）長崎病院診療部,長崎県長崎市桜木町６-４１,内科　外科　歯科,,,9" xlink:title="厚生労働省第二（共済）長崎病院診療部" transform="ref(svg,12989.076,-3272.8333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こころ元気クリニック,長崎県長崎市元船町１２-１タカラビル２階,心臓内科　精神科,,,9" xlink:title="こころ元気クリニック" transform="ref(svg,12987.1834,-3274.6889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小島耳鼻咽喉科クリニック,長崎県長崎市万屋町６-２０,耳鼻いんこう科,,,9" xlink:title="（医）小島耳鼻咽喉科クリニック" transform="ref(svg,12988.0558,-3274.4599)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林皮膚科医院,長崎県長崎市滑石３-１９-２０,皮膚科　泌尿器科,,,9" xlink:title="小林皮膚科医院" transform="ref(svg,12983.4873,-3280.8084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小嶺医院,長崎県長崎市光町１７-９,皮膚科　泌尿器科　性病科,,,9" xlink:title="小嶺医院" transform="ref(svg,12986.2247,-3275.4585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,コムロ耳鼻咽喉科クリニック,長崎県長崎市大黒町１１-１８ＭＩＹＡＳＨＩＴＡビル２Ｆ,耳鼻いんこう科　頭頚部外科,,,9" xlink:title="コムロ耳鼻咽喉科クリニック" transform="ref(svg,12987.2611,-3275.1101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こもり内科医院,長崎県長崎市恵美須町４-２平野ビル１Ｆ,内科　呼吸器科,,,9" xlink:title="こもり内科医院" transform="ref(svg,12987.5749,-3275.0493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小森内科クリニック,長崎県長崎市上小島４-１６-１,内科　呼吸器科,,,9" xlink:title="（医）小森内科クリニック" transform="ref(svg,12988.435,-3273.2888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ごんどう小児科,長崎県長崎市岡町５-１４,小児科,,,9" xlink:title="ごんどう小児科" transform="ref(svg,12986.2572,-3277.8436)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こんどう整形外科,長崎県長崎市京泊３-３０-１１,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）こんどう整形外科" transform="ref(svg,12977.2052,-3282.3944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明星会サイクサ外科医院,長崎県長崎市新地町４-８,外科　整形外科,,,9" xlink:title="（医）明星会サイクサ外科医院" transform="ref(svg,12987.3835,-3274.0984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）東和会サイノオ耳鼻咽喉科医院,長崎県長崎市銅座町５-７,耳鼻いんこう科　気管食道科　アレルギー科,,,9" xlink:title="（医）東和会サイノオ耳鼻咽喉科医院" transform="ref(svg,12987.668,-3274.3341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さいのお耳鼻咽喉科医院,長崎県長崎市大橋町１０-２３,耳鼻いんこう科,,,9" xlink:title="（医）さいのお耳鼻咽喉科医院" transform="ref(svg,12986.2171,-3278.4809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さかい循環器内科,長崎県長崎市京泊３-３１-４,内科　循環器内科,,,9" xlink:title="（医）さかい循環器内科" transform="ref(svg,12977.2993,-3282.4191)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さかぐち泌尿器科医院,長崎県長崎市川口町７-２０,泌尿器科　泌尿器科（人工透析）,,,9" xlink:title="（医）さかぐち泌尿器科医院" transform="ref(svg,12986.3317,-3276.8183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかもとクリニック,長崎県長崎市弁天町１７-１,内科　小児科,,,9" xlink:title="さかもとクリニック" transform="ref(svg,12986.3083,-3275.2492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）坂本整形外科医院,長崎県長崎市松が枝町３-１６,整形外科　リハビリテーション科,,,9" xlink:title="（医）坂本整形外科医院" transform="ref(svg,12987.1203,-3273.5176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）坂本内科,長崎県長崎市ダイヤランド２-２１-２,内科　アレルギー科,,,9" xlink:title="（医）坂本内科" transform="ref(svg,12985.9125,-3270.2538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さくら形成クリニック,長崎県長崎市葉山１-４４-１,形成外科　美容外科　皮膚科　外科　消化器外科　美容皮膚科,,,9" xlink:title="（医）さくら形成クリニック" transform="ref(svg,12984.7461,-3280.6351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら内科,長崎県長崎市城栄町２３-１４,内科　呼吸器科　アレルギー科,,,9" xlink:title="さくら内科" transform="ref(svg,12985.727,-3277.5704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ショートステイさくらの里医務室,長崎県長崎市三京町１５３９-１,内科,,,9" xlink:title="ショートステイさくらの里医務室" transform="ref(svg,12977.213,-3283.457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ショートステイさくらの里ほほえみ医務室,長崎県長崎市三京町２９６４-２,内科,,,9" xlink:title="ショートステイさくらの里ほほえみ医務室" transform="ref(svg,12977.0508,-3283.4195)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笹岡皮膚科医院,長崎県長崎市戸町２-１-２６,皮膚科,,,9" xlink:title="笹岡皮膚科医院" transform="ref(svg,12986.1535,-3272.2543)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ささの耳鼻咽喉科クリニック,長崎県長崎市桜馬場１-４-１７,耳鼻いんこう科　アレルギー科,,,9" xlink:title="ささの耳鼻咽喉科クリニック" transform="ref(svg,12988.778,-3275.3183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サトウ医院,長崎県長崎市籠町８-４１,胃腸科　外科　肛門科　リハビリテーション科　呼吸器科,,,9" xlink:title="サトウ医院" transform="ref(svg,12987.7164,-3274.091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）輔荻会佐藤クリニック,長崎県長崎市若葉町１０-７,精神科　神経内科　心臓内科,,,9" xlink:title="（医）輔荻会佐藤クリニック" transform="ref(svg,12986.0753,-3278.9594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤和眼科医院,長崎県長崎市昭和２-１６-７,眼科,,,9" xlink:title="佐藤和眼科医院" transform="ref(svg,12986.9959,-3279.0492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐藤眼科医院,長崎県長崎市本石灰町５-１１,眼科,,,9" xlink:title="（医）佐藤眼科医院" transform="ref(svg,12987.9673,-3274.2107)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サトウ眼科医院,長崎県長崎市滑石３-２５-３２,眼科,,,9" xlink:title="サトウ眼科医院" transform="ref(svg,12983.17,-3280.8861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）寿豊会佐藤整形外科医院,長崎県長崎市大井手町５６-１,整形外科　リハビリテーション科,,,9" xlink:title="（医）寿豊会佐藤整形外科医院" transform="ref(svg,12988.1654,-3275.1252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宏友会さとう内科医院,長崎県長崎市富士見町３-２５,内科　循環器内科　消化器内科　放射線科　糖尿病内科,,,9" xlink:title="（医）宏友会さとう内科医院" transform="ref(svg,12985.6256,-3277.1478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さとみ小児科医院,長崎県長崎市城山町３１-１４,小児科　アレルギー科,,,9" xlink:title="（医）さとみ小児科医院" transform="ref(svg,12985.578,-3277.409)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さとみ皮ふ科医院,長崎県長崎市城山町３１-１４,皮膚科,,,9" xlink:title="（医）さとみ皮ふ科医院" transform="ref(svg,12985.5797,-3277.4093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さんクリニック,長崎県長崎市新地町８-１６ミナトパークビル４Ｆ,心臓内科　精神科,,,9" xlink:title="さんクリニック" transform="ref(svg,12987.4566,-3274.1253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンハイツ医務室,長崎県長崎市油木町６５-１４,内科,,,9" xlink:title="（特養）サンハイツ医務室" transform="ref(svg,12984.411,-3278.0307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）良幸会思案橋ツダ眼科,長崎県長崎市油屋町１-１２,眼科,,,9" xlink:title="（医）良幸会思案橋ツダ眼科" transform="ref(svg,12988.0994,-3274.2722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,重野耳鼻咽喉科医院,長崎県長崎市扇町１-２１,耳鼻いんこう科　アレルギー科,,,9" xlink:title="重野耳鼻咽喉科医院" transform="ref(svg,12987.0629,-3278.2796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しながわ内科クリニック,長崎県長崎市愛宕２-１１-３３,内科　循環器内科,,,9" xlink:title="しながわ内科クリニック" transform="ref(svg,12988.9968,-3273.6019)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水皮膚クリニック,長崎県長崎市小峰町３-２４,皮膚科　アレルギー科,,,9" xlink:title="清水皮膚クリニック" transform="ref(svg,12987.1389,-3278.2074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下田外科医院,長崎県長崎市岡町５-１０,外科　消化器外科　整形外科　小児外科　肛門外科　リハビリテーション科,,,9" xlink:title="下田外科医院" transform="ref(svg,12986.2165,-3277.8285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しもむら産婦人科,長崎県長崎市古川町８-１１,産科　婦人科　麻酔科,,,9" xlink:title="しもむら産婦人科" transform="ref(svg,12988.112,-3274.6265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,じゅうばし内科医院,長崎県長崎市滑石１-２５-１２,内科,,,9" xlink:title="じゅうばし内科医院" transform="ref(svg,12984.6444,-3281.0331)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）寿限無医務室,長崎県長崎市琴海村松町７０４-３,内科　外科,,,9" xlink:title="地域密着型（特養）寿限無医務室" transform="ref(svg,12978.6992,-3286.3676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尚生クリニック,長崎県長崎市大橋町２１-３,消化器内科　肛門外科　外科　リハビリテーション科　内科,,,9" xlink:title="尚生クリニック" transform="ref(svg,12986.2656,-3278.0648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）白井眼科医院,長崎県長崎市滑石１-１０-３４,眼科,,,9" xlink:title="（医）白井眼科医院" transform="ref(svg,12984.7937,-3280.6928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）白井小児クリニック,長崎県長崎市出島町１３-１栗原ビル２Ｆ,小児科,,,9" xlink:title="（医）白井小児クリニック" transform="ref(svg,12987.3413,-3274.1611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しらはま整形外科クリニック,長崎県長崎市けやき台町１-１２,整形外科　リハビリテーション科,,,9" xlink:title="（医）しらはま整形外科クリニック" transform="ref(svg,12988.0743,-3279.5238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白ひげ整形外科医院,長崎県長崎市桶屋町４７,整形外科　リハビリテーション科,,,9" xlink:title="白ひげ整形外科医院" transform="ref(svg,12988.1376,-3274.9252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）白髭内科医院,長崎県長崎市片淵１-１３-２８,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）白髭内科医院" transform="ref(svg,12988.6687,-3275.4386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）昌生会シルバー・メンタル・でぐちクリニック,長崎県長崎市城栄町１９-５城栄安達ビル,精神科　神経科　心臓内科　内科,,,9" xlink:title="（医）昌生会シルバー・メンタル・でぐちクリニック" transform="ref(svg,12985.6566,-3277.5119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健真会城本クリニック長崎院,長崎県長崎市宝町２-２６ベストウェスタンプレミアホテル長崎１階,形成外科　美容皮膚科　美容外科,,,9" xlink:title="（医）健真会城本クリニック長崎院" transform="ref(svg,12986.8279,-3275.7601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健昌会新里クリニック浦上,長崎県長崎市茂里町３-２０,内科　人工透析内科　腎臓内科　循環器内科　呼吸器内科　糖尿病内科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="（医）健昌会新里クリニック浦上" transform="ref(svg,12986.2696,-3276.617)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健昌会新里クリニック城山台,長崎県長崎市立岩町３４-１０,内科　腎臓内科　循環器内科　呼吸器内科　糖尿病内科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="（医）健昌会新里クリニック城山台" transform="ref(svg,12984.4344,-3276.7296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）陣内耳鼻咽喉科医院,長崎県長崎市城山町３１-１４,耳鼻いんこう科,,,9" xlink:title="（医）陣内耳鼻咽喉科医院" transform="ref(svg,12985.5768,-3277.4111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）すがさきクリニック,長崎県長崎市銅座町４-１４青木ビル４階,精神科　神経科　心臓血管外科,,,9" xlink:title="（医）すがさきクリニック" transform="ref(svg,12987.5997,-3274.3338)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杉田レディースクリニック,長崎県長崎市松山町３-９４,内科　婦人科,,,9" xlink:title="（医）杉田レディースクリニック" transform="ref(svg,12986.2206,-3277.4266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀友会すぎやま内科クリニック,長崎県長崎市琴海村松町７２９-１,内科　小児科　アレルギー科　リハビリテーション科,,,9" xlink:title="（医）秀友会すぎやま内科クリニック" transform="ref(svg,12978.545,-3286.5965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すぎやま内科・消化器科,長崎県長崎市千歳町６-１,内科　消化器科,,,9" xlink:title="すぎやま内科・消化器科" transform="ref(svg,12986.1963,-3278.841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,諏訪の杜クリニック,長崎県長崎市桜馬場１-２-８,心臓内科　精神科　麻酔科,,,9" xlink:title="諏訪の杜クリニック" transform="ref(svg,12988.7501,-3275.2946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せいごうクリニック,長崎県長崎市福田本町２０-５,内科　外科　リハビリテーション科,,,9" xlink:title="せいごうクリニック" transform="ref(svg,12982.0596,-3274.5685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関泌尿器ひふ科医院,長崎県長崎市銀屋町４-１,泌尿器科　皮膚科　性病科,,,9" xlink:title="関泌尿器ひふ科医院" transform="ref(svg,12988.0203,-3274.5972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）せとぐち医院,長崎県長崎市下西山町７-３,内科　小児科　胃腸科,,,9" xlink:title="（医）せとぐち医院" transform="ref(svg,12988.5319,-3275.5789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せとぐち外科クリニック,長崎県長崎市新地町８-１４,外科　胃腸科　肛門科　リハビリテーション科,,,9" xlink:title="せとぐち外科クリニック" transform="ref(svg,12987.472,-3274.1111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ぜにや眼科,長崎県長崎市浜町７-１５ゼニヤメディカルビル２階,眼科,,,9" xlink:title="（医）ぜにや眼科" transform="ref(svg,12987.9066,-3274.3547)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宗耳鼻咽喉科クリニック,長崎県長崎市平野町１０-２セントポールプロスペクト３０１,耳鼻いんこう科,,,9" xlink:title="宗耳鼻咽喉科クリニック" transform="ref(svg,12986.4401,-3277.0473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,そうだ眼科医院,長崎県長崎市城山町３１-１４さとみメディカル３階,眼科,,,9" xlink:title="そうだ眼科医院" transform="ref(svg,12985.5768,-3277.4095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ダイヤランドまつざきクリニック,長崎県長崎市ダイヤランド２-１９-２５,外科　消化器外科　リハビリテーション科,,,9" xlink:title="ダイヤランドまつざきクリニック" transform="ref(svg,12986.0128,-3270.3356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田浦医院,長崎県長崎市西海町１７３４,内科　小児科　外科　整形外科,,,9" xlink:title="田浦医院" transform="ref(svg,12978.7563,-3286.1148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田尾内科,長崎県長崎市畝刈町１６１３-８５ニューポートメディカルビル２Ｆ,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="田尾内科" transform="ref(svg,12977.6868,-3282.5548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかお内科クリニック,長崎県長崎市銅座町７-２９ＴＮメディカルビル２Ｆ,内科　消化器科　循環器科,,,9" xlink:title="たかお内科クリニック" transform="ref(svg,12987.6319,-3274.2396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,--尾産婦人科医院,長崎県長崎市滑石４-３-３６,産婦人科,,,9" xlink:title="--尾産婦人科医院" transform="ref(svg,12983.2293,-3280.6968)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）--島医院,長崎県長崎市大浜町１５４７,内科　胃腸科　リハビリテーション科,,,9" xlink:title="（医）--島医院" transform="ref(svg,12983.1379,-3274.6279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たかすぎ内科クリニック,長崎県長崎市橋口町３-７,内科　呼吸器科　アレルギー科,,,9" xlink:title="（医）たかすぎ内科クリニック" transform="ref(svg,12986.5628,-3277.7062)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高野眼科医院,長崎県長崎市平野町１０-３,眼科,,,9" xlink:title="（医）高野眼科医院" transform="ref(svg,12986.4469,-3277.0605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）--橋整形外科クリニック,長崎県長崎市古川町５-２６,整形外科　リハビリテーション科,,,9" xlink:title="（医）--橋整形外科クリニック" transform="ref(svg,12987.9074,-3274.6241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかひら内科循環器科,長崎県長崎市大浦町３-２３,内科　循環器科,,,9" xlink:title="たかひら内科循環器科" transform="ref(svg,12987.1086,-3273.6373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千歳会高松整形外科医院,長崎県長崎市住吉町３-１サン住吉ビル２階,整形外科　リハビリテーション科,,,9" xlink:title="（医）千歳会高松整形外科医院" transform="ref(svg,12986.0845,-3279.1377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,--村耳鼻咽喉科・アレルギー科,長崎県長崎市元船町１３-１０ＡＣＴＹ元船２階,耳鼻咽喉科　アレルギー科,,,9" xlink:title="--村耳鼻咽喉科・アレルギー科" transform="ref(svg,12987.1918,-3274.6192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高村内科医院,長崎県長崎市万屋町２-１０,内科,,,9" xlink:title="（医）高村内科医院" transform="ref(svg,12987.8856,-3274.6072)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）友愛会田川クリニック,長崎県長崎市浜口町１４-１６,精神科　心臓内科,,,9" xlink:title="（医）友愛会田川クリニック" transform="ref(svg,12986.6541,-3276.9181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田川耳鼻咽喉科診療所,長崎県長崎市相生町２-３バンビル３Ｆ,耳鼻いんこう科　アレルギー科,,,9" xlink:title="田川耳鼻咽喉科診療所" transform="ref(svg,12987.2381,-3273.3987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たがわ内科,長崎県長崎市浜口町１-６,内科　呼吸器科　循環器科,,,9" xlink:title="たがわ内科" transform="ref(svg,12986.4463,-3276.8519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田口医院,長崎県長崎市大谷町４-２,泌尿器科　外科,,,9" xlink:title="田口医院" transform="ref(svg,12985.8294,-3274.503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田栗レディースクリニック,長崎県長崎市中園町１０-２１,産婦人科,,,9" xlink:title="田栗レディースクリニック" transform="ref(svg,12985.9416,-3279.1962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹下内科医院,長崎県長崎市小江原２-２９-１２,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="竹下内科医院" transform="ref(svg,12984.0174,-3277.9432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田内科医院,長崎県長崎市住吉町２-２２,内科　消化器科,,,9" xlink:title="武田内科医院" transform="ref(svg,12986.1806,-3279.0968)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田島整形外科・外科・クリニック,長崎県長崎市目覚町４-１５,外科　整形外科　胃外科　リハビリテーション科,,,9" xlink:title="（医）田島整形外科・外科・クリニック" transform="ref(svg,12986.5677,-3276.3723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たしろ耳鼻咽喉科,長崎県長崎市万屋町３-１６,耳鼻いんこう科,,,9" xlink:title="（医）たしろ耳鼻咽喉科" transform="ref(svg,12987.9142,-3274.5447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊達木小児科医院,長崎県長崎市銅座町５-７,小児科,,,9" xlink:title="伊達木小児科医院" transform="ref(svg,12987.6689,-3274.3343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,タナカクリニックひふ科・アレルギー科,長崎県長崎市銅座町２-１５ＮＫイリスビル５階,皮膚科　アレルギー科,,,9" xlink:title="タナカクリニックひふ科・アレルギー科" transform="ref(svg,12987.5373,-3274.2943)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田中外科眼科クリニック,長崎県長崎市宝栄町２３-１５,外科　整形外科　胃腸外科　心臓外科　眼科,,,9" xlink:title="（医）田中外科眼科クリニック" transform="ref(svg,12985.8425,-3277.0729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中皮ふ科・アレルギー科医院,長崎県長崎市平野町１２-１１,皮膚科　アレルギー科,,,9" xlink:title="田中皮ふ科・アレルギー科医院" transform="ref(svg,12986.6199,-3276.9657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田中皮ふ科医院,長崎県長崎市若葉町１２-１９,皮膚科　アレルギー科,,,9" xlink:title="（医）田中皮ふ科医院" transform="ref(svg,12986.0222,-3278.9858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）谷川放射線科胃腸科医院,長崎県長崎市若葉町６-１,内科　胃腸科　放射線科,,,9" xlink:title="（医）谷川放射線科胃腸科医院" transform="ref(svg,12986.1023,-3278.842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷口外科整形外科医院,長崎県長崎市新戸町３-３-２２,外科　整形外科　胃腸科　リハビリテーション科　皮膚科,,,9" xlink:title="谷口外科整形外科医院" transform="ref(svg,12986.7824,-3271.3472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田村内科神経内科油木坂クリニック,長崎県長崎市油木町８-４８,内科　神経内科,,,9" xlink:title="（医）田村内科神経内科油木坂クリニック" transform="ref(svg,12985.6599,-3277.9055)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千仁会千々岩医院,長崎県長崎市水の浦町３-１０,内科　整形外科　消化器科　リハビリテーション科　外科,,,9" xlink:title="（医）千仁会千々岩医院" transform="ref(svg,12985.796,-3274.5942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちとせ町整形外科クリニック,長崎県長崎市千歳町２１-１-１Ｆ,整形外科　リハビリテーション科,,,9" xlink:title="ちとせ町整形外科クリニック" transform="ref(svg,12986.56,-3279.0806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちひろ内科クリニック,長崎県長崎市馬町４７-１,内科　消化器科,,,9" xlink:title="ちひろ内科クリニック" transform="ref(svg,12988.1726,-3275.215)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地方職員（共済）長崎県診療所,長崎県長崎市江戸町２-１３,内科　心臓血管外科,,,9" xlink:title="地方職員（共済）長崎県診療所" transform="ref(svg,12987.3037,-3274.4542)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中央クリニック,長崎県長崎市古川町５-７,内科　呼吸器内科　消化器内科　循環器内科　放射線科,,,9" xlink:title="中央クリニック" transform="ref(svg,12987.8082,-3274.6454)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中央橋眼科,長崎県長崎市銅座町４-１りそな長崎ビル３Ｆ,眼科,,,9" xlink:title="（医）中央橋眼科" transform="ref(svg,12987.6472,-3274.3733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,築城メンタルクリニック,長崎県長崎市樺島町３-６,精神科　心臓内科,,,9" xlink:title="築城メンタルクリニック" transform="ref(svg,12987.373,-3274.7083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,辻医院,長崎県長崎市興善町３-１６,小児科　内科,,,9" xlink:title="辻医院" transform="ref(svg,12987.6861,-3274.9118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）津田眼科医院,長崎県長崎市八百屋町２-１,眼科,,,9" xlink:title="（医）津田眼科医院" transform="ref(svg,12988.0391,-3275.1723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津田やすお眼科,長崎県長崎市元船町５-４メディカルモール元船４Ｆ,眼科,,,9" xlink:title="津田やすお眼科" transform="ref(svg,12987.1903,-3274.8879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土山内科クリニック,長崎県長崎市銅座町２-１５-６Ｆ,内科　心臓内科,,,9" xlink:title="土山内科クリニック" transform="ref(svg,12987.5332,-3274.2952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つつみ内科クリニック,長崎県長崎市富士見町１-４,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="つつみ内科クリニック" transform="ref(svg,12985.6703,-3277.0419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つねだ形成外科医院,長崎県長崎市古川町６-３４,形成外科,,,9" xlink:title="（医）つねだ形成外科医院" transform="ref(svg,12988.0206,-3274.5345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つるた医院,長崎県長崎市花園町７-７,内科,,,9" xlink:title="つるた医院" transform="ref(svg,12985.0923,-3277.25)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,出口外科医院,長崎県長崎市大浦町９-１１,外科　整形外科　胃腸科　消化器科　リハビリテーション科　肛門科,,,9" xlink:title="出口外科医院" transform="ref(svg,12987.2852,-3273.505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,出口小児科内科医院,長崎県長崎市花丘町１-２６,内科　小児科,,,9" xlink:title="出口小児科内科医院" transform="ref(svg,12986.2523,-3279.1152)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,出島診療所,長崎県長崎市万才町５-２２中村ビル１階,精神科　心臓内科,,,9" xlink:title="出島診療所" transform="ref(svg,12987.4456,-3274.5309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）哲翁内科医院,長崎県長崎市浜口町１３-９,内科　胃腸科　循環器科,,,9" xlink:title="（医）哲翁内科医院" transform="ref(svg,12986.6419,-3276.8665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,どい皮ふ科,長崎県長崎市上戸町１-１０-３,皮膚科,,,9" xlink:title="どい皮ふ科" transform="ref(svg,12987.0271,-3271.8495)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,どうつ耳鼻咽喉科クリニック,長崎県長崎市大浦町３-２７-１０１,耳鼻いんこう科　アレルギー科　頭頚部外科,,,9" xlink:title="どうつ耳鼻咽喉科クリニック" transform="ref(svg,12987.1042,-3273.6557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ドーズ美容外科長崎院,長崎県長崎市浜町８-１１ＹＴビル４Ｆ,美容外科　形成外科,,,9" xlink:title="ドーズ美容外科長崎院" transform="ref(svg,12987.8865,-3274.4291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）遠山小児科医院,長崎県長崎市葉山１-５-１,小児科,,,9" xlink:title="（医）遠山小児科医院" transform="ref(svg,12985.1558,-3280.3383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飛永内科医院,長崎県長崎市女の都３-１-９,内科　放射線科,,,9" xlink:title="飛永内科医院" transform="ref(svg,12988.0681,-3280.4613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝長整形外科クリニック,長崎県長崎市小峰町１４-３,整形外科　リハビリテーション科,,,9" xlink:title="朝長整形外科クリニック" transform="ref(svg,12987.2116,-3278.1196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝永整形外科医院,長崎県長崎市城栄町１３-５,整形外科　リハビリテーション科,,,9" xlink:title="朝永整形外科医院" transform="ref(svg,12985.658,-3277.4633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とよしま皮ふ科医院,長崎県長崎市滑石３-８-１,皮膚科,,,9" xlink:title="とよしま皮ふ科医院" transform="ref(svg,12983.8468,-3280.7646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかお耳鼻咽喉科,長崎県長崎市京泊３-２７-１,耳鼻いんこう科　アレルギー科,,,9" xlink:title="なかお耳鼻咽喉科" transform="ref(svg,12977.1147,-3282.3573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永尾内科医院,長崎県長崎市宝栄町１-１,内科　胃腸科　呼吸器科　循環器科　放射線科,,,9" xlink:title="（医）永尾内科医院" transform="ref(svg,12986.1326,-3276.7724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中川外科医院,長崎県長崎市岩屋町２０-２５,胃腸科　外科　脳神経外科　皮膚科　肛門科,,,9" xlink:title="（医）中川外科医院" transform="ref(svg,12985.255,-3280.1887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）長崎原子爆弾被爆者対策協議会中央検診所,長崎県長崎市茂里町２-４１,内科　外科　婦人科　放射線科,,,9" xlink:title="（公財）長崎原子爆弾被爆者対策協議会中央検診所" transform="ref(svg,12986.3668,-3276.2401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎拘置支所医務室診療所,長崎県長崎市白鳥町８-２,内科,,,9" xlink:title="長崎拘置支所医務室診療所" transform="ref(svg,12985.5066,-3278.5707)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎県長崎こども・女性・障害者支援センター,長崎県長崎市橋口町１０-２２,内科　精神科　小児科　整形外科　眼科　耳鼻いんこう科,,,9" xlink:title="長崎県長崎こども・女性・障害者支援センター" transform="ref(svg,12986.5942,-3277.7733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎市障害福祉センター診療所,長崎県長崎市茂里町２-４１長崎市障害福祉センター４Ｆ,小児科　リハビリテーション科　整形外科　精神科,,,9" xlink:title="長崎市障害福祉センター診療所" transform="ref(svg,12986.3618,-3276.2338)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎市保健所,長崎県長崎市桜町６-３,内科　歯科,,,9" xlink:title="長崎市保健所" transform="ref(svg,12987.875,-3275.0138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎市夜間急患センター,長崎県長崎市栄町２-２２,内科　小児科　耳鼻いんこう科,,,9" xlink:title="長崎市夜間急患センター" transform="ref(svg,12987.772,-3274.8108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎少年鑑別所医務課診療所,長崎県長崎市橋口町４-３,内科　精神科,,,9" xlink:title="長崎少年鑑別所医務課診療所" transform="ref(svg,12986.4684,-3277.6374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秋桜会長崎新港診療所,長崎県長崎市京泊３-３０-３,内科　泌尿器科,,,9" xlink:title="（医）秋桜会長崎新港診療所" transform="ref(svg,12977.208,-3282.3598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,財務省（共済）長崎税関支部診療所,長崎県長崎市出島町１-３６,内科,,,9" xlink:title="財務省（共済）長崎税関支部診療所" transform="ref(svg,12987.1579,-3274.2806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎県西彼保健所,長崎県長崎市滑石１-９-５,内科,,,9" xlink:title="長崎県西彼保健所" transform="ref(svg,12984.9981,-3280.7462)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎県赤十字血液センター浜町出張所,長崎県長崎市浜町８-１０多真喜ビル３Ｆ,内科,,,9" xlink:title="長崎県赤十字血液センター浜町出張所" transform="ref(svg,12987.8812,-3274.4403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎県赤十字血液センター,長崎県長崎市昭和３-２５６-１１,内科,,,9" xlink:title="長崎県赤十字血液センター" transform="ref(svg,12987.1577,-3279.7903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎大学保健・医療推進センター,長崎県長崎市文教町１-１４,内科　精神科,,,9" xlink:title="長崎大学保健・医療推進センター" transform="ref(svg,12986.4659,-3278.6129)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（社）崎陽会（特養）長崎の家医務室,長崎県長崎市小江原１-３６-１８,内科,,,9" xlink:title="（社）崎陽会（特養）長崎の家医務室" transform="ref(svg,12983.4077,-3278.5534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながさきハートクリニック,長崎県長崎市恵美須町４-１,循環器内科　心臓外科,,,9" xlink:title="ながさきハートクリニック" transform="ref(svg,12987.559,-3275.056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎バス診療所,長崎県長崎市新地町３-１７,内科　外科,,,9" xlink:title="長崎バス診療所" transform="ref(svg,12987.4312,-3274.1658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎病理診断科,長崎県長崎市平野町２３-５,病理診断科,,,9" xlink:title="長崎病理診断科" transform="ref(svg,12986.7138,-3277.0396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（社福）友愛会長崎リハビリテーション医務室,長崎県長崎市松崎町１４９１-１,整形外科,,,9" xlink:title="（社福）友愛会長崎リハビリテーション医務室" transform="ref(svg,12973.7141,-3284.6688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島医院,長崎県長崎市上小島２-４-５０,内科　小児科　皮膚科,,,9" xlink:title="中島医院" transform="ref(svg,12988.771,-3273.5818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中島医院,長崎県長崎市小瀬戸町１３４,内科　小児科,,,9" xlink:title="（医）中島医院" transform="ref(svg,12983.7817,-3272.5628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中嶋クリニック,長崎県長崎市三原２-１１-５０,外科　整形外科　皮膚科　肛門科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）中嶋クリニック" transform="ref(svg,12987.9385,-3278.4021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島川クリニック,長崎県長崎市築町４-１５鈴文ビル５階,精神科　心臓内科　老年精神科,,,9" xlink:title="中島川クリニック" transform="ref(svg,12987.6535,-3274.5584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中嶋整形外科,長崎県長崎市油屋町１-１４アスクビル３Ｆ,整形外科,,,9" xlink:title="（医）中嶋整形外科" transform="ref(svg,12988.1097,-3274.2538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながすえ小児科医院,長崎県長崎市竹の久保町１-１松友ビル１Ｆ,小児科,,,9" xlink:title="ながすえ小児科医院" transform="ref(svg,12986.0876,-3276.4333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながた大腸肛門クリニック,長崎県長崎市江戸町５-１４月香園ビル５階,肛門外科　胃腸内科,,,9" xlink:title="ながた大腸肛門クリニック" transform="ref(svg,12987.5174,-3274.4342)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ながたに整形外科,長崎県長崎市元船町５-４メディカルモール元船３Ｆ,整形外科　リハビリテーション科,,,9" xlink:title="（医）ながたに整形外科" transform="ref(svg,12987.1903,-3274.8879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中西内科,長崎県長崎市金屋町２-１０平田ビル４Ｆ,内科　放射線科,,,9" xlink:title="中西内科" transform="ref(svg,12987.4134,-3274.8298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中村眼科,長崎県長崎市滑石３-８-１,眼科,,,9" xlink:title="（医）中村眼科" transform="ref(svg,12983.8468,-3280.7646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村智整形外科クリニック,長崎県長崎市滑石３-８-５,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="中村智整形外科クリニック" transform="ref(svg,12983.8117,-3280.7709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村小児科,長崎県長崎市文教町５-２８花文ビル２０１,小児科,,,9" xlink:title="中村小児科" transform="ref(svg,12987.0364,-3278.8257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかむら小児科医院,長崎県長崎市城栄町１７-１４松竹ビル,小児科,,,9" xlink:title="なかむら小児科医院" transform="ref(svg,12985.7614,-3277.4942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中村整形外科医院,長崎県長崎市上小島３-１-１１,整形外科　リハビリテーション科,,,9" xlink:title="（医）中村整形外科医院" transform="ref(svg,12988.9063,-3273.4601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）なかむら内科診療所,長崎県長崎市万屋町５-７関谷ビル２Ｆ,内科,,,9" xlink:title="（医）なかむら内科診療所" transform="ref(svg,12987.9106,-3274.5015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）知正会中村内科クリニック,長崎県長崎市竹の久保町１-２,内科　消化器科,,,9" xlink:title="（医）知正会中村内科クリニック" transform="ref(svg,12986.0741,-3276.5015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村内科医院,長崎県長崎市上戸町３-４-２１,内科,,,9" xlink:title="中村内科医院" transform="ref(svg,12987.0992,-3271.6947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山クリニック,長崎県長崎市赤迫１-２-１２,消化器科　外科　肛門科　放射線科,,,9" xlink:title="中山クリニック" transform="ref(svg,12985.6303,-3279.4713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中山小児科クリニック,長崎県長崎市本原町１-２３,内科　小児科,,,9" xlink:title="（医）中山小児科クリニック" transform="ref(svg,12987.0067,-3278.0307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なきり内科医院,長崎県長崎市文教町９-５,内科　放射線科,,,9" xlink:title="なきり内科医院" transform="ref(svg,12987.117,-3278.8907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）なでしこ荘医務室,長崎県長崎市西山台２-３２-４７,内科,,,9" xlink:title="（特養）なでしこ荘医務室" transform="ref(svg,12989.4398,-3278.2897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）なの花医務室,長崎県長崎市さくらの里２-２７-２２,内科,,,9" xlink:title="（特養）なの花医務室" transform="ref(svg,12976.4333,-3283.5198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滑石まごころクリニック,長崎県長崎市滑石５-５-２４,内科,,,9" xlink:title="滑石まごころクリニック" transform="ref(svg,12983.3934,-3280.5654)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）楢林整形外科医院,長崎県長崎市船大工町５-３２,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）楢林整形外科医院" transform="ref(svg,12987.8206,-3274.1331)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鳴見台山中クリニック,長崎県長崎市鳴見台１-２８-５,外科　消化器内科　内科　肛門外科　リハビリテーション科,,,9" xlink:title="鳴見台山中クリニック" transform="ref(svg,12980.6903,-3282.0383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にいみ整形外科医院,長崎県長崎市小江原４-３８-８,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="にいみ整形外科医院" transform="ref(svg,12983.0368,-3278.2193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西じま内科クリニック,長崎県長崎市新地町８-１６ミナトパーク２Ｆ,内科　呼吸器内科　循環器内科　リハビリテーション科,,,9" xlink:title="西じま内科クリニック" transform="ref(svg,12987.4566,-3274.1253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西田内科胃腸内科医院,長崎県長崎市油屋町６-１１,内科　胃腸内科,,,9" xlink:title="西田内科胃腸内科医院" transform="ref(svg,12988.3139,-3274.1381)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西谷クリニック,長崎県長崎市西海町１６９４-６,外科　消化器外科　リハビリテーション科,,,9" xlink:title="西谷クリニック" transform="ref(svg,12978.6203,-3286.302)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西山さとう眼科医院,長崎県長崎市西山２-２-１１,眼科,,,9" xlink:title="西山さとう眼科医院" transform="ref(svg,12988.6885,-3275.7572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）志仁会西脇診療所,長崎県長崎市魚の町７-２４,精神科　神経科　心臓血管外科,,,9" xlink:title="（医）志仁会西脇診療所" transform="ref(svg,12987.9895,-3274.7441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）野田形成外科,長崎県長崎市住吉町２-２２,整形外科　形成外科　美容外科　美容皮膚科　リハビリテーション科　顎外,,,9" xlink:title="（医）野田形成外科" transform="ref(svg,12986.1827,-3279.0954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野田消化器クリニック,長崎県長崎市浜町２-１８クリエート長崎ビル２Ｆ,消化器科　外科　リハビリテーション科　放射線科,,,9" xlink:title="野田消化器クリニック" transform="ref(svg,12987.783,-3274.5174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のぼる内科クリニック,長崎県長崎市中園町１０-５,内科　消化器内科　リハビリテーション科,,,9" xlink:title="のぼる内科クリニック" transform="ref(svg,12985.913,-3279.1764)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）乗松整形外科医院,長崎県長崎市平和町４-２７,整形外科　リハビリテーション科,,,9" xlink:title="（医）乗松整形外科医院" transform="ref(svg,12986.4912,-3277.5927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のりむらクリニック,長崎県長崎市葉山１-５-２浜福ビル２Ｆ・３Ｆ,内科　胃腸内科　内視鏡内科　リハビリテーション科,,,9" xlink:title="のりむらクリニック" transform="ref(svg,12985.1662,-3280.3267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伯川皮膚科医院,長崎県長崎市下西山町１-２,皮膚科,,,9" xlink:title="伯川皮膚科医院" transform="ref(svg,12988.4188,-3275.3364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はざま神経内科内科医院,長崎県長崎市中川１-１１-２８城門ビル２Ｆ,神経内科　内科,,,9" xlink:title="はざま神経内科内科医院" transform="ref(svg,12989.395,-3275.0873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清栄会橋本耳鼻咽喉科医院,長崎県長崎市栄町３-１２,耳鼻いんこう科　アレルギー科,,,9" xlink:title="（医）清栄会橋本耳鼻咽喉科医院" transform="ref(svg,12987.881,-3274.7903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）橋本消化器クリニック,長崎県長崎市平和町４-２７,胃腸科　外科　肛門科,,,9" xlink:title="（医）橋本消化器クリニック" transform="ref(svg,12986.4912,-3277.5927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）長谷川医院,長崎県長崎市京泊３-３０-１７,呼吸器科　胃腸科　外科　気管食道科　リハビリテーション科　小児外科,,,9" xlink:title="（医）長谷川医院" transform="ref(svg,12977.2095,-3282.4483)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健友会花丘診療所,長崎県長崎市花丘町１３-１９,内科　整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）健友会花丘診療所" transform="ref(svg,12986.3861,-3279.1445)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハナキクリニック,長崎県長崎市銅座町１４-９ＩＣＮビル３階,形成外科　皮膚科　美容外科　美容皮膚科,,,9" xlink:title="ハナキクリニック" transform="ref(svg,12987.8309,-3274.2972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花みずきレディースクリニック,長崎県長崎市住吉町１３-１６,産婦人科,,,9" xlink:title="花みずきレディースクリニック" transform="ref(svg,12986.0643,-3279.3293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）馬場医院,長崎県長崎市梅香崎町１-６,内科　循環器科,,,9" xlink:title="（医）馬場医院" transform="ref(svg,12987.5372,-3273.9996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）浜崎外科医院,長崎県長崎市曙町３-６,外科　整形外科　消化器科　リハビリテーション科　肛門科,,,9" xlink:title="（医）浜崎外科医院" transform="ref(svg,12986.1833,-3275.4417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浜崎耳鼻咽喉科クリニック,長崎県長崎市葉山１-６-１０,耳鼻いんこう科　アレルギー科,,,9" xlink:title="浜崎耳鼻咽喉科クリニック" transform="ref(svg,12985.0785,-3280.3734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浜崎内科クリニック,長崎県長崎市小ヶ倉２-１８３,内科　消化器科　循環器科　呼吸器科　神経科,,,9" xlink:title="浜崎内科クリニック" transform="ref(svg,12985.0014,-3270.5414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はまのまちハートクリニック,長崎県長崎市浜町８-１３,循環器内科　リハビリテーション科,,,9" xlink:title="はまのまちハートクリニック" transform="ref(svg,12987.8991,-3274.4058)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）蘭佑会濱辺外科クリニック,長崎県長崎市下西山町２-２,外科　消化器科　リハビリテーション科　美容外科,,,9" xlink:title="（医）蘭佑会濱辺外科クリニック" transform="ref(svg,12988.412,-3275.4191)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康仁会林医院,長崎県長崎市弁天町１１-２２,内科　外科　整形外科　循環器科,,,9" xlink:title="（医）康仁会林医院" transform="ref(svg,12986.3036,-3275.3196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はやしだ内科,長崎県長崎市新戸町２-１２-８,内科　呼吸器科　循環器科,,,9" xlink:title="はやしだ内科" transform="ref(svg,12986.4989,-3271.0709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はらかわ内科クリニック,長崎県長崎市扇町１３-３,内科,,,9" xlink:title="はらかわ内科クリニック" transform="ref(svg,12986.69,-3278.291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）原田医院,長崎県長崎市平和町１１-１１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）原田医院" transform="ref(svg,12986.5244,-3277.5622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ひぐち医院,長崎県長崎市彦見町２-９,内科　小児科,,,9" xlink:title="（医）ひぐち医院" transform="ref(svg,12989.4593,-3273.9804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひこばえ医務室,長崎県長崎市早坂町１１８０-７,内科,,,9" xlink:title="（特養）ひこばえ医務室" transform="ref(svg,12990.0343,-3273.4426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひめのクリニック,長崎県長崎市勝山町４４-２,心臓内科　精神科,,,9" xlink:title="ひめのクリニック" transform="ref(svg,12987.8668,-3275.092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平田クリニック,長崎県長崎市上野町１-５,内科　循環器科　リハビリテーション科,,,9" xlink:title="（医）平田クリニック" transform="ref(svg,12986.8441,-3277.6852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平野医院,長崎県長崎市弁天町１６-７,小児科　内科　アレルギー科,,,9" xlink:title="（医）平野医院" transform="ref(svg,12986.2524,-3275.2432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平山眼科医院,長崎県長崎市馬町４７-１永田会計ビル２階,眼科,,,9" xlink:title="平山眼科医院" transform="ref(svg,12988.1728,-3275.2162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）陽蘭会広瀬クリニック,長崎県長崎市伊勢町２-３１,泌尿器科,,,9" xlink:title="（医）陽蘭会広瀬クリニック" transform="ref(svg,12988.4392,-3275.2199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひろせ内科,長崎県長崎市滑石１-２-５,内科　呼吸器内科,,,9" xlink:title="ひろせ内科" transform="ref(svg,12985.1272,-3280.5703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）深堀内科医院,長崎県長崎市小ヶ倉３-７６-７７,内科　消化器科　循環器科　小児科　放射線科,,,9" xlink:title="（医）深堀内科医院" transform="ref(svg,12984.7187,-3270.262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,深町皮膚泌尿器科医院,長崎県長崎市栄町６-１０,皮膚科　泌尿器科　性病科,,,9" xlink:title="深町皮膚泌尿器科医院" transform="ref(svg,12987.9407,-3274.7465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福居医院,長崎県長崎市中園町３-２,産婦人科,,,9" xlink:title="福居医院" transform="ref(svg,12985.9513,-3279.05)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡検疫所長崎検疫所支所予防接種室,長崎県長崎市出島町１-３６長崎税関２階,内科,,,9" xlink:title="福岡検疫所長崎検疫所支所予防接種室" transform="ref(svg,12987.1587,-3274.2804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福重外科医院,長崎県長崎市若葉町１６-１４,外科　整形外科　麻酔科　胃腸・消化器外科　肛門外科　リハビリテーション科,,,9" xlink:title="（医）福重外科医院" transform="ref(svg,12985.9651,-3279.0201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ふくしまクリニック,長崎県長崎市宝町５-２１,内科　精神科　神経科　心臓血管外科　リハビリテーション科,,,9" xlink:title="（医）ふくしまクリニック" transform="ref(svg,12986.8941,-3275.8304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福曜会福田医院,長崎県長崎市鍛冶屋町６-６,外科　整形外科　小児科　内科　リハビリテーション科,,,9" xlink:title="（医）福曜会福田医院" transform="ref(svg,12988.1041,-3274.4009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ふくだこどもクリニック,長崎県長崎市江戸町５-１４月香園ビル４階,小児科,,,9" xlink:title="（医）ふくだこどもクリニック" transform="ref(svg,12987.5166,-3274.4342)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福田ゆたか外科医院,長崎県長崎市浜口町３-５,外科　内科　胃腸内科　内視鏡内科　乳腺外科　肛門外科,,,9" xlink:title="（医）福田ゆたか外科医院" transform="ref(svg,12986.4525,-3276.985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）淳成会藤樹整形外科,長崎県長崎市伊勢町４-３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）淳成会藤樹整形外科" transform="ref(svg,12988.5854,-3275.1987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤瀬クリニック,長崎県長崎市住吉町３-１,外科　肛門外科　消化器内科,,,9" xlink:title="藤瀬クリニック" transform="ref(svg,12986.085,-3279.1414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤田クリニック,長崎県長崎市桜町７-２,産婦人科　麻酔科,,,9" xlink:title="（医）藤田クリニック" transform="ref(svg,12987.8017,-3274.9333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田外科医院,長崎県長崎市小ヶ倉１-６４０,外科　整形外科　消化器科　肛門科　リハビリテーション科,,,9" xlink:title="藤田外科医院" transform="ref(svg,12985.0178,-3270.6375)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ふじもとクリニック,長崎県長崎市江戸町５-１４,放射線科,,,9" xlink:title="（医）ふじもとクリニック" transform="ref(svg,12987.5169,-3274.4352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）渕レディスクリニック,長崎県長崎市麹屋町２-１６,産科　婦人科,,,9" xlink:title="（医）渕レディスクリニック" transform="ref(svg,12988.2966,-3274.88)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）プライエム横尾医務室,長崎県長崎市横尾３-２６-１,内科,,,9" xlink:title="（特養）プライエム横尾医務室" transform="ref(svg,12983.8573,-3281.6648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）古市外科胃腸科医院,長崎県長崎市緑が丘町２-１,胃腸科　外科　整形外科　皮膚科　肛門科,,,9" xlink:title="（医）古市外科胃腸科医院" transform="ref(svg,12985.7233,-3278.4301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古川宮田整形外科内科クリニック,長崎県長崎市中園町２２-１０,整形外科　リハビリテーション科　内科,,,9" xlink:title="古川宮田整形外科内科クリニック" transform="ref(svg,12985.717,-3279.3523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）古田整形外科医院,長崎県長崎市戸町４-４-１,整形外科　リハビリテーション科,,,9" xlink:title="（医）古田整形外科医院" transform="ref(svg,12986.146,-3272.1758)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）プレジールの丘医務室,長崎県長崎市立山２-１６８-２,内科,,,9" xlink:title="（特養）プレジールの丘医務室" transform="ref(svg,12987.6678,-3275.4902)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）放射線影響研究所診療室,長崎県長崎市中川１-８-６,内科　小児科　婦人科　放射線科　眼科,,,9" xlink:title="（公財）放射線影響研究所診療室" transform="ref(svg,12989.3624,-3275.1092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）望星荘医務室,長崎県長崎市岩屋町７４５-４,内科　精神科,,,9" xlink:title="（特養）望星荘医務室" transform="ref(svg,12984.5268,-3279.4861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）星子医院,長崎県長崎市新戸町１-１８-１,消化器科　内科　小児科,,,9" xlink:title="（医）星子医院" transform="ref(svg,12986.4838,-3271.2822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,星野内科呼吸器科クリニック,長崎県長崎市目覚町１０-３,内科　呼吸器内科,,,9" xlink:title="星野内科呼吸器科クリニック" transform="ref(svg,12986.6357,-3276.4837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀内形成整形外科医院,長崎県長崎市片淵１-１１-１０,整形外科　形成外科　リハビリテーション科,,,9" xlink:title="堀内形成整形外科医院" transform="ref(svg,12988.6386,-3275.4201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）堀皮膚科医院,長崎県長崎市大橋町１６-７,皮膚科,,,9" xlink:title="（医）堀皮膚科医院" transform="ref(svg,12986.269,-3278.3191)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）橘会本多眼科,長崎県長崎市金屋町２-１０,眼科,,,9" xlink:title="（医）橘会本多眼科" transform="ref(svg,12987.4134,-3274.8298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）前川医院,長崎県長崎市大園町５-３,内科　胃腸内科　小児科　放射線科,,,9" xlink:title="（医）前川医院" transform="ref(svg,12983.8042,-3280.6763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まえだ整形外科クリニック,長崎県長崎市文教町５-２７,整形外科　リハビリテーション科,,,9" xlink:title="（医）まえだ整形外科クリニック" transform="ref(svg,12987.0372,-3278.8346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,牧医院,長崎県長崎市東立神町８-１３,内科　小児科　アレルギー科　リハビリテーション科,,,9" xlink:title="牧医院" transform="ref(svg,12985.1262,-3273.6046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,牧野くみ形成クリニック,長崎県長崎市城栄町３２-２０城山メディカルビル３階,形成外科　美容外科　皮膚科　リハビリテーション科,,,9" xlink:title="牧野くみ形成クリニック" transform="ref(svg,12985.4704,-3277.5676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まさき内科呼吸器クリニック,長崎県長崎市銅座町５-７サイノビル３Ｆ,内科　アレルギー科　呼吸器内科　感染症内科,,,9" xlink:title="まさき内科呼吸器クリニック" transform="ref(svg,12987.6707,-3274.3432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつう眼科医院,長崎県長崎市磯道町５-１０,眼科,,,9" xlink:title="まつう眼科医院" transform="ref(svg,12984.7185,-3270.0949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつお医院,長崎県長崎市上戸町２-１７-１１,内科　小児科　呼吸器科　消化器科　循環器科　放射線科,,,9" xlink:title="まつお医院" transform="ref(svg,12986.792,-3271.4494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高翠会まつお産科・婦人科クリニック,長崎県長崎市石神町１-１９,産科　婦人科,,,9" xlink:title="（医）高翠会まつお産科・婦人科クリニック" transform="ref(svg,12987.1182,-3278.321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松尾内科医院,長崎県長崎市栄町３-１０,内科　循環器科　消化器科　リハビリテーション科,,,9" xlink:title="松尾内科医院" transform="ref(svg,12987.8624,-3274.8047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松尾皮ふ泌尿器科医院,長崎県長崎市油屋町２-３４芳栄ビル１Ｆ,泌尿器科　皮膚科,,,9" xlink:title="松尾皮ふ泌尿器科医院" transform="ref(svg,12988.179,-3274.2488)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松崎内科循環器科,長崎県長崎市魚の町７-３サンガーデン眼鏡橋１階,内科　循環器科　リハビリテーション科,,,9" xlink:title="松崎内科循環器科" transform="ref(svg,12987.9662,-3274.7805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松添内科医院,長崎県長崎市浜町８-３,内科　消化器科,,,9" xlink:title="松添内科医院" transform="ref(svg,12987.8488,-3274.4235)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松園眼科,長崎県長崎市千歳町１０-３,眼科,,,9" xlink:title="松園眼科" transform="ref(svg,12986.2465,-3279.0785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつなが形成外科・皮ふ科,長崎県長崎市銅座町４-１４青木ビル５Ｆ,形成外科　皮膚科　美容外科,,,9" xlink:title="まつなが形成外科・皮ふ科" transform="ref(svg,12987.6023,-3274.3339)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）赤星徳真会松永皮膚科,長崎県長崎市浜町７-２３,皮膚科　アレルギー科,,,9" xlink:title="（医）赤星徳真会松永皮膚科" transform="ref(svg,12987.8821,-3274.3443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松村医院,長崎県長崎市滑石４-３-３９,眼科,,,9" xlink:title="松村医院" transform="ref(svg,12983.2321,-3280.7246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松元クリニック,長崎県長崎市新地町１-５,内科　外科　消化器内科　肛門外科　リハビリテーション科,,,9" xlink:title="松元クリニック" transform="ref(svg,12987.4774,-3274.2339)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本産婦人科医院,長崎県長崎市中園町２１-２５,産科　婦人科,,,9" xlink:title="松本産婦人科医院" transform="ref(svg,12985.7606,-3279.3426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まわたり内科医院,長崎県長崎市西山２-９-２,内科　循環器科,,,9" xlink:title="（医）まわたり内科医院" transform="ref(svg,12988.825,-3276.1953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みえ愛の郷医務室,長崎県長崎市三京町８１１-１６,内科,,,9" xlink:title="（特養）みえ愛の郷医務室" transform="ref(svg,12975.6967,-3282.2163)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（社福）清潮会（特養）三重の里医務室,長崎県長崎市樫山町１４７０,内科,,,9" xlink:title="（社福）清潮会（特養）三重の里医務室" transform="ref(svg,12973.4614,-3281.244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）みぎわほーむ医務室,長崎県長崎市片淵１-１３-２７,内科,,,9" xlink:title="地域密着型（特養）みぎわほーむ医務室" transform="ref(svg,12988.6752,-3275.4733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三島内科医院,長崎県長崎市上戸町２-８-１６,内科　消化器内科　リハビリテーション科,,,9" xlink:title="三島内科医院" transform="ref(svg,12986.8009,-3271.5712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みしま内科・消化器内科クリニック,長崎県長崎市大手１-２８-１５,内科　消化器内科,,,9" xlink:title="みしま内科・消化器内科クリニック" transform="ref(svg,12987.5313,-3278.9569)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水辺の森整形外科クリニック,長崎県長崎市大浦町１-２６,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="水辺の森整形外科クリニック" transform="ref(svg,12987.1071,-3273.7978)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みちクリニック,長崎県長崎市桜町５-８桜町ビル２・４Ｆ,心臓内科　精神科,,,9" xlink:title="みちクリニック" transform="ref(svg,12987.8178,-3274.9916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）厚生会みちのおメンタルクリニック,長崎県長崎市松山町３-９４松屋ビル４階,心臓内科　精神科,,,9" xlink:title="（医）厚生会みちのおメンタルクリニック" transform="ref(svg,12986.2206,-3277.4266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,Ｍｉｔｔｅｌたじま内科・消化器科,長崎県長崎市銅座町４-１４青木ビル６階,内科　消化器科,,,9" xlink:title="Ｍｉｔｔｅｌたじま内科・消化器科" transform="ref(svg,12987.6024,-3274.334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱電機診療所,長崎県長崎市丸尾町６-１４,内科　外科,,,9" xlink:title="三菱電機診療所" transform="ref(svg,12986.1313,-3274.6983)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑風会みどりクリニック,長崎県長崎市城栄町３２-２０,内科　呼吸器科　消化器科　循環器科　放射線科,,,9" xlink:title="（医）緑風会みどりクリニック" transform="ref(svg,12985.4713,-3277.566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）春秋会南長崎クリニック,長崎県長崎市松が枝町３-２０,内科　消化器科　放射線科　呼吸器科　神経内科　胃腸科　泌尿器科　リハビリテーション科,,,9" xlink:title="（医）春秋会南長崎クリニック" transform="ref(svg,12987.1347,-3273.4852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みのり会診療所,長崎県長崎市梅香崎町２-１２,内科,,,9" xlink:title="みのり会診療所" transform="ref(svg,12987.4605,-3273.9886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮川外科医院,長崎県長崎市江戸町１-１６,外科　整形外科　胃腸科　リハビリテーション科　心臓外科　循環器科,,,9" xlink:title="宮川外科医院" transform="ref(svg,12987.2197,-3274.5094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宮城外科医院,長崎県長崎市築町３-１,外科　肛門科　リハビリテーション科　胃腸科,,,9" xlink:title="（医）宮城外科医院" transform="ref(svg,12987.5778,-3274.5382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三宅脳神経外科医院,長崎県長崎市若草町３-２１,脳神経外科　リハビリテーション科,,,9" xlink:title="（医）三宅脳神経外科医院" transform="ref(svg,12985.3815,-3277.5771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやざき内科クリニック,長崎県長崎市油屋町１-１４アスクビル２Ｆ,内科　心臓内科　神経内科　精神科,,,9" xlink:title="みやざき内科クリニック" transform="ref(svg,12988.1075,-3274.253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宮崎内科医院,長崎県長崎市白鳥町３-１２,内科　消化器科　循環器科,,,9" xlink:title="（医）宮崎内科医院" transform="ref(svg,12985.6987,-3278.4948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,産婦人科宮村医院,長崎県長崎市橋口町２２-１０,産婦人科,,,9" xlink:title="産婦人科宮村医院" transform="ref(svg,12986.3114,-3278.0111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮村眼科,長崎県長崎市本原町１２-１１,眼科,,,9" xlink:title="宮村眼科" transform="ref(svg,12987.0211,-3278.2549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みやむら女性のクリニック,長崎県長崎市川口町１-１-１０８,産婦人科,,,9" xlink:title="（医）みやむら女性のクリニック" transform="ref(svg,12986.4077,-3276.4184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鶴泉会牟田産婦人科,長崎県長崎市万屋町６-３２,産婦人科,,,9" xlink:title="（医）鶴泉会牟田産婦人科" transform="ref(svg,12988.0033,-3274.4653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）牟田内科・循環器科医院,長崎県長崎市八幡町４-１６,内科　循環器科,,,9" xlink:title="（医）牟田内科・循環器科医院" transform="ref(svg,12988.3807,-3275.0021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武藤内科医院,長崎県長崎市寄合町３-４１,内科,,,9" xlink:title="武藤内科医院" transform="ref(svg,12987.9782,-3273.9593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上眼科クリニック,長崎県長崎市新地町１０-１４中貿ビル３階,眼科,,,9" xlink:title="村上眼科クリニック" transform="ref(svg,12987.5694,-3274.1808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）女の都山荘医務室,長崎県長崎市女の都１-１５９７,内科,,,9" xlink:title="（特養）女の都山荘医務室" transform="ref(svg,12987.9843,-3280.0925)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＭＯＭＯクリニック,長崎県長崎市馬町８１第７三光ビル３ＦＢ,精神科　心臓内科,,,9" xlink:title="ＭＯＭＯクリニック" transform="ref(svg,12988.3736,-3275.3094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森こどもクリニック,長崎県長崎市川平町１２０４メディケアビル３Ｆ,小児科,,,9" xlink:title="森こどもクリニック" transform="ref(svg,12988.0342,-3279.3649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠友会森つとむ内科,長崎県長崎市籠町２-２６,内科　消化器科　循環器科　放射線科,,,9" xlink:title="（医）誠友会森つとむ内科" transform="ref(svg,12987.6359,-3274.0811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森光泌尿器科クリニック,長崎県長崎市住吉町３-１１-１０３,泌尿器科,,,9" xlink:title="森光泌尿器科クリニック" transform="ref(svg,12986.1384,-3279.1445)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）諸岡整形外科医院,長崎県長崎市三芳町２-２０,整形外科　リハビリテーション科,,,9" xlink:title="（医）諸岡整形外科医院" transform="ref(svg,12985.8977,-3277.8198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,諸熊医院,長崎県長崎市浜町４-２０,内科　消化器内科　循環器内科,,,9" xlink:title="諸熊医院" transform="ref(svg,12987.7567,-3274.3863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,諸熊内科医院,長崎県長崎市中園町１１-２２,内科　消化器科　呼吸器科　循環器科　放射線科　外科,,,9" xlink:title="諸熊内科医院" transform="ref(svg,12985.9567,-3279.2097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）モン・サン・ノールながさき医務室,長崎県長崎市豊洋台１-３-１１,内科,,,9" xlink:title="地域密着型（特養）モン・サン・ノールながさき医務室" transform="ref(svg,12978.8918,-3283.1698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安井小児科医院,長崎県長崎市上西山町１-１８パークシティー諏訪２０２,小児科,,,9" xlink:title="（医）安井小児科医院" transform="ref(svg,12988.3685,-3275.332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安井内科,長崎県長崎市大浜町３１７-５,内科,,,9" xlink:title="安井内科" transform="ref(svg,12983.2213,-3274.402)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安中外科・脳神経外科医院,長崎県長崎市丸山町２-６,外科　整形外科　脳神経外科,,,9" xlink:title="安中外科・脳神経外科医院" transform="ref(svg,12988.0394,-3274.0736)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やすひウィメンズ・ヘルスクリニック,長崎県長崎市銅座町２-１５ＮＫイリスビル５Ｆ,婦人科,,,9" xlink:title="やすひウィメンズ・ヘルスクリニック" transform="ref(svg,12987.5322,-3274.2991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やない小児科医院,長崎県長崎市岩見町５-１３,小児科,,,9" xlink:title="（医）やない小児科医院" transform="ref(svg,12985.6374,-3277.0038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やなぎクリニック,長崎県長崎市万屋町６-１５アイキッズビル２Ｆ,小児科　循環器内科,,,9" xlink:title="（医）やなぎクリニック" transform="ref(svg,12988.0159,-3274.4879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山浦皮ふ科医院,長崎県長崎市桜馬場１-３-２北条ビル２Ｆ,皮膚科,,,9" xlink:title="山浦皮ふ科医院" transform="ref(svg,12988.7424,-3275.322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山川内科,長崎県長崎市岩屋町２３-３,内科　糖尿病・代謝内科,,,9" xlink:title="山川内科" transform="ref(svg,12985.1578,-3280.2696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口整形外科医院,長崎県長崎市中川１-８-３,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="山口整形外科医院" transform="ref(svg,12989.3334,-3275.1265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杏仁会山口内科医院,長崎県長崎市銀屋町２-１０,内科　放射線科,,,9" xlink:title="（医）杏仁会山口内科医院" transform="ref(svg,12988.0159,-3274.6553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口内科・循環器内科,長崎県長崎市竹の久保町１１-１０,内科　循環器内科,,,9" xlink:title="山口内科・循環器内科" transform="ref(svg,12985.7824,-3276.7039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎医院,長崎県長崎市四杖町１７３８-３,外科　胃腸外科　肛門外科　内科,,,9" xlink:title="山崎医院" transform="ref(svg,12979.0626,-3278.8002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎整形外科医院,長崎県長崎市光町８-１２,整形外科　リハビリテーション科,,,9" xlink:title="山崎整形外科医院" transform="ref(svg,12986.3615,-3275.551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまさき内科医院,長崎県長崎市千歳町２-６いわさきビル,内科　循環器内科,,,9" xlink:title="やまさき内科医院" transform="ref(svg,12986.1325,-3278.9603)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山下内科呼吸器科,長崎県長崎市千歳町１０-２,内科　呼吸器科　アレルギー科,,,9" xlink:title="山下内科呼吸器科" transform="ref(svg,12986.2226,-3279.0772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やました内科,長崎県長崎市城山町３１-１４,内科,,,9" xlink:title="（医）やました内科" transform="ref(svg,12985.5788,-3277.412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田整形外科,長崎県長崎市石神町３-２４,整形外科　リハビリテーション科,,,9" xlink:title="山田整形外科" transform="ref(svg,12987.0836,-3278.392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山田内科医院,長崎県長崎市岩川町３-１,内科　胃腸科　循環器科　小児科　神経科　呼吸器科　糖尿病内科,,,9" xlink:title="（医）山田内科医院" transform="ref(svg,12986.4459,-3276.6718)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまだ皮ふ科医院,長崎県長崎市畝刈町１６１３-１１４,皮膚科,,,9" xlink:title="やまだ皮ふ科医院" transform="ref(svg,12977.726,-3282.4878)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山根内科胃腸科医院,長崎県長崎市幸町６-２０,内科　胃腸内科　消化器内科,,,9" xlink:title="山根内科胃腸科医院" transform="ref(svg,12986.5296,-3275.7382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設・山の木医務室,長崎県長崎市横尾５-９-１８,外科,,,9" xlink:title="地域密着型介護老人福祉施設・山の木医務室" transform="ref(svg,12982.6693,-3281.465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山の手クリニック,長崎県長崎市新地町１２-８,心臓内科　精神科,,,9" xlink:title="（医）山の手クリニック" transform="ref(svg,12987.5412,-3274.0978)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山本眼科医院,長崎県長崎市若葉町１４-９,眼科,,,9" xlink:title="（医）山本眼科医院" transform="ref(svg,12986.06,-3279.0175)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本外科医院,長崎県長崎市下西山町１-５九州鉱発ビル１Ｆ,外科　胃腸科　肛門科　整形外科　リハビリテーション科,,,9" xlink:title="山本外科医院" transform="ref(svg,12988.4297,-3275.341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本内科医院,長崎県長崎市古川町６-３０,内科,,,9" xlink:title="山本内科医院" transform="ref(svg,12988.0448,-3274.509)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山元内科,長崎県長崎市柳谷町８-２０,内科,,,9" xlink:title="（医）山元内科" transform="ref(svg,12985.639,-3279.312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,弥生ケ丘中口内科医院,長崎県長崎市弥生町４-５６,内科　消化器科　小児科　リハビリテーション科,,,9" xlink:title="弥生ケ丘中口内科医院" transform="ref(svg,12989.2934,-3273.047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多機能福祉施設ユァライフ滑石ショートステイ滑石医務,長崎県長崎市滑石６-４-３,内科,,,9" xlink:title="多機能福祉施設ユァライフ滑石ショートステイ滑石医務" transform="ref(svg,12983.4426,-3280.3585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ゆきなり・クリニック,長崎県長崎市新大工町５-７シーボルタウン２Ｆ,ペインクリニック内科　緩和内科　リハビリテーション科,,,9" xlink:title="（医）ゆきなり・クリニック" transform="ref(svg,12988.5853,-3275.271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆずクリニック,長崎県長崎市鍛冶屋町２-１１,心臓内科　精神科,,,9" xlink:title="ゆずクリニック" transform="ref(svg,12988.0746,-3274.427)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横瀬医院,長崎県長崎市平野町１０-２９,外科　整形外科　胃腸外科　循環器外科　耳鼻いんこう科　リハビリテーション科　リウマチ科　心臓・血管外科　呼吸器外科　循環器内科,,,9" xlink:title="横瀬医院" transform="ref(svg,12986.4934,-3277.0395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横田医院,長崎県長崎市桜馬場２-１-１５,内科　消化器科　呼吸器科　循環器科　小児科,,,9" xlink:title="横田医院" transform="ref(svg,12989.0087,-3275.295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横田医院,長崎県長崎市大園町１０-１２,内科　消化器内科　循環器内科　糖尿病内科　代謝内科　内分泌内科　脂質代謝内科,,,9" xlink:title="横田医院" transform="ref(svg,12983.7602,-3280.3059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉雄医院,長崎県長崎市入船町３-５,内科　循環器科,,,9" xlink:title="吉雄医院" transform="ref(svg,12985.3211,-3274.2906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田医院,長崎県長崎市桜馬場１-１０-１７,小児科　内科　麻酔科,,,9" xlink:title="吉田医院" transform="ref(svg,12988.8766,-3275.3295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉弘医院,長崎県長崎市松が枝町６-１,外科　胃腸科　放射線科　リハビリテーション科,,,9" xlink:title="吉弘医院" transform="ref(svg,12986.781,-3273.5307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）吉見耳鼻咽喉科,長崎県長崎市千歳町１０-３,耳鼻いんこう科　アレルギー科,,,9" xlink:title="（医）吉見耳鼻咽喉科" transform="ref(svg,12986.2465,-3279.0785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）吉見内科胃腸科,長崎県長崎市千歳町１０-３よしみビル５Ｆ,内科　胃腸科,,,9" xlink:title="（医）吉見内科胃腸科" transform="ref(svg,12986.2465,-3279.0785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉見皮ふ科,長崎県長崎市千歳町１０-３,皮膚科,,,9" xlink:title="吉見皮ふ科" transform="ref(svg,12986.2465,-3279.0785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵愛会ヨゼフクリニック,長崎県長崎市坂本１-６-１,心臓外科　循環器科　外科　リハビリテーション科,,,9" xlink:title="（医）恵愛会ヨゼフクリニック" transform="ref(svg,12986.6943,-3276.8284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よなわ医院,長崎県長崎市岩屋町２５-７,内科　呼吸器科　胃腸科　循環器科　精神科　心臓内科,,,9" xlink:title="よなわ医院" transform="ref(svg,12985.1218,-3280.2335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よろずや町クリニック,長崎県長崎市万屋町２-１１-２Ｆ,心臓内科　精神科　内科,,,9" xlink:title="よろずや町クリニック" transform="ref(svg,12987.8834,-3274.6058)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,りゅうキッズクリニック,長崎県長崎市滑石２-９-９,小児科,,,9" xlink:title="りゅうキッズクリニック" transform="ref(svg,12984.3209,-3280.7359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディースクリニックＩＣＨＩＲＯ,長崎県長崎市京泊３-１０-１５,産婦人科,,,9" xlink:title="レディースクリニックＩＣＨＩＲＯ" transform="ref(svg,12977.1234,-3282.3114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（社）楽老会軽費老人ホーム老友荘医務室,長崎県長崎市女の都１-１５９２,内科,,,9" xlink:title="（社）楽老会軽費老人ホーム老友荘医務室" transform="ref(svg,12988.0801,-3280.0461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたなべ耳鼻咽喉科クリニック,長崎県長崎市平和町５-２５弘誠ビル２Ｆ,耳鼻いんこう科,,,9" xlink:title="わたなべ耳鼻咽喉科クリニック" transform="ref(svg,12986.6179,-3277.6207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）わたなべ小児科医院,長崎県長崎市滑石３-７-４,小児科　内科,,,9" xlink:title="（医）わたなべ小児科医院" transform="ref(svg,12983.8582,-3280.7969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺整形外科医院,長崎県長崎市岩川町１９-１３,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="渡辺整形外科医院" transform="ref(svg,12986.6567,-3276.786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたなべ皮ふ科,長崎県長崎市古川町５-２５ブランディール鮫島１階,皮膚科,,,9" xlink:title="わたなべ皮ふ科" transform="ref(svg,12987.9186,-3274.6207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたべクリニック,長崎県長崎市元船町１２-１１,消化器科　外科　肛門科　リハビリテーション科　内科,,,9" xlink:title="わたべクリニック" transform="ref(svg,12987.1602,-3274.6155)" x="0" y="0"/>
+</g>
+</svg>

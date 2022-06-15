@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13640.625 -3515.625 35.15625 35.15625" go:dataArea="13640.625 -3515.625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,佐屋歯科医院,愛知県愛西市北一色町証文１,歯科　小児歯科,,,9" xlink:title="佐屋歯科医院" transform="ref(svg,13672.0617,-3514.8063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,勝野歯科,愛知県愛西市東保町東川原５９１,歯科　小児歯科,,,9" xlink:title="勝野歯科" transform="ref(svg,13671.6691,-3514.5968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アリゼ小児歯科医院,愛知県愛西市西保町同所新田１１,歯科　小児歯科　矯正歯科,,,9" xlink:title="アリゼ小児歯科医院" transform="ref(svg,13671.2175,-3514.3908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石原歯科医院,愛知県愛西市佐屋町堤西２９-３,歯科,,,9" xlink:title="石原歯科医院" transform="ref(svg,13671.3193,-3515.6046)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトウ歯科,愛知県愛西市北一色町北田面３３３-２,歯科　小児歯科,,,9" xlink:title="サトウ歯科" transform="ref(svg,13672.3956,-3514.8087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科,愛知県愛西市大井町六川北４４,歯科　小児歯科,,,9" xlink:title="小林歯科" transform="ref(svg,13675.2106,-3513.7993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大井歯科医院,愛知県愛西市大井町浦田面７１１,歯科,,,9" xlink:title="大井歯科医院" transform="ref(svg,13675.1938,-3513.9631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マコト歯科,愛知県愛西市北一色町昭和３１９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="マコト歯科" transform="ref(svg,13672.905,-3514.7396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あずま歯科,愛知県愛西市西保町西川原４３-３,歯科　小児歯科,,,9" xlink:title="あずま歯科" transform="ref(svg,13670.8826,-3514.6098)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はっとり歯科室,愛知県弥富市佐古木２-２６５-１,歯科　歯科口腔外科,,,9" xlink:title="はっとり歯科室" transform="ref(svg,13675.4688,-3511.8258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エムデンタルクリニック,愛知県弥富市五明町蒲原１３７１-４,歯科　小児歯科,,,9" xlink:title="エムデンタルクリニック" transform="ref(svg,13671.6794,-3511.4843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおき歯科,愛知県弥富市東中地１-１４２-１,歯科　小児歯科,,,9" xlink:title="あおき歯科" transform="ref(svg,13673.685,-3512.2809)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,愛知県弥富市鯏浦町西前新田１２１-４,歯科　小児歯科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,13672.8444,-3511.4556)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,弥富デンタルクリニック,愛知県弥富市鯏浦町南前新田１６５,歯科,,,9" xlink:title="弥富デンタルクリニック" transform="ref(svg,13672.9264,-3510.9954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）あさひ会川瀬歯科医院,愛知県弥富市鯏浦町上六７３,歯科　小児歯科,,,9" xlink:title="（医）あさひ会川瀬歯科医院" transform="ref(svg,13672.5861,-3511.5148)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,彦坂歯科医院,愛知県弥富市五明町築留１９２９-１,歯科,,,9" xlink:title="彦坂歯科医院" transform="ref(svg,13671.7602,-3511.1407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大藤歯科医院,愛知県弥富市寛延２-９２,歯科　小児歯科　矯正歯科,,,9" xlink:title="大藤歯科医院" transform="ref(svg,13675.3932,-3508.0069)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐古木歯科,愛知県弥富市佐古木２-２７８-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="佐古木歯科" transform="ref(svg,13675.3666,-3511.9626)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,愛知県弥富市前ヶ須町西勘助２４１-１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13672.5821,-3510.9166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなか歯科クリニック,愛知県弥富市平島町南広畑４３-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="たなか歯科クリニック" transform="ref(svg,13673.6898,-3510.6227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なおデンタルクリニック,愛知県弥富市鯏浦町車東３６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="なおデンタルクリニック" transform="ref(svg,13673.9979,-3511.2655)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安井歯科医院,愛知県弥富市前ヶ須町午新田４７５-１,歯科　小児歯科,,,9" xlink:title="安井歯科医院" transform="ref(svg,13672.2059,-3510.943)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらせ歯科,愛知県弥富市鯏浦町大脇２９-２,歯科　小児歯科,,,9" xlink:title="むらせ歯科" transform="ref(svg,13673.4623,-3510.8907)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,愛知県弥富市平島町喜右味名６４,歯科　小児歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13673.218,-3511.0278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,愛知県弥富市五之三町東与太郎２１１８,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13671.1672,-3512.218)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＹＣデンタルクリニック,愛知県弥富市森津１２-２,歯科　小児歯科,,,9" xlink:title="ＹＣデンタルクリニック" transform="ref(svg,13673.6031,-3509.9373)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,片岡歯科医院,愛知県弥富市鯏浦町下六７,歯科　小児歯科,,,9" xlink:title="片岡歯科医院" transform="ref(svg,13672.1214,-3511.4354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,十四山歯科,愛知県弥富市鍋平１-１２,歯科　小児歯科,,,9" xlink:title="十四山歯科" transform="ref(svg,13674.1541,-3511.5782)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にじ歯科,三重県四日市市三滝台４-１-２２　１０４,歯科,,,9" xlink:title="にじ歯科" transform="ref(svg,13656.6773,-3497.7427)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）重幹会かわむら歯科,三重県鈴鹿市加佐登２-２０-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）重幹会かわむら歯科" transform="ref(svg,13653.3407,-3489.396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にい矯正歯科クリニック,三重県桑名市星見ケ丘８-４０１-３,矯正歯科,,,9" xlink:title="にい矯正歯科クリニック" transform="ref(svg,13663.4137,-3507.195)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊里歯科,三重県津市豊が丘４-２-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="豊里歯科" transform="ref(svg,13646.5792,-3480.8384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,落合歯科医院,三重県四日市市諏訪町１３-８アトレ諏訪新道１階,歯科,,,9" xlink:title="落合歯科医院" transform="ref(svg,13662.427,-3496.7435)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）有真会アットホーム菰野歯科医院,三重県三重郡菰野町大字宿野字神明田３５７,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）有真会アットホーム菰野歯科医院" transform="ref(svg,13652.9584,-3500.587)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かめやま歯科口腔クリニック,三重県亀山市和田町１４８８-３１８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かめやま歯科口腔クリニック" transform="ref(svg,13647.4481,-3485.8561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きたか歯科,三重県桑名市福島新町１６,歯科　小児歯科,,,9" xlink:title="きたか歯科" transform="ref(svg,13668.3122,-3507.7081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きりん歯科,三重県四日市市平津新町２６０-３６２ハートヒル平津,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="きりん歯科" transform="ref(svg,13662.2216,-3502.3837)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ワタナベにじ歯科,三重県三重郡菰野町田口新田２８２１-１,歯科,,,9" xlink:title="ワタナベにじ歯科" transform="ref(svg,13651.8175,-3508.5361)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハート矯正歯科クリニック,三重県桑名市寿町２-３１-２１三交桑名駅前ビル３Ｆ,矯正歯科,,,9" xlink:title="ハート矯正歯科クリニック" transform="ref(svg,13668.4154,-3506.5422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやた歯科クリニック,三重県桑名市多度町多度８５４-２,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="みやた歯科クリニック" transform="ref(svg,13663.3804,-3513.5252)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかもと歯科,三重県四日市市城西町１３-３２,歯科　小児歯科,,,9" xlink:title="おかもと歯科" transform="ref(svg,13660.0372,-3496.6784)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いちば歯科,三重県鈴鹿市長太栄町３-１７-２０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="いちば歯科" transform="ref(svg,13663.0239,-3488.9035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,朝日つげ歯科,三重県三重郡朝日町小向９２５,一般歯科　小児歯科　口腔外科,,,9" xlink:title="朝日つげ歯科" transform="ref(svg,13666.3255,-3503.409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＴＮデンタルクリニック,三重県桑名市大字江場１５５２-１,一般歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ＴＮデンタルクリニック" transform="ref(svg,13668.277,-3505.4764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長井歯科旭が丘クリニック,三重県鈴鹿市東旭が丘１-３-１０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="長井歯科旭が丘クリニック" transform="ref(svg,13657.2466,-3484.9316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）みふね小児歯科医院歯科室中澤,三重県三重郡川越町豊田２５５,一般歯科　小児歯科,,,9" xlink:title="（医）みふね小児歯科医院歯科室中澤" transform="ref(svg,13666.0595,-3501.6093)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長井歯科,三重県鈴鹿市寺家５-２３-２１,歯科　小児歯科　矯正歯科,,,9" xlink:title="長井歯科" transform="ref(svg,13657.9905,-3482.6267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやざわ歯科医院,三重県員弁郡東員町大字鳥取大華表２７６-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="みやざわ歯科医院" transform="ref(svg,13658.3264,-3508.5238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東海歯科,三重県桑名市大山田１-７-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="東海歯科" transform="ref(svg,13663.9856,-3507.8395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,三重県桑名市常盤町７１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,13668.9283,-3506.4657)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂井歯科,三重県四日市市諏訪栄町１５-４新諏訪ビル５階,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="坂井歯科" transform="ref(svg,13662.1776,-3496.6959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科診療所ひまわり,三重県四日市市山分町４９１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="歯科診療所ひまわり" transform="ref(svg,13663.1131,-3502.7428)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ライオンズ矯正歯科,三重県四日市市安島１-１-３第一富士ビル３Ｆ,矯正歯科,,,9" xlink:title="ライオンズ矯正歯科" transform="ref(svg,13661.8071,-3496.5998)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,三重県鈴鹿市末広北２-８-２０,歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13656.1533,-3486.0267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＯＫＡ　ＤＥＮＴＡＬ　ＣＬＩＮＩＣ岡歯科医院,三重県亀山市東町１-３-２,歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="ＯＫＡ　ＤＥＮＴＡＬ　ＣＬＩＮＩＣ岡歯科医院" transform="ref(svg,13645.462,-3485.4364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀デンタルクリニック,三重県亀山市東台町１-１４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="堀デンタルクリニック" transform="ref(svg,13645.8183,-3485.5475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桑名歯科,三重県桑名市長島町出口６３,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="桑名歯科" transform="ref(svg,13669.617,-3510.1683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわち歯科クリニック,三重県桑名市新西方３-１３８,歯科　小児歯科　矯正歯科,,,9" xlink:title="かわち歯科クリニック" transform="ref(svg,13665.6292,-3507.3617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科,三重県鈴鹿市加佐登３-１１-６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="岡田歯科" transform="ref(svg,13652.7594,-3489.4055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かなや歯科医院,三重県四日市市諏訪栄町２１-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="かなや歯科医院" transform="ref(svg,13662.2598,-3496.7008)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たか歯科クリニック,三重県桑名市大字太一丸６８７-１バロー桑名東店１Ｆ,歯科　小児歯科,,,9" xlink:title="たか歯科クリニック" transform="ref(svg,13669.038,-3507.0741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いちかわ歯科クリニック,三重県四日市市中川原１-６２１-３,歯科　小児歯科,,,9" xlink:title="いちかわ歯科クリニック" transform="ref(svg,13660.2173,-3496.8878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉置歯科医院,三重県津市芸濃町椋本７１７-１,歯科,,,9" xlink:title="玉置歯科医院" transform="ref(svg,13642.6306,-3480.925)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北村歯科,三重県四日市市前田町２３-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北村歯科" transform="ref(svg,13659.4438,-3493.5242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科医院,三重県四日市市日永東３-９-１５,歯科,,,9" xlink:title="服部歯科医院" transform="ref(svg,13660.3888,-3494.1656)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩-ｱ歯科,三重県四日市市西浦１-７-１５,歯科,,,9" xlink:title="岩-ｱ歯科" transform="ref(svg,13661.7141,-3497.0724)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石塚いとう歯科,三重県四日市市石塚町１８２１-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="石塚いとう歯科" transform="ref(svg,13660.5328,-3496.0526)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マサミ歯科クリニック富田西診療所,三重県四日市市川北１-１２-１５,歯科,,,9" xlink:title="マサミ歯科クリニック富田西診療所" transform="ref(svg,13664.6887,-3501.8451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかのデンタルクリニック,三重県三重郡川越町豊田一色１７９-５,歯科　小児歯科　口腔外科,,,9" xlink:title="さかのデンタルクリニック" transform="ref(svg,13667.2629,-3502.2192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フローラル歯科クリニック,三重県桑名市多度町多度６３２-１,歯科,,,9" xlink:title="フローラル歯科クリニック" transform="ref(svg,13663.16,-3512.9989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルフリーまちこクリニック,三重県鈴鹿市安塚町字西山６６４-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="デンタルフリーまちこクリニック" transform="ref(svg,13657.3038,-3486.7948)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サノデンタルクリニック,三重県桑名市桑栄町２-６０５,歯科,,,9" xlink:title="サノデンタルクリニック" transform="ref(svg,13668.4611,-3506.7144)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひがし小児・矯正歯科クリニック,三重県鈴鹿市野村町１６７-１,小児歯科　矯正歯科,,,9" xlink:title="ひがし小児・矯正歯科クリニック" transform="ref(svg,13656.7978,-3483.7876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,銀座歯科,三重県いなべ市大安町石榑南１８３９,一般歯科,,,9" xlink:title="銀座歯科" transform="ref(svg,13649.2794,-3510.3508)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科クリニック,三重県三重郡朝日町向陽台２-１５-１９,歯科　小児歯科　矯正歯科,,,9" xlink:title="わたなべ歯科クリニック" transform="ref(svg,13665.5056,-3503.6293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きらり歯科,三重県桑名市陽だまりの丘７-１５１２,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="きらり歯科" transform="ref(svg,13663.6306,-3508.7107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あかつか歯科クリニック,三重県鈴鹿市秋永町７７５-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="あかつか歯科クリニック" transform="ref(svg,13655.354,-3481.8111)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなか歯科,三重県鈴鹿市岡田町１２０２-３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="たなか歯科" transform="ref(svg,13654.9494,-3488.4521)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまて通りデンタルクリニック,三重県四日市市山手町３０８８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまて通りデンタルクリニック" transform="ref(svg,13662.3835,-3499.1125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）良友会中尾歯科,三重県四日市市東坂部町１５２８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）良友会中尾歯科" transform="ref(svg,13660.1389,-3499.9608)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あしたば歯科医院,三重県四日市市笹川３-３７-１,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="あしたば歯科医院" transform="ref(svg,13657.3578,-3495.3071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かしましか,三重県四日市市平津町２８８,歯科　小児歯科,,,9" xlink:title="かしましか" transform="ref(svg,13662.2143,-3502.7921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,萬代歯科,三重県鈴鹿市柳町１５１８-２,歯科　歯科口腔外科,,,9" xlink:title="萬代歯科" transform="ref(svg,13659.6528,-3487.5922)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くすの木歯科クリニック,三重県四日市市上海老町２１００-１０,歯科　小児歯科,,,9" xlink:title="くすの木歯科クリニック" transform="ref(svg,13657.2458,-3502.9721)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ラベンダー歯科クリニック,三重県鈴鹿市柳町森１６６５-３,歯科,,,9" xlink:title="ラベンダー歯科クリニック" transform="ref(svg,13659.9424,-3487.3544)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すずか矯正歯科クリニック,三重県鈴鹿市末広町東１-３０,矯正歯科,,,9" xlink:title="すずか矯正歯科クリニック" transform="ref(svg,13656.8931,-3486.054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,潤田ファミリー歯科,三重県三重郡菰野町潤田１２０３-１,歯科　矯正歯科　小児歯科　口腔外科,,,9" xlink:title="潤田ファミリー歯科" transform="ref(svg,13650.6957,-3502.1176)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中道歯科医院,三重県三重郡菰野町大羽根園松ヶ枝町６-１,歯科,,,9" xlink:title="中道歯科医院" transform="ref(svg,13649.3797,-3501.5579)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おざわ歯科,三重県四日市市貝家町字山川１３９８-２６,歯科　小児歯科,,,9" xlink:title="おざわ歯科" transform="ref(svg,13656.7123,-3492.9336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんじ歯科クリニック,三重県四日市市智積町６７３２-７,歯科　小児歯科,,,9" xlink:title="しんじ歯科クリニック" transform="ref(svg,13654.1235,-3498.6662)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科クリニック,三重県桑名市桜通４１-１,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="さくら歯科クリニック" transform="ref(svg,13667.343,-3506.5089)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊東歯科医院,三重県鈴鹿市石薬師町１７０８,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="伊東歯科医院" transform="ref(svg,13654.8045,-3490.34)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永田歯科,三重県桑名市多度町香取字高割３９１-１,歯科　小児歯科,,,9" xlink:title="永田歯科" transform="ref(svg,13665.0392,-3513.166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みずきが丘歯科クリニック,三重県亀山市みずきが丘６９-５,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="みずきが丘歯科クリニック" transform="ref(svg,13646.8479,-3487.675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどり歯科,三重県四日市市富田３-７-３２,歯科　小児歯科,,,9" xlink:title="みどり歯科" transform="ref(svg,13665.3152,-3500.6525)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）浩風会アイリス歯科医院,三重県鈴鹿市算所２-５-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）浩風会アイリス歯科医院" transform="ref(svg,13654.6187,-3487.3477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひつじ歯科・口腔外科クリニック,三重県四日市市小古曽６-８-４,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="ひつじ歯科・口腔外科クリニック" transform="ref(svg,13658.7425,-3492.8727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やさしい歯科,三重県員弁郡東員町大字山田２９５４-３,歯科　小児歯科,,,9" xlink:title="やさしい歯科" transform="ref(svg,13659.3447,-3509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おぎた小児歯科,三重県桑名市大字東方字市之縄１０３-３,小児歯科,,,9" xlink:title="おぎた小児歯科" transform="ref(svg,13668.2517,-3506.7183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしもと歯科,三重県四日市市東坂部町１５７７-１,歯科,,,9" xlink:title="はしもと歯科" transform="ref(svg,13660.1086,-3499.8605)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴峰歯科医院,三重県鈴鹿市三畑町字北中大野５０７５-１２９,歯科　小児歯科,,,9" xlink:title="鈴峰歯科医院" transform="ref(svg,13650.0313,-3490.9947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,二之宮歯科医院,三重県いなべ市北勢町東村西大路２８０-５,歯科,,,9" xlink:title="二之宮歯科医院" transform="ref(svg,13651.438,-3513.7683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆたか歯科,三重県鈴鹿市中江島町１５-２０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ゆたか歯科" transform="ref(svg,13659.3889,-3484.1043)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）栄伸会平田歯科医院,三重県鈴鹿市自由ヶ丘１-１８-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）栄伸会平田歯科医院" transform="ref(svg,13655.0235,-3491.1074)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もと歯科クリニック,三重県四日市市野田２-５-１８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="もと歯科クリニック" transform="ref(svg,13660.6306,-3498.2839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あだち歯科クリニック,三重県四日市市ときわ５-４-３９,歯科　小児歯科,,,9" xlink:title="あだち歯科クリニック" transform="ref(svg,13659.8149,-3496.2101)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ＡＱＵＡもりもと歯科クリニック,三重県四日市市笹川１-５９,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="（医）ＡＱＵＡもりもと歯科クリニック" transform="ref(svg,13658.1035,-3494.9882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立松歯科医院,三重県桑名市陽だまりの丘２-１５０１,歯科　小児歯科　矯正歯科,,,9" xlink:title="立松歯科医院" transform="ref(svg,13664.6834,-3508.6345)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おぎた歯科クリニック,三重県いなべ市北勢町阿下喜字落合３５１９-１,歯科　小児歯科,,,9" xlink:title="おぎた歯科クリニック" transform="ref(svg,13651.1619,-3514.722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グリーン歯科,三重県桑名市野田３-８-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="グリーン歯科" transform="ref(svg,13663.1654,-3508.2206)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）緑和会鈴鹿グリーン歯科,三重県鈴鹿市道伯５-２３-３２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）緑和会鈴鹿グリーン歯科" transform="ref(svg,13654.787,-3486.4311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）良心会中尾歯科いなべ診療所,三重県いなべ市員弁町笠田新田５１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）良心会中尾歯科いなべ診療所" transform="ref(svg,13656.0662,-3511.5487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前野歯科,三重県四日市市中部１２-５,歯科　小児歯科,,,9" xlink:title="前野歯科" transform="ref(svg,13662.4345,-3496.9417)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごとうしんじ歯科室,三重県鈴鹿市東旭が丘４-５-６,歯科　歯科口腔外科,,,9" xlink:title="ごとうしんじ歯科室" transform="ref(svg,13657.8773,-3484.4292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごとう歯科クリニック,三重県桑名市桑栄町１-１サンファーレ南館１Ｆ,歯科　小児歯科,,,9" xlink:title="ごとう歯科クリニック" transform="ref(svg,13668.5126,-3506.645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわせデンタルクリニック,三重県員弁郡東員町中上２３２-１,歯科　小児歯科　口腔外科,,,9" xlink:title="かわせデンタルクリニック" transform="ref(svg,13659.6523,-3505.5581)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こざわ歯科クリニック,三重県四日市市日永４-２-４１日永カヨーショッピングセンター別館１Ｆ,歯科　小児歯科　矯正歯科,,,9" xlink:title="こざわ歯科クリニック" transform="ref(svg,13660.4204,-3494.6897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）良心会三重歯科クリニック,三重県四日市市三重６-１２８,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="（医）良心会三重歯科クリニック" transform="ref(svg,13658.4822,-3498.8855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あかつき台歯科医院,三重県四日市市あかつき台２-１-２０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="あかつき台歯科医院" transform="ref(svg,13660.219,-3502.7123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科,三重県四日市市富田浜元町１-１８,歯科　小児歯科,,,9" xlink:title="飯田歯科" transform="ref(svg,13665.4117,-3500.0131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,三重県鈴鹿市神戸４-６-２６,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13658.039,-3487.6443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科,三重県津市芸濃町椋本３０８３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="スマイル歯科" transform="ref(svg,13644.6057,-3480.5116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コンドウ歯科医院,三重県四日市市松本３-１０-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="コンドウ歯科医院" transform="ref(svg,13658.9997,-3496.8978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろ歯科医院,三重県四日市市堀木１-１-２０,歯科　小児歯科,,,9" xlink:title="ひろ歯科医院" transform="ref(svg,13661.5842,-3497.1583)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西岡歯科醫院,三重県いなべ市北勢町阿下喜字上惣作２５６-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西岡歯科醫院" transform="ref(svg,13651.1004,-3515.2904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）慈恵会末広歯科,三重県鈴鹿市末広東１５-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）慈恵会末広歯科" transform="ref(svg,13657.0614,-3486.0527)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長太ノ浦歯科医院,三重県鈴鹿市北長太町６３３-５,歯科,,,9" xlink:title="長太ノ浦歯科医院" transform="ref(svg,13662.9372,-3489.4456)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,庄野歯科,三重県鈴鹿市平田本町２-１９-３,歯科,,,9" xlink:title="庄野歯科" transform="ref(svg,13653.4311,-3487.7189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,三重県鈴鹿市平田東町２-２２,歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,13654.1784,-3487.6248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なるかわ歯科医院,三重県鈴鹿市白子本町１１-３５,歯科　小児歯科,,,9" xlink:title="なるかわ歯科医院" transform="ref(svg,13658.8486,-3483.2591)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白子小児歯科,三重県鈴鹿市白子町２９３８サンヤマトビル１Ｆ,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="白子小児歯科" transform="ref(svg,13658.7501,-3483.7139)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科医院,三重県鈴鹿市白子町字ハサマ２０１３,歯科　小児歯科,,,9" xlink:title="いとう歯科医院" transform="ref(svg,13657.7738,-3483.9954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,茂理歯科医院,三重県鈴鹿市白子町６４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="茂理歯科医院" transform="ref(svg,13658.6646,-3483.84)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホワイト歯科,三重県鈴鹿市白子駅前９-３０,歯科,,,9" xlink:title="ホワイト歯科" transform="ref(svg,13659.0335,-3483.6155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩沢歯科,三重県鈴鹿市白子３-２-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="岩沢歯科" transform="ref(svg,13658.6878,-3483.2585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆみ子歯科,三重県鈴鹿市白子３-１-２０,歯科,,,9" xlink:title="ゆみ子歯科" transform="ref(svg,13658.5791,-3483.3391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中條歯科医院,三重県鈴鹿市南江島町１８-３５,歯科　小児歯科,,,9" xlink:title="中條歯科医院" transform="ref(svg,13659.0546,-3484.1071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）鈴鳴会鳴神歯科,三重県鈴鹿市南江島町１２-２２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）鈴鳴会鳴神歯科" transform="ref(svg,13659.1514,-3483.9389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉垣歯科医院,三重県鈴鹿市南玉垣町６７７１,歯科　小児歯科　矯正歯科,,,9" xlink:title="玉垣歯科医院" transform="ref(svg,13658.3837,-3485.5979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科クリニック,三重県鈴鹿市東江島町２７-１７,歯科　小児歯科　矯正歯科,,,9" xlink:title="和田歯科クリニック" transform="ref(svg,13660.1123,-3484.2614)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,磯山歯科,三重県鈴鹿市東磯山２-２２-１７,歯科,,,9" xlink:title="磯山歯科" transform="ref(svg,13656.9229,-3481.2649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,早川歯科医院,三重県鈴鹿市長沢町１１６６-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="早川歯科医院" transform="ref(svg,13647.737,-3493.3881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,旭ヶ丘歯科,三重県鈴鹿市中旭が丘２-６-３２,歯科　小児歯科,,,9" xlink:title="旭ヶ丘歯科" transform="ref(svg,13657.5743,-3484.6157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆあさ歯科医院,三重県鈴鹿市竹野２-１９-１１,歯科　小児歯科,,,9" xlink:title="ゆあさ歯科医院" transform="ref(svg,13655.4875,-3488.0554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フレンド歯科,三重県鈴鹿市地子町字金生水８１４-３３,歯科　小児歯科,,,9" xlink:title="フレンド歯科" transform="ref(svg,13655.9062,-3486.7451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）幹人会鳴神歯科平田分院,三重県鈴鹿市大池３-１４-１２,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="（医）幹人会鳴神歯科平田分院" transform="ref(svg,13653.1387,-3486.8574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にえ歯科,三重県鈴鹿市石薬師町５７１-３８,歯科,,,9" xlink:title="にえ歯科" transform="ref(svg,13655.5206,-3490.0097)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ももい歯科,三重県鈴鹿市西条５-６８,歯科　小児歯科　口腔外科,,,9" xlink:title="ももい歯科" transform="ref(svg,13656.8314,-3487.9366)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科診療所,三重県鈴鹿市西玉垣町１４２１-１,歯科,,,9" xlink:title="林歯科診療所" transform="ref(svg,13658.8923,-3486.2023)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大谷歯科医院,三重県鈴鹿市神戸９-９-１３,歯科,,,9" xlink:title="大谷歯科医院" transform="ref(svg,13658.4011,-3488.3849)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科医院,三重県鈴鹿市神戸８-２７-３２,歯科　小児歯科　矯正歯科,,,9" xlink:title="小川歯科医院" transform="ref(svg,13658.2073,-3488.5565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）幹人会鳴神歯科本院,三重県鈴鹿市神戸５-１-２０,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="（医）幹人会鳴神歯科本院" transform="ref(svg,13657.5551,-3488.0786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三上歯科医院,三重県鈴鹿市神戸５-１１-１７,歯科,,,9" xlink:title="三上歯科医院" transform="ref(svg,13657.6742,-3487.9335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,十宮歯科医院,三重県鈴鹿市十宮４-３-１２,歯科　小児歯科,,,9" xlink:title="十宮歯科医院" transform="ref(svg,13657.9625,-3488.7337)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,垣内歯科住吉診療所,三重県鈴鹿市住吉４-２０-３８,歯科,,,9" xlink:title="垣内歯科住吉診療所" transform="ref(svg,13653.0232,-3485.8745)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,住吉歯科,三重県鈴鹿市住吉１-３４-１７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="住吉歯科" transform="ref(svg,13653.3808,-3486.4663)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえしま歯科,三重県鈴鹿市住吉１-２４-２５,歯科　小児歯科　矯正歯科,,,9" xlink:title="うえしま歯科" transform="ref(svg,13653.6505,-3486.4217)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北條歯科医院,三重県鈴鹿市若松東２-１-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="北條歯科医院" transform="ref(svg,13661.729,-3486.1554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スズカ歯科,三重県鈴鹿市寺家２-２２-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="スズカ歯科" transform="ref(svg,13657.5064,-3481.675)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田歯科医院,三重県鈴鹿市算所５-１２-１９,歯科　小児歯科　口腔外科,,,9" xlink:title="原田歯科医院" transform="ref(svg,13655.1711,-3487.6671)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮崎歯科,三重県鈴鹿市算所２-１２-１１,歯科,,,9" xlink:title="宮崎歯科" transform="ref(svg,13654.7487,-3487.1696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科,三重県鈴鹿市算所町１２４２-１,歯科,,,9" xlink:title="川村歯科" transform="ref(svg,13654.7883,-3486.8895)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠井歯科医院,三重県鈴鹿市算所１-１-１７,歯科　小児歯科,,,9" xlink:title="笠井歯科医院" transform="ref(svg,13654.2199,-3487.3235)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ワタナベ小児歯科,三重県鈴鹿市三日市３-１-１５,歯科　小児歯科,,,9" xlink:title="ワタナベ小児歯科" transform="ref(svg,13656.207,-3487.7887)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もとはし歯科,三重県鈴鹿市国府町字貝下１５４０-３,歯科　小児歯科,,,9" xlink:title="もとはし歯科" transform="ref(svg,13650.5553,-3485.318)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊田歯科医院,三重県鈴鹿市国府町３２９１-１,歯科　小児歯科,,,9" xlink:title="豊田歯科医院" transform="ref(svg,13651.4934,-3485.5744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）かさど歯科医院,三重県鈴鹿市高塚町１４５１-３２,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="（医）かさど歯科医院" transform="ref(svg,13651.1318,-3489.8463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）さかえ歯科医院,三重県鈴鹿市中江島町２０-１３,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）さかえ歯科医院" transform="ref(svg,13659.4429,-3484.3012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サン歯科クリニック,三重県鈴鹿市郡山町西高山２００１-３６,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="サン歯科クリニック" transform="ref(svg,13654.2103,-3481.1918)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢嶋歯科医院,三重県鈴鹿市岸岡町大通り３３５４,歯科　小児歯科　矯正歯科,,,9" xlink:title="矢嶋歯科医院" transform="ref(svg,13660.0882,-3485.5202)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,垣内歯科医院,三重県鈴鹿市岸岡町字八友坪３１５８-１,歯科　小児歯科,,,9" xlink:title="垣内歯科医院" transform="ref(svg,13659.5353,-3485.4056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,千代崎歯科医院,三重県鈴鹿市岸岡町３０８５-２,歯科　小児歯科,,,9" xlink:title="千代崎歯科医院" transform="ref(svg,13660.9803,-3485.2709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北條歯科医院稲生診療所,三重県鈴鹿市稲生２-１５-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="北條歯科医院稲生診療所" transform="ref(svg,13656.1869,-3483.6946)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エンゼル歯科クリニック,三重県鈴鹿市稲生１-１６-１８,歯科　小児歯科　矯正歯科,,,9" xlink:title="エンゼル歯科クリニック" transform="ref(svg,13655.8955,-3483.0084)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やなせ小児歯科,三重県三重郡菰野町大字池底字原野１２９１-２,歯科　小児歯科,,,9" xlink:title="やなせ小児歯科" transform="ref(svg,13651.7855,-3503.8171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やました歯科クリニック,三重県鈴鹿市神戸９-１２-１,歯科　小児歯科,,,9" xlink:title="やました歯科クリニック" transform="ref(svg,13658.4556,-3488.4964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科,三重県四日市市波木町２１５-１,歯科　小児歯科,,,9" xlink:title="かとう歯科" transform="ref(svg,13657.6389,-3493.9453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江尻歯科医院,三重県四日市市大字西阿倉川字外ノ坪１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="江尻歯科医院" transform="ref(svg,13661.2703,-3498.863)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大井歯科医院,三重県鈴鹿市野町東２-４-６,歯科　小児歯科,,,9" xlink:title="大井歯科医院" transform="ref(svg,13656.9767,-3484.9347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野町歯科医院,三重県鈴鹿市野町中１-１-１０,歯科　小児歯科,,,9" xlink:title="野町歯科医院" transform="ref(svg,13656.6126,-3485.3378)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえの歯科,三重県鈴鹿市白子本町１０-３１,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="うえの歯科" transform="ref(svg,13659.0681,-3483.4369)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大木歯科医院,三重県鈴鹿市南長太町鎗添２５０５-２,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="大木歯科医院" transform="ref(svg,13662.9655,-3488.5363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まゆみ歯科医院,三重県鈴鹿市徳居町５６０-１,歯科　小児歯科,,,9" xlink:title="まゆみ歯科医院" transform="ref(svg,13651.3518,-3482.2892)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中尾歯科道伯診療所,三重県鈴鹿市道伯町１-６-１,歯科　小児歯科　口腔外科,,,9" xlink:title="中尾歯科道伯診療所" transform="ref(svg,13654.373,-3486.4358)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こにし歯科,三重県鈴鹿市東玉垣町２５５５-１,歯科　小児歯科,,,9" xlink:title="こにし歯科" transform="ref(svg,13659.4456,-3485.8304)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オー、デンタルクリニック鈴鹿,三重県鈴鹿市庄野羽山４-１-２イオンモール鈴鹿２Ｆ,歯科　小児歯科　矯正歯科,,,9" xlink:title="オー、デンタルクリニック鈴鹿" transform="ref(svg,13653.1643,-3487.1503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴鹿回生歯科診療所,三重県鈴鹿市国府町字保子里１７５,歯科　小児歯科　口腔外科,,,9" xlink:title="鈴鹿回生歯科診療所" transform="ref(svg,13649.5859,-3485.9041)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,羽山歯科,三重県鈴鹿市国府町字石丸７７７２-６,歯科　小児歯科,,,9" xlink:title="羽山歯科" transform="ref(svg,13652.2137,-3487.2804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしもと歯科,三重県鈴鹿市高岡台２-１-８,歯科　小児歯科　口腔外科,,,9" xlink:title="はしもと歯科" transform="ref(svg,13659.4622,-3490.8156)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かめだ歯科,三重県鈴鹿市稲生西３-１４-３６,歯科　小児歯科　矯正歯科,,,9" xlink:title="かめだ歯科" transform="ref(svg,13655.8,-3484.1461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こばやし歯科医院,三重県鈴鹿市神戸１-４-３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="こばやし歯科医院" transform="ref(svg,13658.194,-3488.2225)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）にいみ歯科医院,三重県四日市市北浜田町３-５,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）にいみ歯科医院" transform="ref(svg,13662.2937,-3496.2766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横田歯科医院,三重県四日市市北浜町１-７,歯科,,,9" xlink:title="横田歯科医院" transform="ref(svg,13663.1332,-3496.7714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柘植歯科医院,三重県四日市市北町３-１６,歯科,,,9" xlink:title="柘植歯科医院" transform="ref(svg,13662.5625,-3497.1136)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかもと歯科医院,三重県四日市市富田２-５８１-１,歯科　小児歯科　口腔外科,,,9" xlink:title="さかもと歯科医院" transform="ref(svg,13665.5058,-3500.6338)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オー，デンタルクリニック四日市北,三重県四日市市富州原町２-４０イオンモール四日市北２Ｆ,歯科　小児歯科　矯正歯科,,,9" xlink:title="オー，デンタルクリニック四日市北" transform="ref(svg,13665.695,-3500.7764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スズキ歯科医院,三重県四日市市浜田町３-１２四日市三交ビル３階,歯科,,,9" xlink:title="スズキ歯科医院" transform="ref(svg,13662.0694,-3496.5275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おびら歯科医院,三重県四日市市尾平町天王川原１８０５ジャスコ四日市尾平店３階,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="おびら歯科医院" transform="ref(svg,13659.1076,-3497.7315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はやかわ矯正歯科,三重県四日市市八田２-１１６７-１,矯正歯科,,,9" xlink:title="はやかわ矯正歯科" transform="ref(svg,13664.2372,-3499.2299)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アイ歯科,三重県四日市市泊小柳町２２２６,歯科　小児歯科,,,9" xlink:title="アイ歯科" transform="ref(svg,13660.1547,-3494.0528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大久保歯科医院,三重県四日市市南浜田町８-３７,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="大久保歯科医院" transform="ref(svg,13661.4888,-3496.0229)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,羽田歯科,三重県四日市市中野町１０３７-２,歯科,,,9" xlink:title="羽田歯科" transform="ref(svg,13655.8402,-3504.5351)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うすい歯科,三重県四日市市中浜田町３-２８大進ビル２階,歯科　小児歯科　口腔外科,,,9" xlink:title="うすい歯科" transform="ref(svg,13661.8758,-3496.2458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）良心会中尾歯科桜診療所,三重県四日市市智積町武佐６３５３-１,歯科　小児歯科　口腔外科,,,9" xlink:title="（医）良心会中尾歯科桜診療所" transform="ref(svg,13654.3303,-3499.6116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,三重県四日市市滝川町６-２３,歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,13662.2881,-3497.6046)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科,三重県四日市市西日野町３１６２,歯科　小児歯科,,,9" xlink:title="後藤歯科" transform="ref(svg,13658.6051,-3495.4978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆり歯科クリニック,三重県四日市市生桑町２４５１-７,歯科,,,9" xlink:title="ゆり歯科クリニック" transform="ref(svg,13659.8676,-3499.0546)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アイデンタルオフィス,三重県四日市市生桑町１１７,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="アイデンタルオフィス" transform="ref(svg,13660.2692,-3498.8417)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,セントラル歯科クリニック,三重県四日市市新町６-８,歯科　小児歯科　口腔外科,,,9" xlink:title="セントラル歯科クリニック" transform="ref(svg,13663.0209,-3496.5906)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおにしファミリー歯科,三重県四日市市芝田１-１-６ザ・グレース１-Ｂ,歯科　小児歯科,,,9" xlink:title="おおにしファミリー歯科" transform="ref(svg,13660.9208,-3496.6992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東歯科医院,三重県四日市市諏訪町３-１５,歯科　小児歯科,,,9" xlink:title="東歯科医院" transform="ref(svg,13662.4029,-3496.5407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルクリニック菊池歯科医院,三重県四日市市諏訪栄町６-３フォーデイワンビル３階,歯科,,,9" xlink:title="デンタルクリニック菊池歯科医院" transform="ref(svg,13661.981,-3496.6812)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みらい歯科,三重県四日市市山城町７４５-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="みらい歯科" transform="ref(svg,13658.3928,-3503.3725)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,市川歯科,三重県四日市市山城町１１４９-１,歯科　小児歯科,,,9" xlink:title="市川歯科" transform="ref(svg,13658.9381,-3503.5572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科,三重県四日市市三重１-２メインセンター内,歯科　小児歯科　矯正歯科,,,9" xlink:title="スマイル歯科" transform="ref(svg,13658.9773,-3499.1425)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,カタオカビル小児歯科,三重県四日市市三栄町３-１４カタオカビル２階,歯科　小児歯科　矯正歯科,,,9" xlink:title="カタオカビル小児歯科" transform="ref(svg,13662.2329,-3496.4434)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂井歯科,三重県四日市市桜町５４７,歯科,,,9" xlink:title="坂井歯科" transform="ref(svg,13653.9073,-3499.6188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜いとう歯科,三重県四日市市桜町１-８１,歯科　小児歯科,,,9" xlink:title="桜いとう歯科" transform="ref(svg,13652.7253,-3498.3814)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）良友会中尾歯科金場診療所,三重県四日市市金場町１-７,歯科　小児歯科　口腔外科,,,9" xlink:title="（医）良友会中尾歯科金場診療所" transform="ref(svg,13663.2997,-3498.4516)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,三重県四日市市京町２-２７,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13662.7796,-3497.6942)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅谷歯科医院,三重県四日市市沖の島町１-１８,歯科　小児歯科　矯正歯科,,,9" xlink:title="菅谷歯科医院" transform="ref(svg,13662.6635,-3496.5567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しおはま歯科,三重県四日市市塩浜本町２-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="しおはま歯科" transform="ref(svg,13662.1612,-3493.1397)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西城歯科,三重県四日市市安島２-１０-９,歯科,,,9" xlink:title="西城歯科" transform="ref(svg,13661.4452,-3496.9531)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きり矯正歯科クリニック,三重県四日市市安島１-２-１８三誠ビル７階,矯正歯科,,,9" xlink:title="きり矯正歯科クリニック" transform="ref(svg,13661.7456,-3496.8082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山下歯科医院,三重県四日市市日永西２-２０-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="山下歯科医院" transform="ref(svg,13659.8473,-3495.1636)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷口歯科,三重県四日市市中川原１-６-２６,歯科　小児歯科　口腔外科　矯正歯科,,,9" xlink:title="谷口歯科" transform="ref(svg,13660.4942,-3496.7969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ライオンズ北勢歯科,三重県四日市市西日野町小溝野４０５２-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="ライオンズ北勢歯科" transform="ref(svg,13658.7668,-3495.1276)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,羽田歯科医院,三重県四日市市西松本町４-１６,歯科,,,9" xlink:title="羽田歯科医院" transform="ref(svg,13658.6188,-3497.0569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小杉歯科医院,三重県四日市市小杉町１９１０,歯科,,,9" xlink:title="小杉歯科医院" transform="ref(svg,13661.2457,-3499.4464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）笹川歯科,三重県四日市市笹川２-１９,歯科,,,9" xlink:title="（医）笹川歯科" transform="ref(svg,13657.5899,-3495.2319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,檜垣歯科医院,三重県四日市市鵜の森１-２-７,歯科,,,9" xlink:title="檜垣歯科医院" transform="ref(svg,13661.7699,-3496.5245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河合歯科医院,三重県四日市市鵜の森１-１０-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="河合歯科医院" transform="ref(svg,13661.4913,-3496.5806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂井ファミリー歯科,三重県四日市市西浜田町６-１３,歯科　小児歯科　矯正歯科,,,9" xlink:title="坂井ファミリー歯科" transform="ref(svg,13661.3805,-3496.2559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タカダ歯科医院,三重県四日市市生桑町１６８７-１,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="タカダ歯科医院" transform="ref(svg,13659.5232,-3498.2961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）岩崎歯科医院,三重県四日市市朝日町１-１,歯科　小児歯科　口腔外科,,,9" xlink:title="（医）岩崎歯科医院" transform="ref(svg,13662.7142,-3496.3071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科診療所,三重県四日市市中村町字浮田７６２-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="伊藤歯科診療所" transform="ref(svg,13660.4388,-3503.121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハーモニィ歯科,三重県四日市市高角町２７３２-１,歯科　小児歯科　口腔外科,,,9" xlink:title="ハーモニィ歯科" transform="ref(svg,13655.3445,-3498.223)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山内歯科,三重県四日市市小杉新町１３８,歯科　小児歯科,,,9" xlink:title="山内歯科" transform="ref(svg,13660.7849,-3499.908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しばた歯科,三重県四日市市諏訪栄町５-１マルキビル２Ｆ,歯科　小児歯科,,,9" xlink:title="しばた歯科" transform="ref(svg,13662.0757,-3496.6117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かたうら歯科医院,三重県四日市市高角町字宮の前６４０-１,歯科　口腔外科,,,9" xlink:title="かたうら歯科医院" transform="ref(svg,13656.3754,-3498.3766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かたやま歯科,三重県四日市市松原町３４-１０,歯科　小児歯科　口腔外科,,,9" xlink:title="かたやま歯科" transform="ref(svg,13665.2696,-3501.273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科,三重県四日市市大字茂福１０８-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="さいとう歯科" transform="ref(svg,13664.6185,-3500.5732)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,四日市市歯科医療センター,三重県四日市市本町９-１２,歯科,,,9" xlink:title="四日市市歯科医療センター" transform="ref(svg,13662.8977,-3496.5208)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うさぎ歯科,三重県四日市市采女が丘１-１６０,歯科,,,9" xlink:title="うさぎ歯科" transform="ref(svg,13658.2515,-3491.7052)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,らいおん歯科,三重県四日市市下さざらい町１３-１９,歯科　小児歯科　矯正歯科,,,9" xlink:title="らいおん歯科" transform="ref(svg,13664.0734,-3501.9779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大歯科クリニック,三重県四日市市九の城町１５-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="大歯科クリニック" transform="ref(svg,13661.5916,-3496.3443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科,三重県四日市市天ヵ須賀５-２-６,歯科,,,9" xlink:title="さとう歯科" transform="ref(svg,13666.5651,-3501.2097)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すぎはら歯科,三重県四日市市上海老町７１２,歯科　小児歯科,,,9" xlink:title="すぎはら歯科" transform="ref(svg,13656.0561,-3502.1301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今村歯科クリニック,三重県四日市市七つ屋町１９,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="今村歯科クリニック" transform="ref(svg,13662.5139,-3493.6548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,波木ヶ丘歯科医院,三重県四日市市波木町４０５-１６,歯科　小児歯科,,,9" xlink:title="波木ヶ丘歯科医院" transform="ref(svg,13657.1095,-3493.9146)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,多田歯科医院,三重県四日市市泊塚原町８３４-１,歯科　小児歯科,,,9" xlink:title="多田歯科医院" transform="ref(svg,13659.2555,-3494.2754)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科,三重県四日市市桜町字西沢１２７８-３,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="さくら歯科" transform="ref(svg,13652.9691,-3499.4036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡村歯科医院,三重県四日市市桜台本町３５-１,歯科,,,9" xlink:title="岡村歯科医院" transform="ref(svg,13653.7852,-3499.0076)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阿倉川歯科医院,三重県四日市市阿倉川町１２-３,歯科　小児歯科,,,9" xlink:title="阿倉川歯科医院" transform="ref(svg,13662.5912,-3498.6761)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺嶋歯科,三重県四日市市小林町３００８,歯科　小児歯科　矯正歯科,,,9" xlink:title="寺嶋歯科" transform="ref(svg,13654.7928,-3495.4947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひぐち歯科クリニック,三重県四日市市松原町５-２８,歯科　小児歯科,,,9" xlink:title="ひぐち歯科クリニック" transform="ref(svg,13665.6138,-3501.0165)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほんごう歯科,三重県四日市市伊坂台１-１６７,歯科　小児歯科,,,9" xlink:title="ほんごう歯科" transform="ref(svg,13662.7583,-3504.2182)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すずき歯科クリニック,三重県四日市市松寺１-５-２１,歯科　小児歯科,,,9" xlink:title="すずき歯科クリニック" transform="ref(svg,13665.5225,-3502.1328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日永歯科,三重県四日市市日永西３-１-１６,歯科　小児歯科　口腔外科,,,9" xlink:title="日永歯科" transform="ref(svg,13659.9338,-3495.1037)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわむら歯科医院,三重県四日市市曽井町東門田６０-１,歯科　小児歯科,,,9" xlink:title="かわむら歯科医院" transform="ref(svg,13657.8353,-3498.1561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤矯正歯科,三重県四日市市諏訪栄町１-４,矯正歯科,,,9" xlink:title="加藤矯正歯科" transform="ref(svg,13662.1943,-3496.5928)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,元町歯科,三重県四日市市元町９-２,歯科　小児歯科,,,9" xlink:title="元町歯科" transform="ref(svg,13662.0882,-3497.0901)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）辻歯科医院,三重県四日市市川島町字山神谷６０００-１４４,歯科　小児歯科　口腔外科　矯正歯科,,,9" xlink:title="（医）辻歯科医院" transform="ref(svg,13655.9229,-3497.7581)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわしま歯科,三重県四日市市高角町字境田２５６４-１,歯科　小児歯科,,,9" xlink:title="かわしま歯科" transform="ref(svg,13655.8851,-3497.9814)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）桜花台おかべ歯科,三重県四日市市桜花台１-４８-６,歯科,,,9" xlink:title="（医）桜花台おかべ歯科" transform="ref(svg,13653.1814,-3498.9612)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）慈修会あおば歯科,三重県四日市市大宮西町１１-８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）慈修会あおば歯科" transform="ref(svg,13662.742,-3499.2905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺本歯科医院,三重県四日市市天ヶ須賀２-２３-２５,歯科　小児歯科　矯正歯科,,,9" xlink:title="寺本歯科医院" transform="ref(svg,13666.9145,-3501.2924)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水谷歯科医院,三重県四日市市小杉町中才３０５-１,歯科　小児歯科,,,9" xlink:title="水谷歯科医院" transform="ref(svg,13660.5764,-3498.8611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆう歯科,三重県四日市市笹川５-６４-８,歯科　小児歯科　矯正歯科,,,9" xlink:title="ゆう歯科" transform="ref(svg,13657.3743,-3494.6201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡本歯科,三重県四日市市元新町５-１７,歯科　小児歯科,,,9" xlink:title="岡本歯科" transform="ref(svg,13662.7459,-3496.8066)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科クリニック,三重県四日市市浮橋１-１３-３,歯科　小児歯科,,,9" xlink:title="さいとう歯科クリニック" transform="ref(svg,13657.6264,-3496.9468)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科,三重県四日市市伊坂町１７６３-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="成田歯科" transform="ref(svg,13662.704,-3503.0838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,生川歯科,三重県四日市市富田３-１-１,歯科　小児歯科　口腔外科,,,9" xlink:title="生川歯科" transform="ref(svg,13665.2014,-3500.5076)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あせち歯科,三重県四日市市昌栄町２-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あせち歯科" transform="ref(svg,13662.703,-3495.9576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）滋誠会デンタルクリニックフクオカ,三重県四日市市鵜の森１-４-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）滋誠会デンタルクリニックフクオカ" transform="ref(svg,13661.5449,-3496.6234)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みたき歯科医院,三重県四日市市小生町７９５,歯科,,,9" xlink:title="みたき歯科医院" transform="ref(svg,13657.2067,-3497.7541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科クリニック,三重県四日市市ときわ２-１１-３,歯科　小児歯科　口腔外科,,,9" xlink:title="川村歯科クリニック" transform="ref(svg,13659.603,-3496.6694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なんの歯科クリニック,三重県四日市市三栄町２-１５,歯科　小児歯科,,,9" xlink:title="なんの歯科クリニック" transform="ref(svg,13662.3059,-3496.4444)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,三重県四日市市相生町１-５,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13663.2304,-3496.4157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みふく歯科医院,三重県四日市市みゆきヶ丘２-１４７３-１３６,歯科　小児歯科　矯正歯科,,,9" xlink:title="みふく歯科医院" transform="ref(svg,13661.7915,-3499.8839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科,三重県四日市市小林町字小林新田９２６-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="よしだ歯科" transform="ref(svg,13654.9603,-3495.542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）早川歯科医院,三重県四日市市東富田町１１-１５,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）早川歯科医院" transform="ref(svg,13665.4063,-3500.2347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たつみ歯科,三重県四日市市松原町１５-１３,歯科　小児歯科　矯正歯科,,,9" xlink:title="たつみ歯科" transform="ref(svg,13665.7068,-3501.1652)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本郷歯科医院,三重県四日市市小古曽１-６-１７,歯科　小児歯科,,,9" xlink:title="本郷歯科医院" transform="ref(svg,13659.3639,-3493.2968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うねめ歯科,三重県四日市市采女町２０４２-２,歯科,,,9" xlink:title="うねめ歯科" transform="ref(svg,13658.1031,-3492.055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内部歯科,三重県四日市市采女町１５６６-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="内部歯科" transform="ref(svg,13657.6226,-3492.5422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,三重県四日市市久保田１-２４１-１,歯科　小児歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13660.8465,-3497.3356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三鈴歯科,三重県四日市市鹿間町市場１９３-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="三鈴歯科" transform="ref(svg,13653.4601,-3492.6452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イトウ歯科クリニック,三重県四日市市富田一色町２-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="イトウ歯科クリニック" transform="ref(svg,13665.9327,-3500.4928)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐竹歯科医院,三重県四日市市中里町２９-４,歯科,,,9" xlink:title="佐竹歯科医院" transform="ref(svg,13661.834,-3493.0212)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅野歯科医院,三重県四日市市赤堀１-３-３３,歯科　小児歯科,,,9" xlink:title="浅野歯科医院" transform="ref(svg,13661.3239,-3496.0196)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）川田歯科,三重県四日市市下海老町４３９７-２,歯科　小児歯科,,,9" xlink:title="（医）川田歯科" transform="ref(svg,13656.5483,-3500.6576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,三重県四日市市阿倉川町９-１７,歯科　小児歯科,,,9" xlink:title="前田歯科医院" transform="ref(svg,13662.8546,-3498.5115)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）モリ歯科,三重県四日市市栄町４-１４,歯科,,,9" xlink:title="（医）モリ歯科" transform="ref(svg,13662.8616,-3496.4392)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中野歯科,三重県四日市市河原田町１４０１-１１１,歯科,,,9" xlink:title="中野歯科" transform="ref(svg,13659.7588,-3491.5319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科,三重県四日市市八田１-１-１０,歯科,,,9" xlink:title="山田歯科" transform="ref(svg,13663.963,-3499.0614)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,泊山歯科医院,三重県四日市市泊山崎町２-１４,歯科,,,9" xlink:title="泊山歯科医院" transform="ref(svg,13659.742,-3494.0367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野崎歯科医院,三重県四日市市楠町南五味塚２９０-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="野崎歯科医院" transform="ref(svg,13663.5809,-3490.7663)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,三重県四日市市楠町小倉７６５-１,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13662.5993,-3492.2056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永田小児歯科医院,三重県三重郡川越町豊田３２４,小児歯科,,,9" xlink:title="永田小児歯科医院" transform="ref(svg,13666.3015,-3501.5265)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,陣田歯科,三重県三重郡川越町大字豊田１８８-２,歯科　小児歯科,,,9" xlink:title="陣田歯科" transform="ref(svg,13666.028,-3501.311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森谷歯科,三重県三重郡川越町大字豊田２７３,歯科　小児歯科,,,9" xlink:title="森谷歯科" transform="ref(svg,13666.0735,-3501.6316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永田歯科医院,三重県三重郡川越町大字豊田３２４,歯科,,,9" xlink:title="永田歯科医院" transform="ref(svg,13666.3049,-3501.5253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いながき歯科,三重県三重郡菰野町福村４２０-３,歯科　小児歯科,,,9" xlink:title="いながき歯科" transform="ref(svg,13652.9146,-3501.0623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科,三重県三重郡菰野町田光２２３０,歯科　小児歯科,,,9" xlink:title="伊藤歯科" transform="ref(svg,13650.554,-3507.1408)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山中歯科医院,三重県三重郡菰野町大字菰野８２６,歯科,,,9" xlink:title="山中歯科医院" transform="ref(svg,13651.6778,-3501.0348)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山根歯科医院,三重県三重郡菰野町大字菰野１４２２,歯科　小児歯科,,,9" xlink:title="山根歯科医院" transform="ref(svg,13651.4336,-3501.1138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋山歯科,三重県三重郡菰野町大強原牛池３８２７,一般歯科　小児歯科　矯正歯科,,,9" xlink:title="秋山歯科" transform="ref(svg,13653.2425,-3503.6099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はやし歯科医院,三重県三重郡菰野町菰野１７１７-１,歯科　小児歯科　口腔外科,,,9" xlink:title="はやし歯科医院" transform="ref(svg,13650.9359,-3501.4148)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ミルク歯科クリニック,三重県三重郡菰野町大字大強原字西北沢３７８９-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ミルク歯科クリニック" transform="ref(svg,13653.1041,-3503.6111)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福村歯科,三重県三重郡菰野町大字福村８３-１,歯科　小児歯科,,,9" xlink:title="福村歯科" transform="ref(svg,13652.0177,-3500.9355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北町もり歯科,三重県亀山市北町３９０-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北町もり歯科" transform="ref(svg,13646.6956,-3485.8531)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細川歯科,三重県津市芸濃町椋本５０３１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="細川歯科" transform="ref(svg,13642.9469,-3481.1831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武藤歯科医院,三重県津市河芸町千里ヶ丘４０-１８,歯科,,,9" xlink:title="武藤歯科医院" transform="ref(svg,13654.6718,-3480.4866)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おぐら歯科医院,三重県三重郡菰野町音羽東雲６５９-１,歯科　小児歯科　口腔外科,,,9" xlink:title="おぐら歯科医院" transform="ref(svg,13650.2582,-3502.9247)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉川歯科医院,三重県桑名市有楽町６５富士ビル４Ｆ,歯科　小児歯科,,,9" xlink:title="吉川歯科医院" transform="ref(svg,13668.4938,-3506.7325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小笠原歯科医院,三重県桑名市野田４-７-１７,歯科,,,9" xlink:title="小笠原歯科医院" transform="ref(svg,13663.1094,-3508.4286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川瀬歯科,三重県桑名市野田１-７-２４,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="川瀬歯科" transform="ref(svg,13663.4446,-3507.7804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きもと歯科,三重県桑名市北別所字流１５８４-４,歯科　小児歯科,,,9" xlink:title="きもと歯科" transform="ref(svg,13667.4463,-3507.7785)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中野歯科医院,三重県桑名市北寺町３０,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="中野歯科医院" transform="ref(svg,13669.1849,-3506.6347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水谷歯科クリニック,三重県桑名市芳ヶ崎１２５８-１,歯科,,,9" xlink:title="水谷歯科クリニック" transform="ref(svg,13661.8611,-3507.3053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星野歯科医院,三重県桑名市東方堀江町２２０,歯科　小児歯科,,,9" xlink:title="星野歯科医院" transform="ref(svg,13668.058,-3506.9659)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ういち歯科,三重県桑名市東方細貝道１０７９-７,歯科　小児歯科,,,9" xlink:title="ういち歯科" transform="ref(svg,13668.0606,-3507.5426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,正和台うかい歯科,三重県桑名市東正和台１-７-１０,歯科　小児歯科,,,9" xlink:title="正和台うかい歯科" transform="ref(svg,13663.3349,-3505.1045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,三重県桑名市長島町又木字熊沢６６-１,歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13670.1082,-3509.3965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津田歯科医院,三重県桑名市長島町又木字熊沢６２-５,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="津田歯科医院" transform="ref(svg,13670.2645,-3509.5005)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なばな歯科医院,三重県桑名市長島町福豊８３３-４,歯科　小児歯科　口腔外科,,,9" xlink:title="なばな歯科医院" transform="ref(svg,13671.8211,-3506.0974)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじた歯科,三重県桑名市長島町西外面１５８０-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="ふじた歯科" transform="ref(svg,13669.6101,-3509.7065)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,セントラル歯科,三重県桑名市中央町２-３４,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="セントラル歯科" transform="ref(svg,13668.5041,-3506.2799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナカムラ小児歯科,三重県桑名市中央町１-５６,小児歯科,,,9" xlink:title="ナカムラ小児歯科" transform="ref(svg,13668.5322,-3506.3879)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ヒルカワ歯科,三重県桑名市大字矢田７６５,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）ヒルカワ歯科" transform="ref(svg,13667.8346,-3505.9006)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,三重県桑名市大字矢田３１８,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13667.5534,-3506.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆうせい歯科クリニック,三重県桑名市大字播磨字ダリ２３６５-１,歯科　小児歯科,,,9" xlink:title="ゆうせい歯科クリニック" transform="ref(svg,13666.7664,-3507.8193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アップル歯科,三重県桑名市大字大福字雀塚４７２-２,歯科,,,9" xlink:title="アップル歯科" transform="ref(svg,13668.5934,-3504.5727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みずの歯科,三重県桑名市大字大福字宮東３０５-１,歯科　小児歯科,,,9" xlink:title="みずの歯科" transform="ref(svg,13668.5922,-3505.3789)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科医院,三重県桑名市大字西別所字石曽根９４５-３,歯科,,,9" xlink:title="かとう歯科医院" transform="ref(svg,13665.2497,-3505.7876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）山崎歯科医院,三重県桑名市大字江場字江場屋敷３４９-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）山崎歯科医院" transform="ref(svg,13668.9867,-3505.2918)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松岡歯科,三重県桑名市大字桑部５３５-４,歯科　小児歯科,,,9" xlink:title="松岡歯科" transform="ref(svg,13665.4217,-3505.2472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高阪歯科医院,三重県桑名市大字額田１６２２-６,歯科　小児歯科　口腔外科,,,9" xlink:title="高阪歯科医院" transform="ref(svg,13663.4607,-3506.253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,厚生歯科,三重県桑名市大字下深谷部２２２１,歯科　小児歯科,,,9" xlink:title="厚生歯科" transform="ref(svg,13666.1238,-3509.5968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大山田丹羽歯科,三重県桑名市大山田１-１１-３,歯科　小児歯科　口腔外科,,,9" xlink:title="大山田丹羽歯科" transform="ref(svg,13663.8917,-3507.9408)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水越歯科医院,三重県桑名市大橋通１-３４６-１,歯科　小児歯科,,,9" xlink:title="水越歯科医院" transform="ref(svg,13668.616,-3507.183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むつみ歯科クリニック,三重県桑名市大央町４８-５,歯科　小児歯科,,,9" xlink:title="むつみ歯科クリニック" transform="ref(svg,13668.8943,-3506.0504)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,船橋歯科,三重県桑名市多度町戸津４７０-５,歯科　小児歯科,,,9" xlink:title="船橋歯科" transform="ref(svg,13664.5556,-3513.655)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科医院,三重県桑名市西別所１２００-３１３,歯科,,,9" xlink:title="小川歯科医院" transform="ref(svg,13666.0544,-3506.2091)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,三重県桑名市清水町１４-２,歯科　小児歯科,,,9" xlink:title="木村歯科医院" transform="ref(svg,13669.2548,-3506.7436)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ファミリー歯科クリニック,三重県桑名市星川８４１-１,歯科　小児歯科,,,9" xlink:title="ファミリー歯科クリニック" transform="ref(svg,13662.8748,-3506.606)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星見いとう歯科,三重県桑名市星見ヶ丘６-１０５,歯科　小児歯科,,,9" xlink:title="星見いとう歯科" transform="ref(svg,13663.5191,-3506.7515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星見ヶ丘田中歯科医院,三重県桑名市星見ヶ丘２-６０８,歯科　小児歯科　矯正歯科,,,9" xlink:title="星見ヶ丘田中歯科医院" transform="ref(svg,13663.212,-3507.5916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星見歯科クリニック,三重県桑名市星見ヶ丘１-４０６-３,歯科　小児歯科,,,9" xlink:title="星見歯科クリニック" transform="ref(svg,13663.5956,-3507.5295)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きじまデンタルクリニック,三重県桑名市新矢田２-７-１第２コアビル２Ｆ,歯科　口腔外科,,,9" xlink:title="きじまデンタルクリニック" transform="ref(svg,13668.5045,-3506.1493)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,辻歯科医院,三重県桑名市新矢田１-６３-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="辻歯科医院" transform="ref(svg,13668.0823,-3505.9993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科,三重県桑名市新西方４-８３,歯科　小児歯科　矯正歯科,,,9" xlink:title="スマイル歯科" transform="ref(svg,13665.721,-3507.2243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くわな歯科医院,三重県桑名市新西方１-２２-３２１イオン桑名ＳＣ１-街アンク専門店街３Ｆ,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="くわな歯科医院" transform="ref(svg,13666.2249,-3507.2175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）維仁会松の木ゆう歯科,三重県桑名市松ノ木７-８-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）維仁会松の木ゆう歯科" transform="ref(svg,13664.2928,-3507.3869)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本矯正歯科,三重県桑名市寿町３-６７-２,矯正歯科,,,9" xlink:title="山本矯正歯科" transform="ref(svg,13668.7116,-3506.5537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こんどう歯科,三重県桑名市桜通１８,歯科　小児歯科,,,9" xlink:title="こんどう歯科" transform="ref(svg,13667.4819,-3506.5233)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,三重県桑名市坂井５１８-３,歯科　小児歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13663.2837,-3506.0693)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山歯科医院,三重県桑名市江場松原１６２０,歯科　小児歯科,,,9" xlink:title="中山歯科医院" transform="ref(svg,13668.0242,-3505.3255)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石垣歯科医院,三重県桑名市江場２-６５-２,歯科,,,9" xlink:title="石垣歯科医院" transform="ref(svg,13667.9111,-3505.3192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）一信会桑栄歯科,三重県桑名市桑栄町２桑栄ビル３Ｆ,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="（医）一信会桑栄歯科" transform="ref(svg,13668.4611,-3506.7144)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丹羽歯科,三重県桑名市伊賀町４７,歯科,,,9" xlink:title="丹羽歯科" transform="ref(svg,13669.9288,-3505.9851)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科医院,三重県桑名市安永２-１１０１-５,歯科　小児歯科,,,9" xlink:title="川村歯科医院" transform="ref(svg,13668.0256,-3505.1242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大塩歯科医院,三重県桑名郡木曽岬町大字中和泉９７-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="大塩歯科医院" transform="ref(svg,13674.2104,-3507.26)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科医院,三重県桑名郡木曽岬町大字西対海地２６-１,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="服部歯科医院" transform="ref(svg,13673.031,-3507.9375)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,三重県亀山市和田町１４８８-２７４,歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13647.3854,-3485.7436)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塚田歯科医院,三重県亀山市本町３-１０-４,歯科　小児歯科,,,9" xlink:title="塚田歯科医院" transform="ref(svg,13645.9383,-3485.5723)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,キンダーガーデン小児歯科,三重県亀山市東台町１-１１,小児歯科　矯正歯科,,,9" xlink:title="キンダーガーデン小児歯科" transform="ref(svg,13645.8111,-3485.5297)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）一信会亀山歯科診療所,三重県亀山市東御幸町９６-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）一信会亀山歯科診療所" transform="ref(svg,13645.3585,-3485.0443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金原歯科医院,三重県亀山市長明寺町字中一色５９４-２,歯科　小児歯科,,,9" xlink:title="金原歯科医院" transform="ref(svg,13647.5659,-3487.7362)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡本歯科医院,三重県亀山市市ケ坂町６９７,歯科,,,9" xlink:title="岡本歯科医院" transform="ref(svg,13644.738,-3485.5537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋本歯科医院,三重県亀山市御幸町２３１,歯科,,,9" xlink:title="秋本歯科医院" transform="ref(svg,13645.095,-3485.0566)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保田歯科クリニック,三重県亀山市亀田町３８０-２３,歯科,,,9" xlink:title="久保田歯科クリニック" transform="ref(svg,13645.382,-3486.5482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,生川歯科,三重県亀山市阿野田町１６７４-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="生川歯科" transform="ref(svg,13646.3015,-3484.4946)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,三重県亀山市みどり町５５-２１,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13648.415,-3487.0718)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,落合歯科クリニック,三重県亀山市みずほ台１-３１２,歯科　小児歯科,,,9" xlink:title="落合歯科クリニック" transform="ref(svg,13647.5924,-3487.0258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトウ歯科医院,三重県員弁郡東員町六把野新田７５８-２,歯科　小児歯科,,,9" xlink:title="サトウ歯科医院" transform="ref(svg,13659.3227,-3508.1032)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大長歯科,三重県員弁郡東員町長深３３８３,歯科　小児歯科　矯正歯科,,,9" xlink:title="大長歯科" transform="ref(svg,13656.7819,-3506.1334)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどり歯科医院,三重県員弁郡東員町大字六把野新田字東福塚４２８-３,歯科　小児歯科,,,9" xlink:title="みどり歯科医院" transform="ref(svg,13660.2167,-3507.6065)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩田歯科医院,三重県員弁郡東員町大字大木字東六把野１９４８-１,歯科,,,9" xlink:title="岩田歯科医院" transform="ref(svg,13658.2595,-3508.0238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科,三重県員弁郡東員町城山１-２２-１,歯科,,,9" xlink:title="中島歯科" transform="ref(svg,13660.4255,-3509.2895)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,香川歯科医院,三重県員弁郡東員町笹尾東３-２-９,歯科　小児歯科,,,9" xlink:title="香川歯科医院" transform="ref(svg,13659.8363,-3509.9458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ツボイ歯科,三重県員弁郡東員町笹尾東２-３-１３,歯科,,,9" xlink:title="ツボイ歯科" transform="ref(svg,13659.8506,-3509.5487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科,三重県四日市市大治田１-２-２１,歯科　小児歯科　矯正歯科,,,9" xlink:title="橋本歯科" transform="ref(svg,13659.8567,-3493.3664)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,生桑いとう歯科医院,三重県四日市市生桑町字高田６５１-２,歯科,,,9" xlink:title="生桑いとう歯科医院" transform="ref(svg,13659.8249,-3498.2726)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せつ歯科医院,三重県四日市市鵜の森１-２-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="せつ歯科医院" transform="ref(svg,13661.7784,-3496.5421)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,三重県四日市市楠町大字南五味塚１９７-５,歯科　小児歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13663.7566,-3490.5065)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古橋歯科,三重県四日市市楠町北五味塚２０６０-１６９,歯科　小児歯科,,,9" xlink:title="古橋歯科" transform="ref(svg,13662.6015,-3491.498)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柿沢歯科クリニック,三重県三重郡朝日町柿５４１,歯科　小児歯科,,,9" xlink:title="柿沢歯科クリニック" transform="ref(svg,13666.6924,-3503.173)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさひ歯科,三重県三重郡朝日町縄生５２３-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="あさひ歯科" transform="ref(svg,13667.0735,-3503.9361)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,六石歯科医院,三重県いなべ市北勢町麻生田３３１５-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="六石歯科医院" transform="ref(svg,13653.3518,-3514.2081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アゲキ歯科医院,三重県いなべ市北勢町阿下喜字塚原７１７-３,歯科,,,9" xlink:title="アゲキ歯科医院" transform="ref(svg,13651.6284,-3514.6159)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなか歯科,三重県いなべ市北勢町阿下喜８２４,歯科　小児歯科,,,9" xlink:title="たなか歯科" transform="ref(svg,13651.972,-3514.5904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,三重県いなべ市北勢町阿下喜１０５８,歯科　小児歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13651.8876,-3514.8754)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハギノ歯科,三重県いなべ市大安町平塚上松崎１８１４-２,一般歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ハギノ歯科" transform="ref(svg,13653.9736,-3509.5809)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,門脇歯科,三重県いなべ市大安町梅戸６６８,歯科,,,9" xlink:title="門脇歯科" transform="ref(svg,13655.6787,-3507.9176)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）とまと歯科,三重県いなべ市大安町丹生川久下１７１２-２,歯科　小児歯科,,,9" xlink:title="（医）とまと歯科" transform="ref(svg,13652.5412,-3512.395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかもと歯科,三重県いなべ市大安町石榑東１８５３-７,歯科　小児歯科,,,9" xlink:title="おかもと歯科" transform="ref(svg,13652.8448,-3510.7868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にい歯科・矯正歯科,三重県いなべ市員弁町石仏字段１９０６-４,歯科　矯正歯科,,,9" xlink:title="にい歯科・矯正歯科" transform="ref(svg,13656.4643,-3511.1947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,三重県いなべ市員弁町上笠田茶屋の下１６７８-５,一般歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13655.1752,-3512.1447)" x="0" y="0"/>
+</g>
+</svg>

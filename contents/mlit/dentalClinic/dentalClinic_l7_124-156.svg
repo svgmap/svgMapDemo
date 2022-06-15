@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13359.375 -3515.625 35.15625 35.15625" go:dataArea="13359.375 -3515.625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,石井歯科医院,岡山県加賀郡吉備中央町尾原６２２,歯科,,,9" xlink:title="石井歯科医院" transform="ref(svg,13375.6227,-3491.7755)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森歯科医院,岡山県加賀郡吉備中央町豊野８５,歯科,,,9" xlink:title="大森歯科医院" transform="ref(svg,13369.5189,-3486.3263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒瀬歯科医院,岡山県加賀郡吉備中央町湯山１０６９-８,歯科,,,9" xlink:title="黒瀬歯科医院" transform="ref(svg,13374.0183,-3485.7935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろおか歯科医院,岡山県加賀郡吉備中央町下加茂１０５１-１４,歯科　小児歯科,,,9" xlink:title="ひろおか歯科医院" transform="ref(svg,13380.8576,-3486.1242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしかわ歯科医院,岡山県岡山市北区建部町宮地３１-１,歯科,,,9" xlink:title="いしかわ歯科医院" transform="ref(svg,13390.6852,-3485.5002)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科医院,岡山県岡山市北区建部町福渡９９１-３,歯科　小児歯科,,,9" xlink:title="杉山歯科医院" transform="ref(svg,13390.5872,-3486.473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,難波歯科クリニック,岡山県高梁市巨瀬町５０８１-１,歯科,,,9" xlink:title="難波歯科クリニック" transform="ref(svg,13363.6833,-3487.0816)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科医院,岡山県真庭市勝山３０３,歯科,,,9" xlink:title="飯田歯科医院" transform="ref(svg,13369.2549,-3508.0472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科医院,岡山県真庭市勝山２４３,歯科,,,9" xlink:title="飯田歯科医院" transform="ref(svg,13369.0754,-3508.1672)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科医院,岡山県真庭市下方５７７-２,歯科,,,9" xlink:title="飯田歯科医院" transform="ref(svg,13373.3943,-3500.8874)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）池元歯科,岡山県真庭市富尾９７-１０,歯科,,,9" xlink:title="（医）池元歯科" transform="ref(svg,13375.1167,-3506.5145)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩井歯科医院,岡山県真庭市三田１００,歯科,,,9" xlink:title="岩井歯科医院" transform="ref(svg,13369.012,-3507.9161)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木浦歯科医院,岡山県真庭市目木５３０,歯科,,,9" xlink:title="木浦歯科医院" transform="ref(svg,13378.2207,-3507.6592)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科医院,岡山県真庭市宮地１３３６-４,歯科,,,9" xlink:title="杉山歯科医院" transform="ref(svg,13367.6604,-3497.8603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちはる歯科矯正歯科,岡山県真庭市落合垂水２５０-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="ちはる歯科矯正歯科" transform="ref(svg,13375.0687,-3501.8323)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,岡山県真庭市久世５８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="原歯科医院" transform="ref(svg,13375.1051,-3508.4787)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふくしま歯科医院,岡山県真庭市久世２５０８-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ふくしま歯科医院" transform="ref(svg,13374.5649,-3507.9699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）藤本歯科医院,岡山県真庭市向津矢４００-３,歯科,,,9" xlink:title="（医）藤本歯科医院" transform="ref(svg,13376.126,-3502.3914)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,牧野歯科医院,岡山県真庭市福田３５５-６５,歯科,,,9" xlink:title="牧野歯科医院" transform="ref(svg,13375.3179,-3504.9522)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮島歯科医院,岡山県真庭市月田７３１３-５,歯科　小児歯科,,,9" xlink:title="宮島歯科医院" transform="ref(svg,13366.5651,-3504.6512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）むとう歯科,岡山県真庭市久世２６１８-１,歯科　小児歯科,,,9" xlink:title="（医）むとう歯科" transform="ref(svg,13374.7606,-3507.7429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,薬師寺厚夫歯科医院,岡山県真庭市落合垂水１８９,歯科,,,9" xlink:title="薬師寺厚夫歯科医院" transform="ref(svg,13375.0917,-3501.8803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,薬師寺歯科医院,岡山県真庭市落合垂水８６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="薬師寺歯科医院" transform="ref(svg,13375.1507,-3502.0307)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よこうえ歯科医院,岡山県真庭市下呰部２２-２,歯科,,,9" xlink:title="よこうえ歯科医院" transform="ref(svg,13363.2161,-3495.9899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本多歯科医院,岡山県真庭市上水田３８２６-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="本多歯科医院" transform="ref(svg,13364.8553,-3496.7791)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川歯科医院,岡山県苫田郡鏡野町吉原４０８-７,歯科,,,9" xlink:title="石川歯科医院" transform="ref(svg,13393.6665,-3506.9556)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひら歯科クリニック,岡山県苫田郡鏡野町竹田１３３,歯科,,,9" xlink:title="ひら歯科クリニック" transform="ref(svg,13393.5382,-3509.4397)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,椋代歯科医院,岡山県苫田郡鏡野町古川４１６-１,歯科,,,9" xlink:title="椋代歯科医院" transform="ref(svg,13392.9918,-3507.6351)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こむろ歯科医院,岡山県久米郡美咲町西川９３５-１,歯科　小児歯科,,,9" xlink:title="こむろ歯科医院" transform="ref(svg,13382.7251,-3497.0736)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北歯科医院,岡山県津山市中北下１２６９-９,歯科,,,9" xlink:title="北歯科医院" transform="ref(svg,13389.8724,-3505.9686)" x="0" y="0"/>
+</g>
+</svg>

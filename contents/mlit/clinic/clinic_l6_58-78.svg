@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13078.125 -3515.625 70.3125 70.3125" go:dataArea="13078.125 -3515.625 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,航空自衛隊見島分屯基地医務室,山口県萩市見島１５１８-１,不明,,,9" xlink:title="航空自衛隊見島分屯基地医務室" transform="ref(svg,13113.3494,-3477.2455)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,萩市国民健康保険見島診療所,山口県萩市見島３５-２,内科　小児科　歯科,,,9" xlink:title="萩市国民健康保険見島診療所" transform="ref(svg,13115.0313,-3476.271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,萩市国民健康保険見島診療所宇津分室,山口県萩市見島１８１８-３,内科　小児科,,,9" xlink:title="萩市国民健康保険見島診療所宇津分室" transform="ref(svg,13114.2477,-3478.1548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,オアシスはぎ園診療所,山口県萩市大井１７２３-６,内科,,,9" xlink:title="オアシスはぎ園診療所" transform="ref(svg,13144.6088,-3447.3904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,萩市国民健康保険大島診療所,山口県萩市大島２９０,内科　小児科,,,9" xlink:title="萩市国民健康保険大島診療所" transform="ref(svg,13140.7326,-3449.2257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）河野医院,山口県萩市大井１７２３-１,内科　呼吸器内科　循環器内科　放射線科　整形外科　リハビリテーション科,,,9" xlink:title="（医）河野医院" transform="ref(svg,13144.5868,-3446.9351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,齋藤医院,山口県阿武郡阿武町奈古２８６０-１,内科　外科　消化器内科（胃腸内科）,,,9" xlink:title="齋藤医院" transform="ref(svg,13147.136,-3450.2615)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13833.984375 -3498.046875 17.578125 17.578125" go:dataArea="13833.984375 -3498.046875 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,静岡市健康づくり推進課診療所,静岡県静岡市葵区追手町５-１静岡庁舎１４階,内科　小児科,,,9" xlink:title="静岡市健康づくり推進課診療所" transform="ref(svg,13838.3246,-3497.5405)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡県赤十字血液センタ-青葉出張所医務室,静岡県静岡市葵区七間町８-２０毎日江崎ビル６階,内科,,,9" xlink:title="静岡県赤十字血液センタ-青葉出張所医務室" transform="ref(svg,13838.1651,-3497.3273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡市静岡医師会健診センターＭＥＤＩＯ,静岡県静岡市葵区呉服町１-２０地呉服町タワー２階,内科　産婦人科,,,9" xlink:title="静岡市静岡医師会健診センターＭＥＤＩＯ" transform="ref(svg,13838.0209,-3497.6144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきやま呼吸器クリニック,静岡県静岡市葵区呉服町２-２-３０,呼吸器科　アレルギー科,,,9" xlink:title="あきやま呼吸器クリニック" transform="ref(svg,13838.1997,-3497.4377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健康睡眠会静岡睡眠メディカルクリニック,静岡県静岡市葵区伝馬町９-４一瀬センタービル２Ｆ,内科　呼吸器内科,,,9" xlink:title="（医）健康睡眠会静岡睡眠メディカルクリニック" transform="ref(svg,13838.8503,-3497.5228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三楽会牛山眼科医院,静岡県静岡市葵区御幸町９-９,眼科,,,9" xlink:title="（医）三楽会牛山眼科医院" transform="ref(svg,13838.759,-3497.3612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）翔未会追手町クリニック,静岡県静岡市葵区追手町９-２８興産ビル４階,内科　泌尿器科　泌尿器科（人工透析）,,,9" xlink:title="（医）翔未会追手町クリニック" transform="ref(svg,13838.0468,-3497.7105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健真会城本クリニック静岡院,静岡県静岡市葵区伝馬町９-４一瀬センタービル７Ｆ,形成外科　美容外科　美容皮膚科,,,9" xlink:title="（医）健真会城本クリニック静岡院" transform="ref(svg,13838.8503,-3497.5228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）若葉会宮下医院,静岡県静岡市葵区羽鳥１-７-１３,内科　消化器科　循環器科,,,9" xlink:title="（医）若葉会宮下医院" transform="ref(svg,13834.5263,-3497.9994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,静岡県静岡市葵区梅屋町１-７,耳鼻いんこう科,,,9" xlink:title="伊藤医院" transform="ref(svg,13837.8168,-3497.2801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩-ｱ胃腸科医院,静岡県静岡市葵区北-町９７-１,内科　外科　消化器内科,,,9" xlink:title="岩-ｱ胃腸科医院" transform="ref(svg,13836.9062,-3497.9158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大石内科循環器科医院,静岡県静岡市葵区鷹匠２-６-１,内科　循環器科,,,9" xlink:title="大石内科循環器科医院" transform="ref(svg,13838.7485,-3497.7359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大坪耳鼻咽喉科,静岡県静岡市葵区田町２-１４１-５,耳鼻いんこう科,,,9" xlink:title="大坪耳鼻咽喉科" transform="ref(svg,13836.7734,-3497.3333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡外科胃腸科医院,静岡県静岡市葵区本通西町３９,外科　整形外科　リハビリテーション科　消化器内科　肛門外科,,,9" xlink:title="岡外科胃腸科医院" transform="ref(svg,13837.1747,-3496.4685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,置塩泌尿器科クリニック,静岡県静岡市葵区呉服町１-１-２,泌尿器科,,,9" xlink:title="置塩泌尿器科クリニック" transform="ref(svg,13837.9229,-3497.6166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おもて循環器科,静岡県静岡市葵区馬場町１１０,循環器科,,,9" xlink:title="おもて循環器科" transform="ref(svg,13837.8514,-3497.7952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かげやま医院,静岡県静岡市葵区相生町９-５,循環器科　泌尿器科　性病科,,,9" xlink:title="かげやま医院" transform="ref(svg,13839.2802,-3497.869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,勝又小児科アレルギー科医院,静岡県静岡市葵区紺屋町１２-５,アレルギー科　小児科,,,9" xlink:title="勝又小児科アレルギー科医院" transform="ref(svg,13838.4809,-3497.2427)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北村医院内科・眼科,静岡県静岡市葵区一番町９,内科　眼科　消化器内科　呼吸器内科,,,9" xlink:title="北村医院内科・眼科" transform="ref(svg,13837.4527,-3497.5383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こころとからだのクリニックあおいクリニック,静岡県静岡市葵区昭和町１-６サンフォレスト静岡昭和町ビル５階,精神科　神経科　心療内科,,,9" xlink:title="こころとからだのクリニックあおいクリニック" transform="ref(svg,13838.3946,-3497.2063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三枝クリニック肛門科,静岡県静岡市葵区栄町１-１,こう門科,,,9" xlink:title="三枝クリニック肛門科" transform="ref(svg,13839.0315,-3497.4049)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さざ波てんかん神経クリニック,静岡県静岡市葵区呉服町１-５-２呉服町法月ビル２階Ａ室,心療内科　精神科,,,9" xlink:title="さざ波てんかん神経クリニック" transform="ref(svg,13837.9907,-3497.5898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さそう内科・呼吸器科クリニック,静岡県静岡市葵区大鋸町２-５,内科　呼吸器科　アレルギー科,,,9" xlink:title="さそう内科・呼吸器科クリニック" transform="ref(svg,13837.5613,-3497.275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐野ヒフ科クリニック,静岡県静岡市葵区鷹匠１-１１-１５ＭＩＣ新静岡１階,皮膚科,,,9" xlink:title="佐野ヒフ科クリニック" transform="ref(svg,13838.7701,-3497.6117)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡田町診療所,静岡県静岡市葵区田町５-９０,内科　呼吸器科　小児科　消化器科　循環器科　リハビリテーション科　放射線科,,,9" xlink:title="静岡田町診療所" transform="ref(svg,13836.8484,-3496.7662)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡レディースクリニック,静岡県静岡市葵区日出町１０-３,産婦人科　不妊治療・女性内科　生殖医療外科,,,9" xlink:title="静岡レディースクリニック" transform="ref(svg,13839.4597,-3497.5107)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,司馬医院,静岡県静岡市葵区栄町２-７,リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="司馬医院" transform="ref(svg,13839.1132,-3497.4363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下山眼科クリニック,静岡県静岡市葵区呉服町１-５-２呉服町法月ビル３階,眼科,,,9" xlink:title="下山眼科クリニック" transform="ref(svg,13837.9952,-3497.5797)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,城西神経内科クリニック,静岡県静岡市葵区新富町５-７-６,内科　神経内科　リウマチ科　脳神経外科　リハビリテーション科,,,9" xlink:title="城西神経内科クリニック" transform="ref(svg,13836.9561,-3496.9766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神経内科木村クリニック,静岡県静岡市葵区鷹匠１-１２-８,内科　精神科　神経内科,,,9" xlink:title="神経内科木村クリニック" transform="ref(svg,13838.8556,-3497.6499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新通り整形外科,静岡県静岡市葵区新通１-１２-５,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="新通り整形外科" transform="ref(svg,13837.4748,-3496.7404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,スキンケアクリニック,静岡県静岡市葵区呉服町２-８アイランドプラザビル４Ｆ,形成外科　麻酔科　美容皮膚科,,,9" xlink:title="スキンケアクリニック" transform="ref(svg,13838.3964,-3497.3845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木整形外科,静岡県静岡市葵区山崎１-２６-６,整形外科　リハビリテーション科,,,9" xlink:title="鈴木整形外科" transform="ref(svg,13835.1537,-3497.7464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,駿府の杜クリニック,静岡県静岡市葵区追手町９-２８興産ビル５Ｆ,リハビリテーション科　内科,,,9" xlink:title="駿府の杜クリニック" transform="ref(svg,13838.0457,-3497.7126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中消化器科クリニック,静岡県静岡市葵区音羽町８-３,消化器内科,,,9" xlink:title="田中消化器科クリニック" transform="ref(svg,13839.3707,-3497.9996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東泉クリニック,静岡県静岡市葵区呉服町１-２０呉服町タワー２０４,外科,,,9" xlink:title="東泉クリニック" transform="ref(svg,13838.0211,-3497.6136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ときわ公園クリニック,静岡県静岡市葵区常磐町３-６-１４,内科　呼吸器内科,,,9" xlink:title="ときわ公園クリニック" transform="ref(svg,13837.9635,-3496.9649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,名倉ストレスクリニック,静岡県静岡市葵区御幸町１１-３０エクセルワード静岡ビル地下１階,心療内科　精神科　神経科,,,9" xlink:title="名倉ストレスクリニック" transform="ref(svg,13838.8994,-3497.3428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひまわりアイクリニック,静岡県静岡市葵区伝馬町３-１,眼科,,,9" xlink:title="ひまわりアイクリニック" transform="ref(svg,13838.6873,-3497.4281)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本田眼科医院,静岡県静岡市葵区紺屋町８-６ミマツビル地下１階,眼科,,,9" xlink:title="本田眼科医院" transform="ref(svg,13838.6467,-3497.3041)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まきた整形外科クリニック,静岡県静岡市葵区西草深町１-１１,整形外科　リハビリテーション科,,,9" xlink:title="まきた整形外科クリニック" transform="ref(svg,13837.8891,-3497.8965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡医院,静岡県静岡市葵区八千代町３０,内科　ペインクリニック内科　麻酔科,,,9" xlink:title="松岡医院" transform="ref(svg,13837.4816,-3497.8941)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつだクリニック,静岡県静岡市葵区北番町７８-４,泌尿器科,,,9" xlink:title="まつだクリニック" transform="ref(svg,13836.989,-3497.9691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まはえクリニック,静岡県静岡市葵区山崎２-３-１１,内科　循環器内科,,,9" xlink:title="まはえクリニック" transform="ref(svg,13835.5018,-3497.7509)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水谷痛みのクリニック,静岡県静岡市葵区鷹匠１-１１-１５ＭＩＣ新静岡２階３階,麻酔科　ペインクリニック内科,,,9" xlink:title="水谷痛みのクリニック" transform="ref(svg,13838.7711,-3497.6154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みどり内科クリニック,静岡県静岡市葵区田町２-１４１-１８,内科,,,9" xlink:title="みどり内科クリニック" transform="ref(svg,13836.7768,-3497.3511)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮下内科クリニック,静岡県静岡市葵区呉服町１-６-７,内科　循環器内科　腎臓内科　人工透析内科,,,9" xlink:title="宮下内科クリニック" transform="ref(svg,13838.1319,-3497.5264)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,望月小児科医院,静岡県静岡市葵区追手町１-２７,精神科　小児科,,,9" xlink:title="望月小児科医院" transform="ref(svg,13838.4484,-3497.4661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森本内科循環器科,静岡県静岡市葵区新通１-１１-５,内科　循環器内科,,,9" xlink:title="森本内科循環器科" transform="ref(svg,13837.4215,-3496.7477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森谷内科医院,静岡県静岡市葵区山崎１-２６-９,内科,,,9" xlink:title="森谷内科医院" transform="ref(svg,13835.1971,-3497.7487)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山内皮膚科医院,静岡県静岡市葵区北-町４０-８７,皮膚科,,,9" xlink:title="山内皮膚科医院" transform="ref(svg,13837.1073,-3497.9755)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山梨整形外科,静岡県静岡市葵区駒形通２-７-２２,整形外科　リハビリテーション科,,,9" xlink:title="山梨整形外科" transform="ref(svg,13837.815,-3496.8857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横山内科循環器科医院,静岡県静岡市葵区幸町２５-３,内科　循環器科,,,9" xlink:title="横山内科循環器科医院" transform="ref(svg,13837.0548,-3496.6627)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＪＲ東海静岡健康管理センター静岡健康管理室,静岡県静岡市葵区黒金町６８,内科,,,9" xlink:title="ＪＲ東海静岡健康管理センター静岡健康管理室" transform="ref(svg,13839.3281,-3497.3654)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本郵政（株）東海郵政健康管理センター静岡分室,静岡県静岡市葵区黒金町１-９,内科,,,9" xlink:title="日本郵政（株）東海郵政健康管理センター静岡分室" transform="ref(svg,13838.6254,-3497.1049)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）大丸松坂屋百貨店松坂屋静岡店健康管理室,静岡県静岡市葵区伝馬町４-５北館７Ｆ,内科,,,9" xlink:title="（株）大丸松坂屋百貨店松坂屋静岡店健康管理室" transform="ref(svg,13838.8135,-3497.3616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）厚生苑清流の郷医務室,静岡県静岡市葵区柳町１８５-５特別養護老人ホーム厚生苑清流の郷１階,内科　泌尿器科　循環器内科　胃腸内科,,,9" xlink:title="（特養）厚生苑清流の郷医務室" transform="ref(svg,13836.28,-3498.009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,聖隷静岡健診クリニック,静岡県静岡市葵区黒金町５５静岡交通ビル５・６・７階,婦人科,,,9" xlink:title="聖隷静岡健診クリニック" transform="ref(svg,13839.0221,-3497.149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地方職員（共済）静岡県庁診療所,静岡県静岡市葵区追手町９-６県庁東館１５Ｆ,内科　歯科,,,9" xlink:title="地方職員（共済）静岡県庁診療所" transform="ref(svg,13838.3057,-3497.7)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）厚寿苑医務室,静岡県静岡市葵区北番町６６-２,内科　泌尿器科　循環器内科　胃腸内科,,,9" xlink:title="（特養）厚寿苑医務室" transform="ref(svg,13836.8538,-3497.9762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あおばこころのクリニック,静岡県静岡市葵区鷹匠３-１２-８　２Ｆ,心療内科　精神科,,,9" xlink:title="あおばこころのクリニック" transform="ref(svg,13838.9765,-3497.9141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯塚医院,静岡県静岡市葵区双葉町３-１２,内科　小児科,,,9" xlink:title="飯塚医院" transform="ref(svg,13837.5903,-3496.8625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今村医院,静岡県静岡市葵区駒形通６-１０-１８,内科　小児科　皮膚科　リハビリテーション科,,,9" xlink:title="今村医院" transform="ref(svg,13837.3035,-3496.3075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いまむら眼科,静岡県静岡市葵区紺屋町３-３あらしんビル２Ｆ・３Ｆ,眼科,,,9" xlink:title="いまむら眼科" transform="ref(svg,13838.5079,-3497.338)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えのもと循環器科・内科,静岡県静岡市葵区安西１-７５,内科　循環器科,,,9" xlink:title="えのもと循環器科・内科" transform="ref(svg,13837.3149,-3497.9807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大石外科胃腸科医院,静岡県静岡市葵区鷹匠２-６-２２,胃腸科　外科　こう門科,,,9" xlink:title="大石外科胃腸科医院" transform="ref(svg,13838.7881,-3497.7207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,オレンジクリニック,静岡県静岡市葵区車町２９ナカムラハイツ１階,外科　形成外科　皮膚科,,,9" xlink:title="オレンジクリニック" transform="ref(svg,13837.7962,-3497.7633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川-ｱ耳鼻咽喉科クリニック,静岡県静岡市葵区七間町１３-１セブンタウンビル２Ｆ,耳鼻いんこう科　気管食道科　アレルギー科,,,9" xlink:title="川-ｱ耳鼻咽喉科クリニック" transform="ref(svg,13838.0536,-3497.262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きたざわ内科,静岡県静岡市葵区田町２-３-１,内科　消化器内科,,,9" xlink:title="きたざわ内科" transform="ref(svg,13836.7226,-3497.4501)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ギャラリー眼科,静岡県静岡市葵区呉服町２-６-１０レイアップ呉服町ビル３Ｆ,眼科,,,9" xlink:title="ギャラリー眼科" transform="ref(svg,13838.4296,-3497.4198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金内科循環器科クリニック,静岡県静岡市葵区西草深町６-１,内科　循環器科,,,9" xlink:title="金内科循環器科クリニック" transform="ref(svg,13837.9625,-3498.0432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,けやき美容皮膚科クリニック静岡院,静岡県静岡市葵区伝馬町３-１深尾ビル３Ｆ,美容外科　皮膚科,,,9" xlink:title="けやき美容皮膚科クリニック静岡院" transform="ref(svg,13838.6873,-3497.4334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,呉服町栗林眼科,静岡県静岡市葵区呉服町２-７-８,眼科,,,9" xlink:title="呉服町栗林眼科" transform="ref(svg,13838.4697,-3497.3856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,呉服町土屋内科,静岡県静岡市葵区呉服町１-１-１４呉服町圭田ビル６階,内科,,,9" xlink:title="呉服町土屋内科" transform="ref(svg,13837.9533,-3497.602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斎藤診療所,静岡県静岡市葵区西草深町２-１１,精神科　神経科　整形外科,,,9" xlink:title="斎藤診療所" transform="ref(svg,13837.8374,-3497.9694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しずおか葵の森クリニック,静岡県静岡市葵区柳町１９３-１,内科　アレルギー科　外科　皮膚科,,,9" xlink:title="しずおか葵の森クリニック" transform="ref(svg,13836.3508,-3497.9809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡上野クリニック,静岡県静岡市葵区御幸町６静岡セントラルビル９Ｆ,形成外科　美容外科　皮膚科　泌尿器科,,,9" xlink:title="静岡上野クリニック" transform="ref(svg,13838.664,-3497.4249)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡消化器科クリニック,静岡県静岡市葵区鷹匠１-１２-１青葉園ビル２Ｆ,内科　消化器内科,,,9" xlink:title="静岡消化器科クリニック" transform="ref(svg,13838.8422,-3497.627)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡中央クリニック,静岡県静岡市葵区御幸町６-１１一瀬ビル６Ｆ,形成外科　美容外科　皮膚科　泌尿器科　婦人科　麻酔科　性感染症内科　美容皮膚科,,,9" xlink:title="静岡中央クリニック" transform="ref(svg,13838.7115,-3497.3721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しば内科医院,静岡県静岡市葵区伝馬町８-１サンローゼ６Ｆ,内科　耳鼻いんこう科,,,9" xlink:title="しば内科医院" transform="ref(svg,13838.7147,-3497.4906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高須神経内科医院,静岡県静岡市葵区呉服町１-４-５武田ビル３階,内科　神経内科,,,9" xlink:title="高須神経内科医院" transform="ref(svg,13838.0493,-3497.529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,--橋内科医院,静岡県静岡市葵区本通５-２-８,内科　小児科　呼吸器内科　循環器内科　消化器内科,,,9" xlink:title="--橋内科医院" transform="ref(svg,13837.6146,-3497.2609)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中耳鼻咽喉科クリニック,静岡県静岡市葵区山崎１-１９-６,耳鼻いんこう科,,,9" xlink:title="田中耳鼻咽喉科クリニック" transform="ref(svg,13835.3057,-3497.6086)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京ノーストクリニック,静岡県静岡市葵区両替町２-７-１２,泌尿器科　形成外科　美容外科,,,9" xlink:title="東京ノーストクリニック" transform="ref(svg,13838.3918,-3497.266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかむら耳鼻咽喉科,静岡県静岡市葵区呉服町１-１-１４呉服町圭田ビル５Ｆ,アレルギー科　耳鼻科,,,9" xlink:title="なかむら耳鼻咽喉科" transform="ref(svg,13837.9523,-3497.601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハート・ルーチェ・クリニック,静岡県静岡市葵区追手町４６中町ＣＦビル３Ｆ,精神科　女性心療内科,,,9" xlink:title="ハート・ルーチェ・クリニック" transform="ref(svg,13837.9668,-3497.6999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はとりこどもクリニック,静岡県静岡市葵区山崎１-２６-４,小児科　小児アレルギー科,,,9" xlink:title="はとりこどもクリニック" transform="ref(svg,13835.2176,-3497.7367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平野医院,静岡県静岡市葵区昭和町５-５,産科　婦人科　内科　循環器内科,,,9" xlink:title="平野医院" transform="ref(svg,13838.3915,-3497.1114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,御幸町アイクリニック,静岡県静岡市葵区御幸町６静岡セントラルビル６階Ａ,眼科,,,9" xlink:title="御幸町アイクリニック" transform="ref(svg,13838.664,-3497.4249)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上皮膚科クリニック,静岡県静岡市葵区中町７-２沢野ビル５階,皮膚科,,,9" xlink:title="村上皮膚科クリニック" transform="ref(svg,13837.9383,-3497.7515)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本眼科,静岡県静岡市葵区本通５-２-２,眼科,,,9" xlink:title="山本眼科" transform="ref(svg,13837.6343,-3497.2913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆずの木町内科・循環器科,静岡県静岡市葵区柚木町２,内科　循環器内科,,,9" xlink:title="ゆずの木町内科・循環器科" transform="ref(svg,13837.2836,-3497.8916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国立大学法人静岡大学保健センター静岡支援室,静岡県静岡市駿河区大谷８３６,内科　精神科　整形外科,,,9" xlink:title="国立大学法人静岡大学保健センター静岡支援室" transform="ref(svg,13843.17,-3496.5403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡少年鑑別所医務課診療所,静岡県静岡市駿河区小鹿２-２７-７,内科,,,9" xlink:title="静岡少年鑑別所医務課診療所" transform="ref(svg,13841.9984,-3497.4485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡県発達障害者支援センター診療所,静岡県静岡市駿河区有明町２-２０静岡総合庁舎別館３階,精神科　小児科　小児神経科,,,9" xlink:title="静岡県発達障害者支援センター診療所" transform="ref(svg,13840.6391,-3496.8701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡県精神保健福祉センター,静岡県静岡市駿河区有明町２-２０,精神科,,,9" xlink:title="静岡県精神保健福祉センター" transform="ref(svg,13840.6391,-3496.8688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小鹿なでしこ苑診療所,静岡県静岡市駿河区小鹿４０２-１,内科,,,9" xlink:title="小鹿なでしこ苑診療所" transform="ref(svg,13842.5409,-3497.1025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小鹿苑診療所,静岡県静岡市駿河区小鹿１-１-２４,内科,,,9" xlink:title="小鹿苑診療所" transform="ref(svg,13841.416,-3497.564)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）ＳＢＳ静岡健康増進センター,静岡県静岡市駿河区登呂３-１-１,内科　婦人科　歯科,,,9" xlink:title="（公財）ＳＢＳ静岡健康増進センター" transform="ref(svg,13840.4911,-3495.9561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）静岡県産業労働福祉協会下川原診療所,静岡県静岡市駿河区下川原６-８-１,内科,,,9" xlink:title="（公財）静岡県産業労働福祉協会下川原診療所" transform="ref(svg,13837.4189,-3493.3928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさいクリニック,静岡県静岡市駿河区津島町６-３１,内科　胃腸科　こう門科,,,9" xlink:title="あさいクリニック" transform="ref(svg,13838.3352,-3495.9409)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅野医院,静岡県静岡市駿河区丸子３-１２-６４,胃腸科　外科　こう門科,,,9" xlink:title="浅野医院" transform="ref(svg,13835.0768,-3494.6873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天野外科医院,静岡県静岡市駿河区見瀬２４３,外科　こう門科　リハビリテーション科　呼吸器外科,,,9" xlink:title="天野外科医院" transform="ref(svg,13839.0971,-3495.653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯山内科クリニック,静岡県静岡市駿河区静岡市小黒２-９-１３,内科　消化器内科,,,9" xlink:title="飯山内科クリニック" transform="ref(svg,13840.3166,-3497.261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井内科医院,静岡県静岡市駿河区馬淵２-１０-２０,内科　小児科　循環器内科　消化器内科,,,9" xlink:title="石井内科医院" transform="ref(svg,13838.6561,-3496.5261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）長生会ふれあいクリニック,静岡県静岡市駿河区東新田１-１-３３,内科　眼科,,,9" xlink:title="（医）長生会ふれあいクリニック" transform="ref(svg,13837.0274,-3495.2869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福恵会東新田福地診療院,静岡県静岡市駿河区東新田５-１６-１０,消化器科　外科　整形外科　こう門科　リハビリテーション科,,,9" xlink:title="（医）福恵会東新田福地診療院" transform="ref(svg,13837.2734,-3494.1797)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩はし内科医院,静岡県静岡市駿河区丸子２-２-８-５,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="岩はし内科医院" transform="ref(svg,13835.7419,-3494.4408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うえだ小児科,静岡県静岡市駿河区登呂６-１３-３６,小児科,,,9" xlink:title="うえだ小児科" transform="ref(svg,13840.3551,-3495.2038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,皮膚科・アレルギー科宇野医院,静岡県静岡市駿河区馬淵１-１１-１５,アレルギー科　皮膚科,,,9" xlink:title="皮膚科・アレルギー科宇野医院" transform="ref(svg,13838.5162,-3496.6552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えんどう内科クリニック,静岡県静岡市駿河区中田４-４-３８,内科　糖尿病内科　内分泌内科,,,9" xlink:title="えんどう内科クリニック" transform="ref(svg,13839.8445,-3495.9933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大町耳鼻咽喉科医院,静岡県静岡市駿河区八幡５-７-３４,耳鼻いんこう科　気管食道科,,,9" xlink:title="大町耳鼻咽喉科医院" transform="ref(svg,13839.9807,-3496.5335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおや整形外科クリニック,静岡県静岡市駿河区片山８-１５,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="おおや整形外科クリニック" transform="ref(svg,13842.317,-3496.6104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大谷はざまクリニック,静岡県静岡市駿河区宮川３９-２０,内科　外科　リハビリテーション科　消化器・内視鏡内科,,,9" xlink:title="大谷はざまクリニック" transform="ref(svg,13842.5489,-3495.9285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おくむらメンタルクリニック,静岡県静岡市駿河区森下町１-３０サンコウビル２Ｆ,精神科　心療内科,,,9" xlink:title="おくむらメンタルクリニック" transform="ref(svg,13839.201,-3497.1479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おざわ小児科内科医院,静岡県静岡市駿河区東新田４-１８-６５,内科　小児科,,,9" xlink:title="おざわ小児科内科医院" transform="ref(svg,13837.3995,-3494.2734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きくち内科医院,静岡県静岡市駿河区新川２-８-３,内科　消化器科,,,9" xlink:title="きくち内科医院" transform="ref(svg,13838.5617,-3496.1105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,キッズクリニックさの,静岡県静岡市駿河区敷地１-１８-１９,アレルギー科　小児科,,,9" xlink:title="キッズクリニックさの" transform="ref(svg,13841.2843,-3495.1612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きゅう眼科医院,静岡県静岡市駿河区八幡２-３-９,眼科,,,9" xlink:title="きゅう眼科医院" transform="ref(svg,13839.5246,-3497.0081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小長井整形外科医院,静岡県静岡市駿河区新川２-５-３１,リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="小長井整形外科医院" transform="ref(svg,13838.5462,-3496.1911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神経内科小林医院,静岡県静岡市駿河区西脇５０-１,内科　精神科　神経内科,,,9" xlink:title="神経内科小林医院" transform="ref(svg,13839.553,-3495.0735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤医院,静岡県静岡市駿河区手越３１０,内科　消化器科　小児科,,,9" xlink:title="近藤医院" transform="ref(svg,13836.3582,-3495.3854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜井クリニック,静岡県静岡市駿河区中田本町６-１１,内科　消化器内科,,,9" xlink:title="桜井クリニック" transform="ref(svg,13839.7577,-3495.6789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐野小児科,静岡県静岡市駿河区用宗１-２０-１７,小児科,,,9" xlink:title="佐野小児科" transform="ref(svg,13836.5812,-3492.806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,汐入きむらクリニック,静岡県静岡市駿河区敷地２-１１-２１,アレルギー科　形成外科　皮膚科　耳鼻いんこう科,,,9" xlink:title="汐入きむらクリニック" transform="ref(svg,13841.3778,-3494.9658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塩川八幡ヒルズクリニック,静岡県静岡市駿河区八幡５-３２-１０,神経内科　脳神経外科　眼科,,,9" xlink:title="塩川八幡ヒルズクリニック" transform="ref(svg,13840.4007,-3496.8373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科気管食道科静岡ＥＮＴクリニック,静岡県静岡市駿河区登呂４-１３-９,耳鼻いんこう科　気管食道科,,,9" xlink:title="耳鼻咽喉科気管食道科静岡ＥＮＴクリニック" transform="ref(svg,13840.9421,-3495.7478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡共立クリニック,静岡県静岡市駿河区曲金４-１-２５,人工透析内科　腎臓内科,,,9" xlink:title="静岡共立クリニック" transform="ref(svg,13840.8808,-3497.7426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡曲金クリニック,静岡県静岡市駿河区曲金３-５-５,内科　アレルギー科　リウマチ科　皮膚科,,,9" xlink:title="静岡曲金クリニック" transform="ref(svg,13840.673,-3497.642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,品川美容外科静岡院,静岡県静岡市駿河区南町１４-２５エスパティオ２Ｆ,美容外科　美容皮膚科,,,9" xlink:title="品川美容外科静岡院" transform="ref(svg,13839.032,-3497.0672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴山クリニック,静岡県静岡市駿河区登呂５-１１-９,内科　循環器科　小児科,,,9" xlink:title="柴山クリニック" transform="ref(svg,13840.694,-3495.6657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白鳥消化器内科医院,静岡県静岡市駿河区豊田１-７-２２,内科　消化器内科　肛門外科,,,9" xlink:title="白鳥消化器内科医院" transform="ref(svg,13840.9672,-3496.9685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅原泌尿器科,静岡県静岡市駿河区中田本町１６-２４,泌尿器科,,,9" xlink:title="菅原泌尿器科" transform="ref(svg,13839.6462,-3495.5953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉浦内科,静岡県静岡市駿河区みずほ４-１０-１０,内科,,,9" xlink:title="杉浦内科" transform="ref(svg,13836.4859,-3494.1109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山医院,静岡県静岡市駿河区泉町４-５,内科　消化器内科　小児科,,,9" xlink:title="杉山医院" transform="ref(svg,13838.8497,-3496.8344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山医院,静岡県静岡市駿河区登呂５-４-１,内科　小児科　放射線科　消化器内科,,,9" xlink:title="杉山医院" transform="ref(svg,13840.416,-3495.6109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山整形リハビリクリニック,静岡県静岡市駿河区中田２-４-１２,整形外科　リハビリテーション科,,,9" xlink:title="杉山整形リハビリクリニック" transform="ref(svg,13839.6297,-3496.2454)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高野外科胃腸科医院,静岡県静岡市駿河区中田１-７-１１,外科　整形外科　リハビリテーション科　消化器内科,,,9" xlink:title="高野外科胃腸科医院" transform="ref(svg,13839.3229,-3496.479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高野橋医院脳神経外科心臓血管外科,静岡県静岡市駿河区北丸子２-５-１０,脳神経外科　心臓血管外科,,,9" xlink:title="高野橋医院脳神経外科心臓血管外科" transform="ref(svg,13834.5932,-3495.0403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田村外科医院,静岡県静岡市駿河区八幡３-２１-２６,消化器科　呼吸器科　外科,,,9" xlink:title="田村外科医院" transform="ref(svg,13839.8548,-3497.0844)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,俵ＩＶＦクリニック,静岡県静岡市駿河区中田３-３-５,婦人科（不妊治療）,,,9" xlink:title="俵ＩＶＦクリニック" transform="ref(svg,13839.8728,-3496.0536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,-内科医院,静岡県静岡市駿河区小鹿４３０-３,内科　消化器内科,,,9" xlink:title="-内科医院" transform="ref(svg,13842.4336,-3497.3522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つしま眼科医院,静岡県静岡市駿河区登呂４-２-５,眼科,,,9" xlink:title="つしま眼科医院" transform="ref(svg,13840.834,-3495.8668)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸田クリニック,静岡県静岡市駿河区中田２-３-１７,アレルギー科　小児科　皮膚科,,,9" xlink:title="戸田クリニック" transform="ref(svg,13839.6852,-3496.2776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野口耳鼻咽喉科医院,静岡県静岡市駿河区曲金４-３-７,アレルギー科　耳鼻科　気管食道科　放射線科,,,9" xlink:title="野口耳鼻咽喉科医院" transform="ref(svg,13841.0503,-3497.7612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,萩原医院,静岡県静岡市駿河区西脇２９-１,内科　リハビリテーション科　呼吸器科　アレルギー科,,,9" xlink:title="萩原医院" transform="ref(svg,13839.6426,-3495.1187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原田医院,静岡県静岡市駿河区中村町７３-１２,内科　循環器内科　内分泌･代謝内科　泌尿器内科,,,9" xlink:title="原田医院" transform="ref(svg,13839.2741,-3495.463)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原田整形外科,静岡県静岡市駿河区丸子６-１-１０,リウマチ科　整形外科　形成外科　リハビリテーション科,,,9" xlink:title="原田整形外科" transform="ref(svg,13835.1223,-3494.7746)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふかさわ消化器科・内科,静岡県静岡市駿河区中原５０２-２,内科　消化器内科,,,9" xlink:title="ふかさわ消化器科・内科" transform="ref(svg,13838.859,-3495.4935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふかさわレディスクリニック,静岡県静岡市駿河区敷地１-１８-１０,産科　婦人科,,,9" xlink:title="ふかさわレディスクリニック" transform="ref(svg,13841.27,-3495.1774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科消化器科福田医院,静岡県静岡市駿河区西脇７４６-１,内科　消化器科,,,9" xlink:title="内科消化器科福田医院" transform="ref(svg,13840.022,-3494.5313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福間産婦人科クリニック,静岡県静岡市駿河区中原７３９-１,産科　婦人科,,,9" xlink:title="福間産婦人科クリニック" transform="ref(svg,13838.7184,-3495.3962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀田内科医院,静岡県静岡市駿河区宮竹１-４-７,内科　神経内科　リハビリテーション科　循環器内科,,,9" xlink:title="堀田内科医院" transform="ref(svg,13841.4532,-3495.3594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀向医院,静岡県静岡市駿河区曲金５-４-６３,内科　消化器内科,,,9" xlink:title="堀向医院" transform="ref(svg,13841.2408,-3497.7329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松生整形外科医院,静岡県静岡市駿河区西島５２８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="松生整形外科医院" transform="ref(svg,13840.2745,-3494.341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,マリアの丘クリニック,静岡県静岡市駿河区中原９３０-１,心療内科　精神科,,,9" xlink:title="マリアの丘クリニック" transform="ref(svg,13838.2099,-3495.5989)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まりこレディスクリニック,静岡県静岡市駿河区丸子新田５１１,産科　婦人科,,,9" xlink:title="まりこレディスクリニック" transform="ref(svg,13836.8938,-3494.7069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みずほ腎クリニック,静岡県静岡市駿河区みずほ２-１８-１,内科　人工透析内科,,,9" xlink:title="みずほ腎クリニック" transform="ref(svg,13836.7118,-3493.9105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,望月クリニック,静岡県静岡市駿河区小鹿４２９-１,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="望月クリニック" transform="ref(svg,13842.4453,-3497.34)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森福整形外科,静岡県静岡市駿河区丸子１-４-３７,整形外科　リハビリテーション科,,,9" xlink:title="森福整形外科" transform="ref(svg,13835.8483,-3494.443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢島耳鼻咽喉科気管食道科医院,静岡県静岡市駿河区泉町２-３アズマビル２Ｆ,耳鼻咽喉科　気管食道科,,,9" xlink:title="矢島耳鼻咽喉科気管食道科医院" transform="ref(svg,13838.7665,-3496.9151)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やなぎだ眼科医院,静岡県静岡市駿河区丸子芹ケ谷町９-１,眼科,,,9" xlink:title="やなぎだ眼科医院" transform="ref(svg,13834.8773,-3494.2961)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎医院,静岡県静岡市駿河区新川１-１９-５,内科　消化器科　小児科,,,9" xlink:title="山崎医院" transform="ref(svg,13838.0419,-3496.4564)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山中整形外科,静岡県静岡市駿河区敷地１-２８-６,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="山中整形外科" transform="ref(svg,13841.3923,-3495.2506)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ラ・クリニカシズオカ,静岡県静岡市駿河区稲川２-２-１コハラサウスサイドビル５Ａ,内科　心療内科　外科　形成外科　美容外科　皮膚科　美容皮膚科　美容内科,,,9" xlink:title="ラ・クリニカシズオカ" transform="ref(svg,13839.27,-3496.8478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたなべクリニック,静岡県静岡市駿河区南町６-１６-１０４,内科　呼吸器科　小児科,,,9" xlink:title="わたなべクリニック" transform="ref(svg,13838.922,-3496.9581)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺耳鼻咽喉科医院,静岡県静岡市駿河区寺田１２-９,耳鼻いんこう科,,,9" xlink:title="渡辺耳鼻咽喉科医院" transform="ref(svg,13835.8335,-3494.2917)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺内科医院,静岡県静岡市駿河区池田６４９-１,内科　呼吸器科　循環器科　小児科,,,9" xlink:title="渡辺内科医院" transform="ref(svg,13842.3684,-3497.8828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）巴川製紙所診療所,静岡県静岡市駿河区用宗巴町３-１,内科,,,9" xlink:title="（株）巴川製紙所診療所" transform="ref(svg,13836.1566,-3492.9723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱電機（株）静岡製作所健康増進センター,静岡県静岡市駿河区小鹿３-１８-１,内科　歯科,,,9" xlink:title="三菱電機（株）静岡製作所健康増進センター" transform="ref(svg,13841.7059,-3497.025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,理研軽金属工業（株）診療所,静岡県静岡市駿河区曲金３-２,内科,,,9" xlink:title="理研軽金属工業（株）診療所" transform="ref(svg,13840.7055,-3497.4043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ケアハウス白寿荘医務室,静岡県静岡市駿河区小鹿２-２５-８,内科,,,9" xlink:title="ケアハウス白寿荘医務室" transform="ref(svg,13842.0581,-3497.3771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）天竜厚生会（特養）登呂の家,静岡県静岡市駿河区登呂３-４-１,内科,,,9" xlink:title="（福）天竜厚生会（特養）登呂の家" transform="ref(svg,13840.6414,-3495.8956)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,全国土木建築国民（健保）中部健康管理センター静岡医務室,静岡県静岡市駿河区南町６-１南町第一ビル,内科,,,9" xlink:title="全国土木建築国民（健保）中部健康管理センター静岡医務室" transform="ref(svg,13838.9111,-3497.0203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）丸子の里わかば診療所,静岡県静岡市駿河区丸子６-１-２９-３,内科　胃腸科　耳鼻いんこう科,,,9" xlink:title="（特養）丸子の里わかば診療所" transform="ref(svg,13834.9658,-3494.8112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）小坂の郷医務室,静岡県静岡市駿河区小坂１１０６-１,内科,,,9" xlink:title="（特養）小坂の郷医務室" transform="ref(svg,13834.9978,-3492.5187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別養護老人ホ-ム久能の里医務室,静岡県静岡市駿河区根古屋２８９-１,内科,,,9" xlink:title="特別養護老人ホ-ム久能の里医務室" transform="ref(svg,13847.0436,-3496.2365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）聖ヨゼフの園診療所,静岡県静岡市駿河区八幡４-６-９,内科,,,9" xlink:title="（特養）聖ヨゼフの園診療所" transform="ref(svg,13839.7403,-3496.803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）なごみ医務室,静岡県静岡市駿河区中島２５８０-１特別養護老人ホームなごみ２階,内科,,,9" xlink:title="（特養）なごみ医務室" transform="ref(svg,13840.029,-3493.3898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋山クリニック,静岡県静岡市駿河区八幡１-２-２５,内科　アレルギー科　リハビリテーション科　放射線科,,,9" xlink:title="秋山クリニック" transform="ref(svg,13839.3953,-3497.2938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あしかわ皮膚科,静岡県静岡市駿河区丸子新田２４４-６,皮膚科,,,9" xlink:title="あしかわ皮膚科" transform="ref(svg,13836.9385,-3494.7855)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯室クリニック,静岡県静岡市駿河区馬淵４-１６-１２,内科　循環器内科,,,9" xlink:title="飯室クリニック" transform="ref(svg,13838.9715,-3495.9517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いずみ眼科,静岡県静岡市駿河区小鹿２-１-１１,眼科,,,9" xlink:title="いずみ眼科" transform="ref(svg,13841.5382,-3497.5558)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うすだクリニック,静岡県静岡市駿河区南町１４-２５エスパティオ２Ｆ２０１-Ｇ-２,内科　皮膚科　泌尿器科,,,9" xlink:title="うすだクリニック" transform="ref(svg,13839.0401,-3497.0608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,駅南アイクリニック,静岡県静岡市駿河区中田１-１-１,眼科,,,9" xlink:title="駅南アイクリニック" transform="ref(svg,13839.2695,-3496.7616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜心メンタルクリニック,静岡県静岡市駿河区中田３-１-３８エスペラール中田１Ｆ,心療内科　精神科　神経科,,,9" xlink:title="桜心メンタルクリニック" transform="ref(svg,13839.6804,-3496.2342)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大島医院,静岡県静岡市駿河区用宗１-３３-３,胃腸科　外科,,,9" xlink:title="大島医院" transform="ref(svg,13836.8245,-3492.6002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大中道小児科内科医院,静岡県静岡市駿河区大和２-１-２０,内科　小児科,,,9" xlink:title="大中道小児科内科医院" transform="ref(svg,13839.7257,-3497.2607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡本外科クリニック,静岡県静岡市駿河区曲金４-７-３,外科　放射線科　胃腸内科　肛門外科　乳腺外科,,,9" xlink:title="岡本外科クリニック" transform="ref(svg,13841.0813,-3497.6535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おかもとレディースクリニック,静岡県静岡市駿河区曲金４-７-３,産科　婦人科,,,9" xlink:title="おかもとレディースクリニック" transform="ref(svg,13841.0813,-3497.6535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おさだ眼科,静岡県静岡市駿河区丸子新田５３２,眼科,,,9" xlink:title="おさだ眼科" transform="ref(svg,13836.7687,-3494.5335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おさだ耳鼻科,静岡県静岡市駿河区丸子新田５３６,アレルギー科　耳鼻いんこう科,,,9" xlink:title="おさだ耳鼻科" transform="ref(svg,13836.75,-3494.5275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鎌田耳鼻咽喉科医院,静岡県静岡市駿河区馬淵２-４-９,耳鼻いんこう科,,,9" xlink:title="鎌田耳鼻咽喉科医院" transform="ref(svg,13838.8495,-3496.6172)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かもと整形外科医院,静岡県静岡市駿河区登呂４-２-２１,整形外科　リハビリテーション科,,,9" xlink:title="かもと整形外科医院" transform="ref(svg,13840.8412,-3495.8273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわはら医院小児科・アレルギー科,静岡県静岡市駿河区登呂２-９-３２,アレルギー科　小児科,,,9" xlink:title="かわはら医院小児科・アレルギー科" transform="ref(svg,13841.3871,-3495.8594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわむら眼科医院,静岡県静岡市駿河区中村町１４-１７,眼科,,,9" xlink:title="かわむら眼科医院" transform="ref(svg,13839.3203,-3495.4631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くらた整形外科,静岡県静岡市駿河区下川原２-１-３３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="くらた整形外科" transform="ref(svg,13837.6681,-3494.1274)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ごんクリニック,静岡県静岡市駿河区高松２-５-１８,内科　泌尿器科　性病科,,,9" xlink:title="ごんクリニック" transform="ref(svg,13842.0832,-3495.3893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こんどうクリニック,静岡県静岡市駿河区下島３２４平瓮ビルパート-T１０１,内科　呼吸器科,,,9" xlink:title="こんどうクリニック" transform="ref(svg,13841.0515,-3494.8207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかくらクリニック,静岡県静岡市駿河区南町１４-２５エスパティオ２階２０１-Ｄ,整形外科,,,9" xlink:title="さかくらクリニック" transform="ref(svg,13839.0328,-3497.0713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤内科医院,静岡県静岡市駿河区南町１２-１９,内科　放射線科　消化器内科,,,9" xlink:title="佐藤内科医院" transform="ref(svg,13839.1446,-3496.9568)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沢田耳鼻咽喉科医院,静岡県静岡市駿河区みずほ１-１２-１２,耳鼻いんこう科,,,9" xlink:title="沢田耳鼻咽喉科医院" transform="ref(svg,13836.8843,-3494.3382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡心療内科メンタルクリニック,静岡県静岡市駿河区南町１４-２５-２Ｆクリニックモール２０１-Ｃ-１,心療内科　精神科,,,9" xlink:title="静岡心療内科メンタルクリニック" transform="ref(svg,13839.0376,-3497.0707)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静岡トレーニングクリニック,静岡県静岡市駿河区西島６１９,内科,,,9" xlink:title="静岡トレーニングクリニック" transform="ref(svg,13840.7208,-3494.1991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,心療内科するがハートクリニック,静岡県静岡市駿河区稲川１-１-１０コモドベルデ２階,心療内科　精神科,,,9" xlink:title="心療内科するがハートクリニック" transform="ref(svg,13839.1581,-3496.8699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山皮フ科,静岡県静岡市駿河区丸子６-１-３０,皮膚科,,,9" xlink:title="杉山皮フ科" transform="ref(svg,13834.9713,-3494.8223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つづきクリニック,静岡県静岡市駿河区東新田１-１３-２７,内科　循環器科,,,9" xlink:title="つづきクリニック" transform="ref(svg,13837.0576,-3494.9119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東新田眼科医院,静岡県静岡市駿河区東新田４-２-３３,眼科,,,9" xlink:title="東新田眼科医院" transform="ref(svg,13837.6696,-3494.4199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日漢堂医院,静岡県静岡市駿河区中原７０７-１,内科　神経科,,,9" xlink:title="日漢堂医院" transform="ref(svg,13838.6656,-3495.4663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,望整形外科,静岡県静岡市駿河区豊田１-１-２０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="望整形外科" transform="ref(svg,13840.7072,-3496.9637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小児科ののだ医院,静岡県静岡市駿河区下川原５-１９-１５,小児科,,,9" xlink:title="小児科ののだ医院" transform="ref(svg,13838.1017,-3493.6406)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本田眼科医院,静岡県静岡市駿河区小鹿３-１３-１３,眼科,,,9" xlink:title="本田眼科医院" transform="ref(svg,13841.3597,-3497.2745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,増田こどもクリニック,静岡県静岡市駿河区豊田１-８-３０,アレルギー科　小児科　小児皮膚科,,,9" xlink:title="増田こどもクリニック" transform="ref(svg,13840.8945,-3496.9105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科小児科松田医院,静岡県静岡市駿河区中島７０５-６,内科　小児科,,,9" xlink:title="内科小児科松田医院" transform="ref(svg,13839.5817,-3494.2904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつもとこどもクリニック,静岡県静岡市駿河区上川原１６-１８,アレルギー科　小児科,,,9" xlink:title="まつもとこどもクリニック" transform="ref(svg,13836.6472,-3494.464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小児科まつや医院,静岡県静岡市駿河区曲金２-８-８３,小児科,,,9" xlink:title="小児科まつや医院" transform="ref(svg,13840.6112,-3497.8613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三神医院,静岡県静岡市駿河区西大谷４-４,内科　消化器科,,,9" xlink:title="三神医院" transform="ref(svg,13842.8103,-3495.4947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水谷脳神経外科クリニック,静岡県静岡市駿河区馬渕４-１１-９,内科　脳神経外科　リハビリテーション科,,,9" xlink:title="水谷脳神経外科クリニック" transform="ref(svg,13839.1243,-3495.9503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みずほ・おおいしクリニック,静岡県静岡市駿河区みずほ２-５-２１,消化器科　外科　こう門科,,,9" xlink:title="みずほ・おおいしクリニック" transform="ref(svg,13837.0056,-3493.9693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南町クリニック,静岡県静岡市駿河区南町４-１４グランドメゾン静岡ザタワー１０１-１,心療内科　精神科,,,9" xlink:title="南町クリニック" transform="ref(svg,13838.9735,-3496.8466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上整形外科医院,静岡県静岡市駿河区東新田１-１-４８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="村上整形外科医院" transform="ref(svg,13836.9555,-3495.418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,用宗落合診療所,静岡県静岡市駿河区用宗４-２-２,内科,,,9" xlink:title="用宗落合診療所" transform="ref(svg,13836.1966,-3492.3776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森園クリニック耳鼻咽喉科・アレルギー科,静岡県静岡市駿河区見瀬２１６,アレルギー科　耳鼻いんこう科,,,9" xlink:title="森園クリニック耳鼻咽喉科・アレルギー科" transform="ref(svg,13839.087,-3495.6686)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やはた内科・循環器内科,静岡県静岡市駿河区八幡４-７-２１,内科　循環器内科,,,9" xlink:title="やはた内科・循環器内科" transform="ref(svg,13839.8697,-3496.6703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有料老人ホームペリデ長田医務室,静岡県静岡市駿河区寺田２０６-１,内科,,,9" xlink:title="有料老人ホームペリデ長田医務室" transform="ref(svg,13835.7241,-3493.9652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉国皮フ科医院,静岡県静岡市駿河区中田４-２-４３飛翔Ｍ２Ｆ,皮膚科,,,9" xlink:title="吉国皮フ科医院" transform="ref(svg,13840.0055,-3495.9253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,羅眼科,静岡県静岡市駿河区南町１４-２５エスパティオ２階２０１-Ｈ,眼科,,,9" xlink:title="羅眼科" transform="ref(svg,13839.0362,-3497.0684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇山医院,静岡県静岡市清水区殿沢２-６-２０,内科　呼吸器科　消化器科,,,9" xlink:title="宇山医院" transform="ref(svg,13849.3552,-3497.8414)" x="0" y="0"/>
+</g>
+</svg>

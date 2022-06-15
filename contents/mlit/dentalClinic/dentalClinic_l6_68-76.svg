@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13781.25 -3656.25 70.3125 70.3125" go:dataArea="13781.25 -3656.25 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,有賀歯科医院,山梨県北杜市小淵沢町１０３０,歯科,,,9" xlink:title="有賀歯科医院" transform="ref(svg,13831.7612,-3586.2873)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大泉中央診療所,山梨県北杜市大泉町谷戸２９６９,歯科,,,9" xlink:title="大泉中央診療所" transform="ref(svg,13838.61,-3586.1863)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清里歯科医院,山梨県北杜市高根町清里３５４５-３９０２,歯科　小児歯科,,,9" xlink:title="清里歯科医院" transform="ref(svg,13844.4468,-3590.2518)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ぴかいち歯科医院,山梨県北杜市高根町東井出４９８６-１３７８,歯科　小児歯科　口腔外科,,,9" xlink:title="ぴかいち歯科医院" transform="ref(svg,13841.0628,-3587.1655)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八ヶ岳星と虹歯科診療所,山梨県北杜市小淵沢町１０１９８-２,歯科,,,9" xlink:title="八ヶ岳星と虹歯科診療所" transform="ref(svg,13832.2931,-3588.7238)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルクリニック清里,山梨県北杜市高根町清里３５６５-５,歯科一般　矯正外科　小児歯科,,,9" xlink:title="デンタルクリニック清里" transform="ref(svg,13843.9365,-3588.335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あい歯科クリニック,山梨県北杜市小淵沢町上笹尾３３３１-２３０,歯科,,,9" xlink:title="あい歯科クリニック" transform="ref(svg,13834.1502,-3586.1437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉池歯科医院,長野県小諸市大手２-３-４,歯科,,,9" xlink:title="吉池歯科医院" transform="ref(svg,13842.4538,-3632.8535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,甘利歯科医院,長野県小諸市荒町１-７-９,歯科,,,9" xlink:title="甘利歯科医院" transform="ref(svg,13842.723,-3632.7333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,長野県小諸市赤坂１-６-２８,歯科　矯正歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,13842.4363,-3632.586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀篭歯科医院,長野県小諸市御幸町１-４-１３,歯科,,,9" xlink:title="堀篭歯科医院" transform="ref(svg,13843.4736,-3631.8242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,長野県小諸市大字和田８７９-１,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13846.0052,-3629.313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,長野県小諸市市町１-１-５,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13841.9663,-3632.966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小池歯科医院,長野県小諸市紺屋町１-１-１１,歯科,,,9" xlink:title="小池歯科医院" transform="ref(svg,13842.8865,-3632.6996)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松永歯科医院,長野県小諸市八幡町２-２-１０,歯科,,,9" xlink:title="松永歯科医院" transform="ref(svg,13843.3243,-3632.6182)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科,長野県小諸市市町５-２-２７,歯科,,,9" xlink:title="木村歯科" transform="ref(svg,13841.8908,-3633.5312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,長野県小諸市相生町３-４-１,歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13842.6171,-3632.8081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅川歯科医院,長野県小諸市大字耳取１０１３-７,歯科,,,9" xlink:title="浅川歯科医院" transform="ref(svg,13844.1635,-3629.0806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科クリニック,長野県小諸市大字柏木５０１-１５,歯科,,,9" xlink:title="関歯科クリニック" transform="ref(svg,13845.2984,-3631.8018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,長野県小諸市与良町４-３-２７,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13843.1038,-3632.1549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）藤巻歯科医院,長野県小諸市鶴巻２-２７１６-８,歯科,,,9" xlink:title="（医）藤巻歯科医院" transform="ref(svg,13842.8694,-3632.468)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院西小諸診療所,長野県小諸市大字滋野甲９１５-４,歯科,,,9" xlink:title="山口歯科医院西小諸診療所" transform="ref(svg,13838.5538,-3634.2874)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆみ歯科医院,長野県小諸市大字御影新田２１３１-１５,歯科　小児歯科,,,9" xlink:title="ゆみ歯科医院" transform="ref(svg,13846.5574,-3630.2112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こみやま歯科医院,長野県小諸市大字加増３-６-２０,歯科　小児歯科,,,9" xlink:title="こみやま歯科医院" transform="ref(svg,13844.1021,-3631.6593)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,長野県小諸市大字和田字高砂８３８-３６,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13846.1067,-3629.5503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおつか歯科医院,長野県小諸市六供２-６-７,歯科,,,9" xlink:title="おおつか歯科医院" transform="ref(svg,13842.6835,-3633.1508)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野の花歯科,長野県小諸市三和１-６-４,歯科　小児歯科,,,9" xlink:title="野の花歯科" transform="ref(svg,13843.0702,-3632.9572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高沢歯科医院,長野県佐久市臼田２１６７,歯科,,,9" xlink:title="高沢歯科医院" transform="ref(svg,13847.8087,-3619.923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒沢歯科診療所,長野県佐久市中込１６１,歯科,,,9" xlink:title="黒沢歯科診療所" transform="ref(svg,13847.3668,-3623.0534)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塩川歯科医院,長野県佐久市岩村田１２０６,歯科,,,9" xlink:title="塩川歯科医院" transform="ref(svg,13847.6185,-3627.4101)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新海歯科医院,長野県佐久市野沢３１４-１,歯科,,,9" xlink:title="新海歯科医院" transform="ref(svg,13846.4399,-3622.9033)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新海歯科医院,長野県佐久市下小田切８-２２,歯科,,,9" xlink:title="新海歯科医院" transform="ref(svg,13847.8736,-3619.2992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土屋歯科医院,長野県佐久市岩村田３１６２-３０,歯科,,,9" xlink:title="土屋歯科医院" transform="ref(svg,13848.0839,-3627.0118)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,長野県佐久市望月３５６-１,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13835.9729,-3626.6338)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央歯科医院,長野県佐久市中込３１１３-３,歯科,,,9" xlink:title="中央歯科医院" transform="ref(svg,13847.8723,-3625.0807)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮島医院歯科,長野県佐久市野沢２５０-３,歯科,,,9" xlink:title="宮島医院歯科" transform="ref(svg,13846.6508,-3622.6947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,雫田歯科医院,長野県佐久市岩村田１１７４-２,歯科,,,9" xlink:title="雫田歯科医院" transform="ref(svg,13847.721,-3627.5719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,御影歯科医院,長野県佐久市中込３０３０-４,歯科　小児歯科,,,9" xlink:title="御影歯科医院" transform="ref(svg,13847.5819,-3624.7364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武重歯科医院,長野県佐久市望月９００-１,歯科,,,9" xlink:title="武重歯科医院" transform="ref(svg,13834.7111,-3627.2017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒岩歯科医院,長野県佐久市臼田１１９１-６,歯科　小児歯科,,,9" xlink:title="黒岩歯科医院" transform="ref(svg,13847.0151,-3620.9583)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,臼田歯科医院,長野県佐久市原１３３-２,歯科,,,9" xlink:title="臼田歯科医院" transform="ref(svg,13847.3732,-3622.3596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北沢歯科医院,長野県佐久市中込１-２７-７,歯科,,,9" xlink:title="北沢歯科医院" transform="ref(svg,13847.8173,-3622.8733)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮島歯科医院,長野県佐久市野沢１２７-４,歯科,,,9" xlink:title="宮島歯科医院" transform="ref(svg,13847.0259,-3622.241)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,依田歯科医院,長野県佐久市甲１９４５-６,歯科,,,9" xlink:title="依田歯科医院" transform="ref(svg,13840.8091,-3627.3773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関口歯科医院,長野県佐久市中込１-２５-２,歯科,,,9" xlink:title="関口歯科医院" transform="ref(svg,13847.8801,-3622.9219)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,甘利歯科医院,長野県佐久市平塚１４６,歯科,,,9" xlink:title="甘利歯科医院" transform="ref(svg,13845.1523,-3626.7467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかむら歯科,長野県佐久市岩村田１９２９-１,歯科　矯正歯科,,,9" xlink:title="なかむら歯科" transform="ref(svg,13847.5314,-3627.183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高見澤歯科医院,長野県佐久市下越字下川原２４４-４,歯科,,,9" xlink:title="高見澤歯科医院" transform="ref(svg,13848.5277,-3619.7042)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木内歯科医院,長野県佐久市中込１-２４-１２,歯科,,,9" xlink:title="木内歯科医院" transform="ref(svg,13847.8475,-3622.9453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮澤歯科医院,長野県佐久市協和２５４１-２,歯科,,,9" xlink:title="宮澤歯科医院" transform="ref(svg,13835.7602,-3626.0044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こまむら歯科診療所,長野県佐久市望月４１５-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="こまむら歯科診療所" transform="ref(svg,13835.838,-3626.7765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,樫山歯科医院,長野県佐久市長土呂４２３-６,歯科,,,9" xlink:title="樫山歯科医院" transform="ref(svg,13846.8183,-3628.1588)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塩谷歯科医院,長野県佐久市田口４４７１-１,歯科,,,9" xlink:title="塩谷歯科医院" transform="ref(svg,13849.3686,-3620.8716)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけがみ歯科,長野県佐久市塚原３８３-１８,歯科　小児歯科,,,9" xlink:title="たけがみ歯科" transform="ref(svg,13845.2515,-3627.4677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荻原歯科医院,長野県佐久市取出町１２６-５,歯科,,,9" xlink:title="荻原歯科医院" transform="ref(svg,13846.6828,-3621.8637)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,長野県佐久市岩村田５７４,歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,13847.9696,-3627.2387)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きつぎ矯正小児歯科,長野県佐久市佐久平駅南１４-５ＴＭ浅間ビル２Ｆ,矯正歯科　小児歯科,,,9" xlink:title="きつぎ矯正小児歯科" transform="ref(svg,13846.4417,-3627.4194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,依田塩名田歯科,長野県佐久市塩名田５７０,歯科,,,9" xlink:title="依田塩名田歯科" transform="ref(svg,13842.0899,-3626.8793)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木次大介歯科医院,長野県佐久市中込１８２６-３,歯科　小児歯科,,,9" xlink:title="木次大介歯科医院" transform="ref(svg,13847.4478,-3623.8468)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ぱーる歯科,長野県佐久市岩村田５０３３-１９,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ぱーる歯科" transform="ref(svg,13847.4624,-3627.4162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のむら歯科医院,長野県佐久市三塚字寺添７４-１,歯科　小児歯科,,,9" xlink:title="のむら歯科医院" transform="ref(svg,13845.5001,-3622.7406)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木本歯科,長野県佐久市臼田１４０-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="木本歯科" transform="ref(svg,13848.1402,-3619.6071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たじま歯科医院,長野県佐久市岩村田１７７３-２,歯科　小児歯科,,,9" xlink:title="たじま歯科医院" transform="ref(svg,13846.4427,-3626.6381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅間口歯科クリニック,長野県佐久市佐久平駅北２０-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="浅間口歯科クリニック" transform="ref(svg,13846.0671,-3627.9104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルクリニック夏帆,長野県佐久市岩村田３１６２-１３,歯科　小児歯科,,,9" xlink:title="デンタルクリニック夏帆" transform="ref(svg,13848.0597,-3627.051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）伸成会高見澤歯科医院,長野県佐久市猿久保２３２-２０,歯科　小児歯科,,,9" xlink:title="（医）伸成会高見澤歯科医院" transform="ref(svg,13848.5511,-3625.7519)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,依田歯科医院,長野県佐久市平賀１１０６-１,歯科,,,9" xlink:title="依田歯科医院" transform="ref(svg,13849.2155,-3622.7268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）土屋歯科クリニック,長野県佐久市布施８０８-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）土屋歯科クリニック" transform="ref(svg,13837.4363,-3625.7312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわま歯科クリニック,長野県佐久市岩村田１２９０-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いわま歯科クリニック" transform="ref(svg,13847.0345,-3627.5622)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きくち歯科医院,長野県佐久市臼田２２９１-２,歯科,,,9" xlink:title="きくち歯科医院" transform="ref(svg,13847.6153,-3619.515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久平デンタルクリニック,長野県佐久市佐久平駅南１１-１０ジャスコ佐久平店,歯科,,,9" xlink:title="佐久平デンタルクリニック" transform="ref(svg,13846.4179,-3627.5609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）一英会佐久平センター歯科,長野県佐久市岩村田１３４９-２５,歯科,,,9" xlink:title="（医）一英会佐久平センター歯科" transform="ref(svg,13846.7306,-3627.0897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久歯科医師会休日救急歯科診療所,長野県佐久市中込１-１９-２,歯科,,,9" xlink:title="佐久歯科医師会休日救急歯科診療所" transform="ref(svg,13847.7226,-3622.9859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おぎむら歯科医院,長野県佐久市佐久平駅東１３-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おぎむら歯科医院" transform="ref(svg,13846.8953,-3627.713)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つちや歯科クリニック,長野県佐久市中小田切５８-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="つちや歯科クリニック" transform="ref(svg,13846.7095,-3618.0471)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大塚歯科クリニック,長野県佐久市原５５-４３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大塚歯科クリニック" transform="ref(svg,13847.2171,-3622.3562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）英誠会コスモ歯科矯正クリニック,長野県佐久市臼田６２２-１８,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）英誠会コスモ歯科矯正クリニック" transform="ref(svg,13847.8142,-3620.1897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小宮山歯科医院,長野県佐久市中込１-２９-３,歯科,,,9" xlink:title="小宮山歯科医院" transform="ref(svg,13847.846,-3622.8354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤野歯科医院,長野県佐久市岩村田１８２２-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="藤野歯科医院" transform="ref(svg,13846.9864,-3626.6808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＴＤＫ（株）浅間テクノ工場歯科診療所,長野県佐久市小田井５４３,歯科,,,9" xlink:title="ＴＤＫ（株）浅間テクノ工場歯科診療所" transform="ref(svg,13848.4629,-3631.3328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あべ歯科医院,長野県佐久市岩村田６３６-６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="あべ歯科医院" transform="ref(svg,13847.7758,-3627.1486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,羽毛田歯科医院,長野県南佐久郡小海町大字小海４３０７,歯科,,,9" xlink:title="羽毛田歯科医院" transform="ref(svg,13848.3946,-3609.0239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にいつ歯科医院,長野県南佐久郡小海町大字小海４２５４-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="にいつ歯科医院" transform="ref(svg,13848.3053,-3608.83)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）秀紀会渡辺歯科医院,長野県南佐久郡小海町大字小海４２４４-５,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）秀紀会渡辺歯科医院" transform="ref(svg,13848.2528,-3608.7859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八ヶ岳歯科,長野県南佐久郡南牧村大字野辺山３０６-２９,歯科,,,9" xlink:title="八ヶ岳歯科" transform="ref(svg,13847.5092,-3595.5466)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新海歯科医院,長野県南佐久郡佐久穂町大字高野町２９４４-２３,歯科,,,9" xlink:title="新海歯科医院" transform="ref(svg,13848.7249,-3616.3492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木次歯科医院,長野県南佐久郡佐久穂町大字宿岩９２,歯科　矯正歯科,,,9" xlink:title="木次歯科医院" transform="ref(svg,13848.5892,-3616.7269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八千穂青森歯科医院,長野県南佐久郡佐久穂町大字穂積１３３５,歯科,,,9" xlink:title="八千穂青森歯科医院" transform="ref(svg,13847.6995,-3613.3112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小須田歯科医院,長野県南佐久郡佐久穂町大字高野町３２６-１,歯科　小児歯科,,,9" xlink:title="小須田歯科医院" transform="ref(svg,13847.7529,-3616.1198)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科中島医院,長野県北佐久郡御代田町大字御代田２４５２-６,歯科,,,9" xlink:title="歯科中島医院" transform="ref(svg,13850.7829,-3631.9822)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科医院,長野県北佐久郡御代田町大字御代田水原３９１１-７,歯科,,,9" xlink:title="佐々木歯科医院" transform="ref(svg,13851.4409,-3631.5971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）聖清会林歯科診療所,長野県北佐久郡御代田町大字御代田２４２２-７９,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）聖清会林歯科診療所" transform="ref(svg,13850.5696,-3631.8644)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,長野県北佐久郡御代田町大字御代田１７６４-８,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13849.9957,-3630.8443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コスモス歯科,長野県北佐久郡御代田町大字御代田２６３３-７,歯科,,,9" xlink:title="コスモス歯科" transform="ref(svg,13851.198,-3631.4359)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山歯科クリニック,長野県北佐久郡御代田町大字馬瀬口１６２５-１３２,歯科　小児歯科,,,9" xlink:title="中山歯科クリニック" transform="ref(svg,13850.92,-3632.4028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山浦歯科医院,長野県北佐久郡立科町大字芦田２５３７,歯科,,,9" xlink:title="山浦歯科医院" transform="ref(svg,13831.6685,-3627.2952)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながい歯科医院,長野県北佐久郡立科町大字芦田２００６,歯科,,,9" xlink:title="ながい歯科医院" transform="ref(svg,13831.6199,-3627.1367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もみの木歯科クリニック,長野県北佐久郡立科町大字芦田２９８０-１,歯科　小児歯科,,,9" xlink:title="もみの木歯科クリニック" transform="ref(svg,13831.7586,-3628.2744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,長野県上田市諏訪形三好１１６４,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13823.878,-3639.3724)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかお歯科医院,長野県上田市中之条９５,歯科,,,9" xlink:title="たかお歯科医院" transform="ref(svg,13823.2943,-3639.2759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮下歯科医院,長野県上田市中央５-９-１７,矯正歯科　小児歯科,,,9" xlink:title="宮下歯科医院" transform="ref(svg,13825.687,-3640.4598)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井出歯科医院,長野県上田市常磐城５-２-９,歯科,,,9" xlink:title="井出歯科医院" transform="ref(svg,13824.0798,-3640.9636)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吾妻歯科医院,長野県上田市塩川小金久保２８２１-７,歯科,,,9" xlink:title="吾妻歯科医院" transform="ref(svg,13829.298,-3636.6005)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荻原歯科医院,長野県上田市中央１-７-２７,歯科　小児歯科　矯正歯科,,,9" xlink:title="荻原歯科医院" transform="ref(svg,13825.3092,-3639.7403)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柳沢歯科医院,長野県上田市中央北２-６-４,歯科,,,9" xlink:title="柳沢歯科医院" transform="ref(svg,13825.1951,-3640.799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,長野県上田市緑が丘１-２７-５８,歯科,,,9" xlink:title="清水歯科医院" transform="ref(svg,13825.2968,-3641.2996)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,草間歯科医院,長野県上田市上丸子９７０,歯科,,,9" xlink:title="草間歯科医院" transform="ref(svg,13827.1048,-3632.2793)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮坂歯科医院,長野県上田市中央４-１８-３７,歯科,,,9" xlink:title="宮坂歯科医院" transform="ref(svg,13825.1151,-3640.5536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科医院,長野県上田市常田２-９４１-２,歯科,,,9" xlink:title="関歯科医院" transform="ref(svg,13825.9096,-3639.0651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,長野県上田市中央２-２４-１８,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13825.9412,-3639.8667)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,馬場歯科医院,長野県上田市常田３-２-２２,歯科,,,9" xlink:title="馬場歯科医院" transform="ref(svg,13826.1398,-3639.7036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一理堂歯科医院,長野県上田市中央３-１６-３,歯科,,,9" xlink:title="一理堂歯科医院" transform="ref(svg,13825.5246,-3640.2971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩倉歯科医院,長野県上田市中央西１-９-２９,歯科,,,9" xlink:title="岩倉歯科医院" transform="ref(svg,13824.9433,-3640.6949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神科歯科医院,長野県上田市住吉字大日６８３-１,歯科,,,9" xlink:title="神科歯科医院" transform="ref(svg,13827.8575,-3641.006)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アキワ歯科クリニック,長野県上田市秋和４０６,歯科,,,9" xlink:title="アキワ歯科クリニック" transform="ref(svg,13822.7012,-3641.504)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三井歯科医院,長野県上田市住吉３０８-１,歯科,,,9" xlink:title="三井歯科医院" transform="ref(svg,13827.832,-3640.5796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,長野県上田市住吉３６２-６,歯科　小児歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13828.2433,-3640.7169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,長野県上田市上丸子９９８,歯科　小児歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13827.2647,-3632.258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,圓歯科医院,長野県上田市中央西１-１３-１５,歯科,,,9" xlink:title="圓歯科医院" transform="ref(svg,13824.4332,-3640.8175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,長野県上田市生田５４１１,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13827.3936,-3635.4947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小牧橋歯科医院,長野県上田市国分１-９６２-５,歯科,,,9" xlink:title="小牧橋歯科医院" transform="ref(svg,13826.6744,-3638.3553)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,長野県上田市中丸子１３５０-５,歯科　小児歯科　矯正歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13827.0891,-3633.3359)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科クリニック,長野県上田市本郷字宮浦６０４-２,歯科,,,9" xlink:title="中島歯科クリニック" transform="ref(svg,13820.0901,-3636.1845)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ア歯科診療所,長野県上田市長瀬２３７１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="ア歯科診療所" transform="ref(svg,13828.3049,-3634.8681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝沢歯科医院,長野県上田市新町１６６-３,歯科,,,9" xlink:title="滝沢歯科医院" transform="ref(svg,13819.0816,-3634.9934)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大井歯科医院,長野県上田市真田町本原７３１,歯科,,,9" xlink:title="大井歯科医院" transform="ref(svg,13829.7761,-3642.4406)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北上田歯科医院,長野県上田市中央北２-１-１７,歯科　小児歯科,,,9" xlink:title="北上田歯科医院" transform="ref(svg,13825.4535,-3640.8225)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小田中歯科医院,長野県上田市天神４-８-４,歯科,,,9" xlink:title="小田中歯科医院" transform="ref(svg,13824.7349,-3639.7665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）精仁会桜井歯科医院,長野県上田市福田３４-２,歯科　小児歯科,,,9" xlink:title="（医）精仁会桜井歯科医院" transform="ref(svg,13820.4619,-3638.8026)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,馬場歯科医院,長野県上田市中央１-５-１０,歯科,,,9" xlink:title="馬場歯科医院" transform="ref(svg,13825.1401,-3639.7733)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あんざい歯科医院,長野県上田市浦野４１,歯科,,,9" xlink:title="あんざい歯科医院" transform="ref(svg,13816.2947,-3637.6868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）水野矯正歯科医院,長野県上田市中央２-２-１４,矯正歯科,,,9" xlink:title="（医）水野矯正歯科医院" transform="ref(svg,13825.2112,-3640.0837)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高見沢歯科医院,長野県上田市生田５０５５-１,歯科　小児歯科,,,9" xlink:title="高見沢歯科医院" transform="ref(svg,13826.7761,-3634.8682)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウエストＤＣ歯科医院,長野県上田市芳田１８２０-８,歯科,,,9" xlink:title="ウエストＤＣ歯科医院" transform="ref(svg,13829.0944,-3637.6969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝澤歯科医院,長野県上田市大屋２２８,歯科　小児歯科　矯正歯科,,,9" xlink:title="滝澤歯科医院" transform="ref(svg,13829.5267,-3637.065)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）蒼久保歯科医院,長野県上田市蒼久保１４４３-５,歯科,,,9" xlink:title="（医）蒼久保歯科医院" transform="ref(svg,13828.1698,-3637.5475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）竹内歯科医院,長野県上田市上田原４７６-２,歯科,,,9" xlink:title="（医）竹内歯科医院" transform="ref(svg,13821.6298,-3638.759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ベルク歯科,長野県上田市中之条１５８,歯科　小児歯科　矯正歯科,,,9" xlink:title="ベルク歯科" transform="ref(svg,13823.1791,-3639.5879)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,春原歯科クリニック,長野県上田市下塩尻１４４-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="春原歯科クリニック" transform="ref(svg,13820.444,-3641.7991)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山越歯科医院,長野県上田市下之郷２６７-８,歯科,,,9" xlink:title="山越歯科医院" transform="ref(svg,13821.8598,-3636.3482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）仁治会関歯科医院,長野県上田市上田原８９４,歯科,,,9" xlink:title="（医）仁治会関歯科医院" transform="ref(svg,13822.9018,-3639.259)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおもり歯科クリニック,長野県上田市長瀬３８６５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あおもり歯科クリニック" transform="ref(svg,13827.8902,-3634.5812)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科医院,長野県上田市吉田３０３-７,歯科,,,9" xlink:title="水野歯科医院" transform="ref(svg,13819.601,-3638.7415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アップル歯科,長野県上田市上田原１１０７-１７,歯科　小児歯科,,,9" xlink:title="アップル歯科" transform="ref(svg,13822.7324,-3638.9398)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下村歯科医院,長野県上田市武石沖字鳥羽２１６-３,歯科　小児歯科,,,9" xlink:title="下村歯科医院" transform="ref(svg,13825.0207,-3629.8115)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グリーン歯科,長野県上田市中丸子１４０８,歯科,,,9" xlink:title="グリーン歯科" transform="ref(svg,13827.0991,-3633.1013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝之入歯科医院,長野県上田市長瀬２８７７-５,歯科　小児歯科,,,9" xlink:title="滝之入歯科医院" transform="ref(svg,13829.2295,-3636.063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢嶋歯科医院,長野県上田市腰越字清水尻５３５-１５,歯科,,,9" xlink:title="矢嶋歯科医院" transform="ref(svg,13826.1478,-3631.212)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いちかわ歯科医院,長野県上田市本郷７７３-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="いちかわ歯科医院" transform="ref(svg,13820.2713,-3636.5182)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,出浦歯科医院,長野県上田市長瀬２４８５-７,歯科　小児歯科,,,9" xlink:title="出浦歯科医院" transform="ref(svg,13828.4247,-3635.1815)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,善美歯科,長野県上田市中之条字大西８４２-３７,歯科　小児歯科　矯正歯科,,,9" xlink:title="善美歯科" transform="ref(svg,13822.1952,-3639.9974)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松原歯科医院,長野県上田市中央３-７-２６,歯科　小児歯科　矯正歯科,,,9" xlink:title="松原歯科医院" transform="ref(svg,13825.4714,-3640.2817)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおの矯正歯科医院,長野県上田市上田原６８８-１,歯科,,,9" xlink:title="おおの矯正歯科医院" transform="ref(svg,13821.9032,-3638.9694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,峯村歯科医院,長野県上田市中央２-６-９,歯科,,,9" xlink:title="峯村歯科医院" transform="ref(svg,13825.2154,-3639.9829)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マツオ歯科,長野県上田市常田２-１９-１１,歯科　小児歯科,,,9" xlink:title="マツオ歯科" transform="ref(svg,13825.5665,-3639.5793)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハートフル歯科医院,長野県上田市中之条５１９-１０,歯科,,,9" xlink:title="ハートフル歯科医院" transform="ref(svg,13822.5916,-3639.6462)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,長野県上田市真田町長６３３２,歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13830.1932,-3644.0736)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,けやき歯科医院,長野県上田市古里１５８３-２８,歯科,,,9" xlink:title="けやき歯科医院" transform="ref(svg,13827.2382,-3639.0682)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こじま矯正歯科クリニック,長野県上田市緑が丘１-１-１６,矯正歯科,,,9" xlink:title="こじま矯正歯科クリニック" transform="ref(svg,13825.0159,-3641.0788)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中沢歯科医院,長野県上田市中央１-３-１２,歯科,,,9" xlink:title="中沢歯科医院" transform="ref(svg,13825.2056,-3639.8933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,長野県上田市中央西１-８-２７,歯科　小児歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13824.9855,-3640.5615)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,草間歯科医院,長野県上田市中央西１-１４-３０,歯科,,,9" xlink:title="草間歯科医院" transform="ref(svg,13824.7062,-3640.791)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西川歯科医院,長野県上田市中央西２-５-１２,歯科　小児歯科,,,9" xlink:title="西川歯科医院" transform="ref(svg,13824.4622,-3640.9311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやじま歯科クリニック,長野県上田市常磐城１６１１-８,歯科　小児歯科,,,9" xlink:title="みやじま歯科クリニック" transform="ref(svg,13823.8191,-3641.7018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさま歯科クリニック,長野県上田市上丸子４２６,歯科,,,9" xlink:title="あさま歯科クリニック" transform="ref(svg,13827.4602,-3632.7339)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,布施歯科医院,長野県上田市古里１７７-６,歯科,,,9" xlink:title="布施歯科医院" transform="ref(svg,13828.9145,-3639.855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まるこ歯科クリニック,長野県上田市中丸子１６８２-１６,歯科,,,9" xlink:title="まるこ歯科クリニック" transform="ref(svg,13827.238,-3633.7217)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一之瀬歯科医院,長野県上田市下之郷３４５-５,歯科　小児歯科,,,9" xlink:title="一之瀬歯科医院" transform="ref(svg,13821.7548,-3637.385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科医院,長野県上田市中央６-７-５,歯科　歯科口腔外科,,,9" xlink:title="関歯科医院" transform="ref(svg,13825.8909,-3640.2383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斉藤歯科医院,長野県上田市材木町１-１８-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="斉藤歯科医院" transform="ref(svg,13826.4268,-3639.6779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なごみ歯科,長野県上田市保野１３２４-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なごみ歯科" transform="ref(svg,13820.0858,-3637.9755)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おぎくぼ歯科医院,長野県上田市常田２-２０-１２,歯科,,,9" xlink:title="おぎくぼ歯科医院" transform="ref(svg,13825.5142,-3639.6854)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝沢歯科クリニック,長野県上田市国分７４２-８,歯科,,,9" xlink:title="滝沢歯科クリニック" transform="ref(svg,13827.2648,-3638.3343)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,長野県上田市中央３-１４-２０,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13825.5362,-3640.1281)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上田小県歯科医師会休日歯科救急センター,長野県上田市材木町１-３-６,歯科,,,9" xlink:title="上田小県歯科医師会休日歯科救急センター" transform="ref(svg,13826.2002,-3640.0792)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科医院,長野県東御市田中１１９-１,歯科,,,9" xlink:title="関歯科医院" transform="ref(svg,13833.2583,-3635.5794)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東部歯科,長野県東御市滋野乙２３０９-１,歯科,,,9" xlink:title="東部歯科" transform="ref(svg,13836.5831,-3634.9668)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,南里歯科医院,長野県東御市海善寺３６６-４,歯科,,,9" xlink:title="南里歯科医院" transform="ref(svg,13832.134,-3636.3734)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大塚歯科医院,長野県東御市田中９０,歯科,,,9" xlink:title="大塚歯科医院" transform="ref(svg,13833.2222,-3635.6261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,片山歯科医院,長野県東御市本海野１４９６-１３３,歯科,,,9" xlink:title="片山歯科医院" transform="ref(svg,13831.7318,-3636.3819)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,長野県東御市常田６５０-１,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13833.6707,-3635.5344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くるみ歯科クリック,長野県東御市滋野乙２２００-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="くるみ歯科クリック" transform="ref(svg,13835.9826,-3634.9749)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とうみ歯科,長野県東御市島川原８０-１,歯科,,,9" xlink:title="とうみ歯科" transform="ref(svg,13835.2807,-3633.89)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科,長野県東御市和８４０６-１３,歯科,,,9" xlink:title="ささき歯科" transform="ref(svg,13833.2988,-3637.2348)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかにし歯科クリニック,長野県東御市田中５４-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なかにし歯科クリニック" transform="ref(svg,13833.0356,-3635.6378)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長門歯科診療所,長野県小県郡長和町古町３３６５-８,歯科　小児歯科　矯正歯科,,,9" xlink:title="長門歯科診療所" transform="ref(svg,13826.6727,-3627.2319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国民健康保険長和町和田歯科診療所,長野県小県郡長和町和田１４８２-２,歯科,,,9" xlink:title="国民健康保険長和町和田歯科診療所" transform="ref(svg,13821.7038,-3620.8803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮原歯科医院,長野県小県郡青木村大字田沢９０-１,歯科,,,9" xlink:title="宮原歯科医院" transform="ref(svg,13812.7566,-3636.8803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおがや歯科医院,長野県伊那市西箕輪字西出口６８２１,歯科　小児歯科,,,9" xlink:title="おおがや歯科医院" transform="ref(svg,13793.5623,-3587.3264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小木曽歯科医院,長野県伊那市西箕輪６８６６-４,歯科　歯科口腔外科,,,9" xlink:title="小木曽歯科医院" transform="ref(svg,13793.5862,-3587.0185)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うらの歯科クリニック,長野県伊那市西箕輪６７００-１,歯科　小児歯科,,,9" xlink:title="うらの歯科クリニック" transform="ref(svg,13792.7533,-3587.5928)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢島歯科医院,長野県上伊那郡辰野町大字伊那富４０１９,歯科,,,9" xlink:title="矢島歯科医院" transform="ref(svg,13798.442,-3597.8044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,長野県上伊那郡辰野町大字平出１６２０,歯科　小児歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13799.9306,-3598.2835)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,明成歯科医院,長野県上伊那郡辰野町大字伊那富６００９-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="明成歯科医院" transform="ref(svg,13798.2878,-3597.1471)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,長野県上伊那郡辰野町大字伊那富字神田２６１０-９,歯科　小児歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13799.0739,-3597.7413)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有賀歯科医院,長野県上伊那郡辰野町大字平出１６０２,歯科　小児歯科,,,9" xlink:title="有賀歯科医院" transform="ref(svg,13800.1373,-3598.3126)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科医院,長野県上伊那郡辰野町大字伊那富７４９４-６,歯科,,,9" xlink:title="村上歯科医院" transform="ref(svg,13798.0747,-3594.7354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしもと歯科医院,長野県上伊那郡辰野町大字平出１８３９-５,歯科　小児歯科,,,9" xlink:title="はしもと歯科医院" transform="ref(svg,13799.563,-3597.773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東野歯科医院,長野県上伊那郡辰野町大字平出１９８５-２,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="東野歯科医院" transform="ref(svg,13800.0116,-3597.8889)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢ヶ-ｱ歯科医院,長野県上伊那郡辰野町大字辰野２０２８,歯科,,,9" xlink:title="矢ヶ-ｱ歯科医院" transform="ref(svg,13800.0188,-3598.4057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央歯科医院,長野県上伊那郡辰野町中央１８,歯科　小児歯科　矯正歯科,,,9" xlink:title="中央歯科医院" transform="ref(svg,13798.7449,-3598.1459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほのぼの歯科,長野県上伊那郡辰野町大字伊那富３８９８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ほのぼの歯科" transform="ref(svg,13798.6022,-3597.6417)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池上歯科医院,長野県上伊那郡辰野町大字辰野１７８７,歯科,,,9" xlink:title="池上歯科医院" transform="ref(svg,13799.8677,-3598.3443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小島歯科医院,長野県上伊那郡箕輪町大字中箕輪１２３４０-４,歯科,,,9" xlink:title="小島歯科医院" transform="ref(svg,13798.6292,-3590.5648)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北川歯科医院,長野県上伊那郡箕輪町大字中箕輪３０２１-３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="北川歯科医院" transform="ref(svg,13797.6875,-3593.2575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河野歯科医院,長野県上伊那郡箕輪町大字中箕輪８５０６-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="河野歯科医院" transform="ref(svg,13798.7851,-3591.4508)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オーク歯科クリニック,長野県上伊那郡箕輪町大字中箕輪８９３０-１３,歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="オーク歯科クリニック" transform="ref(svg,13799.3946,-3590.9962)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下島歯科医院,長野県上伊那郡箕輪町大字中箕輪８４６８-２,歯科,,,9" xlink:title="下島歯科医院" transform="ref(svg,13798.4286,-3591.4307)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,千葉歯科医院,長野県上伊那郡箕輪町大字中箕輪９６３６,歯科　小児歯科,,,9" xlink:title="千葉歯科医院" transform="ref(svg,13798.4741,-3591.1305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,長野県上伊那郡箕輪町大字中箕輪１６４３-１,歯科　小児歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13797.8463,-3594.0617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,長野県上伊那郡箕輪町大字中箕輪８３２２,歯科　小児歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,13799.0297,-3591.6611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やなぎさわ歯科クリニック,長野県上伊那郡南箕輪村５９６３-１２,歯科　小児歯科,,,9" xlink:title="やなぎさわ歯科クリニック" transform="ref(svg,13797.4474,-3586.8496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,倉田歯科医院,長野県上伊那郡南箕輪村３４４４,歯科,,,9" xlink:title="倉田歯科医院" transform="ref(svg,13798.1366,-3588.0216)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢口歯科医院,長野県松本市城東２-７-１９,歯科,,,9" xlink:title="矢口歯科医院" transform="ref(svg,13797.5309,-3624.2109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科医院,長野県松本市城東１-３-３,歯科,,,9" xlink:title="丸山歯科医院" transform="ref(svg,13797.4349,-3623.6729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,徳山歯科医院,長野県松本市大手３-４-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="徳山歯科医院" transform="ref(svg,13797.07,-3623.6315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯島歯科医院,長野県松本市深志３-８-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="飯島歯科医院" transform="ref(svg,13797.4117,-3622.8844)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠原歯科医院,長野県松本市城東１-６-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="笠原歯科医院" transform="ref(svg,13797.3454,-3623.8064)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,犬飼歯科医院,長野県松本市沢村３-５-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="犬飼歯科医院" transform="ref(svg,13796.9593,-3625.3994)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,深志歯科医院,長野県松本市大手２-８-１６,歯科　小児歯科　矯正歯科,,,9" xlink:title="深志歯科医院" transform="ref(svg,13796.7544,-3623.7154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一志歯科医院,長野県松本市清水２-６-２３,歯科　小児歯科　矯正歯科,,,9" xlink:title="一志歯科医院" transform="ref(svg,13798.334,-3623.8263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下島歯科,長野県松本市中央３-１３-２９,歯科,,,9" xlink:title="下島歯科" transform="ref(svg,13797.511,-3623.1294)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,長野県松本市大字島立中村３１４９,歯科　小児歯科　矯正歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13793.7323,-3622.2542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平林歯科医院,長野県松本市蟻ケ崎３-３-５,歯科　小児歯科　矯正歯科,,,9" xlink:title="平林歯科医院" transform="ref(svg,13796.6499,-3624.5551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平林矯正歯科,長野県松本市大字新村５４８,歯科　矯正歯科,,,9" xlink:title="平林矯正歯科" transform="ref(svg,13790.5994,-3621.6606)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金井歯科医院,長野県松本市水汲１３０,歯科　小児歯科,,,9" xlink:title="金井歯科医院" transform="ref(svg,13798.2509,-3625.9325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中川歯科,長野県松本市浅間温泉２-１-８,歯科　小児歯科,,,9" xlink:title="中川歯科" transform="ref(svg,13798.4187,-3626.141)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,長野県松本市寿豊丘１１８０-７,歯科　小児歯科,,,9" xlink:title="清水歯科医院" transform="ref(svg,13797.2107,-3618.8707)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,熊谷歯科医院,長野県松本市城西２-１-４,歯科,,,9" xlink:title="熊谷歯科医院" transform="ref(svg,13796.5352,-3623.7856)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀歯科医院,長野県松本市中央３-１１-２,歯科,,,9" xlink:title="堀歯科医院" transform="ref(svg,13797.444,-3623.3905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科医院,長野県松本市蟻ケ崎４-１１-７,歯科　小児歯科,,,9" xlink:title="高山歯科医院" transform="ref(svg,13796.0001,-3624.4381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,協立歯科医院,長野県松本市野溝木工２-９-Ｃ１０２,歯科　小児歯科,,,9" xlink:title="協立歯科医院" transform="ref(svg,13795.3873,-3620.1884)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イイムラ歯科医院,長野県松本市筑摩４-２１-６,歯科　小児歯科,,,9" xlink:title="イイムラ歯科医院" transform="ref(svg,13798.6216,-3622.3107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,春日歯科医院,長野県松本市大字島内１３８５-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="春日歯科医院" transform="ref(svg,13793.021,-3624.3852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科医院,長野県松本市蟻ケ崎２-５-１９,歯科　小児歯科　矯正歯科,,,9" xlink:title="丸山歯科医院" transform="ref(svg,13796.6032,-3624.2178)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上條歯科医院,長野県松本市大字岡田松岡１１６-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="上條歯科医院" transform="ref(svg,13797.5028,-3625.8485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小島歯科医院,長野県松本市大字寿豊丘字大野田７９４-１５,歯科　小児歯科　矯正歯科,,,9" xlink:title="小島歯科医院" transform="ref(svg,13798.6935,-3617.6586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,長野県松本市中央３-８-２,歯科　小児歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13797.3708,-3623.1501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,早田歯科医院,長野県松本市波田１５７１,歯科,,,9" xlink:title="早田歯科医院" transform="ref(svg,13788.122,-3620.712)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花村歯科医院,長野県松本市石芝３-２-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="花村歯科医院" transform="ref(svg,13795.2104,-3620.4818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本市錦部歯科診療所,長野県松本市七嵐８５,歯科,,,9" xlink:title="松本市錦部歯科診療所" transform="ref(svg,13799.8072,-3631.8021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,長野県松本市大字横田４-４-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13798.4103,-3624.7878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大久保歯科医院,長野県松本市大字島立４８７９-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="大久保歯科医院" transform="ref(svg,13793.1339,-3621.0711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,長野県松本市大字笹賀５２２８,歯科　小児歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13794.3642,-3619.8828)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,長野県松本市旭１-９-２,歯科　小児歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13797.5973,-3624.4773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂本歯科医院,長野県松本市大字神林字宮下３３２５-１,歯科　小児歯科,,,9" xlink:title="坂本歯科医院" transform="ref(svg,13792.3864,-3619.3902)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,長野県松本市筑摩１-２１-６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="木村歯科医院" transform="ref(svg,13797.7084,-3622.1652)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,窪田歯科医院,長野県松本市大手３-２-１９,歯科　小児歯科　矯正歯科,,,9" xlink:title="窪田歯科医院" transform="ref(svg,13796.9527,-3623.5279)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小出歯科医院,長野県松本市北深志３-４-４,歯科　小児歯科,,,9" xlink:title="小出歯科医院" transform="ref(svg,13797.4461,-3624.6411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山岸歯科医院,長野県松本市大手３-３-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="山岸歯科医院" transform="ref(svg,13796.9847,-3623.528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,長野県松本市白板２-２-８,歯科　小児歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13795.9236,-3623.8154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,惣社小林歯科医院,長野県松本市大字惣社５１９,歯科　小児歯科　矯正歯科,,,9" xlink:title="惣社小林歯科医院" transform="ref(svg,13798.8355,-3623.7589)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,昭和歯科医院,長野県松本市梓川梓２３６１-４,歯科,,,9" xlink:title="昭和歯科医院" transform="ref(svg,13786.2246,-3622.1119)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あい歯科医院,長野県松本市南原２-１-１８,歯科　小児歯科,,,9" xlink:title="あい歯科医院" transform="ref(svg,13794.5861,-3621.1981)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かみじま矯正歯科,長野県松本市大手３-３-４,矯正歯科,,,9" xlink:title="かみじま矯正歯科" transform="ref(svg,13796.9846,-3623.5056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,筒井歯科医院,長野県松本市出川町２-１１-５,歯科　小児歯科,,,9" xlink:title="筒井歯科医院" transform="ref(svg,13797.3875,-3621.6422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,増田歯科医院,長野県松本市沢村２-５-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="増田歯科医院" transform="ref(svg,13796.8743,-3624.9517)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢島歯科クリニック,長野県松本市島立荒井５６７,歯科,,,9" xlink:title="矢島歯科クリニック" transform="ref(svg,13794.8589,-3623.4239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本市歯科医師会歯科診療所,長野県松本市深志２-３-２１,歯科,,,9" xlink:title="松本市歯科医師会歯科診療所" transform="ref(svg,13796.8901,-3622.921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川上歯科医院,長野県松本市梓川梓２３３２-１,歯科,,,9" xlink:title="川上歯科医院" transform="ref(svg,13786.5704,-3622.2681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,唐沢歯科医院,長野県松本市大字今井８０９０-２,歯科　小児歯科,,,9" xlink:title="唐沢歯科医院" transform="ref(svg,13791.6851,-3616.2146)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおた歯科医院,長野県松本市島内上久保田４９９１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="おおた歯科医院" transform="ref(svg,13794.2722,-3625.1019)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平林歯科小児歯科医院,長野県松本市中央２-５-３,歯科　小児歯科,,,9" xlink:title="平林歯科小児歯科医院" transform="ref(svg,13796.9647,-3623.2702)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,長野県松本市石芝４-１-３６,歯科　小児歯科　矯正歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13794.4372,-3620.5834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中嶋歯科医院,長野県松本市城東１-１-６,歯科,,,9" xlink:title="中嶋歯科医院" transform="ref(svg,13797.3416,-3623.7562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,呉本歯科医院,長野県松本市芳野２-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="呉本歯科医院" transform="ref(svg,13796.7551,-3620.6968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岱心会アワノ歯科,長野県松本市波田９７５５-１,歯科,,,9" xlink:title="岱心会アワノ歯科" transform="ref(svg,13785.0021,-3619.594)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村山歯科医院,長野県松本市寿北６-３５-１,歯科,,,9" xlink:title="村山歯科医院" transform="ref(svg,13797.3739,-3619.2602)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹渕歯科医院,長野県松本市深志２-１-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="竹渕歯科医院" transform="ref(svg,13796.8408,-3623.0628)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,酒井歯科医院,長野県松本市中央４-７-１１,歯科　小児歯科　矯正歯科,,,9" xlink:title="酒井歯科医院" transform="ref(svg,13797.5838,-3623.3543)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久根下歯科医院,長野県松本市里山辺３２７５,歯科　小児歯科　矯正歯科,,,9" xlink:title="久根下歯科医院" transform="ref(svg,13799.7412,-3623.6428)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沢田歯科医院,長野県松本市寿中１-４１-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="沢田歯科医院" transform="ref(svg,13796.9933,-3618.2514)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グリーン歯科,長野県松本市笹賀３４８７-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="グリーン歯科" transform="ref(svg,13793.2932,-3617.684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）平沼歯科医院,長野県松本市女鳥羽２-１-３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）平沼歯科医院" transform="ref(svg,13797.7926,-3624.0071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,長野県松本市宮田３１-３１,歯科　小児歯科　矯正歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13795.7242,-3620.6961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,倉科歯科医院,長野県松本市大字神林３６３１-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="倉科歯科医院" transform="ref(svg,13792.958,-3619.6876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂下歯科医院,長野県松本市里山辺１５６１-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="坂下歯科医院" transform="ref(svg,13799.7575,-3624.0065)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金井歯科医院,長野県松本市梓川倭２５９６-１１,歯科,,,9" xlink:title="金井歯科医院" transform="ref(svg,13789.9895,-3623.7441)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科ナカタ,長野県松本市深志１-１-２１,歯科　小児歯科　矯正歯科,,,9" xlink:title="歯科ナカタ" transform="ref(svg,13796.6306,-3622.7862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科診療所,長野県松本市大字岡田町４６９,歯科,,,9" xlink:title="遠藤歯科診療所" transform="ref(svg,13797.9683,-3626.9362)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中嶋歯科医院,長野県松本市平田西２-１０-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="中嶋歯科医院" transform="ref(svg,13795.837,-3619.0329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田小林歯科医院,長野県松本市岡田町４８９-１９,歯科　小児歯科　矯正歯科,,,9" xlink:title="岡田小林歯科医院" transform="ref(svg,13797.8138,-3626.7335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科医院,長野県松本市島立２２３７-７６,歯科　小児歯科　矯正歯科,,,9" xlink:title="杉山歯科医院" transform="ref(svg,13793.9418,-3623.5688)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,汲田歯科医院,長野県松本市横田２-６-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="汲田歯科医院" transform="ref(svg,13798.4134,-3624.3051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三溝歯科医院,長野県松本市埋橋２-１１-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="三溝歯科医院" transform="ref(svg,13798.0498,-3622.8468)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,望月歯科医院,長野県松本市城東１-６-５,歯科　小児歯科　矯正歯科,,,9" xlink:title="望月歯科医院" transform="ref(svg,13797.36,-3623.8486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,長野県松本市中央１-１７-２１,歯科　小児歯科　矯正歯科,,,9" xlink:title="原歯科医院" transform="ref(svg,13796.5269,-3623.3325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,腰原歯科医院,長野県松本市新村２２９９-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="腰原歯科医院" transform="ref(svg,13790.855,-3622.2616)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高林歯科クリニック,長野県松本市井川城２-１２-９,歯科　小児歯科　矯正歯科,,,9" xlink:title="高林歯科クリニック" transform="ref(svg,13796.8519,-3621.8189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大山歯科医院,長野県松本市筑摩３-２-６,歯科　小児歯科,,,9" xlink:title="大山歯科医院" transform="ref(svg,13798.0881,-3622.0922)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,片瀬歯科医院,長野県松本市北深志１-８-３,歯科,,,9" xlink:title="片瀬歯科医院" transform="ref(svg,13797.1856,-3624.1949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いぬい歯科医院,長野県松本市笹賀３３３９-１７,歯科　小児歯科,,,9" xlink:title="いぬい歯科医院" transform="ref(svg,13792.8734,-3617.6344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉本歯科医院,長野県松本市深志３-１-２５深志ビル２Ｆ,歯科,,,9" xlink:title="杉本歯科医院" transform="ref(svg,13797.1763,-3623.0742)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高宮中央歯科,長野県松本市高宮中７-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="高宮中央歯科" transform="ref(svg,13795.6943,-3621.4839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こし歯科医院,長野県松本市中央３-６-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="こし歯科医院" transform="ref(svg,13797.2595,-3623.2599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,長野県松本市渚３-１-４４,歯科,,,9" xlink:title="清水歯科医院" transform="ref(svg,13795.5525,-3623.138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,長野県松本市清水２-３-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13798.1755,-3623.7053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松崎歯科医院,長野県松本市元町３-５-１５,歯科　小児歯科,,,9" xlink:title="松崎歯科医院" transform="ref(svg,13798.274,-3625.015)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金井歯科医院,長野県松本市城西２-２-３,歯科　矯正歯科,,,9" xlink:title="金井歯科医院" transform="ref(svg,13796.6726,-3623.7595)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のもと歯科,長野県松本市中央４-４-２４,歯科　小児歯科　矯正歯科,,,9" xlink:title="のもと歯科" transform="ref(svg,13797.7614,-3623.2241)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もとむら歯科医院,長野県松本市城西１-２-３松本折込広告ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="もとむら歯科医院" transform="ref(svg,13796.3979,-3623.7683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かずみ歯科クリニック,長野県松本市島内９９０-２,歯科　小児歯科,,,9" xlink:title="かずみ歯科クリニック" transform="ref(svg,13792.4214,-3623.6786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あうる歯科医院,長野県松本市村井町南１-３６-１２ちくまビル２Ｆ,歯科　小児歯科,,,9" xlink:title="あうる歯科医院" transform="ref(svg,13795.6788,-3617.5261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,との歯科医院,長野県松本市和田字川内２５７１-６１,歯科　小児歯科　矯正歯科,,,9" xlink:title="との歯科医院" transform="ref(svg,13790.7459,-3619.8649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤森歯科医院,長野県松本市中央２-９-２７,歯科　小児歯科　矯正歯科,,,9" xlink:title="藤森歯科医院" transform="ref(svg,13797.1202,-3623.2499)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こみや歯科医院,長野県松本市島内４９７-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="こみや歯科医院" transform="ref(svg,13792.3193,-3623.4316)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩原歯科医院,長野県松本市深志２-２-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="岩原歯科医院" transform="ref(svg,13796.907,-3623.0999)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほり歯科クリニック,長野県松本市筑摩４-３-４５,歯科　小児歯科　矯正歯科,,,9" xlink:title="ほり歯科クリニック" transform="ref(svg,13798.5016,-3622.5531)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なお歯科小児歯科医院,長野県松本市島内４０４７-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="なお歯科小児歯科医院" transform="ref(svg,13794.235,-3624.0582)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小坂歯科医院,長野県松本市小屋南１-１２-１１,歯科　小児歯科,,,9" xlink:title="小坂歯科医院" transform="ref(svg,13795.598,-3618.0831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あかはね矯正歯科クリニック,長野県松本市中央１-７-２４山田ビル２Ｆ,歯科　矯正歯科,,,9" xlink:title="あかはね矯正歯科クリニック" transform="ref(svg,13796.8004,-3623.1277)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根橋歯科医院,長野県松本市桐３-３-１７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="根橋歯科医院" transform="ref(svg,13797.2529,-3625.604)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,等々力歯科医院,長野県松本市白板１-７-３４,歯科　小児歯科　矯正歯科,,,9" xlink:title="等々力歯科医院" transform="ref(svg,13796.0654,-3623.6824)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科クリニック,長野県松本市深志２-６-２５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="丸山歯科クリニック" transform="ref(svg,13797.1032,-3623.0796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）孔歯会シーエーティー矯正歯科クリニック,長野県松本市本庄２-８-１５,歯科　小児歯科,,,9" xlink:title="（医）孔歯会シーエーティー矯正歯科クリニック" transform="ref(svg,13797.3985,-3622.7467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北澤歯科医院,長野県松本市渚２-９-５４,歯科,,,9" xlink:title="北澤歯科医院" transform="ref(svg,13796.0704,-3622.7599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武井歯科医院,長野県松本市桐１-２-２６,歯科　小児歯科,,,9" xlink:title="武井歯科医院" transform="ref(svg,13797.4706,-3624.8303)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科クリニック,長野県松本市並柳２-９-２,歯科　小児歯科,,,9" xlink:title="川村歯科クリニック" transform="ref(svg,13798.0066,-3621.3155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,百瀬歯科医院,長野県松本市中央１-２８-１１,歯科　小児歯科,,,9" xlink:title="百瀬歯科医院" transform="ref(svg,13796.3699,-3623.3563)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかじま歯科医院,長野県松本市会田６６８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なかじま歯科医院" transform="ref(svg,13799.5639,-3635.0859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,長野県松本市丸の内２-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,13797.1633,-3623.6502)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,砂原歯科医院,長野県松本市開智２-２-２１,歯科　小児歯科,,,9" xlink:title="砂原歯科医院" transform="ref(svg,13797.1348,-3624.1118)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神谷歯科医院,長野県松本市県３-７-４１,歯科　小児歯科　矯正歯科,,,9" xlink:title="神谷歯科医院" transform="ref(svg,13798.5248,-3623.1384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごうや歯科,長野県松本市大手１-３-３２,歯科　小児歯科,,,9" xlink:title="ごうや歯科" transform="ref(svg,13796.4773,-3623.5279)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,長野県松本市大字新村１９８４-４,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13791.3479,-3621.7791)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たんぽぽ小野歯科医院,長野県松本市大字新村１５１-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="たんぽぽ小野歯科医院" transform="ref(svg,13792.2268,-3621.5843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おひさま歯科医院,長野県松本市寿南１-３８-１１,歯科,,,9" xlink:title="おひさま歯科医院" transform="ref(svg,13797.114,-3617.3696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せきざわ歯科医院,長野県松本市梓川倭２５-３,歯科　小児歯科,,,9" xlink:title="せきざわ歯科医院" transform="ref(svg,13788.8305,-3624.1651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわま歯科医院,長野県松本市島立１４１８-４,歯科　小児歯科,,,9" xlink:title="いわま歯科医院" transform="ref(svg,13794.2207,-3623.1836)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おばた矯正歯科クリニック,長野県松本市女鳥羽１-７-２３,矯正歯科,,,9" xlink:title="おばた矯正歯科クリニック" transform="ref(svg,13797.7423,-3623.9295)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,長野県松本市庄内１-１０-３１,歯科　歯科口腔外科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13797.1314,-3622.2428)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなか歯科医院,長野県松本市和田１６７２-２,歯科,,,9" xlink:title="たなか歯科医院" transform="ref(svg,13792.1091,-3620.3267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまびこ歯科クリニック,長野県松本市大字笹賀１９０４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまびこ歯科クリニック" transform="ref(svg,13793.3556,-3616.55)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とどろき歯科医院,長野県松本市大字浅間温泉１-１０-２５,歯科　小児歯科　矯正歯科,,,9" xlink:title="とどろき歯科医院" transform="ref(svg,13798.6418,-3625.765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,長野県松本市村井町南３-４-２６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13795.8641,-3617.3749)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,望月デンタルクリニック,長野県松本市両島１-１３,歯科,,,9" xlink:title="望月デンタルクリニック" transform="ref(svg,13795.2564,-3622.3977)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまと歯科診療所,長野県松本市梓川倭６０５-４,歯科,,,9" xlink:title="やまと歯科診療所" transform="ref(svg,13788.7028,-3623.235)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科クリニック,長野県松本市内田５８７-５,歯科　小児歯科,,,9" xlink:title="横山歯科クリニック" transform="ref(svg,13798.7895,-3617.1725)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新村歯科医院,長野県松本市宮田２３-２,歯科,,,9" xlink:title="新村歯科医院" transform="ref(svg,13795.8122,-3620.9165)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,犬飼歯科セントラル・ビオス診療所,長野県松本市大手２-９-２３,歯科,,,9" xlink:title="犬飼歯科セントラル・ビオス診療所" transform="ref(svg,13796.6463,-3623.6555)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ひばりケ丘歯科医院,長野県松本市波田５２６８-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="（医）ひばりケ丘歯科医院" transform="ref(svg,13785.9433,-3619.8486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）中央歯科医院,長野県松本市波田５４３５,歯科　小児歯科,,,9" xlink:title="（医）中央歯科医院" transform="ref(svg,13785.8395,-3620.243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科クリニック,長野県松本市宮田２４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小川歯科クリニック" transform="ref(svg,13795.7692,-3620.9491)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）真関歯科医院,長野県松本市波田９８０１-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）真関歯科医院" transform="ref(svg,13785.5083,-3619.7632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナミキ歯科医院,長野県松本市松原４７-４ユウビル２Ｆ,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="ナミキ歯科医院" transform="ref(svg,13798.8621,-3617.5983)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白百合デンタルクリニック,長野県松本市庄内２-６-４２,歯科　小児歯科,,,9" xlink:title="白百合デンタルクリニック" transform="ref(svg,13797.2921,-3622.2179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,長野県松本市丸の内１-９,歯科,,,9" xlink:title="原歯科医院" transform="ref(svg,13797.0888,-3623.6927)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平田駅前歯科,長野県松本市平田東２-２０-１１,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="平田駅前歯科" transform="ref(svg,13796.3443,-3619.0926)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上島歯科医院,長野県松本市村井町南１-３２-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="上島歯科医院" transform="ref(svg,13795.9393,-3617.5771)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおぞら歯科医院,長野県松本市野溝木工１-６-３２,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="あおぞら歯科医院" transform="ref(svg,13796.022,-3620.2584)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐野歯科医院,長野県松本市寿台２-６-１２,歯科,,,9" xlink:title="佐野歯科医院" transform="ref(svg,13798.1251,-3617.5536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,めいデンタルクリニック,長野県松本市梓川倭５４３-６パステルコート梓２０２,歯科,,,9" xlink:title="めいデンタルクリニック" transform="ref(svg,13789.1433,-3623.5198)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川崎歯科・矯正歯科医院,長野県松本市高宮北６-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="川崎歯科・矯正歯科医院" transform="ref(svg,13795.8142,-3621.8448)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いこい歯科クリニック,長野県松本市島内４１５５-１,歯科,,,9" xlink:title="いこい歯科クリニック" transform="ref(svg,13794.4381,-3624.2256)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩垂歯科医院,長野県塩尻市大字広丘原新田３０６-７,歯科,,,9" xlink:title="岩垂歯科医院" transform="ref(svg,13794.5176,-3615.1062)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,長野県塩尻市大字広丘吉田上ノ原１２４７-３,歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13795.5722,-3615.8051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,長野県塩尻市大門六番町３-２５,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13795.562,-3611.4585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今井歯科医院,長野県塩尻市大字大小屋１２３,歯科,,,9" xlink:title="今井歯科医院" transform="ref(svg,13796.6111,-3610.8062)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松井歯科医院,長野県塩尻市大字洗馬２５７３,歯科,,,9" xlink:title="松井歯科医院" transform="ref(svg,13791.4425,-3611.1511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小松歯科医院,長野県塩尻市大字北小野前田４０-５,歯科　小児歯科　矯正歯科,,,9" xlink:title="小松歯科医院" transform="ref(svg,13796.9467,-3605.054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,長野県塩尻市片丘南内田堺沢４９４９-２,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13797.6645,-3614.3601)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細川歯科第２診療所,長野県塩尻市広丘野村１７８７-１０２,歯科,,,9" xlink:title="細川歯科第２診療所" transform="ref(svg,13795.5538,-3613.5649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うすい歯科医院,長野県塩尻市木曽平沢１７４６,歯科,,,9" xlink:title="うすい歯科医院" transform="ref(svg,13783.2037,-3597.9631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鴨居歯科医院,長野県塩尻市大門一番町１６-１４,歯科　小児歯科　矯正歯科,,,9" xlink:title="鴨居歯科医院" transform="ref(svg,13795.4268,-3611.2365)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はせがわ歯科医院,長野県塩尻市広丘吉田８８２-４,歯科　小児歯科,,,9" xlink:title="はせがわ歯科医院" transform="ref(svg,13794.719,-3615.7144)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわしま歯科医院,長野県塩尻市大門６８-８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="かわしま歯科医院" transform="ref(svg,13794.5219,-3611.6819)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ツカハラ歯科医院,長野県塩尻市大門３-１-５,歯科　小児歯科,,,9" xlink:title="ツカハラ歯科医院" transform="ref(svg,13795.5475,-3611.0965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊沢歯科医院,長野県塩尻市大門泉町１-１６,歯科　小児歯科,,,9" xlink:title="伊沢歯科医院" transform="ref(svg,13795.823,-3611.6651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青木歯科医院,長野県塩尻市広丘高出桔梗ケ原１４８６-７２３,歯科　小児歯科　矯正歯科,,,9" xlink:title="青木歯科医院" transform="ref(svg,13795.1518,-3612.1691)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,塚越歯科医院,長野県塩尻市大門桔梗町１０-２１,歯科,,,9" xlink:title="塚越歯科医院" transform="ref(svg,13795.2015,-3611.77)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三野歯科医院,長野県塩尻市広丘原新田２２５-２７,歯科　小児歯科,,,9" xlink:title="三野歯科医院" transform="ref(svg,13794.5795,-3614.8969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つづく歯科医院,長野県塩尻市広丘吉田２９０２-９,歯科　小児歯科　矯正歯科,,,9" xlink:title="つづく歯科医院" transform="ref(svg,13795.4819,-3616.3143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝歯科医院,長野県塩尻市広丘吉田３１５-８,歯科　小児歯科,,,9" xlink:title="滝歯科医院" transform="ref(svg,13795.7697,-3616.8813)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細川歯科医院,長野県塩尻市大門３-２-７,歯科,,,9" xlink:title="細川歯科医院" transform="ref(svg,13795.749,-3611.0757)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮下歯科医院,長野県塩尻市広丘吉田３１３６,歯科,,,9" xlink:title="宮下歯科医院" transform="ref(svg,13794.7552,-3615.8702)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,廣友会ひろ矯正歯科,長野県塩尻市広丘野村１６５８-２３,矯正歯科,,,9" xlink:title="廣友会ひろ矯正歯科" transform="ref(svg,13795.0715,-3614.8092)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科クリニック,長野県塩尻市広丘野村２１８３,歯科,,,9" xlink:title="清水歯科クリニック" transform="ref(svg,13795.8519,-3614.8193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白木歯科医院,長野県塩尻市大門１-８-１８,歯科,,,9" xlink:title="白木歯科医院" transform="ref(svg,13795.3843,-3611.109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヤマサキ歯科医院,長野県塩尻市広丘野村九里幅１０９０-５九里幅１９,歯科,,,9" xlink:title="ヤマサキ歯科医院" transform="ref(svg,13795.4177,-3613.9457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科医院,長野県塩尻市大門八番町５-１,歯科　小児歯科,,,9" xlink:title="関歯科医院" transform="ref(svg,13795.0865,-3611.2164)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいわい歯科医院,長野県塩尻市大門幸町８-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さいわい歯科医院" transform="ref(svg,13795.5514,-3611.9045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堅石よねだ歯科医院,長野県塩尻市広丘堅石３１１３,歯科　小児歯科,,,9" xlink:title="堅石よねだ歯科医院" transform="ref(svg,13794.7587,-3614.1766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内川歯科医院,長野県塩尻市大字広丘野村２１１５,歯科　小児歯科,,,9" xlink:title="内川歯科医院" transform="ref(svg,13795.5464,-3614.9116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科手塚医院,長野県塩尻市宗賀７３-２５８,歯科,,,9" xlink:title="歯科手塚医院" transform="ref(svg,13794.2803,-3611.5444)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えんぱーく歯科クリニック,長野県塩尻市大門一番町６１２-４-４０２,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="えんぱーく歯科クリニック" transform="ref(svg,13795.2739,-3611.1974)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおば歯科医院,長野県塩尻市広丘吉田３３１０,歯科　小児歯科,,,9" xlink:title="あおば歯科医院" transform="ref(svg,13795.1184,-3616.3245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松村歯科医院,長野県安曇野市明科中川手６８３７-１,歯科　矯正歯科,,,9" xlink:title="松村歯科医院" transform="ref(svg,13793.0995,-3635.5523)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,長野県安曇野市穂高４３２８,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13788.6227,-3634.1864)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠原歯科医院,長野県安曇野市豊科４７６６,歯科,,,9" xlink:title="笠原歯科医院" transform="ref(svg,13790.4235,-3630.1153)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山歯科医院,長野県安曇野市明科中川手３８２０-２,歯科　小児歯科,,,9" xlink:title="小山歯科医院" transform="ref(svg,13792.733,-3635.4606)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤羽歯科医院,長野県安曇野市三郷明盛１６７０-１,歯科,,,9" xlink:title="赤羽歯科医院" transform="ref(svg,13789.9162,-3625.7428)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,長野県安曇野市豊科４７００-４,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13790.408,-3629.7467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科医院,長野県安曇野市穂高北穂高２９８７-１,歯科,,,9" xlink:title="丸山歯科医院" transform="ref(svg,13787.4901,-3637.1539)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,長野県安曇野市豊科高家５５８１-１,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13791.5004,-3625.9642)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,長野県安曇野市明科中川手２７４９-１,歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,13792.3776,-3634.8998)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上月歯科医院,長野県安曇野市穂高５５７１-１,歯科,,,9" xlink:title="上月歯科医院" transform="ref(svg,13787.7572,-3634.2361)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田野歯科医院,長野県安曇野市穂高柏原２８２８-７７,歯科,,,9" xlink:title="田野歯科医院" transform="ref(svg,13787.3184,-3632.0588)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下條歯科医院,長野県安曇野市堀金烏川２６４６-３,歯科　小児歯科,,,9" xlink:title="下條歯科医院" transform="ref(svg,13787.6181,-3629.5851)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヒカリ歯科医院,長野県安曇野市穂高５６８５-３,歯科,,,9" xlink:title="ヒカリ歯科医院" transform="ref(svg,13788.0775,-3634.1745)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐野歯科クリニック,長野県安曇野市穂高６０６１,歯科,,,9" xlink:title="佐野歯科クリニック" transform="ref(svg,13788.699,-3633.9302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,布山歯科医院,長野県安曇野市三郷温２２５１-１,歯科,,,9" xlink:title="布山歯科医院" transform="ref(svg,13788.3801,-3625.3585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大谷歯科医院,長野県安曇野市豊科田沢７０３９-１２２,歯科,,,9" xlink:title="大谷歯科医院" transform="ref(svg,13792.9779,-3630.0216)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,越川歯科医院,長野県安曇野市穂高５４２２-１０,歯科,,,9" xlink:title="越川歯科医院" transform="ref(svg,13787.3128,-3634.2293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天野歯科医院,長野県安曇野市豊科南穂高４８７-１,歯科,,,9" xlink:title="天野歯科医院" transform="ref(svg,13790.9608,-3630.2416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀金歯科医院,長野県安曇野市堀金三田１１２２-６,歯科,,,9" xlink:title="堀金歯科医院" transform="ref(svg,13787.1129,-3629.185)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科医院,長野県安曇野市豊科４６８２-６,歯科,,,9" xlink:title="丸山歯科医院" transform="ref(svg,13790.2779,-3629.897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よこさわ歯科医院,長野県安曇野市穂高柏原９２６-１,歯科,,,9" xlink:title="よこさわ歯科医院" transform="ref(svg,13789.127,-3632.5266)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯島歯科医院,長野県安曇野市穂高６９３７-３,歯科,,,9" xlink:title="飯島歯科医院" transform="ref(svg,13788.1914,-3633.4197)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科医院,長野県安曇野市豊科高家２８８,歯科　小児歯科　矯正歯科,,,9" xlink:title="飯田歯科医院" transform="ref(svg,13792.7116,-3626.806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,長野県安曇野市豊科６２７-１-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13791.09,-3627.1486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋喜博歯科醫院,長野県安曇野市堀金烏川１７６１-５,歯科,,,9" xlink:title="高橋喜博歯科醫院" transform="ref(svg,13786.0543,-3630.5431)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,長野県安曇野市穂高有明１０３０８-１,歯科　小児歯科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,13785.9099,-3634.1112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アルプス歯科クリニック,長野県安曇野市三郷明盛３０８６-６,歯科　小児歯科,,,9" xlink:title="アルプス歯科クリニック" transform="ref(svg,13789.68,-3627.6131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いさつ歯科医院,長野県安曇野市豊科南穂高４７４２,歯科,,,9" xlink:title="いさつ歯科医院" transform="ref(svg,13791.1279,-3631.6444)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かえで歯科医院,長野県安曇野市穂高８２２３-１,歯科　小児歯科,,,9" xlink:title="かえで歯科医院" transform="ref(svg,13786.5201,-3633.2082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上條歯科医院,長野県安曇野市穂高５９８５-３,歯科,,,9" xlink:title="上條歯科医院" transform="ref(svg,13788.4973,-3634.0001)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちかぞえ歯科医院,長野県安曇野市豊科１０３８-３,歯科,,,9" xlink:title="ちかぞえ歯科医院" transform="ref(svg,13790.7646,-3628.0157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,長野県安曇野市三郷明盛４６８８-４,歯科　矯正歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13788.8201,-3625.9366)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,そのえ歯科,長野県安曇野市豊科４３１７-１０道友ビル１０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="そのえ歯科" transform="ref(svg,13790.5108,-3629.8935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クリーン歯科クリニック,長野県安曇野市豊科５８２６-２,歯科,,,9" xlink:title="クリーン歯科クリニック" transform="ref(svg,13790.2207,-3630.4207)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科クリニック,長野県安曇野市穂高９９７-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山本歯科クリニック" transform="ref(svg,13789.2038,-3632.6002)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内田歯科クリニック,長野県安曇野市堀金烏川２５７１-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="内田歯科クリニック" transform="ref(svg,13787.0769,-3629.3838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土居歯科医院,長野県安曇野市豊科南穂高２７２９-１,歯科　小児歯科,,,9" xlink:title="土居歯科医院" transform="ref(svg,13791.2112,-3630.9355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,市川歯科医院,長野県安曇野市豊科４９１０,歯科,,,9" xlink:title="市川歯科医院" transform="ref(svg,13790.2029,-3630.0758)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢島歯科医院,長野県安曇野市豊科４７９１,歯科,,,9" xlink:title="矢島歯科医院" transform="ref(svg,13790.3671,-3630.1612)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,長野県安曇野市明科中川手３２９５,歯科　矯正歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13792.8559,-3635.1747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,けやき歯科,長野県安曇野市堀金烏川５０２８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="けやき歯科" transform="ref(svg,13787.6734,-3630.0475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほのぼのデンタルクリニック,長野県安曇野市豊科５８７０-２-１０２,歯科,,,9" xlink:title="ほのぼのデンタルクリニック" transform="ref(svg,13790.1707,-3630.5459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,甕歯科医院,長野県安曇野市豊科３８６７-２,歯科,,,9" xlink:title="甕歯科医院" transform="ref(svg,13791.3719,-3629.5251)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,聖歯科診療所,長野県東筑摩郡麻績村字検校免３８２９-３,歯科,,,9" xlink:title="聖歯科診療所" transform="ref(svg,13804.6406,-3645.5412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,生坂村歯科診療所,長野県東筑摩郡生坂村５８０４-１,歯科,,,9" xlink:title="生坂村歯科診療所" transform="ref(svg,13792.4703,-3643.1877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下島歯科医院,長野県東筑摩郡山形村２５８７-２,歯科　小児歯科,,,9" xlink:title="下島歯科医院" transform="ref(svg,13787.7102,-3616.3798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウエムラ歯科医院,長野県東筑摩郡山形村上竹田５５１１-１０,歯科,,,9" xlink:title="ウエムラ歯科医院" transform="ref(svg,13788.445,-3617.7479)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまもと歯科医院,長野県東筑摩郡山形村北竹原５５９５-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまもと歯科医院" transform="ref(svg,13788.9984,-3618.5826)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みむら歯科医院,長野県東筑摩郡朝日村西洗馬１４１８-１,歯科,,,9" xlink:title="みむら歯科医院" transform="ref(svg,13788.2346,-3612.1744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浜坂歯科医院,長野県東筑摩郡朝日村大字古見３４７５-５,歯科　小児歯科,,,9" xlink:title="浜坂歯科医院" transform="ref(svg,13787.9406,-3614.4125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,長野県東筑摩郡筑北村坂北４４５９-２,歯科　小児歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,13801.4951,-3642.8575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平林歯科医院,長野県大町市大町１１２３,歯科　矯正歯科,,,9" xlink:title="平林歯科医院" transform="ref(svg,13786.2508,-3650.6336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西澤歯科医院,長野県大町市大町５３６８,歯科,,,9" xlink:title="西澤歯科医院" transform="ref(svg,13785.0267,-3651.0834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,長野県大町市大町１４７７-８,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13785.8105,-3651.453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横澤歯科医院,長野県大町市大町４１７９-３,歯科,,,9" xlink:title="横澤歯科医院" transform="ref(svg,13785.5002,-3650.8292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけうち歯科医院,長野県大町市常盤３５８７-１,歯科,,,9" xlink:title="たけうち歯科医院" transform="ref(svg,13784.8611,-3646.6162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮下歯科医院,長野県大町市大町４０８６,歯科,,,9" xlink:title="宮下歯科医院" transform="ref(svg,13785.8865,-3650.5511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,グリーン歯科クリニック,長野県大町市大町４００３-１４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="グリーン歯科クリニック" transform="ref(svg,13785.5142,-3650.471)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オクハラ・デンタル・クリニック,長野県大町市大町３１７０,歯科　矯正歯科,,,9" xlink:title="オクハラ・デンタル・クリニック" transform="ref(svg,13786.0202,-3649.9368)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,砂田歯科医院,長野県大町市大町３１４０,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="砂田歯科医院" transform="ref(svg,13785.9157,-3650.121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いいざわ歯科医院,長野県大町市大町１９０４-１０,歯科,,,9" xlink:title="いいざわ歯科医院" transform="ref(svg,13785.0702,-3652.0566)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科医院,長野県大町市大町２９１１-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="金子歯科医院" transform="ref(svg,13786.2105,-3649.8732)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,長野県北安曇郡池田町池田４３１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,13787.7166,-3642.1729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,師岡歯科,長野県北安曇郡池田町会染５０９７-２,歯科　小児歯科,,,9" xlink:title="師岡歯科" transform="ref(svg,13788.1711,-3640.6814)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小田切歯科医院,長野県北安曇郡池田町池田４３８３-１,歯科,,,9" xlink:title="小田切歯科医院" transform="ref(svg,13787.849,-3641.7487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科医院,長野県北安曇郡松川村２５２-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="いとう歯科医院" transform="ref(svg,13785.1189,-3642.0869)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡江歯科医院,長野県北安曇郡松川村５７２３-６,歯科,,,9" xlink:title="岡江歯科医院" transform="ref(svg,13786.1955,-3642.2161)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あづみ野歯科,長野県北安曇郡松川村７００２,歯科　小児歯科　矯正歯科,,,9" xlink:title="あづみ野歯科" transform="ref(svg,13785.8076,-3641.7021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科クリニック,長野県北安曇郡松川村７０１８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="丸山歯科クリニック" transform="ref(svg,13785.7215,-3642.2976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きらり歯科医院,長野県北安曇郡松川村５６８９-３４９,歯科,,,9" xlink:title="きらり歯科医院" transform="ref(svg,13785.897,-3641.2742)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,長野県千曲市上山田温泉１-３４-９,歯科　小児歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13814.2797,-3648.2483)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,若林歯科医院,長野県千曲市大字杭瀬下５０,歯科　小児歯科,,,9" xlink:title="若林歯科医院" transform="ref(svg,13812.2116,-3653.099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝沢歯科医院,長野県千曲市大字粟佐１２９１,歯科,,,9" xlink:title="滝沢歯科医院" transform="ref(svg,13812.0217,-3653.5472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,長野県千曲市大字屋代３０９-１,歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,13813.5736,-3653.5391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝沢歯科医院,長野県千曲市大字磯部９９２-５,歯科,,,9" xlink:title="滝沢歯科医院" transform="ref(svg,13815.2634,-3648.0904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮島歯科医院,長野県千曲市大字粟佐１５８８,歯科,,,9" xlink:title="宮島歯科医院" transform="ref(svg,13812.3357,-3653.7281)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,長野県千曲市大字稲荷山１０７７-１,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,13810.0106,-3653.0264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柳沢歯科医院,長野県千曲市大字稲荷山下通６２５-１２,歯科,,,9" xlink:title="柳沢歯科医院" transform="ref(svg,13810.6184,-3653.8706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宮本会宮本歯科医院,長野県千曲市大字戸倉字鎮守１９２３-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）宮本会宮本歯科医院" transform="ref(svg,13814.8863,-3649.0692)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）大村歯科医院,長野県千曲市大字戸倉１６９７,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）大村歯科医院" transform="ref(svg,13815.2891,-3648.8625)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青木歯科医院,長野県千曲市大字八幡３００４-２２,歯科　小児歯科,,,9" xlink:title="青木歯科医院" transform="ref(svg,13810.4291,-3651.9548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前山歯科医院,長野県千曲市上徳間６８,歯科　小児歯科,,,9" xlink:title="前山歯科医院" transform="ref(svg,13814.9188,-3649.3776)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,榑沼歯科医院,長野県千曲市大字内川字堀田久保８０４-１,歯科　歯科口腔外科,,,9" xlink:title="榑沼歯科医院" transform="ref(svg,13813.2921,-3650.8862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）武井会たけい歯科クリニック,長野県千曲市大字鋳物師屋４８９-５,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）武井会たけい歯科クリニック" transform="ref(svg,13812.2971,-3652.181)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こみやま歯科医院,長野県千曲市大字力石１３１２-７,歯科　小児歯科,,,9" xlink:title="こみやま歯科医院" transform="ref(svg,13816.1422,-3646.4082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しおいり歯科医院,長野県千曲市雨宮７４４-５,歯科　小児歯科,,,9" xlink:title="しおいり歯科医院" transform="ref(svg,13814.6013,-3654.9568)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮坂歯科医院,長野県千曲市大字小島３１５０,歯科　矯正歯科,,,9" xlink:title="宮坂歯科医院" transform="ref(svg,13812.6446,-3653.2215)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科医院,長野県千曲市粟佐１１３０-１,歯科,,,9" xlink:title="関歯科医院" transform="ref(svg,13812.2919,-3654.0751)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大塚歯科クリニック,長野県千曲市上山田温泉４-３-５,歯科　小児歯科,,,9" xlink:title="大塚歯科クリニック" transform="ref(svg,13814.7255,-3647.4243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あんず歯科クリニック,長野県千曲市大字須坂５０３-１,歯科　小児歯科,,,9" xlink:title="あんず歯科クリニック" transform="ref(svg,13811.3453,-3650.5622)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,長野県千曲市大字稲荷山２１５２-５,歯科　小児歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,13810.212,-3653.6623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,長野県埴科郡坂城町大字中之条１１０４,歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13819.2368,-3644.6143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松尾歯科医院,長野県埴科郡坂城町大字坂城６７６５,歯科,,,9" xlink:title="松尾歯科医院" transform="ref(svg,13818.9222,-3646.0834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮原歯科医院,長野県埴科郡坂城町大字網掛３１６８-１,歯科,,,9" xlink:title="宮原歯科医院" transform="ref(svg,13816.9154,-3644.8314)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あかいけ歯科クリニック,長野県埴科郡坂城町大字南条７０６３-１,歯科　小児歯科,,,9" xlink:title="あかいけ歯科クリニック" transform="ref(svg,13819.276,-3642.718)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小宮山歯科医院,長野県埴科郡坂城町大字坂城６３８５,歯科　小児歯科,,,9" xlink:title="小宮山歯科医院" transform="ref(svg,13818.0966,-3646.4355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林デンタルクリニック,長野県長野市松代町西条４００７-７,歯科,,,9" xlink:title="小林デンタルクリニック" transform="ref(svg,13820.6136,-3655.2803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村松歯科医院,長野県長野市松代町字御安１１３５,歯科　小児歯科,,,9" xlink:title="村松歯科医院" transform="ref(svg,13820.3124,-3656.1928)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）山崎歯科医院,長野県長野市篠ノ井塩崎３７３９-４,歯科,,,9" xlink:title="（医）山崎歯科医院" transform="ref(svg,13811.1033,-3655.2626)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山歯科医院,長野県長野市松代町松代１５５１,歯科,,,9" xlink:title="小山歯科医院" transform="ref(svg,13819.4853,-3656.0943)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,長野県長野市松代町松代５１２,歯科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,13819.9256,-3656.2229)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長野市国民健康保険大岡歯科診療所,長野県長野市大岡甲４４３８-１,歯科,,,9" xlink:title="長野市国民健康保険大岡歯科診療所" transform="ref(svg,13796.5218,-3653.5308)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植野歯科医院,長野県岡谷市銀座２-８-９,歯科,,,9" xlink:title="植野歯科医院" transform="ref(svg,13805.4626,-3606.8743)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠原歯科医院,長野県岡谷市幸町８-３２,歯科,,,9" xlink:title="笠原歯科医院" transform="ref(svg,13805.103,-3606.7425)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮坂歯科診療所,長野県岡谷市中央町１-９-２,歯科,,,9" xlink:title="宮坂歯科診療所" transform="ref(svg,13804.7264,-3605.8319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三井歯科医院,長野県岡谷市神明町３-１-１２,歯科,,,9" xlink:title="三井歯科医院" transform="ref(svg,13804.7478,-3607.8312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小口歯科第２クリニック,長野県岡谷市長地権現町２-１-５６,歯科　小児歯科,,,9" xlink:title="小口歯科第２クリニック" transform="ref(svg,13807.1699,-3606.6392)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,南信堂歯科医院,長野県岡谷市加茂町２-１６-１２,歯科,,,9" xlink:title="南信堂歯科医院" transform="ref(svg,13804.9963,-3607.4331)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホワイト歯科医院,長野県岡谷市長地小萩３-４-６,歯科,,,9" xlink:title="ホワイト歯科医院" transform="ref(svg,13805.8816,-3608.1393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科医院,長野県岡谷市湖畔３-２-９,歯科　小児歯科　矯正歯科,,,9" xlink:title="スマイル歯科医院" transform="ref(svg,13805.8518,-3605.7241)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たちばな歯科医院,長野県岡谷市若宮１-２-１９,歯科,,,9" xlink:title="たちばな歯科医院" transform="ref(svg,13805.9766,-3606.1951)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,牛山医院歯科,長野県岡谷市天竜町３-２-２３,歯科口腔外科,,,9" xlink:title="牛山医院歯科" transform="ref(svg,13804.9347,-3605.7662)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠原歯科医院,長野県岡谷市本町４-１２-１７,歯科,,,9" xlink:title="笠原歯科医院" transform="ref(svg,13804.943,-3606.4439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大滝歯科医院,長野県岡谷市川岸上３-２-２,歯科　小児歯科,,,9" xlink:title="大滝歯科医院" transform="ref(svg,13802.7502,-3604.8055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,長野県岡谷市本町４-５-６,歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13804.7087,-3606.3589)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アポロ歯科医院,長野県岡谷市東銀座２-８-３３,歯科　小児歯科,,,9" xlink:title="アポロ歯科医院" transform="ref(svg,13805.8001,-3607.1477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤岡歯科医院,長野県岡谷市本町１-１１-４４,歯科　矯正歯科,,,9" xlink:title="藤岡歯科医院" transform="ref(svg,13804.2316,-3605.8505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,長野県岡谷市天竜町３-１４-５,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13805.042,-3605.7046)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はつお歯科クリニック,長野県岡谷市赤羽３-１１-４,歯科,,,9" xlink:title="はつお歯科クリニック" transform="ref(svg,13805.3752,-3607.8188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ララ歯科医院,長野県岡谷市中央町１-１-１,歯科,,,9" xlink:title="ララ歯科医院" transform="ref(svg,13804.5156,-3605.7542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,長野県岡谷市本町４-１-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13804.6287,-3606.4536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,栗田歯科医院,長野県岡谷市本町３-１１-１２,歯科,,,9" xlink:title="栗田歯科医院" transform="ref(svg,13804.6983,-3606.2662)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,早出歯科医院,長野県岡谷市長地出早３-３-１９,歯科　小児歯科,,,9" xlink:title="早出歯科医院" transform="ref(svg,13805.408,-3608.7632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ジュンデンタルクリニック,長野県岡谷市御倉町２-２６,歯科　小児歯科,,,9" xlink:title="ジュンデンタルクリニック" transform="ref(svg,13804.256,-3605.6482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浦野歯科医院,長野県岡谷市川岸上１-２２-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="浦野歯科医院" transform="ref(svg,13803.4018,-3605.3451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なわ歯科医院,長野県岡谷市長地御所１-８-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="なわ歯科医院" transform="ref(svg,13806.7848,-3607.1201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下島歯科医院,長野県岡谷市長地柴宮２-１４-１０,歯科,,,9" xlink:title="下島歯科医院" transform="ref(svg,13806.3585,-3607.7722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山岡歯科医院,長野県岡谷市塚間町２-３-４,歯科,,,9" xlink:title="山岡歯科医院" transform="ref(svg,13805.5108,-3606.6469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前川歯科医院,長野県岡谷市堀ノ内２-４-１２,歯科,,,9" xlink:title="前川歯科医院" transform="ref(svg,13806.0437,-3607.0818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アルプス矯正・小児歯科クリニック,長野県岡谷市本町２-３-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="アルプス矯正・小児歯科クリニック" transform="ref(svg,13804.4515,-3606.0823)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,長野県諏訪市末広３-１２,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13811.7404,-3604.3313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科医院,長野県諏訪市諏訪２-７-１９,歯科,,,9" xlink:title="飯田歯科医院" transform="ref(svg,13812.2054,-3604.1099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ますざわ歯科医院,長野県諏訪市諏訪１-２１-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ますざわ歯科医院" transform="ref(svg,13811.8186,-3604.7233)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠原歯科医院,長野県諏訪市諏訪１-７-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="笠原歯科医院" transform="ref(svg,13811.7465,-3604.7086)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笠原歯科医院,長野県諏訪市高島１-２３-３,歯科,,,9" xlink:title="笠原歯科医院" transform="ref(svg,13811.2614,-3603.803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋山歯科医院,長野県諏訪市湯の脇１-１１-９,歯科,,,9" xlink:title="秋山歯科医院" transform="ref(svg,13811.8161,-3605.1034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸茂歯科医院,長野県諏訪市豊田１０３７-２,歯科　小児歯科,,,9" xlink:title="丸茂歯科医院" transform="ref(svg,13809.992,-3602.2876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ロッキー歯科医院,長野県諏訪市中洲３６１２-４,歯科,,,9" xlink:title="ロッキー歯科医院" transform="ref(svg,13812.36,-3601.7812)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米山歯科医院,長野県諏訪市豊田２４８３-５,歯科,,,9" xlink:title="米山歯科医院" transform="ref(svg,13809.0662,-3601.9283)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,百瀬歯科医院,長野県諏訪市四賀２５７-３,歯科,,,9" xlink:title="百瀬歯科医院" transform="ref(svg,13812.6622,-3602.5711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤森歯科クリニック,長野県諏訪市城南１-２５５３-６,歯科,,,9" xlink:title="藤森歯科クリニック" transform="ref(svg,13811.6852,-3603.3496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科クリニック,長野県諏訪市豊田２６１,歯科　小児歯科　矯正歯科,,,9" xlink:title="小林歯科クリニック" transform="ref(svg,13810.7277,-3602.6954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,落合歯科医院,長野県諏訪市豊田２４５３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="落合歯科医院" transform="ref(svg,13808.903,-3601.9603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クリーン歯科医院,長野県諏訪市中洲５６４４-１,歯科,,,9" xlink:title="クリーン歯科医院" transform="ref(svg,13812.1374,-3602.1149)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,長野県諏訪市諏訪２-９-７,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13812.0392,-3604.3124)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮坂歯科医院,長野県諏訪市大手１-１８-１０,歯科　矯正歯科,,,9" xlink:title="宮坂歯科医院" transform="ref(svg,13811.4831,-3604.2691)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平林歯科医院,長野県諏訪市大手１-１６-２,歯科　小児歯科,,,9" xlink:title="平林歯科医院" transform="ref(svg,13811.5609,-3604.3794)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀歯科医院,長野県諏訪市湖岸通り４-５-１８,歯科　小児歯科,,,9" xlink:title="堀歯科医院" transform="ref(svg,13811.3606,-3604.6553)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こなみ歯科医院,長野県諏訪市湖南５８８２-５,歯科　小児歯科,,,9" xlink:title="こなみ歯科医院" transform="ref(svg,13809.4564,-3601.293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小口歯科医院,長野県諏訪市高島１-３１-１６,歯科,,,9" xlink:title="小口歯科医院" transform="ref(svg,13811.4669,-3603.711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なごみ歯科クリニック,長野県諏訪市中洲中金子３２４５-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="なごみ歯科クリニック" transform="ref(svg,13812.289,-3601.0603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根橋歯科医院,長野県諏訪市小和田６-１９,歯科　小児歯科,,,9" xlink:title="根橋歯科医院" transform="ref(svg,13811.8858,-3604.1635)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中根歯科医院,長野県諏訪市湖岸通り２-１４-１２,歯科　小児歯科,,,9" xlink:title="中根歯科医院" transform="ref(svg,13811.3565,-3605.5381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,湖柳歯科医院,長野県諏訪市湖岸通り５-１７-１,歯科　小児歯科,,,9" xlink:title="湖柳歯科医院" transform="ref(svg,13811.2874,-3604.4944)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,正田歯科クリニック,長野県諏訪市湖南１２５-１,歯科　小児歯科,,,9" xlink:title="正田歯科クリニック" transform="ref(svg,13812.3432,-3600.7357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまびこ歯科診療所,長野県諏訪市沖田町３-２２-２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="やまびこ歯科診療所" transform="ref(svg,13813.3073,-3600.5821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なお歯科クリニック,長野県諏訪市大和１-２４-９,歯科,,,9" xlink:title="なお歯科クリニック" transform="ref(svg,13811.1379,-3606.021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横内歯科医院,長野県茅野市宮川４４２３,歯科,,,9" xlink:title="横内歯科医院" transform="ref(svg,13815.3686,-3598.8669)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,茅野歯科医院,長野県茅野市塚原１-１４-５,歯科,,,9" xlink:title="茅野歯科医院" transform="ref(svg,13814.9797,-3599.8878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科クリニック,長野県茅野市ちの５５５-１,歯科,,,9" xlink:title="林歯科クリニック" transform="ref(svg,13813.853,-3601.0183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉水歯科医院,長野県茅野市本町東３-４６,歯科,,,9" xlink:title="吉水歯科医院" transform="ref(svg,13816.8163,-3599.8378)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五味歯科医院,長野県茅野市ちの２５７５-１,歯科,,,9" xlink:title="五味歯科医院" transform="ref(svg,13814.6019,-3599.7062)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀歯科医院,長野県茅野市塚原２-５-５１,歯科,,,9" xlink:title="堀歯科医院" transform="ref(svg,13815.8074,-3599.4366)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢崎歯科医院,長野県茅野市米沢植原田３-１０,歯科,,,9" xlink:title="矢崎歯科医院" transform="ref(svg,13817.5204,-3600.5567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小池歯科医院,長野県茅野市宮川４７４５-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小池歯科医院" transform="ref(svg,13815.6933,-3598.7578)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,長野県茅野市玉川４６５０-１,歯科,,,9" xlink:title="清水歯科医院" transform="ref(svg,13816.896,-3599.0046)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今井歯科医院,長野県茅野市玉川５０２４-１,歯科　小児歯科,,,9" xlink:title="今井歯科医院" transform="ref(svg,13818.3716,-3598.7081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上條歯科医院,長野県茅野市仲町８-７,歯科,,,9" xlink:title="上條歯科医院" transform="ref(svg,13815.3798,-3599.339)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江川歯科医院,長野県茅野市ちの２５７-７,歯科　小児歯科,,,9" xlink:title="江川歯科医院" transform="ref(svg,13814.1951,-3599.9752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじもりデンタルオフィス,長野県茅野市宮川１１４０-１,歯科,,,9" xlink:title="ふじもりデンタルオフィス" transform="ref(svg,13813.3655,-3599.5463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やつがね歯科医院,長野県茅野市豊平３３１１-１,歯科　小児歯科,,,9" xlink:title="やつがね歯科医院" transform="ref(svg,13820.6756,-3602.1779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅井歯科医院,長野県茅野市中大塩１５-５９,歯科　小児歯科,,,9" xlink:title="浅井歯科医院" transform="ref(svg,13818.7215,-3602.3518)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,どんぐり歯科医院,長野県茅野市玉川３７７９-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="どんぐり歯科医院" transform="ref(svg,13819.0778,-3598.7952)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,行田歯科医院,長野県茅野市仲町１４-２,歯科　矯正歯科,,,9" xlink:title="行田歯科医院" transform="ref(svg,13815.6119,-3599.2935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やじま歯科医院,長野県茅野市本町西３-２２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="やじま歯科医院" transform="ref(svg,13816.3798,-3599.6148)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,酒井歯科医院,長野県茅野市本町西９-２７,歯科,,,9" xlink:title="酒井歯科医院" transform="ref(svg,13816.1319,-3599.7805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちの東部歯科クリニック,長野県茅野市玉川４１５５-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ちの東部歯科クリニック" transform="ref(svg,13818.2854,-3599.1204)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大美蓼科クリニック,長野県茅野市北山５５１３こまくさ平２７３,歯科,,,9" xlink:title="大美蓼科クリニック" transform="ref(svg,13825.9619,-3603.5767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たんぽぽ歯科クリニック,長野県茅野市宮川４５３５-４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="たんぽぽ歯科クリニック" transform="ref(svg,13815.4238,-3598.8488)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土田歯科医院,長野県諏訪郡下諏訪町５６８０-１,歯科,,,9" xlink:title="土田歯科医院" transform="ref(svg,13808.9911,-3606.9388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,長野県諏訪郡下諏訪町社１１５,歯科,,,9" xlink:title="林歯科医院" transform="ref(svg,13807.503,-3607.6012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小松歯科医院,長野県諏訪郡下諏訪町５５１５,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="小松歯科医院" transform="ref(svg,13808.6061,-3607.3717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小松歯科クリニック,長野県諏訪郡下諏訪町西四王５０００-４,歯科,,,9" xlink:title="小松歯科クリニック" transform="ref(svg,13808.5485,-3606.8012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三輪歯科医院,長野県諏訪郡下諏訪町富士見町５２９６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="三輪歯科医院" transform="ref(svg,13808.5602,-3607.2636)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんえい歯科クリニック,長野県諏訪郡下諏訪町西鷹野町４６２９-６,歯科,,,9" xlink:title="しんえい歯科クリニック" transform="ref(svg,13808.042,-3606.6802)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中根矯正歯科医院,長野県諏訪郡下諏訪町花咲町２７８-１,矯正歯科,,,9" xlink:title="中根矯正歯科医院" transform="ref(svg,13808.433,-3607.537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浜歯科医院,長野県諏訪郡下諏訪町６３７４-１,歯科,,,9" xlink:title="浜歯科医院" transform="ref(svg,13809.4251,-3607.0458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさひ中央台歯科診療所,長野県諏訪郡下諏訪町東赤砂４７００-１６,歯科,,,9" xlink:title="あさひ中央台歯科診療所" transform="ref(svg,13808.2625,-3606.5726)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近代予防歯科センター,長野県諏訪郡下諏訪町４９１７,歯科　小児歯科,,,9" xlink:title="近代予防歯科センター" transform="ref(svg,13808.1119,-3607.0729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,長野県諏訪郡下諏訪町４９１７,歯科　小児歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,13808.1119,-3607.0729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,溝口歯科診療所,長野県諏訪郡下諏訪町菅野町５５２４,歯科,,,9" xlink:title="溝口歯科診療所" transform="ref(svg,13808.705,-3607.385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さつき歯科医院,長野県諏訪郡下諏訪町６１４２-２,歯科,,,9" xlink:title="さつき歯科医院" transform="ref(svg,13808.8933,-3606.7461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,諏訪クリスタル歯科医院,長野県諏訪郡下諏訪町西赤砂４３６０-１２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="諏訪クリスタル歯科医院" transform="ref(svg,13807.4808,-3606.6473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,境歯科診療所,長野県諏訪郡富士見町境７３１６,歯科,,,9" xlink:title="境歯科診療所" transform="ref(svg,13827.6245,-3588.2592)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,長野県諏訪郡富士見町落合１００２８-３８,歯科,,,9" xlink:title="清水歯科医院" transform="ref(svg,13824.1745,-3591.3777)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三井歯科医院,長野県諏訪郡富士見町落合９９８４,歯科,,,9" xlink:title="三井歯科医院" transform="ref(svg,13823.7394,-3591.7013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村デンタルクリニック,長野県諏訪郡富士見町落合１１１８４-１４,歯科　小児歯科,,,9" xlink:title="野村デンタルクリニック" transform="ref(svg,13824.5596,-3591.2357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かがやき歯科クリニック,長野県諏訪郡富士見町落合９９８３-５７,歯科　小児歯科,,,9" xlink:title="かがやき歯科クリニック" transform="ref(svg,13823.6563,-3591.8446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岳歯科医院,長野県諏訪郡原村１２５２６,歯科,,,9" xlink:title="岳歯科医院" transform="ref(svg,13821.5919,-3595.8395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科クリニック,長野県諏訪郡原村５７０３,歯科,,,9" xlink:title="山田歯科クリニック" transform="ref(svg,13821.5286,-3596.5089)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エコーラインデンタルオフィス,長野県諏訪郡原村上里１７９８２-１,歯科,,,9" xlink:title="エコーラインデンタルオフィス" transform="ref(svg,13824.1235,-3597.2604)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="global,125,22,25,25" >
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="mercator" />
+
+<!-- BaseMaps -->
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/basemap/dynamicDenshiKokudo2016.svg#map=ort" title="DenshiKokudo:orthoPhoto" class="basemap switch" visibility="hidden" data-controller="./demos/gsiTile.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/basemap/dynamicDenshiKokudo2016.svg#map=relief" title="DenshiKokudo:relief" class="basemap switch" visibility="hidden" data-controller="./demos/gsiTile.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/basemap/dynamicDenshiKokudo2016.svg#map=pale" title="DenshiKokudo:pale" class="basemap switch" visibility="hidden" data-controller="./demos/gsiTile.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/basemap/dynamicDenshiKokudo2016.svg" title="DenshiKokudo" class="basemap switch" visibility="hidden" data-controller="./demos/gsiTile.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/basemap/rev12/baseMap/dynamicOSM_r10.svg" title="OpenStreetMap(Global)" class="basemap switch" visibility="visible" data-controller="../../demos/osmTile.html" />
+
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/gsi/gsiTilesListLayer.svg" title="Various maps available from the GSI" class="GSI clickable" visibility="hidden" opacity="0.6"/>
+
+<!-- GSI Hazard Maps -->
+  <animation class="GSI_HazardMap batch" title="Potential flooded areas" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/01_flood_l1_shinsuishin_oldlegend&amp;zmax=18" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6" data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html"  />
+  <animation class="GSI_HazardMap batch" title="Potential flooded areas (Max)" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/01_flood_l2_shinsuishin&amp;zmax=18" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6" data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html"  />
+  <animation class="GSI_HazardMap" title="Potential tsunami Hazardous areas" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/04_tsunami_oldlegend&amp;zmax=17" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6"  data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html" />
+  <animation class="GSI_HazardMap" title="Streams at risk of Debris flow" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/05_dosekiryukikenkeiryu&amp;zmax=16" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6"  data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html" />
+  <animation class="GSI_HazardMap" title="Hazardous Areas of Steep Slope Failure" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/05_kyukeisyachihoukai&amp;zmax=16" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6"  data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html" />
+
+  <animation class="GSI_HazardMap" title="Landslide Hazardous Locations" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/05_jisuberikikenkasyo&amp;zmax=16" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6" data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html"  />
+
+  <animation class="GSI_HazardMap" title="Collapsed areas of steep slope" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/05_kyukeishakeikaikuiki&amp;zmax=16" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6" data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html"  />
+  <animation class="GSI_HazardMap" title="Debris flow areas" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/05_dosekiryukeikaikuiki&amp;zmax=16" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6" data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html"  />
+  <animation class="GSI_HazardMap" title="Landslide Zone" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=https://disaportaldata.gsi.go.jp/raster/05_jisuberikeikaikuiki&amp;zmax=16" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6" data-controller="/devinfo/devkddi/lvl0.1/demos/gsiHasardMapReadme.html"  />
+
+
+<!-- 気象庁 -->
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="jma2021/tenkizu/tenkizu_r1_direct.svg#noforecast" title="Weather Chart" class="JapanMeteorologicalAgency" visibility="hidden"/>
+<animation class="JapanMeteorologicalAgency" title="Flood Hazard Risk Level" xlink:href="jma2021/jma_vm_direct.svg#cat=2&amp;autoupdate&amp;noforecast" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.65"/> 
+<animation class="JapanMeteorologicalAgency" title="Weather Satellite Himawari Images" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=none&amp;zmax=11" data-controller="etcLayers/jma2021/jma_bm_direct.html#exec=appearOnLayerLoad&amp;requiredWidth=400&amp;type=2&amp;cat=0&amp;autoupdate" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.5"/> 
+<animation class="JapanMeteorologicalAgency" title="Nowcast: Rainfall" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=none&amp;zmax=11" data-controller="etcLayers/jma2021/jma_bm_direct.html#exec=appearOnLayerLoad&amp;requiredWidth=400&amp;type=1&amp;cat=0&amp;autoupdate&amp;noforecast" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.65"/> 
+<animation class="JapanMeteorologicalAgency" title="Nowcast: Snowfall" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=none&amp;zmax=11" data-controller="etcLayers/jma2021/jma_bm_direct.html#exec=appearOnLayerLoad&amp;requiredWidth=400&amp;type=1&amp;cat=10&amp;autoupdate&amp;noforecast" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.65"/> 
+<animation class="JapanMeteorologicalAgency" title="Nowcast: Lightning Strikes" xlink:href="../dynamicWebTile.svg#globe&amp;baseURL=none&amp;zmax=11" data-controller="etcLayers/jma2021/jma_bm_direct.html#exec=appearOnLayerLoad&amp;requiredWidth=400&amp;type=1&amp;cat=1&amp;autoupdate&amp;noforecast" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.65"/> 
+<animation class="JapanMeteorologicalAgency clickable" title="Automated Meteorological Data Acquisition System (AMEDAS)" xlink:href="jma2021/jma_amedas_direct.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.65"/> 
+
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="usgsEarthquake/geoJsonExample2.svg#month_4.5" title="Past 30 Days M4.5+" class="USGS_Earthquake_RealTimeFeeds" visibility="hidden" opacity="0.7" /> 
+
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="usgsEarthquake/geoJsonExample2.svg#week_all" title="Past 7 Days All" class="USGS_Earthquake_RealTimeFeeds" visibility="hidden" opacity="0.7" /> 
+
+
+<!-- 国土数値情報 -->
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/ksj_heliport/N11-13.svg" title="Heliport" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/ksj_hinanjyo/P20-12_.svg" title="Place of Refuge" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
+<animation xlink:href="./contents/mlit/busRoute/BusRoute.svg" x="-30000" y="-30000" width="60000" height="60000" title="Bus Route JA(QuadTreeCompositeTiling)" visibility="hidden" opacity="0.7" class="NationalLandInformationOfJapan clickable" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html#exec=appearOnLayerLoad" />
+<animation title="Land Price Guidelines 2017" xlink:href="../etcLayers/L01-29P-2K/L01-29P-2K.svg" class="NationalLandInformationOfJapan" x="-30000" y="-30000" width="60000" height="60000"  visibility="hidden" opacity="0.5" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/dentalClinic/dentalClinic.svg" title="DentalClinic" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/clinic/clinic.svg" title="Clinic" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/hospital/hospital.svg" title="Hospital" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
+
+</svg>

@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13289.0625 -3515.625 70.3125 70.3125" go:dataArea="13289.0625 -3515.625 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,板倉医院,鳥取県日野郡日南町多里２２５,内科　小児科,,,9" xlink:title="板倉医院" transform="ref(svg,13319.9737,-3511.6311)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩田医院,島根県仁多郡奥出雲町上阿井５０９-４,内科,,,9" xlink:title="岩田医院" transform="ref(svg,13294.3785,-3513.7524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あいサンホーム医務室,島根県仁多郡奥出雲町上阿井４２４-１,内科,,,9" xlink:title="あいサンホーム医務室" transform="ref(svg,13294.6173,-3514.1363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,町立馬木診療所,島根県仁多郡奥出雲町大馬木１９２２-１３,内科　小児科,,,9" xlink:title="町立馬木診療所" transform="ref(svg,13304.5214,-3512.7024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市井倉診療所,岡山県新見市井倉４９７,内科　小児科　皮膚科,,,9" xlink:title="新見市井倉診療所" transform="ref(svg,13351.9999,-3492.9309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）緑風会小規模（特養）みどりの丘医務室,岡山県笠岡市笠岡５１２８-１,内科,,,9" xlink:title="（福）緑風会小規模（特養）みどりの丘医務室" transform="ref(svg,13350.6966,-3451.2118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あゆみクリニック,岡山県小田郡矢掛町矢掛２５６０-３,内科　消化器科（消化器内科・胃腸内科）　小児科,,,9" xlink:title="あゆみクリニック" transform="ref(svg,13359.1316,-3462.5003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒木医院,岡山県笠岡市笠岡２５６-２,皮膚泌尿器科　産婦人科,,,9" xlink:title="荒木医院" transform="ref(svg,13351.5845,-3450.0498)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡山県備中保健所井笠支所,岡山県笠岡市六番町２-５,不明,,,9" xlink:title="岡山県備中保健所井笠支所" transform="ref(svg,13351.4796,-3449.6334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猪木医院,岡山県笠岡市十一番町１-７,内科　呼吸器科（呼吸器内科）　アレルギー科　小児科　リハビリテーション科,,,9" xlink:title="猪木医院" transform="ref(svg,13351.1214,-3449.8063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,植木内科,岡山県笠岡市走出５７１-３,内科,,,9" xlink:title="植木内科" transform="ref(svg,13353.5668,-3459.6884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠岡市恵風荘診療所,岡山県笠岡市用之江４２９-１,内科,,,9" xlink:title="笠岡市恵風荘診療所" transform="ref(svg,13346.1107,-3450.357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大嶋整形外科内科医院,岡山県笠岡市吉田３７-２,内科　リウマチ科　整形外科,,,9" xlink:title="（医）大嶋整形外科内科医院" transform="ref(svg,13351.9385,-3454.4953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おぐるすハートクリニック内科循環器呼吸器科,岡山県笠岡市九番町２-２,内科　呼吸器科（呼吸器内科）　循環器科（循環器内科）　小児科　リハビリテーション科,,,9" xlink:title="（医）おぐるすハートクリニック内科循環器呼吸器科" transform="ref(svg,13351.7058,-3449.5704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小田内科医院,岡山県笠岡市富岡２６５-７,内科　小児科　リハビリテーション科,,,9" xlink:title="（医）小田内科医院" transform="ref(svg,13352.9312,-3449.6705)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠岡えきまえクリニック,岡山県笠岡市中央町２８-１,心療内科　精神科,,,9" xlink:title="笠岡えきまえクリニック" transform="ref(svg,13350.5467,-3450.5397)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠岡大-ｱ整形外科,岡山県笠岡市吉浜２４８５-１２,外科　整形外科　リハビリテーション科,,,9" xlink:title="笠岡大-ｱ整形外科" transform="ref(svg,13349.2981,-3452.1251)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清和会笠岡第一病院附属診療所,岡山県笠岡市二番町２-９,内科　呼吸器科（呼吸器内科）　消化器科（消化器内科・胃腸内科）　循環器科（循環器内科）,,,9" xlink:title="（医）清和会笠岡第一病院附属診療所" transform="ref(svg,13352.0506,-3449.8269)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木野山医院,岡山県笠岡市西大島新田６４９,内科　呼吸器科（呼吸器内科）　消化器科（消化器内科・胃腸内科）　アレルギー科　小児科　リハビリテーション科,,,9" xlink:title="木野山医院" transform="ref(svg,13353.2159,-3448.0869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,敬愛園診療所,岡山県笠岡市神島外浦１-１,内科,,,9" xlink:title="敬愛園診療所" transform="ref(svg,13352.4608,-3446.1616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設こうのしま荘医務室,岡山県笠岡市神島３６２８-３,内科,,,9" xlink:title="障害者支援施設こうのしま荘医務室" transform="ref(svg,13350.9142,-3447.1725)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）斎藤内科消化器科,岡山県笠岡市五番町６-１０,内科　呼吸器科（呼吸器内科）　消化器科（消化器内科・胃腸内科）　循環器科（循環器内科）　小児科　放射線科,,,9" xlink:title="（医）斎藤内科消化器科" transform="ref(svg,13351.2916,-3449.8812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さくらい内科小児科医院金浦診療所,岡山県笠岡市吉浜２４８３-５,内科　呼吸器科（呼吸器内科）　消化器科（消化器内科・胃腸内科）　アレルギー科　小児科,,,9" xlink:title="（医）さくらい内科小児科医院金浦診療所" transform="ref(svg,13349.1819,-3452.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さくらい内科小児科医院茂平診療所,岡山県笠岡市茂平１９７０,内科　呼吸器科（呼吸器内科）　アレルギー科　小児科,,,9" xlink:title="（医）さくらい内科小児科医院茂平診療所" transform="ref(svg,13345.8829,-3449.1886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さなだ耳鼻咽喉科医院,岡山県笠岡市笠岡２２６５-２,耳鼻咽喉科,,,9" xlink:title="さなだ耳鼻咽喉科医院" transform="ref(svg,13350.6925,-3450.3905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）三愛園診療所,岡山県笠岡市笠岡１０８０-１,内科,,,9" xlink:title="（特養）三愛園診療所" transform="ref(svg,13351.904,-3450.9205)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,岡山県笠岡市西大島新田１０８,胃腸科　外科　整形外科　皮膚泌尿器科,,,9" xlink:title="鈴木医院" transform="ref(svg,13353.0768,-3449.2412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）瀬戸内荘医務室,岡山県笠岡市横島１８９６,内科,,,9" xlink:title="（特養）瀬戸内荘医務室" transform="ref(svg,13352.0721,-3447.8755)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,--田内科医院,岡山県笠岡市笠岡３６２０-４,内科　小児科,,,9" xlink:title="--田内科医院" transform="ref(svg,13351.1376,-3451.7431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）武田耳鼻咽喉科医院,岡山県笠岡市二番町７-９,耳鼻咽喉科,,,9" xlink:title="（医）武田耳鼻咽喉科医院" transform="ref(svg,13352.0107,-3449.7113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷口クリニック,岡山県笠岡市金浦１１１１,内科　小児科　リハビリテーション科,,,9" xlink:title="谷口クリニック" transform="ref(svg,13348.9961,-3451.3991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坪田医院,岡山県笠岡市大島中８３６２,内科　循環器科（循環器内科）　小児科,,,9" xlink:title="坪田医院" transform="ref(svg,13356.1961,-3447.7692)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天神荘医務室,岡山県笠岡市神島３６２６-７,内科,,,9" xlink:title="天神荘医務室" transform="ref(svg,13350.9645,-3447.3184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永山眼科クリニック,岡山県笠岡市五番町３-２,眼科,,,9" xlink:title="（医）永山眼科クリニック" transform="ref(svg,13351.1388,-3449.9601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西井産婦人科西井ウイメンズクリニック,岡山県笠岡市中央町２-１１,産婦人科,,,9" xlink:title="（医）西井産婦人科西井ウイメンズクリニック" transform="ref(svg,13350.676,-3450.7333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はらだ眼科,岡山県笠岡市中央町３５-３,眼科,,,9" xlink:title="はらだ眼科" transform="ref(svg,13350.3655,-3450.5848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやけこどもクリニック,岡山県笠岡市富岡２５６-８,アレルギー科　小児科,,,9" xlink:title="みやけこどもクリニック" transform="ref(svg,13352.7632,-3449.5035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）村上脳神経外科・内科,岡山県笠岡市大井南２８-４,内科　神経内科　脳神経外科　リハビリテーション科　放射線科,,,9" xlink:title="（医）村上脳神経外科・内科" transform="ref(svg,13351.0334,-3453.0388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）双邦守安胃腸科外科医院,岡山県笠岡市笠岡３６０６-３,胃腸科　整形外科　肛門科（肛門外科）　放射線科　歯科　消化器外科（胃腸外科）,,,9" xlink:title="（医）双邦守安胃腸科外科医院" transform="ref(svg,13351.088,-3451.5966)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺クリニック,岡山県笠岡市中央町２-８,内科　消化器科（消化器内科・胃腸内科）　アレルギー科　小児科,,,9" xlink:title="渡辺クリニック" transform="ref(svg,13350.6992,-3450.7513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）岡山千鳥福祉会（特養）オペラハウス鴨方医務室,岡山県浅口市鴨方町地頭上５６７,内科,,,9" xlink:title="（福）岡山千鳥福祉会（特養）オペラハウス鴨方医務室" transform="ref(svg,13359.0348,-3455.8915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）飛翔会鴨方クリニック,岡山県浅口市鴨方町深田９９１-１,内科　胃腸科　循環器科（循環器内科）　小児科,,,9" xlink:title="（医）飛翔会鴨方クリニック" transform="ref(svg,13357.7375,-3453.4963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鴨方第一胃腸科外科医院,岡山県浅口市鴨方町六条院中１３２９,内科　呼吸器科（呼吸器内科）　胃腸科　外科　整形外科　皮膚泌尿器科　肛門科（肛門外科）,,,9" xlink:title="（医）鴨方第一胃腸科外科医院" transform="ref(svg,13357.8422,-3452.1438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くにもと内科小児科医院,岡山県浅口市鴨方町六条院中２３２６-１,内科　小児科　リハビリテーション科,,,9" xlink:title="くにもと内科小児科医院" transform="ref(svg,13358.4443,-3452.3316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁彰会栗山医院,岡山県浅口市鴨方町六条院中３４０１,内科　小児科,,,9" xlink:title="（医）仁彰会栗山医院" transform="ref(svg,13359.1055,-3452.5226)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかの整形外科,岡山県浅口市鴨方町鴨方１１０８-７,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="さかの整形外科" transform="ref(svg,13358.7547,-3453.8447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白神医院,岡山県浅口市寄島町５６６０,内科,,,9" xlink:title="白神医院" transform="ref(svg,13358.3662,-3448.4808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高山医院,岡山県浅口市鴨方町鴨方２２１０-１,内科　胃腸科　小児科,,,9" xlink:title="高山医院" transform="ref(svg,13358.6188,-3453.503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田中眼科医院,岡山県浅口市鴨方町六条院中３２３５-１,眼科,,,9" xlink:title="（医）田中眼科医院" transform="ref(svg,13358.688,-3452.7737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ナガヒロ医院,岡山県浅口市鴨方町鴨方１８３７-１,内科　呼吸器科（呼吸器内科）　小児科,,,9" xlink:title="（医）ナガヒロ医院" transform="ref(svg,13359.2422,-3453.5623)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宇根本会にいつ耳鼻咽喉科医院,岡山県浅口市鴨方町鴨方１６４５-１,耳鼻咽喉科,,,9" xlink:title="（医）宇根本会にいつ耳鼻咽喉科医院" transform="ref(svg,13359.3509,-3454.083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福嶋医院,岡山県浅口市寄島町３０７２,内科　消化器科（消化器内科・胃腸内科）　外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）福嶋医院" transform="ref(svg,13359.2742,-3449.158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）よりしま中西医院,岡山県浅口市寄島町７５４３-１１,内科　小児科　リハビリテーション科,,,9" xlink:title="（医）よりしま中西医院" transform="ref(svg,13358.6497,-3448.0501)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）礒川内科医院,岡山県浅口郡里庄町新庄１３８８,内科,,,9" xlink:title="（医）礒川内科医院" transform="ref(svg,13355.6744,-3451.1026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大和会鴨方整形外科鴨方整形外科,岡山県浅口郡里庄町里見５２７６,整形外科　リハビリテーション科,,,9" xlink:title="（医）大和会鴨方整形外科鴨方整形外科" transform="ref(svg,13358.3525,-3453.0461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,里庄町健康福祉センター,岡山県浅口郡里庄町里見１１０７-２,内科,,,9" xlink:title="里庄町健康福祉センター" transform="ref(svg,13355.6266,-3451.401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一明会永岡眼科医院,岡山県浅口郡里庄町新庄５３４１-１,眼科,,,9" xlink:title="（医）一明会永岡眼科医院" transform="ref(svg,13355.032,-3450.4985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宇根本会にいつクリニック,岡山県浅口郡里庄町大字新庄２９２９-１,内科　外科　皮膚科　耳鼻咽喉科,,,9" xlink:title="（医）宇根本会にいつクリニック" transform="ref(svg,13355.0981,-3450.63)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西井クリニック,岡山県笠岡市笠岡６１５-１２,内科　心療内科　精神科,,,9" xlink:title="西井クリニック" transform="ref(svg,13350.9552,-3450.0522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すくすくこどもクリニック,岡山県浅口市鴨方町鴨方１６３５-４,小児科,,,9" xlink:title="すくすくこどもクリニック" transform="ref(svg,13359.3529,-3454.006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）飛鳥の里三清荘診療所,岡山県笠岡市関戸８３７-１,内科,,,9" xlink:title="（特養）飛鳥の里三清荘診療所" transform="ref(svg,13353.3156,-3455.8037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木内科,岡山県井原市高屋町４-２４-１０,内科　小児科,,,9" xlink:title="青木内科" transform="ref(svg,13343.5382,-3457.991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）白雲会赤木医院,岡山県井原市芳井町東三原１０６１-１,内科　循環器科（循環器内科）　小児科,,,9" xlink:title="（医）白雲会赤木医院" transform="ref(svg,13339.7534,-3473.4782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤木医院共和診療所,岡山県井原市下鴫２５４３-１,内科,,,9" xlink:title="赤木医院共和診療所" transform="ref(svg,13340.7063,-3468.6082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井原市養護老人ホーム偕楽園医務室,岡山県井原市上出部町四季が丘２０-５,内科,,,9" xlink:title="井原市養護老人ホーム偕楽園医務室" transform="ref(svg,13346.7473,-3458.5404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井原市西部いこいの里老人短期入所施設診察室,岡山県井原市高屋町４-２５-２,内科　精神科　神経科　耳鼻咽喉科,,,9" xlink:title="井原市西部いこいの里老人短期入所施設診察室" transform="ref(svg,13343.6445,-3458.0351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井原市立美星国保診療所,岡山県井原市美星町大倉２４６７-４,内科　循環器科（循環器内科）　整形外科,,,9" xlink:title="井原市立美星国保診療所" transform="ref(svg,13353.2754,-3467.4042)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井原腎泌尿器科クリニック,岡山県井原市上出部町５１３,泌尿器科　性病科,,,9" xlink:title="井原腎泌尿器科クリニック" transform="ref(svg,13346.4425,-3459.391)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）弘智会井原第一クリニック,岡山県井原市高屋町１２７-１,内科　呼吸器科（呼吸器内科）　胃腸科　小児科　外科　整形外科　脳神経外科　肛門科（肛門外科）　リハビリテーション科,,,9" xlink:title="（医）弘智会井原第一クリニック" transform="ref(svg,13342.6515,-3457.9661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大山胃腸科放射線科内科,岡山県井原市西江原町１４７０-１,内科　胃腸科　小児科　放射線科,,,9" xlink:title="大山胃腸科放射線科内科" transform="ref(svg,13348.2546,-3460.1125)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大山眼科,岡山県井原市井原町１２２８-２,眼科,,,9" xlink:title="（医）大山眼科" transform="ref(svg,13345.8493,-3460.4299)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）小田川荘医務室,岡山県井原市芳井町川相３５１,内科,,,9" xlink:title="（特養）小田川荘医務室" transform="ref(svg,13341.005,-3464.7602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）河合医院,岡山県井原市芳井町吉井８９-１,内科　小児科　リハビリテーション科,,,9" xlink:title="（医）河合医院" transform="ref(svg,13343.4964,-3463.227)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きのこ診療所,岡山県井原市西方町１４２５-１,内科　精神科　耳鼻咽喉科,,,9" xlink:title="きのこ診療所" transform="ref(svg,13348.16,-3457.7955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）きのこ荘医務室,岡山県井原市木之子町２３３０,内科　精神科　耳鼻咽喉科　リハビリテーション科,,,9" xlink:title="（特養）きのこ荘医務室" transform="ref(svg,13348.0817,-3458.0649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）國司会國司内科医院,岡山県井原市西江原町１７９７-１,内科　胃腸科　小児科,,,9" xlink:title="（医）國司会國司内科医院" transform="ref(svg,13347.4439,-3459.9727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長楽園医務室,岡山県井原市美星町西水砂２２３６-７,内科,,,9" xlink:title="（特養）長楽園医務室" transform="ref(svg,13353.6445,-3466.0009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵真会鳥越医院,岡山県井原市笹賀町２-２１-３,内科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）恵真会鳥越医院" transform="ref(svg,13344.6216,-3459.01)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長尾整形外科リハビリテーション科,岡山県井原市西江原町８６７-１,整形外科　リハビリテーション科,,,9" xlink:title="長尾整形外科リハビリテーション科" transform="ref(svg,13348.4977,-3459.7704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）原田内科医院,岡山県井原市西江原町８５１-１,内科　呼吸器科（呼吸器内科）　アレルギー科　小児科　放射線科,,,9" xlink:title="（医）原田内科医院" transform="ref(svg,13348.5024,-3459.8416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平木眼科医院,岡山県井原市七日市町１３２,眼科,,,9" xlink:title="平木眼科医院" transform="ref(svg,13346.7969,-3459.4578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井原市（特養）星の郷医務室,岡山県井原市美星町大倉２４６６,内科,,,9" xlink:title="井原市（特養）星の郷医務室" transform="ref(svg,13353.2565,-3467.4045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ほそや医院,岡山県井原市七日市町１０２,内科　小児科　皮膚科,,,9" xlink:title="（医）ほそや医院" transform="ref(svg,13346.9896,-3459.5313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みずき医務室,岡山県井原市東江原町１６６１-１,内科,,,9" xlink:title="（特養）みずき医務室" transform="ref(svg,13351.3505,-3459.9924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）美星会三宅医院,岡山県井原市美星町星田５１９１-１,内科　胃腸科　小児科,,,9" xlink:title="（医）美星会三宅医院" transform="ref(svg,13349.4602,-3467.9991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平允会森本整形外科医院,岡山県井原市上出部町４７３,リウマチ科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）平允会森本整形外科医院" transform="ref(svg,13346.7243,-3459.4376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山成医院,岡山県井原市芳井町与井４４-７,内科　循環器科（循環器内科）　小児科,,,9" xlink:title="山成医院" transform="ref(svg,13343.5003,-3462.7508)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おぐら整形外科医院,岡山県小田郡矢掛町矢掛２５３３,内科　リウマチ科　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）おぐら整形外科医院" transform="ref(svg,13358.999,-3462.7743)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小塚医院,岡山県小田郡矢掛町矢掛３０３０-１,内科　消化器科（消化器内科・胃腸内科）　外科　リハビリテーション科,,,9" xlink:title="小塚医院" transform="ref(svg,13358.7455,-3462.6326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）筒井医院,岡山県小田郡矢掛町小田５５２６-７,内科　胃腸科　外科　皮膚科,,,9" xlink:title="（医）筒井医院" transform="ref(svg,13354.3333,-3460.5877)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水川内科医院,岡山県小田郡矢掛町小林１６７-１,内科　循環器科（循環器内科）　小児科　放射線科,,,9" xlink:title="水川内科医院" transform="ref(svg,13358.4296,-3462.3894)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢掛寮診療所,岡山県小田郡矢掛町小田５６３０,内科,,,9" xlink:title="矢掛寮診療所" transform="ref(svg,13353.8969,-3460.5621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈成会山縣内科医院,岡山県小田郡矢掛町矢掛３１０３,内科　呼吸器科（呼吸器内科）　消化器科（消化器内科・胃腸内科）　アレルギー科　小児科,,,9" xlink:title="（医）慈成会山縣内科医院" transform="ref(svg,13358.7585,-3462.3486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たなか歯科・内科,岡山県井原市下出部町１-３３-４,内科　呼吸器科（呼吸器内科）　歯科,,,9" xlink:title="たなか歯科・内科" transform="ref(svg,13344.352,-3458.7917)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清和会タカヤクリニック,岡山県井原市高屋町３-２４-１０,腎臓内科,,,9" xlink:title="（医）清和会タカヤクリニック" transform="ref(svg,13343.4557,-3457.931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）四季の里医務室,岡山県井原市上出部町四季が丘２０-４,内科　外科,,,9" xlink:title="（特養）四季の里医務室" transform="ref(svg,13346.7854,-3458.4864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,イーグル工業（株）岡山事業所診療所,岡山県高梁市落合町阿部１２１２,内科,,,9" xlink:title="イーグル工業（株）岡山事業所診療所" transform="ref(svg,13359.152,-3477.7222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市（特養）鶴寿荘診療所,岡山県高梁市成羽町下原２６８-１,外科,,,9" xlink:title="高梁市（特養）鶴寿荘診療所" transform="ref(svg,13354.6715,-3478.2876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市坂本診療所,岡山県高梁市成羽町坂本１２８５,内科,,,9" xlink:title="高梁市坂本診療所" transform="ref(svg,13345.0995,-3486.7095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市宇治診療所,岡山県高梁市宇治町宇治１６９０,内科,,,9" xlink:title="高梁市宇治診療所" transform="ref(svg,13349.1425,-3482.7689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市川上診療所,岡山県高梁市川上町地頭２３４０,内科　精神科　小児科　外科　歯科　歯科口腔外科,,,9" xlink:title="高梁市川上診療所" transform="ref(svg,13348.0023,-3473.3474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市国民健康保険成羽病院附属田原診療所,岡山県高梁市成羽町布寄１１９,内科,,,9" xlink:title="高梁市国民健康保険成羽病院附属田原診療所" transform="ref(svg,13343.4514,-3481.8336)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市中井診療所,岡山県高梁市中井町西方３１６７-１,内科　外科,,,9" xlink:title="高梁市中井診療所" transform="ref(svg,13357.9375,-3490.949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市西山診療所,岡山県高梁市備中町西山２１１５-４,内科,,,9" xlink:title="高梁市西山診療所" transform="ref(svg,13335.4625,-3485.6229)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市備中診療所,岡山県高梁市備中町長屋６-１,内科　小児科　外科,,,9" xlink:title="高梁市備中診療所" transform="ref(svg,13346.2286,-3478.6394)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市平川診療所,岡山県高梁市備中町平川６１７２-４,内科　小児科　外科,,,9" xlink:title="高梁市平川診療所" transform="ref(svg,13338.3234,-3479.8823)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市国民健康保険成羽病院付属吹屋診療所,岡山県高梁市成羽町吹屋８３８-２,内科,,,9" xlink:title="高梁市国民健康保険成羽病院付属吹屋診療所" transform="ref(svg,13347.0435,-3486.1393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市松原診療所,岡山県高梁市松原町春木６６９-１,内科　小児科,,,9" xlink:title="高梁市松原診療所" transform="ref(svg,13356.0335,-3482.0129)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市国民健康保険成羽病院附属湯野診療所,岡山県高梁市備中町西油野１４０４-１,内科,,,9" xlink:title="高梁市国民健康保険成羽病院附属湯野診療所" transform="ref(svg,13341.2938,-3483.9641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市養護老人ホーム長寿園,岡山県高梁市落合町阿部３０９１,内科,,,9" xlink:title="高梁市養護老人ホーム長寿園" transform="ref(svg,13357.6737,-3478.2984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仲田医院,岡山県高梁市落合町阿部１８９６,内科　小児科,,,9" xlink:title="（医）仲田医院" transform="ref(svg,13358.6145,-3477.9285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高梁市養護老人ホーム成羽川荘診療所,岡山県高梁市成羽町成羽２２８２,内科,,,9" xlink:title="高梁市養護老人ホーム成羽川荘診療所" transform="ref(svg,13352.945,-3478.6972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宏仁会まつうらクリニック,岡山県高梁市成羽町下原１００４-１,内科　精神科　消化器科（消化器内科・胃腸内科）,,,9" xlink:title="（医）宏仁会まつうらクリニック" transform="ref(svg,13353.7249,-3478.2137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）高倉荘医務室,岡山県高梁市高倉町飯部３３４４-１,内科,,,9" xlink:title="（特養）高倉荘医務室" transform="ref(svg,13356.871,-3485.473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ホタルの里医務室,岡山県高梁市落合町福地３９４,内科,,,9" xlink:title="（特養）ホタルの里医務室" transform="ref(svg,13355.5475,-3478.2491)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,倉敷医療（生協）阿新診療所,岡山県新見市新見７４１,内科　歯科　矯正歯科　小児歯科,,,9" xlink:title="倉敷医療（生協）阿新診療所" transform="ref(svg,13347.1184,-3498.154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）上江洲医院,岡山県新見市石蟹６０,内科,,,9" xlink:title="（医）上江洲医院" transform="ref(svg,13347.9248,-3495.2575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおさ苑診療所,岡山県新見市大佐田治部３２２１,内科,,,9" xlink:title="おおさ苑診療所" transform="ref(svg,13355.6347,-3504.1325)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大佐荘診療所,岡山県新見市大佐田治部３２４５,内科,,,9" xlink:title="大佐荘診療所" transform="ref(svg,13355.5403,-3504.1167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）国際貢献大学校医療機構大田診療所,岡山県新見市哲多町田渕７０,内科,,,9" xlink:title="（医）国際貢献大学校医療機構大田診療所" transform="ref(svg,13339.6512,-3493.0834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金田医院,岡山県新見市大佐永富１６１７,内科　小児科,,,9" xlink:title="金田医院" transform="ref(svg,13356.8321,-3508.2246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）上江洲医院唐松診療所,岡山県新見市唐松２７５８-１,内科,,,9" xlink:title="（医）上江洲医院唐松診療所" transform="ref(svg,13349.9973,-3495.6855)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）唐松荘診療所,岡山県新見市唐松１７４９-２,内科　外科,,,9" xlink:title="（特養）唐松荘診療所" transform="ref(svg,13350.8351,-3496.409)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）国際貢献大学校医療機構国際貢献大学校メディカルクリニック,岡山県新見市哲多町本郷１３３４-１,内科　小児科　外科　産婦人科　リハビリテーション科　放射線科,,,9" xlink:title="（医）国際貢献大学校医療機構国際貢献大学校メディカルクリニック" transform="ref(svg,13344.3628,-3493.6622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）啓優会,岡山県新見市高尾２４５０-２,眼科,,,9" xlink:title="（医）啓優会" transform="ref(svg,13345.6439,-3498.9349)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市養護老人ホーム和みの郷かなや診療室,岡山県新見市金谷６４１,内科,,,9" xlink:title="新見市養護老人ホーム和みの郷かなや診療室" transform="ref(svg,13346.8882,-3497.2481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市高瀬診療所,岡山県新見市神郷高瀬１２２６,内科　小児科,,,9" xlink:title="新見市高瀬診療所" transform="ref(svg,13332.0651,-3508.6799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市油野診療所,岡山県新見市神郷油野２００４,内科　小児科,,,9" xlink:title="新見市油野診療所" transform="ref(svg,13336.5198,-3504.3446)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）哲西荘診療所,岡山県新見市哲西町矢田４３５１,内科,,,9" xlink:title="（特養）哲西荘診療所" transform="ref(svg,13333.4514,-3492.3884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長岡医院,岡山県新見市高尾７６５-４,内科　胃腸科　外科,,,9" xlink:title="長岡医院" transform="ref(svg,13345.162,-3499.2548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見クリニック,岡山県新見市西方４５０,内科,,,9" xlink:title="新見クリニック" transform="ref(svg,13345.8056,-3498.769)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市足立診療所,岡山県新見市足立３８０４-４,内科　小児科,,,9" xlink:title="新見市足立診療所" transform="ref(svg,13338.4111,-3504.1584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市大佐診療所,岡山県新見市大佐小阪部１４７０,内科　眼科,,,9" xlink:title="新見市大佐診療所" transform="ref(svg,13356.5119,-3507.9258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市休日・準夜間診療所,岡山県新見市高尾２３０６-５,内科　小児科,,,9" xlink:title="新見市休日・準夜間診療所" transform="ref(svg,13344.7138,-3499.3689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市国民健康保険神代診療所,岡山県新見市神郷下神代３９４６,内科　小児科,,,9" xlink:title="新見市国民健康保険神代診療所" transform="ref(svg,13339.6462,-3499.259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市耳鼻咽喉科診療所,岡山県新見市高尾２４８８-１３,耳鼻咽喉科,,,9" xlink:title="新見市耳鼻咽喉科診療所" transform="ref(svg,13345.5891,-3499.0584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市国民健康保険菅生診療所,岡山県新見市菅生６３８２-４,内科,,,9" xlink:title="新見市国民健康保険菅生診療所" transform="ref(svg,13350.0214,-3507.8327)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市千屋診療所,岡山県新見市千屋実１４３３-１,内科,,,9" xlink:title="新見市千屋診療所" transform="ref(svg,13343.7169,-3510.7353)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,哲西町診療所,岡山県新見市哲西町矢田３６０４,内科　小児科　放射線科,,,9" xlink:title="哲西町診療所" transform="ref(svg,13333.146,-3493.2705)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市国民健康保険湯川診療所,岡山県新見市土橋２４０６,内科,,,9" xlink:title="新見市国民健康保険湯川診療所" transform="ref(svg,13356.9443,-3495.6384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こころの医療新見,岡山県新見市高尾２４８８-１３,心療内科　精神科　神経科,,,9" xlink:title="こころの医療新見" transform="ref(svg,13345.5888,-3499.0539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡山県備北保健所新見支所,岡山県新見市高尾２４００,不明,,,9" xlink:title="岡山県備北保健所新見支所" transform="ref(svg,13345.3454,-3499.0245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みはら皮膚科,岡山県新見市高尾１９３３-１,皮膚科,,,9" xlink:title="みはら皮膚科" transform="ref(svg,13344.75,-3499.4485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新見市国民健康保険新郷診療所,岡山県新見市神郷釜村１１８７-１,内科　小児科,,,9" xlink:title="新見市国民健康保険新郷診療所" transform="ref(svg,13336.7608,-3509.0375)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一節会吉田医院,岡山県新見市高尾２４８７-２０,内科　消化器科（消化器内科・胃腸内科）　循環器科（循環器内科）　小児科,,,9" xlink:title="（医）一節会吉田医院" transform="ref(svg,13345.6233,-3499.0181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ケアポート生き活き館神郷医務室,岡山県新見市神郷下神代４３９０,内科,,,9" xlink:title="（特養）ケアポート生き活き館神郷医務室" transform="ref(svg,13339.8714,-3499.648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆずり葉医務室,岡山県新見市新見８９７-７,内科,,,9" xlink:title="（特養）ゆずり葉医務室" transform="ref(svg,13346.8095,-3498.4589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤木皮膚科泌尿器科医院,広島県福山市明治町１２-１４,皮膚科　感染症内科　泌尿器科,,,9" xlink:title="赤木皮膚科泌尿器科医院" transform="ref(svg,13336.7477,-3448.2219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井耳鼻咽喉科医院,広島県福山市沖野上町５-４-１２,耳鼻いんこう科,,,9" xlink:title="石井耳鼻咽喉科医院" transform="ref(svg,13336.5828,-3447.3252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井内科医院,広島県福山市大黒町１-４３,内科,,,9" xlink:title="石井内科医院" transform="ref(svg,13336.7018,-3449.0622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石津産婦人科医院,広島県福山市宮前町２-２-３５,内科　整形外科　産婦人科,,,9" xlink:title="石津産婦人科医院" transform="ref(svg,13325.8964,-3445.4273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石藤クリニック,広島県福山市道三町１-１,内科　消化器内科　外科　脳神経外科　整形外科　リハビリテーション科,,,9" xlink:title="石藤クリニック" transform="ref(svg,13336.4482,-3448.2657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩崎皮ふ科・形成外科,広島県福山市紅葉町３-２４,皮膚科　アレルギー科　泌尿器科　形成外科,,,9" xlink:title="岩崎皮ふ科・形成外科" transform="ref(svg,13336.0549,-3448.4693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田胃腸科循環器科内科,広島県福山市王子町２-１４-１１,内科　循環器内科　消化器内科,,,9" xlink:title="上田胃腸科循環器科内科" transform="ref(svg,13338.378,-3448.7992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おかだ（外科・内科）医院,広島県福山市赤坂町早戸１４７０,内科　外科,,,9" xlink:title="おかだ（外科・内科）医院" transform="ref(svg,13331.0733,-3445.964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）啓恵会加藤医院,広島県福山市新涯町１-１６-３６,内科　循環器内科　消化器内科　小児科　放射線科,,,9" xlink:title="（医）啓恵会加藤医院" transform="ref(svg,13339.2515,-3446.5977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）雄知会アクア心のクリニック,広島県福山市引野町５-２１-３２,精神科　心療内科,,,9" xlink:title="（医）雄知会アクア心のクリニック" transform="ref(svg,13340.2721,-3449.1359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤胃腸科医院,広島県福山市西町１-４-１,内科　消化器内科　放射線科,,,9" xlink:title="佐藤胃腸科医院" transform="ref(svg,13335.7725,-3448.7252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐藤耳鼻咽喉科医院,広島県福山市御船町１-１１-１１,耳鼻いんこう科,,,9" xlink:title="（医）佐藤耳鼻咽喉科医院" transform="ref(svg,13337.0709,-3448.7738)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤内科胃腸科,広島県福山市光南町２-４-２０,内科　循環器内科　消化器内科　放射線科,,,9" xlink:title="佐藤内科胃腸科" transform="ref(svg,13336.6477,-3447.8427)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しげはら小児科内科医院,広島県福山市木之庄町１-１２-７,内科　呼吸器内科　循環器内科　消化器内科　アレルギー科　小児科　放射線科,,,9" xlink:title="しげはら小児科内科医院" transform="ref(svg,13335.3469,-3449.3989)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）白河産婦人科,広島県福山市旭町８-３,産婦人科,,,9" xlink:title="（医）白河産婦人科" transform="ref(svg,13337.4883,-3449.0199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瀬尾胃腸科内科医院,広島県福山市昭和町１-２６,内科　消化器内科,,,9" xlink:title="瀬尾胃腸科内科医院" transform="ref(svg,13336.6776,-3448.5352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚本産婦人科・内科医院,広島県福山市御幸町森脇１１５,内科　小児科　産婦人科,,,9" xlink:title="塚本産婦人科・内科医院" transform="ref(svg,13335.1115,-3453.6074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とくも胃腸科皮ふ科,広島県福山市光南町１-７-９,内科　消化器内科　皮膚科　アレルギー科　小児科　外科　リハビリテーション科,,,9" xlink:title="とくも胃腸科皮ふ科" transform="ref(svg,13336.7515,-3448.0703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつはまクリニック,広島県福山市松浜町１-４-１３,内科　消化器内科　皮膚科　外科　肛門外科　整形外科　リハビリテーション科　放射線科　麻酔科,,,9" xlink:title="まつはまクリニック" transform="ref(svg,13337.3586,-3448.4996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原内科医院,広島県福山市南手城町４-１-６,内科　消化器内科　皮膚科　小児科,,,9" xlink:title="原内科医院" transform="ref(svg,13339.6981,-3448.4142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）日野ホームクリニック,広島県福山市御門町３-３-１５,内科　小児科,,,9" xlink:title="（医）日野ホームクリニック" transform="ref(svg,13337.0884,-3447.8048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平田医院,広島県福山市木之庄町１-４-３２,消化器内科　外科,,,9" xlink:title="平田医院" transform="ref(svg,13335.4562,-3449.61)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井内科皮膚科医院,広島県福山市東手城町３-６-６,内科　皮膚科,,,9" xlink:title="藤井内科皮膚科医院" transform="ref(svg,13340.3632,-3448.952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱電機福山診療所,広島県福山市緑町１-８,内科,,,9" xlink:title="三菱電機福山診療所" transform="ref(svg,13337.141,-3447.3192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みつふじ小児科,広島県福山市川口町２-２２-１１,内科　小児科,,,9" xlink:title="みつふじ小児科" transform="ref(svg,13338.9862,-3446.7999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やすだクリニック,広島県福山市御門町２-５-２９,消化器内科　リウマチ科　外科　肛門外科　整形外科　リハビリテーション科,,,9" xlink:title="やすだクリニック" transform="ref(svg,13336.9912,-3447.8879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猪原医院,広島県福山市神辺町下竹田９７３,内科　消化器内科　放射線科,,,9" xlink:title="猪原医院" transform="ref(svg,13341.2173,-3456.2133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）柚木外科医院,広島県福山市神辺町川北９５４-４,消化器内科　皮膚科　外科　泌尿器科　肛門外科　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）柚木外科医院" transform="ref(svg,13338.1235,-3454.6052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山市民病院附属広瀬診療所,広島県福山市加茂町北山２２２,内科　外科,,,9" xlink:title="福山市民病院附属広瀬診療所" transform="ref(svg,13334.3464,-3460.9462)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉原医院,広島県福山市加茂町上加茂４００-１,内科　小児科　婦人科　リハビリテーション科,,,9" xlink:title="杉原医院" transform="ref(svg,13334.7987,-3456.7499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北山診療所,広島県福山市加茂町北山８２９,内科　小児科,,,9" xlink:title="北山診療所" transform="ref(svg,13334.3464,-3460.9462)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いなほ会せら医院,広島県福山市加茂町下加茂９９３,内科　呼吸器内科　循環器内科　消化器内科　外科,,,9" xlink:title="（医）いなほ会せら医院" transform="ref(svg,13334.0533,-3456.5044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三島医院,広島県福山市新市町宮内１８６-５,内科　眼科　リハビリテーション科,,,9" xlink:title="三島医院" transform="ref(svg,13327.4532,-3456.9151)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三好医院,広島県福山市駅家町倉光１１４-３,内科　循環器内科　消化器内科　産婦人科,,,9" xlink:title="三好医院" transform="ref(svg,13332.6186,-3454.6732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かねもり婦人科クリニック,広島県福山市南本庄３-２-６,婦人科,,,9" xlink:title="かねもり婦人科クリニック" transform="ref(svg,13335.4489,-3448.4661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田耳鼻咽喉科,広島県福山市旭町８-１７,耳鼻いんこう科,,,9" xlink:title="上田耳鼻咽喉科" transform="ref(svg,13337.4699,-3448.9941)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀産婦人科麻酔科医院,広島県福山市本庄町中１-１４-９,内科　産科　婦人科　麻酔科,,,9" xlink:title="堀産婦人科麻酔科医院" transform="ref(svg,13335.3138,-3449.0175)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,甲斐内科胃腸科医院,広島県福山市宮前町２-２-１０,内科　消化器内科,,,9" xlink:title="甲斐内科胃腸科医院" transform="ref(svg,13325.8494,-3445.4765)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井内科胃腸科呼吸器科,広島県福山市南手城町２-６-１８,内科　呼吸器内科　循環器内科　消化器内科　放射線科,,,9" xlink:title="藤井内科胃腸科呼吸器科" transform="ref(svg,13339.0921,-3448.3127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）瀬戸寮附属診療所,広島県福山市瀬戸町長和１１９４-３,内科,,,9" xlink:title="（特養）瀬戸寮附属診療所" transform="ref(svg,13334.1384,-3446.5148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）静方園附属診療所,広島県福山市神辺町湯野池平３０-９,内科,,,9" xlink:title="（特養）静方園附属診療所" transform="ref(svg,13338.3236,-3455.9096)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清音会診療所,広島県福山市芦田町柞磨３８６,内科,,,9" xlink:title="清音会診療所" transform="ref(svg,13323.6247,-3452.2115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）法宗会法宗医院,広島県福山市伊勢丘５-６-１,内科　消化器内科　小児科　外科　整形外科,,,9" xlink:title="（医）法宗会法宗医院" transform="ref(svg,13342.1625,-3450.7176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島三好内科医院,広島県福山市駅家町中島５０３,内科　リハビリテーション科　放射線科,,,9" xlink:title="中島三好内科医院" transform="ref(svg,13331.462,-3455.0977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松谷循環器科神経内科医院,広島県福山市北本庄１-２-３,内科　循環器内科　神経内科,,,9" xlink:title="松谷循環器科神経内科医院" transform="ref(svg,13335.2584,-3449.2975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,目崎内科胃腸科循環器科医院,広島県福山市南蔵王町４-１２-２５,内科　循環器内科　消化器内科,,,9" xlink:title="目崎内科胃腸科循環器科医院" transform="ref(svg,13339.6586,-3449.9002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤本医院,広島県福山市大門町１-３６-３１,内科　消化器内科　皮膚科　外科　整形外科　放射線科,,,9" xlink:title="藤本医院" transform="ref(svg,13343.9281,-3449.721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）生寿園診療所,広島県福山市東村町１７７５,内科,,,9" xlink:title="（特養）生寿園診療所" transform="ref(svg,13323.3372,-3446.4439)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まこと会クリニック和田,広島県福山市多治米町２-１４-１２,内科　消化器内科　小児科　産婦人科,,,9" xlink:title="（医）まこと会クリニック和田" transform="ref(svg,13337.9855,-3447.074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,常金丸診療所,広島県福山市新市町常１８５５-１,内科　小児科　整形外科　リハビリテーション科,,,9" xlink:title="常金丸診療所" transform="ref(svg,13326.2668,-3460.135)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林胃腸科医院,広島県福山市南蔵王町１-９-２２-３,消化器内科　外科,,,9" xlink:title="小林胃腸科医院" transform="ref(svg,13338.909,-3450.3487)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大城外科医院,広島県福山市神辺町十九軒屋３０,内科　外科　整形外科,,,9" xlink:title="大城外科医院" transform="ref(svg,13336.1532,-3454.5042)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）豊会タカタ内科胃腸科,広島県福山市東町３-３-３,内科　循環器内科　消化器内科,,,9" xlink:title="（医）豊会タカタ内科胃腸科" transform="ref(svg,13336.7808,-3449.3725)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）綱川内科,広島県福山市引野町５-４５-１,内科　循環器内科　消化器内科　小児科,,,9" xlink:title="（医）綱川内科" transform="ref(svg,13340.8468,-3449.0892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まさよし会児玉クリニック,広島県福山市南蔵王町６-２-８,消化器内科　外科　肛門外科,,,9" xlink:title="（医）まさよし会児玉クリニック" transform="ref(svg,13340.0354,-3450.0137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川内科医院,広島県福山市引野町１-１９-３０,内科　呼吸器内科　循環器内科　消化器内科　神経内科　放射線科,,,9" xlink:title="石川内科医院" transform="ref(svg,13340.6095,-3449.6884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古中内科医院,広島県福山市草戸町４-１-５,内科　呼吸器内科　循環器内科　消化器内科,,,9" xlink:title="古中内科医院" transform="ref(svg,13336.2272,-3447.6302)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武内科胃腸科医院,広島県福山市春日町５-４-８,内科　消化器内科　皮膚科　放射線科,,,9" xlink:title="武内科胃腸科医院" transform="ref(svg,13340.8711,-3450.6056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）中国労働衛生協会福山本部診療所,広島県福山市引野町５-１４-２,内科　婦人科　放射線科,,,9" xlink:title="（公財）中国労働衛生協会福山本部診療所" transform="ref(svg,13340.3404,-3449.266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）瞳真会福永眼科医院,広島県福山市三之丸町１４-１７,眼科,,,9" xlink:title="（医）瞳真会福永眼科医院" transform="ref(svg,13335.9043,-3448.6964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂田耳鼻咽喉科医院,広島県福山市延広町５-１７,耳鼻いんこう科,,,9" xlink:title="坂田耳鼻咽喉科医院" transform="ref(svg,13336.5592,-3448.6442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,シバハラ胃腸科内科医院,広島県福山市沖野上町４-１５-１６,内科　消化器内科,,,9" xlink:title="シバハラ胃腸科内科医院" transform="ref(svg,13337.1825,-3447.0985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井内科,広島県福山市本郷町１６０５-２,内科　呼吸器内科　消化器内科　糖尿病内科　リハビリテーション科,,,9" xlink:title="石井内科" transform="ref(svg,13324.5869,-3446.862)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科小児科今福医院,広島県福山市引野町５-３２-３,内科　呼吸器内科　循環器内科　消化器内科　小児科,,,9" xlink:title="内科小児科今福医院" transform="ref(svg,13340.7129,-3449.2004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）むつみ会坂田医院,広島県福山市丸之内２-１２-６,内科　消化器内科　整形外科,,,9" xlink:title="（医）むつみ会坂田医院" transform="ref(svg,13335.894,-3449.3179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川医院,広島県福山市芦田町大字下有地９８６,内科　小児科,,,9" xlink:title="石川医院" transform="ref(svg,13327.8212,-3453.0332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,占部内科医院,広島県福山市川口町５-１６-５３,内科　呼吸器内科　循環器内科　消化器内科,,,9" xlink:title="占部内科医院" transform="ref(svg,13338.2434,-3446.2502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）黎明会さくらの丘クリニック,広島県福山市駅家町法成寺１０８,内科　循環器内科　消化器内科　リハビリテーション科,,,9" xlink:title="（医）黎明会さくらの丘クリニック" transform="ref(svg,13332.5888,-3455.3991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若林医院,広島県福山市春日町２-３-２９,内科　小児科　リハビリテーション科,,,9" xlink:title="若林医院" transform="ref(svg,13341.1522,-3450.9927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,門野胃腸科内科医院,広島県福山市春日町１-６-５８,内科　呼吸器内科　循環器内科　消化器内科　皮膚科　小児科　泌尿器科,,,9" xlink:title="門野胃腸科内科医院" transform="ref(svg,13340.1166,-3450.5794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西江外科胃腸科,広島県福山市宝町５-２５,消化器内科　外科　放射線科,,,9" xlink:title="西江外科胃腸科" transform="ref(svg,13336.6588,-3448.9294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上内科循環器科医院,広島県福山市道三町５-１５,内科　循環器内科　消化器内科,,,9" xlink:title="村上内科循環器科医院" transform="ref(svg,13336.337,-3448.1853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大日方小児科医院,広島県福山市光南町３-２-８,小児科,,,9" xlink:title="大日方小児科医院" transform="ref(svg,13336.8008,-3447.7976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長外科胃腸科医院,広島県福山市駅家町大字法成寺４-１,消化器内科　皮膚科　外科　肛門外科　整形外科,,,9" xlink:title="長外科胃腸科医院" transform="ref(svg,13333.4313,-3455.4087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤原小児科,広島県福山市新市町宮内２３-３,内科　アレルギー科　小児科,,,9" xlink:title="（医）藤原小児科" transform="ref(svg,13327.3933,-3456.3882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三木耳鼻咽喉科医院,広島県福山市大黒町２-７,耳鼻いんこう科,,,9" xlink:title="（医）三木耳鼻咽喉科医院" transform="ref(svg,13336.7556,-3449.1239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）片岡内科胃腸科医院,広島県福山市山手町２-３-１０,内科　消化器内科,,,9" xlink:title="（医）片岡内科胃腸科医院" transform="ref(svg,13333.2691,-3449.1009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まこと会神辺内科医院,広島県福山市野上町２-１０-２９,内科,,,9" xlink:title="（医）まこと会神辺内科医院" transform="ref(svg,13336.262,-3447.7283)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ひかり眼科,広島県福山市春日町１-５-４５,眼科,,,9" xlink:title="（医）ひかり眼科" transform="ref(svg,13340.5702,-3450.6335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西谷内科,広島県福山市本町５-２０,内科　リウマチ科,,,9" xlink:title="西谷内科" transform="ref(svg,13336.5323,-3449.3964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）井上小児科内科医院,広島県福山市駅家町近田３７９-１,内科　皮膚科　小児科,,,9" xlink:title="（医）井上小児科内科医院" transform="ref(svg,13331.5113,-3454.0786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三木眼科医院,広島県福山市大黒町２-７,眼科,,,9" xlink:title="三木眼科医院" transform="ref(svg,13336.7523,-3449.1302)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南坊井上内科循環器科医院,広島県福山市駅家町近田５８２,内科　循環器内科　消化器内科　小児科,,,9" xlink:title="南坊井上内科循環器科医院" transform="ref(svg,13331.1922,-3454.5061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤崎眼科医院,広島県福山市神辺町川南３１４３-１,眼科,,,9" xlink:title="（医）藤崎眼科医院" transform="ref(svg,13338.0998,-3453.8885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒川耳鼻咽喉科医院,広島県福山市西町１-３-３３,耳鼻いんこう科,,,9" xlink:title="黒川耳鼻咽喉科医院" transform="ref(svg,13335.6825,-3448.8285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）東光会（特養）東光園診療所,広島県福山市坪生町字黒坂６０６,内科,,,9" xlink:title="（福）東光会（特養）東光園診療所" transform="ref(svg,13345.12,-3452.9323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）栄仁会平山クリニック,広島県福山市三吉町南２-１２-１４,皮膚科　泌尿器科,,,9" xlink:title="（医）栄仁会平山クリニック" transform="ref(svg,13338.0091,-3448.8825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥坊クリニック,広島県福山市西桜町１-６-１,消化器内科　感染症内科　外科　泌尿器科　整形外科　リハビリテーション科,,,9" xlink:title="奥坊クリニック" transform="ref(svg,13335.7771,-3448.4142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）広畑内科,広島県福山市横尾町１-２１-８,内科　消化器内科,,,9" xlink:title="（医）広畑内科" transform="ref(svg,13336.4573,-3451.8704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井整形形成外科医院,広島県福山市奈良津町３-１-５,リウマチ科　整形外科　形成外科　リハビリテーション科,,,9" xlink:title="藤井整形形成外科医院" transform="ref(svg,13337.3817,-3449.9351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,幸楽園診療所,広島県福山市蔵王町大山１５９-１４,内科　脳神経外科　整形外科,,,9" xlink:title="幸楽園診療所" transform="ref(svg,13340.5837,-3452.0932)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いぐち内科,広島県福山市神辺町徳田８４６-１,内科　循環器内科　消化器内科,,,9" xlink:title="いぐち内科" transform="ref(svg,13337.1323,-3455.0911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵仁会福田内科小児科,広島県福山市瀬戸町大字長和１８５-３,内科　呼吸器内科　循環器内科　消化器内科　小児科　リハビリテーション科,,,9" xlink:title="（医）恵仁会福田内科小児科" transform="ref(svg,13332.6592,-3448.0859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石原内科胃腸科,広島県福山市幕山台１-２０-２０,内科　消化器内科,,,9" xlink:title="石原内科胃腸科" transform="ref(svg,13343.4073,-3451.3325)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋整形外科,広島県福山市新涯町３-１-２６,外科　肛門外科　整形外科　リハビリテーション科,,,9" xlink:title="高橋整形外科" transform="ref(svg,13338.7814,-3446.204)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平田耳鼻咽喉科,広島県福山市曙町５-２１-５０,耳鼻いんこう科,,,9" xlink:title="（医）平田耳鼻咽喉科" transform="ref(svg,13339.4961,-3446.7389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいとう小児科,広島県福山市宝町５-２４,アレルギー科　小児科,,,9" xlink:title="さいとう小児科" transform="ref(svg,13336.6631,-3448.9121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）越智眼科多治米医院,広島県福山市多治米町１-１０-１５,眼科,,,9" xlink:title="（医）越智眼科多治米医院" transform="ref(svg,13338.139,-3447.4424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）福山福寿園診療所,広島県福山市赤坂町大字早戸１４８３,内科,,,9" xlink:title="（特養）福山福寿園診療所" transform="ref(svg,13330.9826,-3446.0196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮崎入船医院,広島県福山市入船町２-８-１４,内科,,,9" xlink:title="宮崎入船医院" transform="ref(svg,13337.5015,-3448.7109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田医院,広島県福山市久松台２-３-３,内科　呼吸器内科　消化器内科,,,9" xlink:title="池田医院" transform="ref(svg,13335.3824,-3450.3265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,シャープ（健保）福山健康管理室,広島県福山市大門町旭１,内科　歯科,,,9" xlink:title="シャープ（健保）福山健康管理室" transform="ref(svg,13345.3652,-3449.9445)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）細木小児科,広島県福山市港町２-１１-１,小児科,,,9" xlink:title="（医）細木小児科" transform="ref(svg,13338.1582,-3448.4023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いぶき小児科,広島県福山市城見町１-３-３,アレルギー科　小児科,,,9" xlink:title="（医）いぶき小児科" transform="ref(svg,13336.5458,-3449.0578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平井外科胃腸科医院,広島県福山市御幸町下岩成６４９-５,消化器内科　外科　肛門外科　整形外科,,,9" xlink:title="（医）平井外科胃腸科医院" transform="ref(svg,13334.5702,-3453.9439)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田医院,広島県福山市新市町戸手２１２１-１,内科　消化器内科　放射線科,,,9" xlink:title="池田医院" transform="ref(svg,13329.5081,-3454.8864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井皮膚科泌尿器科医院,広島県福山市青葉台１-１１-５,皮膚科　泌尿器科,,,9" xlink:title="石井皮膚科泌尿器科医院" transform="ref(svg,13342.8241,-3451.2753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,備後福祉会神辺ホーム診療所,広島県福山市神辺町西中条１２８８,内科,,,9" xlink:title="備後福祉会神辺ホーム診療所" transform="ref(svg,13338.3088,-3456.4102)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）潤会宮崎胃腸科放射線科内科医院,広島県福山市霞町２-４-３,消化器内科　放射線科,,,9" xlink:title="（医）潤会宮崎胃腸科放射線科内科医院" transform="ref(svg,13336.4199,-3448.3854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）奥野皮膚科医院,広島県福山市明治町３-１６,皮膚科,,,9" xlink:title="（医）奥野皮膚科医院" transform="ref(svg,13336.7146,-3448.3241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐野内科胃腸科医院,広島県福山市駅家町万能倉３４７,内科　消化器内科,,,9" xlink:title="佐野内科胃腸科医院" transform="ref(svg,13333.7755,-3454.5518)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三好眼科,広島県福山市大黒町２-３９,眼科,,,9" xlink:title="三好眼科" transform="ref(svg,13336.7757,-3449.0896)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒木眼科医院,広島県福山市東深津町２-１１-２６,眼科,,,9" xlink:title="黒木眼科医院" transform="ref(svg,13339.0019,-3449.4796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋クリニック,広島県福山市延広町１-２５,消化器内科　外科　肛門外科,,,9" xlink:title="高橋クリニック" transform="ref(svg,13336.423,-3448.5982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田内科,広島県福山市神辺町湯野３７８-１３,内科　呼吸器内科　循環器内科　消化器内科　小児科,,,9" xlink:title="上田内科" transform="ref(svg,13338.1947,-3454.7074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇田内科リウマチ科,広島県福山市東深津町２-８-３０,内科　リウマチ科　リハビリテーション科　放射線科,,,9" xlink:title="宇田内科リウマチ科" transform="ref(svg,13339.1394,-3449.6261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高橋眼科,広島県福山市野上町２-１０-２４,眼科,,,9" xlink:title="（医）高橋眼科" transform="ref(svg,13336.3044,-3447.7432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土屋内科医院,広島県福山市東手城町３-１１-１６,内科　循環器内科　消化器内科　小児科,,,9" xlink:title="土屋内科医院" transform="ref(svg,13340.6155,-3448.876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おおえ小児科,広島県福山市曙町５-１９-２５,小児科,,,9" xlink:title="（医）おおえ小児科" transform="ref(svg,13339.4279,-3446.6771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐伯クリニック,広島県福山市霞町４-１-２１,皮膚科　外科　形成外科　リハビリテーション科,,,9" xlink:title="佐伯クリニック" transform="ref(svg,13336.0093,-3448.3679)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正智会小林外科胃腸科,広島県福山市山手町２-１-１,消化器内科　外科　肛門外科　放射線科,,,9" xlink:title="（医）正智会小林外科胃腸科" transform="ref(svg,13333.4192,-3449.2141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤本外科・胃腸科・肛門科クリニック,広島県福山市御門町３-９-２３,消化器内科　外科　肛門外科　リハビリテーション科,,,9" xlink:title="（医）藤本外科・胃腸科・肛門科クリニック" transform="ref(svg,13337.0795,-3447.7167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,後藤泌尿器科医院,広島県福山市駅家町江良４２７-１,泌尿器科,,,9" xlink:title="後藤泌尿器科医院" transform="ref(svg,13331.9483,-3453.8895)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中医院,広島県福山市宝町４-１０,皮膚科　アレルギー科　泌尿器科,,,9" xlink:title="田中医院" transform="ref(svg,13336.6193,-3448.9399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山クリニック,広島県福山市南蔵王町６-３２-１２,内科　外科,,,9" xlink:title="福山クリニック" transform="ref(svg,13340.6553,-3450.1573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山市医師会総合健診センター,広島県福山市三吉町南２-１１-２５,内科　小児科　外科　婦人科,,,9" xlink:title="福山市医師会総合健診センター" transform="ref(svg,13337.9756,-3448.921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）えきや外科クリニック,広島県福山市駅家町近田２３４-２,内科　消化器内科　外科　肛門外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）えきや外科クリニック" transform="ref(svg,13331.7028,-3454.1092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広岡整形外科,広島県福山市南手城町１-９-２５,整形外科　リハビリテーション科,,,9" xlink:title="広岡整形外科" transform="ref(svg,13338.7263,-3448.2334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山元胃腸科,広島県福山市春日町１-２３-２５,消化器内科　外科,,,9" xlink:title="山元胃腸科" transform="ref(svg,13340.6302,-3450.8648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大内耳鼻咽喉科,広島県福山市神辺町新徳田３-５２２,耳鼻いんこう科,,,9" xlink:title="大内耳鼻咽喉科" transform="ref(svg,13336.4156,-3454.745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）宣山荘診療所,広島県福山市駅家町大橋１０３６-３,内科,,,9" xlink:title="（特養）宣山荘診療所" transform="ref(svg,13330.4997,-3453.5907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつなが産科婦人科,広島県福山市三吉町３-３-２３,産科　婦人科,,,9" xlink:title="まつなが産科婦人科" transform="ref(svg,13337.5572,-3449.2938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清和会柴田内科,広島県福山市神辺町道上１-１７,内科　呼吸器内科　循環器内科　消化器内科,,,9" xlink:title="（医）清和会柴田内科" transform="ref(svg,13335.7633,-3455.1816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森近内科,広島県福山市西深津町４-２-５０,内科　循環器内科　消化器内科　リハビリテーション科　放射線科,,,9" xlink:title="森近内科" transform="ref(svg,13337.9315,-3449.7438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽費老人ホームコーポしんいち診療所,広島県福山市新市町大字宮内１３１６-１,内科,,,9" xlink:title="軽費老人ホームコーポしんいち診療所" transform="ref(svg,13327.0857,-3457.5647)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村整形外科,広島県福山市南蔵王町２-４-１１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="中村整形外科" transform="ref(svg,13339.1937,-3450.3828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今福内科クリニック,広島県福山市西町２-１４-１８,内科　呼吸器内科　消化器内科,,,9" xlink:title="今福内科クリニック" transform="ref(svg,13335.5757,-3448.9319)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小池内科循環器科,広島県福山市明治町１４-２６,内科　循環器内科,,,9" xlink:title="小池内科循環器科" transform="ref(svg,13336.8922,-3448.2271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鍋島皮ふ科形成外科医院,広島県福山市野上町３-１２-４,皮膚科　形成外科,,,9" xlink:title="鍋島皮ふ科形成外科医院" transform="ref(svg,13336.3366,-3447.6917)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石田内科・循環器科,広島県福山市東川口町４-９-１２,内科　呼吸器内科　循環器内科　消化器内科　リハビリテーション科　放射線科,,,9" xlink:title="（医）石田内科・循環器科" transform="ref(svg,13338.5781,-3447.3604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ローズ東村診療所,広島県福山市東村町１３０-５,内科　整形外科　リハビリテーション科,,,9" xlink:title="ローズ東村診療所" transform="ref(svg,13324.5754,-3446.2789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橘高クリニック,広島県福山市宮前町１-３-１５,内科　呼吸器内科　循環器内科　消化器内科　小児科,,,9" xlink:title="橘高クリニック" transform="ref(svg,13326.064,-3445.3655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西井内科医院,広島県福山市坪生町５-８３,内科　消化器内科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="西井内科医院" transform="ref(svg,13344.0303,-3452.8076)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明健会冨永内科医院,広島県福山市奈良津町３-１-１,内科　消化器内科　小児科,,,9" xlink:title="（医）明健会冨永内科医院" transform="ref(svg,13337.3892,-3449.9196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金高整形外科医院,広島県福山市新市町戸手８１４-１０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="金高整形外科医院" transform="ref(svg,13328.5226,-3454.6072)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹丸外科胃腸科,広島県福山市神辺町川南３１７５,内科　消化器内科　皮膚科　外科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="竹丸外科胃腸科" transform="ref(svg,13338.139,-3453.9792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向田内科医院,広島県福山市加茂町中野４０３-３,内科　呼吸器内科　循環器内科　消化器内科　リハビリテーション科　放射線科,,,9" xlink:title="向田内科医院" transform="ref(svg,13334.5366,-3457.3162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）越智眼科昭和町医院,広島県福山市昭和町７-７,眼科,,,9" xlink:title="（医）越智眼科昭和町医院" transform="ref(svg,13336.76,-3448.4673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川内科胃腸科,広島県福山市神辺町新徳田３-５４５-１,内科　呼吸器内科　循環器内科　消化器内科　アレルギー科　リハビリテーション科,,,9" xlink:title="小川内科胃腸科" transform="ref(svg,13336.4222,-3454.6465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,びんごクリニック,広島県福山市丸之内１-３-９鈴木第２ビル６階,内科　神経内科　精神科　心療内科,,,9" xlink:title="びんごクリニック" transform="ref(svg,13336.2919,-3449.1328)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）敬友会卜部耳鼻咽喉科医院,広島県福山市霞町２-２-３,耳鼻いんこう科,,,9" xlink:title="（医）敬友会卜部耳鼻咽喉科医院" transform="ref(svg,13336.3342,-3448.4256)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）穣和会藤田医院,広島県福山市神辺町川北１３０-１,内科　循環器内科　小児科,,,9" xlink:title="（医）穣和会藤田医院" transform="ref(svg,13338.3861,-3454.0426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川クリニック,広島県福山市新市町上安井５０,内科　消化器内科　皮膚科　外科　肛門外科,,,9" xlink:title="石川クリニック" transform="ref(svg,13326.8586,-3458.924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広島県赤十字血液センター福山出張所,広島県福山市三之丸町９-１６,内科,,,9" xlink:title="広島県赤十字血液センター福山出張所" transform="ref(svg,13335.8642,-3448.829)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フジタクリニック,広島県福山市神辺町川南３１６２-１,内科　神経内科　精神科　心療内科,,,9" xlink:title="フジタクリニック" transform="ref(svg,13338.0998,-3453.9138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちょう外科医院,広島県福山市野上町３-４-３０,内科　循環器内科　消化器内科　外科　整形外科　小児外科　リハビリテーション科　麻酔科,,,9" xlink:title="ちょう外科医院" transform="ref(svg,13336.5114,-3447.6804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いぐちクリニック,広島県福山市沖野上町６-１１-２４,内科,,,9" xlink:title="いぐちクリニック" transform="ref(svg,13336.4245,-3447.0875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木内科小児科クリニック,広島県福山市三之丸町１１-１１,内科　循環器内科　糖尿病内科　アレルギー科　小児科,,,9" xlink:title="佐々木内科小児科クリニック" transform="ref(svg,13335.923,-3448.7602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にし整形外科,広島県福山市大黒町２-２０,皮膚科　リウマチ科　心療内科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="にし整形外科" transform="ref(svg,13336.7597,-3449.2039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）辰川会山陽腎クリニック,広島県福山市野上町１-７-８,外科,,,9" xlink:title="（医）辰川会山陽腎クリニック" transform="ref(svg,13336.3602,-3447.9853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島整形外科医院,広島県福山市御幸町中津原１４５０,整形外科　リハビリテーション科　放射線科,,,9" xlink:title="中島整形外科医院" transform="ref(svg,13336.2448,-3452.5297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田中メディカルクリニック,広島県福山市手城町２-１-２０,消化器内科　外科　肛門外科　整形外科,,,9" xlink:title="（医）田中メディカルクリニック" transform="ref(svg,13338.8812,-3448.7625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはし小児科,広島県福山市三吉町３-１-１３,小児科,,,9" xlink:title="たかはし小児科" transform="ref(svg,13337.5048,-3449.3012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじもり医院,広島県福山市伊勢丘５-１-３０,内科　小児科　外科　肛門外科　整形外科　リハビリテーション科,,,9" xlink:title="ふじもり医院" transform="ref(svg,13342.2346,-3450.4886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中川クリニック,広島県福山市西深津町６-１３-５,内科　呼吸器内科　アレルギー科,,,9" xlink:title="中川クリニック" transform="ref(svg,13338.3536,-3450.209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青景医院,広島県福山市津之郷町津之郷４８４-５,内科　小児科,,,9" xlink:title="青景医院" transform="ref(svg,13331.4998,-3448.269)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平川内科医院,広島県福山市北吉津町３-１１-１６,内科　消化器内科,,,9" xlink:title="平川内科医院" transform="ref(svg,13336.3927,-3449.7529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンフェニックス診療所,広島県福山市瀬戸町地頭分字小立２７２１,内科　歯科,,,9" xlink:title="（特養）サンフェニックス診療所" transform="ref(svg,13332.8891,-3446.3296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）静悠会コム・クリニック佐藤,広島県福山市引野町２-２０-１７,内科　呼吸器内科　循環器内科　消化器内科　アレルギー科　外科　整形外科　眼科　放射線科,,,9" xlink:title="（医）静悠会コム・クリニック佐藤" transform="ref(svg,13341.7337,-3449.9289)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片山整形外科医院,広島県福山市神辺町川南１３７３-５,消化器内科　皮膚科　リウマチ科　外科　肛門外科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="片山整形外科医院" transform="ref(svg,13338.0111,-3453.4748)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム福山市光寿園診療所,広島県福山市瀬戸町大字地頭分字小立２７２２-１,内科,,,9" xlink:title="養護老人ホーム福山市光寿園診療所" transform="ref(svg,13332.9355,-3446.2433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ジョイトピアおおさ診療所,広島県福山市新市町下安井３５００,内科,,,9" xlink:title="（特養）ジョイトピアおおさ診療所" transform="ref(svg,13328.3592,-3457.1887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,庵谷内科循環器科,広島県福山市御幸町上岩成２３４-１,内科　呼吸器内科　循環器内科　消化器内科　小児科　リハビリテーション科,,,9" xlink:title="庵谷内科循環器科" transform="ref(svg,13334.7033,-3454.8203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伸寿会高須クリニック,広島県福山市南蔵王町１-７-１４,内科　外科,,,9" xlink:title="（医）伸寿会高須クリニック" transform="ref(svg,13338.9963,-3450.203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井小児科・皮膚科医院,広島県福山市北吉津町５-１-３１,皮膚科　小児科,,,9" xlink:title="藤井小児科・皮膚科医院" transform="ref(svg,13336.7895,-3449.7797)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）碧会井口産婦人科小児科医院,広島県福山市神辺町大字新湯野７１-４,小児科　産科　婦人科,,,9" xlink:title="（医）碧会井口産婦人科小児科医院" transform="ref(svg,13338.9912,-3455.2577)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松永脳外科クリニック,広島県福山市宮前町２-６-２０,神経内科　脳神経外科　整形外科　リハビリテーション科,,,9" xlink:title="松永脳外科クリニック" transform="ref(svg,13326.2147,-3445.4179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）幸の鳥レディスクリニック,広島県福山市春日町１-７-１４,産科　婦人科,,,9" xlink:title="（医）幸の鳥レディスクリニック" transform="ref(svg,13340.1534,-3450.6698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井クリニック,広島県福山市東村町５,内科　循環器内科　消化器内科,,,9" xlink:title="藤井クリニック" transform="ref(svg,13324.4324,-3446.38)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こどもクリニックむらかみ,広島県福山市駅家町万能倉９１０-１５,小児科,,,9" xlink:title="（医）こどもクリニックむらかみ" transform="ref(svg,13333.2898,-3454.4548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふるかど眼科,広島県福山市駅家町倉光３５-１,眼科,,,9" xlink:title="ふるかど眼科" transform="ref(svg,13332.8222,-3454.5132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンサンホーム医務室,広島県福山市神辺町大字東中条字大倉６１０-１６,内科,,,9" xlink:title="（特養）サンサンホーム医務室" transform="ref(svg,13339.5092,-3458.3857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山市民病院附属加茂診療所,広島県福山市加茂町芦原４８８,内科　外科　眼科,,,9" xlink:title="福山市民病院附属加茂診療所" transform="ref(svg,13335.131,-3457.946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩-ｱ整形外科クリニック,広島県福山市木之庄町２-７-５,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="岩-ｱ整形外科クリニック" transform="ref(svg,13335.4204,-3449.7964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠心会うえだ皮ふ科クリニック,広島県福山市神辺町大字新徳田３-５４２-１,皮膚科　アレルギー科,,,9" xlink:title="（医）誠心会うえだ皮ふ科クリニック" transform="ref(svg,13336.5302,-3454.659)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こじょう内科,広島県福山市南手城町１-１５-３,内科　循環器内科　消化器内科,,,9" xlink:title="こじょう内科" transform="ref(svg,13338.6061,-3448.1795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ニシダクリニック,広島県福山市元町１２-４元町ビル３階,内科　皮膚科　眼科,,,9" xlink:title="ニシダクリニック" transform="ref(svg,13336.463,-3448.7866)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁正会おかの眼科,広島県福山市船町１-３２,眼科,,,9" xlink:title="（医）仁正会おかの眼科" transform="ref(svg,13336.68,-3448.7551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）すくすく会木村小児科,広島県福山市南蔵王町６-２０-１０,内科　アレルギー科　小児科,,,9" xlink:title="（医）すくすく会木村小児科" transform="ref(svg,13340.3562,-3450.0552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）叡幸会岡本耳鼻咽喉科医院,広島県福山市御幸町下岩成中町３１６-１,耳鼻いんこう科,,,9" xlink:title="（医）叡幸会岡本耳鼻咽喉科医院" transform="ref(svg,13334.9044,-3454.035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）春陽会竹内耳鼻咽喉科,広島県福山市春日町７-１４-２６,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="（医）春陽会竹内耳鼻咽喉科" transform="ref(svg,13341.5769,-3450.9237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日野内科小児科クリニック,広島県福山市新涯町１-５-３８,内科　呼吸器内科　小児科,,,9" xlink:title="日野内科小児科クリニック" transform="ref(svg,13338.9439,-3446.3109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）親愛会高橋脳神経外科,広島県福山市神辺町大字道上字東ノ町３００４,脳神経外科　リハビリテーション科　放射線科,,,9" xlink:title="（医）親愛会高橋脳神経外科" transform="ref(svg,13335.4453,-3455.0836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村内科・小児科,広島県福山市引野町南２-１４-１７,内科　循環器内科　小児科　リハビリテーション科,,,9" xlink:title="中村内科・小児科" transform="ref(svg,13342.3579,-3449.1909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわもとクリニック,広島県福山市引野町１-２２-２８,整形外科　リハビリテーション科,,,9" xlink:title="かわもとクリニック" transform="ref(svg,13340.8341,-3449.7154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,優輝整形リハビリステーション,広島県福山市神辺町川南１０５-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="優輝整形リハビリステーション" transform="ref(svg,13336.6295,-3453.9873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上医院,広島県福山市古野上町１０-２３,内科　小児科,,,9" xlink:title="井上医院" transform="ref(svg,13335.6652,-3448.3142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬野神経科クリニック,広島県福山市野上町３-１-２９,神経内科　精神科,,,9" xlink:title="馬野神経科クリニック" transform="ref(svg,13336.4719,-3447.7304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成恵会やまてクリニック,広島県福山市神辺町川南１０４４-４,内科　循環器内科　泌尿器科,,,9" xlink:title="（医）成恵会やまてクリニック" transform="ref(svg,13337.9542,-3453.5653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,住井内科,広島県福山市新市町新市３８８-４,内科　呼吸器内科　循環器内科　消化器内科　小児科,,,9" xlink:title="住井内科" transform="ref(svg,13327.3308,-3455.4312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山医療（生協）ふれあい診療所,広島県福山市駅家町万能倉９６-３,内科　小児科　リハビリテーション科,,,9" xlink:title="福山医療（生協）ふれあい診療所" transform="ref(svg,13334.0572,-3454.4052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瀬尾医院,広島県福山市新市町新市８０９-２,内科　消化器内科　小児科,,,9" xlink:title="瀬尾医院" transform="ref(svg,13327.5527,-3455.5651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まが医院,広島県福山市神辺町平野１２１-５,内科　消化器内科　小児科,,,9" xlink:title="（医）まが医院" transform="ref(svg,13339.0953,-3454.7145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内藤クリニック,広島県福山市駅家町万能倉９２５-３,内科　循環器内科　消化器内科　アレルギー科　外科,,,9" xlink:title="内藤クリニック" transform="ref(svg,13333.1579,-3454.4351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みはら眼科,広島県福山市神辺町新徳田２-３０９,眼科,,,9" xlink:title="みはら眼科" transform="ref(svg,13337.0936,-3454.7055)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田小児科内科医院,広島県福山市春日町３-１０-２５,内科　アレルギー科　小児科　精神科,,,9" xlink:title="藤田小児科内科医院" transform="ref(svg,13341.432,-3451.1599)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武皮膚科医院,広島県福山市東川口町５-１７-１８,皮膚科,,,9" xlink:title="武皮膚科医院" transform="ref(svg,13339.0719,-3447.1924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁正会ざおう眼科,広島県福山市南蔵王町５-９-１８,眼科,,,9" xlink:title="（医）仁正会ざおう眼科" transform="ref(svg,13340.028,-3450.4615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,草浦医院,広島県福山市駅家町万能倉１０３８,内科　消化器内科,,,9" xlink:title="草浦医院" transform="ref(svg,13333.1817,-3455.0496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒瀬クリニック,広島県福山市三吉町南１-１１-１５,内科　呼吸器内科　消化器内科　外科　肛門外科,,,9" xlink:title="黒瀬クリニック" transform="ref(svg,13337.8982,-3449.1681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森内科,広島県福山市手城町２-８-４,内科,,,9" xlink:title="森内科" transform="ref(svg,13339.096,-3448.7548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いけだ小児科,広島県福山市南蔵王町３-７-４２,アレルギー科　小児科,,,9" xlink:title="（医）いけだ小児科" transform="ref(svg,13339.3522,-3450.0486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）松風園（医務室）,広島県福山市加茂町字上加茂３３,内科　消化器内科　外科,,,9" xlink:title="（特養）松風園（医務室）" transform="ref(svg,13334.5018,-3456.3375)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山市保健センター,広島県福山市三吉町南２-１１-２２,内科,,,9" xlink:title="福山市保健センター" transform="ref(svg,13337.9223,-3448.9913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本クリニック,広島県福山市駅家町大字坊寺５８-１,内科,,,9" xlink:title="山本クリニック" transform="ref(svg,13332.506,-3453.5777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒木医院,広島県福山市笠岡町１-１,内科　循環器内科　消化器内科　神経内科　皮膚科　アレルギー科　リウマチ科　精神科　形成外科　リハビリテーション科　放射線科,,,9" xlink:title="荒木医院" transform="ref(svg,13336.7447,-3448.8624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,板崎外科整形外科,広島県福山市港町２-５-２５,消化器内科　リウマチ科　外科　脳神経外科　整形外科　リハビリテーション科,,,9" xlink:title="板崎外科整形外科" transform="ref(svg,13338.2715,-3448.5405)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）上原医院,広島県福山市幕山台１-１-１,内科　循環器内科　小児科　外科,,,9" xlink:title="（医）上原医院" transform="ref(svg,13342.9186,-3451.1224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うだ胃腸科内科外科クリニック,広島県福山市沖野上町４-３-２６,内科　消化器内科　外科　肛門外科　リハビリテーション科　放射線科,,,9" xlink:title="うだ胃腸科内科外科クリニック" transform="ref(svg,13336.8142,-3447.3143)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂本眼科小児科クリニック,広島県福山市大門町１-４０-１２,内科　皮膚科　小児科　眼科,,,9" xlink:title="坂本眼科小児科クリニック" transform="ref(svg,13344.1782,-3449.7054)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松井内科,広島県福山市駅家町向永谷６６６-３,内科　神経内科　リハビリテーション科,,,9" xlink:title="松井内科" transform="ref(svg,13329.7911,-3453.5346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山市民病院附属山野診療所,広島県福山市山野町山野３７９０-１,内科　外科,,,9" xlink:title="福山市民病院附属山野診療所" transform="ref(svg,13339.0622,-3465.3345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東川耳鼻咽喉科医院,広島県福山市御門町３-２-８,気管食道外科　耳鼻いんこう科,,,9" xlink:title="東川耳鼻咽喉科医院" transform="ref(svg,13337.1674,-3447.8939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もんぜんクリニック,広島県福山市駅家町倉光３０６-４,内科　外科　整形外科　リハビリテーション科　歯科,,,9" xlink:title="もんぜんクリニック" transform="ref(svg,13332.5817,-3454.3763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福徳永会さいきじんクリニック,広島県福山市瀬戸町山北４５０-１,内科　循環器内科　腎臓内科　糖尿病内科　外科,,,9" xlink:title="（医）福徳永会さいきじんクリニック" transform="ref(svg,13331.3733,-3447.3591)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）新山荘医務室,広島県福山市駅家町新山３５７８-２,内科,,,9" xlink:title="（特養）新山荘医務室" transform="ref(svg,13330.6818,-3456.3041)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊地内科,広島県福山市千田町２-４７-６,内科,,,9" xlink:title="菊地内科" transform="ref(svg,13338.3697,-3452.0192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡本麻酔科クリニック,広島県福山市曙町５-１-１-２０２,麻酔科,,,9" xlink:title="岡本麻酔科クリニック" transform="ref(svg,13339.1498,-3447.1312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀明会小池やすはら小児クリニック,広島県福山市光南町１-５-２３,小児科,,,9" xlink:title="（医）秀明会小池やすはら小児クリニック" transform="ref(svg,13336.6746,-3448.1316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）よしたかクリニック,広島県福山市神辺町川北１３４５-１１,内科　消化器内科　外科　乳腺外科　肛門外科　整形外科,,,9" xlink:title="（医）よしたかクリニック" transform="ref(svg,13337.1173,-3454.6406)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかい内科,広島県福山市神辺町新湯野４１-５,内科　消化器内科　アレルギー科　リハビリテーション科,,,9" xlink:title="さかい内科" transform="ref(svg,13338.8127,-3455.5179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山元町眼科,広島県福山市元町７-３,眼科,,,9" xlink:title="福山元町眼科" transform="ref(svg,13336.437,-3448.7236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐長内科クリニック,広島県福山市春日町１-２０-３８,内科　呼吸器内科　消化器内科　アレルギー科　リハビリテーション科,,,9" xlink:title="佐長内科クリニック" transform="ref(svg,13340.5316,-3450.7733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本醫院,広島県福山市引野町北２-８-２８,消化器内科　外科　肛門外科　麻酔科,,,9" xlink:title="山本醫院" transform="ref(svg,13340.8169,-3450.1859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こばたけ医院,広島県福山市松浜町４-５-２５,内科　循環器内科　消化器内科,,,9" xlink:title="こばたけ医院" transform="ref(svg,13337.8385,-3447.7717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかよし小児科,広島県福山市引野町４-２２-１９,アレルギー科　小児科,,,9" xlink:title="なかよし小児科" transform="ref(svg,13340.9954,-3449.0666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,重政レディスクリニック,広島県福山市沖野上町５-６-２３,内科　婦人科,,,9" xlink:title="重政レディスクリニック" transform="ref(svg,13336.4394,-3447.3554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きぬた小児科,広島県福山市神辺町大字川南９６０-３,小児科,,,9" xlink:title="きぬた小児科" transform="ref(svg,13337.0518,-3453.4618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）手城福助苑医務室,広島県福山市手城町３-１０-１３,内科,,,9" xlink:title="（特養）手城福助苑医務室" transform="ref(svg,13339.3758,-3448.7846)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとうクリニック,広島県福山市木之庄町１-１７-１２,内科　皮膚科　外科　肛門外科　整形外科　リハビリテーション科,,,9" xlink:title="さとうクリニック" transform="ref(svg,13335.2397,-3449.5196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山市民病院附属神辺診療所,広島県福山市神辺町湯野２１-１,内科,,,9" xlink:title="福山市民病院附属神辺診療所" transform="ref(svg,13338.2397,-3455.2227)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,船町ふじおかクリニック,広島県福山市船町３-４,内科　消化器内科　外科　リハビリテーション科　放射線科,,,9" xlink:title="船町ふじおかクリニック" transform="ref(svg,13336.8599,-3448.7064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田内科クリニック,広島県福山市南蔵王町６-４-１３,内科　呼吸器内科　循環器内科　消化器内科　アレルギー科　リハビリテーション科,,,9" xlink:title="森田内科クリニック" transform="ref(svg,13340.1188,-3449.9141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつもりファミリークリニック,広島県福山市本庄町中１-２-１３,内科　消化器内科　外科　整形外科,,,9" xlink:title="まつもりファミリークリニック" transform="ref(svg,13335.2709,-3448.9415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしだレディースクリニック内科・小児科,広島県福山市新涯町３-１９-３６,内科　消化器内科　小児科　産科　婦人科,,,9" xlink:title="よしだレディースクリニック内科・小児科" transform="ref(svg,13339.1611,-3446.091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,明神館脳神経外科,広島県福山市明神町２-５-２２,神経内科　小児科　心療内科　脳神経外科　リハビリテーション科　麻酔科,,,9" xlink:title="明神館脳神経外科" transform="ref(svg,13339.9524,-3449.2371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう脳外科クリニック,広島県福山市大門町３-２８-４３,内科　循環器内科　脳神経外科　リハビリテーション科　放射線科,,,9" xlink:title="さとう脳外科クリニック" transform="ref(svg,13344.0431,-3449.3179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西町クリニック耳鼻咽喉科,広島県福山市西町２-５-６,耳鼻いんこう科,,,9" xlink:title="西町クリニック耳鼻咽喉科" transform="ref(svg,13335.7975,-3449.0218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米田耳鼻咽喉科クリニック,広島県福山市駅家町大字倉光１５６-１,耳鼻いんこう科,,,9" xlink:title="米田耳鼻咽喉科クリニック" transform="ref(svg,13332.7314,-3454.1636)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）クオレおおたにクリニック,広島県福山市西町１-７-２４,神経内科　精神科　心療内科,,,9" xlink:title="（医）クオレおおたにクリニック" transform="ref(svg,13335.8712,-3448.6417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山医療（生協）城北診療所,広島県福山市木之庄町２-７-２,内科　小児科　心療内科　リハビリテーション科,,,9" xlink:title="福山医療（生協）城北診療所" transform="ref(svg,13335.3657,-3449.8232)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしおか医院,広島県福山市大門町３-１９-１４,内科　消化器内科　放射線科,,,9" xlink:title="いしおか医院" transform="ref(svg,13343.9336,-3449.2549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あいたに整形外科,広島県福山市川口町４-１３-１０,整形外科　リハビリテーション科,,,9" xlink:title="あいたに整形外科" transform="ref(svg,13338.4414,-3446.4259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古城クリニック,広島県福山市野上町３-６-３,内科　整形外科　麻酔科,,,9" xlink:title="古城クリニック" transform="ref(svg,13336.6924,-3447.5156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田響子ハートクリニック,広島県福山市若松町３-２０,内科　循環器内科,,,9" xlink:title="池田響子ハートクリニック" transform="ref(svg,13337.1639,-3449.1982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリスタル美容外科,広島県福山市東桜町２-７アインビル４Ｆ,皮膚科　形成外科　美容外科,,,9" xlink:title="クリスタル美容外科" transform="ref(svg,13336.1717,-3448.653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有木医院,広島県福山市本町１-１-１０３,消化器内科　アレルギー科　外科,,,9" xlink:title="有木医院" transform="ref(svg,13336.3802,-3449.2497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花園クリニック,広島県福山市花園町１-３-９,内科　皮膚科　精神科　心療内科　泌尿器科　婦人科,,,9" xlink:title="花園クリニック" transform="ref(svg,13337.3216,-3448.2024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹本内科循環器科,広島県福山市大黒町１-８,内科　循環器内科,,,9" xlink:title="竹本内科循環器科" transform="ref(svg,13336.6798,-3449.1192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしいクリニック,広島県福山市神辺町十三軒屋１３６-３,内科　消化器内科　外科　乳腺外科,,,9" xlink:title="いしいクリニック" transform="ref(svg,13335.5263,-3454.7923)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山市民病院附属田原診療所,広島県福山市山野町大字山野１９８４,内科　外科,,,9" xlink:title="福山市民病院附属田原診療所" transform="ref(svg,13336.331,-3467.476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山整形外科クリニック,広島県福山市神辺町大字川北１５４４-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="福山整形外科クリニック" transform="ref(svg,13336.3355,-3454.1692)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡邉内科クリニック,広島県福山市川口町４-１２-３７,内科　消化器内科,,,9" xlink:title="渡邉内科クリニック" transform="ref(svg,13338.4679,-3446.4935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永原内科クリニック,広島県福山市伊勢丘６-１-３０,内科　消化器内科　糖尿病内科,,,9" xlink:title="永原内科クリニック" transform="ref(svg,13342.5813,-3450.7097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もりかわ内科クリニック,広島県福山市東手城町１-３-１１,内科　消化器内科,,,9" xlink:title="もりかわ内科クリニック" transform="ref(svg,13340.1935,-3448.8687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市役所通りクリニック,広島県福山市西町１-４３-４,内科　消化器内科　外科　乳腺外科　肛門外科　放射線科,,,9" xlink:title="市役所通りクリニック" transform="ref(svg,13335.8741,-3448.5803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しだはらクリニック,広島県福山市三吉町４-１１-８,内科　リウマチ科　整形外科,,,9" xlink:title="しだはらクリニック" transform="ref(svg,13337.7406,-3449.5823)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はやし整形外科クリニック,広島県福山市伊勢ヶ丘６-１-３３,整形外科　リハビリテーション科,,,9" xlink:title="はやし整形外科クリニック" transform="ref(svg,13342.5526,-3450.6787)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）済井会福山光南クリニック,広島県福山市光南町３-７-８,外科　整形外科　麻酔科,,,9" xlink:title="（医）済井会福山光南クリニック" transform="ref(svg,13336.7523,-3447.6209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆう耳鼻いんこう科クリニック,広島県福山市南蔵王町５-２２-３３,耳鼻いんこう科,,,9" xlink:title="ゆう耳鼻いんこう科クリニック" transform="ref(svg,13339.9796,-3450.6298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おひさまこどもクリニック,広島県福山市御幸町森脇４２６-１,アレルギー科　小児科　小児外科,,,9" xlink:title="おひさまこどもクリニック" transform="ref(svg,13334.9129,-3453.5633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まるやまホームクリニック,広島県福山市春日町５-８-３８,内科,,,9" xlink:title="まるやまホームクリニック" transform="ref(svg,13340.7237,-3450.4225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梅田形成皮膚クリニック,広島県福山市南蔵王町５-１７-３６,皮膚科　形成外科,,,9" xlink:title="梅田形成皮膚クリニック" transform="ref(svg,13340.2981,-3450.5434)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山駅ビル眼科,広島県福山市三之丸町３０-１さんすて福山２Ｆ,眼科,,,9" xlink:title="福山駅ビル眼科" transform="ref(svg,13336.2118,-3448.9635)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）興花会耳鼻咽喉科東手城医院,広島県福山市東手城町１-３-１１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="（医）興花会耳鼻咽喉科東手城医院" transform="ref(svg,13340.1935,-3448.8687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら眼科クリニック,広島県福山市伊勢丘６-１-２６,眼科,,,9" xlink:title="さくら眼科クリニック" transform="ref(svg,13342.5368,-3450.7117)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京美容外科福山院,広島県福山市三之丸町７-２１大福三之丸ビル３Ｆ,皮膚科　形成外科　美容外科,,,9" xlink:title="東京美容外科福山院" transform="ref(svg,13336.0312,-3448.7475)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設アルカディアせんだ医務室,広島県福山市千田町２-５-１０,内科,,,9" xlink:title="介護老人福祉施設アルカディアせんだ医務室" transform="ref(svg,13336.6887,-3451.7624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アイネス内科クリニック,広島県福山市東桜町１-１ｉｎｅｓＦＵＫＵＹＡＭＡ２Ｆ,内科,,,9" xlink:title="アイネス内科クリニック" transform="ref(svg,13336.2593,-3448.6924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）夢ハウス医務室,広島県福山市港町２-１２-１,内科　外科,,,9" xlink:title="（特養）夢ハウス医務室" transform="ref(svg,13338.2029,-3448.3802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）リーフ新市医務室,広島県福山市新市町大字戸手２３２７,内科　循環器内科　消化器内科　外科,,,9" xlink:title="地域密着型（特養）リーフ新市医務室" transform="ref(svg,13330.0341,-3454.6167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,皐月形成クリニック,広島県福山市伏見町４-４０中国ビル３階,泌尿器科　形成外科,,,9" xlink:title="皐月形成クリニック" transform="ref(svg,13336.3574,-3448.8402)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）Ｋ．Ｆ．会青葉台クリニック,広島県福山市青葉台１-１１-２０,内科　消化器内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）Ｋ．Ｆ．会青葉台クリニック" transform="ref(svg,13342.8362,-3451.3083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊勢丘内科クリニック,広島県福山市伊勢丘３-３-１,内科　呼吸器内科　アレルギー科,,,9" xlink:title="伊勢丘内科クリニック" transform="ref(svg,13342.2332,-3450.2878)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設すず医務室,広島県福山市駅家町大字法成寺１０８-１,内科,,,9" xlink:title="介護老人福祉施設すず医務室" transform="ref(svg,13332.6253,-3455.4078)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁恵会福山検診所,広島県福山市南本庄５-１１-１,内科　婦人科,,,9" xlink:title="（医）仁恵会福山検診所" transform="ref(svg,13335.1663,-3448.1102)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）くさど医務室,広島県福山市草戸町５-８-２４,内科　外科,,,9" xlink:title="（特養）くさど医務室" transform="ref(svg,13336.4866,-3446.8473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八幡診療所,広島県三原市八幡町野串１２,内科　外科,,,9" xlink:title="八幡診療所" transform="ref(svg,13308.4531,-3447.5839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,亀甲会診療所,広島県三原市久井町江木１６１-１,内科,,,9" xlink:title="亀甲会診療所" transform="ref(svg,13303.9584,-3453.9414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和診療所,広島県三原市大和町和木１５３８-１,内科,,,9" xlink:title="大和診療所" transform="ref(svg,13292.1313,-3451.4259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）寿仁会田原クリニック,広島県三原市大和町下徳良貞友１９０１-８,内科　循環器内科　外科　肛門外科　婦人科,,,9" xlink:title="（医）寿仁会田原クリニック" transform="ref(svg,13295.0211,-3454.4948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田坂医院,広島県三原市大和町下徳良２２９０,内科　整形外科,,,9" xlink:title="田坂医院" transform="ref(svg,13295.334,-3454.1696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もだ内科クリニック,広島県三原市久井町江木中ノ坪１１６３-６,内科　泌尿器科　放射線科,,,9" xlink:title="もだ内科クリニック" transform="ref(svg,13303.4924,-3453.9904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,公立くい診療所,広島県三原市久井町江木５０-１,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="公立くい診療所" transform="ref(svg,13303.683,-3454.0873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本医院,広島県尾道市美ノ郷町白江５９７,内科　耳鼻いんこう科,,,9" xlink:title="山本医院" transform="ref(svg,13318.6477,-3445.6926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一期会戸谷医院,広島県尾道市御調町神１０１,内科　リハビリテーション科　放射線科,,,9" xlink:title="（医）一期会戸谷医院" transform="ref(svg,13314.7176,-3451.5477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）奉佑会本多医院,広島県尾道市御調町丸河南７２１-１,内科　外科,,,9" xlink:title="（医）奉佑会本多医院" transform="ref(svg,13312.0139,-3449.715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井内科胃腸科医院,広島県尾道市原田町梶山田９４４,内科　循環器内科　消化器内科,,,9" xlink:title="石井内科胃腸科医院" transform="ref(svg,13321.4299,-3448.3963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）八木診療所,広島県尾道市御調町大田３,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）八木診療所" transform="ref(svg,13314.5649,-3451.2119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,公立みつぎ総合病院保健福祉総合施設附属リハビリテーションセンター,広島県尾道市御調町高尾１３４８-６,リハビリテーション科,,,9" xlink:title="公立みつぎ総合病院保健福祉総合施設附属リハビリテーションセンター" transform="ref(svg,13313.2469,-3451.3466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別擁護老人ホームひかり苑診療所,広島県尾道市原田町梶山田３６０９,内科,,,9" xlink:title="特別擁護老人ホームひかり苑診療所" transform="ref(svg,13321.3014,-3448.9533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,公立みつぎ総合病院（特養）ふれあい診療所,広島県尾道市御調町大字高尾１３４８-６,内科,,,9" xlink:title="公立みつぎ総合病院（特養）ふれあい診療所" transform="ref(svg,13313.2469,-3451.3466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホームひかり苑診療所,広島県尾道市原田町梶山田３６０９,内科,,,9" xlink:title="養護老人ホームひかり苑診療所" transform="ref(svg,13321.3014,-3448.9533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）高竜園医務室,広島県世羅郡世羅町西上原４２６-１１,内科,,,9" xlink:title="（特養）高竜園医務室" transform="ref(svg,13305.9679,-3458.9256)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）瀬尾医院,広島県世羅郡世羅町本郷８２５-１,内科　皮膚科　小児科　外科　麻酔科,,,9" xlink:title="（医）瀬尾医院" transform="ref(svg,13304.7414,-3459.101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,正覺医院,広島県世羅郡世羅町安田６-２,内科,,,9" xlink:title="正覺医院" transform="ref(svg,13300.3263,-3464.8997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）岸医院,広島県世羅郡世羅町小国４５１３-１,内科　外科,,,9" xlink:title="（医）岸医院" transform="ref(svg,13293.1268,-3461.8334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森岡医院,広島県世羅郡世羅町西上原４８２-１３,内科　消化器内科　皮膚科　外科　肛門外科　リハビリテーション科,,,9" xlink:title="森岡医院" transform="ref(svg,13306.0362,-3458.9106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤原眼科,広島県世羅郡世羅町本郷１０２８,眼科,,,9" xlink:title="（医）藤原眼科" transform="ref(svg,13304.173,-3458.8766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤谷内科,広島県世羅郡世羅町本郷１０２５-３,内科　循環器内科　消化器内科　リハビリテーション科,,,9" xlink:title="（医）藤谷内科" transform="ref(svg,13304.1666,-3458.8219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）せせらぎ園診療所,広島県世羅郡世羅町小国字東山８８９-２３,内科,,,9" xlink:title="（特養）せせらぎ園診療所" transform="ref(svg,13294.3833,-3460.6554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三川診療所,広島県世羅郡世羅町伊尾１９６６-１,内科　消化器内科　皮膚科　外科　肛門外科　リハビリテーション科,,,9" xlink:title="三川診療所" transform="ref(svg,13310.8038,-3463.2267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）卜部医院うらべ医院,広島県世羅郡世羅町大字本郷字広瀬６１４-１,内科　循環器内科　消化器内科,,,9" xlink:title="（医）卜部医院うらべ医院" transform="ref(svg,13305.3013,-3458.7683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,唐川医院,広島県府中市中須町１３９２-２,内科　小児科,,,9" xlink:title="唐川医院" transform="ref(svg,13325.4859,-3455.5153)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐野内科医院,広島県府中市鵜飼町６９９-１０,内科　消化器内科　放射線科,,,9" xlink:title="（医）佐野内科医院" transform="ref(svg,13325.03,-3456.5496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高田耳鼻咽喉科医院,広島県府中市元町４４６-８,アレルギー科　耳鼻いんこう科,,,9" xlink:title="高田耳鼻咽喉科医院" transform="ref(svg,13323.8806,-3457.2297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中川整形外科医院,広島県府中市中須町７７,皮膚科　リウマチ科　整形外科　形成外科　リハビリテーション科　麻酔科,,,9" xlink:title="中川整形外科医院" transform="ref(svg,13326.7066,-3455.5733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鍋島内科医院,広島県府中市府中町１６６,内科,,,9" xlink:title="鍋島内科医院" transform="ref(svg,13323.292,-3457.3495)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前原皮膚科クリニック,広島県府中市高木町１８６,皮膚科,,,9" xlink:title="前原皮膚科クリニック" transform="ref(svg,13324.7401,-3456.6013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮下内科医院,広島県府中市元町４５４,内科　小児科　放射線科,,,9" xlink:title="宮下内科医院" transform="ref(svg,13323.8033,-3457.3173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森信内科医院,広島県府中市広谷町８０２,内科　呼吸器内科　循環器内科　消化器内科　小児科　放射線科,,,9" xlink:title="森信内科医院" transform="ref(svg,13325.24,-3456.4376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,リョービ（株）診療所,広島県府中市目崎町６３７,内科　外科,,,9" xlink:title="リョービ（株）診療所" transform="ref(svg,13322.4071,-3457.3757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,楢崎外科医院,広島県府中市元町４２１-７,外科,,,9" xlink:title="楢崎外科医院" transform="ref(svg,13323.8809,-3457.3206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,府中静和寮診療所,広島県府中市土生町１６３６-１,内科,,,9" xlink:title="府中静和寮診療所" transform="ref(svg,13322.6699,-3457.1057)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺内科医院,広島県府中市府川町１００-１９,内科　消化器内科　小児科,,,9" xlink:title="渡辺内科医院" transform="ref(svg,13324.1008,-3456.848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木内科,広島県府中市中須町２８-２,呼吸器内科　循環器内科　消化器内科　アレルギー科　小児科　心療内科　放射線科,,,9" xlink:title="佐々木内科" transform="ref(svg,13326.9497,-3455.4657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）飛屋会田辺医院,広島県府中市府中町８５３-１,内科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）飛屋会田辺医院" transform="ref(svg,13323.0167,-3457.3683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野耳鼻咽喉科医院,広島県府中市中須町８-１,耳鼻いんこう科,,,9" xlink:title="小野耳鼻咽喉科医院" transform="ref(svg,13327.0031,-3455.5876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,信岡医院,広島県府中市府川町１３３,内科　神経内科　精神科,,,9" xlink:title="信岡医院" transform="ref(svg,13324.004,-3456.8291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）金光医院,広島県府中市府中町１５-７,内科　呼吸器内科,,,9" xlink:title="（医）金光医院" transform="ref(svg,13323.4696,-3457.2934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慶正会奥野内科医院,広島県府中市府川町３６８-１,内科　消化器内科　小児科,,,9" xlink:title="（医）慶正会奥野内科医院" transform="ref(svg,13323.8894,-3456.6394)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）セイフティー信和診療所,広島県府中市広谷町３９１,内科,,,9" xlink:title="（特養）セイフティー信和診療所" transform="ref(svg,13326.128,-3457.4774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）箱田苑診療所,広島県府中市木野山町箱田奥甲１５３８,内科,,,9" xlink:title="（特養）箱田苑診療所" transform="ref(svg,13322.7117,-3464.5294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）有地医院,広島県府中市府中町６６０-３,呼吸器内科　消化器内科　外科　放射線科,,,9" xlink:title="（医）有地医院" transform="ref(svg,13322.9867,-3457.6003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中耳鼻咽喉科医院,広島県府中市中須町１６９６-１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="田中耳鼻咽喉科医院" transform="ref(svg,13325.5306,-3456.1041)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せおクリニック,広島県府中市栗柄町２２０３-４,内科　消化器内科　外科　肛門外科　リハビリテーション科,,,9" xlink:title="せおクリニック" transform="ref(svg,13323.9561,-3454.9529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三玉医院,広島県府中市上下町上下１０１３-１,内科　外科　整形外科　眼科,,,9" xlink:title="三玉医院" transform="ref(svg,13312.1654,-3469.5038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ほのぼの苑診療所,広島県府中市上下町深江４８８-３,内科,,,9" xlink:title="（特養）ほのぼの苑診療所" transform="ref(svg,13312.0597,-3468.3097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほそや内科クリニック,広島県府中市中須町１６９４-１,内科　呼吸器内科　循環器内科　消化器内科　小児科,,,9" xlink:title="ほそや内科クリニック" transform="ref(svg,13325.4941,-3456.1093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷医院,広島県府中市府川町１７１-１,内科　循環器内科　消化器内科,,,9" xlink:title="谷医院" transform="ref(svg,13323.7713,-3456.8772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河村内科胃腸科,広島県府中市府中町西町８３８-３,内科　消化器内科　小児科,,,9" xlink:title="河村内科胃腸科" transform="ref(svg,13322.9532,-3457.4619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なんば医院,広島県府中市土生町１５７２-２,皮膚科　リウマチ科　泌尿器科　整形外科　形成外科　リハビリテーション科,,,9" xlink:title="なんば医院" transform="ref(svg,13323.0687,-3457.1244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設あいあい桜が丘あいあい診療所,広島県府中市桜が丘３-２-１,内科,,,9" xlink:title="介護老人福祉施設あいあい桜が丘あいあい診療所" transform="ref(svg,13324.7078,-3457.9857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河野眼科,広島県府中市高木町６０-１,眼科,,,9" xlink:title="河野眼科" transform="ref(svg,13325.2142,-3456.3803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒木整形外科リハビリテーションクリニック,広島県府中市上下町上下２０５２-１,内科　整形外科　リハビリテーション科,,,9" xlink:title="黒木整形外科リハビリテーションクリニック" transform="ref(svg,13312.3698,-3469.503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川崎内科医院,広島県府中市高木町宮ヶ坪１８９-１,内科　消化器内科　腎臓内科　糖尿病内科,,,9" xlink:title="川崎内科医院" transform="ref(svg,13324.7292,-3456.5754)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みのり会北川クリニック,広島県府中市元町４３-１,内科,,,9" xlink:title="（医）みのり会北川クリニック" transform="ref(svg,13324.253,-3457.1442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和泉医院,広島県府中市府中町１７４,内科,,,9" xlink:title="和泉医院" transform="ref(svg,13323.2549,-3457.4646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひがき眼科,広島県府中市元町５７６-９,眼科,,,9" xlink:title="ひがき眼科" transform="ref(svg,13323.3879,-3457.6293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）豊仁会三原医院,広島県神石郡神石高原町下豊松７７７-１,内科　外科,,,9" xlink:title="（医）豊仁会三原医院" transform="ref(svg,13333.7919,-3477.3636)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水永医院,広島県神石郡神石高原町井関２０６７-１,内科　アレルギー科　小児科,,,9" xlink:title="水永医院" transform="ref(svg,13329.1259,-3468.931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）神寿福祉会（特養）神寿苑診療所,広島県神石郡神石高原町福永甲１４９９-１,内科,,,9" xlink:title="（福）神寿福祉会（特養）神寿苑診療所" transform="ref(svg,13317.5894,-3479.9339)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神石高原町国民健康保険直営高蓋診療所,広島県神石郡神石高原町高蓋４-２,内科,,,9" xlink:title="神石高原町国民健康保険直営高蓋診療所" transform="ref(svg,13320.3137,-3467.7189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）シルトピア油木診療所,広島県神石郡神石高原町油木甲５０７１-１,内科,,,9" xlink:title="（特養）シルトピア油木診療所" transform="ref(svg,13326.8038,-3478.8234)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木クリニック,広島県神石郡神石高原町福永甲１４４１-２,内科　消化器内科　外科,,,9" xlink:title="鈴木クリニック" transform="ref(svg,13317.3851,-3479.9143)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉實クリニック,広島県神石郡神石高原町油木乙６６７６-１５,内科　皮膚科　外科　リハビリテーション科　麻酔科,,,9" xlink:title="吉實クリニック" transform="ref(svg,13327.839,-3477.4508)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高場クリニック,広島県三次市三良坂町三良坂８７７-５,内科　小児科,,,9" xlink:title="高場クリニック" transform="ref(svg,13296.0743,-3476.5119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,星田医院,広島県三次市吉舎町敷地１４９７,内科,,,9" xlink:title="星田医院" transform="ref(svg,13297.0513,-3474.7957)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）美山荘診療所,広島県三次市甲奴町本郷１６７４,内科　眼科,,,9" xlink:title="（特養）美山荘診療所" transform="ref(svg,13308.1604,-3469.7031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みどりケ丘診療所,広島県三次市吉舎町敷地６８-５,内科,,,9" xlink:title="みどりケ丘診療所" transform="ref(svg,13296.6788,-3475.7373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高場医院,広島県三次市三良坂町三良坂１０９６-３,内科　呼吸器内科　循環器内科　消化器内科　アレルギー科　リウマチ科,,,9" xlink:title="高場医院" transform="ref(svg,13295.7008,-3476.8036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐竹医院,広島県三次市和知町２８５２-１,内科　眼科,,,9" xlink:title="佐竹医院" transform="ref(svg,13292.0923,-3479.8545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今井医院,広島県三次市三良坂町三良坂２６３３-２,内科　外科,,,9" xlink:title="今井医院" transform="ref(svg,13296.1765,-3476.3292)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三次市国民健康保険甲奴診療所,広島県三次市甲奴町本郷６４５-１,内科,,,9" xlink:title="三次市国民健康保険甲奴診療所" transform="ref(svg,13308.1967,-3470.4737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦クリニック,広島県三次市吉舎町吉舎７７０,内科　消化器内科,,,9" xlink:title="三浦クリニック" transform="ref(svg,13299.3837,-3471.7389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中医院,広島県三次市吉舎町吉舎４９３,内科,,,9" xlink:title="田中医院" transform="ref(svg,13299.142,-3471.6847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,折田クリニック,広島県三次市江田川之内町１３６３-１,内科　消化器内科　外科,,,9" xlink:title="折田クリニック" transform="ref(svg,13290.7717,-3477.7287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠間医院,広島県庄原市西本町１-２２-３４,内科,,,9" xlink:title="笠間医院" transform="ref(svg,13301.4749,-3485.4221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈恩会坂口内科医院,広島県庄原市比和町比和７８０,内科,,,9" xlink:title="（医）慈恩会坂口内科医院" transform="ref(svg,13298.792,-3498.3941)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,児玉医院,広島県庄原市川北町１５８-２,内科　外科,,,9" xlink:title="児玉医院" transform="ref(svg,13299.9545,-3488.2745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）樹信会赤木内科医院,広島県庄原市西城町小鳥原１１２,内科　小児科　耳鼻いんこう科,,,9" xlink:title="（医）樹信会赤木内科医院" transform="ref(svg,13315.3527,-3500.4645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤野整形外科医院,広島県庄原市東本町１-１-１２,整形外科　リハビリテーション科,,,9" xlink:title="藤野整形外科医院" transform="ref(svg,13301.7613,-3485.9681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）牧原医院,広島県庄原市中本町１-３-１３,消化器内科　外科　耳鼻いんこう科　放射線科,,,9" xlink:title="（医）牧原医院" transform="ref(svg,13301.4772,-3485.8548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,毛利内科胃腸科医院,広島県庄原市西本町２-１０-６,内科　循環器内科　消化器内科,,,9" xlink:title="毛利内科胃腸科医院" transform="ref(svg,13301.1469,-3485.6512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム寿園診療所,広島県庄原市尾引町２６３-２,内科,,,9" xlink:title="養護老人ホーム寿園診療所" transform="ref(svg,13293.6368,-3481.5913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林医院,広島県庄原市三日市町２７２,内科　循環器内科　消化器内科,,,9" xlink:title="林医院" transform="ref(svg,13300.3618,-3485.6679)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）東寿園診療所,広島県庄原市東城町川西９６４,内科,,,9" xlink:title="（特養）東寿園診療所" transform="ref(svg,13326.0496,-3490.9337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖仁会戸谷医院,広島県庄原市西本町２-１５-３１,内科　小児科,,,9" xlink:title="（医）聖仁会戸谷医院" transform="ref(svg,13300.9982,-3485.62)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中診療所,広島県庄原市比和町比和７３４,内科　消化器内科,,,9" xlink:title="田中診療所" transform="ref(svg,13298.907,-3498.5356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日傳医院,広島県庄原市東城町川西４９３-１,内科　消化器内科　小児科　外科,,,9" xlink:title="日傳医院" transform="ref(svg,13326.99,-3490.1164)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細川医院,広島県庄原市東城町東城１３３-１,内科　呼吸器内科　循環器内科　消化器内科　皮膚科　小児科　外科　リハビリテーション科　放射線科,,,9" xlink:title="細川医院" transform="ref(svg,13327.2098,-3489.6228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）国原医院,広島県庄原市口和町永田４０２-４,内科　小児科　放射線科,,,9" xlink:title="（医）国原医院" transform="ref(svg,13291.9837,-3488.8146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千手会瀬尾医院,広島県庄原市東城町川東１６３-７,内科,,,9" xlink:title="（医）千手会瀬尾医院" transform="ref(svg,13327.4117,-3490.0499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）田渕医院,広島県庄原市中本町１-７-５,内科　循環器内科　消化器内科　放射線科,,,9" xlink:title="（医）田渕医院" transform="ref(svg,13301.6814,-3485.9433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内堀診療所,広島県庄原市東城町内堀１１００-１,内科　小児科　外科,,,9" xlink:title="内堀診療所" transform="ref(svg,13324.9231,-3499.834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吾妻園診療所,広島県庄原市比和町比和１１９０,内科　外科,,,9" xlink:title="吾妻園診療所" transform="ref(svg,13298.1426,-3498.5523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ユーシャイン診療所,広島県庄原市総領町中領家４７６,内科,,,9" xlink:title="（特養）ユーシャイン診療所" transform="ref(svg,13310.705,-3479.3267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿多医院,広島県庄原市西城町西城６３,内科　小児科,,,9" xlink:title="阿多医院" transform="ref(svg,13311.7203,-3493.2177)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ハートウイング附属診療所,広島県庄原市口和町永田４１３,内科,,,9" xlink:title="（特養）ハートウイング附属診療所" transform="ref(svg,13291.8402,-3488.8063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）愛善苑附属診療所,広島県庄原市西城町大佐１４８-１,内科,,,9" xlink:title="（特養）愛善苑附属診療所" transform="ref(svg,13312.9958,-3495.7027)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ハピネスヒル診療所,広島県庄原市掛田町５４２-１,内科,,,9" xlink:title="（特養）ハピネスヒル診療所" transform="ref(svg,13300.1563,-3486.573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,庄原市高野診療所,広島県庄原市高野町新市１１５０-１,内科　外科,,,9" xlink:title="庄原市高野診療所" transform="ref(svg,13290.6109,-3503.2285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）増原会小奴可診療所,広島県庄原市東城町小奴可２６４６,内科,,,9" xlink:title="（医）増原会小奴可診療所" transform="ref(svg,13320.8672,-3499.3794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,身体障害者療護施設ともいきの里総領診療所,広島県庄原市総領町稲草字奥舟迫７７,内科,,,9" xlink:title="身体障害者療護施設ともいきの里総領診療所" transform="ref(svg,13303.3451,-3477.8652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,庄原眼科,広島県庄原市板橋町１６５-６,眼科,,,9" xlink:title="庄原眼科" transform="ref(svg,13301.8195,-3484.9775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みよしクリニック,広島県庄原市西本町２-１５-４７,内科　精神科　心療内科,,,9" xlink:title="みよしクリニック" transform="ref(svg,13301.0787,-3485.6436)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,庄原市国民健康保険総領診療所,広島県庄原市総領町下領家７１,内科,,,9" xlink:title="庄原市国民健康保険総領診療所" transform="ref(svg,13307.3807,-3478.3189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河本内科クリニック,広島県庄原市板橋町１６４-４,内科　消化器内科,,,9" xlink:title="河本内科クリニック" transform="ref(svg,13301.8641,-3484.9809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三上クリニック,広島県庄原市東城町東城３７５-５,内科　呼吸器内科　循環器内科　消化器内科　アレルギー科　放射線科,,,9" xlink:title="三上クリニック" transform="ref(svg,13327.1432,-3489.7748)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,故郷-高野診療所,広島県庄原市高野町新市字柏奥１７７-１,内科　外科,,,9" xlink:title="故郷-高野診療所" transform="ref(svg,13291.5335,-3503.7076)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小山医院,広島県庄原市高野町新市７１１,内科　整形外科,,,9" xlink:title="小山医院" transform="ref(svg,13291.1553,-3503.534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら診療所,広島県庄原市上原町１８１０-１,内科　外科,,,9" xlink:title="さくら診療所" transform="ref(svg,13300.3186,-3485.3296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ハピネスタウン診療所,広島県庄原市西本町３-１-２５,内科,,,9" xlink:title="（特養）ハピネスタウン診療所" transform="ref(svg,13301.2598,-3485.9517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふるさとクリニック分院,広島県庄原市高野町新市１０９１-１,内科　消化器内科　小児科,,,9" xlink:title="ふるさとクリニック分院" transform="ref(svg,13291.0058,-3503.5999)" x="0" y="0"/>
+</g>
+</svg>

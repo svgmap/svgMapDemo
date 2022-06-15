@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14132.8125 -3937.5 70.3125 70.3125" go:dataArea="14132.8125 -3937.5 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,岩手県立大船渡病院附属住田地域診療センター,岩手県気仙郡住田町世田米字大崎２２-１,内科　外科,,,9" xlink:title="岩手県立大船渡病院附属住田地域診療センター" transform="ref(svg,14158.0679,-3913.7237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）菅野菅野内科医院,岩手県一関市大東町摺沢字摺沢駅６８,内科,,,9" xlink:title="（医）菅野菅野内科医院" transform="ref(svg,14133.1505,-3899.2042)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）むつみ本多医院,岩手県一関市大東町大原字立町１８,内科,,,9" xlink:title="（医）むつみ本多医院" transform="ref(svg,14139.7984,-3901.5093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太陽眼科,岩手県一関市千厩町千厩字構井田６４-４,眼科,,,9" xlink:title="太陽眼科" transform="ref(svg,14133.9656,-3892.2059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊池内科医院,岩手県一関市大東町沖田八日町３３,内科　消化器科　小児科,,,9" xlink:title="菊池内科医院" transform="ref(svg,14136.6347,-3904.5971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,一関市国民健康保険室根診療所,岩手県一関市室根町折壁字八幡沖１１７,内科,,,9" xlink:title="一関市国民健康保険室根診療所" transform="ref(svg,14144.1292,-3893.6274)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）もりあい内科クリニック,岩手県一関市千厩町千厩字前田９６-９,内科　小児科　心療内科　アレルギー科　リハビリテーション科　呼吸器内科　循環器内科　消化器内科,,,9" xlink:title="（医）もりあい内科クリニック" transform="ref(svg,14133.7074,-3891.8921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神林医院,岩手県釜石市甲子町１０地割４８３-５,内科,,,9" xlink:title="神林医院" transform="ref(svg,14181.3405,-3925.551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩井小児科医院,岩手県釜石市中妻町３-１２-１４,内科　小児科　アレルギー科　漢方内科,,,9" xlink:title="岩井小児科医院" transform="ref(svg,14185.5382,-3926.8225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加賀谷消化器科内科医院,岩手県釜石市中妻町２-１０-２０,内科　消化器科,,,9" xlink:title="加賀谷消化器科内科医院" transform="ref(svg,14185.7878,-3927.0639)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小泉医院,岩手県釜石市中妻町３-６-６,内科　外科　こう門科,,,9" xlink:title="小泉医院" transform="ref(svg,14185.5929,-3926.9001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,庄子医院,岩手県釜石市只越町２-２-１０,内科　小児科　外科　産婦人科　産科　婦人科,,,9" xlink:title="庄子医院" transform="ref(svg,14188.3378,-3927.4898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小笠原内科クリニック,岩手県釜石市上中島町３-２-２０,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="小笠原内科クリニック" transform="ref(svg,14185.135,-3926.6074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）堀医院堀耳鼻咽喉科眼科医院,岩手県釜石市只越町２-５-２４,眼科　耳鼻いんこう科,,,9" xlink:title="（医）堀医院堀耳鼻咽喉科眼科医院" transform="ref(svg,14188.4899,-3927.4541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平野内科医院,岩手県釜石市只越町３-３-３,内科　呼吸器内科,,,9" xlink:title="平野内科医院" transform="ref(svg,14188.3566,-3927.6057)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川上医院,岩手県遠野市穀町１-２７,内科　消化器科,,,9" xlink:title="川上医院" transform="ref(svg,14153.2294,-3933.013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,時田医院,岩手県遠野市新町５-５,外科　整形外科　泌尿器科　腎臓内科,,,9" xlink:title="時田医院" transform="ref(svg,14152.5464,-3932.9905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）亮和会菊池俊彦内科クリニック,岩手県遠野市新穀町５-１９,内科　呼吸器科　胃腸科,,,9" xlink:title="（医）亮和会菊池俊彦内科クリニック" transform="ref(svg,14152.8789,-3933.2746)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）美敬会あいずみ内科医院,岩手県遠野市新穀町３-１,内科　呼吸器科　消化器科　小児科　放射線科,,,9" xlink:title="（医）美敬会あいずみ内科医院" transform="ref(svg,14153.0311,-3933.162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠野市国民健康保険小友診療所,岩手県遠野市小友町１６地割３１,内科,,,9" xlink:title="遠野市国民健康保険小友診療所" transform="ref(svg,14142.2144,-3926.9079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠野市国民健康保険中央診療所,岩手県遠野市松崎町白岩字薬研渕４-１,内科,,,9" xlink:title="遠野市国民健康保険中央診療所" transform="ref(svg,14153.7322,-3934.3784)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新里医院,岩手県遠野市穀町１３-１,内科　皮膚科　泌尿器科,,,9" xlink:title="新里医院" transform="ref(svg,14153.4695,-3932.9165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,植田医院,岩手県上閉伊郡大槌町小鎚第２３地割字寺野２３-１,内科　小児科,,,9" xlink:title="植田医院" transform="ref(svg,14188.1367,-3935.8738)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井小児科内科クリニック,岩手県上閉伊郡大槌町小鎚２７-３-４シーサイドタウンマスト２階,内科　小児科　耳鼻いんこう科　皮膚科,,,9" xlink:title="藤井小児科内科クリニック" transform="ref(svg,14189.4131,-3935.423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,道又内科小児科医院,岩手県上閉伊郡大槌町大槌１５-９５-２５５,内科　呼吸器科　消化器科　胃腸科　循環器科　小児科,,,9" xlink:title="道又内科小児科医院" transform="ref(svg,14189.4697,-3937.0238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊池医院,岩手県遠野市宮守町下宮守２８-３８-２,内科　胃腸科,,,9" xlink:title="菊池医院" transform="ref(svg,14136.1538,-3934.5381)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鱒沢診療所,岩手県遠野市宮守町下鱒沢３４地割８-５,内科　小児科,,,9" xlink:title="鱒沢診療所" transform="ref(svg,14140.3412,-3929.7419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏原医院,岩手県遠野市宮守町下宮守２８-７５,内科　小児科,,,9" xlink:title="柏原医院" transform="ref(svg,14135.7424,-3934.6728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）きくた菊田外科泌尿器科,岩手県大船渡市大船渡町明神前１１-１,内科　外科　皮膚科　泌尿器科,,,9" xlink:title="（医）きくた菊田外科泌尿器科" transform="ref(svg,14171.517,-3906.1672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）盛紀会鳥羽整形外科医院,岩手県大船渡市盛町字舘下４-１８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）盛紀会鳥羽整形外科医院" transform="ref(svg,14170.8497,-3908.438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大津医院,岩手県大船渡市盛町字東町１１-１１,小児科　アレルギー科,,,9" xlink:title="大津医院" transform="ref(svg,14171.0773,-3908.7472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）隆玄山浦医院,岩手県大船渡市盛町字内ノ目２-４,内科　呼吸器科　循環器科　外科　放射線科,,,9" xlink:title="（医）隆玄山浦医院" transform="ref(svg,14170.9704,-3908.4154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地ノ森クリニック,岩手県大船渡市大船渡町字山馬越１８８,内科　外科　泌尿器科　人工透析内科,,,9" xlink:title="地ノ森クリニック" transform="ref(svg,14171.0101,-3907.1039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）けやき会菊池医院,岩手県大船渡市大船渡町字山馬越１８３-５,内科　リハビリテーション科,,,9" xlink:title="（医）けやき会菊池医院" transform="ref(svg,14170.9871,-3907.2767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）飯塚眼科医院,岩手県大船渡市盛町字東町５-５,眼科,,,9" xlink:title="（医）飯塚眼科医院" transform="ref(svg,14171.127,-3908.9332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大船渡市国民健康保険越喜来診療所,岩手県大船渡市三陸町越喜来字所通２６-１,内科,,,9" xlink:title="大船渡市国民健康保険越喜来診療所" transform="ref(svg,14181.0565,-3912.201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大船渡市国民健康保険吉浜診療所,岩手県大船渡市三陸町吉浜字上野９３-１,内科,,,9" xlink:title="大船渡市国民健康保険吉浜診療所" transform="ref(svg,14183.5959,-3915.0785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大船渡市国民健康保険綾里診療所,岩手県大船渡市三陸町綾里字平舘７５-２,内科,,,9" xlink:title="大船渡市国民健康保険綾里診療所" transform="ref(svg,14179.8243,-3905.1248)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うのうらクリニック,岩手県大船渡市立根町字中野４０-５,内科　呼吸器科,,,9" xlink:title="うのうらクリニック" transform="ref(svg,14171.4973,-3910.6793)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滝田医院,岩手県大船渡市末崎町字平林７５-１,内科　呼吸器科　消化器科　循環器科　呼吸器内科　循環器内科　消化器内科,,,9" xlink:title="滝田医院" transform="ref(svg,14170.9398,-3900.5587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えんどう消化器科内科クリニック,岩手県大船渡市猪川町字中井沢７-２,内科　消化器科,,,9" xlink:title="えんどう消化器科内科クリニック" transform="ref(svg,14171.3362,-3909.1784)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鵜浦医院,岩手県陸前高田市高田町字鳴石２２-９,内科　呼吸器科　消化器科　循環器科　神経内科　皮膚科,,,9" xlink:title="鵜浦医院" transform="ref(svg,14162.7686,-3902.3581)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）医心会鳥羽医院,岩手県陸前高田市小友町字西下６０,内科　消化器科,,,9" xlink:title="（医）医心会鳥羽医院" transform="ref(svg,14168.8737,-3900.2179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸前高田市国民健康保険広田診療所,岩手県陸前高田市広田町字大久保１０７-１,内科　循環器科　外科,,,9" xlink:title="陸前高田市国民健康保険広田診療所" transform="ref(svg,14169.6775,-3896.59)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸前高田市国民健康保険二又診療所,岩手県陸前高田市矢作町字愛宕下３１,内科　外科,,,9" xlink:title="陸前高田市国民健康保険二又診療所" transform="ref(svg,14153.0325,-3903.3228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松原クリニック,岩手県陸前高田市高田町字中田６９-２,内科　外科　眼科　泌尿器科,,,9" xlink:title="松原クリニック" transform="ref(svg,14164.8818,-3901.4745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,櫻井医院,岩手県気仙郡住田町上有住字八日町１７７,内科　外科,,,9" xlink:title="櫻井医院" transform="ref(svg,14159.7514,-3919.2986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上代医院,岩手県気仙郡住田町世田米字大崎３２-３,内科　小児科　外科,,,9" xlink:title="上代医院" transform="ref(svg,14157.8793,-3913.795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上代医院大股出張診療所,岩手県気仙郡住田町世田米字下大股２９-１,内科　小児科　外科,,,9" xlink:title="上代医院大股出張診療所" transform="ref(svg,14148.8077,-3914.1376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いとう耳鼻咽喉科クリニック,岩手県大船渡市猪川町字中井沢７-７,アレルギー科　耳鼻いんこう科,,,9" xlink:title="（医）いとう耳鼻咽喉科クリニック" transform="ref(svg,14171.3176,-3909.1428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠藤医院,岩手県一関市千厩町千厩字町浦３６,内科　外科　整形外科　皮膚科,,,9" xlink:title="遠藤医院" transform="ref(svg,14133.414,-3891.7836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥玉診療所,岩手県一関市千厩町奥玉字石の御前８-１,内科　消化器科　胃腸科　循環器科　小児科　消化器内科,,,9" xlink:title="奥玉診療所" transform="ref(svg,14137.7133,-3895.8154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩渕内科医院,岩手県大船渡市大船渡町新田４９-４,内科　泌尿器科,,,9" xlink:title="岩渕内科医院" transform="ref(svg,14171.7907,-3906.8378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎内科医院,岩手県大船渡市盛町字内ノ目７-２０,内科　呼吸器科　消化器科　循環器科　神経内科,,,9" xlink:title="山崎内科医院" transform="ref(svg,14171.098,-3908.255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千葉医院,岩手県遠野市穀町１-２２,皮膚科,,,9" xlink:title="千葉医院" transform="ref(svg,14153.2804,-3932.9839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はまと神経内科クリニック,岩手県釜石市鵜住居町５-２９-１０,内科　神経内科,,,9" xlink:title="はまと神経内科クリニック" transform="ref(svg,14186.2841,-3933.6548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田内科循環器科医院,岩手県一関市大東町大原字大明神８８-１,内科　循環器科,,,9" xlink:title="吉田内科循環器科医院" transform="ref(svg,14139.103,-3901.5909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おいかわ及川皮膚科クリニック,岩手県大船渡市猪川町字中井沢１０-１０,皮膚科,,,9" xlink:title="（医）おいかわ及川皮膚科クリニック" transform="ref(svg,14171.2692,-3909.0862)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石倉クリニック,岩手県大船渡市大船渡町字茶屋前５５-３,内科　外科　皮膚科　泌尿器科,,,9" xlink:title="石倉クリニック" transform="ref(svg,14171.9388,-3906.3698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たかがね内科泌尿器科クリニック,岩手県一関市千厩町千厩字構井田４０,内科　外科　皮膚科　泌尿器科,,,9" xlink:title="（医）たかがね内科泌尿器科クリニック" transform="ref(svg,14134.0614,-3892.4038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,星こどもクリニック,岩手県大船渡市猪川町字前田６-５,小児科,,,9" xlink:title="星こどもクリニック" transform="ref(svg,14170.4652,-3909.5772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杜の希会千厩ひかりクリニック,岩手県一関市千厩町千厩字石堂１３-１２,内科　神経内科　リハビリテーション科,,,9" xlink:title="（医）杜の希会千厩ひかりクリニック" transform="ref(svg,14134.3801,-3892.1669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷藤内科医院,岩手県一関市千厩町千厩字町浦１８５,内科　小児科,,,9" xlink:title="谷藤内科医院" transform="ref(svg,14133.3302,-3891.744)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,守口医院,岩手県遠野市材木町２-２５,内科　脳神経外科　リハビリテーション科,,,9" xlink:title="守口医院" transform="ref(svg,14152.9574,-3933.3731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,釜石整形外科クリニック,岩手県釜石市大渡町３-１５-２６,整形外科　リハビリテーション科,,,9" xlink:title="釜石整形外科クリニック" transform="ref(svg,14187.8315,-3927.3759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ＫＦＣ釜石ファミリークリニック,岩手県釜石市大渡町３-１５-２６釜石市保健福祉センター３Ｆ,内科　脳神経外科,,,9" xlink:title="（医）ＫＦＣ釜石ファミリークリニック" transform="ref(svg,14187.8469,-3927.3572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）光栄荘医務室,岩手県一関市藤沢町藤沢字町裏５５,内科,,,9" xlink:title="（特養）光栄荘医務室" transform="ref(svg,14134.9852,-3885.9254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）室根孝養会（特養）孝養ハイツ,岩手県一関市室根町折壁字八幡沖１１９,内科,,,9" xlink:title="（福）室根孝養会（特養）孝養ハイツ" transform="ref(svg,14144.0942,-3893.5289)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）室蓬会養護老人ホームこはぎ荘,岩手県一関市大東町曽慶字御能場３９-１,内科,,,9" xlink:title="（福）室蓬会養護老人ホームこはぎ荘" transform="ref(svg,14140.067,-3898.5431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）成仁会養護（盲）老人ホーム祥風苑,岩手県大船渡市猪川町字富岡１７６,内科,,,9" xlink:title="（福）成仁会養護（盲）老人ホーム祥風苑" transform="ref(svg,14171.7245,-3910.1687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）成仁会（特養）富美岡荘,岩手県大船渡市猪川町冨岡１４８,内科,,,9" xlink:title="（福）成仁会（特養）富美岡荘" transform="ref(svg,14171.7465,-3910.1285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）さんりくの園,岩手県大船渡市三陸町越喜来字所通２７-５,内科,,,9" xlink:title="（特養）さんりくの園" transform="ref(svg,14181.0896,-3912.1851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）愛生会障がい者支援施設吉浜荘,岩手県大船渡市三陸町吉浜字上野１２５-２２４,外科,,,9" xlink:title="（福）愛生会障がい者支援施設吉浜荘" transform="ref(svg,14183.0457,-3915.9881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）鳴瀬会特別老人ホ-ムすみた荘,岩手県気仙郡住田町世田米字赤畑６９-２,内科　外科,,,9" xlink:title="（福）鳴瀬会特別老人ホ-ムすみた荘" transform="ref(svg,14156.5465,-3914.8273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）高寿会（特養）高寿園医務室,岩手県陸前高田市高田町字東和野６７,呼吸器外科,,,9" xlink:title="（福）高寿会（特養）高寿園医務室" transform="ref(svg,14163.9077,-3902.2173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）陽風会仙人の里,岩手県釜石市甲子町第７地割１４４-４,内科　神経内科,,,9" xlink:title="（福）陽風会仙人の里" transform="ref(svg,14178.2594,-3925.473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）アミーガはまゆり医務室,岩手県釜石市小佐野町３-９-５０,内科,,,9" xlink:title="（特養）アミーガはまゆり医務室" transform="ref(svg,14183.7807,-3926.3067)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あいぜんの里医務室,岩手県釜石市大字平田第２地割５１-７,内科　外科,,,9" xlink:title="（特養）あいぜんの里医務室" transform="ref(svg,14187.1836,-3924.2989)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大槌おおのクリニック三陸園内診療所,岩手県上閉伊郡大槌町吉里吉里第３２地割１８-２５,内科　循環器内科,,,9" xlink:title="大槌おおのクリニック三陸園内診療所" transform="ref(svg,14195.5223,-3937.2178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）とおの松寿会養護老人ホーム長寿の森吉祥園医務室,岩手県遠野市青笹町糠前９-７-６７,内科,,,9" xlink:title="（福）とおの松寿会養護老人ホーム長寿の森吉祥園医務室" transform="ref(svg,14155.8237,-3933.5002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）遠野長寿の郷,岩手県遠野市松崎町白岩１８-７,内科　精神科,,,9" xlink:title="（特養）遠野長寿の郷" transform="ref(svg,14154.8735,-3933.304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,身体障害者療護施設高舘の園医務室,岩手県遠野市宮守町下鱒沢３３-２１６-５,内科　外科　歯科,,,9" xlink:title="身体障害者療護施設高舘の園医務室" transform="ref(svg,14140.5857,-3929.5376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）ともり会（特養）みやもり荘,岩手県遠野市宮守町下宮守２８地割１９-１,内科,,,9" xlink:title="（福）ともり会（特養）みやもり荘" transform="ref(svg,14136.2937,-3934.5858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまぶき荘医務室,岩手県一関市大東町大原字有南田２-１,内科,,,9" xlink:title="やまぶき荘医務室" transform="ref(svg,14138.0286,-3901.4101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設ひまわり医務室,岩手県大船渡市大船渡町字山馬越１９７,内科　外科,,,9" xlink:title="介護老人福祉施設ひまわり医務室" transform="ref(svg,14171.0847,-3907.0458)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）釜石病院診療部,岩手県釜石市定内町４-７-１,内科　小児科　神経内科　リハビリテーション科,,,9" xlink:title="厚生労働省第二（共済）釜石病院診療部" transform="ref(svg,14183.5716,-3925.0385)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）堤福祉会（特養）らふたぁヒルズ,岩手県上閉伊郡大槌町吉里吉里２９-２１-５７,内科,,,9" xlink:title="（福）堤福祉会（特養）らふたぁヒルズ" transform="ref(svg,14194.419,-3936.4572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩手県釜石保健所,岩手県釜石市新町６-５０,不明,,,9" xlink:title="岩手県釜石保健所" transform="ref(svg,14184.5401,-3926.5839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩手県大船渡保健所,岩手県大船渡市猪川町字前田６-１,不明,,,9" xlink:title="岩手県大船渡保健所" transform="ref(svg,14170.4588,-3909.5227)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏原医院,岩手県遠野市宮守町下宮守２８-７５,内科　小児科,,,9" xlink:title="柏原医院" transform="ref(svg,14135.7424,-3934.6728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とおの宮本眼科,岩手県遠野市東舘町８-７,眼科,,,9" xlink:title="とおの宮本眼科" transform="ref(svg,14153.3024,-3932.8188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みつまクリニック,岩手県一関市千厩町千厩字構井田５１,小児科　耳鼻いんこう科　皮膚科,,,9" xlink:title="みつまクリニック" transform="ref(svg,14134.2056,-3892.3488)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上組町ほほえみスキンクリニック,岩手県遠野市上組町３-４,皮膚科,,,9" xlink:title="上組町ほほえみスキンクリニック" transform="ref(svg,14153.4912,-3933.1984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大槌おおのクリニック,岩手県上閉伊郡大槌町吉里吉里２-９-２０,内科　循環器内科,,,9" xlink:title="大槌おおのクリニック" transform="ref(svg,14194.1181,-3936.9834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじまる内科医院,岩手県釜石市鵜住居町第５地割２９-１０,内科　消化器内科,,,9" xlink:title="ふじまる内科医院" transform="ref(svg,14186.3239,-3933.6344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）周凛会久喜神経内科歯科クリニック,岩手県釜石市中妻町２-１５-３,内科　神経内科,,,9" xlink:title="（医）周凛会久喜神経内科歯科クリニック" transform="ref(svg,14185.8549,-3926.9292)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩手県医師会高田診療所,岩手県陸前高田市高田町字鳴石５-１陸前高田市立第一中学校内,内科　小児科　外科　婦人科　眼科　耳鼻いんこう科　皮膚科　泌尿器科,,,9" xlink:title="岩手県医師会高田診療所" transform="ref(svg,14162.5345,-3902.1228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちば内科診療所,岩手県大船渡市立根町字宮田６４-２,内科　循環器科,,,9" xlink:title="ちば内科診療所" transform="ref(svg,14171.1615,-3910.0893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設蔵ハウス大船渡医務室,岩手県大船渡市盛町字町３-１,内科,,,9" xlink:title="地域密着型介護老人福祉施設蔵ハウス大船渡医務室" transform="ref(svg,14170.7716,-3908.6759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設陸前高田医務室,岩手県陸前高田市高田町字大隈８-６,内科,,,9" xlink:title="地域密着型介護老人福祉施設陸前高田医務室" transform="ref(svg,14163.6335,-3903.329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほたるの郷診療所,宮城県登米市東和町米川字寺内２８-２２,内科,,,9" xlink:title="ほたるの郷診療所" transform="ref(svg,14134.0138,-3875.1946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木小児科医院,宮城県気仙沼市本郷９-２,小児科,,,9" xlink:title="佐々木小児科医院" transform="ref(svg,14156.7277,-3889.5821)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）恵風荘,宮城県気仙沼市松崎柳沢２２８-６８,内科,,,9" xlink:title="（特養）恵風荘" transform="ref(svg,14154.716,-3887.4888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野寺医院,宮城県気仙沼市赤岩五駄鱈７６-１,内科　消化器科　泌尿器科,,,9" xlink:title="小野寺医院" transform="ref(svg,14157.4288,-3888.2418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,宮城県気仙沼市長磯原ノ沢５０-２,内科　腎臓内科,,,9" xlink:title="鈴木医院" transform="ref(svg,14157.7431,-3883.6932)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）恵心寮,宮城県気仙沼市東八幡前３１１,内科,,,9" xlink:title="（特養）恵心寮" transform="ref(svg,14158.5957,-3891.805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村岡外科クリニック,宮城県気仙沼市田中前４-４-７,胃腸科　外科,,,9" xlink:title="村岡外科クリニック" transform="ref(svg,14155.9566,-3888.9525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,葛内科胃腸科医院,宮城県気仙沼市田中前２-８-８,内科　胃腸科,,,9" xlink:title="葛内科胃腸科医院" transform="ref(svg,14156.5238,-3889.0706)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おだか医院,宮城県気仙沼市田中前４-１０-２,内科　消化器科　胃腸科　外科　皮膚科,,,9" xlink:title="おだか医院" transform="ref(svg,14156.3367,-3889.006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三条小児科医院,宮城県気仙沼市田中前２-８-４,小児科,,,9" xlink:title="三条小児科医院" transform="ref(svg,14156.4322,-3889.0359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,齋藤外科クリニック,宮城県気仙沼市東新城１-１２-１,外科　皮膚科　こう門科　麻酔科,,,9" xlink:title="齋藤外科クリニック" transform="ref(svg,14155.1811,-3890.4639)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）恵潮苑,宮城県気仙沼市東新城２-２-３,内科,,,9" xlink:title="（特養）恵潮苑" transform="ref(svg,14154.8358,-3890.9439)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）晃和会あいざわクリニック,宮城県気仙沼市東新城２-９-１,内科　呼吸器科　消化器科　胃腸科　リハビリテーション科,,,9" xlink:title="（医）晃和会あいざわクリニック" transform="ref(svg,14154.9251,-3890.5659)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大里胃腸科内科医院,宮城県気仙沼市南郷２-２,内科　胃腸科,,,9" xlink:title="大里胃腸科内科医院" transform="ref(svg,14156.9229,-3889.2461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田眼科医院,宮城県気仙沼市南郷９-７,眼科,,,9" xlink:title="武田眼科医院" transform="ref(svg,14157.0565,-3889.3686)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森産婦人科医院,宮城県気仙沼市入沢４-５,産婦人科,,,9" xlink:title="森産婦人科医院" transform="ref(svg,14157.4567,-3890.763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田医院,宮城県気仙沼市八日町１-４-１,内科　胃腸科　循環器科,,,9" xlink:title="森田医院" transform="ref(svg,14157.1909,-3890.8137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猪苗代医院,宮城県気仙沼市三日町２-１-９,内科　リウマチ科　外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="猪苗代医院" transform="ref(svg,14156.7795,-3890.644)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠藤産婦人科医院,宮城県気仙沼市本郷１２-２,産婦人科,,,9" xlink:title="遠藤産婦人科医院" transform="ref(svg,14156.8419,-3889.5002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中原クリニック,宮城県気仙沼市田谷１-２,内科　整形外科　脳神経外科　リハビリテーション科,,,9" xlink:title="中原クリニック" transform="ref(svg,14156.4232,-3889.9631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林直樹眼科,宮城県気仙沼市東新城３-１０-８,眼科,,,9" xlink:title="小林直樹眼科" transform="ref(svg,14155.3086,-3890.3326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）キングス・タウン,宮城県気仙沼市三日町３-１-１,内科,,,9" xlink:title="（特養）キングス・タウン" transform="ref(svg,14156.6317,-3890.5829)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）慈恵園,宮城県本吉郡南三陸町志津川廻館９７,内科　外科,,,9" xlink:title="（特養）慈恵園" transform="ref(svg,14144.0978,-3868.253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤徹内科クリニック,宮城県本吉郡南三陸町志津川字沼田１４４-４５,内科　呼吸器科　胃腸科　循環器科　アレルギー科　小児科,,,9" xlink:title="佐藤徹内科クリニック" transform="ref(svg,14146.353,-3868.9206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋クリニック,宮城県本吉郡南三陸町志津川中瀬町２９-２,内科　皮膚科,,,9" xlink:title="高橋クリニック" transform="ref(svg,14144.3505,-3867.8805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）春圃苑,宮城県気仙沼市本吉町中島３５８-３,内科,,,9" xlink:title="（特養）春圃苑" transform="ref(svg,14151.7247,-3877.633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野医院,宮城県気仙沼市唐桑町宿浦４０５-８,内科　小児科　循環器内科,,,9" xlink:title="小野医院" transform="ref(svg,14164.5703,-3890.0259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設只越荘,宮城県気仙沼市唐桑町只越３４６-１７,内科　外科,,,9" xlink:title="障害者支援施設只越荘" transform="ref(svg,14163.695,-3892.2001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,歌津八番クリニック,宮城県本吉郡南三陸町歌津字枡沢７７-１,内科　小児科,,,9" xlink:title="歌津八番クリニック" transform="ref(svg,14153.8451,-3872.3602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大島医院,宮城県気仙沼市高井２１５-２,内科　心療内科　小児科,,,9" xlink:title="大島医院" transform="ref(svg,14161.6024,-3885.3916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うちクリニック,宮城県気仙沼市東新城１-６-１３,内科　皮膚科　泌尿器科,,,9" xlink:title="うちクリニック" transform="ref(svg,14155.0715,-3890.749)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,気仙沼保健所,宮城県気仙沼市東新城３-３-３,内科,,,9" xlink:title="気仙沼保健所" transform="ref(svg,14155.4149,-3890.3329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こどもセンター,宮城県気仙沼市東新城３-３-３,精神科　小児科　児童精神科,,,9" xlink:title="こどもセンター" transform="ref(svg,14155.4149,-3890.3329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松クリニック,宮城県気仙沼市東八幡前２７０-６,内科　心療内科　精神科,,,9" xlink:title="小松クリニック" transform="ref(svg,14159.0376,-3892.0113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,条南整形外科,宮城県気仙沼市田中前２-１-１０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="条南整形外科" transform="ref(svg,14156.5889,-3889.244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）唐桑園診療所（診察室）,宮城県気仙沼市唐桑町只越３４６-７,内科　皮膚科　泌尿器科,,,9" xlink:title="（特養）唐桑園診療所（診察室）" transform="ref(svg,14163.6618,-3892.1874)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,公立南三陸診療所,宮城県本吉郡南三陸町志津川字沼田５６-２,内科　小児科　外科　整形外科　皮膚科　泌尿器科　眼科　耳鼻咽喉科　歯科口腔外科,,,9" xlink:title="公立南三陸診療所" transform="ref(svg,14146.1117,-3867.9566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）いこいの海・あらと医務室,宮城県本吉郡南三陸町志津川字蒲の沢１９０-１,内科,,,9" xlink:title="（特養）いこいの海・あらと医務室" transform="ref(svg,14148.0994,-3867.8091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志田整形外科医院,宮城県気仙沼市東新城２-６-４,整形外科　リハビリテーション科,,,9" xlink:title="志田整形外科医院" transform="ref(svg,14155.0285,-3890.6423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東北大学東北メディカル・メガバンク機構地域支援気仙沼センター,宮城県気仙沼市田中前４-１-１,臨床検査科,,,9" xlink:title="東北大学東北メディカル・メガバンク機構地域支援気仙沼センター" transform="ref(svg,14156.1169,-3889.0975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すがわら内科クリニック,宮城県気仙沼市松崎萱１２１-３,内科　循環器内科,,,9" xlink:title="すがわら内科クリニック" transform="ref(svg,14156.8103,-3887.8004)" x="0" y="0"/>
+</g>
+</svg>

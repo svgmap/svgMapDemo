@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13570.3125 -3656.25 70.3125 70.3125" go:dataArea="13570.3125 -3656.25 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,動橋診療所,石川県加賀市動橋町ロ１２８,内科　呼吸器内科　アレルギー科　小児科,,,9" xlink:title="動橋診療所" transform="ref(svg,13638.5357,-3632.9162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤医院,石川県加賀市潮津町ユ９,内科　小児科,,,9" xlink:title="近藤医院" transform="ref(svg,13636.149,-3634.9401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤医院柴山診療所,石川県加賀市柴山町ツ８１-１,内科　小児科,,,9" xlink:title="近藤医院柴山診療所" transform="ref(svg,13637.9989,-3636.0683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中医院,石川県加賀市大聖寺荒町５６,産婦人科,,,9" xlink:title="田中医院" transform="ref(svg,13631.4213,-3630.5391)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上出医院,石川県加賀市動橋町イ２０４,内科　循環器内科　小児科,,,9" xlink:title="上出医院" transform="ref(svg,13638.4651,-3632.7207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹下耳鼻咽喉科医院,石川県加賀市大聖寺荒町６,耳鼻いんこう科,,,9" xlink:title="竹下耳鼻咽喉科医院" transform="ref(svg,13631.3436,-3630.4955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河村医院,石川県加賀市片山津温泉ア９-２,内科　放射線科,,,9" xlink:title="河村医院" transform="ref(svg,13636.3772,-3634.4798)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,正来医院,石川県加賀市大聖寺魚町３４,内科　消化器内科　胃腸内科　外科　整形外科,,,9" xlink:title="正来医院" transform="ref(svg,13631.0413,-3630.5579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,板谷医院,石川県加賀市山代温泉３５-１１-１,内科　泌尿器科,,,9" xlink:title="板谷医院" transform="ref(svg,13635.4761,-3629.117)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,錦城学園附属診療所,石川県加賀市高尾町ヌ１甲,内科　外科,,,9" xlink:title="錦城学園附属診療所" transform="ref(svg,13631.3302,-3632.4855)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山下医院,石川県加賀市作見町ホ３９-１,内科　消化器内科　胃腸内科　外科　肛門外科　麻酔科,,,9" xlink:title="山下医院" transform="ref(svg,13635.8245,-3631.6356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池本整形外科医院,石川県加賀市下河崎町ヘ１７,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="池本整形外科医院" transform="ref(svg,13633.4369,-3630.752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渋谷医院,石川県加賀市松が丘１-７-３１,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="渋谷医院" transform="ref(svg,13634.512,-3632.4233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,石川県加賀市山中温泉本町１-ヤ７-２,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="鈴木医院" transform="ref(svg,13637.4699,-3624.8728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上田医院,石川県加賀市山中温泉上原町ワ１,内科　呼吸器内科　循環器内科　消化器内科　胃腸内科,,,9" xlink:title="上田医院" transform="ref(svg,13636.6353,-3626.0889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林内科医院,石川県加賀市大聖寺今出町５-３,内科　呼吸器内科　循環器内科　消化器内科　胃腸内科　神経内科,,,9" xlink:title="林内科医院" transform="ref(svg,13630.4955,-3630.4468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武村眼科医院,石川県加賀市大聖寺荒町６１,眼科,,,9" xlink:title="武村眼科医院" transform="ref(svg,13631.358,-3630.5135)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀内眼科医院,石川県加賀市山代温泉北部２-７１,眼科,,,9" xlink:title="堀内眼科医院" transform="ref(svg,13635.9191,-3629.6982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永田医院,石川県加賀市山代温泉北部３-４５,消化器内科　胃腸内科　外科　肛門外科　リハビリテーション科,,,9" xlink:title="永田医院" transform="ref(svg,13635.7703,-3629.0286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲坂内科医院,石川県加賀市大聖寺仲町２３,内科　呼吸器内科　循環器内科,,,9" xlink:title="稲坂内科医院" transform="ref(svg,13631.1669,-3630.9282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,刈谷医院,石川県加賀市山代温泉山背台１-６８,内科　小児科,,,9" xlink:title="刈谷医院" transform="ref(svg,13635.6548,-3629.8137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）石川病院診療部,石川県加賀市手塚町サ１５０,内科　外科　小児科　心臓血管外科　整形外科　消化器外科　眼科　皮膚科　循環器科　呼吸器科　リハビリテーション科　放射線科　神経内科　心療内科,,,9" xlink:title="厚生労働省第二（共済）石川病院診療部" transform="ref(svg,13635.7266,-3635.7506)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）加賀中央慈妙院診療所,石川県加賀市山田町蛇谷１-１６,内科,,,9" xlink:title="（特養）加賀中央慈妙院診療所" transform="ref(svg,13633.5033,-3632.6211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンライフたきの里診療所,石川県加賀市山中温泉滝町リ１-１,内科　精神科　歯科,,,9" xlink:title="サンライフたきの里診療所" transform="ref(svg,13640.0812,-3625.8685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塩浜医院,石川県加賀市大菅波町ト２６-１,内科　神経内科　リハビリテーション科　麻酔科,,,9" xlink:title="塩浜医院" transform="ref(svg,13633.5053,-3631.8586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山岸皮膚科医院,石川県加賀市大菅波町ト２６-４,皮膚科,,,9" xlink:title="山岸皮膚科医院" transform="ref(svg,13633.5294,-3631.8598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,別所おんせんクリニック,石川県加賀市別所町１-４２,神経内科　整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="別所おんせんクリニック" transform="ref(svg,13636.0292,-3627.2424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮本医院,石川県加賀市山代温泉桔梗丘２-１８,内科　循環器内科,,,9" xlink:title="宮本医院" transform="ref(svg,13635.7059,-3628.7818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うわだな小児科医院,石川県加賀市下河崎町ヘ１０１-１,小児科,,,9" xlink:title="うわだな小児科医院" transform="ref(svg,13633.293,-3630.7126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡部内科医院,石川県加賀市湖城町１-２２,内科　呼吸器内科　消化器内科　胃腸内科　アレルギー科,,,9" xlink:title="岡部内科医院" transform="ref(svg,13637.0129,-3634.0021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,夢ようようメディカルセンター,石川県加賀市潮津町ム５９-１,内科,,,9" xlink:title="夢ようようメディカルセンター" transform="ref(svg,13635.9449,-3634.7045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹谷小児科医院,石川県加賀市大聖寺馬場町１４-５,アレルギー科　小児科,,,9" xlink:title="竹谷小児科医院" transform="ref(svg,13630.8584,-3630.6671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松下内科クリニック,石川県加賀市山代温泉北部４-８１-１,内科　呼吸器内科　循環器内科,,,9" xlink:title="松下内科クリニック" transform="ref(svg,13636.1299,-3629.364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加賀たちばな元気クリニック,石川県加賀市小菅波町１-７０,内科　呼吸器内科　アレルギー科,,,9" xlink:title="加賀たちばな元気クリニック" transform="ref(svg,13634.995,-3631.8726)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本医院,石川県加賀市大聖寺南町ち２０-４,内科　循環器内科　リハビリテーション科　放射線科,,,9" xlink:title="橋本医院" transform="ref(svg,13631.2126,-3630.3206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高沢整形外科医院,石川県加賀市大聖寺馬場町２５-４,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="高沢整形外科医院" transform="ref(svg,13630.8294,-3630.5498)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片山津温泉日日好日院診療所,石川県加賀市片山津温泉ア９６-１,内科,,,9" xlink:title="片山津温泉日日好日院診療所" transform="ref(svg,13636.4106,-3634.8725)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田医院,石川県加賀市山中温泉西桂木町ト４-２,内科　呼吸器内科　循環器内科　消化器内科　胃腸内科　アレルギー科,,,9" xlink:title="吉田医院" transform="ref(svg,13637.4891,-3625.1998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加賀ぐっすりクリニック,石川県加賀市作見町ニ４１-１,内科　呼吸器内科　アレルギー科　耳鼻いんこう科,,,9" xlink:title="加賀ぐっすりクリニック" transform="ref(svg,13635.6089,-3631.9271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしぐろクリニック,石川県加賀市大聖寺耳聞山町８５-２,内科　消化器内科　胃腸内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="いしぐろクリニック" transform="ref(svg,13631.572,-3630.8716)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のざきクリニック,石川県加賀市作見町ヘ１７-１,神経内科　整形外科　脳神経外科,,,9" xlink:title="のざきクリニック" transform="ref(svg,13635.5812,-3631.7987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,慈妙院加賀診療所,石川県加賀市大聖寺東町１-３０,内科,,,9" xlink:title="慈妙院加賀診療所" transform="ref(svg,13631.8904,-3630.5632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もり眼科クリニック,石川県加賀市作見町ニ４１-４お医者村ビル２Ｆ,眼科,,,9" xlink:title="もり眼科クリニック" transform="ref(svg,13635.6102,-3631.9259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながたクリニック,石川県加賀市山代温泉北部３-７２,頭頸部外科　耳鼻いんこう科,,,9" xlink:title="ながたクリニック" transform="ref(svg,13635.9885,-3629.671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加賀温泉駅前こころクリニック,石川県加賀市作見町ル２５-１,心療内科　精神科,,,9" xlink:title="加賀温泉駅前こころクリニック" transform="ref(svg,13635.3034,-3631.9449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太陽けんこうクリニック,石川県加賀市深田町５５-１,内科　外科　乳腺外科　肛門外科,,,9" xlink:title="太陽けんこうクリニック" transform="ref(svg,13630.2863,-3634.2064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加賀温泉リハビリクリニック,石川県加賀市直下町９１,リハビリテーション科,,,9" xlink:title="加賀温泉リハビリクリニック" transform="ref(svg,13632.7866,-3627.7477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤華苑診療所,石川県加賀市大聖寺東１-２６-３,内科,,,9" xlink:title="藤華苑診療所" transform="ref(svg,13631.8757,-3630.5268)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京子漢方診療所,石川県加賀市山中温泉白山町リ３７,内科　漢方内科,,,9" xlink:title="京子漢方診療所" transform="ref(svg,13637.2782,-3625.1393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちょくし町クリニック,石川県加賀市勅使町ハ２５-１,内科,,,9" xlink:title="ちょくし町クリニック" transform="ref(svg,13639.3835,-3630.261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井市休日急患センター,福井県福井市城東４-１４-３０,内科　小児科,,,9" xlink:title="福井市休日急患センター" transform="ref(svg,13623.7546,-3605.9099)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井市下味見診療所,福井県福井市西河原町１８-３３-１,内科,,,9" xlink:title="福井市下味見診療所" transform="ref(svg,13635.9768,-3595.1713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井市美山診療所,福井県福井市美山町７-１,内科　リハビリテーション科,,,9" xlink:title="福井市美山診療所" transform="ref(svg,13636.067,-3599.8679)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井総合クリニック,福井県福井市新田塚１-４２-１,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　腎臓内科　神経内科　糖尿病内科（代謝内科）　皮膚科　アレルギー科　リウマチ科　小児科　精神科　外科　呼吸器外科　消化器外科（胃腸外科）　泌尿器科　肛門外科　脳神経外科　整形外科,形成外科　眼科　耳鼻いんこう科　産婦人科　リハビリテーション科　放射線科　麻酔科　歯科　歯科口腔外科,,9" xlink:title="福井総合クリニック" transform="ref(svg,13620.595,-3609.229)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,二の宮アイビジョンクリニック,福井県福井市二の宮２-２８-２６,眼科,,,9" xlink:title="二の宮アイビジョンクリニック" transform="ref(svg,13622.3344,-3608.7642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土肥診療所,福井県福井市福１-２７,内科　小児科　外科　放射線科,,,9" xlink:title="土肥診療所" transform="ref(svg,13618.7372,-3604.7594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）英和会貴志医院,福井県福井市市波２４-５,内科　神経科　小児科　精神科,,,9" xlink:title="（医）英和会貴志医院" transform="ref(svg,13633.0202,-3601.813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩井病院松岡診療所,福井県吉田郡永平寺町松岡神明１-１２１,内科　小児科,,,9" xlink:title="岩井病院松岡診療所" transform="ref(svg,13630.0968,-3609.4586)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,福井県吉田郡永平寺町松岡神明３-５８,内科　小児科,,,9" xlink:title="伊藤医院" transform="ref(svg,13630.0093,-3609.2881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,根来医院,福井県吉田郡永平寺町松岡神明３-６８,内科　皮膚科　整形外科,,,9" xlink:title="根来医院" transform="ref(svg,13630.0676,-3609.2967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝日医院,福井県吉田郡永平寺町松岡葵１-７５-１,眼科　耳鼻いんこう科,,,9" xlink:title="朝日医院" transform="ref(svg,13629.7758,-3609.2895)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂の下クリニック,福井県吉田郡永平寺町松岡芝原２-１０８-１,内科　消化器内科（胃腸内科）　外科,,,9" xlink:title="坂の下クリニック" transform="ref(svg,13629.0595,-3609.2362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アニス松岡診療所,福井県吉田郡永平寺町松岡椚３１-７-１,内科　整形外科,,,9" xlink:title="アニス松岡診療所" transform="ref(svg,13629.7379,-3609.517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤医院,福井県吉田郡永平寺町東古市１３-１６,内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="佐藤医院" transform="ref(svg,13632.6696,-3609.8433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,嶋田医院,福井県吉田郡永平寺町山王２１-１５-５,内科　小児科,,,9" xlink:title="嶋田医院" transform="ref(svg,13639.2102,-3607.9907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平井内科クリニック,福井県福井市みのり３-２１-５,内科　呼吸器内科　消化器内科（胃腸内科）,,,9" xlink:title="平井内科クリニック" transform="ref(svg,13620.9463,-3604.825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山医院,福井県福井市安原町１-１１-１,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　アレルギー科　リウマチ科　小児科,,,9" xlink:title="福山医院" transform="ref(svg,13627.5587,-3601.6735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相模整形外科内科医院,福井県福井市稲多新町１-１４,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="相模整形外科内科医院" transform="ref(svg,13622.4102,-3610.2832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉井内科クリニック,福井県福井市下荒井町４-７４-１５,内科　呼吸器内科　循環器内科　小児科,,,9" xlink:title="玉井内科クリニック" transform="ref(svg,13620.6709,-3602.712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森川医院,福井県福井市下森田桜町６-６,内科　循環器内科　小児科,,,9" xlink:title="森川医院" transform="ref(svg,13622.7997,-3611.109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,畑内科,福井県福井市下森田新町１５-３６,内科　循環器内科　消化器内科（胃腸内科）　小児科　整形外科,,,9" xlink:title="畑内科" transform="ref(svg,13623.1407,-3610.9513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠松内科クリニック,福井県福井市下馬２-５０８,内科　消化器内科（胃腸内科）　皮膚科　小児科,,,9" xlink:title="笠松内科クリニック" transform="ref(svg,13623.6702,-3604.2032)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あすわクリニック,福井県福井市下馬３-５１１,内科　外科,,,9" xlink:title="あすわクリニック" transform="ref(svg,13623.2365,-3603.77)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宮-ｱ整形外科医院,福井県福井市加茂河原３-８-６,内科　リウマチ科　脳神経外科　整形外科　形成外科　リハビリテーション科,,,9" xlink:title="（医）宮-ｱ整形外科医院" transform="ref(svg,13619.2281,-3606.2587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮地内科,福井県福井市花月２-９-３,内科　消化器内科（胃腸内科）,,,9" xlink:title="宮地内科" transform="ref(svg,13620.879,-3606.8159)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平沢内科医院,福井県福井市花堂中２-２５-１０,内科　呼吸器内科　循環器内科　放射線科,,,9" xlink:title="平沢内科医院" transform="ref(svg,13621.2967,-3603.6745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細川泌尿器科医院,福井県福井市花堂中２-１８-２,泌尿器科,,,9" xlink:title="細川泌尿器科医院" transform="ref(svg,13621.3296,-3603.8545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とくだ耳鼻咽喉科,福井県福井市花堂中２-２８-１,耳鼻いんこう科,,,9" xlink:title="とくだ耳鼻咽喉科" transform="ref(svg,13621.2932,-3603.6535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細川内科クリニック,福井県福井市花堂中２-２-７,内科,,,9" xlink:title="細川内科クリニック" transform="ref(svg,13621.3252,-3603.92)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むとう眼科医院,福井県福井市花堂南２-４-１０,眼科,,,9" xlink:title="むとう眼科医院" transform="ref(svg,13621.1509,-3603.4891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹内医院,福井県福井市花堂北２-１２-２８,内科　消化器内科（胃腸内科）　外科　肛門外科　整形外科,,,9" xlink:title="竹内医院" transform="ref(svg,13621.3705,-3604.0222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,開発整形外科,福井県福井市開発町２４-１５-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="開発整形外科" transform="ref(svg,13624.3841,-3608.2263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛クリニック,福井県福井市学園１-１-１８,眼科,,,9" xlink:title="愛クリニック" transform="ref(svg,13620.2226,-3607.088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松村皮膚科医院,福井県福井市学園１-１-１６,皮膚科,,,9" xlink:title="松村皮膚科医院" transform="ref(svg,13620.2134,-3607.0803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩佐内科外科クリニック,福井県福井市学園２-９-６,内科　呼吸器内科　消化器内科（胃腸内科）　外科　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="岩佐内科外科クリニック" transform="ref(svg,13619.7799,-3606.9474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こしの医院,福井県福井市蒲生町１-９１-１,内科　外科　整形外科,,,9" xlink:title="こしの医院" transform="ref(svg,13601.2206,-3603.8557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけうちクリニック,福井県福井市乾徳１-１-１７,内科　精神科　心療内科,,,9" xlink:title="たけうちクリニック" transform="ref(svg,13621.2311,-3607.1708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥村整形外科クリニック,福井県福井市乾徳３-１１-２３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="奥村整形外科クリニック" transform="ref(svg,13620.7139,-3607.3615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,けんとくクリニック,福井県福井市乾徳４-３-５,精神科　心療内科,,,9" xlink:title="けんとくクリニック" transform="ref(svg,13620.5637,-3607.2066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いとう内科クリニック,福井県福井市経田１-２０９,内科　神経内科,,,9" xlink:title="いとう内科クリニック" transform="ref(svg,13622.1269,-3608.8167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大森皮ふ科医院,福井県福井市御幸２-５-２５,皮膚科,,,9" xlink:title="（医）大森皮ふ科医院" transform="ref(svg,13623.029,-3605.7971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木血管クリニック,福井県福井市御幸２-１０-８,内科　外科　循環器外科（心臓血管外科）,,,9" xlink:title="佐々木血管クリニック" transform="ref(svg,13623.1652,-3605.6241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坪川医院,福井県福井市御幸２-２０-２５,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="坪川医院" transform="ref(svg,13623.3729,-3605.6226)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤内科医院,福井県福井市御幸３-２１４,内科　呼吸器内科　消化器内科（胃腸内科）,,,9" xlink:title="佐藤内科医院" transform="ref(svg,13623.4507,-3605.6251)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,齋藤眼科,福井県福井市御幸３-１５-１３,眼科,,,9" xlink:title="齋藤眼科" transform="ref(svg,13623.824,-3605.4433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,光陽生協クリニック,福井県福井市光陽３-９-２３,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　アレルギー科　小児科　眼科,,,9" xlink:title="光陽生協クリニック" transform="ref(svg,13619.5924,-3606.5771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三井皮膚科医院,福井県福井市江守中１-１００２-１００３,皮膚科,,,9" xlink:title="三井皮膚科医院" transform="ref(svg,13619.5895,-3603.6082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片山整形外科,福井県福井市江端町１３-１５-４,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="片山整形外科" transform="ref(svg,13621.3286,-3603.2054)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高波耳鼻咽喉科医院,福井県福井市荒木新保町５２-１,耳鼻いんこう科,,,9" xlink:title="高波耳鼻咽喉科医院" transform="ref(svg,13627.3591,-3602.916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒川整形外科医院,福井県福井市高木町５１-８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="荒川整形外科医院" transform="ref(svg,13623.0484,-3609.4234)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かさまつファミリークリニック,福井県福井市高木中央３-８０１,内科　呼吸器内科　アレルギー科,,,9" xlink:title="（医）かさまつファミリークリニック" transform="ref(svg,13623.8173,-3608.9217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高木北クリニック,福井県福井市高木北１-３０１,内科　呼吸器内科　循環器内科　小児科　外科,,,9" xlink:title="高木北クリニック" transform="ref(svg,13623.0707,-3609.8435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森川内科クリニック,福井県福井市高木北１-７０４,内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="森川内科クリニック" transform="ref(svg,13622.9837,-3609.7912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川見皮膚科クリニック,福井県福井市高柳３-３１０１,皮膚科,,,9" xlink:title="川見皮膚科クリニック" transform="ref(svg,13624.1115,-3609.7906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほり小児科クリニック,福井県福井市高柳３-３２０１,小児科,,,9" xlink:title="ほり小児科クリニック" transform="ref(svg,13624.0437,-3609.7402)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あらい内科クリニック,福井県福井市高柳２-１３０１レインボービル５階,内科　循環器内科,,,9" xlink:title="あらい内科クリニック" transform="ref(svg,13624.6613,-3609.7723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ホーカベレディースクリニック,福井県福井市左内町１０-１１,内科　小児科　産科　婦人科,,,9" xlink:title="ホーカベレディースクリニック" transform="ref(svg,13621.2176,-3605.9096)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三崎胃腸科クリニック,福井県福井市順化２-２４-１９,内科　消化器内科（胃腸内科）　外科,,,9" xlink:title="三崎胃腸科クリニック" transform="ref(svg,13621.3765,-3606.6728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,冨澤クリニック,福井県福井市砂子坂町１５-２６,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　リハビリテーション科,,,9" xlink:title="冨澤クリニック" transform="ref(svg,13615.0891,-3614.5334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山村医院,福井県福井市三十八社町１０１-１１,内科　小児科,,,9" xlink:title="山村医院" transform="ref(svg,13618.8962,-3600.1724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわき医院,福井県福井市三十八社町１０-８,内科　消化器内科（胃腸内科）　神経内科　皮膚科　外科　脳神経外科　整形外科　リハビリテーション科,,,9" xlink:title="いわき医院" transform="ref(svg,13619.4046,-3599.6988)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏原脳神経クリニック,福井県福井市四ツ居１-７-２０,神経内科　脳神経外科,,,9" xlink:title="柏原脳神経クリニック" transform="ref(svg,13623.6172,-3606.6215)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木原クリニック,福井県福井市四ツ井１-１７-３０フジビルＤ,神経科　精神科　心療内科,,,9" xlink:title="木原クリニック" transform="ref(svg,13623.6599,-3606.5716)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ドクター・ズー,福井県福井市四ツ井１-２２１９,内科　消化器内科（胃腸内科）　小児科　心療内科　リハビリテーション科,,,9" xlink:title="ドクター・ズー" transform="ref(svg,13623.9568,-3606.5798)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山岸眼科クリニック,福井県福井市四ツ井１-４-１,眼科,,,9" xlink:title="山岸眼科クリニック" transform="ref(svg,13623.4963,-3606.6697)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くろかわ医院,福井県福井市四ツ井２-１-６,アレルギー科　耳鼻いんこう科,,,9" xlink:title="くろかわ医院" transform="ref(svg,13623.5058,-3606.8127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤内科・婦人科クリニック,福井県福井市志比口１-１０-２８,内科　呼吸器内科　循環器内科　皮膚科　婦人科,,,9" xlink:title="加藤内科・婦人科クリニック" transform="ref(svg,13623.3527,-3606.8028)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本医院,福井県福井市志比口町１-３-５,内科　循環器内科　皮膚科,,,9" xlink:title="山本医院" transform="ref(svg,13623.3763,-3607.0724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梅田整形外科医院,福井県福井市若杉４-８０１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="梅田整形外科医院" transform="ref(svg,13618.6887,-3605.6916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村井内科医院,福井県福井市若杉町２-１５０５,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　放射線科,,,9" xlink:title="村井内科医院" transform="ref(svg,13618.8835,-3605.6652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坪川内科医院,福井県福井市若杉浜１-６０５,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　放射線科,,,9" xlink:title="坪川内科医院" transform="ref(svg,13618.9481,-3606.2934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井心のクリニック,福井県福井市手寄１-１２-２３,神経内科　精神科,,,9" xlink:title="福井心のクリニック" transform="ref(svg,13622.3739,-3605.9815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディースクリニックつねざわ,福井県福井市手寄１-７-２３駅東さくらビル４階,産婦人科,,,9" xlink:title="レディースクリニックつねざわ" transform="ref(svg,13622.2557,-3605.982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たなか整形外科・眼科,福井県福井市種池１-１０１,リウマチ科　整形外科　眼科　リハビリテーション科,,,9" xlink:title="たなか整形外科・眼科" transform="ref(svg,13619.2848,-3603.6324)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒田クリニック,福井県福井市種池２-５１０,内科　外科,,,9" xlink:title="黒田クリニック" transform="ref(svg,13618.9073,-3603.7831)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,舟橋内科クリニック,福井県福井市舟橋町１-１１０,内科　循環器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="舟橋内科クリニック" transform="ref(svg,13622.5891,-3609.9015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長保会吉水整形外科医院,福井県福井市舟橋新１-１１０８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="長保会吉水整形外科医院" transform="ref(svg,13621.0768,-3609.9104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇野医院,福井県福井市春山１-８-２５,気管食道外科　耳鼻いんこう科,,,9" xlink:title="宇野医院" transform="ref(svg,13621.7283,-3607.0039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平井医院,福井県福井市春山２-２４-９,産婦人科,,,9" xlink:title="平井医院" transform="ref(svg,13621.506,-3607.0451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）邦高会高沢内科医院,福井県福井市春日町２３６-１,内科　糖尿病内科（代謝内科）,,,9" xlink:title="（医）邦高会高沢内科医院" transform="ref(svg,13622.0088,-3604.9973)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木美容形成外科クリニック,福井県福井市順化１-１３-１８ドリームユースビル３,皮膚科　泌尿器科　形成外科　美容外科,,,9" xlink:title="佐々木美容形成外科クリニック" transform="ref(svg,13621.7364,-3606.4967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木医院,福井県福井市順化１-１５-１６,内科　皮膚科　外科　泌尿器科　肛門外科　整形外科,,,9" xlink:title="青木医院" transform="ref(svg,13621.5741,-3606.525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中永医院,福井県福井市順化１-１８-１７,内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="中永医院" transform="ref(svg,13621.6198,-3606.6355)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清風会吉田医院,福井県福井市順化１-８-１,内科　消化器内科（胃腸内科）　アレルギー科　リウマチ科　小児科　外科　肛門外科　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）清風会吉田医院" transform="ref(svg,13621.5815,-3606.383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三崎医院,福井県福井市左内町８-９,内科　リウマチ科　小児科　心療内科　整形外科　リハビリテーション科,,,9" xlink:title="三崎医院" transform="ref(svg,13621.352,-3605.8483)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田医院,福井県福井市小幡町３-２６-１,内科　循環器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="藤田医院" transform="ref(svg,13612.2998,-3614.0981)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青山皮膚科クリニック,福井県福井市宝永１-３８-１５,皮膚科　アレルギー科　整形外科　形成外科,,,9" xlink:title="青山皮膚科クリニック" transform="ref(svg,13623.2554,-3607.119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田耳鼻咽喉科医院,福井県福井市松本２-４-２９,耳鼻いんこう科,,,9" xlink:title="前田耳鼻咽喉科医院" transform="ref(svg,13622.6726,-3607.1607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤井内科医院,福井県福井市松本２-４-１６,内科　循環器内科,,,9" xlink:title="赤井内科医院" transform="ref(svg,13622.6222,-3607.1335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安井医院,福井県福井市松本２-１１-６,内科　循環器内科　小児科,,,9" xlink:title="安井医院" transform="ref(svg,13622.6751,-3607.2278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丹尾医院,福井県福井市松本４-２-６,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　眼科,,,9" xlink:title="丹尾医院" transform="ref(svg,13621.8853,-3607.0781)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長谷川医院,福井県福井市松本４-４-２４,消化器内科（胃腸内科）　精神科　心療内科　外科　肛門外科,,,9" xlink:title="長谷川医院" transform="ref(svg,13622.0295,-3607.1398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田医院,福井県福井市照手１-１３-３,内科　皮膚科　アレルギー科　外科　乳腺外科　泌尿器科,,,9" xlink:title="吉田医院" transform="ref(svg,13621.037,-3606.6028)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科・アレルギー科たなかクリニック,福井県福井市上森田１-４０３,アレルギー科　耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科・アレルギー科たなかクリニック" transform="ref(svg,13622.7049,-3611.3131)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）元和会野村内科医院,福井県福井市上中町３６-８,内科　循環器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="（医）元和会野村内科医院" transform="ref(svg,13626.7144,-3608.1514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本定医院,福井県福井市上中町５２-２-４,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="本定医院" transform="ref(svg,13627.3875,-3608.6822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつむら眼科クリニック,福井県福井市上北野１-２５‐１９,眼科,,,9" xlink:title="まつむら眼科クリニック" transform="ref(svg,13625.2416,-3606.3843)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斉木内科循環器科医院,福井県福井市城東２-８-１１,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="斉木内科循環器科医院" transform="ref(svg,13623.5458,-3606.1023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まきレディースクリニック,福井県福井市新田塚町１０１,内科　婦人科,,,9" xlink:title="まきレディースクリニック" transform="ref(svg,13621.4714,-3608.8136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福島泌尿器科医院,福井県福井市新田塚４０８,内科　泌尿器科,,,9" xlink:title="福島泌尿器科医院" transform="ref(svg,13621.1703,-3608.8211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南場小児科医院,福井県福井市新田塚４１８,小児科,,,9" xlink:title="南場小児科医院" transform="ref(svg,13621.0531,-3608.857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むらきた内科,福井県福井市新田塚町７２０-１,内科　消化器内科（胃腸内科）,,,9" xlink:title="むらきた内科" transform="ref(svg,13620.9189,-3608.924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まどころ心療クリニック,福井県福井市新保町１９-３５-１,神経科　精神科　心療内科,,,9" xlink:title="まどころ心療クリニック" transform="ref(svg,13625.8672,-3608.4861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水南医院,福井県福井市真栗町３８-３,内科　消化器内科（胃腸内科）　小児科　外科,,,9" xlink:title="清水南医院" transform="ref(svg,13615.0287,-3600.7801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いわほり小児科医院,福井県福井市水越１-６０６,小児科,,,9" xlink:title="いわほり小児科医院" transform="ref(svg,13618.9939,-3606.6117)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,門整形外科,福井県福井市西開発１-２４０５,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="門整形外科" transform="ref(svg,13623.7733,-3607.6465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,根上レディースクリニック,福井県福井市西開発２-２２１,小児科　産科　婦人科,,,9" xlink:title="根上レディースクリニック" transform="ref(svg,13623.629,-3608.054)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林小児科クリニック,福井県福井市西谷１-１２１２,小児科,,,9" xlink:title="林小児科クリニック" transform="ref(svg,13620.6709,-3603.8023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,往診クリニックふくい,福井県福井市西谷２-２７０４-１０３,内科　呼吸器内科,,,9" xlink:title="往診クリニックふくい" transform="ref(svg,13620.1058,-3603.9514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堂下医院,福井県福井市西中野町３-５２-２,整形外科,,,9" xlink:title="堂下医院" transform="ref(svg,13615.5949,-3614.564)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大久保外科内科,福井県福井市西木田２-１１-８,内科　呼吸器内科　消化器内科（胃腸内科）　外科　整形外科,,,9" xlink:title="大久保外科内科" transform="ref(svg,13621.2769,-3605.277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生田医院,福井県福井市西木田２-４-１４,内科　小児科,,,9" xlink:title="生田医院" transform="ref(svg,13621.4329,-3605.2796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高柳眼科,福井県福井市石盛町１４-１８-１,眼科,,,9" xlink:title="高柳眼科" transform="ref(svg,13622.8128,-3611.6244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大月産婦人科クリニック,福井県福井市足羽１-１１-２４,内科　小児科　産科　婦人科,,,9" xlink:title="大月産婦人科クリニック" transform="ref(svg,13621.0086,-3606.0676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水内科循環器医院,福井県福井市足羽２-１-１１,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="清水内科循環器医院" transform="ref(svg,13620.5537,-3606.1334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,早川皮フ科形成外科医院,福井県福井市大宮２-３-３２,皮膚科　形成外科,,,9" xlink:title="早川皮フ科形成外科医院" transform="ref(svg,13622.1297,-3608.0973)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）久保田内科医院,福井県福井市大宮３-１１-２５,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="（医）久保田内科医院" transform="ref(svg,13621.3882,-3608.1303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺尾小児科医院,福井県福井市大宮３-２６-１０,内科　アレルギー科　小児科,,,9" xlink:title="寺尾小児科医院" transform="ref(svg,13620.9418,-3608.2216)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）響二の宮クリニック,福井県福井市大宮３-３１-３７,内科　消化器内科（胃腸内科）　外科　肛門外科　リハビリテーション科,,,9" xlink:title="（医）響二の宮クリニック" transform="ref(svg,13621.5356,-3608.2892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山内整形外科,福井県福井市大宮４-１３-１８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="山内整形外科" transform="ref(svg,13620.841,-3608.2412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田医院,福井県福井市大手１-３-１,内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="秋田医院" transform="ref(svg,13622.7455,-3606.6431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,眼科原医院,福井県福井市大手２-６-６,眼科,,,9" xlink:title="眼科原医院" transform="ref(svg,13622.2208,-3606.2776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石黒耳鼻咽喉科医院,福井県福井市大手２-１５-１５,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="（医）石黒耳鼻咽喉科医院" transform="ref(svg,13622.5216,-3606.6622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水小児科医院,福井県福井市大手２-２０-１０,小児科,,,9" xlink:title="清水小児科医院" transform="ref(svg,13622.1559,-3606.6726)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヒロセクリニック,福井県福井市大手２-４-２６白沢ビル３階,神経科　神経内科　精神科　心療内科,,,9" xlink:title="ヒロセクリニック" transform="ref(svg,13622.344,-3606.3606)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アイクリニックおおて,福井県福井市大手３-１-６,眼科,,,9" xlink:title="アイクリニックおおて" transform="ref(svg,13622.0674,-3606.279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）南後眼科医院,福井県福井市大手３-７-１繊協ビル３Ｆ,眼科,,,9" xlink:title="（医）南後眼科医院" transform="ref(svg,13621.7894,-3606.2869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉村整形形成外科医院,福井県福井市大手３-７-１,整形外科　形成外科　リハビリテーション科,,,9" xlink:title="吉村整形形成外科医院" transform="ref(svg,13621.8077,-3606.2822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中井内科医院,福井県福井市大手３-７-１,呼吸器内科　循環器内科　糖尿病内科（代謝内科）,,,9" xlink:title="中井内科医院" transform="ref(svg,13621.8077,-3606.2822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大名町スキンクリニック,福井県福井市大手３-７-１繊協ビル２０１,皮膚科,,,9" xlink:title="大名町スキンクリニック" transform="ref(svg,13621.7894,-3606.2869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水診療所,福井県福井市大森町３８-３,内科　小児科　外科　リハビリテーション科,,,9" xlink:title="清水診療所" transform="ref(svg,13612.3076,-3602.3766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふくはら小児科,福井県福井市大町２-６０１,内科　小児科,,,9" xlink:title="ふくはら小児科" transform="ref(svg,13622.2297,-3603.4867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おかもと内科クリニック,福井県福井市大島町柳２１２,内科,,,9" xlink:title="おかもと内科クリニック" transform="ref(svg,13620.6355,-3602.9546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滝元耳鼻咽喉科医院,福井県福井市大東１-１-５,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="滝元耳鼻咽喉科医院" transform="ref(svg,13624.9269,-3606.3779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡田整形外科クリニック,福井県福井市飯塚９-１１０,整形外科　リハビリテーション科,,,9" xlink:title="岡田整形外科クリニック" transform="ref(svg,13618.4819,-3606.6916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋田医院殿下診療所,福井県福井市大矢町８-４５,内科,,,9" xlink:title="秋田医院殿下診療所" transform="ref(svg,13604.8261,-3603.3742)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和田アイクリニック,福井県福井市大和田町１６４-５,眼科,,,9" xlink:title="大和田アイクリニック" transform="ref(svg,13625.2037,-3609.4633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,コパ耳鼻咽喉科クリニック,福井県福井市大和田２-１２１２,アレルギー科　耳鼻いんこう科,,,9" xlink:title="コパ耳鼻咽喉科クリニック" transform="ref(svg,13625.0794,-3609.6774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科宮崎医院,福井県福井市中央１-２０-１,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科宮崎医院" transform="ref(svg,13621.9117,-3606.0778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおわだ眼科,福井県福井市大和田２-１２１２エルパ２Ｆ,眼科,,,9" xlink:title="おおわだ眼科" transform="ref(svg,13625.0304,-3609.5847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいかわ泌尿器科クリニック,福井県福井市中央２-１-３５,内科　泌尿器科,,,9" xlink:title="さいかわ泌尿器科クリニック" transform="ref(svg,13622.0378,-3605.8852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加畑皮膚科医院,福井県福井市中央３-２-１５本町ビル１階,皮膚科,,,9" xlink:title="加畑皮膚科医院" transform="ref(svg,13621.625,-3606.245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いそまつ医院,福井県福井市中央３-６-１４,眼科,,,9" xlink:title="いそまつ医院" transform="ref(svg,13621.2918,-3606.3548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松田外科胃腸科医院,福井県福井市町屋２-５-２５,内科　消化器内科（胃腸内科）　外科　消化器外科（胃腸外科）　肛門外科　整形外科,,,9" xlink:title="松田外科胃腸科医院" transform="ref(svg,13622.9155,-3607.7982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松田小児科クリニック,福井県福井市町屋２-９-２１,小児科,,,9" xlink:title="松田小児科クリニック" transform="ref(svg,13622.8835,-3607.9114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷口医院,福井県福井市天王町２０-４１,内科　小児科　外科　肛門外科,,,9" xlink:title="谷口医院" transform="ref(svg,13623.3215,-3602.7492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐部内科医院,福井県福井市田原２-１８-１０,内科　小児科,,,9" xlink:title="佐部内科医院" transform="ref(svg,13621.2708,-3607.2299)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前川医院,福井県福井市東郷二ケ町２９-２５,内科　小児科　外科　整形外科,,,9" xlink:title="前川医院" transform="ref(svg,13627.1031,-3601.6694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安原医院,福井県福井市東郷二ケ町３６-２６,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="安原医院" transform="ref(svg,13627.4162,-3601.5697)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本多整形外科医院,福井県福井市南四ツ居１-３-１０,リウマチ科　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="本多整形外科医院" transform="ref(svg,13624.3191,-3606.3024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安田小児科クリニック,福井県福井市南四ツ居１-６-２９,小児科,,,9" xlink:title="安田小児科クリニック" transform="ref(svg,13624.5371,-3606.1104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上林医院,福井県福井市二の宮２-２６-３５,内科　消化器内科（胃腸内科）　外科　肛門外科,,,9" xlink:title="上林医院" transform="ref(svg,13622.2485,-3608.7048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじい眼科クリニック,福井県福井市二の宮２-２７-２８,眼科,,,9" xlink:title="ふじい眼科クリニック" transform="ref(svg,13622.1666,-3608.753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）とみなが富永耳鼻咽喉科医院,福井県福井市二の宮２-３０-１４,耳鼻いんこう科,,,9" xlink:title="（医）とみなが富永耳鼻咽喉科医院" transform="ref(svg,13622.6017,-3608.7511)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大橋整形外科医院,福井県福井市二の宮３-３８-２０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="大橋整形外科医院" transform="ref(svg,13621.7069,-3608.7669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いど皮膚科クリニック,福井県福井市二の宮４-１３-１３,皮膚科,,,9" xlink:title="いど皮膚科クリニック" transform="ref(svg,13621.2537,-3608.3992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石黒眼科クリニック,福井県福井市二の宮４-９-２８,眼科,,,9" xlink:title="石黒眼科クリニック" transform="ref(svg,13621.3767,-3608.3825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大滝東クリニック,福井県福井市日光１-１-１,内科　神経内科　小児科　精神科,,,9" xlink:title="大滝東クリニック" transform="ref(svg,13620.3879,-3607.1357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）駅東整形外科,福井県福井市日之出２-１２-２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）駅東整形外科" transform="ref(svg,13622.6526,-3606.2944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒川眼科医院,福井県福井市板垣５-３１５-１,眼科,,,9" xlink:title="黒川眼科医院" transform="ref(svg,13622.8598,-3604.366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡田形成外科皮フ科クリニック,福井県福井市大東１-６-３８,皮膚科　形成外科　美容外科,,,9" xlink:title="岡田形成外科皮フ科クリニック" transform="ref(svg,13625.1759,-3606.4108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）はら耳鼻咽喉科医院,福井県福井市福新町２００２-１,耳鼻いんこう科,,,9" xlink:title="（医）はら耳鼻咽喉科医院" transform="ref(svg,13618.5701,-3604.9063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,--橋眼科医院,福井県福井市福新町８１３,眼科,,,9" xlink:title="--橋眼科医院" transform="ref(svg,13618.4343,-3604.853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,舟津内科・循環器科医院,福井県福井市文京１-２９-６,内科　呼吸器内科　循環器内科,,,9" xlink:title="舟津内科・循環器科医院" transform="ref(svg,13622.4658,-3607.7844)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中皮フ科医院,福井県福井市文京１-１６-９,内科　皮膚科　小児科,,,9" xlink:title="田中皮フ科医院" transform="ref(svg,13622.365,-3607.6809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,得田内科医院,福井県福井市文京１-１９-２４,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　神経内科,,,9" xlink:title="得田内科医院" transform="ref(svg,13622.2773,-3607.7588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林クリニック,福井県福井市文京２-１-１５,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　糖尿病内科（代謝内科）　外科　消化器外科（胃腸外科）　肛門外科,,,9" xlink:title="小林クリニック" transform="ref(svg,13621.7288,-3607.5224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,英内科医院,福井県福井市文京２-１７-２０,内科,,,9" xlink:title="英内科医院" transform="ref(svg,13622.0405,-3607.986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋クリニック,福井県福井市文京３-２４-１２,内科　呼吸器内科　循環器内科,,,9" xlink:title="高橋クリニック" transform="ref(svg,13620.9526,-3607.9848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井本耳鼻咽喉科医院,福井県福井市文京６-１７-２５,アレルギー科　耳鼻いんこう科,,,9" xlink:title="井本耳鼻咽喉科医院" transform="ref(svg,13620.1515,-3607.6037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）村上内科医院,福井県福井市文京６-２５-２７,内科　循環器内科,,,9" xlink:title="（医）村上内科医院" transform="ref(svg,13620.0367,-3607.7037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,末松内科循環器科医院,福井県福井市文京６-３４-１１,内科　呼吸器内科　循環器内科,,,9" xlink:title="末松内科循環器科医院" transform="ref(svg,13619.7692,-3607.8649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,打波外科胃腸科・婦人科,福井県福井市文京７-１０-２,内科　消化器内科（胃腸内科）　外科　肛門外科　婦人科　麻酔科,,,9" xlink:title="打波外科胃腸科・婦人科" transform="ref(svg,13619.4805,-3607.5962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇賀治整形外科医院,福井県福井市宝永１-３５-１２,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="宇賀治整形外科医院" transform="ref(svg,13622.8847,-3607.0689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,辻医院,福井県福井市宝永１-９-１３,消化器内科（胃腸内科）,,,9" xlink:title="辻医院" transform="ref(svg,13622.853,-3606.7115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇賀治医院,福井県福井市田原２-６-１１,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　外科　泌尿器科　整形外科,,,9" xlink:title="宇賀治医院" transform="ref(svg,13621.3261,-3607.1577)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,巨椋医院,福井県福井市宝永３-３５-７,産科　婦人科,,,9" xlink:title="巨椋医院" transform="ref(svg,13622.2165,-3607.0199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹田整形外科医院,福井県福井市宝永４-３-２１,神経内科　リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="竹田整形外科医院" transform="ref(svg,13621.8668,-3606.7572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本多レディースクリニック,福井県福井市宝永４-２-１８,内科　小児科　産科　婦人科,,,9" xlink:title="本多レディースクリニック" transform="ref(svg,13621.9792,-3606.7344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヒデ齊藤クリニック,福井県福井市宝永４-３-９,内科　消化器内科（胃腸内科）　外科,,,9" xlink:title="ヒデ齊藤クリニック" transform="ref(svg,13621.8267,-3606.7167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉村医院,福井県福井市北四ツ居２-１８-３１,内科　皮膚科　アレルギー科　小児科　リハビリテーション科,,,9" xlink:title="吉村医院" transform="ref(svg,13624.8372,-3606.5863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平谷こども発達クリニック,福井県福井市北四ツ居２-１４０９,アレルギー科　小児科　精神科,,,9" xlink:title="平谷こども発達クリニック" transform="ref(svg,13624.8107,-3606.6969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大森整形外科リウマチ科,福井県福井市北四ツ居３-１４-１２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="大森整形外科リウマチ科" transform="ref(svg,13624.5986,-3606.7576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀の宮整形外科,福井県福井市堀ノ宮１-１２３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="堀の宮整形外科" transform="ref(svg,13619.7152,-3608.0296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加納医院,福井県福井市毛矢２-６-２２,内科　皮膚科　小児科　耳鼻いんこう科　麻酔科,,,9" xlink:title="加納医院" transform="ref(svg,13621.4524,-3605.8632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清仁会小林産婦人科医院,福井県福井市毛矢２-８-１５,産科　婦人科,,,9" xlink:title="（医）清仁会小林産婦人科医院" transform="ref(svg,13621.4024,-3605.7374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西ウィミンズクリニック,福井県福井市木田２-２１０２,内科　産婦人科,,,9" xlink:title="西ウィミンズクリニック" transform="ref(svg,13622.637,-3604.634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島本眼科医院,福井県福井市木田２-１２０７,眼科,,,9" xlink:title="島本眼科医院" transform="ref(svg,13622.2431,-3604.5081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いなだクリニック,福井県福井市木田２-１６１３,内科　消化器内科（胃腸内科）　外科　肛門外科　整形外科　リハビリテーション科,,,9" xlink:title="いなだクリニック" transform="ref(svg,13622.4209,-3604.5204)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むかい心療内科クリニック,福井県福井市木田３-２４０２アクアロードビル２Ｆ,精神科　心療内科,,,9" xlink:title="むかい心療内科クリニック" transform="ref(svg,13622.6506,-3604.4303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしむら皮フ科クリニック,福井県福井市木田３-２６０５,皮膚科　アレルギー科　形成外科,,,9" xlink:title="にしむら皮フ科クリニック" transform="ref(svg,13622.6529,-3604.2959)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木田整形外科,福井県福井市木田３-９０７,整形外科　リハビリテーション科,,,9" xlink:title="木田整形外科" transform="ref(svg,13622.3994,-3604.4609)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,コモ小児診療所,福井県福井市木田３-９１０,小児科,,,9" xlink:title="コモ小児診療所" transform="ref(svg,13622.4122,-3604.4802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）雄久会奥村外科胃腸科,福井県福井市木田町１-３４１５,内科　循環器内科　消化器内科（胃腸内科）　小児科　外科　肛門外科　整形外科,,,9" xlink:title="（医）雄久会奥村外科胃腸科" transform="ref(svg,13622.6587,-3604.7904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤整形形成外科,福井県福井市桃園１-１-２,整形外科　形成外科　リハビリテーション科,,,9" xlink:title="佐藤整形形成外科" transform="ref(svg,13620.3259,-3606.2232)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水整形外科クリニック,福井県福井市和田中２-２１０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="清水整形外科クリニック" transform="ref(svg,13624.6338,-3604.8851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじさわ小児科医院,福井県福井市和田中町１１０-２０,内科　アレルギー科　小児科,,,9" xlink:title="ふじさわ小児科医院" transform="ref(svg,13625.2213,-3604.5318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有塚消化器科外科医院,福井県福井市和田東２-１８１４,内科　消化器内科（胃腸内科）　外科　肛門外科　小児外科　リハビリテーション科,,,9" xlink:title="有塚消化器科外科医院" transform="ref(svg,13624.9928,-3604.9026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ふじもとこどもクリニック,福井県福井市渕２-９０３,小児科,,,9" xlink:title="（医）ふじもとこどもクリニック" transform="ref(svg,13618.824,-3604.1802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひらい内科消化器科医院,福井県福井市渕４-１８１３,内科　循環器内科　消化器内科（胃腸内科）　小児科　リハビリテーション科,,,9" xlink:title="ひらい内科消化器科医院" transform="ref(svg,13618.2129,-3604.5413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はまだ内科クリニック,福井県福井市開発１-２０３,内科,,,9" xlink:title="はまだ内科クリニック" transform="ref(svg,13623.9084,-3607.6186)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）はまなかクリニック,福井県福井市南四ツ居１-１０-１１,内科　外科,,,9" xlink:title="（医）はまなかクリニック" transform="ref(svg,13624.4592,-3606.2885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,麻生津医院,福井県福井市浅水二十日町１２８-１７,内科　呼吸器内科　小児科　外科,,,9" xlink:title="麻生津医院" transform="ref(svg,13619.8272,-3600.3969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みさわクリニック,福井県福井市舟橋黒竜１-１１９,内科　循環器内科,,,9" xlink:title="みさわクリニック" transform="ref(svg,13621.5577,-3609.8848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西浦医院,福井県福井市つくも２-５-４,内科　整形外科　リハビリテーション科,,,9" xlink:title="西浦医院" transform="ref(svg,13620.9203,-3606.1853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三船内科クリニック,福井県福井市北四ツ居１-２-１０,内科,,,9" xlink:title="三船内科クリニック" transform="ref(svg,13624.2347,-3606.5142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本こあらクリニック,福井県福井市高柳１-８０３,アレルギー科　耳鼻いんこう科,,,9" xlink:title="山本こあらクリニック" transform="ref(svg,13624.2062,-3609.2356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きんせんクリニック,福井県福井市板垣４-１１４,耳鼻いんこう科,,,9" xlink:title="きんせんクリニック" transform="ref(svg,13622.7105,-3604.5939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多賀内科循環器科医院,福井県福井市二の宮４-２-６,内科　呼吸器内科　循環器内科,,,9" xlink:title="多賀内科循環器科医院" transform="ref(svg,13621.329,-3608.3103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,オレンジホームケアクリニック,福井県福井市田原町１-３-５,内科　小児科,,,9" xlink:title="オレンジホームケアクリニック" transform="ref(svg,13621.6892,-3607.1463)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沖野メンタルクリニック,福井県福井市定正町１３０８,精神科　心療内科,,,9" xlink:title="沖野メンタルクリニック" transform="ref(svg,13621.9147,-3611.9374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井県農業会館診療所,福井県福井市大手３-２-１８,内科,,,9" xlink:title="福井県農業会館診療所" transform="ref(svg,13622.1166,-3606.36)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きむら耳鼻咽喉科,福井県福井市若杉４-６０９,アレルギー科　小児科　耳鼻いんこう科,,,9" xlink:title="きむら耳鼻咽喉科" transform="ref(svg,13618.5845,-3605.7168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かさはら小児科,福井県福井市大和田２-２０５,内科　小児科,,,9" xlink:title="かさはら小児科" transform="ref(svg,13624.6981,-3609.5839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大滝クリニック,福井県福井市大願寺３-９-３,内科　循環器内科　消化器内科（胃腸内科）　腎臓内科　糖尿病内科（代謝内科）　外科　消化器外科（胃腸外科）　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="大滝クリニック" transform="ref(svg,13622.8297,-3608.4248)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くわばら皮膚科クリニック,福井県福井市成和１-１９０２,皮膚科　アレルギー科,,,9" xlink:title="くわばら皮膚科クリニック" transform="ref(svg,13624.3037,-3605.5497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安土整形外科医院,福井県福井市中央２-７-１９,内科　リウマチ科　脳神経外科　整形外科　リハビリテーション科,,,9" xlink:title="安土整形外科医院" transform="ref(svg,13621.8218,-3605.9308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こまつクリニック,福井県福井市高柳町２８-７-３レインボービル２Ｆ,精神科　心療内科,,,9" xlink:title="こまつクリニック" transform="ref(svg,13623.7979,-3609.7708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつだ眼科,福井県福井市文京６-２８-７,眼科,,,9" xlink:title="まつだ眼科" transform="ref(svg,13620.0816,-3607.7598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉本リウマチ内科クリニック,福井県福井市舟橋新２-１０９,内科　リウマチ科,,,9" xlink:title="杉本リウマチ内科クリニック" transform="ref(svg,13620.7559,-3609.7953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふくい南アイクリニック,福井県福井市下馬３-１８１５,眼科,,,9" xlink:title="ふくい南アイクリニック" transform="ref(svg,13623.6896,-3603.9195)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,汐見医院,福井県あわら市春宮３-８-２,内科　循環器内科　小児科,,,9" xlink:title="汐見医院" transform="ref(svg,13622.9435,-3621.6698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横垣クリニック,福井県あわら市横垣１８-１１,内科　循環器内科　リハビリテーション科,,,9" xlink:title="横垣クリニック" transform="ref(svg,13621.4408,-3622.395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西岡医院,福井県あわら市温泉５-３,内科　循環器内科　小児科,,,9" xlink:title="西岡医院" transform="ref(svg,13619.3875,-3622.6323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂井医院,福井県あわら市温泉５-１８１１,内科　消化器内科（胃腸内科）　小児科　リハビリテーション科,,,9" xlink:title="坂井医院" transform="ref(svg,13619.2546,-3622.863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金津産婦人科クリニック,福井県あわら市市姫１-８-５,内科　小児科　産婦人科,,,9" xlink:title="金津産婦人科クリニック" transform="ref(svg,13623.0905,-3621.2198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斉藤耳鼻咽喉科医院,福井県あわら市舟津３-１８,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="斉藤耳鼻咽喉科医院" transform="ref(svg,13619.0752,-3622.5578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥村医院,福井県あわら市春宮２-８-３,内科　皮膚科　アレルギー科　泌尿器科,,,9" xlink:title="奥村医院" transform="ref(svg,13623.2449,-3621.5422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田医院,福井県あわら市中番１２-１,内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="藤田医院" transform="ref(svg,13619.8831,-3620.4812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂井内科クリニック,福井県あわら市中番１７-１８,内科　循環器内科　消化器内科（胃腸内科）　糖尿病内科（代謝内科）　小児科　リハビリテーション科,,,9" xlink:title="坂井内科クリニック" transform="ref(svg,13620.3399,-3620.577)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵仁会柴田医院,福井県あわら市二面４-１０９,内科　整形外科　形成外科,,,9" xlink:title="（医）恵仁会柴田医院" transform="ref(svg,13619.8612,-3622.5013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしの整形外科クリニック,福井県あわら市春宮２-１６-３８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="にしの整形外科クリニック" transform="ref(svg,13623.3086,-3621.788)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木眼科クリニック,福井県坂井市春江町江留上錦３７-１,眼科,,,9" xlink:title="鈴木眼科クリニック" transform="ref(svg,13621.7538,-3612.2627)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本多耳鼻科クリニック,福井県坂井市丸岡町猪爪２-２０７,アレルギー科　耳鼻いんこう科,,,9" xlink:title="本多耳鼻科クリニック" transform="ref(svg,13627.4877,-3614.156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川崎皮膚科クリニック,福井県坂井市丸岡町里丸岡３-１-２,皮膚科　形成外科,,,9" xlink:title="川崎皮膚科クリニック" transform="ref(svg,13627.6394,-3614.4162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒川整形外科・胃腸科,福井県坂井市丸岡町本町４-２６,消化器内科（胃腸内科）　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="荒川整形外科・胃腸科" transform="ref(svg,13626.8766,-3615.5931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤小児科医院,福井県坂井市丸岡町西瓜屋２-１５,小児科,,,9" xlink:title="近藤小児科医院" transform="ref(svg,13626.8528,-3614.9415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）越仁会こしの医院,福井県坂井市三国町山岸６９-３６-３,内科　循環器内科　小児科,,,9" xlink:title="（医）越仁会こしの医院" transform="ref(svg,13614.5497,-3619.3257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ライフクリニックはるさか,福井県坂井市春江町中筋第１００-７５,内科　消化器内科（胃腸内科）　外科　肛門外科　リハビリテーション科,,,9" xlink:title="ライフクリニックはるさか" transform="ref(svg,13623.6223,-3612.7386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）キムクリニック,福井県坂井市丸岡町一本田２５字２３-１,内科　消化器内科（胃腸内科）　外科,,,9" xlink:title="（医）キムクリニック" transform="ref(svg,13626.1567,-3614.6453)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ささはら整形外科,福井県坂井市丸岡町一本田５-７０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="ささはら整形外科" transform="ref(svg,13626.5842,-3614.9572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡内科クリニック,福井県坂井市丸岡町栄１-２０３,内科　消化器内科（胃腸内科）,,,9" xlink:title="福岡内科クリニック" transform="ref(svg,13627.0379,-3615.7317)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東外科医院,福井県坂井市丸岡町霞１-５０,内科　消化器内科（胃腸内科）　外科　肛門外科　整形外科　リハビリテーション科,,,9" xlink:title="東外科医院" transform="ref(svg,13627.0124,-3615.2962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つちだ小児科,福井県坂井市丸岡町吉政１１-１０-２,小児科,,,9" xlink:title="つちだ小児科" transform="ref(svg,13626.3275,-3613.7123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木クリニック,福井県坂井市丸岡町吉政７字辻田７-１,内科,,,9" xlink:title="鈴木クリニック" transform="ref(svg,13626.0768,-3613.7289)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヒガシ内科医院,福井県坂井市丸岡町西瓜屋１６-３,内科　呼吸器内科　小児科,,,9" xlink:title="ヒガシ内科医院" transform="ref(svg,13626.857,-3615.0785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）都筑眼科医院,福井県坂井市丸岡町巽町１-１７,眼科,,,9" xlink:title="（医）都筑眼科医院" transform="ref(svg,13627.2607,-3614.9857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松井クリニック,福井県坂井市丸岡町本町３-２８,内科　皮膚科　小児科　婦人科,,,9" xlink:title="松井クリニック" transform="ref(svg,13626.9676,-3615.5191)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中瀬整形外科医院,福井県坂井市丸岡町里丸岡１-４０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）中瀬整形外科医院" transform="ref(svg,13627.5848,-3614.6815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩井病院附属坂井診療所,福井県坂井市坂井町下新庄２字７-２,内科　消化器内科（胃腸内科）　小児科　放射線科,,,9" xlink:title="岩井病院附属坂井診療所" transform="ref(svg,13623.0613,-3616.6614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森瀬クリニック,福井県坂井市坂井町下兵庫２９６-７,内科　循環器内科　糖尿病内科（代謝内科）　小児科,,,9" xlink:title="森瀬クリニック" transform="ref(svg,13619.8091,-3617.2319)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野村医院,福井県坂井市坂井町大味８-５,内科　消化器内科（胃腸内科）　外科　肛門外科,,,9" xlink:title="野村医院" transform="ref(svg,13621.2399,-3618.5414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ともだクリニック,福井県坂井市坂井町長畑２５-３-５,内科　小児科　リハビリテーション科,,,9" xlink:title="ともだクリニック" transform="ref(svg,13623.6341,-3616.5259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西野医院,福井県坂井市三国町安島２７-３１,内科　循環器内科　消化器内科（胃腸内科）　小児科　リハビリテーション科,,,9" xlink:title="西野医院" transform="ref(svg,13612.5766,-3624.8854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みくにの森クリニック,福井県坂井市三国町梶４９-１８,内科,,,9" xlink:title="みくにの森クリニック" transform="ref(svg,13615.5458,-3624.5929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向坂内科医院,福井県坂井市三国町三国東６-４-２９,内科　循環器内科　消化器内科（胃腸内科）　アレルギー科　小児科　リハビリテーション科,,,9" xlink:title="向坂内科医院" transform="ref(svg,13615.3636,-3621.4469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒井医院,福井県坂井市三国町錦４-１-１５,皮膚科　リウマチ科　整形外科　形成外科　リハビリテーション科,,,9" xlink:title="荒井医院" transform="ref(svg,13615.3433,-3621.449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大嶋医院,福井県坂井市三国町錦４-２-５２,内科　アレルギー科　小児科,,,9" xlink:title="大嶋医院" transform="ref(svg,13615.2615,-3621.4559)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まつもと耳鼻咽喉科クリニック,福井県坂井市三国町三国東５-２-３,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="（医）まつもと耳鼻咽喉科クリニック" transform="ref(svg,13615.8672,-3621.0899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木眼科,福井県坂井市三国町三国東５-２-６,眼科,,,9" xlink:title="佐々木眼科" transform="ref(svg,13615.8284,-3621.0696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鷲田医院,福井県坂井市三国町山王２-４-５,内科　小児科　リハビリテーション科,,,9" xlink:title="鷲田医院" transform="ref(svg,13615.3217,-3620.9814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,真田クリニック,福井県坂井市三国町神明１-５-７,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　神経内科　アレルギー科　小児科　リハビリテーション科,,,9" xlink:title="真田クリニック" transform="ref(svg,13614.7142,-3621.6641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井医院,福井県坂井市三国町南本町３-３-２０,内科　皮膚科　小児科　外科　肛門外科,,,9" xlink:title="藤井医院" transform="ref(svg,13614.9888,-3621.3193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石黒皮膚科クリニック,福井県坂井市春江町江留下高道１６１-１,アレルギー科　小児科,,,9" xlink:title="石黒皮膚科クリニック" transform="ref(svg,13621.8257,-3612.8622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松浦耳鼻咽喉科医院,福井県坂井市春江町江留下相田３１-２,アレルギー科　気管食道外科　耳鼻いんこう科,,,9" xlink:title="（医）松浦耳鼻咽喉科医院" transform="ref(svg,13621.9601,-3612.7525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あんねん整形外科医院,福井県坂井市春江町江留上錦６３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="あんねん整形外科医院" transform="ref(svg,13621.7937,-3612.2021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,春日レディスクリニック,福井県坂井市春江町江留上新町８,内科　アレルギー科　小児科　産婦人科,,,9" xlink:title="春日レディスクリニック" transform="ref(svg,13621.9006,-3612.5465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,友田医院,福井県坂井市春江町江留上中央１１-７,内科　呼吸器内科　小児科　外科　整形外科　リハビリテーション科,,,9" xlink:title="友田医院" transform="ref(svg,13622.5271,-3612.3042)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高谷医院,福井県坂井市春江町西長田２３-１８,内科　小児科,,,9" xlink:title="高谷医院" transform="ref(svg,13620.3583,-3615.1537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野内科消化器科医院,福井県坂井市春江町東太郎丸２３字２,内科　呼吸器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="大野内科消化器科医院" transform="ref(svg,13621.4541,-3612.9754)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤クリニック,福井県坂井市丸岡町柳２９,内科　泌尿器科,,,9" xlink:title="伊藤クリニック" transform="ref(svg,13626.8492,-3615.4007)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長井内科クリニック,福井県坂井市春江町為国中１４-１,内科　循環器内科,,,9" xlink:title="長井内科クリニック" transform="ref(svg,13622.6492,-3612.7842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,豊田内科医院,福井県坂井市春江町為国平成３２，３８,内科　呼吸器内科　循環器内科　リハビリテーション科,,,9" xlink:title="豊田内科医院" transform="ref(svg,13622.6599,-3613.3087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,キンダークリニックきかわ小児科,福井県坂井市春江町随応寺１３-１８,小児科,,,9" xlink:title="キンダークリニックきかわ小児科" transform="ref(svg,13621.6513,-3613.5493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つばさ内科クリニック,福井県坂井市丸岡町南横地４-４６-１,内科　循環器内科　神経内科,,,9" xlink:title="つばさ内科クリニック" transform="ref(svg,13624.848,-3612.4758)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,越前市国民健康保険坂口診療所,福井県越前市湯谷町２４-１８-１,内科,,,9" xlink:title="越前市国民健康保険坂口診療所" transform="ref(svg,13608.7087,-3585.9963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国民健康保険池田町診療所,福井県今立郡池田町薮田５-３-１,内科,,,9" xlink:title="国民健康保険池田町診療所" transform="ref(svg,13634.5838,-3589.5842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国民健康保険千代谷診療所,福井県今立郡池田町千代谷１５-６-３,内科,,,9" xlink:title="国民健康保険千代谷診療所" transform="ref(svg,13637.9966,-3593.2096)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平井医院,福井県今立郡池田町谷口５-１２-１,内科　循環器内科　小児科,,,9" xlink:title="平井医院" transform="ref(svg,13635.6586,-3590.5856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きむら小児科,福井県越前市瓜生町２９-１-１２,小児科,,,9" xlink:title="きむら小児科" transform="ref(svg,13618.1456,-3592.5669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,越前外科内科医院,福井県越前市北府２-１２‐１３,内科　循環器内科　消化器内科（胃腸内科）　腎臓内科　小児科　精神科　外科　循環器外科（心臓血管外科）　整形外科,,,9" xlink:title="越前外科内科医院" transform="ref(svg,13616.6313,-3591.3821)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,マルカ整形外科内科,福井県越前市吾妻町２-８,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="マルカ整形外科内科" transform="ref(svg,13617.0132,-3590.0654)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンライフクリニック,福井県越前市蓬莱町６-２４,内科　整形外科,,,9" xlink:title="サンライフクリニック" transform="ref(svg,13616.6923,-3590.2243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）斎藤医院,福井県越前市北府３-５-１,内科　小児科　歯科　小児歯科,,,9" xlink:title="（医）斎藤医院" transform="ref(svg,13616.5093,-3591.1407)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平井皮ふ科医院,福井県越前市上太田町４９-６-６,皮膚科　形成外科,,,9" xlink:title="平井皮ふ科医院" transform="ref(svg,13614.8347,-3590.1245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こうの内科耳鼻咽喉科,福井県越前市芝原５-１１-１,内科　耳鼻いんこう科,,,9" xlink:title="こうの内科耳鼻咽喉科" transform="ref(svg,13616.0806,-3592.2553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐々木医院,福井県越前市粟田部２９-３３,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　リハビリテーション科　放射線科,,,9" xlink:title="（医）佐々木医院" transform="ref(svg,13624.0907,-3591.6468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安養寺診療所,福井県越前市安養寺町８７-１,内科　小児科,,,9" xlink:title="安養寺診療所" transform="ref(svg,13607.6495,-3590.9953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一麦会東武内科外科クリニック,福井県越前市横市町６-３,内科　循環器内科　消化器内科（胃腸内科）　皮膚科　小児科　外科　泌尿器科　肛門外科　整形外科,,,9" xlink:title="（医）一麦会東武内科外科クリニック" transform="ref(svg,13619.2385,-3590.9405)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つがわ内科クリニック,福井県越前市岩本第２-１０４,内科　循環器内科　リウマチ科,,,9" xlink:title="つがわ内科クリニック" transform="ref(svg,13624.3816,-3590.8028)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）悠久会萩原医院,福井県越前市宮谷町３６-１０,内科　消化器内科（胃腸内科）　小児科　外科,,,9" xlink:title="（医）悠久会萩原医院" transform="ref(svg,13622.2977,-3589.1608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関医院,福井県越前市京町３-１-３３,内科　消化器内科（胃腸内科）　皮膚科　外科　泌尿器科,,,9" xlink:title="関医院" transform="ref(svg,13616.4135,-3590.4194)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井医院,福井県越前市文京１-６-２８,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　泌尿器科　産婦人科,,,9" xlink:title="藤井医院" transform="ref(svg,13616.0657,-3589.1129)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩堀診療所,福井県越前市高瀬１-１-２１,内科　皮膚科　小児科　外科,,,9" xlink:title="岩堀診療所" transform="ref(svg,13616.0548,-3589.7248)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福田胃腸科外科,福井県越前市高瀬１-３３-８,内科　消化器内科（胃腸内科）　小児科　外科　肛門外科　整形外科,,,9" xlink:title="（医）福田胃腸科外科" transform="ref(svg,13615.6959,-3589.3434)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山内医院,福井県越前市高瀬２-１-２７,内科　消化器内科（胃腸内科）　外科　泌尿器科　肛門外科　整形外科,,,9" xlink:title="山内医院" transform="ref(svg,13616.0799,-3590.022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しみずクリニック,福井県越前市国高１-３-１２,内科　皮膚科　小児科　外科　整形外科,,,9" xlink:title="しみずクリニック" transform="ref(svg,13618.6355,-3590.9201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平井眼科内科クリニック,福井県越前市芝原４-１０-２８,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　眼科,,,9" xlink:title="平井眼科内科クリニック" transform="ref(svg,13616.0979,-3591.9642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田耳鼻咽喉科医院,福井県越前市住吉町８-１３,耳鼻いんこう科,,,9" xlink:title="和田耳鼻咽喉科医院" transform="ref(svg,13616.9428,-3589.7853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋医院,福井県越前市菖蒲谷町２８-１,内科　小児科,,,9" xlink:title="高橋医院" transform="ref(svg,13604.9366,-3588.4155)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西武クリニック,福井県越前市上太田３７-１０-１,内科　消化器内科（胃腸内科）　外科　整形外科　リハビリテーション科,,,9" xlink:title="西武クリニック" transform="ref(svg,13614.6544,-3590.3213)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土川整形外科医院,福井県越前市常久町８-１,内科　リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="土川整形外科医院" transform="ref(svg,13616.339,-3588.8408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひらい医院,福井県越前市新町８-１-１１,内科　消化器内科（胃腸内科）,,,9" xlink:title="ひらい医院" transform="ref(svg,13615.2343,-3590.3115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久野内科医院,福井県越前市村国３-６２-１,内科　呼吸器内科　循環器内科　小児科,,,9" xlink:title="久野内科医院" transform="ref(svg,13618.1776,-3590.8012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つきおかクリニック,福井県越前市村国３-１-１２,内科　循環器内科　小児科　外科　耳鼻いんこう科,,,9" xlink:title="つきおかクリニック" transform="ref(svg,13617.7419,-3590.9256)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥村眼科医院,福井県越前市天王町２-２２,眼科,,,9" xlink:title="奥村眼科医院" transform="ref(svg,13616.7485,-3590.0601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）橋本整形クリニック,福井県越前市東千福町２３-１６,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）橋本整形クリニック" transform="ref(svg,13615.7278,-3589.1649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）はしもと小児科クリニック,福井県越前市帆山町１０-５-１,小児科,,,9" xlink:title="（医）はしもと小児科クリニック" transform="ref(svg,13617.6605,-3589.6021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田皮膚科医院,福井県越前市姫川２-３-３,皮膚科,,,9" xlink:title="吉田皮膚科医院" transform="ref(svg,13617.1347,-3589.6805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）野尻医院,福井県越前市平出１-１２-３７,内科　小児科,,,9" xlink:title="（医）野尻医院" transform="ref(svg,13615.977,-3590.9011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,末沢整形外科医院,福井県越前市平和町８-１７,外科　整形外科,,,9" xlink:title="末沢整形外科医院" transform="ref(svg,13616.3127,-3589.8624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩堀医院,福井県越前市平和町９-３,内科　消化器内科（胃腸内科）　皮膚科　外科　整形外科,,,9" xlink:title="岩堀医院" transform="ref(svg,13616.3535,-3589.8189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤医院,福井県越前市北町３０-４,内科　消化器内科（胃腸内科）　皮膚科　外科,,,9" xlink:title="加藤医院" transform="ref(svg,13620.6231,-3590.9913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）文生会井元産婦人科医院,福井県越前市堀川町６-２５,内科　産婦人科,,,9" xlink:title="（医）文生会井元産婦人科医院" transform="ref(svg,13617.2296,-3589.8304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,月岡医院,福井県越前市本多１-１０-１８,内科　消化器内科（胃腸内科）　外科,,,9" xlink:title="月岡医院" transform="ref(svg,13616.383,-3590.6085)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）堀川医院,福井県越前市本多１-６-７,小児科　耳鼻いんこう科,,,9" xlink:title="（医）堀川医院" transform="ref(svg,13616.2394,-3590.5274)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩堀メディカルオフィス,福井県越前市神明町４-１２,内科　小児科　泌尿器科,,,9" xlink:title="岩堀メディカルオフィス" transform="ref(svg,13616.816,-3589.8113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林医院,福井県越前市野岡町２１-３,内科　皮膚科　小児科,,,9" xlink:title="林医院" transform="ref(svg,13624.8783,-3592.4731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はやし内科外科,福井県越前市若竹町７-５,内科　呼吸器内科　消化器内科（胃腸内科）　外科,,,9" xlink:title="はやし内科外科" transform="ref(svg,13616.7697,-3589.4275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科アレルギー科やまもとクリニック,福井県越前市庄町１-１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科アレルギー科やまもとクリニック" transform="ref(svg,13619.1216,-3591.0204)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桑原心療内科クリニック,福井県越前市府中２-３-２２尾山ビル２Ｆ,神経科　精神科　心療内科,,,9" xlink:title="桑原心療内科クリニック" transform="ref(svg,13616.8878,-3590.4851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木水医院,福井県鯖江市旭町１-９-１,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　放射線科,,,9" xlink:title="木水医院" transform="ref(svg,13618.6831,-3594.3589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ともだち診療所,福井県鯖江市石田上町２３-１４,内科　小児科,,,9" xlink:title="ともだち診療所" transform="ref(svg,13616.1081,-3597.416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,丸山内科循環器科医院,福井県鯖江市上鯖江２-９-５,内科　循環器内科,,,9" xlink:title="丸山内科循環器科医院" transform="ref(svg,13617.8914,-3593.5784)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くぼたクリニック,福井県鯖江市糺町３０-２-１,内科　皮膚科　外科,,,9" xlink:title="くぼたクリニック" transform="ref(svg,13617.4686,-3597.2518)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）はやしクリニック,福井県鯖江市水落町２-２６-２８,内科　泌尿器科,,,9" xlink:title="（医）はやしクリニック" transform="ref(svg,13618.7132,-3596.3261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,品川クリニック,福井県鯖江市中野町５６-１-１,内科　消化器内科（胃腸内科）　小児科　外科　整形外科,,,9" xlink:title="品川クリニック" transform="ref(svg,13620.5771,-3595.3506)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしだ皮膚科クリニック,福井県鯖江市東鯖江１-３-１５,皮膚科　形成外科,,,9" xlink:title="いしだ皮膚科クリニック" transform="ref(svg,13619.6291,-3594.6188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津田クリニック,福井県鯖江市平井町４３-１,内科　精神科　心療内科　外科,,,9" xlink:title="津田クリニック" transform="ref(svg,13616.8576,-3595.7986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一乗医院,福井県鯖江市河和田町２８-１-１,内科　小児科,,,9" xlink:title="（医）一乗医院" transform="ref(svg,13627.1409,-3594.8165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鯖江清水眼科,福井県鯖江市旭町２-１-３０,眼科,,,9" xlink:title="鯖江清水眼科" transform="ref(svg,13618.8441,-3594.5358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）土屋医院,福井県鯖江市旭町３-６-２,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="（医）土屋医院" transform="ref(svg,13618.6701,-3594.6463)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高野医院,福井県鯖江市河和田町２０-４-１,内科　小児科　放射線科,,,9" xlink:title="高野医院" transform="ref(svg,13627.2898,-3595.107)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山岸医院,福井県鯖江市戸口町１５-１３-４,内科　呼吸器内科　循環器内科　小児科　外科　耳鼻いんこう科,,,9" xlink:title="山岸医院" transform="ref(svg,13624.6267,-3595.1645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）隆仁会嶋田整形外科医院,福井県鯖江市五郎丸町２５３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）隆仁会嶋田整形外科医院" transform="ref(svg,13619.0769,-3593.3389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みつや心療クリニック,福井県鯖江市五郎丸町２７３,精神科　心療内科,,,9" xlink:title="みつや心療クリニック" transform="ref(svg,13619.0666,-3593.3718)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）幸道眼科,福井県鯖江市幸町１-４-８,眼科,,,9" xlink:title="（医）幸道眼科" transform="ref(svg,13618.1104,-3597.4637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）今野内科,福井県鯖江市幸町１-２-１２,内科　循環器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="（医）今野内科" transform="ref(svg,13618.116,-3597.3916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊与整形外科,福井県鯖江市幸町２-５-３,整形外科　リハビリテーション科,,,9" xlink:title="伊与整形外科" transform="ref(svg,13618.1536,-3597.7438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）川口小児科,福井県鯖江市桜町２-８-２２,内科　小児科,,,9" xlink:title="（医）川口小児科" transform="ref(svg,13617.9869,-3594.6696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）柳沢医院,福井県鯖江市三六町１-２-５０,内科　小児科,,,9" xlink:title="（医）柳沢医院" transform="ref(svg,13617.8399,-3596.8141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはし内科婦人科医院,福井県鯖江市小黒町３-１１-２８,内科　小児科　産婦人科　リハビリテーション科,,,9" xlink:title="たかはし内科婦人科医院" transform="ref(svg,13617.4037,-3595.6381)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤産婦人科,福井県鯖江市水落町１-４-２１,内科　小児科　産婦人科,,,9" xlink:title="加藤産婦人科" transform="ref(svg,13618.198,-3596.1872)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田胃腸科・内科・外科医院,福井県鯖江市水落町４-１６-２４,内科　消化器内科（胃腸内科）　皮膚科　外科　肛門外科　整形外科,,,9" xlink:title="藤田胃腸科・内科・外科医院" transform="ref(svg,13618.6533,-3597.075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬場医院,福井県鯖江市杉本町１６-３,内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="馬場医院" transform="ref(svg,13616.9485,-3598.2053)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）きむら内科医院,福井県鯖江市中野町２５７-３-７,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）,,,9" xlink:title="（医）きむら内科医院" transform="ref(svg,13622.0709,-3594.7988)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,皮膚科鈴木医院,福井県鯖江市長泉寺町１-８-３６,皮膚科,,,9" xlink:title="皮膚科鈴木医院" transform="ref(svg,13618.6231,-3595.1895)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）野尻内科胃腸科医院,福井県鯖江市鳥羽町２-４-１６,内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="（医）野尻内科胃腸科医院" transform="ref(svg,13618.8428,-3598.8825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）産婦人科鈴木クリニック,福井県鯖江市東鯖江町４-２-２３,内科　小児科　産婦人科,,,9" xlink:title="（医）産婦人科鈴木クリニック" transform="ref(svg,13619.7935,-3594.7988)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鯖江内科医院,福井県鯖江市当田町１０-５-２,呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　放射線科,,,9" xlink:title="鯖江内科医院" transform="ref(svg,13616.3859,-3594.8374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）カマカズ医院,福井県鯖江市日の出５-４,アレルギー科　小児科　耳鼻いんこう科,,,9" xlink:title="（医）カマカズ医院" transform="ref(svg,13618.6861,-3594.2808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斎藤医院,福井県鯖江市本町３-１-２５,内科　消化器内科（胃腸内科）　皮膚科,,,9" xlink:title="斎藤医院" transform="ref(svg,13618.6166,-3594.7061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鯖江清水耳鼻咽喉科医院,福井県鯖江市本町４-１-２８,アレルギー科　耳鼻いんこう科,,,9" xlink:title="（医）鯖江清水耳鼻咽喉科医院" transform="ref(svg,13618.6099,-3594.8365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）前田医院,福井県鯖江市柳町１-７-１４,内科　小児科,,,9" xlink:title="（医）前田医院" transform="ref(svg,13618.952,-3594.6188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くまもと眼科クリニック,福井県鯖江市東鯖江１-４-２３,眼科,,,9" xlink:title="くまもと眼科クリニック" transform="ref(svg,13619.6298,-3594.5089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土屋耳鼻咽喉科クリニック,福井県鯖江市三六町２-４-１５,アレルギー科　耳鼻いんこう科,,,9" xlink:title="土屋耳鼻咽喉科クリニック" transform="ref(svg,13617.9407,-3597.2576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長田内科胃腸科医院,福井県丹生郡越前町江波５０-７６,内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="長田内科胃腸科医院" transform="ref(svg,13607.2278,-3594.2576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）整形外科大城医院,福井県丹生郡越前町江波７６-８７,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）整形外科大城医院" transform="ref(svg,13607.6502,-3594.1275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）橘医院,福井県丹生郡越前町織田１０１-２０,内科　消化器内科（胃腸内科）,,,9" xlink:title="（医）橘医院" transform="ref(svg,13605.21,-3596.0317)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀英会両林医院,福井県丹生郡越前町新保１２-１５,内科　消化器内科（胃腸内科）　小児科　リハビリテーション科,,,9" xlink:title="（医）秀英会両林医院" transform="ref(svg,13598.6816,-3594.9947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田医院,福井県丹生郡越前町西田中１６-１,内科　消化器内科（胃腸内科）　外科　肛門外科,,,9" xlink:title="藤田医院" transform="ref(svg,13613.0543,-3597.5233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,越前診療所,福井県丹生郡越前町米ノ４６-１-１,内科　消化器内科（胃腸内科）　小児科　リハビリテーション科,,,9" xlink:title="越前診療所" transform="ref(svg,13599.5906,-3589.1804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）藤島会（特養）藤島園医務室,福井県福井市高木町８２-３６-１,内科,,,9" xlink:title="（福）藤島会（特養）藤島園医務室" transform="ref(svg,13623.9479,-3609.1949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）弥生福祉会愛寿苑医務室,福井県福井市若杉町６６-１,内科　外科　胃腸科,,,9" xlink:title="（福）弥生福祉会愛寿苑医務室" transform="ref(svg,13619.0455,-3606.1492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひかり苑付属診療所,福井県吉田郡永平寺町村山王７-３０,内科　胃腸科　外科,,,9" xlink:title="（特養）ひかり苑付属診療所" transform="ref(svg,13639.5768,-3607.9915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井大学松岡地区保健センター,福井県吉田郡松岡町下合月第２３-３,一般内科,,,9" xlink:title="福井大学松岡地区保健センター" transform="ref(svg,13629.4105,-3610.8414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）永平寺ハウス医務室,福井県吉田郡永平寺町けやき台８１３-１,内科,,,9" xlink:title="（特養）永平寺ハウス医務室" transform="ref(svg,13631.7499,-3607.6865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井刑務所医務室,福井県福井市一本木町５２,不明,,,9" xlink:title="福井刑務所医務室" transform="ref(svg,13622.6458,-3605.2027)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あさむつ苑診療室,福井県福井市引目町２１字９-２,内科　外科,,,9" xlink:title="（特養）あさむつ苑診療室" transform="ref(svg,13619.7422,-3602.2397)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）森田福祉会たんぽぽ苑医務室,福井県福井市下森田町１０-９５,内科　外科,,,9" xlink:title="（福）森田福祉会たんぽぽ苑医務室" transform="ref(svg,13622.9227,-3611.0295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさくら苑診療所,福井県福井市下六条町１８字３２,内科　胃腸科　リウマチ科　消化器科　循環器科,,,9" xlink:title="あさくら苑診療所" transform="ref(svg,13622.9378,-3603.5177)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六条ホームやわらぎ医務室,福井県福井市下六条町２１７-４,内科,,,9" xlink:title="六条ホームやわらぎ医務室" transform="ref(svg,13623.4097,-3603.6665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）なの花医務室,福井県福井市加茂河原３-１-２２,整形外科,,,9" xlink:title="地域密着型（特養）なの花医務室" transform="ref(svg,13619.3138,-3606.3345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井市ふれ愛園診療所,福井県福井市花野谷町４３-４０-２,一般内科,,,9" xlink:title="福井市ふれ愛園診療所" transform="ref(svg,13628.5501,-3604.3244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こしの渚苑医務室,福井県福井市蒲生町１-９０,内科　小児科,,,9" xlink:title="（特養）こしの渚苑医務室" transform="ref(svg,13601.1169,-3603.8267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛全園診療所,福井県福井市丸山町４０-７,内科,,,9" xlink:title="愛全園診療所" transform="ref(svg,13625.1464,-3607.7656)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井県赤十字血液センター,福井県福井市月見３-３-２３,不明,,,9" xlink:title="福井県赤十字血液センター" transform="ref(svg,13620.8229,-3604.665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわにし苑医務室,福井県福井市砂子坂９-５,内科　外科,,,9" xlink:title="かわにし苑医務室" transform="ref(svg,13614.7201,-3614.623)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）美山友愛会（特養）美山貴寿苑,福井県福井市足羽郡美山町市波３１,内科　精神科,,,9" xlink:title="（福）美山友愛会（特養）美山貴寿苑" transform="ref(svg,13620.8462,-3606.0842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）福泉会軽費老人ホームケアハウス九頭竜,福井県福井市寺前町４-１４-２,不明,,,9" xlink:title="（福）福泉会軽費老人ホームケアハウス九頭竜" transform="ref(svg,13623.564,-3610.1172)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,足羽更生園医務室,福井県福井市宿布町第１９-４６-１,一般内科,,,9" xlink:title="足羽更生園医務室" transform="ref(svg,13630.3769,-3601.3004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井市保健センター,福井県福井市城東４-１４-３０,一般内科　婦人科　小児科　一般歯科,,,9" xlink:title="福井市保健センター" transform="ref(svg,13623.7546,-3605.9099)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）新田塚ハウス診療室,福井県福井市新田塚１-４２-１,内科　精神科,,,9" xlink:title="（特養）新田塚ハウス診療室" transform="ref(svg,13620.595,-3609.229)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,県民健康センター診療所,福井県福井市真栗町４７-４８,一般内科,,,9" xlink:title="県民健康センター診療所" transform="ref(svg,13613.9412,-3601.4708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井県福井健康福祉センター,福井県福井市西木田２-８-８,不明,,,9" xlink:title="福井県福井健康福祉センター" transform="ref(svg,13621.3954,-3605.466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井市職員診療所,福井県福井市大手３-１０-１,一般内科,,,9" xlink:title="福井市職員診療所" transform="ref(svg,13621.8747,-3606.3753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地方職員（共済）福井県支部診療所,福井県福井市大手３-１７-１,一般内科,,,9" xlink:title="地方職員（共済）福井県支部診療所" transform="ref(svg,13622.1641,-3606.522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,老人ホーム山翠苑医務室,福井県福井市竪達町２４-１,一般内科　一般外科,,,9" xlink:title="老人ホーム山翠苑医務室" transform="ref(svg,13627.1146,-3607.4976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パナソニック（株）オートモーティブ＆インダストリアルシステムズ社回路部品事業部森田健康管理室,福井県福井市定正町４０１,一般内科,,,9" xlink:title="パナソニック（株）オートモーティブ＆インダストリアルシステムズ社回路部品事業部森田健康管理室" transform="ref(svg,13622.5724,-3612.0411)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井県心身障害者コロニー若越ひかりの村診療所,福井県福井市島寺町６７字大久保３０,一般内科　精神科,,,9" xlink:title="福井県心身障害者コロニー若越ひかりの村診療所" transform="ref(svg,13613.9712,-3601.8971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）すみれ荘医務室,福井県福井市島寺町８３-１,一般内科,,,9" xlink:title="（特養）すみれ荘医務室" transform="ref(svg,13614.2386,-3601.7408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）すいせんの里すだちの家医務室,福井県福井市東大味町９-１５,一般内科,,,9" xlink:title="（福）すいせんの里すだちの家医務室" transform="ref(svg,13626.0029,-3599.4547)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）宝珠苑,福井県福井市内山梨子町２-３-１,内科,,,9" xlink:title="（特養）宝珠苑" transform="ref(svg,13615.737,-3613.4901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）福井県労働衛生センター附属診療所,福井県福井市日光１-３-１０,一般内科,,,9" xlink:title="（公財）福井県労働衛生センター附属診療所" transform="ref(svg,13620.3006,-3607.1871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北陸電力福井診療所,福井県福井市日之出１-１６-１５,一般内科,,,9" xlink:title="北陸電力福井診療所" transform="ref(svg,13622.5684,-3606.2831)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,全国土木建築国民（健保）中部健康管理センター,福井県福井市日之出３-２-１村中建設（株）内,内科,,,9" xlink:title="全国土木建築国民（健保）中部健康管理センター" transform="ref(svg,13622.771,-3606.1279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ＨＯＭＥ　ＴＯＷＮ　コスモス医務室,福井県福井市帆谷町１字外山３３,一般内科,,,9" xlink:title="（特養）ＨＯＭＥ　ＴＯＷＮ　コスモス医務室" transform="ref(svg,13623.5937,-3600.7503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井大学保健管理センター,福井県福井市文京３-９-１,一般内科,,,9" xlink:title="福井大学保健管理センター" transform="ref(svg,13621.1378,-3607.5657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）文珠苑医務室,福井県福井市北山町３５字反町５-１,一般内科,,,9" xlink:title="（特養）文珠苑医務室" transform="ref(svg,13625.0813,-3600.1538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）高雄苑医務室,福井県福井市本堂町５１-３３,内科　外科,,,9" xlink:title="（特養）高雄苑医務室" transform="ref(svg,13612.6684,-3605.6483)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）悠和園医務室,福井県福井市免鳥町２２-７４,内科　循環器科　呼吸器科　消化器科,,,9" xlink:title="（特養）悠和園医務室" transform="ref(svg,13607.4891,-3613.0983)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,全国土木建築国民（健保）関西健康管理センター,福井県福井市問屋町３-３０４大鉄工業-竃k陸支店福井営業所,不明,,,9" xlink:title="全国土木建築国民（健保）関西健康管理センター" transform="ref(svg,13625.2988,-3605.3329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（財）福井県予防医学協会附属診療所,福井県福井市和田２-１００６,一般内科,,,9" xlink:title="（財）福井県予防医学協会附属診療所" transform="ref(svg,13624.1657,-3604.85)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,モアヤングこもれびホーム診療所,福井県福井市和田中町東沖田３０-１,一般内科,,,9" xlink:title="モアヤングこもれびホーム診療所" transform="ref(svg,13625.7258,-3605.0359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小規模（特養）花むつ苑医務室,福井県福井市花堂中１-５-６,内科,,,9" xlink:title="小規模（特養）花むつ苑医務室" transform="ref(svg,13621.5312,-3603.9157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設第二ひかり苑泉水の郷医務室,福井県福井市今泉町２５字１５-１,内科,,,9" xlink:title="地域密着型介護老人福祉施設第二ひかり苑泉水の郷医務室" transform="ref(svg,13625.3447,-3606.8074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設東安居苑医務室,福井県福井市大瀬町２３-１０１,内科,,,9" xlink:title="地域密着型介護老人福祉施設東安居苑医務室" transform="ref(svg,13618.5057,-3606.969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本ホームやわらぎ医務室,福井県福井市松本１-２-１９,内科　皮膚科,,,9" xlink:title="松本ホームやわらぎ医務室" transform="ref(svg,13623.2304,-3607.1594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）たぶのき診療所,福井県福井市大願寺３-３-６,内科,,,9" xlink:title="（特養）たぶのき診療所" transform="ref(svg,13622.8185,-3608.169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あるば・あい医務室,福井県福井市日之出３-１６-１８,内科　整形外科,,,9" xlink:title="（特養）あるば・あい医務室" transform="ref(svg,13623.0021,-3606.1795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）あわら病院所属所,福井県あわら市北潟２３８-４３,一般内科　呼吸器内科　循環器内科　リウマチ科　神経内科　血液内科　一般外科　呼吸器外科　心臓血管外科　整形外科　リハビリテーション科　皮膚科　眼科　小児科,,,9" xlink:title="厚生労働省第二（共済）あわら病院所属所" transform="ref(svg,13621.1883,-3625.5847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設金津サンホーム医務室,福井県あわら市花乃杜３-２２-１２,内科　胃腸科　歯科,,,9" xlink:title="障害者支援施設金津サンホーム医務室" transform="ref(svg,13622.3623,-3622.2429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パナソニック（株）オートモーティブ＆インダストリアルシステムズ社回路部品事業部金津健康管理室,福井県あわら市伊井５字,一般内科,,,9" xlink:title="パナソニック（株）オートモーティブ＆インダストリアルシステムズ社回路部品事業部金津健康管理室" transform="ref(svg,13624.1508,-3619.9057)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）芦原メロン苑医務室,福井県あわら市井江葭５０-１８,整形　形成外科　内科,,,9" xlink:title="（特養）芦原メロン苑医務室" transform="ref(svg,13621.8481,-3624.036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あわら市金津雲雀ケ丘寮医務室,福井県あわら市春宮３-２８-２１,一般内科,,,9" xlink:title="あわら市金津雲雀ケ丘寮医務室" transform="ref(svg,13622.7531,-3621.996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂井健康福祉センター,福井県あわら市春宮２-２１-１７,不明,,,9" xlink:title="坂井健康福祉センター" transform="ref(svg,13623.1336,-3621.8447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設潟池野医務室,福井県坂井市坂井町下関４２字４-２,内科　外科,,,9" xlink:title="地域密着型介護老人福祉施設潟池野医務室" transform="ref(svg,13622.8387,-3619.0844)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ガーデンハイツ春江診療所,福井県坂井市春江町針原４８-２８-１,外科　内科,,,9" xlink:title="（特養）ガーデンハイツ春江診療所" transform="ref(svg,13620.7384,-3612.8604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東尋坊クリニック,福井県坂井市三国町陣ケ岡３５-１東尋坊ハイツ内,内科,,,9" xlink:title="東尋坊クリニック" transform="ref(svg,13613.5832,-3623.4908)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長寿園医務室,福井県坂井市丸岡町八ヶ郷２２-４,内科,,,9" xlink:title="（特養）長寿園医務室" transform="ref(svg,13627.8675,-3616.0608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長寿の郷医務室,福井県坂井市丸岡町八ヶ郷２２-５,内科,,,9" xlink:title="（特養）長寿の郷医務室" transform="ref(svg,13627.8392,-3616.0647)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）豊楽園医務室,福井県坂井市坂井町下関４２-４-１,外科,,,9" xlink:title="（特養）豊楽園医務室" transform="ref(svg,13622.8718,-3619.0703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パナソニック施設照明（株）福井工場健康管理室,福井県坂井市坂井町五本３８-１,一般内科,,,9" xlink:title="パナソニック施設照明（株）福井工場健康管理室" transform="ref(svg,13623.5876,-3617.491)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白楽荘医務室,福井県坂井市三国町梶４９字１８,内科,,,9" xlink:title="白楽荘医務室" transform="ref(svg,13615.5458,-3624.5929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設ケアセンターゆり医務室,福井県坂井市春江町本堂２７字１-１,内科,,,9" xlink:title="地域密着型介護老人福祉施設ケアセンターゆり医務室" transform="ref(svg,13620.3898,-3613.8778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かがやき荘医務室,福井県坂井市三国町陣ヶ丘第１３-３,内科,,,9" xlink:title="かがやき荘医務室" transform="ref(svg,13613.7743,-3623.4157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生喜庵医務室,福井県坂井市丸岡町長畝１６字八ツ割３-１,内科,,,9" xlink:title="生喜庵医務室" transform="ref(svg,13627.4354,-3616.9859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）福井村田製作所武生営業所健康管理室,福井県越前市岡本町１３-１,一般内科,,,9" xlink:title="（株）福井村田製作所武生営業所健康管理室" transform="ref(svg,13614.4652,-3589.894)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム太子園,福井県越前市西谷町１５-９-１,内科,,,9" xlink:title="養護老人ホーム太子園" transform="ref(svg,13619.0104,-3587.8361)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）一陽会（特養）エレガントセニールガーデン医務室,福井県鯖江市吉江町３１-７-１,内科,,,9" xlink:title="（福）一陽会（特養）エレガントセニールガーデン医務室" transform="ref(svg,13616.8302,-3598.6754)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和上苑診療所,福井県越前市瓜生町３３-２０-１,内科,,,9" xlink:title="和上苑診療所" transform="ref(svg,13617.7501,-3592.4082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設若越みどりの村医務室,福井県越前市萱谷町２字１２-１,内科,,,9" xlink:title="障害者支援施設若越みどりの村医務室" transform="ref(svg,13623.0737,-3587.9864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）水仙園医務室,福井県越前市萱谷町４字９-１,内科　整形外科,,,9" xlink:title="（特養）水仙園医務室" transform="ref(svg,13623.272,-3587.8703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アイシン・エイ・ダブリュ工業（株）医務室,福井県越前市池ノ上町３８,内科　外科,,,9" xlink:title="アイシン・エイ・ダブリュ工業（株）医務室" transform="ref(svg,13614.7122,-3588.0304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）メゾンいまだて医務室,福井県越前市東樫尾８-３８,内科,,,9" xlink:title="（特養）メゾンいまだて医務室" transform="ref(svg,13628.2945,-3593.8216)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,第２和上苑診療所,福井県越前市白崎３４-２-１,内科,,,9" xlink:title="第２和上苑診療所" transform="ref(svg,13614.512,-3586.447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）わかたけ共済部養護老人ホーム越前市寿楽園,福井県越前市白崎町３４-２-１,内科　整形外科,,,9" xlink:title="（福）わかたけ共済部養護老人ホーム越前市寿楽園" transform="ref(svg,13614.512,-3586.447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）陽光会知的障害者厚生施設あいの里医務室,福井県越前市白崎町３５字１１-１,内科,,,9" xlink:title="（福）陽光会知的障害者厚生施設あいの里医務室" transform="ref(svg,13614.3648,-3586.4503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井県丹南健康福祉センター武生福祉保健部,福井県越前市文京２-１３-３９,内科　小児科　放射線科,,,9" xlink:title="福井県丹南健康福祉センター武生福祉保健部" transform="ref(svg,13616.3275,-3589.2372)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,信越化学武生工場医務室,福井県越前市北府２-１-５,内科,,,9" xlink:title="信越化学武生工場医務室" transform="ref(svg,13616.9416,-3591.2086)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）幸寿苑医務室,福井県今立郡池田町常安２０-５,内科,,,9" xlink:title="（特養）幸寿苑医務室" transform="ref(svg,13634.3994,-3587.7691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）日野会（特養）五岳園医務室,福井県鯖江市漆原町２０-８,内科　消化器内科（胃腸内科）,,,9" xlink:title="（福）日野会（特養）五岳園医務室" transform="ref(svg,13614.552,-3593.8588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井県丹南健康福祉センター,福井県鯖江市水落町１-２-２５,内科　小児科　放射線科,,,9" xlink:title="福井県丹南健康福祉センター" transform="ref(svg,13618.2394,-3595.9925)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ことぶき荘診療所,福井県鯖江市大野町３-１,内科,,,9" xlink:title="ことぶき荘診療所" transform="ref(svg,13622.8396,-3597.8076)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）シルバーハイツ宮崎医務室,福井県丹生郡越前町小曽原７５-３５,内科,,,9" xlink:title="（特養）シルバーハイツ宮崎医務室" transform="ref(svg,13606.649,-3592.8418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やすらぎ荘医務室,福井県丹生郡越前町織田８３-２４-１,内科　外科,,,9" xlink:title="（特養）やすらぎ荘医務室" transform="ref(svg,13605.9318,-3595.6357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）光道園第３光が丘ハウス医務室,福井県丹生郡越前町朝日２２-７-１,内科,,,9" xlink:title="（福）光道園第３光が丘ハウス医務室" transform="ref(svg,13611.9688,-3597.0953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）海楽園医務室,福井県丹生郡越前町米ノ４６-１-１,内科　リハビリテーション科,,,9" xlink:title="（特養）海楽園医務室" transform="ref(svg,13599.5906,-3589.1804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,第３和上苑診療所,福井県越前市高木町１２-７-１,内科,,,9" xlink:title="第３和上苑診療所" transform="ref(svg,13619.0494,-3592.8207)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12937.5 -3375.0 70.3125 70.3125" go:dataArea="12937.5 -3375.0 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,（医）松籟会松籟病院,佐賀県唐津市鏡４３０４-１,内科　心療内科　内科　精神科,,,4" xlink:title="（医）松籟会松籟病院" transform="ref(svg,13001.1665,-3344.0607)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,唐津赤十字病院,佐賀県唐津市二夕子１-５-１,内科　呼吸器科　消化器科　循環器科　小児科　外科　整形外科　形成外科　脳神経外科　眼科　耳鼻いんこう科　皮膚科　泌尿器科　産婦人科　歯科　歯科口腔外科　精神神経科　内科　放射線科　乳腺外科　糖尿病科　内科　腎臓内科　内科　消化器科　内科　血液内科　内科,循環器科　内科,,2" xlink:title="唐津赤十字病院" transform="ref(svg,12995.7833,-3345.6372)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（福）恩賜財団済生会支部佐賀県済生会唐津病院,佐賀県唐津市元旗町８１７,内科　呼吸器科　消化器科　循環器科　外科　整形外科　呼吸器外科　耳鼻いんこう科　精神神経科　内科　リハビリテーション科　放射線科　消化器外科,,,2" xlink:title="（福）恩賜財団済生会支部佐賀県済生会唐津病院" transform="ref(svg,12996.3119,-3345.5049)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）久保田産婦人科・麻酔科病院,佐賀県唐津市大石町２４５５,産科　婦人科　麻酔科,,,4" xlink:title="（医）久保田産婦人科・麻酔科病院" transform="ref(svg,12997.5324,-3344.6388)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）優なぎ会森本病院,佐賀県唐津市坊主町４４１,内科　心療内科　内科　精神科,,,4" xlink:title="（医）優なぎ会森本病院" transform="ref(svg,12996.6997,-3345.2936)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）整和会副島整形外科病院,佐賀県唐津市和多田天満町１-２-１,整形外科　リハビリテーション科,,,4" xlink:title="（医）整和会副島整形外科病院" transform="ref(svg,12998.6968,-3343.2828)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,新屋敷病院,佐賀県唐津市相知町町切８９８-３,内科　外科　眼科　リハビリテーション科,,,4" xlink:title="新屋敷病院" transform="ref(svg,13003.9345,-3332.6543)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）松籟会河畔病院,佐賀県唐津市松南町１１９-２,内科　呼吸器科　胃腸科　循環器科　外科　整形外科　脳神経外科　神経内科　リハビリテーション科　放射線科　緩和ケア内科,,,4" xlink:title="（医）松籟会河畔病院" transform="ref(svg,12999.6754,-3343.86)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,唐津第一病院,佐賀県唐津市朝日町１０７１-４,内科　呼吸器科　消化器科　循環器科　外科　歯科　矯正歯科　歯科口腔外科　精神神経科　内科　リハビリテーション科,,,4" xlink:title="唐津第一病院" transform="ref(svg,12996.3495,-3345.2165)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）修腎会藤崎病院,佐賀県唐津市栄町２５７６-９,内科　循環器科　皮膚科　泌尿器科,,,4" xlink:title="（医）修腎会藤崎病院" transform="ref(svg,12997.7492,-3344.7097)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）平川病院,佐賀県唐津市山本６４４-５,内科　胃腸科　外科　脳神経外科　麻酔科,,,4" xlink:title="（医）平川病院" transform="ref(svg,12997.972,-3339.392)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,唐津東松浦医師会医療センター,佐賀県唐津市千代田町２５６６-１１,内科　胃腸科　外科　リハビリテーション科　放射線科,,,6" xlink:title="唐津東松浦医師会医療センター" transform="ref(svg,12997.453,-3344.8478)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）尚誠会冬野病院,佐賀県唐津市相知町相知２２６４,内科　胃腸科　外科,,,4" xlink:title="（医）尚誠会冬野病院" transform="ref(svg,13000.7216,-3335.1384)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）至誠堂宇都宮病院,佐賀県唐津市厳木町本山３８６-１,内科　呼吸器科　消化器科　循環器科　耳鼻いんこう科　皮膚科　リハビリテーション科,,,4" xlink:title="（医）至誠堂宇都宮病院" transform="ref(svg,13003.6874,-3333.1313)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,からつ医療福祉センター,佐賀県唐津市双水２８０６,小児科　整形外科　泌尿器科　歯科　リハビリテーション科,,,6" xlink:title="からつ医療福祉センター" transform="ref(svg,12998.4297,-3339.6835)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）賛健会城内病院,佐賀県唐津市南城内２-１７,内科　循環器科　外科　整形外科　リハビリテーション科　麻酔科,,,4" xlink:title="（医）賛健会城内病院" transform="ref(svg,12996.981,-3344.9846)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,唐津市民病院きたはた,佐賀県唐津市北波多徳須恵１４２４-１,内科　小児科　整形外科　耳鼻いんこう科　リハビリテーション科,,,2" xlink:title="唐津市民病院きたはた" transform="ref(svg,12994.6055,-3337.4353)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,虹と海のホスピタル,佐賀県唐津市原８４２-１,内科　歯科　心療内科　内科　精神科,,,4" xlink:title="虹と海のホスピタル" transform="ref(svg,12999.7046,-3341.9153)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,堀田病院,佐賀県伊万里市立花町２９７４-５,内科　精神科　神経科,,,4" xlink:title="堀田病院" transform="ref(svg,12988.6482,-3326.937)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,社会保険浦之崎病院,佐賀県伊万里市山代町立岩４１７,内科　呼吸器科　消化器科　循環器科　外科　整形外科　眼科　耳鼻いんこう科　こう門科　皮膚科　リハビリテーション科,,,3" xlink:title="社会保険浦之崎病院" transform="ref(svg,12979.1834,-3333.4028)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,隅田病院,佐賀県伊万里市立花町４０００,内科　呼吸器科　胃腸科　循環器科,,,4" xlink:title="隅田病院" transform="ref(svg,12988.3049,-3327.3732)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,小島病院,佐賀県伊万里市黒川町塩屋２０５-１,内科　精神科　リハビリテーション科,,,4" xlink:title="小島病院" transform="ref(svg,12985.1491,-3333.0936)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）朋友会山口病院,佐賀県伊万里市新天町３０５,内科　消化器科　循環器科　整形外科　リハビリテーション科,,,4" xlink:title="（医）朋友会山口病院" transform="ref(svg,12987.4802,-3326.856)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,口石病院,佐賀県伊万里市立花町４０６０-２,内科　整形外科　リハビリテーション科,,,4" xlink:title="口石病院" transform="ref(svg,12988.2986,-3327.6128)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）森病院,佐賀県西松浦郡有田町白川２-５-１,内科　呼吸器科　胃腸科　循環器科　外科　整形外科,,,4" xlink:title="（医）森病院" transform="ref(svg,12989.4958,-3319.1184)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,伊万里有田共立病院,佐賀県西松浦郡有田町二ノ瀬甲８６０,内科　呼吸器科　消化器科　循環器科　小児科　外科　整形外科　脳神経外科　眼科　耳鼻いんこう科　泌尿器科　婦人科　精神神経科　内科　消化器外科　胸部外科　糖尿病・内分泌科,,,2" xlink:title="伊万里有田共立病院" transform="ref(svg,12985.0928,-3323.9635)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,山のサナーレ・クリニック,佐賀県伊万里市立花町３２３-２,心療内科　精神科　神経科,,,4" xlink:title="山のサナーレ・クリニック" transform="ref(svg,12987.7893,-3325.7457)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,西田病院,佐賀県伊万里市山代町楠久８９０-２,内科　呼吸器科　消化器科　外科　呼吸器外科　こう門科　リハビリテーション科　放射線科　麻酔科　乳腺外科　緩和ケア内科　人工透析内科,,,4" xlink:title="西田病院" transform="ref(svg,12981.678,-3329.6959)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,山元記念病院,佐賀県伊万里市二里町八谷搦８８-４,内科　胃腸科　循環器科　外科　整形外科　脳神経外科　呼吸器外科　心臓血管外科　リハビリテーション科　放射線科　麻酔科,,,4" xlink:title="山元記念病院" transform="ref(svg,12987.0979,-3327.4499)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,前田病院,佐賀県伊万里市立花町２７４２-１,内科　整形外科　リハビリテーション科　漢方内科　内科　糖尿病科　内科　腎臓内科　内科　消化器科　内科　血液内科　内科　呼吸器科　内科,,,4" xlink:title="前田病院" transform="ref(svg,12989.0154,-3326.5092)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）浄心会園田病院,佐賀県武雄市武雄町武雄４０１７,心療内科　精神科　神経科,,,4" xlink:title="（医）浄心会園田病院" transform="ref(svg,13001.2152,-3318.6379)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）敬和会持田病院,佐賀県武雄市武雄町武雄５８５８-１,内科,,,4" xlink:title="（医）敬和会持田病院" transform="ref(svg,13000.9294,-3318.9529)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大野病院,佐賀県武雄市山内町大野６３５１-１,内科　リハビリテーション科,,,4" xlink:title="大野病院" transform="ref(svg,12993.9283,-3321.0581)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）陽明会樋口病院,佐賀県嬉野市塩田町馬場下甲１,内科　小児科　整形外科　耳鼻いんこう科　リハビリテーション科,,,4" xlink:title="（医）陽明会樋口病院" transform="ref(svg,13006.2251,-3313.313)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構嬉野医療センター,佐賀県嬉野市嬉野町大字下宿丙２４３６,呼吸器科　消化器科　循環器科　小児科　外科　整形外科　脳神経外科　心臓血管外科　眼科　耳鼻いんこう科　皮膚科　泌尿器科　産婦人科　リウマチ科　神経内科　リハビリテーション科　放射線科　麻酔科　救急科　腎臓内科　血液内科,,,1" xlink:title="（独）国立病院機構嬉野医療センター" transform="ref(svg,12997.842,-3309.9214)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,嬉野温泉病院,佐賀県嬉野市嬉野町下宿乙１９１９,内科　眼科　皮膚科　泌尿器科　精神科　リハビリテーション科,,,4" xlink:title="嬉野温泉病院" transform="ref(svg,12997.6164,-3310.0296)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,福田病院,佐賀県嬉野市嬉野町下宿甲４７１４-１０,呼吸器科　胃腸科　外科　整形外科　形成外科　脳神経外科　歯科　リハビリテーション科　放射線科,,,4" xlink:title="福田病院" transform="ref(svg,12999.5505,-3310.241)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,副島整形外科病院,佐賀県武雄市武雄町富岡７６４１-１,整形外科　形成外科　リハビリテーション科　麻酔科,,,4" xlink:title="副島整形外科病院" transform="ref(svg,13001.6753,-3319.666)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,新武雄病院,佐賀県武雄市武雄町富岡１２６２８,内科　呼吸器科　消化器科　循環器科　外科　整形外科　脳神経外科　呼吸器外科　泌尿器科　リウマチ科　リハビリテーション科　放射線科　麻酔科　救急科,,,6" xlink:title="新武雄病院" transform="ref(svg,13003.5005,-3319.8026)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）陽明会宮原病院,長崎県佐世保市藤原町４６-５,精神科,,,4" xlink:title="（医）陽明会宮原病院" transform="ref(svg,12974.4309,-3316.1662)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）成蹊会佐世保北病院,長崎県佐世保市下本山町４３２-１,心療内科　精神科　内科,,,4" xlink:title="（医）成蹊会佐世保北病院" transform="ref(svg,12968.3066,-3320.7895)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）愛恵会佐世保愛恵病院,長崎県佐世保市瀬戸越４-２-１５,心療内科　精神科,,,4" xlink:title="（医）愛恵会佐世保愛恵病院" transform="ref(svg,12972.5574,-3320.7861)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）慶友会西海病院,長崎県佐世保市権常寺町１５００,心療内科　精神科,,,4" xlink:title="（医）慶友会西海病院" transform="ref(svg,12980.3695,-3313.2178)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）慶仁会天神病院,長崎県佐世保市天神５-２３-３１,神経科　精神科,,,4" xlink:title="（医）慶仁会天神病院" transform="ref(svg,12973.5694,-3314.7252)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）わかば会俵町浜野病院,長崎県佐世保市俵町２２-１,こう門科　リハビリテーション科　外科　呼吸器科　循環器科　消化器科　整形外科　内科,,,4" xlink:title="（医）わかば会俵町浜野病院" transform="ref(svg,12971.8456,-3318.7737)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,京町内科病院,長崎県佐世保市本島町１-２０,胃腸科　呼吸器科　循環器科　内科　放射線科,,,4" xlink:title="京町内科病院" transform="ref(svg,12972.3032,-3317.1087)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,佐世保記念病院,長崎県佐世保市鹿子前町１０４,リハビリテーション科　外科　整形外科　内科,,,4" xlink:title="佐世保記念病院" transform="ref(svg,12968.3315,-3315.6806)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,杏林病院,長崎県佐世保市早苗町４９１-１４,こう門科　リハビリテーション科　胃腸科　外科　呼吸器科　循環器科　消化器科　整形外科　内科　泌尿器科　脳神経外科　放射線科,,,5" xlink:title="杏林病院" transform="ref(svg,12980.0082,-3314.0428)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）是心会久保内科病院,長崎県佐世保市田原町１１-９,循環器科　消化器科　神経内科　内科　放射線科　リハビリテーション科,,,4" xlink:title="（医）是心会久保内科病院" transform="ref(svg,12972.1458,-3320.7047)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）佐世保同仁会佐世保同仁会病院,長崎県佐世保市浜田町１-６,アレルギー科　リウマチ科　リハビリテーション科　胃腸科　呼吸器科　循環器科　消化器科　整形外科　内科　放射線科,,,4" xlink:title="（医）佐世保同仁会佐世保同仁会病院" transform="ref(svg,12971.7467,-3317.5769)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）愛和会村上内科病院,長崎県佐世保市城山町３-２１,呼吸器内科　循環器内科　消化器内科　内科　リハビリテーション科,,,4" xlink:title="（医）愛和会村上内科病院" transform="ref(svg,12971.7207,-3318.3512)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）佐世保同仁会サン・レモリハビリ病院,長崎県佐世保市江上町４８４８-１,リウマチ科　リハビリテーション科　神経内科　整形外科　内科　放射線科　外科,,,4" xlink:title="（医）佐世保同仁会サン・レモリハビリ病院" transform="ref(svg,12978.484,-3306.9273)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）佐世保晩翠会村上病院,長崎県佐世保市早岐１-６-２２,産婦人科　内科,,,4" xlink:title="（医）佐世保晩翠会村上病院" transform="ref(svg,12979.7129,-3313.6574)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）雄人会三川内病院,長崎県佐世保市三川内本町２９０,こう門科　リハビリテーション科　胃腸科　外科　内科　麻酔科,,,4" xlink:title="（医）雄人会三川内病院" transform="ref(svg,12982.8964,-3315.1594)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,千住病院,長崎県佐世保市宮地町５-５,リハビリテーション科　呼吸器内科　循環器内科　消化器内科　人工透析内科　腎臓内科　糖尿病・内分泌内科　内科　神経内科　血液内科,,,4" xlink:title="千住病院" transform="ref(svg,12972.2303,-3317.4346)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）光省会福田外科病院,長崎県佐世保市藤原町３８-３,胃腸科　外科　整形外科　放射線科　麻酔科　リハビリテーション科,,,4" xlink:title="（医）光省会福田外科病院" transform="ref(svg,12974.052,-3316.1237)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,佐世保市立総合病院,長崎県佐世保市平瀬町９-３,内科　血液内科　腎臓内科　糖尿病内分泌内科　呼吸器内科　消化器内科　循環器内科　神経内科　小児科　外科　整形外科　皮膚科　泌尿器科　産婦人科　眼科　耳鼻科　放射線科　歯科　麻酔科　リハビリテーション科　形成外科　脳神経外科　病理診断科　乳腺外科,呼吸器外科　消化器外科　救急集中治療科,,2" xlink:title="佐世保市立総合病院" transform="ref(svg,12971.5896,-3317.2941)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）労働者健康福祉機構長崎労災病院,長崎県佐世保市瀬戸越２-１２-５,リハビリテーション科　外科　眼科　形成外科　耳鼻いんこう科　循環器科　整形外科　内科　脳神経外科　泌尿器科　皮膚科　放射線科　麻酔科,,,1" xlink:title="（独）労働者健康福祉機構長崎労災病院" transform="ref(svg,12973.2712,-3320.9745)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,自衛隊佐世保病院,長崎県佐世保市平瀬町官有無番地,リハビリテーション科　外科　歯科　整形外科　内科　泌尿器科　皮膚科　麻酔科,,,1" xlink:title="自衛隊佐世保病院" transform="ref(svg,12971.4033,-3317.239)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（国共連）佐世保共済病院,長崎県佐世保市島地町１０-１７,リハビリテーション科　外科　眼科　産婦人科　歯科口腔外科　耳鼻いんこう科　循環器内科　小児科　整形外科　脳神経外科　泌尿器科　皮膚科　放射線科　麻酔科　消化器内科　呼吸器内科　腎臓内科　糖尿病内科　病理診断科,,,3" xlink:title="（国共連）佐世保共済病院" transform="ref(svg,12971.9589,-3317.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,佐世保中央病院,長崎県佐世保市大和町１５,内科　循環器内科　消化器内科　糖尿病内科　内分泌内科　腎臓内科　人工透析内科　内視鏡内科　小児科　神経内科　リウマチ科　外科　消化器外科　内分泌外科　内視鏡外科　乳腺外科　大腸・肛門外科　胸部外科　整形外科　脳神経外科　心臓外科　眼科　耳鼻咽喉科,皮膚科　泌尿器科　リハビリテーション科　放射線科　麻酔科　病理診断科　臨床検査科　救急科　放射線治療科　呼吸器内科,,4" xlink:title="佐世保中央病院" transform="ref(svg,12974.9199,-3315.761)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,燿光リハビリテーション病院,長崎県佐世保市山手町８５５-１,リハビリテーション科　内科,,,4" xlink:title="燿光リハビリテーション病院" transform="ref(svg,12972.9825,-3318.2087)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）敬仁会松浦病院,長崎県佐世保市世知原町栗迎９-１,神経科　精神科　内科,,,4" xlink:title="（医）敬仁会松浦病院" transform="ref(svg,12974.7361,-3325.8926)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（地独）北松中央病院,長崎県佐世保市江迎町赤坂免２９９,リハビリテーション科　外科　呼吸器内科　循環器内科　消化器内科　神経内科　腎臓内科　整形外科　糖尿病・代謝内科　内科　内分泌内科　脳神経外科　放射線科,,,2" xlink:title="（地独）北松中央病院" transform="ref(svg,12963.9293,-3329.7623)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）十全会潜竜徳田循環器科内科整形外科病院,長崎県佐世保市江迎町田ノ元免４６７,外科　循環器科　小児科　整形外科　内科　皮膚科　リハビリテーション科,,,4" xlink:title="（医）十全会潜竜徳田循環器科内科整形外科病院" transform="ref(svg,12968.2336,-3328.2084)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,長崎セント・ノーヴァ病院,長崎県西海市西彼町伊ノ浦郷１２７,リハビリテーション科　外科　整形外科　内科　循環器内科　皮膚科,,,4" xlink:title="長崎セント・ノーヴァ病院" transform="ref(svg,12974.6558,-3305.5826)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構長崎川棚医療センター,長崎県東彼杵郡川棚町下組郷２００５-１,リハビリテーション科　外科　感染症内科　呼吸器外科　呼吸器内科　歯科　循環器内科　消化器内科　神経内科　整形外科　代謝内科　内科　脳神経外科　皮膚科　放射線科　麻酔科,,,1" xlink:title="（独）国立病院機構長崎川棚医療センター" transform="ref(svg,12985.617,-3306.9491)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,波佐見病院,長崎県東彼杵郡波佐見町稗木場郷７９２-１,リハビリテーション科　外科　循環器内科　整形外科　内科　泌尿器科　皮膚科　人工透析内科　血液内科　脳神経外科,,,5" xlink:title="波佐見病院" transform="ref(svg,12987.154,-3312.6836)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）衷心会小鳥居病院,長崎県東彼杵郡波佐見町岳辺田郷７７８,心療内科　神経精神科　精神科,,,4" xlink:title="（医）衷心会小鳥居病院" transform="ref(svg,12987.5114,-3310.9227)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）医理会柿添病院,長崎県平戸市鏡川町２７８,リハビリテーション科　外科　歯科　耳鼻いんこう科　循環器科　小児科　小児外科　整形外科　内科　泌尿器科　皮膚科　放射線科　麻酔科,,,4" xlink:title="（医）医理会柿添病院" transform="ref(svg,12955.2012,-3336.9153)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,菊地病院,長崎県松浦市志佐町浦免１７６５-４,リハビリテーション科　外科　眼科　呼吸器科　整形外科　内科　皮膚科　消化器科　放射線科,,,4" xlink:title="菊地病院" transform="ref(svg,12970.4681,-3334.1465)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）昌徳会田中病院,長崎県松浦市御厨町里免８７１,外科　整形外科　内科　脳神経外科　リハビリテーション科　皮膚科　循環器内科,,,4" xlink:title="（医）昌徳会田中病院" transform="ref(svg,12966.8359,-3336.6995)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）青洲会青洲会病院,長崎県平戸市田平町山内免６１２-４,リハビリテーション科　胃腸科　外科　整形外科　内科　脳神経外科　泌尿器科　放射線科,,,4" xlink:title="（医）青洲会青洲会病院" transform="ref(svg,12957.5267,-3336.4609)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）裕光会谷川病院,長崎県平戸市田平町山内免４００,リハビリテーション科　呼吸器科　循環器科　小児科　消化器科　内科　皮膚科,,,4" xlink:title="（医）裕光会谷川病院" transform="ref(svg,12958.192,-3336.356)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,平戸愛恵病院,長崎県平戸市田平町野田免２０２,心療内科　精神科,,,4" xlink:title="平戸愛恵病院" transform="ref(svg,12957.3479,-3336.9506)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）みなづき佐々病院,長崎県北松浦郡佐々町口石免１１０８-３,神経科　精神科,,,4" xlink:title="（医）みなづき佐々病院" transform="ref(svg,12965.8537,-3322.3222)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）光佑会北川病院,長崎県平戸市浦ノ町７３７,こう門科　リハビリテーション科　胃腸科　外科　循環器科　小児科　内科　放射線科,,,4" xlink:title="（医）光佑会北川病院" transform="ref(svg,12955.213,-3337.2042)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,武部病院,長崎県松浦市今福町北免２０９１-１,外科　整形外科　内科　脳神経外科　耳鼻いんこう科　アレルギー科,,,4" xlink:title="武部病院" transform="ref(svg,12977.0515,-3335.2335)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国民健康保険平戸市民病院,長崎県平戸市草積町１１２５-１２,リハビリテーション科　外科　眼科　小児科　整形外科　内科　放射線科,,,2" xlink:title="国民健康保険平戸市民病院" transform="ref(svg,12946.5325,-3328.4248)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,平戸市立生月病院,長崎県平戸市生月町山田免２９６５,リハビリテーション科　外科　小児科　整形外科　内科,,,2" xlink:title="平戸市立生月病院" transform="ref(svg,12942.3506,-3337.986)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）青洲会明星会病院,長崎県平戸市大久保町２４９０,リハビリテーション科　内科,,,4" xlink:title="（医）青洲会明星会病院" transform="ref(svg,12955.6954,-3337.3646)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,光武内科循環器科病院,長崎県壱岐市郷ノ浦町郷ノ浦１５-３,リハビリテーション科　呼吸器内科　循環器内科　消化器内科　神経内科　内科　皮膚科,,,4" xlink:title="光武内科循環器科病院" transform="ref(svg,12969.0872,-3374.7862)" x="0" y="0"/>
+</g>
+</svg>

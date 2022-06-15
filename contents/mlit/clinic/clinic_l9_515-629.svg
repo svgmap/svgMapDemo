@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13526.3671875 -3471.6796875 8.7890625 8.7890625" go:dataArea="13526.3671875 -3471.6796875 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（特養）あしや喜楽苑,兵庫県芦屋市潮見町３１-１,内科,,,9" xlink:title="（特養）あしや喜楽苑" transform="ref(svg,13530.619,-3471.6187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）和啓会メディクス芦屋クリニック,兵庫県芦屋市海洋町１２-１,内科　外科,,,9" xlink:title="（医）和啓会メディクス芦屋クリニック" transform="ref(svg,13532.1547,-3471.2969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芦屋放射線治療クリニックのぞみ,兵庫県芦屋市陽光町３-８４,内科　放射線科,,,9" xlink:title="芦屋放射線治療クリニックのぞみ" transform="ref(svg,13531.2807,-3471.2965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陽光苑内診療所,兵庫県芦屋市陽光町３-７５,内科,,,9" xlink:title="陽光苑内診療所" transform="ref(svg,13531.2844,-3471.2928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東眼科医院,兵庫県神戸市東灘区魚崎中町４-６-１５,眼科,,,9" xlink:title="東眼科医院" transform="ref(svg,13526.9646,-3471.3153)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部整形外科リウマチ科クリニック,兵庫県神戸市東灘区向洋町中２-１０六甲アイランドビル２Ｆ,リウマチ科　整形外科,,,9" xlink:title="阿部整形外科リウマチ科クリニック" transform="ref(svg,13527.0713,-3468.9792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,雨宮皮膚科,兵庫県神戸市東灘区魚崎中町４-６-１５,皮膚科,,,9" xlink:title="雨宮皮膚科" transform="ref(svg,13526.9668,-3471.311)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有光医院,兵庫県神戸市東灘区魚崎南町７-１-３１,内科　小児科　外科,,,9" xlink:title="有光医院" transform="ref(svg,13527.7005,-3471.3939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康雄会すばるクリニック,兵庫県神戸市東灘区魚崎南町４-１３-２３,内科　外科,,,9" xlink:title="（医）康雄会すばるクリニック" transform="ref(svg,13527.1861,-3471.0989)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡医院,兵庫県神戸市東灘区魚崎南町３-５-１７,内科　呼吸器科　循環器科　外科　放射線科,,,9" xlink:title="岡医院" transform="ref(svg,13527.5108,-3470.9867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,開田医院,兵庫県神戸市東灘区魚崎南町８-１２-１６,内科　小児科,,,9" xlink:title="開田医院" transform="ref(svg,13527.2706,-3471.2991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梶川医院,兵庫県神戸市東灘区魚崎北町４-１４-１２,内科　循環器科　小児科,,,9" xlink:title="梶川医院" transform="ref(svg,13526.8834,-3471.5897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神本内科医院,兵庫県神戸市東灘区住吉宮町３-１-３,内科　消化器内科,,,9" xlink:title="神本内科医院" transform="ref(svg,13526.3799,-3471.6104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清原整形外科医院,兵庫県神戸市東灘区魚崎中町３-５-４,外科　整形外科　リハビリテーション科,,,9" xlink:title="清原整形外科医院" transform="ref(svg,13527.2516,-3471.4622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小泉医院,兵庫県神戸市東灘区向洋町中２-１-２１１-１００,内科　小児科,,,9" xlink:title="小泉医院" transform="ref(svg,13527.1765,-3468.9918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さが耳鼻咽喉科クリニック,兵庫県神戸市東灘区魚崎中町４-６-１５第二松原ビル１０１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="さが耳鼻咽喉科クリニック" transform="ref(svg,13526.9643,-3471.3115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかた内科クリニック,兵庫県神戸市東灘区向洋町中５-１５ＲＩＣセントラルタワーマーケットシーン１０２,内科　糖尿病内科,,,9" xlink:title="さかた内科クリニック" transform="ref(svg,13526.7673,-3469.0512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しらさかクリニック,兵庫県神戸市東灘区向洋町中１-１４イーストコート２番街１０３,小児科　神経内科,,,9" xlink:title="しらさかクリニック" transform="ref(svg,13527.0604,-3469.1112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンライフ魚崎医務室,兵庫県神戸市東灘区魚崎中町４-１０-５０,内科　精神科　整形外科,,,9" xlink:title="（特養）サンライフ魚崎医務室" transform="ref(svg,13527.0305,-3471.5241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）協同の苑医務室,兵庫県神戸市東灘区向洋町中３-１-２,内科　精神科　外科,,,9" xlink:title="（特養）協同の苑医務室" transform="ref(svg,13527.5012,-3468.7545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中田医院,兵庫県神戸市東灘区向洋町中５-１-５２１-１０１,内科　小児科,,,9" xlink:title="中田医院" transform="ref(svg,13526.6239,-3468.9918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田外科医院,兵庫県神戸市東灘区魚崎北町１-１３-９,外科　リハビリテーション科,,,9" xlink:title="藤田外科医院" transform="ref(svg,13527.5792,-3471.6629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,プロクター・アンド・ギャンブル・ジャパン（株）健康管理室,兵庫県神戸市東灘区向洋町中１-１７,内科,,,9" xlink:title="プロクター・アンド・ギャンブル・ジャパン（株）健康管理室" transform="ref(svg,13526.9947,-3469.07)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松井クリニック,兵庫県神戸市東灘区向洋町中７-１-５-１０２,消化器科　外科　リハビリテーション科,,,9" xlink:title="松井クリニック" transform="ref(svg,13526.8167,-3468.6229)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やなぎ整形外科クリニック,兵庫県神戸市東灘区魚崎南町５-１３-１魚崎メディカルビル１Ｆ,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="やなぎ整形外科クリニック" transform="ref(svg,13526.9844,-3471.0366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまぐち内科医院,兵庫県神戸市東灘区魚崎南町５-１３-１,内科　循環器科,,,9" xlink:title="やまぐち内科医院" transform="ref(svg,13526.9844,-3471.0366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田内科,兵庫県神戸市東灘区魚崎中町４-６-５コンドミニアム魚崎１０１,内科　胃腸科　放射線科,,,9" xlink:title="山田内科" transform="ref(svg,13527.0464,-3471.3075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ウエルライフ西宮内診療所,兵庫県西宮市西宮浜４-１５-３,内科　歯科,,,9" xlink:title="（特養）ウエルライフ西宮内診療所" transform="ref(svg,13533.2282,-3471.2209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじた内科クリニック,兵庫県西宮市西宮浜４-１４-３,内科　消化器科　循環器科,,,9" xlink:title="ふじた内科クリニック" transform="ref(svg,13532.897,-3471.2206)" x="0" y="0"/>
+</g>
+</svg>

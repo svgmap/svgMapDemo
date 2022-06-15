@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13957.03125 -3656.25 17.578125 17.578125" go:dataArea="13957.03125 -3656.25 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,鹿沼市養護老人ホーム千寿荘診療所,栃木県鹿沼市日吉町３８６,内科,,,9" xlink:title="鹿沼市養護老人ホーム千寿荘診療所" transform="ref(svg,13973.2233,-3655.9453)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子医院,栃木県鹿沼市口粟野１６５４,内科　小児科　胃腸科　消化器科　循環器科,,,9" xlink:title="金子医院" transform="ref(svg,13967.0873,-3651.6789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北川医院,栃木県鹿沼市西沢町３５５,内科　小児科　放射線科,,,9" xlink:title="北川医院" transform="ref(svg,13970.7891,-3651.9365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,身体障害者療護施設シンフォニーあわの,栃木県鹿沼市下永野２３６-５,内科,,,9" xlink:title="身体障害者療護施設シンフォニーあわの" transform="ref(svg,13962.0126,-3647.7284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）粟野荘診療所,栃木県鹿沼市深程１５２０,内科,,,9" xlink:title="（特養）粟野荘診療所" transform="ref(svg,13969.7691,-3649.6178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）グリーンホーム,栃木県鹿沼市下日向４３８-１,内科　外科,,,9" xlink:title="（特養）グリーンホーム" transform="ref(svg,13971.736,-3655.0411)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）かぬま四季の里,栃木県鹿沼市西沢町２０９,内科,,,9" xlink:title="（特養）かぬま四季の里" transform="ref(svg,13970.8486,-3651.6903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ハーモニー,栃木県鹿沼市村井町１４６-６,内科　外科,,,9" xlink:title="（特養）ハーモニー" transform="ref(svg,13974.6005,-3654.8307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）ポプリ,栃木県鹿沼市下永野２７０-２,内科,,,9" xlink:title="地域密着型（特養）ポプリ" transform="ref(svg,13961.9981,-3647.8097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木医院,栃木県栃木市嘉右衛門町６-１０,内科　胃腸科　外科　肛門科　皮膚科,,,9" xlink:title="青木医院" transform="ref(svg,13973.1945,-3638.9613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋元クリニック,栃木県栃木市平柳町２-２７-１３,内科　消化器内科（胃腸内科）　外科　皮膚科,,,9" xlink:title="秋元クリニック" transform="ref(svg,13974.4719,-3639.0149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うづまクリニック,栃木県栃木市川原田町１６０８-１,内科　外科　放射線科,,,9" xlink:title="うづまクリニック" transform="ref(svg,13973.8354,-3640.6467)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,亀田整形外科医院,栃木県栃木市箱森町２５-７２,外科　整形外科　リハビリテーション科,,,9" xlink:title="亀田整形外科医院" transform="ref(svg,13972.0157,-3639.2618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こばやしクリニック,栃木県栃木市箱森町５１-４０,内科　呼吸器内科　アレルギー科　小児科　皮膚科,,,9" xlink:title="こばやしクリニック" transform="ref(svg,13973.1505,-3639.7512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こひらメディカルクリニック,栃木県栃木市小平町１２-１７,内科,,,9" xlink:title="こひらメディカルクリニック" transform="ref(svg,13972.852,-3638.9579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）星風会小規模（特養）とちぎ泉川医務室,栃木県栃木市大平町泉川町７３-１,内科,,,9" xlink:title="（福）星風会小規模（特養）とちぎ泉川医務室" transform="ref(svg,13971.2358,-3638.7524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）幸生会（特養）うづま荘,栃木県栃木市川原田町１６１２,内科　外科,,,9" xlink:title="（福）幸生会（特養）うづま荘" transform="ref(svg,13973.8371,-3640.6905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大門内科医院,栃木県栃木市大町２７-２４,内科　神経内科,,,9" xlink:title="大門内科医院" transform="ref(svg,13973.6372,-3639.5873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高島耳鼻咽喉科医院,栃木県栃木市泉町６-２０,耳鼻いんこう科,,,9" xlink:title="高島耳鼻咽喉科医院" transform="ref(svg,13973.4422,-3638.7155)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋医院,栃木県栃木市西方町真名子１０６３,内科　小児科,,,9" xlink:title="高橋医院" transform="ref(svg,13970.1775,-3647.3383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田島眼科医院,栃木県栃木市平柳町１-２-３,眼科,,,9" xlink:title="田島眼科医院" transform="ref(svg,13973.8744,-3638.6758)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちづかクリニック,栃木県栃木市大森町４４５-４,内科　小児科　リハビリテーション科,,,9" xlink:title="ちづかクリニック" transform="ref(svg,13969.6759,-3641.5206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひまわり診療所,栃木県栃木市都賀町原宿１４２４-１,内科　外科,,,9" xlink:title="（特養）ひまわり診療所" transform="ref(svg,13972.919,-3643.8121)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みつみねの郷医務室,栃木県栃木市梅沢町９７０,内科,,,9" xlink:title="（特養）みつみねの郷医務室" transform="ref(svg,13965.0783,-3644.2132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みながわ桜園医務室,栃木県栃木市皆川城内町５２０,内科,,,9" xlink:title="（特養）みながわ桜園医務室" transform="ref(svg,13968.9544,-3639.7725)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）雅の風診療所,栃木県栃木市西方町金崎４０３-１,内科,,,9" xlink:title="（特養）雅の風診療所" transform="ref(svg,13974.5182,-3646.9171)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかつぼクリニック,栃木県栃木市箱森町３４-１７,内科　消化器内科（胃腸内科）　外科　肛門科　泌尿器科　麻酔科,,,9" xlink:title="なかつぼクリニック" transform="ref(svg,13972.9125,-3639.189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかむら耳鼻咽喉科クリニック,栃木県栃木市大町２２-５８,耳鼻いんこう科　アレルギー科,,,9" xlink:title="なかむら耳鼻咽喉科クリニック" transform="ref(svg,13973.3144,-3639.7026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はこのもりクリニック,栃木県栃木市箱森町２５-６２,皮膚科　形成外科,,,9" xlink:title="はこのもりクリニック" transform="ref(svg,13972.0115,-3639.4115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平野整形外科医院,栃木県栃木市平柳町１-３５-５,整形外科　リハビリテーション科,,,9" xlink:title="平野整形外科医院" transform="ref(svg,13973.7591,-3639.5273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦整形外科,栃木県栃木市野中町１３８１,整形外科　リハビリテーション科,,,9" xlink:title="三浦整形外科" transform="ref(svg,13972.4095,-3639.8392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,箕輪内科,栃木県栃木市嘉右衛門町１０-６,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="箕輪内科" transform="ref(svg,13973.2989,-3638.7955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,百瀬医院,栃木県栃木市都賀町木３８３,内科　整形外科,,,9" xlink:title="百瀬医院" transform="ref(svg,13972.5755,-3642.4722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よこやま内科小児科クリニック,栃木県栃木市箱森町３８-７０,内科　消化器科　小児科,,,9" xlink:title="よこやま内科小児科クリニック" transform="ref(svg,13972.6231,-3639.2012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたなべ内科循環器科クリニック,栃木県栃木市野中町６２５-１,内科　循環器内科　呼吸器内科　消化器内科（胃腸内科）　リハビリテーション科,,,9" xlink:title="わたなべ内科循環器科クリニック" transform="ref(svg,13972.1037,-3640.1711)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐野市葛生あくと保健センター,栃木県佐野市あくと町３０８４,内科　小児科　歯科,,,9" xlink:title="佐野市葛生あくと保健センター" transform="ref(svg,13960.4426,-3640.7825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐野市国民健康保険常盤診療所,栃木県佐野市仙波町７７,内科,,,9" xlink:title="佐野市国民健康保険常盤診療所" transform="ref(svg,13959.4915,-3643.2277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,蘇原医院,栃木県佐野市葛生東１-６-１５,内科　消化器科　小児科　外科　リハビリテーション科　アレルギー科,,,9" xlink:title="蘇原医院" transform="ref(svg,13960.9295,-3639.9451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）きぼう附属診療所,栃木県佐野市葛生東１-１５-６,内科,,,9" xlink:title="（特養）きぼう附属診療所" transform="ref(svg,13961.4059,-3640.1481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長島医院,栃木県佐野市葛生東１-１０-２７,内科　外科　胃腸科　整形外科　リハビリテーション科　麻酔科　歯科,,,9" xlink:title="長島医院" transform="ref(svg,13961.2889,-3640.1284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,報徳会特別養護老人葛生ホーム附属診療所,栃木県佐野市仙波町８４７,内科　精神科　神経内科,,,9" xlink:title="報徳会特別養護老人葛生ホーム附属診療所" transform="ref(svg,13959.7733,-3644.1967)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13500.0 -9000.0 4500.0 4500.0" go:dataArea="13500.0 -9000.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,市立稚内病院,北海道稚内市中央４-１１-６,内科　精神科　小児科　外科　整形外科　皮膚科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　放射線科　麻酔科　リハビリテーション科　循環器科,,,2" xlink:title="市立稚内病院" transform="ref(svg,14167.3327,-4541.3183)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,豊富町国民健康保険病院,北海道天塩郡豊富町字上サロベツ２５４３-１,内科　小児科　外科,,,2" xlink:title="豊富町国民健康保険病院" transform="ref(svg,14177.8877,-4510.4835)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,浜頓別町国民健康保険病院,北海道枝幸郡浜頓別町旭ヶ丘３-３,内科　消化器科　外科　整形外科　眼科　産婦人科　小児科,,,2" xlink:title="浜頓別町国民健康保険病院" transform="ref(svg,14236.7074,-4511.9001)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,利尻島国保中央病院,北海道利尻郡利尻町沓形字緑町１１,内科　外科　整形外科　産婦人科　リハビリテーション科　放射線科　小児科　眼科,,,3" xlink:title="利尻島国保中央病院" transform="ref(svg,14113.8848,-4518.6556)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,猿払村国民健康保険病院,北海道宗谷郡猿払村鬼志別北町２８,内科,,,2" xlink:title="猿払村国民健康保険病院" transform="ref(svg,14211.8064,-4533.1975)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）禎心会稚内禎心会病院,北海道稚内市栄１-２４-１,内科　脳神経外科　リハビリテーション科　循環器科　消化器科　外科,,,4" xlink:title="（医）禎心会稚内禎心会病院" transform="ref(svg,14169.6747,-4538.709)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,市立稚内こまどり病院,北海道稚内市こまどり２-７-１,内科,,,2" xlink:title="市立稚内こまどり病院" transform="ref(svg,14168.8938,-4539.0506)" x="0" y="0"/>
+</g>
+</svg>

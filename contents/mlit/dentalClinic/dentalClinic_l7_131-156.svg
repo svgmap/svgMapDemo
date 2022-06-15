@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13605.46875 -3515.625 35.15625 35.15625" go:dataArea="13605.46875 -3515.625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,みずほクローバー歯科,三重県亀山市関町木崎字北野９２７-１,歯科,,,9" xlink:title="みずほクローバー歯科" transform="ref(svg,13639.0917,-3485.5815)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,三重県亀山市関町木崎７６９-１,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13639.4334,-3485.4543)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩瀬歯科医院,三重県亀山市関町木崎３３７,歯科　小児歯科　矯正歯科,,,9" xlink:title="岩瀬歯科医院" transform="ref(svg,13639.3631,-3485.1682)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,三重県伊賀市柘植町２２９６-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="村田歯科医院" transform="ref(svg,13624.5788,-3484.119)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小倉歯科医院,三重県伊賀市中友田７８０-７,歯科　小児歯科,,,9" xlink:title="小倉歯科医院" transform="ref(svg,13619.6823,-3485.1038)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ばんば歯科医院,三重県伊賀市新堂１２７６-１,歯科,,,9" xlink:title="ばんば歯科医院" transform="ref(svg,13620.851,-3482.4458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）加古歯科医院,滋賀県野洲市高木１９４-２,歯科,,,9" xlink:title="（医）加古歯科医院" transform="ref(svg,13606.774,-3509.8645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,尾賀歯科医院,滋賀県近江八幡市魚屋町上１８,歯科,,,9" xlink:title="尾賀歯科医院" transform="ref(svg,13609.1492,-3513.711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クラウド歯科,滋賀県近江八幡市中村町２１-１２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="クラウド歯科" transform="ref(svg,13609.7581,-3512.6509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松崎歯科医院,滋賀県近江八幡市堀上町１３４-３,歯科,,,9" xlink:title="松崎歯科医院" transform="ref(svg,13609.409,-3511.971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鎌田歯科医院,滋賀県近江八幡市中小森町３０３-５,歯科,,,9" xlink:title="鎌田歯科医院" transform="ref(svg,13609.0128,-3511.7881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北村歯科医院,滋賀県近江八幡市仲屋町中１９,歯科,,,9" xlink:title="北村歯科医院" transform="ref(svg,13609.2251,-3513.8512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松橋歯科医院,滋賀県近江八幡市中村町１９-７,歯科　矯正歯科　小児科　歯科口腔外科,,,9" xlink:title="松橋歯科医院" transform="ref(svg,13609.5606,-3512.6188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富永歯科医院,滋賀県近江八幡市千僧供町５９１-１,歯科,,,9" xlink:title="富永歯科医院" transform="ref(svg,13611.8588,-3510.8433)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立木歯科医院,滋賀県近江八幡市本町４-２,歯科,,,9" xlink:title="立木歯科医院" transform="ref(svg,13608.8696,-3513.6187)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,滋賀県近江八幡市加茂町３６２４-２,歯科　矯正歯科　小児科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13606.9388,-3512.0883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横矢歯科診療所,滋賀県近江八幡市鷹飼町１５８８,歯科　歯科口腔外科,,,9" xlink:title="横矢歯科診療所" transform="ref(svg,13610.3025,-3512.5078)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,磯部歯科医院,滋賀県近江八幡市鷹飼町７１１-１,歯科,,,9" xlink:title="磯部歯科医院" transform="ref(svg,13610.5786,-3512.2722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,氏家歯科医院,滋賀県近江八幡市桜宮町２１０-１４,歯科,,,9" xlink:title="氏家歯科医院" transform="ref(svg,13609.6169,-3512.943)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くらがき歯科医院,滋賀県近江八幡市堀上町３４５-１５,歯科　小児科,,,9" xlink:title="くらがき歯科医院" transform="ref(svg,13609.4253,-3511.63)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）中村歯科医院,滋賀県近江八幡市古川町１１７３-５０,歯科,,,9" xlink:title="（医）中村歯科医院" transform="ref(svg,13607.1751,-3510.4205)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）伊東歯科クリニック,滋賀県近江八幡市鷹飼町北３-７-６,歯科　矯正歯科　小児科,,,9" xlink:title="（医）伊東歯科クリニック" transform="ref(svg,13610.6621,-3513.0329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさひ歯科クリニック,滋賀県近江八幡市鷹飼町南３-５-８,歯科　小児科　矯正歯科　歯科口腔外科,,,9" xlink:title="あさひ歯科クリニック" transform="ref(svg,13610.4606,-3512.2836)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サンロード黒岩歯科,滋賀県近江八幡市鷹飼町５７１,歯科　小児科　矯正歯科　歯科口腔外科,,,9" xlink:title="サンロード黒岩歯科" transform="ref(svg,13610.139,-3512.326)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高田歯科医院,滋賀県近江八幡市江頭町４２１,歯科,,,9" xlink:title="高田歯科医院" transform="ref(svg,13605.8394,-3511.519)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井田歯科医院武佐診療所,滋賀県近江八幡市武佐町５８６-３,歯科　矯正歯科　小児科,,,9" xlink:title="井田歯科医院武佐診療所" transform="ref(svg,13613.626,-3511.77)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）湖翔会ふるかわ歯科クリニック,滋賀県近江八幡市鷹飼町南１-４-７,歯科　小児科,,,9" xlink:title="（医）湖翔会ふるかわ歯科クリニック" transform="ref(svg,13610.6828,-3512.0537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおまえ矯正歯科,滋賀県近江八幡市出町９１７-２,歯科　矯正歯科　小児科　歯科口腔外科,,,9" xlink:title="おおまえ矯正歯科" transform="ref(svg,13610.3244,-3513.0683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八幡駅前歯科,滋賀県近江八幡市鷹飼町５７７,歯科　小児科　矯正歯科　歯科口腔外科,,,9" xlink:title="八幡駅前歯科" transform="ref(svg,13610.2127,-3512.2467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺尾歯科医院,滋賀県近江八幡市丸の内町４-４８,歯科　小児科,,,9" xlink:title="寺尾歯科医院" transform="ref(svg,13605.6097,-3511.1432)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,出町歯科クリニック,滋賀県近江八幡市出町６７６-１,歯科,,,9" xlink:title="出町歯科クリニック" transform="ref(svg,13610.1162,-3513.3027)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢野歯科クリニック,滋賀県近江八幡市鷹飼町１７９,歯科　歯科口腔外科,,,9" xlink:title="矢野歯科クリニック" transform="ref(svg,13610.4884,-3512.0706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤関歯科医院,滋賀県近江八幡市安土町上豊浦１２１３-１,歯科,,,9" xlink:title="藤関歯科医院" transform="ref(svg,13613.5519,-3514.2489)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マナベ歯科医院,滋賀県近江八幡市安土町西老蘇５８-１６,歯科　小児科　矯正歯科,,,9" xlink:title="マナベ歯科医院" transform="ref(svg,13615.8684,-3512.7367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安土デンタルクリニック,滋賀県近江八幡市安土町上豊浦１３６７,歯科　矯正歯科,,,9" xlink:title="安土デンタルクリニック" transform="ref(svg,13613.2752,-3514.4104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宿院歯科医院,滋賀県近江八幡市安土町下豊浦９２２１-２,歯科　小児科　矯正歯科,,,9" xlink:title="（医）宿院歯科医院" transform="ref(svg,13612.9897,-3514.8971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井田歯科診療所,滋賀県東近江市八日市金屋１-３-１１,歯科,,,9" xlink:title="井田歯科診療所" transform="ref(svg,13619.7046,-3511.0884)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井田歯科本院,滋賀県東近江市八日市町１０-２１,歯科　小児科,,,9" xlink:title="井田歯科本院" transform="ref(svg,13619.7869,-3511.2411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井田歯科東診療所,滋賀県東近江市八日市東本町９-２,歯科,,,9" xlink:title="井田歯科東診療所" transform="ref(svg,13620.5899,-3510.8537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,住井歯科医院,滋賀県東近江市東沖野３-１-２５,歯科　小児科,,,9" xlink:title="住井歯科医院" transform="ref(svg,13621.3922,-3510.3518)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしざわ歯科医院,滋賀県東近江市春日町２-２６,歯科　小児科,,,9" xlink:title="にしざわ歯科医院" transform="ref(svg,13620.6901,-3510.5617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）健歯会住井第二歯科医院,滋賀県東近江市昭和町１-１８,歯科　矯正歯科　小児科,,,9" xlink:title="（医）健歯会住井第二歯科医院" transform="ref(svg,13619.2159,-3510.8472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たつやま歯科医院,滋賀県東近江市林田町１２９２,歯科　矯正歯科,,,9" xlink:title="たつやま歯科医院" transform="ref(svg,13623.7951,-3509.2487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いだはいしゃ,滋賀県東近江市八日市浜野町５０３,歯科　小児科　矯正歯科,,,9" xlink:title="いだはいしゃ" transform="ref(svg,13619.6177,-3511.4876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井田歯科医院,滋賀県東近江市中小路町４８２-６,歯科,,,9" xlink:title="井田歯科医院" transform="ref(svg,13622.9235,-3509.6853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みなみ歯科,滋賀県東近江市八日市金屋２-６-３,歯科,,,9" xlink:title="みなみ歯科" transform="ref(svg,13619.7825,-3511.0391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,だいき歯科クリニック,滋賀県東近江市東沖野４-２-５,歯科　小児科　矯正歯科,,,9" xlink:title="だいき歯科クリニック" transform="ref(svg,13621.707,-3510.1755)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松吉緑町歯科,滋賀県東近江市八日市緑町１-３,歯科　矯正歯科　小児科,,,9" xlink:title="松吉緑町歯科" transform="ref(svg,13620.6101,-3511.4848)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有田歯科医院,滋賀県東近江市八日市町８-２０,歯科,,,9" xlink:title="有田歯科医院" transform="ref(svg,13619.9139,-3511.21)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科医院,滋賀県東近江市八日市浜野町４-１,歯科,,,9" xlink:title="村上歯科医院" transform="ref(svg,13619.6795,-3511.558)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,滋賀県東近江市八日市町１-２３,歯科　小児科　矯正歯科　歯科口腔外科,,,9" xlink:title="木村歯科医院" transform="ref(svg,13619.8001,-3511.388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科診療所,滋賀県東近江市八日市東浜町２-２２,歯科,,,9" xlink:title="村上歯科診療所" transform="ref(svg,13620.1177,-3511.4042)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおにし歯科クリニック,滋賀県東近江市東中野町１０-１４,歯科　小児科,,,9" xlink:title="おおにし歯科クリニック" transform="ref(svg,13619.6365,-3510.3845)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マキノ歯科医院,滋賀県東近江市中野町８００-１,歯科,,,9" xlink:title="マキノ歯科医院" transform="ref(svg,13618.7004,-3510.7149)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,織田歯科医院,滋賀県東近江市山上町３６９６,歯科　小児科　歯科口腔外科,,,9" xlink:title="織田歯科医院" transform="ref(svg,13629.0797,-3508.0255)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,滋賀県東近江市五個荘竜田町３３０,歯科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13618.5387,-3515.4692)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまだ歯科,滋賀県東近江市五個荘川並町５３-５,歯科,,,9" xlink:title="やまだ歯科" transform="ref(svg,13617.7495,-3514.8685)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮澤歯科医院,滋賀県東近江市五個荘小幡町６６４,歯科,,,9" xlink:title="宮澤歯科医院" transform="ref(svg,13619.3672,-3515.4466)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,市田歯科医院,滋賀県東近江市五個荘石塚町１６-１,歯科　小児科,,,9" xlink:title="市田歯科医院" transform="ref(svg,13618.1418,-3514.5801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）川副歯科医院,滋賀県東近江市妹町５０３,歯科,,,9" xlink:title="（医）川副歯科医院" transform="ref(svg,13625.5325,-3510.6192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,滋賀県東近江市横溝町８７４-３,歯科　矯正歯科　小児科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13624.2016,-3513.2604)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村山歯科医院,滋賀県東近江市読合堂町５９６,歯科,,,9" xlink:title="村山歯科医院" transform="ref(svg,13627.131,-3512.7357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新八日市歯科,滋賀県東近江市中野町９９２-１,歯科　小児科　歯科口腔外科,,,9" xlink:title="新八日市歯科" transform="ref(svg,13618.7963,-3510.744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）健歯会住井歯科医院,滋賀県東近江市市子殿町２３-１,歯科,,,9" xlink:title="（医）健歯会住井歯科医院" transform="ref(svg,13618.1305,-3505.409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竜歯科医院,滋賀県東近江市市子殿町１３３８,歯科　小児科　矯正歯科,,,9" xlink:title="竜歯科医院" transform="ref(svg,13617.7039,-3506.104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,滋賀県東近江市市子川原町９９８,歯科　小児科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,13617.912,-3505.9604)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜川歯科医院,滋賀県東近江市桜川西町１２９-４,歯科　小児科,,,9" xlink:title="桜川歯科医院" transform="ref(svg,13618.788,-3506.3135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,輪田歯科医院,滋賀県蒲生郡日野町松尾１４８１,歯科,,,9" xlink:title="輪田歯科医院" transform="ref(svg,13624.488,-3501.4008)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,磯部歯科医院,滋賀県蒲生郡日野町日田３１３-２,歯科,,,9" xlink:title="磯部歯科医院" transform="ref(svg,13624.1007,-3501.1793)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,門坂歯科医院,滋賀県蒲生郡日野町大窪２０３,歯科,,,9" xlink:title="門坂歯科医院" transform="ref(svg,13625.2774,-3501.6959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀歯科医院,滋賀県蒲生郡日野町松尾２-２５,歯科,,,9" xlink:title="堀歯科医院" transform="ref(svg,13624.2074,-3501.6211)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神山歯科医院,滋賀県蒲生郡日野町内池３４９-５,歯科,,,9" xlink:title="神山歯科医院" transform="ref(svg,13622.4855,-3501.5076)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,住井歯科医院,滋賀県蒲生郡日野町河原１-７,歯科,,,9" xlink:title="住井歯科医院" transform="ref(svg,13624.7069,-3501.7933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もうり歯科,滋賀県蒲生郡日野町日田１０５-１,歯科　小児科,,,9" xlink:title="もうり歯科" transform="ref(svg,13623.9677,-3501.1741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竜王町国民健康保険診療所,滋賀県蒲生郡竜王町綾戸２３９-１,歯科,,,9" xlink:title="竜王町国民健康保険診療所" transform="ref(svg,13612.7192,-3506.7691)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加納歯科医院,滋賀県蒲生郡竜王町山面３５-１５８,歯科,,,9" xlink:title="加納歯科医院" transform="ref(svg,13609.4512,-3507.6526)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金谷歯科医院,滋賀県蒲生郡竜王町山之上４５９９,歯科　小児科,,,9" xlink:title="金谷歯科医院" transform="ref(svg,13614.4929,-3505.5504)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平田歯科医院,滋賀県蒲生郡竜王町山之上３４５６,歯科　小児科　歯科口腔外科　矯正歯科,,,9" xlink:title="平田歯科医院" transform="ref(svg,13614.6344,-3504.8133)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかがわ歯科,滋賀県蒲生郡日野町松尾９４３-２,歯科　小児科　矯正歯科,,,9" xlink:title="なかがわ歯科" transform="ref(svg,13623.8509,-3501.9347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フジ歯科クリニック,滋賀県近江八幡市白鳥町８,歯科　小児歯科　矯正歯科,,,9" xlink:title="フジ歯科クリニック" transform="ref(svg,13609.5832,-3512.3389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あかい歯科医院,滋賀県近江八幡市池田本町１１０１-８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="あかい歯科医院" transform="ref(svg,13607.6142,-3510.6633)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せんだ歯科クリック,滋賀県近江八幡市安土町下豊浦２８３３-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="せんだ歯科クリック" transform="ref(svg,13613.4863,-3514.731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コウ歯科クリニック,滋賀県蒲生郡竜王町小口１６５８-１,歯科　口腔外科　小児歯科,,,9" xlink:title="コウ歯科クリニック" transform="ref(svg,13612.3524,-3506.1727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安井歯科医院,滋賀県甲賀市甲賀町大久保１４５,歯科　矯正歯科,,,9" xlink:title="安井歯科医院" transform="ref(svg,13623.8424,-3490.7797)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白木歯科医院,滋賀県甲賀市甲賀町上野１３６８,歯科　矯正歯科,,,9" xlink:title="白木歯科医院" transform="ref(svg,13622.8444,-3489.0364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西田歯科医院,滋賀県甲賀市甲賀町大原中１０７２-９,歯科　小児歯科,,,9" xlink:title="西田歯科医院" transform="ref(svg,13621.9563,-3490.0524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ニシカワ歯科,滋賀県甲賀市甲賀町相模２２５-１ヴィラ甲賀１０１,歯科,,,9" xlink:title="ニシカワ歯科" transform="ref(svg,13621.6293,-3490.4511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）坂本歯科,滋賀県湖南市梅影町３-１６,歯科　矯正歯科,,,9" xlink:title="（医）坂本歯科" transform="ref(svg,13612.5646,-3501.1534)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,芦田歯科医院,滋賀県湖南市三雲４４５,歯科,,,9" xlink:title="芦田歯科医院" transform="ref(svg,13611.9041,-3498.3461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,夏見歯科医院,滋賀県湖南市夏見字一本木１１７１-４,歯科　小児科,,,9" xlink:title="夏見歯科医院" transform="ref(svg,13609.0104,-3499.8332)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,滋賀県湖南市柑子袋６４０-４,歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,13607.0772,-3500.5978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中森デンタルオフィス,滋賀県湖南市中央１-２４-１,歯科,,,9" xlink:title="中森デンタルオフィス" transform="ref(svg,13608.4863,-3500.3326)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,甲西中央歯科,滋賀県湖南市中央５-６６-２奴ビル２Ｆ,歯科　矯正歯科　小児科　歯科口腔外科,,,9" xlink:title="甲西中央歯科" transform="ref(svg,13608.6415,-3500.3779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどりの村歯科医院,滋賀県湖南市菩提寺１５２９-１４３,歯科,,,9" xlink:title="みどりの村歯科医院" transform="ref(svg,13606.0863,-3503.6824)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,室谷歯科医院,滋賀県湖南市岩根３６３-１５,歯科,,,9" xlink:title="室谷歯科医院" transform="ref(svg,13612.11,-3500.4378)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菩提寺歯科診療所,滋賀県湖南市菩提寺１００９-４,歯科　小児科　矯正歯科,,,9" xlink:title="菩提寺歯科診療所" transform="ref(svg,13606.0749,-3502.7473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）盟兄会甲西歯科,滋賀県湖南市岩根中央１-２６,歯科　小児科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）盟兄会甲西歯科" transform="ref(svg,13611.8712,-3500.1282)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清風会小野歯科医院,滋賀県湖南市菩提寺１５８３-５１,歯科　矯正歯科　小児科,,,9" xlink:title="（医）清風会小野歯科医院" transform="ref(svg,13606.0972,-3503.4997)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）創成会山本歯科医院,滋賀県湖南市菩提寺新町３-３９,歯科　矯正歯科　小児科,,,9" xlink:title="（医）創成会山本歯科医院" transform="ref(svg,13606.1476,-3503.933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしもと歯科,滋賀県湖南市菩提寺１６１２-１,歯科　小児科　歯科口腔外科,,,9" xlink:title="はしもと歯科" transform="ref(svg,13606.2642,-3503.0911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹村歯科医院,滋賀県甲賀市甲南町寺庄９５２,歯科,,,9" xlink:title="竹村歯科医院" transform="ref(svg,13617.8741,-3492.0293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,真岡歯科医院,滋賀県甲賀市甲南町寺庄１０８１,歯科,,,9" xlink:title="真岡歯科医院" transform="ref(svg,13618.1653,-3491.8023)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,滋賀県甲賀市甲南町野田４５１,歯科　矯正歯科　小児科,,,9" xlink:title="木村歯科医院" transform="ref(svg,13617.1426,-3492.4911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今村歯科医院,滋賀県甲賀市甲南町深川２２０１,歯科,,,9" xlink:title="今村歯科医院" transform="ref(svg,13616.4362,-3492.9299)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もとき歯科クリニック,滋賀県甲賀市甲南町希望ヶ丘３-２７-９,歯科,,,9" xlink:title="もとき歯科クリニック" transform="ref(svg,13617.5325,-3495.0353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,冨田歯科医院,滋賀県甲賀市甲南町新治１４８０-２,歯科　小児科,,,9" xlink:title="冨田歯科医院" transform="ref(svg,13616.274,-3492.6892)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大矢歯科医院,滋賀県甲賀市信楽町長野１２２１-６,歯科,,,9" xlink:title="大矢歯科医院" transform="ref(svg,13605.6778,-3487.9237)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯田歯科医院,滋賀県甲賀市信楽町長野４５４-６,歯科　小児科　歯科口腔外科,,,9" xlink:title="飯田歯科医院" transform="ref(svg,13605.5467,-3487.6873)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安井歯科医院水口診療所,滋賀県甲賀市水口町北脇４３０,歯科　矯正歯科　小児科,,,9" xlink:title="安井歯科医院水口診療所" transform="ref(svg,13615.4965,-3498.1479)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松田歯科クリニック,滋賀県甲賀市水口町水口５９９６-１,歯科　矯正歯科,,,9" xlink:title="松田歯科クリニック" transform="ref(svg,13616.4653,-3496.7315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科クリニック,滋賀県甲賀市水口町城東４-８,歯科,,,9" xlink:title="木村歯科クリニック" transform="ref(svg,13616.8755,-3497.3052)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀歯科医院,滋賀県甲賀市水口町本町１-４-３４,歯科,,,9" xlink:title="堀歯科医院" transform="ref(svg,13617.6655,-3496.8753)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富山歯科医院,滋賀県甲賀市水口町東名坂７８,歯科,,,9" xlink:title="富山歯科医院" transform="ref(svg,13617.1407,-3498.0776)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もんや歯科クリニック,滋賀県甲賀市水口町東名坂２７６,歯科　小児科　歯科口腔外科,,,9" xlink:title="もんや歯科クリニック" transform="ref(svg,13616.7047,-3497.8305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）馬場歯科医院,滋賀県甲賀市水口町貴生川５６１-１,歯科,,,9" xlink:title="（医）馬場歯科医院" transform="ref(svg,13614.981,-3495.2636)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,第２馬場歯科医院,滋賀県甲賀市水口町虫生野中央１１５,歯科,,,9" xlink:title="第２馬場歯科医院" transform="ref(svg,13615.7067,-3495.2411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科,滋賀県甲賀市水口町本綾野５５６-１平和堂アルプラザ水口店２階,歯科　小児科　矯正歯科,,,9" xlink:title="さくら歯科" transform="ref(svg,13616.9274,-3497.7504)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,樹歯科医院,滋賀県甲賀市水口町虫生野１１６７-１,歯科　小児科　矯正歯科,,,9" xlink:title="樹歯科医院" transform="ref(svg,13615.8596,-3495.0424)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷歯科医院,滋賀県甲賀市水口町古城が丘６１０-２６９,歯科　小児科,,,9" xlink:title="谷歯科医院" transform="ref(svg,13618.1101,-3497.587)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみ歯科医院,滋賀県甲賀市水口町泉６９１-１,歯科　矯正歯科　小児科,,,9" xlink:title="いずみ歯科医院" transform="ref(svg,13613.9886,-3498.4629)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）湖蒼会さねふじ水口歯科診療所,滋賀県甲賀市水口町南林口７-１,歯科　小児科　歯科口腔外科,,,9" xlink:title="（医）湖蒼会さねふじ水口歯科診療所" transform="ref(svg,13615.9954,-3497.2367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みね歯科クリニック,滋賀県甲賀市水口町的場９７,歯科　矯正歯科,,,9" xlink:title="みね歯科クリニック" transform="ref(svg,13616.196,-3496.8244)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アップルデンタルクリニック,滋賀県甲賀市水口町泉１４０５ベイシア甲賀店内,歯科　矯正歯科　小児科　歯科口腔外科,,,9" xlink:title="アップルデンタルクリニック" transform="ref(svg,13612.7351,-3498.5886)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西田歯科クリニック,滋賀県甲賀市水口町伴中山２５４５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西田歯科クリニック" transform="ref(svg,13615.3245,-3499.7063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みねの歯科医院,滋賀県湖南市石部南７-１-７,歯科　矯正歯科　小児科,,,9" xlink:title="みねの歯科医院" transform="ref(svg,13606.1498,-3499.8023)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内貴歯科医院,滋賀県湖南市石部中央３-１-４５,歯科,,,9" xlink:title="内貴歯科医院" transform="ref(svg,13605.6201,-3500.8773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）愛全会いしべ愛歯科,滋賀県湖南市石部中央４-６-４１,歯科　矯正歯科　小児科,,,9" xlink:title="（医）愛全会いしべ愛歯科" transform="ref(svg,13605.5551,-3501.1868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,滋賀県湖南市石部東１-３-６-１０１,歯科　小児科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13606.2917,-3500.8369)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科,滋賀県湖南市石部東３-８-８,歯科　小児科　歯科口腔外科,,,9" xlink:title="スマイル歯科" transform="ref(svg,13606.6264,-3500.7106)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科クリニック,滋賀県甲賀市土山町北土山１４９１-２,歯科　小児科,,,9" xlink:title="ひまわり歯科クリニック" transform="ref(svg,13628.571,-3493.6134)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桑名歯科クリニック,滋賀県甲賀市土山町前野鐘鋳野１３８-１７,歯科　矯正歯科　小児科,,,9" xlink:title="桑名歯科クリニック" transform="ref(svg,13626.707,-3493.7586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大野歯科,滋賀県甲賀市土山町大野２４８８-１,歯科,,,9" xlink:title="大野歯科" transform="ref(svg,13622.9613,-3495.1081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こうせい駅前歯科,滋賀県湖南市平松北１-４６美松プラザ１階,歯科　小児科,,,9" xlink:title="こうせい駅前歯科" transform="ref(svg,13608.2686,-3500.1296)" x="0" y="0"/>
+</g>
+</svg>

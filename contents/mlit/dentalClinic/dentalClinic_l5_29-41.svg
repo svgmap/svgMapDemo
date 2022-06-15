@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13078.125 -3234.375 140.625 140.625" go:dataArea="13078.125 -3234.375 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,高野歯科医院,熊本県球磨郡錦町一武２１１１,歯科,,,9" xlink:title="高野歯科医院" transform="ref(svg,13084.5017,-3219.9487)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながた歯科クリニック,熊本県球磨郡錦町一武１５２３-１,歯科,,,9" xlink:title="ながた歯科クリニック" transform="ref(svg,13084.0076,-3220.0833)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしき歯科医院,熊本県球磨郡錦町西８０９,歯科　矯正歯科　小児歯科,,,9" xlink:title="にしき歯科医院" transform="ref(svg,13081.313,-3219.6573)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋山歯科クリニック,熊本県球磨郡あさぎり町免田東１９８２-４１,歯科,,,9" xlink:title="秋山歯科クリニック" transform="ref(svg,13090.1039,-3223.8355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂梨歯科医院,熊本県球磨郡あさぎり町免田東１８０６-１,歯科,,,9" xlink:title="坂梨歯科医院" transform="ref(svg,13089.9349,-3223.5843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかくま歯科医院,熊本県球磨郡あさぎり町免田西２２７３-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="なかくま歯科医院" transform="ref(svg,13087.6705,-3222.5915)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山村歯科医院,熊本県球磨郡あさぎり町免田東３９０-１,歯科　小児歯科,,,9" xlink:title="山村歯科医院" transform="ref(svg,13088.9786,-3223.3008)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋山歯科医院,熊本県球磨郡多良木町多良木２８３９-１,歯科,,,9" xlink:title="秋山歯科医院" transform="ref(svg,13092.9448,-3225.77)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおた歯科クリニック,熊本県球磨郡多良木町迫田８８４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おおた歯科クリニック" transform="ref(svg,13093.8167,-3226.3098)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くろにた歯科医院,熊本県球磨郡多良木町多良木１５５３-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くろにた歯科医院" transform="ref(svg,13093.3957,-3226.24)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中原歯科医院,熊本県球磨郡多良木町多良木５６４,歯科,,,9" xlink:title="中原歯科医院" transform="ref(svg,13093.8328,-3226.4044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くぼ歯科,熊本県球磨郡湯前町９７７,歯科　矯正歯科　小児歯科,,,9" xlink:title="くぼ歯科" transform="ref(svg,13097.4864,-3228.1954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むかえ歯科医院,熊本県球磨郡湯前町字上植木１２３７-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="むかえ歯科医院" transform="ref(svg,13097.0239,-3227.9009)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水上歯科医院,熊本県球磨郡水上村岩野２６６６-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="水上歯科医院" transform="ref(svg,13098.5868,-3229.2888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまさき歯科医院,熊本県球磨郡湯前町中里２８４８-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="やまさき歯科医院" transform="ref(svg,13097.8771,-3228.3205)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すまいる歯科クリニック,熊本県球磨郡錦町一武２８２６-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すまいる歯科クリニック" transform="ref(svg,13083.2629,-3219.9467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,熊本県球磨郡錦町西３２８７,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,13082.3633,-3219.4788)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさぎり歯科クリニック,熊本県球磨郡あさぎり町上北１４５７-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="あさぎり歯科クリニック" transform="ref(svg,13089.844,-3222.5546)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石坂歯科医院,宮崎県えびの市大字栗下１３７４,歯科,,,9" xlink:title="石坂歯科医院" transform="ref(svg,13081.1263,-3204.7363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,郡山歯科医院,宮崎県えびの市大字栗下１６０６,歯科,,,9" xlink:title="郡山歯科医院" transform="ref(svg,13081.3251,-3204.8888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西田歯科医院,宮崎県えびの市大字小田３８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西田歯科医院" transform="ref(svg,13081.5926,-3204.5286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はまだ歯科医院,宮崎県えびの市原田３２１６-１８,歯科,,,9" xlink:title="はまだ歯科医院" transform="ref(svg,13086.5467,-3204.4112)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,宮崎県えびの市大字原田３４６０,歯科　小児歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13086.7508,-3204.9265)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,市来歯科医院,宮崎県えびの市原田２２４８,歯科,,,9" xlink:title="市来歯科医院" transform="ref(svg,13086.9578,-3203.2269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,別府歯科医院,宮崎県えびの市大字原田１６７,歯科,,,9" xlink:title="別府歯科医院" transform="ref(svg,13087.1047,-3204.6765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北原歯科医院,宮崎県小林市細野１２３９-１１,歯科,,,9" xlink:title="北原歯科医院" transform="ref(svg,13096.8366,-3199.5512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田橋歯科医院,宮崎県小林市細野３４１-１,歯科　小児歯科,,,9" xlink:title="神田橋歯科医院" transform="ref(svg,13097.0302,-3199.8459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけさき歯科医院,宮崎県小林市細野１５８５-４８,歯科　矯正歯科　小児歯科,,,9" xlink:title="たけさき歯科医院" transform="ref(svg,13097.286,-3199.5104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荒武歯科医院,宮崎県小林市大字細野１６４０-４,歯科,,,9" xlink:title="荒武歯科医院" transform="ref(svg,13097.3218,-3199.2509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阿部歯科医院,宮崎県小林市細野２７１９-３,歯科,,,9" xlink:title="阿部歯科医院" transform="ref(svg,13097.4385,-3198.0358)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池井歯科医院,宮崎県小林市大字真方８２,歯科,,,9" xlink:title="池井歯科医院" transform="ref(svg,13097.7957,-3199.6315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こうの歯科医院,宮崎県小林市細野１９７１-１,歯科　小児歯科,,,9" xlink:title="こうの歯科医院" transform="ref(svg,13097.8176,-3198.9268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,宮崎県小林市大字細野１１３-５,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13097.9733,-3199.2354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小城歯科医院,宮崎県小林市細野９４,歯科,,,9" xlink:title="小城歯科医院" transform="ref(svg,13098.1123,-3199.3073)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下村歯科医院,宮崎県小林市大字細野６３-５,歯科,,,9" xlink:title="下村歯科医院" transform="ref(svg,13098.1628,-3199.3532)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大坪歯科医院,宮崎県小林市大字堤２９６１-３７,歯科,,,9" xlink:title="大坪歯科医院" transform="ref(svg,13099.0606,-3198.7244)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なみき歯科医院,宮崎県西諸県郡高原町大字蒲牟田１０９６-７,歯科,,,9" xlink:title="なみき歯科医院" transform="ref(svg,13099.233,-3192.1986)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水流歯科医院,宮崎県小林市堤２９９２-７,歯科　歯科口腔外科,,,9" xlink:title="水流歯科医院" transform="ref(svg,13099.562,-3198.388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高原あらたけ歯科クリニック,宮崎県西諸県郡高原町大字広原４９５５-７,歯科,,,9" xlink:title="高原あらたけ歯科クリニック" transform="ref(svg,13099.654,-3193.0257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヨコヤマデンタルオフィス,宮崎県小林市堤２２８０-２,歯科　小児歯科,,,9" xlink:title="ヨコヤマデンタルオフィス" transform="ref(svg,13100.043,-3197.169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,末原歯科医院,宮崎県都城市庄内町１２６９０-３,歯科,,,9" xlink:title="末原歯科医院" transform="ref(svg,13101.8752,-3177.2662)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ときわ歯科医院,宮崎県都城市平塚町３０３７-１,歯科　小児歯科,,,9" xlink:title="ときわ歯科医院" transform="ref(svg,13102.6636,-3172.0023)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,チューリップ歯科,宮崎県都城市都原町８２２３-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="チューリップ歯科" transform="ref(svg,13103.3932,-3173.5896)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はた歯科医院,宮崎県都城市南横市町３７８７-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はた歯科医院" transform="ref(svg,13103.5026,-3174.0363)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）時任歯科医院,宮崎県都城市鷹尾５-１-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）時任歯科医院" transform="ref(svg,13103.699,-3172.5156)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルオフィス松田,宮崎県都城市鷹尾３-３街区-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="デンタルオフィス松田" transform="ref(svg,13104.129,-3172.1659)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）継尚会園田鷹尾歯科医院,宮崎県都城市南鷹尾町１８街区-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）継尚会園田鷹尾歯科医院" transform="ref(svg,13104.2071,-3171.9665)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いままち歯科医院,宮崎県都城市今町７０４８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いままち歯科医院" transform="ref(svg,13104.2755,-3169.9834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科・小児歯科,宮崎県都城市都原町７３１８-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくら歯科・小児歯科" transform="ref(svg,13104.4264,-3173.6505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とだか歯科医院,宮崎県都城市鷹尾３-１４-２４,歯科,,,9" xlink:title="とだか歯科医院" transform="ref(svg,13104.4626,-3172.3273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科,宮崎県都城市志比田町４７１３-１,歯科　小児歯科,,,9" xlink:title="さいとう歯科" transform="ref(svg,13105.015,-3173.4691)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八田歯科医院,宮崎県都城市都島町２１０-１２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="八田歯科医院" transform="ref(svg,13105.1258,-3171.9729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほりのうちデンタルクリニック,宮崎県都城市志比田町４５７４-７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ほりのうちデンタルクリニック" transform="ref(svg,13105.3044,-3174.0613)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ありしま歯科医院,宮崎県都城市菓子野町１０２７２-１,歯科,,,9" xlink:title="ありしま歯科医院" transform="ref(svg,13105.4995,-3178.3143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,トキワ歯科医院,宮崎県都城市野々美谷町２２２３-３,歯科　小児歯科,,,9" xlink:title="トキワ歯科医院" transform="ref(svg,13105.5503,-3179.3825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コダマ歯科医院,宮崎県都城市高崎町大牟田７５４-２,歯科　小児歯科,,,9" xlink:title="コダマ歯科医院" transform="ref(svg,13105.7986,-3188.6275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科医院,宮崎県都城市松元町９-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山崎歯科医院" transform="ref(svg,13105.913,-3172.3657)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）永仁会永井歯科医院,宮崎県都城市八幡町１２街区-２８,歯科　歯科口腔外科,,,9" xlink:title="（医）永仁会永井歯科医院" transform="ref(svg,13105.9383,-3171.9821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大王歯科医院,宮崎県都城市大王町５２-１０,歯科　小児歯科,,,9" xlink:title="大王歯科医院" transform="ref(svg,13106.0341,-3173.2909)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）雄康会浜田歯科医院,宮崎県都城市牟田町２街区-１０,歯科,,,9" xlink:title="（医）雄康会浜田歯科医院" transform="ref(svg,13106.1738,-3172.519)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央歯科,宮崎県都城市牟田町８街区-２浜田エーディックビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中央歯科" transform="ref(svg,13106.2401,-3172.5574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,尾本歯科医院,宮崎県都城市上町７-９,歯科,,,9" xlink:title="尾本歯科医院" transform="ref(svg,13106.2407,-3172.479)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土持矯正歯科医院,宮崎県都城市上町１５街区-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="土持矯正歯科医院" transform="ref(svg,13106.3518,-3172.2384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,濱田歯科医院,宮崎県都城市蔵原町１街区-１２,歯科　矯正歯科,,,9" xlink:title="濱田歯科医院" transform="ref(svg,13106.4799,-3172.1293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,曽我歯科医院,宮崎県都城市姫城町２街区-１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="曽我歯科医院" transform="ref(svg,13106.5363,-3172.0579)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科,宮崎県都城市姫城町２５街区-３８,歯科,,,9" xlink:title="井上歯科" transform="ref(svg,13106.6369,-3171.4291)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大岐歯科医院,宮崎県都城市中町１２街区-１６,歯科,,,9" xlink:title="大岐歯科医院" transform="ref(svg,13106.641,-3172.6451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いがらし歯科医院,宮崎県都城市下川東４-３２２５,歯科,,,9" xlink:title="いがらし歯科医院" transform="ref(svg,13106.6746,-3174.5183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科,宮崎県都城市蔵原町９-７,歯科,,,9" xlink:title="山崎歯科" transform="ref(svg,13106.7676,-3172.3251)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,宮崎県都城市前田町８-２３,歯科　小児歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13106.8018,-3172.8862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五反田歯科医院,宮崎県都城市平江町２３-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="五反田歯科医院" transform="ref(svg,13106.8837,-3173.6731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柴田歯科医院,宮崎県都城市平江町３-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="柴田歯科医院" transform="ref(svg,13106.9151,-3173.2395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ハートデンタルクリニック,宮崎県都城市天神町１９街区-２１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）ハートデンタルクリニック" transform="ref(svg,13106.9192,-3172.6865)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シゲシロ歯科医院,宮崎県都城市早鈴町１１街区-１８,歯科,,,9" xlink:title="シゲシロ歯科医院" transform="ref(svg,13107.0076,-3171.9385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梅北歯科医院,宮崎県都城市前田町１８-３４,歯科,,,9" xlink:title="梅北歯科医院" transform="ref(svg,13107.0868,-3173.1239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,宮崎県都城市梅北町１４１６,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13107.24,-3168.4339)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）至誠会田中歯科医院,宮崎県都城市早鈴町８-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）至誠会田中歯科医院" transform="ref(svg,13107.3598,-3172.0479)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安富歯科医院,宮崎県都城市妻ケ丘町１４街区-１２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="安富歯科医院" transform="ref(svg,13107.3848,-3172.6101)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土持歯科医院,宮崎県都城市上川東１-１８-１０,歯科　小児歯科,,,9" xlink:title="土持歯科医院" transform="ref(svg,13107.4351,-3173.8386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広瀬歯科医院,宮崎県都城市妻ケ丘町２４-９,歯科　小児歯科,,,9" xlink:title="広瀬歯科医院" transform="ref(svg,13107.6156,-3172.7551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タケザキデンタルクリニック,宮崎県都城市北原町１２-１３,歯科　小児歯科,,,9" xlink:title="タケザキデンタルクリニック" transform="ref(svg,13107.627,-3173.2917)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中崎歯科医院,宮崎県都城市高崎町大牟田１９５０-５,歯科　小児歯科,,,9" xlink:title="中崎歯科医院" transform="ref(svg,13107.6579,-3186.7152)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわごえ矯正歯科医院,宮崎県都城市吉尾町９３５-６,矯正歯科,,,9" xlink:title="かわごえ矯正歯科医院" transform="ref(svg,13107.6917,-3175.9759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やすひさ歯科医院,宮崎県都城市安久町６０６１-１,歯科　小児歯科,,,9" xlink:title="やすひさ歯科医院" transform="ref(svg,13107.7996,-3169.9393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金丸歯科医院,宮崎県都城市北原町２７-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="金丸歯科医院" transform="ref(svg,13107.9548,-3173.3323)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あやべ歯科クリニック,宮崎県都城市金田町２０４４-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あやべ歯科クリニック" transform="ref(svg,13108.2658,-3176.6312)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,片平歯科医院,宮崎県都城市祝吉１-２２-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="片平歯科医院" transform="ref(svg,13108.2703,-3173.9451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲田歯科医院,宮崎県都城市祝吉１-３０-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="稲田歯科医院" transform="ref(svg,13108.275,-3174.4028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わかば歯科医院,宮崎県都城市若葉町８９-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="わかば歯科医院" transform="ref(svg,13108.4326,-3172.241)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安楽歯科医院,宮崎県都城市年見町１７-４,歯科　小児歯科,,,9" xlink:title="安楽歯科医院" transform="ref(svg,13108.6142,-3173.2795)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）きんじょう歯科医院,宮崎県都城市金田町３１３２-７,歯科　小児歯科,,,9" xlink:title="（医）きんじょう歯科医院" transform="ref(svg,13108.6671,-3177.4125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とほく歯科医院,宮崎県都城市都北町５７５７-５,歯科,,,9" xlink:title="とほく歯科医院" transform="ref(svg,13108.8666,-3175.9782)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）若竹会竹之下歯科医院,宮崎県都城市広原町３-１５,歯科　小児歯科,,,9" xlink:title="（医）若竹会竹之下歯科医院" transform="ref(svg,13108.9033,-3172.6779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,宮崎県都城市上長飯町４１-１６,歯科　歯科口腔外科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13108.9211,-3171.7508)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,財部歯科医院,宮崎県都城市都北町５６２０-２,歯科,,,9" xlink:title="財部歯科医院" transform="ref(svg,13108.9602,-3176.3329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一万城安楽歯科医院,宮崎県都城市一万城町３１-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="一万城安楽歯科医院" transform="ref(svg,13109.1625,-3172.2046)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たぐち歯科医院,宮崎県都城市太郎坊町１９５９-１,歯科,,,9" xlink:title="たぐち歯科医院" transform="ref(svg,13109.1865,-3177.7811)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タケザキ歯科,宮崎県都城市一万城町２４-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="タケザキ歯科" transform="ref(svg,13109.2197,-3171.9613)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あしの歯科医院,宮崎県小林市野尻町東麓１１４７-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あしの歯科医院" transform="ref(svg,13109.7193,-3196.1151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）藤木歯科医院,宮崎県小林市野尻町東麓２１９９,歯科　小児歯科,,,9" xlink:title="（医）藤木歯科医院" transform="ref(svg,13110.0212,-3195.7902)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,是枝歯科医院,宮崎県都城市上水流町１１１３-１５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="是枝歯科医院" transform="ref(svg,13110.0744,-3180.9631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まえの歯科医院,宮崎県北諸県郡三股町大字宮村２８６０-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="まえの歯科医院" transform="ref(svg,13110.0788,-3172.3958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）東歯科医院,宮崎県北諸県郡三股町花見原６-５,歯科　小児歯科,,,9" xlink:title="（医）東歯科医院" transform="ref(svg,13110.3746,-3173.722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はまだ歯科医院,宮崎県北諸県郡三股町新馬場４５-１,歯科,,,9" xlink:title="はまだ歯科医院" transform="ref(svg,13111.0862,-3173.6679)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,須木歯科診療所,宮崎県小林市須木中原１７４１-１,歯科,,,9" xlink:title="須木歯科診療所" transform="ref(svg,13111.1635,-3211.2979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三股歯科,宮崎県北諸県郡三股町稗田９-７,歯科,,,9" xlink:title="三股歯科" transform="ref(svg,13111.226,-3173.051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山下歯科,宮崎県北諸県郡三股町樺山４６７２-２４０,歯科,,,9" xlink:title="山下歯科" transform="ref(svg,13111.3215,-3173.2854)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）デンタル・ファインうえくぼ歯科医院,宮崎県北諸県郡三股町大字蓼池３６０７-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）デンタル・ファインうえくぼ歯科医院" transform="ref(svg,13111.4247,-3176.1482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）聡明会あさお歯科,宮崎県北諸県郡三股町樺山４５２３-１,歯科,,,9" xlink:title="（医）聡明会あさお歯科" transform="ref(svg,13111.6779,-3173.2607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまのくち歯科,宮崎県都城市山之口町花木２２６２-３,歯科　小児歯科,,,9" xlink:title="やまのくち歯科" transform="ref(svg,13115.1916,-3178.4034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲田歯科医院,宮崎県都城市山之口町花木２５６５,歯科,,,9" xlink:title="稲田歯科医院" transform="ref(svg,13115.6096,-3178.2979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国民健康保険西米良歯科診療所,宮崎県児湯郡西米良村大字村所９４-３,歯科,,,9" xlink:title="国民健康保険西米良歯科診療所" transform="ref(svg,13115.6262,-3222.5777)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡村歯科医院,宮崎県串間市西方５６４２,歯科,,,9" xlink:title="岡村歯科医院" transform="ref(svg,13120.4322,-3145.742)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科診療所,宮崎県串間市寺里１-１-１３,歯科,,,9" xlink:title="わたなべ歯科診療所" transform="ref(svg,13121.9065,-3145.7031)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）小林歯科医院,宮崎県串間市大字西方５７６５-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）小林歯科医院" transform="ref(svg,13123.0767,-3146.4755)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科わたなべ,宮崎県串間市東町３４-６,歯科　小児歯科,,,9" xlink:title="歯科わたなべ" transform="ref(svg,13123.2381,-3146.1503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フェニックス歯科医院,宮崎県串間市大字西方３５８６-８,歯科　小児歯科,,,9" xlink:title="フェニックス歯科医院" transform="ref(svg,13123.4517,-3147.1982)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口歯科医院,宮崎県東諸県郡綾町大字南俣４４３-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="田口歯科医院" transform="ref(svg,13125.6318,-3199.7288)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あや歯科クリニック,宮崎県東諸県郡綾町大字入野３４５０-４,歯科　小児歯科,,,9" xlink:title="あや歯科クリニック" transform="ref(svg,13126.7883,-3199.9486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清水歯科医院,宮崎県宮崎市高岡町五町１８５-１,歯科,,,9" xlink:title="（医）清水歯科医院" transform="ref(svg,13130.1461,-3195.6254)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,湯田歯科医院,宮崎県宮崎市田野町甲２８１６-１,歯科,,,9" xlink:title="湯田歯科医院" transform="ref(svg,13130.1856,-3183.9002)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくらデンタルクリニック,宮崎県宮崎市高岡町内山２６０２-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくらデンタルクリニック" transform="ref(svg,13130.2057,-3196.2819)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小村歯科医院,宮崎県宮崎市田野町甲２９３８-１,歯科　小児歯科,,,9" xlink:title="小村歯科医院" transform="ref(svg,13130.2541,-3183.5274)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,宮崎県宮崎市田野町甲２８６７-６,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13130.3247,-3183.6629)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えぐち歯科医院,宮崎県東諸県郡国富町大字本庄６７３２-６,歯科,,,9" xlink:title="えぐち歯科医院" transform="ref(svg,13131.3794,-3199.1535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田部歯科・矯正歯科,宮崎県東諸県郡国富町大字本庄５０１２-２,歯科　矯正歯科,,,9" xlink:title="田部歯科・矯正歯科" transform="ref(svg,13131.8219,-3198.9357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西山歯科医院,宮崎県東諸県郡国富町大字本庄５００３-１,歯科　小児歯科,,,9" xlink:title="西山歯科医院" transform="ref(svg,13131.8619,-3199.0485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ただ歯科医院,宮崎県宮崎市田野町甲６００５-１,歯科,,,9" xlink:title="ただ歯科医院" transform="ref(svg,13133.5658,-3183.9388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たのなか歯科医院,宮崎県東諸県郡国富町本庄１７４４-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たのなか歯科医院" transform="ref(svg,13133.851,-3198.8041)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,聖歯科医院,宮崎県宮崎市高岡町下倉永字本町２５５-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="聖歯科医院" transform="ref(svg,13134.414,-3194.169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おび富田歯科医院,宮崎県日南市飫肥６-７-１８,歯科,,,9" xlink:title="おび富田歯科医院" transform="ref(svg,13135.4026,-3162.4563)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）わかば大手門歯科クリニック,宮崎県日南市飫肥６-７-５１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）わかば大手門歯科クリニック" transform="ref(svg,13135.4051,-3162.4797)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くつかけ歯科,宮崎県宮崎市清武町今泉下ノ原２８２５-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くつかけ歯科" transform="ref(svg,13135.5051,-3185.0526)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日--歯科医院,宮崎県日南市飫肥２-６-１４,歯科　小児歯科,,,9" xlink:title="日--歯科医院" transform="ref(svg,13135.5634,-3162.6446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花田歯科医院,宮崎県東諸県郡国富町大字木脇１０００-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="花田歯科医院" transform="ref(svg,13135.8031,-3198.7958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むた歯科医院,宮崎県宮崎市大字富吉８０４,歯科　小児歯科,,,9" xlink:title="むた歯科医院" transform="ref(svg,13135.9383,-3194.1323)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,相澤歯科医院,宮崎県西都市大字下三財３３７０-１相澤歯科医院,歯科,,,9" xlink:title="相澤歯科医院" transform="ref(svg,13135.9671,-3206.148)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）倉元歯科医院,宮崎県日南市星倉１-５-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）倉元歯科医院" transform="ref(svg,13136.1895,-3162.8424)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あい歯科クリニック,宮崎県日南市吾田西４-５-３６,歯科　小児歯科,,,9" xlink:title="あい歯科クリニック" transform="ref(svg,13137.0273,-3161.2951)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森歯科クリニック,宮崎県宮崎市糸原２５０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="森歯科クリニック" transform="ref(svg,13137.1212,-3196.0958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清雅会山口歯科医院,宮崎県日南市吾田西３-６-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）清雅会山口歯科医院" transform="ref(svg,13137.2122,-3160.9403)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浪花歯科医院,宮崎県日南市南郷町東町１４-９,歯科,,,9" xlink:title="浪花歯科医院" transform="ref(svg,13137.2435,-3153.4544)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤原歯科医院,宮崎県日南市南郷町中村乙７１０１-３５４,歯科,,,9" xlink:title="藤原歯科医院" transform="ref(svg,13137.2732,-3152.1751)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いちき歯科クリニック,宮崎県日南市吾田東１０-５-２７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いちき歯科クリニック" transform="ref(svg,13137.5488,-3161.4356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけさき歯科医院,宮崎県宮崎市生目４６５８-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たけさき歯科医院" transform="ref(svg,13137.5736,-3191.9984)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒木歯科医院,宮崎県日南市北郷町郷之原乙１２９３-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="黒木歯科医院" transform="ref(svg,13137.6373,-3168.0106)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,郷歯科医院,宮崎県宮崎市生目台東４-１８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="郷歯科医院" transform="ref(svg,13137.6622,-3190.4936)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日南歯科医院,宮崎県日南市吾田西１-５-４８,歯科,,,9" xlink:title="日南歯科医院" transform="ref(svg,13137.6717,-3160.6743)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,目井歯科医院,宮崎県日南市吾田東９-３-２８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="目井歯科医院" transform="ref(svg,13137.8458,-3161.0798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）真悠会富田歯科医院,宮崎県日南市中央通２-５-２１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）真悠会富田歯科医院" transform="ref(svg,13137.8972,-3160.4123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大堂津歯科医院,宮崎県日南市大堂津５-１０-２,歯科,,,9" xlink:title="大堂津歯科医院" transform="ref(svg,13137.9131,-3154.9303)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河野歯科医院,宮崎県日南市南郷町中村乙２３９３,歯科,,,9" xlink:title="河野歯科医院" transform="ref(svg,13137.9668,-3154.1032)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森歯科医院,宮崎県日南市中央通１-３-１７,歯科　歯科口腔外科,,,9" xlink:title="森歯科医院" transform="ref(svg,13137.9935,-3160.2459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福沢歯科医院,宮崎県宮崎市小松２６８８-３,歯科,,,9" xlink:title="福沢歯科医院" transform="ref(svg,13138.1524,-3192.7923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）市来歯科,宮崎県日南市南郷町中村乙２４７９,歯科　小児歯科,,,9" xlink:title="（医）市来歯科" transform="ref(svg,13138.1632,-3154.1446)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおせくじら歯科,宮崎県宮崎市大瀬町２３３１,歯科　小児歯科,,,9" xlink:title="おおせくじら歯科" transform="ref(svg,13138.243,-3197.0688)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しみず歯科医院,宮崎県宮崎市大塚台西２-１-３　３-２１１,歯科　小児歯科,,,9" xlink:title="しみず歯科医院" transform="ref(svg,13138.4429,-3191.7889)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆきえ歯科医院,宮崎県宮崎市清武町正手１-１０５,歯科　矯正歯科　小児歯科,,,9" xlink:title="ゆきえ歯科医院" transform="ref(svg,13138.5263,-3185.9248)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木田歯科医院,宮崎県宮崎市小松３２３９-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="木田歯科医院" transform="ref(svg,13138.608,-3192.6151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮田歯科医院,宮崎県宮崎市生目台東１-１-１,歯科　歯科口腔外科,,,9" xlink:title="宮田歯科医院" transform="ref(svg,13138.6496,-3190.4911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしむら歯科医院,宮崎県宮崎市大字跡江字境前３３４４-１,歯科　小児歯科,,,9" xlink:title="にしむら歯科医院" transform="ref(svg,13138.6909,-3194.4721)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,末原デンタルクリニック,宮崎県宮崎市清武町船引２０７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="末原デンタルクリニック" transform="ref(svg,13138.9121,-3185.571)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矯正・小児ひまわり歯科,宮崎県宮崎市大塚台東１-３２-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="矯正・小児ひまわり歯科" transform="ref(svg,13138.9174,-3192.3109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うめだ歯科医院,宮崎県宮崎市大塚町大迫南平４４８５-１,歯科　小児歯科,,,9" xlink:title="うめだ歯科医院" transform="ref(svg,13138.9397,-3190.5619)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やさき歯科,宮崎県宮崎市大塚町横立１５０７-２,歯科,,,9" xlink:title="やさき歯科" transform="ref(svg,13139.0296,-3192.3179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしな歯科医院,宮崎県宮崎市大塚町池ノ内１１２３-２０,歯科　小児歯科,,,9" xlink:title="にしな歯科医院" transform="ref(svg,13139.0879,-3192.4373)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中川歯科医院,宮崎県宮崎市大塚町馬場崎３５４６-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中川歯科医院" transform="ref(svg,13139.2141,-3191.3869)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石井歯科医院,宮崎県宮崎市清武町木原６３７３,歯科　小児歯科,,,9" xlink:title="石井歯科医院" transform="ref(svg,13139.339,-3184.6102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,穂北はせがわ歯科医院,宮崎県西都市大字南方字別府川３３０２-１,歯科　小児歯科,,,9" xlink:title="穂北はせがわ歯科医院" transform="ref(svg,13139.3563,-3213.1632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タカハシ歯科医院,宮崎県宮崎市大塚町地蔵田４６１２-５,歯科　小児歯科,,,9" xlink:title="タカハシ歯科医院" transform="ref(svg,13139.3829,-3190.8839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,末原歯科医院,宮崎県宮崎市清武町木原４９６-３,歯科　小児歯科,,,9" xlink:title="末原歯科医院" transform="ref(svg,13139.3912,-3185.8207)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかむら歯科医院,宮崎県宮崎市清武町加納甲１４０８-１,歯科　小児歯科,,,9" xlink:title="なかむら歯科医院" transform="ref(svg,13139.4703,-3187.322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまもと歯科,宮崎県宮崎市清武町池田台北３４-８８,歯科,,,9" xlink:title="やまもと歯科" transform="ref(svg,13139.4933,-3188.0466)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじさき歯科医院,宮崎県宮崎市大塚町窪田３３１６-１,歯科,,,9" xlink:title="ふじさき歯科医院" transform="ref(svg,13139.5621,-3191.3822)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鳥子いき歯科クリニック,宮崎県西都市三宅２３３５-３,歯科　小児歯科,,,9" xlink:title="鳥子いき歯科クリニック" transform="ref(svg,13139.5679,-3209.2736)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いりの歯科医院,宮崎県宮崎市大塚町権現昔７６４-１,歯科,,,9" xlink:title="いりの歯科医院" transform="ref(svg,13139.7451,-3192.3332)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわさき歯科口腔外科医院,宮崎県日南市天福２-４-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かわさき歯科口腔外科医院" transform="ref(svg,13139.8013,-3158.3134)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田島歯科医院,宮崎県日南市木山２-５-３０,歯科　矯正歯科,,,9" xlink:title="田島歯科医院" transform="ref(svg,13139.8419,-3159.1514)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こくぼ歯科,宮崎県宮崎市清武町木原字尾ノ下９０-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こくぼ歯科" transform="ref(svg,13139.8912,-3185.4399)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,祝子歯科,宮崎県宮崎市大塚町祝子前１７８３-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="祝子歯科" transform="ref(svg,13139.8931,-3191.9794)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長谷川歯科医院,宮崎県西都市大字妻平田１５２１,歯科　矯正歯科　小児歯科,,,9" xlink:title="長谷川歯科医院" transform="ref(svg,13139.9247,-3210.6734)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいしょ歯科,宮崎県宮崎市桜ケ丘町４１９-１,歯科,,,9" xlink:title="さいしょ歯科" transform="ref(svg,13139.9274,-3193.1081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安部歯科医院,宮崎県日南市園田１-１-１６,歯科　矯正歯科　小児歯科,,,9" xlink:title="安部歯科医院" transform="ref(svg,13139.9296,-3158.9453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷山歯科医院,宮崎県宮崎市福島町寺山３１４７-１２８,歯科　矯正歯科　小児歯科,,,9" xlink:title="谷山歯科医院" transform="ref(svg,13139.9703,-3191.1261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すが歯科医院,宮崎県西都市大字右松字三反田２１８０-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="すが歯科医院" transform="ref(svg,13139.9736,-3209.8163)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こむら歯科医院,宮崎県宮崎市花山手東３-２３-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こむら歯科医院" transform="ref(svg,13140.0387,-3190.132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふさやす歯科医院,宮崎県宮崎市大坪西２-１-３６,歯科,,,9" xlink:title="ふさやす歯科医院" transform="ref(svg,13140.079,-3189.6154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まえだ歯科,宮崎県宮崎市清武町加納甲３００４-１８３,歯科　小児歯科,,,9" xlink:title="まえだ歯科" transform="ref(svg,13140.086,-3187.4251)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉岡歯科医院,宮崎県宮崎市花山手西１-４-２,歯科　小児歯科,,,9" xlink:title="吉岡歯科医院" transform="ref(svg,13140.1482,-3190.4548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）欣生会ふさやす歯科医院,宮崎県日南市園田２-９-１１,歯科,,,9" xlink:title="（医）欣生会ふさやす歯科医院" transform="ref(svg,13140.1625,-3159.0569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おなが歯科医院,宮崎県日南市春日町４-６,歯科　小児歯科,,,9" xlink:title="おなが歯科医院" transform="ref(svg,13140.2758,-3158.6138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つじ歯科医院,宮崎県宮崎市福島町下ノ町７１４５-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="つじ歯科医院" transform="ref(svg,13140.319,-3191.047)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田歯科医院,宮崎県西都市御舟町２-５０-１,歯科,,,9" xlink:title="原田歯科医院" transform="ref(svg,13140.3616,-3210.8059)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みうら歯科医院,宮崎県宮崎市上北方２４-６,歯科　小児歯科,,,9" xlink:title="みうら歯科医院" transform="ref(svg,13140.3694,-3195.1057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小松くろき歯科,宮崎県宮崎市小松１２０３-６９,歯科　矯正歯科　小児歯科,,,9" xlink:title="小松くろき歯科" transform="ref(svg,13140.3856,-3193.3284)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みふね通り歯科クリニック,宮崎県西都市御舟町２-３５,歯科,,,9" xlink:title="みふね通り歯科クリニック" transform="ref(svg,13140.3992,-3210.8865)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかみデンタルクリニック,宮崎県西都市小野崎２-３７,歯科　小児歯科,,,9" xlink:title="たかみデンタルクリニック" transform="ref(svg,13140.4291,-3210.6115)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,宮崎県西都市小野崎２-９,歯科　矯正歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,13140.4876,-3210.4321)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加納歯科医院,宮崎県宮崎市清武町加納甲１９２９-１１,歯科,,,9" xlink:title="加納歯科医院" transform="ref(svg,13140.5394,-3187.514)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西都さくら歯科医院,宮崎県西都市右松３-２,歯科,,,9" xlink:title="西都さくら歯科医院" transform="ref(svg,13140.5741,-3210.2615)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡野歯科医院,宮崎県宮崎市大坪西１-１-６７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="岡野歯科医院" transform="ref(svg,13140.6157,-3189.6368)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野間歯科医院,宮崎県西都市妻町１-５０-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="野間歯科医院" transform="ref(svg,13140.638,-3210.8787)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）かわの歯科,宮崎県西都市下妻１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）かわの歯科" transform="ref(svg,13140.6555,-3210.6382)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たんぽぽ歯科,宮崎県宮崎市大橋３-６７-１,歯科　小児歯科,,,9" xlink:title="たんぽぽ歯科" transform="ref(svg,13140.6611,-3192.0352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上山歯科医院,宮崎県西都市妻町１-５６,歯科,,,9" xlink:title="上山歯科医院" transform="ref(svg,13140.6738,-3210.9151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島井歯科医院,宮崎県宮崎市清武町加納乙２４１-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="島井歯科医院" transform="ref(svg,13140.6966,-3187.9414)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日高歯科医院,宮崎県西都市妻町２-３０,歯科,,,9" xlink:title="日高歯科医院" transform="ref(svg,13140.713,-3210.9704)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,峯松歯科医院,宮崎県西都市中妻２-１,歯科,,,9" xlink:title="峯松歯科医院" transform="ref(svg,13140.7188,-3211.4045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,尾本歯科医院,宮崎県西都市中央町２-５５,歯科　矯正歯科　小児歯科,,,9" xlink:title="尾本歯科医院" transform="ref(svg,13140.8996,-3210.8493)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高松歯科クリニック,宮崎県宮崎市大工２-５６,歯科　矯正歯科　小児歯科,,,9" xlink:title="高松歯科クリニック" transform="ref(svg,13140.91,-3191.5628)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大田原歯科医院,宮崎県宮崎市大工２-１５６-２,歯科　歯科口腔外科,,,9" xlink:title="大田原歯科医院" transform="ref(svg,13141.1422,-3191.8564)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田島歯科クリニック,宮崎県宮崎市祇園１-１２１,歯科　小児歯科,,,9" xlink:title="田島歯科クリニック" transform="ref(svg,13141.1483,-3192.7893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみ歯科医院,宮崎県宮崎市大橋２-２２,歯科　小児歯科,,,9" xlink:title="いずみ歯科医院" transform="ref(svg,13141.1669,-3191.9244)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）博裕会押川歯科医院,宮崎県西都市大字調殿１０５１-３,歯科,,,9" xlink:title="（医）博裕会押川歯科医院" transform="ref(svg,13141.209,-3211.3131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あみ歯科医院,宮崎県宮崎市霧島３-１８３-２,歯科,,,9" xlink:title="あみ歯科医院" transform="ref(svg,13141.2481,-3193.3216)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひえじま歯科,宮崎県宮崎市霧島１-１４,歯科　矯正歯科,,,9" xlink:title="ひえじま歯科" transform="ref(svg,13141.2575,-3192.5557)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科医院,宮崎県宮崎市末広２-３-１５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="松本歯科医院" transform="ref(svg,13141.2683,-3191.5194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,陶山歯科医院,宮崎県宮崎市和知川原２-６-１,歯科,,,9" xlink:title="陶山歯科医院" transform="ref(svg,13141.2936,-3192.2552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まえざき歯科医院,宮崎県宮崎市京塚町１１３-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まえざき歯科医院" transform="ref(svg,13141.3162,-3189.6741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒木歯科医院,宮崎県宮崎市天満２-４-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="黒木歯科医院" transform="ref(svg,13141.3995,-3189.8088)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松岡歯科医院,宮崎県宮崎市大字恒久５０７５,歯科,,,9" xlink:title="松岡歯科医院" transform="ref(svg,13141.4059,-3188.958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさひヶ丘歯科医院,宮崎県宮崎市本郷北方２５２０-９０,歯科,,,9" xlink:title="あさひヶ丘歯科医院" transform="ref(svg,13141.4315,-3187.6212)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐野歯科,宮崎県宮崎市鶴島１-９-１９,歯科　小児歯科,,,9" xlink:title="佐野歯科" transform="ref(svg,13141.44,-3191.0228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川野歯科医院,宮崎県宮崎市松橋２-４-３４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="川野歯科医院" transform="ref(svg,13141.4573,-3191.163)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くらしげ歯科医院,宮崎県宮崎市大字恒久字赤池６７３３-１,歯科　小児歯科,,,9" xlink:title="くらしげ歯科医院" transform="ref(svg,13141.4815,-3189.1967)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大浦歯科,宮崎県宮崎市池内町城代８００-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="大浦歯科" transform="ref(svg,13141.5184,-3196.0696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヨコヤマデンタルオフィス,宮崎県宮崎市淀川３-１-１９,歯科,,,9" xlink:title="ヨコヤマデンタルオフィス" transform="ref(svg,13141.5436,-3190.0596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,陶山はじめ矯正歯科医院,宮崎県宮崎市和知川原１-５３-１,矯正歯科,,,9" xlink:title="陶山はじめ矯正歯科医院" transform="ref(svg,13141.5808,-3192.2905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いりえ歯科小児歯科医院,宮崎県宮崎市平和ヶ丘北町７-１,歯科　小児歯科,,,9" xlink:title="いりえ歯科小児歯科医院" transform="ref(svg,13141.5831,-3195.8235)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＫＥＮＺＯデンタルクリニック,宮崎県宮崎市南高松町３-１７,歯科　小児歯科,,,9" xlink:title="ＫＥＮＺＯデンタルクリニック" transform="ref(svg,13141.5894,-3191.5145)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホワイト歯科矯正歯科,宮崎県宮崎市神宮西２-２７８ナチュラルタウン１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="ホワイト歯科矯正歯科" transform="ref(svg,13141.6263,-3193.9245)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小村歯科医院,宮崎県宮崎市船塚２-１８０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="小村歯科医院" transform="ref(svg,13141.6388,-3193.0407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なばえ歯科医院,宮崎県宮崎市船塚２-１５８-１,歯科,,,9" xlink:title="なばえ歯科医院" transform="ref(svg,13141.6419,-3192.794)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しのざき中央歯科,宮崎県宮崎市大橋１-１２-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="しのざき中央歯科" transform="ref(svg,13141.6441,-3191.9752)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,月見ケ丘くろき歯科医院,宮崎県宮崎市月見ケ丘５-８-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="月見ケ丘くろき歯科医院" transform="ref(svg,13141.6799,-3188.0806)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）松永歯科クリニック,宮崎県宮崎市中津瀬町７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）松永歯科クリニック" transform="ref(svg,13141.7585,-3192.1505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,宮崎県宮崎市中村西２-７-５,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13141.7728,-3189.8544)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,峯田歯科,宮崎県宮崎市大淀４-１１-２オクノビル２Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="峯田歯科" transform="ref(svg,13141.7792,-3189.3866)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,そえじま矯正歯科,宮崎県宮崎市船塚２-６-２ＳＯＬＩＤＧＲＥＥＮ１階,矯正歯科,,,9" xlink:title="そえじま矯正歯科" transform="ref(svg,13141.8416,-3192.9171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高木歯科クリニック,宮崎県宮崎市清水２-７-１０,歯科　矯正歯科　小児歯科,,,9" xlink:title="高木歯科クリニック" transform="ref(svg,13141.8619,-3191.8294)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高岡歯科医院,宮崎県宮崎市清水３-３-３０,歯科,,,9" xlink:title="高岡歯科医院" transform="ref(svg,13141.8669,-3191.9075)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,二宮デンタルクリニック,宮崎県宮崎市高松町５-１５　２Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="二宮デンタルクリニック" transform="ref(svg,13141.873,-3191.5142)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シゲシロ歯科医院,宮崎県宮崎市中村西１-３-１,歯科　小児歯科,,,9" xlink:title="シゲシロ歯科医院" transform="ref(svg,13141.875,-3190.228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮田歯科クリニック,宮崎県宮崎市大淀４-８-３７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="宮田歯科クリニック" transform="ref(svg,13141.8875,-3189.6755)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田島歯科医院,宮崎県宮崎市中村東２-６-２７,歯科,,,9" xlink:title="田島歯科医院" transform="ref(svg,13141.9133,-3189.7877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高木歯科医院,宮崎県宮崎市清水２-６-３７上田ビル１階,歯科　小児歯科,,,9" xlink:title="高木歯科医院" transform="ref(svg,13141.9708,-3191.5456)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中原歯科医院,宮崎県宮崎市大淀４-６-２８宮交シティ２Ｆ,歯科　小児歯科,,,9" xlink:title="中原歯科医院" transform="ref(svg,13141.9789,-3189.4522)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつだ歯科医院,宮崎県宮崎市まなび野２-３９-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まつだ歯科医院" transform="ref(svg,13141.996,-3185.9567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,恵歯科クリニック,宮崎県宮崎市月見ケ丘１-２１-２５,歯科　小児歯科,,,9" xlink:title="恵歯科クリニック" transform="ref(svg,13142.0173,-3188.0968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえむら矯正歯科,宮崎県宮崎市橘通西１-５-３０ＴＩＰビル２０１,矯正歯科,,,9" xlink:title="うえむら矯正歯科" transform="ref(svg,13142.0302,-3190.9671)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長友歯科医院,宮崎県宮崎市学園木花台桜１-７-６,歯科　小児歯科,,,9" xlink:title="長友歯科医院" transform="ref(svg,13142.0328,-3182.7969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,相馬歯科医院,宮崎県宮崎市太田１-１-４２,歯科,,,9" xlink:title="相馬歯科医院" transform="ref(svg,13142.0399,-3190.3432)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科医院,宮崎県宮崎市神宮西１-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="林歯科医院" transform="ref(svg,13142.0626,-3193.6068)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西山歯科医院,宮崎県宮崎市神宮西２-１８３,歯科　小児歯科,,,9" xlink:title="西山歯科医院" transform="ref(svg,13142.0782,-3194.0295)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新原歯科医院,宮崎県宮崎市清水２-１１-２０,歯科　小児歯科,,,9" xlink:title="新原歯科医院" transform="ref(svg,13142.0835,-3192.123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,押川歯科医院,宮崎県宮崎市船塚２-８７,歯科　小児歯科,,,9" xlink:title="押川歯科医院" transform="ref(svg,13142.0971,-3193.0457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科医院,宮崎県宮崎市原町１２-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="松本歯科医院" transform="ref(svg,13142.1288,-3192.4916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松井歯科医院,宮崎県宮崎市清水１-５-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="松井歯科医院" transform="ref(svg,13142.1877,-3191.8478)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松井たかし矯正歯科クリニック,宮崎県宮崎市清水１-５-８,矯正歯科,,,9" xlink:title="松井たかし矯正歯科クリニック" transform="ref(svg,13142.1877,-3191.8478)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）幸峰会なかやま歯科医院,宮崎県宮崎市本郷北方字山崎３５８７-１,歯科,,,9" xlink:title="（医）幸峰会なかやま歯科医院" transform="ref(svg,13142.2401,-3186.9486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せお歯科医院,宮崎県宮崎市橘通東２-１-１,歯科,,,9" xlink:title="せお歯科医院" transform="ref(svg,13142.2402,-3191.0332)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タチカワデンタルクリニック,宮崎県宮崎市丸山１-９８-１,歯科　小児歯科,,,9" xlink:title="タチカワデンタルクリニック" transform="ref(svg,13142.2421,-3192.6796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はやしデンタルクリニック,宮崎県宮崎市橘通西３-１０-１９エアラインホテル１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はやしデンタルクリニック" transform="ref(svg,13142.2657,-3191.6543)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮崎大学医学部附属病院歯科口腔外科橘通りクリニツク,宮崎県宮崎市橘通西３-１０-３２ボンベルタ橘８Ｆ,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="宮崎大学医学部附属病院歯科口腔外科橘通りクリニツク" transform="ref(svg,13142.2722,-3191.607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松原歯科医院,宮崎県宮崎市橘通西４-１-３０,歯科　小児歯科,,,9" xlink:title="松原歯科医院" transform="ref(svg,13142.2997,-3191.7291)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,那須歯科医院,宮崎県宮崎市恒久１２１６-３,歯科　小児歯科,,,9" xlink:title="那須歯科医院" transform="ref(svg,13142.3125,-3188.6976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新田歯科医院,宮崎県宮崎市橘通西５-２-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="新田歯科医院" transform="ref(svg,13142.3224,-3192.0333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,インペリオデンタルクリニック,宮崎県宮崎市下北方町台木７１３-３,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="インペリオデンタルクリニック" transform="ref(svg,13142.3292,-3194.618)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森田歯科医院,宮崎県宮崎市橘通東３-２-３４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="森田歯科医院" transform="ref(svg,13142.3371,-3191.437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今井歯科医院,宮崎県宮崎市橘通東４-７-２８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="今井歯科医院" transform="ref(svg,13142.37,-3191.717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こおりやま歯科,宮崎県宮崎市橘通東１-１０-１１,歯科　小児歯科,,,9" xlink:title="こおりやま歯科" transform="ref(svg,13142.376,-3190.9018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福永歯科医院,宮崎県宮崎市月見ケ丘２-４２-２,歯科　小児歯科,,,9" xlink:title="福永歯科医院" transform="ref(svg,13142.3828,-3187.7882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田村歯科医院,宮崎県宮崎市大淀２-６-１９,歯科　小児歯科,,,9" xlink:title="田村歯科医院" transform="ref(svg,13142.3883,-3189.9638)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,宮崎県宮崎市橘通東３-４-２６,歯科　矯正歯科　小児歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13142.3894,-3191.5699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわた歯科医院,宮崎県宮崎市橘通東４-５-２,歯科　小児歯科,,,9" xlink:title="いわた歯科医院" transform="ref(svg,13142.431,-3191.7845)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥野歯科,宮崎県宮崎市下北方町上田々９６９-３,歯科　小児歯科,,,9" xlink:title="奥野歯科" transform="ref(svg,13142.4615,-3194.1714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沖歯科医院,宮崎県宮崎市江平西１-４-２５,歯科　矯正歯科　小児歯科,,,9" xlink:title="沖歯科医院" transform="ref(svg,13142.4648,-3192.5799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村歯科医院,宮崎県宮崎市神宮１-４５-２,歯科　小児歯科,,,9" xlink:title="野村歯科医院" transform="ref(svg,13142.4893,-3193.0804)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アート歯科マツダ,宮崎県宮崎市橘通東５-３-８,歯科　小児歯科,,,9" xlink:title="アート歯科マツダ" transform="ref(svg,13142.4903,-3192.1683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アイル歯科クリニック宮崎オフィス,宮崎県宮崎市橘通東３-６-１９ＥＳＴ２ビルディング３０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アイル歯科クリニック宮崎オフィス" transform="ref(svg,13142.5076,-3191.616)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸山歯科医院,宮崎県宮崎市橘通東４-１１-９,歯科,,,9" xlink:title="丸山歯科医院" transform="ref(svg,13142.5149,-3191.9567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひだか歯科医院,宮崎県宮崎市宮田町６-１６,歯科　矯正歯科　小児歯科,,,9" xlink:title="ひだか歯科医院" transform="ref(svg,13142.5493,-3191.2831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒木歯科医院,宮崎県宮崎市広島１-４-３,歯科　小児歯科,,,9" xlink:title="黒木歯科医院" transform="ref(svg,13142.5503,-3191.5375)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神宮歯科医院,宮崎県宮崎市神宮東１-７-２５,歯科　小児歯科,,,9" xlink:title="神宮歯科医院" transform="ref(svg,13142.5687,-3193.4623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒木歯科医院,宮崎県宮崎市旭１-３-１８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="黒木歯科医院" transform="ref(svg,13142.6013,-3191.0126)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森迫デンタルクリニック,宮崎県宮崎市学園木花台南３-１２-１,歯科,,,9" xlink:title="森迫デンタルクリニック" transform="ref(svg,13142.6113,-3182.9255)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲田歯科医院,宮崎県宮崎市恒久南２-９-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="稲田歯科医院" transform="ref(svg,13142.615,-3189.2917)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くにた歯科医院,宮崎県宮崎市江平東１-２-７,歯科　小児歯科,,,9" xlink:title="くにた歯科医院" transform="ref(svg,13142.6212,-3192.6227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うのき歯科医院,宮崎県宮崎市本郷南方５４６８,歯科,,,9" xlink:title="うのき歯科医院" transform="ref(svg,13142.6246,-3186.2169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沼田歯科医院,宮崎県宮崎市広島１-１５-１８,歯科　矯正歯科　小児歯科,,,9" xlink:title="沼田歯科医院" transform="ref(svg,13142.7568,-3191.4431)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉尾歯科医院,宮崎県宮崎市江平中町３-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="杉尾歯科医院" transform="ref(svg,13142.759,-3192.1392)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新坂歯科医院,宮崎県宮崎市旭１-６-１８,歯科,,,9" xlink:title="新坂歯科医院" transform="ref(svg,13142.7618,-3190.8413)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,宮崎県宮崎市高千穂通１-８-２,歯科,,,9" xlink:title="武田歯科医院" transform="ref(svg,13142.7778,-3191.7824)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山岡歯科医院,宮崎県宮崎市大字田吉２１２-９,歯科,,,9" xlink:title="山岡歯科医院" transform="ref(svg,13142.7914,-3188.1404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科,宮崎県宮崎市城ケ崎２-８-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="スマイル歯科" transform="ref(svg,13142.7957,-3189.7192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大宮小前歯科医院,宮崎県宮崎市南花ケ島町３１０-１２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大宮小前歯科医院" transform="ref(svg,13142.7987,-3194.2625)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおにし歯科医院,宮崎県宮崎市大字郡司分甲１５７６-１,歯科,,,9" xlink:title="おおにし歯科医院" transform="ref(svg,13142.8236,-3184.7478)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,恒吉歯科医院,宮崎県宮崎市佐土原町上田島３９５７-１,歯科,,,9" xlink:title="恒吉歯科医院" transform="ref(svg,13142.8281,-3205.1568)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮路歯科医院,宮崎県宮崎市大字田吉字赤江１４８,歯科,,,9" xlink:title="宮路歯科医院" transform="ref(svg,13142.8786,-3187.8257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科医院,宮崎県宮崎市神宮東２-１-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="加藤歯科医院" transform="ref(svg,13142.9151,-3193.4768)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上山歯科医院,宮崎県宮崎市恒久３-６-１１,歯科,,,9" xlink:title="上山歯科医院" transform="ref(svg,13142.9169,-3189.5272)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかぐち歯科医院,宮崎県宮崎市恒久３-３０-２３,歯科　矯正歯科　小児歯科,,,9" xlink:title="さかぐち歯科医院" transform="ref(svg,13143.0402,-3189.1964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかたけ歯科医院,宮崎県宮崎市吾妻町７５中武ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="なかたけ歯科医院" transform="ref(svg,13143.1907,-3190.4341)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひとえ歯科クリニック,宮崎県宮崎市恒久３４０-１,歯科　小児歯科,,,9" xlink:title="ひとえ歯科クリニック" transform="ref(svg,13143.1972,-3188.689)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たじな歯科医院,宮崎県宮崎市大字本郷南方４０２５-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たじな歯科医院" transform="ref(svg,13143.2059,-3186.3278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ウィング歯科医院,宮崎県宮崎市柳丸町５３-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="ウィング歯科医院" transform="ref(svg,13143.212,-3192.8524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さきやま歯科医院,宮崎県宮崎市熊野９９５７-２,歯科　小児歯科,,,9" xlink:title="さきやま歯科医院" transform="ref(svg,13143.2138,-3183.4216)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科医院,宮崎県宮崎市佐土原町上田島３８６３,歯科,,,9" xlink:title="高山歯科医院" transform="ref(svg,13143.2512,-3205.1143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河-ｱ歯科医院,宮崎県宮崎市恒久４-１２,歯科,,,9" xlink:title="河-ｱ歯科医院" transform="ref(svg,13143.2653,-3189.4998)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｋｉｄｓ　Ｄｅｎｔａｌ　Ｃｌｉｎｉｃ,宮崎県宮崎市大字本郷南方榎田２５３７-１,小児歯科,,,9" xlink:title="Ｋｉｄｓ　Ｄｅｎｔａｌ　Ｃｌｉｎｉｃ" transform="ref(svg,13143.2739,-3186.0214)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,希望ヶ丘歯科医院,宮崎県宮崎市本郷南方２８４９-１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="希望ヶ丘歯科医院" transform="ref(svg,13143.2844,-3186.02)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木花歯科医院,宮崎県宮崎市大字熊野９９７９-１,歯科　小児歯科,,,9" xlink:title="木花歯科医院" transform="ref(svg,13143.306,-3183.2482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,弓場歯科医院,宮崎県宮崎市花ケ島町赤江町１３６６-２,歯科　小児歯科,,,9" xlink:title="弓場歯科医院" transform="ref(svg,13143.3181,-3194.7719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花ヶ島歯科医院,宮崎県宮崎市花ケ島町赤江町１３４８第一小野ビル１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="花ヶ島歯科医院" transform="ref(svg,13143.3181,-3194.7719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かんべ歯科医院,宮崎県宮崎市堀川町２６-４,歯科　小児歯科,,,9" xlink:title="かんべ歯科医院" transform="ref(svg,13143.3348,-3191.0512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺本歯科医院,宮崎県宮崎市柳丸町９７-２,歯科　小児歯科,,,9" xlink:title="寺本歯科医院" transform="ref(svg,13143.4045,-3192.4922)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大江歯科医院,宮崎県宮崎市恒久５-１０-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="大江歯科医院" transform="ref(svg,13143.4285,-3189.049)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒木歯科医院,宮崎県宮崎市佐土原町上田島１９３０-１,歯科,,,9" xlink:title="黒木歯科医院" transform="ref(svg,13143.4556,-3204.9899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とごえ歯科医院,宮崎県宮崎市堀川町５３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="とごえ歯科医院" transform="ref(svg,13143.4851,-3190.9729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青山歯科医院,宮崎県宮崎市本郷南方２０４０-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="青山歯科医院" transform="ref(svg,13143.4864,-3185.5595)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わかば小児歯科,宮崎県宮崎市永楽町２０７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="わかば小児歯科" transform="ref(svg,13143.5112,-3190.4902)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山内歯科,宮崎県宮崎市花ケ島町立毛１０３２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山内歯科" transform="ref(svg,13143.5164,-3195.4383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルプランニングクリニック,宮崎県宮崎市権現町１３８-１２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="デンタルプランニングクリニック" transform="ref(svg,13143.525,-3193.1149)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）誠英会土田歯科医院,宮崎県宮崎市宮崎駅東１-３-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）誠英会土田歯科医院" transform="ref(svg,13143.5751,-3191.5431)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くろき歯科医院,宮崎県宮崎市柳丸町１４５-２,歯科　小児歯科,,,9" xlink:title="くろき歯科医院" transform="ref(svg,13143.5984,-3192.7702)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひがし歯科医院,宮崎県宮崎市大島町野田２１１９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひがし歯科医院" transform="ref(svg,13143.6017,-3194.0645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かまた歯科・かまたキッズデンタルパーク,宮崎県宮崎市青葉町１２１-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="かまた歯科・かまたキッズデンタルパーク" transform="ref(svg,13143.6103,-3192.0083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわさき歯科口腔ケア医院,宮崎県宮崎市昭和町８２-１クアルタ・カーサ１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かわさき歯科口腔ケア医院" transform="ref(svg,13143.6412,-3190.8516)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科クリニック,宮崎県宮崎市浮城町１５-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="吉田歯科クリニック" transform="ref(svg,13143.6823,-3193.0968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アクア歯科クリニック,宮崎県宮崎市桜町１１-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="アクア歯科クリニック" transform="ref(svg,13143.7214,-3195.1055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ねい歯科医院,宮崎県宮崎市大島町原ノ前１４４５-３５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ねい歯科医院" transform="ref(svg,13143.7629,-3193.4541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,宮崎県宮崎市大字赤江４１４-３,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13143.7752,-3188.5034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山-ｱ歯科クリニック,宮崎県宮崎市熊野４８１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山-ｱ歯科クリニック" transform="ref(svg,13143.7879,-3182.8386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごとう歯科医院,宮崎県宮崎市芳士７０８-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ごとう歯科医院" transform="ref(svg,13143.8102,-3196.1146)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ますだ歯科,宮崎県宮崎市吉村町曽師中甲３１００,歯科　矯正歯科,,,9" xlink:title="ますだ歯科" transform="ref(svg,13143.9025,-3190.9016)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,真鍋歯科医院,宮崎県宮崎市広原１８８-４,歯科　歯科口腔外科,,,9" xlink:title="真鍋歯科医院" transform="ref(svg,13143.9456,-3199.4135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かさはら歯科医院,宮崎県宮崎市佐土原町上田島字樋之口,歯科,,,9" xlink:title="かさはら歯科医院" transform="ref(svg,13143.9762,-3204.8259)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,峯田歯科クリニック,宮崎県宮崎市新名爪１０６-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="峯田歯科クリニック" transform="ref(svg,13144.0185,-3197.3898)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,バナナ歯科,宮崎県宮崎市芳士８９１-１,歯科　小児歯科,,,9" xlink:title="バナナ歯科" transform="ref(svg,13144.0488,-3196.7551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すが歯科医院,宮崎県宮崎市新名爪１８８-３５,歯科　小児歯科,,,9" xlink:title="すが歯科医院" transform="ref(svg,13144.0571,-3197.6548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,宮崎県宮崎市東大宮４-２３-１０,歯科,,,9" xlink:title="前田歯科医院" transform="ref(svg,13144.0839,-3194.6536)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おにむら歯科,宮崎県宮崎市中西町１２５-２,歯科　小児歯科,,,9" xlink:title="おにむら歯科" transform="ref(svg,13144.1703,-3190.3561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かせだ歯科医院,宮崎県宮崎市一の宮町２１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かせだ歯科医院" transform="ref(svg,13144.2453,-3190.7041)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆうこうデンタルクリニック,宮崎県宮崎市吉村町島田甲７３９-５,歯科　小児歯科,,,9" xlink:title="ゆうこうデンタルクリニック" transform="ref(svg,13144.2642,-3192.5247)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田辺歯科医院,宮崎県宮崎市吉村町大町前甲２２５３-１１,歯科　小児歯科,,,9" xlink:title="田辺歯科医院" transform="ref(svg,13144.2711,-3191.3162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）秀明会岩谷歯科医院,宮崎県宮崎市吉村町西田甲６４７-９,歯科　小児歯科,,,9" xlink:title="（医）秀明会岩谷歯科医院" transform="ref(svg,13144.2775,-3192.1225)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たちばな歯科医院,宮崎県宮崎市大字熊野字正蓮寺１０８６-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たちばな歯科医院" transform="ref(svg,13144.2887,-3182.1947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いの歯科医院,宮崎県宮崎市大字赤江１３２２-１,歯科,,,9" xlink:title="いの歯科医院" transform="ref(svg,13144.3312,-3188.5715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かつ歯科クリニック,宮崎県宮崎市浮城町４５-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かつ歯科クリニック" transform="ref(svg,13144.3936,-3192.7024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大山歯科医院,宮崎県宮崎市村角町折口３７４-１,歯科　小児歯科,,,9" xlink:title="大山歯科医院" transform="ref(svg,13144.4935,-3195.696)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわきり歯科,宮崎県宮崎市吉村町下り松甲２４９７-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いわきり歯科" transform="ref(svg,13144.5475,-3190.8035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のなか歯科医院,宮崎県宮崎市大島町南窪８０８-１,歯科　小児歯科,,,9" xlink:title="のなか歯科医院" transform="ref(svg,13144.6039,-3193.3321)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひだか歯科クリニック,宮崎県宮崎市高洲町１１５-１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひだか歯科クリニック" transform="ref(svg,13144.6906,-3190.0511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すみれ歯科クリニック,宮崎県宮崎市田代町８７-１アレグリア１０１,歯科　小児歯科,,,9" xlink:title="すみれ歯科クリニック" transform="ref(svg,13144.764,-3190.4201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恵嗣会若松歯科クリニック,宮崎県宮崎市大字島之内６６８２-１,歯科,,,9" xlink:title="（医）恵嗣会若松歯科クリニック" transform="ref(svg,13144.7739,-3198.2981)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）雅会かわの歯科,宮崎県宮崎市大字島之内７３１２-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）雅会かわの歯科" transform="ref(svg,13145.0542,-3198.6054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シーサイド歯科,宮崎県宮崎市阿波岐原町火切塚１４３８-４,歯科　小児歯科,,,9" xlink:title="シーサイド歯科" transform="ref(svg,13145.0729,-3194.0505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,宮崎県宮崎市島之内７１７０,歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,13145.1772,-3198.8294)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小村歯科クリニック,宮崎県宮崎市新別府町城元３１３-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="小村歯科クリニック" transform="ref(svg,13145.2163,-3192.6791)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ありま歯科医院,宮崎県宮崎市新別府町堂前８５２-４,歯科　歯科口腔外科,,,9" xlink:title="ありま歯科医院" transform="ref(svg,13145.2312,-3192.5094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中央田島歯科医院,宮崎県宮崎市新別府町山宮６５７-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中央田島歯科医院" transform="ref(svg,13145.2841,-3192.165)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島津歯科医院,宮崎県宮崎市島之内２３７３-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="島津歯科医院" transform="ref(svg,13145.3125,-3199.2091)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけしま歯科医院,宮崎県児湯郡新富町大字新田４７６３-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="たけしま歯科医院" transform="ref(svg,13145.399,-3206.6403)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂元歯科クリニック,宮崎県宮崎市阿波岐ヶ原町２３５０-１,歯科　矯正歯科,,,9" xlink:title="坂元歯科クリニック" transform="ref(svg,13145.4656,-3193.2606)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サンデンタルクリニック,宮崎県宮崎市新別府町船戸７５０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="サンデンタルクリニック" transform="ref(svg,13145.6105,-3192.4269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（一社）宮崎市郡歯科医師会宮崎歯科福祉センター,宮崎県宮崎市新別府町久保田６８３-１,歯科,,,9" xlink:title="（一社）宮崎市郡歯科医師会宮崎歯科福祉センター" transform="ref(svg,13145.6341,-3192.6588)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小城歯科,宮崎県宮崎市大字島之内永池９２１３-５２,歯科　小児歯科,,,9" xlink:title="小城歯科" transform="ref(svg,13145.6753,-3198.2784)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,若林歯科医院,宮崎県宮崎市大字島之内１７６９-３,歯科　小児歯科,,,9" xlink:title="若林歯科医院" transform="ref(svg,13145.7444,-3199.1294)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はまだ歯科医院,宮崎県宮崎市佐土原町下那珂５０５２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はまだ歯科医院" transform="ref(svg,13146.4681,-3200.9498)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のざき歯科,宮崎県宮崎市佐土原町下田島２１６１９-５０,歯科,,,9" xlink:title="のざき歯科" transform="ref(svg,13146.6858,-3201.9867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしぞの歯科医院,宮崎県児湯郡木城町大字椎木４１５４-１７,歯科,,,9" xlink:title="にしぞの歯科医院" transform="ref(svg,13146.7862,-3215.9003)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおしま歯科クリニック,宮崎県宮崎市青島２-８-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あおしま歯科クリニック" transform="ref(svg,13146.8357,-3180.0634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,宮崎県宮崎市佐土原町下田島８９７５-３,歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,13146.8838,-3203.4652)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,郡司歯科医院,宮崎県宮崎市佐土原町下那珂３３５１-３,歯科,,,9" xlink:title="郡司歯科医院" transform="ref(svg,13146.9725,-3200.3155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトー歯科医院,宮崎県宮崎市佐土原町下那珂２７１１-１８,歯科,,,9" xlink:title="サトー歯科医院" transform="ref(svg,13147.263,-3200.7294)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢野歯科医院,宮崎県宮崎市佐土原町下田島９８０１-１,歯科,,,9" xlink:title="矢野歯科医院" transform="ref(svg,13147.5004,-3202.5089)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さどわら中央歯科医院,宮崎県宮崎市佐土原町松小路４-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さどわら中央歯科医院" transform="ref(svg,13147.5354,-3202.3359)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中里歯科医院,宮崎県宮崎市佐土原町下田島２０２９６-２１２,歯科,,,9" xlink:title="中里歯科医院" transform="ref(svg,13147.5732,-3201.7346)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科クリニック,宮崎県宮崎市佐土原町下那珂字仁王作１２４７-２２,歯科　矯正歯科　小児歯科,,,9" xlink:title="太田歯科クリニック" transform="ref(svg,13147.6511,-3200.3047)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,恒吉歯科医院,宮崎県宮崎市佐土原町下田島１９７６２-１,歯科,,,9" xlink:title="恒吉歯科医院" transform="ref(svg,13147.7517,-3201.5035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科診療所,宮崎県児湯郡高鍋町大字上江８１５７,歯科　小児歯科,,,9" xlink:title="関歯科診療所" transform="ref(svg,13147.8858,-3213.6654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いのうえ小児歯科,宮崎県宮崎市佐土原町下田島１９２７６-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="いのうえ小児歯科" transform="ref(svg,13148.2449,-3201.4282)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮地歯科医院,宮崎県児湯郡新富町富田南４-５２,歯科,,,9" xlink:title="宮地歯科医院" transform="ref(svg,13148.7317,-3206.2549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いちき歯科,宮崎県児湯郡新富町富田２-１０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="いちき歯科" transform="ref(svg,13149.0314,-3206.8848)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こころ歯科クリニック,宮崎県児湯郡新富町富田３-１９-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="こころ歯科クリニック" transform="ref(svg,13149.1999,-3207.0634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科医院,宮崎県児湯郡高鍋町上江８３６８,歯科,,,9" xlink:title="いとう歯科医院" transform="ref(svg,13150.4374,-3212.9296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,団井歯科医院,宮崎県児湯郡高鍋町大字南高鍋５４７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="団井歯科医院" transform="ref(svg,13150.6918,-3212.326)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江藤歯科医院,宮崎県児湯郡高鍋町大字北高鍋１３６-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="江藤歯科医院" transform="ref(svg,13150.8535,-3213.3226)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大森歯科医院,宮崎県児湯郡高鍋町北高鍋１３４７-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="大森歯科医院" transform="ref(svg,13150.921,-3212.8785)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上野歯科診療所,宮崎県児湯郡高鍋町大字北高鍋９９９,歯科,,,9" xlink:title="上野歯科診療所" transform="ref(svg,13151.017,-3213.239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながとも歯科医院,宮崎県児湯郡高鍋町大字北高鍋１２４３-５,歯科,,,9" xlink:title="ながとも歯科医院" transform="ref(svg,13151.2479,-3212.6768)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中崎歯科医院,宮崎県児湯郡高鍋町北高鍋１０２４-１,歯科,,,9" xlink:title="中崎歯科医院" transform="ref(svg,13151.3587,-3213.2084)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,宮崎県児湯郡高鍋町大字北高鍋３３０８,歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13151.8642,-3212.7304)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津曲歯科医院,宮崎県児湯郡高鍋町北高鍋４５８１,歯科　小児歯科,,,9" xlink:title="津曲歯科医院" transform="ref(svg,13151.9631,-3212.7738)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみ歯科医院,宮崎県児湯郡川南町大字川南１３５６７-２,歯科,,,9" xlink:title="いずみ歯科医院" transform="ref(svg,13152.6434,-3219.9559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浜本歯科医院,宮崎県児湯郡川南町大字平田２３７２-３０,歯科,,,9" xlink:title="浜本歯科医院" transform="ref(svg,13152.7343,-3219.4215)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒木康夫歯科医院,宮崎県児湯郡都農町大字川北５３５１-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="黒木康夫歯科医院" transform="ref(svg,13155.5691,-3225.7748)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,宮崎県児湯郡都農町大字川北４５８９-１,歯科,,,9" xlink:title="前田歯科医院" transform="ref(svg,13156.0507,-3225.4304)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木の葉歯科医院,宮崎県児湯郡都農町大字川北旧牧跡１８８３０-６,歯科　小児歯科,,,9" xlink:title="木の葉歯科医院" transform="ref(svg,13156.8689,-3228.3415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永吉ちひろ歯科,宮崎県宮崎市大塚町正市５６２５,歯科　小児歯科,,,9" xlink:title="永吉ちひろ歯科" transform="ref(svg,13140.054,-3191.7703)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タナカデンタルクリニック,宮崎県宮崎市橘通東２-４-２３,歯科,,,9" xlink:title="タナカデンタルクリニック" transform="ref(svg,13142.3117,-3191.1555)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）アポロ矯正歯科,宮崎県宮崎市広島１-１８-４臼杵ビル２Ｆ,矯正歯科,,,9" xlink:title="（医）アポロ矯正歯科" transform="ref(svg,13142.6615,-3191.5936)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮崎北歯科医院,宮崎県宮崎市大字芳士１０９８-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="宮崎北歯科医院" transform="ref(svg,13144.3474,-3196.2941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科医院,宮崎県児湯郡高鍋町大字高鍋町５７２,歯科,,,9" xlink:title="関歯科医院" transform="ref(svg,13150.8577,-3212.4032)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科診療所,宮崎県児湯郡高鍋町大字北高鍋２１００,歯科　矯正歯科　小児歯科,,,9" xlink:title="ひまわり歯科診療所" transform="ref(svg,13151.5904,-3212.2013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まこと歯科医院,宮崎県児湯郡川南町大字川南１３６１４-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まこと歯科医院" transform="ref(svg,13152.4563,-3219.5984)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高城歯科医院,宮崎県児湯郡木城町大字高城１２９１,歯科　矯正歯科　小児歯科,,,9" xlink:title="高城歯科医院" transform="ref(svg,13147.4664,-3216.65)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,押川歯科医院,宮崎県小林市真方２６９,歯科,,,9" xlink:title="押川歯科医院" transform="ref(svg,13097.9531,-3199.8759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,益山歯科医院,宮崎県西諸県郡高原町大字西麓８４５,歯科,,,9" xlink:title="益山歯科医院" transform="ref(svg,13100.9922,-3193.1539)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,持永歯科医院,宮崎県都城市早水町４５０３-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="持永歯科医院" transform="ref(svg,13109.0472,-3173.8875)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内之浦歯科医院,宮崎県都城市中原町１４街区-１１,歯科,,,9" xlink:title="内之浦歯科医院" transform="ref(svg,13107.1104,-3172.6891)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,昭寿園前歯科,宮崎県日南市大字風田３８６０-２５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="昭寿園前歯科" transform="ref(svg,13142.2812,-3161.2944)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡本歯科医院,宮崎県日南市南郷町東町６-６,歯科,,,9" xlink:title="岡本歯科医院" transform="ref(svg,13137.406,-3153.6313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科クリニック高千穂通,宮崎県宮崎市高千穂通２-５-３６宮崎２５ビル１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="前田歯科クリニック高千穂通" transform="ref(svg,13142.8933,-3191.6223)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮崎ミナトデンタルオフィス,宮崎県宮崎市昭栄町１２７センチュリーコート８番館１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="宮崎ミナトデンタルオフィス" transform="ref(svg,13145.3658,-3191.5798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,宮崎県宮崎市錦町１-１０宮崎グリーンスフィア壱番館ＫＩＴＥＮビル２階,歯科　小児歯科,,,9" xlink:title="清水歯科医院" transform="ref(svg,13143.1318,-3191.6345)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きずな歯科医院,宮崎県西都市荒武３９６７-３,歯科,,,9" xlink:title="きずな歯科医院" transform="ref(svg,13135.683,-3202.9512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おか歯科,宮崎県宮崎市堀川町１７７-１,歯科　矯正歯科,,,9" xlink:title="おか歯科" transform="ref(svg,13143.2086,-3190.7985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有村歯科クリニック,鹿児島県霧島市福山町福山５３７５-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="有村歯科クリニック" transform="ref(svg,13085.3134,-3166.8766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科クリニック,鹿児島県霧島市国分郡田２７７-９,歯科　小児歯科,,,9" xlink:title="さくら歯科クリニック" transform="ref(svg,13078.3793,-3176.4203)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,牧園川坂歯科医院,鹿児島県霧島市牧園町高千穂３０９６-３,歯科,,,9" xlink:title="牧園川坂歯科医院" transform="ref(svg,13078.7604,-3186.1324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥歯科医院,鹿児島県霧島市牧園町高千穂３６２０-６０,歯科　矯正歯科　小児歯科,,,9" xlink:title="奥歯科医院" transform="ref(svg,13081.4563,-3188.1229)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きりしま歯科,鹿児島県霧島市霧島大窪４６６,歯科　矯正歯科　小児歯科,,,9" xlink:title="きりしま歯科" transform="ref(svg,13083.7432,-3181.9339)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科,鹿児島県霧島市霧島田口９１９,歯科口腔外科　歯科　小児歯科,,,9" xlink:title="中村歯科" transform="ref(svg,13084.2436,-3183.6235)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桐原歯科医院,鹿児島県霧島市福山町福山４５４１-４,歯科,,,9" xlink:title="桐原歯科医院" transform="ref(svg,13084.6981,-3167.2377)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,榎田歯科医院,鹿児島県霧島市福山町福山５１５０-２２０,歯科　小児歯科,,,9" xlink:title="榎田歯科医院" transform="ref(svg,13085.7061,-3166.7442)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,そふと歯科,鹿児島県霧島市国分敷根１６７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="そふと歯科" transform="ref(svg,13078.7866,-3170.6535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中牟田歯科医院,鹿児島県霧島市国分清水２-１１-１８-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中牟田歯科医院" transform="ref(svg,13078.1686,-3176.0066)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおやま歯科クリニック,鹿児島県鹿屋市寿４-６-４８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おおやま歯科クリニック" transform="ref(svg,13087.6198,-3138.853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,けいこ歯科,鹿児島県鹿屋市寿４-１１-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="けいこ歯科" transform="ref(svg,13087.823,-3138.8821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらたデンタルクリニック,鹿児島県鹿屋市札元１-１６-８,歯科　小児歯科,,,9" xlink:title="ひらたデンタルクリニック" transform="ref(svg,13087.0498,-3139.4319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はまち歯科・小児歯科クリニック,鹿児島県鹿屋市札元２-３７７１-１１,歯科　小児歯科,,,9" xlink:title="はまち歯科・小児歯科クリニック" transform="ref(svg,13087.2544,-3140.3071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よつもと矯正歯科,鹿児島県鹿屋市寿４-４-１１,矯正歯科,,,9" xlink:title="よつもと矯正歯科" transform="ref(svg,13087.4449,-3139.0791)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みずぐち歯科クリニック,鹿児島県曽於市末吉町二之方６３８８,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="みずぐち歯科クリニック" transform="ref(svg,13102.5289,-3163.8915)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩城歯科医院,鹿児島県肝属郡錦江町城元７１２,歯科,,,9" xlink:title="岩城歯科医院" transform="ref(svg,13078.9481,-3124.4564)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科朝川医院,鹿児島県曽於市大隅町岩川７２６４,歯科　矯正歯科　小児歯科,,,9" xlink:title="歯科朝川医院" transform="ref(svg,13099.9075,-3158.3409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,有村歯科医院,鹿児島県曽於市末吉町二之方２２８３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="有村歯科医院" transform="ref(svg,13102.334,-3164.8128)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飯山歯科医院,鹿児島県志布志市有明町野井倉７７２４,歯科　矯正歯科　小児歯科,,,9" xlink:title="飯山歯科医院" transform="ref(svg,13105.5345,-3144.9845)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井ノ上歯科医院,鹿児島県志布志市志布志町志布志３-２-１７,歯科,,,9" xlink:title="井ノ上歯科医院" transform="ref(svg,13109.5793,-3147.3843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,鹿児島県曽於市大隅町中之内８８４２-５１,歯科　小児歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13098.618,-3159.8766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上床歯科医院,鹿児島県曽於郡大崎町仮宿１５４８,歯科　小児歯科　矯正歯科,,,9" xlink:title="上床歯科医院" transform="ref(svg,13100.7412,-3142.7074)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおすみ歯科医院,鹿児島県曽於郡大崎町野方６０３７-１０,歯科　小児歯科,,,9" xlink:title="おおすみ歯科医院" transform="ref(svg,13094.0971,-3150.8426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,春日歯科医院,鹿児島県志布志市志布志町志布志２-１-２７,歯科,,,9" xlink:title="春日歯科医院" transform="ref(svg,13109.8247,-3147.6028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かすが歯科,鹿児島県志布志市有明町蓬原１９-５,歯科,,,9" xlink:title="かすが歯科" transform="ref(svg,13105.1401,-3144.7672)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川嶋歯科医院,鹿児島県曽於市末吉町岩崎９８９-１,歯科,,,9" xlink:title="川嶋歯科医院" transform="ref(svg,13099.9364,-3159.4797)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂元歯科医院,鹿児島県志布志市志布志町志布志１-２-１１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="坂元歯科医院" transform="ref(svg,13110.6427,-3147.8162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,迫田歯科クリニック,鹿児島県曽於郡大崎町仮宿１０９１-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="迫田歯科クリニック" transform="ref(svg,13100.604,-3142.7381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科・小児歯科,鹿児島県志布志市志布志町志布志３-１７-３,歯科口腔外科　歯科　矯正歯科　小児歯科,,,9" xlink:title="ささき歯科・小児歯科" transform="ref(svg,13109.5068,-3147.1702)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さめしま歯科,鹿児島県志布志市有明町野井倉上ノ濱８３０４-２７,歯科　小児歯科,,,9" xlink:title="さめしま歯科" transform="ref(svg,13106.394,-3145.4526)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新堂歯科医院,鹿児島県曽於郡大崎町永吉１０１４２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="新堂歯科医院" transform="ref(svg,13100.2485,-3142.1093)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すなお歯科,鹿児島県志布志市有明町野神３４０９-３,歯科　小児歯科,,,9" xlink:title="すなお歯科" transform="ref(svg,13100.1846,-3148.442)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すみよし歯科,鹿児島県曽於市末吉町二之方３１０７-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すみよし歯科" transform="ref(svg,13104.1083,-3163.2809)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科クリニック,鹿児島県曽於市末吉町二之方６３９４-１,歯科,,,9" xlink:title="関歯科クリニック" transform="ref(svg,13101.7769,-3164.8264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宅間歯科医院,鹿児島県曽於市財部町南俣字南１１７８-１０,歯科　歯科口腔外科,,,9" xlink:title="宅間歯科医院" transform="ref(svg,13098.797,-3172.7039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たんぽぽオーラルケアクリニック,鹿児島県志布志市志布志町志布志９６７-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たんぽぽオーラルケアクリニック" transform="ref(svg,13108.9381,-3148.9649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかしま歯科クリニック,鹿児島県志布志市志布志町志布志６１０-１１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なかしま歯科クリニック" transform="ref(svg,13109.2482,-3149.0808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中原歯科医院,鹿児島県志布志市松山町新橋２３０,歯科　小児歯科,,,9" xlink:title="中原歯科医院" transform="ref(svg,13103.9636,-3157.5624)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西国領歯科医院,鹿児島県志布志市志布志町志布志３-５-３０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西国領歯科医院" transform="ref(svg,13109.0986,-3147.1656)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,鹿児島県志布志市志布志町志布志１-２１-１２,歯科　小児歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,13110.5486,-3147.7227)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科クリニック,鹿児島県曽於市大隅町岩川５６１６-１,歯科　小児歯科,,,9" xlink:title="渡辺歯科クリニック" transform="ref(svg,13099.1303,-3159.6277)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はらぞの歯科,鹿児島県鹿屋市下堀町９５７７-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はらぞの歯科" transform="ref(svg,13083.8782,-3135.3017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつおか歯科クリニック,鹿児島県鹿屋市郷之原町１２５８８-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まつおか歯科クリニック" transform="ref(svg,13082.2439,-3138.6504)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きらら歯科クリニック,鹿児島県鹿屋市輝北町上百引４０１５-６,歯科　小児歯科,,,9" xlink:title="きらら歯科クリニック" transform="ref(svg,13086.606,-3154.4658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおぞら歯科,鹿児島県鹿屋市西原１-２９-２７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あおぞら歯科" transform="ref(svg,13083.622,-3138.4985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あげの歯科医院,鹿児島県肝属郡肝付町新富１０７-４,歯科　小児歯科,,,9" xlink:title="あげの歯科医院" transform="ref(svg,13094.6185,-3134.5135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさい歯科,鹿児島県鹿屋市笠之原町２５-４-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あさい歯科" transform="ref(svg,13089.4648,-3138.8856)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安代歯科,鹿児島県鹿屋市北田町９-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="安代歯科" transform="ref(svg,13084.9257,-3138.8645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安楽歯科医院,鹿児島県鹿屋市寿５-１７-４０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="安楽歯科医院" transform="ref(svg,13086.2002,-3138.6114)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科,鹿児島県鹿屋市串良町岡崎２１６２-１,歯科,,,9" xlink:title="池田歯科" transform="ref(svg,13096.0329,-3139.4167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いなざわ歯科医院,鹿児島県鹿屋市川西町４４６０-６,歯科　小児歯科,,,9" xlink:title="いなざわ歯科医院" transform="ref(svg,13087.1454,-3136.1541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いなば歯科,鹿児島県鹿屋市西原２-３４-１７,歯科　小児歯科,,,9" xlink:title="いなば歯科" transform="ref(svg,13082.9905,-3138.7372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩崎歯科医院,鹿児島県鹿屋市吾平町上名２０３,歯科,,,9" xlink:title="岩崎歯科医院" transform="ref(svg,13089.8316,-3132.4555)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかの歯科医院,鹿児島県肝属郡肝付町南方２６７１-１,歯科　小児歯科,,,9" xlink:title="おかの歯科医院" transform="ref(svg,13107.3232,-3128.1574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おにがはら歯科医院,鹿児島県鹿屋市寿２-１６-２０,歯科　小児歯科,,,9" xlink:title="おにがはら歯科医院" transform="ref(svg,13086.5674,-3138.9852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小浜歯科医院,鹿児島県鹿屋市吾平町麓３４２８-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小浜歯科医院" transform="ref(svg,13089.8547,-3132.8829)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上村歯科医院,鹿児島県鹿屋市田崎町２４２１-５,歯科,,,9" xlink:title="上村歯科医院" transform="ref(svg,13086.1751,-3136.3372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上村歯科医院,鹿児島県肝属郡肝付町南方１９８,歯科,,,9" xlink:title="上村歯科医院" transform="ref(svg,13107.8504,-3127.4649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川前歯科医院,鹿児島県肝属郡錦江町城元７５７-３,歯科,,,9" xlink:title="川前歯科医院" transform="ref(svg,13078.7296,-3124.4266)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,鹿児島県肝属郡錦江町田代麓６５２-７,歯科　小児歯科,,,9" xlink:title="神田歯科医院" transform="ref(svg,13084.4366,-3120.1063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,貴島歯科医院,鹿児島県鹿屋市札元１-２４-９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="貴島歯科医院" transform="ref(svg,13087.329,-3139.4389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クリス歯科,鹿児島県鹿屋市白崎町１９-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="クリス歯科" transform="ref(svg,13086.0299,-3137.5542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,鹿児島県鹿屋市西原４-７-２１,歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,13082.9412,-3138.4385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかもと歯科クリニック,鹿児島県鹿屋市寿８-２１-２,歯科,,,9" xlink:title="さかもと歯科クリニック" transform="ref(svg,13088.0276,-3138.6649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さこだ歯科医院,鹿児島県鹿屋市吾平町麓３３３３,歯科　小児歯科,,,9" xlink:title="さこだ歯科医院" transform="ref(svg,13089.8007,-3133.1954)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,重久歯科医院,鹿児島県肝属郡東串良町岩弘２６７６,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="重久歯科医院" transform="ref(svg,13096.9186,-3140.057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,重久歯科医院,鹿児島県鹿屋市向江町１１-１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="重久歯科医院" transform="ref(svg,13085.1694,-3138.4603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島田歯科医院,鹿児島県鹿屋市打馬２-１０-２,歯科　小児歯科,,,9" xlink:title="島田歯科医院" transform="ref(svg,13085.4568,-3139.5249)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下浜歯科医院,鹿児島県鹿屋市川西町４４４８-１２,歯科　小児歯科,,,9" xlink:title="下浜歯科医院" transform="ref(svg,13087.4071,-3136.0503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神宮司歯科医院,鹿児島県鹿屋市西大手町１-２１,歯科,,,9" xlink:title="神宮司歯科医院" transform="ref(svg,13084.9308,-3138.8996)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すみの歯科,鹿児島県鹿屋市寿３-１１-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="すみの歯科" transform="ref(svg,13087.0657,-3138.7892)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,鹿児島県鹿屋市今坂町１００４５-３８,歯科　矯正歯科　小児歯科,,,9" xlink:title="武田歯科医院" transform="ref(svg,13082.7311,-3137.7565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,辻畑歯科医院,鹿児島県鹿屋市大手町２-５,歯科　小児歯科,,,9" xlink:title="辻畑歯科医院" transform="ref(svg,13084.9619,-3138.8872)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土屋歯科医院,鹿児島県肝属郡肝付町新富１９１-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="土屋歯科医院" transform="ref(svg,13094.8222,-3134.8937)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠矢歯科医院,鹿児島県肝属郡肝付町新富３３,歯科,,,9" xlink:title="遠矢歯科医院" transform="ref(svg,13094.4371,-3134.6021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とおや治歯科クリニック,鹿児島県鹿屋市寿１-１４-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="とおや治歯科クリニック" transform="ref(svg,13085.726,-3138.9011)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中野歯科医院,鹿児島県鹿屋市共栄町１５-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中野歯科医院" transform="ref(svg,13085.212,-3137.8971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中原歯科診療所,鹿児島県鹿屋市西原１-１２-１９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中原歯科診療所" transform="ref(svg,13083.9835,-3138.6055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永山矯正歯科医院,鹿児島県鹿屋市西原４-１０-４９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="永山矯正歯科医院" transform="ref(svg,13082.8535,-3138.2289)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西の原歯科医院,鹿児島県鹿屋市打馬１-４-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="西の原歯科医院" transform="ref(svg,13085.2587,-3139.3236)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根木原歯科,鹿児島県鹿屋市札元１-２２-１１,歯科　小児歯科,,,9" xlink:title="根木原歯科" transform="ref(svg,13087.1071,-3139.7034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしき歯科,鹿児島県鹿屋市寿７-５-４５,歯科　矯正歯科　小児歯科,,,9" xlink:title="はしき歯科" transform="ref(svg,13086.842,-3138.6056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひがし歯科医院,鹿児島県鹿屋市田渕町８４３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひがし歯科医院" transform="ref(svg,13083.7158,-3133.4496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらおか歯科,鹿児島県鹿屋市新川町１３４-１,歯科　小児歯科,,,9" xlink:title="ひらおか歯科" transform="ref(svg,13087.3319,-3137.9065)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつおか歯科医院,鹿児島県鹿屋市串良町上小原野茶下３４７４-１１,歯科　小児歯科,,,9" xlink:title="まつおか歯科医院" transform="ref(svg,13091.7981,-3138.6437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつもと歯科,鹿児島県鹿屋市白水町６９８-３,歯科　小児歯科,,,9" xlink:title="まつもと歯科" transform="ref(svg,13078.8562,-3139.7266)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高須歯科医院,鹿児島県鹿屋市高須町９５０-１,歯科,,,9" xlink:title="高須歯科医院" transform="ref(svg,13079.8902,-3134.3794)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水口歯科医院,鹿児島県鹿屋市寿２-１４-４１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="水口歯科医院" transform="ref(svg,13086.5326,-3138.6866)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやぞの歯科,鹿児島県肝属郡肝付町後田２３８７-１,歯科　小児歯科,,,9" xlink:title="みやぞの歯科" transform="ref(svg,13092.4054,-3134.0213)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本橋歯科医院,鹿児島県鹿屋市串良町岡崎２１９０-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="本橋歯科医院" transform="ref(svg,13095.8768,-3139.4648)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八木歯科,鹿児島県鹿屋市白崎町２-８,歯科　小児歯科,,,9" xlink:title="八木歯科" transform="ref(svg,13085.5468,-3137.7627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしどめ歯科医院,鹿児島県肝属郡肝付町新富字島畑７３９-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="よしどめ歯科医院" transform="ref(svg,13095.1414,-3134.5716)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉留歯科医院,鹿児島県鹿屋市旭原町２５２４-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="吉留歯科医院" transform="ref(svg,13087.949,-3140.6512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉留歯科医院,鹿児島県肝属郡東串良町池之原１２４６,歯科　矯正歯科　小児歯科,,,9" xlink:title="吉留歯科医院" transform="ref(svg,13096.348,-3139.0127)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,四元歯科医院,鹿児島県鹿屋市西原１-１-３,歯科,,,9" xlink:title="四元歯科医院" transform="ref(svg,13084.5454,-3138.8186)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安代歯科,鹿児島県鹿屋市北田町９-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="安代歯科" transform="ref(svg,13084.9257,-3138.8645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せと歯科医院,鹿児島県曽於市財部町南俣４５６,歯科　小児歯科,,,9" xlink:title="せと歯科医院" transform="ref(svg,13099.2857,-3172.5202)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいあい歯科,鹿児島県曽於市末吉町新町１-６-９,小児歯科　歯科口腔外科　歯科　矯正歯科,,,9" xlink:title="あいあい歯科" transform="ref(svg,13102.0088,-3165.77)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,輝北歯科,鹿児島県鹿屋市輝北町上百引３４０６-１,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="輝北歯科" transform="ref(svg,13086.7855,-3154.1501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,輝北歯科,鹿児島県鹿屋市輝北町上百引３４０６-１,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="輝北歯科" transform="ref(svg,13086.7855,-3154.1501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科・こども歯科クリニック,鹿児島県曽於郡大崎町假宿６７２８-３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひまわり歯科・こども歯科クリニック" transform="ref(svg,13100.736,-3142.5544)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらじ歯科クリニック,鹿児島県鹿屋市串良町細山田５１７４-１,歯科　小児歯科,,,9" xlink:title="むらじ歯科クリニック" transform="ref(svg,13092.2777,-3144.3455)" x="0" y="0"/>
+</g>
+</svg>

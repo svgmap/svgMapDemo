@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13851.5625 -3726.5625 70.3125 70.3125" go:dataArea="13851.5625 -3726.5625 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,中山診療所,群馬県吾妻郡高山村大字中山２３０-１,内科　外科　整形外科　胃腸科,,,9" xlink:title="中山診療所" transform="ref(svg,13895.057,-3662.4153)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吾妻養護老人ホーム診療所,群馬県吾妻郡高山村大字中山６８５８-２４,内科,,,9" xlink:title="吾妻養護老人ホーム診療所" transform="ref(svg,13896.1768,-3659.6128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,布施医院,群馬県吾妻郡草津町大字草津４６２-５８,内科　小児科　消化器内科,,,9" xlink:title="布施医院" transform="ref(svg,13859.1955,-3662.0303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,草津外科内科クリニック,群馬県吾妻郡草津町大字草津２４９-３６,内科　外科　小児科　皮膚科　性病科　泌尿器科　アレルギー科　肛門科,,,9" xlink:title="草津外科内科クリニック" transform="ref(svg,13860.2533,-3661.9166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,草津温泉松岡医院,群馬県吾妻郡草津町大字草津７６０-２,内科　リハビリテーション科,,,9" xlink:title="草津温泉松岡医院" transform="ref(svg,13859.267,-3662.9188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）国立療養所栗生楽泉園所属診療所,群馬県吾妻郡草津町大字草津乙６４７,内科　外科　皮膚科　眼科　耳鼻いんこう科　歯科,,,9" xlink:title="厚生労働省第二（共済）国立療養所栗生楽泉園所属診療所" transform="ref(svg,13862.6406,-3661.7801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天狗山診療所,群馬県吾妻郡草津町大字草津白根国有林１５８林班内,外科,,,9" xlink:title="天狗山診療所" transform="ref(svg,13858.7144,-3662.8204)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四万へき地診療所,群馬県吾妻郡中之条町大字四万国有林３０林班イ小班,内科,,,9" xlink:title="四万へき地診療所" transform="ref(svg,13883.9948,-3658.8156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しまだ医院,群馬県吾妻郡中之条町大字伊勢町２８-１,内科　小児科,,,9" xlink:title="しまだ医院" transform="ref(svg,13885.5308,-3658.1317)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）けんもち医院,群馬県吾妻郡中之条町大字伊勢町８３７-１,産婦人科　眼科　内科,,,9" xlink:title="（医）けんもち医院" transform="ref(svg,13884.8988,-3658.6665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平田医院,群馬県吾妻郡中之条町大字伊勢町９０２,内科　小児科　皮膚科,,,9" xlink:title="平田医院" transform="ref(svg,13885.742,-3658.7031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吾妻保健所,群馬県吾妻郡中之条町大字西中之条１８３-１,内科,,,9" xlink:title="吾妻保健所" transform="ref(svg,13883.2668,-3658.9359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,後藤医院,群馬県吾妻郡中之条町大字西中之条６４３-２,内科　小児科　皮膚科,,,9" xlink:title="後藤医院" transform="ref(svg,13883.9627,-3658.9853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やまゆり荘診療所,群馬県吾妻郡中之条町大字折田２５１５,内科,,,9" xlink:title="（特養）やまゆり荘診療所" transform="ref(svg,13881.4133,-3660.2157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桑原整形外科クリニック,群馬県吾妻郡中之条町大字中之条９５６,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="桑原整形外科クリニック" transform="ref(svg,13884.3626,-3658.8433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サザン小川診療所,群馬県吾妻郡中之条町大字中之条町７１４-１,内科,,,9" xlink:title="（特養）サザン小川診療所" transform="ref(svg,13883.2482,-3658.3701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東吾妻町立（特養）いわびつ荘診療所,群馬県吾妻郡東吾妻町大字原町５０１５,内科,,,9" xlink:title="東吾妻町立（特養）いわびつ荘診療所" transform="ref(svg,13881.9787,-3656.9946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加地医院,群馬県吾妻郡東吾妻町大字原町６３４-１,内科,,,9" xlink:title="加地医院" transform="ref(svg,13882.5319,-3657.1725)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吾妻脳神経外科循環器科,群馬県吾妻郡東吾妻町大字原町７６０-１,内科　神経内科　循環器内科　脳神経外科　リハビリテーション科　消化器内科　心臓血管外科,,,9" xlink:title="吾妻脳神経外科循環器科" transform="ref(svg,13882.9351,-3657.5689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パナソニックエコソリューションズ朝日（株）診療室,群馬県吾妻郡東吾妻町大字川戸６６６-１,内科,,,9" xlink:title="パナソニックエコソリューションズ朝日（株）診療室" transform="ref(svg,13882.4489,-3656.6534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六合診療所小雨出張所,群馬県吾妻郡中之条町大字小雨６０４-３,内科,,,9" xlink:title="六合診療所小雨出張所" transform="ref(svg,13862.8196,-3659.6818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六合診療所広池出張所,群馬県吾妻郡中之条町大字赤岩１１４０-３,内科,,,9" xlink:title="六合診療所広池出張所" transform="ref(svg,13864.0679,-3656.9741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六合診療所湯久保出張所,群馬県吾妻郡中之条町大字日影１２５６,内科,,,9" xlink:title="六合診療所湯久保出張所" transform="ref(svg,13861.0342,-3658.0989)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六合診療所,群馬県吾妻郡中之条町大字入山１４７８-５,内科　小児科　歯科,,,9" xlink:title="六合診療所" transform="ref(svg,13865.1683,-3664.9683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六合診療所田代原出張所,群馬県吾妻郡中之条町大字入山４２２７-３,内科,,,9" xlink:title="六合診療所田代原出張所" transform="ref(svg,13862.3035,-3664.3503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内潤会くりはら医院,群馬県吾妻郡東吾妻町大字原町５７２-１,泌尿器科（人工透析）　内科　外科　腎臓内科,,,9" xlink:title="（医）内潤会くりはら医院" transform="ref(svg,13882.6835,-3657.0817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吾妻東整形外科,群馬県吾妻郡中之条町大字伊勢町７５６-１,整形外科　リハビリテーション科,,,9" xlink:title="吾妻東整形外科" transform="ref(svg,13885.1927,-3658.4991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子医院,群馬県沼田市白沢町平出７６５,内科　小児科,,,9" xlink:title="金子医院" transform="ref(svg,13912.7411,-3665.603)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,皇海診療所,群馬県沼田市利根町大楊９６９-２,内科　外科　脳神経外科,,,9" xlink:title="皇海診療所" transform="ref(svg,13921.2597,-3669.311)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,利根南郷診療所,群馬県沼田市利根町日影南郷甲９０,内科　小児科,,,9" xlink:title="利根南郷診療所" transform="ref(svg,13918.236,-3663.3113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）菜の花館診療所,群馬県利根郡昭和村大字糸井１７５７-３１１,脳神経外科,,,9" xlink:title="（特養）菜の花館診療所" transform="ref(svg,13907.7869,-3664.0789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柄沢医院,群馬県利根郡昭和村大字貝野瀬２７２-２,内科　小児科　皮膚科　泌尿器科　放射線科,,,9" xlink:title="柄沢医院" transform="ref(svg,13908.5824,-3665.101)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別養護老人ホーム西嶺の郷診療所,群馬県利根郡みなかみ町西峰須川４７２-１,内科,,,9" xlink:title="特別養護老人ホーム西嶺の郷診療所" transform="ref(svg,13890.9781,-3668.7073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）開成日の出会竹内医院,群馬県利根郡みなかみ町下津２０９５,内科　外科　脳神経外科　循環器科　整形外科　胃腸科　小児科　リハビリテーション科,,,9" xlink:title="（医）開成日の出会竹内医院" transform="ref(svg,13898.5139,-3667.1694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水上医院,群馬県利根郡みなかみ町鹿野沢乙１９６,内科　外科　小児科,,,9" xlink:title="水上医院" transform="ref(svg,13896.8725,-3678.0107)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中内科医院,群馬県利根郡みなかみ町新巻３３-１,内科　小児科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="田中内科医院" transform="ref(svg,13893.9392,-3668.098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（社）志純会特別養護老人ホームやまぶきの苑診療所,群馬県利根郡みなかみ町石倉１５０,内科,,,9" xlink:title="（社）志純会特別養護老人ホームやまぶきの苑診療所" transform="ref(svg,13898.2861,-3674.106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかだクリニック,群馬県利根郡みなかみ町下牧１８８-２,内科　小児科　循環器内科　アレルギー科　皮膚科　神経内科,,,9" xlink:title="たかだクリニック" transform="ref(svg,13898.9834,-3669.3415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森下診療所,群馬県利根郡昭和村大字森下１０２４,内科　小児科,,,9" xlink:title="森下診療所" transform="ref(svg,13905.2565,-3661.3575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）ほたか会附属診療所,群馬県利根郡川場村大字生品１８６１,内科,,,9" xlink:title="（福）ほたか会附属診療所" transform="ref(svg,13907.7635,-3666.8313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川場診療所,群馬県利根郡川場村大字谷地２０７７-１,内科　小児科　放射線科,,,9" xlink:title="川場診療所" transform="ref(svg,13910.7425,-3669.6104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川場スキー場クリニック,群馬県利根郡川場村大字湯原１６７１-１,整形外科,,,9" xlink:title="川場スキー場クリニック" transform="ref(svg,13912.4775,-3671.9517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塩崎医院,群馬県沼田市清水町４２１１,内科　産婦人科,,,9" xlink:title="塩崎医院" transform="ref(svg,13903.6072,-3664.418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木クリニック,群馬県沼田市高橋場町２０４８-３,内科　小児科　アレルギー科　胃腸科　呼吸器科　循環器科,,,9" xlink:title="青木クリニック" transform="ref(svg,13906.0283,-3665.3245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かない眼科クリニック,群馬県沼田市高橋場町２０７２-９,眼科,,,9" xlink:title="かない眼科クリニック" transform="ref(svg,13906.4866,-3665.4209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さこだクリニック,群馬県沼田市高橋場町３１５-４,内科　循環器科,,,9" xlink:title="さこだクリニック" transform="ref(svg,13905.0727,-3664.9663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（社）健生会特別養護老人ホーム花の苑クリニック,群馬県沼田市戸鹿野町３７５-１,内科,,,9" xlink:title="（社）健生会特別養護老人ホーム花の苑クリニック" transform="ref(svg,13903.7026,-3663.3698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菜の花館園原診療所,群馬県沼田市利根町園原８７０,内科,,,9" xlink:title="菜の花館園原診療所" transform="ref(svg,13918.4309,-3665.6119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,利根保健（生協）とね診療所,群馬県沼田市東原新町１９１７-１,内科　外科,,,9" xlink:title="利根保健（生協）とね診療所" transform="ref(svg,13905.5172,-3665.0822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いきいきクリニック,群馬県沼田市久屋原町３４０-３,内科　小児科　老年内科,,,9" xlink:title="いきいきクリニック" transform="ref(svg,13910.6043,-3666.5317)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田メンタルクリニック,群馬県沼田市横塚町１１８１-１,心療内科　精神科　神経科,,,9" xlink:title="武田メンタルクリニック" transform="ref(svg,13908.313,-3666.3682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,利根沼田保健所,群馬県沼田市薄根町４４１２,内科,,,9" xlink:title="利根沼田保健所" transform="ref(svg,13903.7862,-3663.8475)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沼田利根医師会休日急患診療所,群馬県沼田市上原町１８０１-２,内科　小児科,,,9" xlink:title="沼田利根医師会休日急患診療所" transform="ref(svg,13906.4067,-3664.9471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金海医院,群馬県沼田市戸神町６０２,内科　循環器科　小児科　呼吸器科　アレルギー科　消化器科,,,9" xlink:title="金海医院" transform="ref(svg,13905.4267,-3667.6556)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沼田クリニック,群馬県沼田市栄町６１-３,内科　循環器内科　脳神経外科　リハビリテーション科　神経内科　ペインクリニック外科　整形外科　心臓血管外科　耳鼻咽喉科　泌尿器科　呼吸器内科　皮膚科　消化器科　内科　消化器科　外科　血液内科　糖尿病内科　甲状腺内科　乳腺内科　歯科　歯科口腔外科,小児歯科　リウマチ科,,9" xlink:title="沼田クリニック" transform="ref(svg,13905.1446,-3663.9658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林内科医院,群馬県沼田市横塚町１２７５-２,内科　呼吸器科　小児科　消化器科　循環器科　放射線科,,,9" xlink:title="林内科医院" transform="ref(svg,13907.8877,-3666.0116)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛宕老人ホーム診療所,群馬県沼田市横塚町５７-２,内科,,,9" xlink:title="愛宕老人ホーム診療所" transform="ref(svg,13907.2819,-3665.8098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）桔梗会ききょうの里診療所,群馬県沼田市横塚町９５７-２,内科,,,9" xlink:title="（福）桔梗会ききょうの里診療所" transform="ref(svg,13910.0255,-3667.1294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ほたか会ほたか医科歯科クリニック,群馬県沼田市下久屋町９４０-１,外科　整形外科　歯科　眼科,,,9" xlink:title="（医）ほたか会ほたか医科歯科クリニック" transform="ref(svg,13908.518,-3665.9221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤塚医院,群馬県沼田市下川田町５３０,内科　小児科,,,9" xlink:title="藤塚医院" transform="ref(svg,13903.0904,-3662.9887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保産婦人科医院,群馬県沼田市高橋場町２０３１-４,産科　内科　小児科　放射線科,,,9" xlink:title="久保産婦人科医院" transform="ref(svg,13905.8222,-3665.3094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）源医会藤塚クリニック,群馬県沼田市高橋場町２１５０-１１,泌尿器科　内科　外科　小児科,,,9" xlink:title="（医）源医会藤塚クリニック" transform="ref(svg,13905.2114,-3665.221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こうだ医院,群馬県沼田市材木町１５６,婦人科　内科　小児科,,,9" xlink:title="こうだ医院" transform="ref(svg,13904.8177,-3664.7959)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桑原内科医院,群馬県沼田市材木町４５-１,内科　呼吸器科　胃腸科　放射線科,,,9" xlink:title="桑原内科医院" transform="ref(svg,13904.9933,-3664.6289)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）沼田病院診療部,群馬県沼田市上原町１５５１-４,内科　外科　小児科,,,9" xlink:title="厚生労働省第二（共済）沼田病院診療部" transform="ref(svg,13906.095,-3664.5929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,角田外科医院,群馬県沼田市上原町１５５５-３,内科　外科　胃腸科　整形外科　皮膚科　脳神経外科　肛門科,,,9" xlink:title="角田外科医院" transform="ref(svg,13905.9628,-3664.7248)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,代田眼科,群馬県沼田市上原町１６１９-１５,眼科,,,9" xlink:title="代田眼科" transform="ref(svg,13906.4542,-3664.8033)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つのだ小児科クリニック,群馬県沼田市西原新町甲１２２,小児科　内科,,,9" xlink:title="つのだ小児科クリニック" transform="ref(svg,13905.0272,-3664.7636)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かないクリニック,群馬県沼田市西原新町甲９２,内科　神経内科,,,9" xlink:title="かないクリニック" transform="ref(svg,13905.2694,-3664.7485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江森内科医院,群馬県沼田市西倉内町５８８,内科　循環器科　消化器科　呼吸器科,,,9" xlink:title="江森内科医院" transform="ref(svg,13904.2411,-3664.7303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加瀬医院,群馬県沼田市鍛冶町９８３,内科　婦人科,,,9" xlink:title="加瀬医院" transform="ref(svg,13904.4051,-3664.1469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松栄会松田耳鼻咽喉科医院,群馬県沼田市東原新町１５３８-１７,呼吸器科　外科　耳鼻咽喉科　気管食道科,,,9" xlink:title="（医）松栄会松田耳鼻咽喉科医院" transform="ref(svg,13905.7831,-3664.7044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,光整形外科医院,群馬県沼田市東倉内町２１９-８,整形外科　外科　泌尿器科　皮膚科　放射線科　リウマチ科　心療内科,,,9" xlink:title="光整形外科医院" transform="ref(svg,13904.709,-3664.7347)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沼田眼科医院,群馬県沼田市東倉内町２８２-４,眼科,,,9" xlink:title="沼田眼科医院" transform="ref(svg,13904.7043,-3664.7637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石田医院,群馬県沼田市馬喰町１２１４,内科　小児科　放射線科,,,9" xlink:title="石田医院" transform="ref(svg,13904.7786,-3664.3903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堤眼科,群馬県沼田市馬喰町１２３１-２,眼科,,,9" xlink:title="堤眼科" transform="ref(svg,13904.7399,-3664.3516)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白根クリニック,群馬県沼田市薄根町３３００-１,内科　泌尿器科,,,9" xlink:title="白根クリニック" transform="ref(svg,13903.1911,-3664.4147)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢内整形外科医院,群馬県沼田市薄根町４０６２-３,内科　整形外科　リウマチ科,,,9" xlink:title="矢内整形外科医院" transform="ref(svg,13903.3633,-3664.6525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉澤医院,群馬県沼田市発知新田町３３８,内科　小児科,,,9" xlink:title="吉澤医院" transform="ref(svg,13906.4051,-3669.8268)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋産婦人科医院,群馬県沼田市坊新田町１１０２,婦人科　内科　小児科,,,9" xlink:title="高橋産婦人科医院" transform="ref(svg,13904.7199,-3664.223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）亀榮会山本医院,群馬県利根郡みなかみ町湯宿温泉５７３,内科　小児科,,,9" xlink:title="（医）亀榮会山本医院" transform="ref(svg,13891.3821,-3669.9316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）くやはら内診療所,群馬県沼田市久屋原町４１４-１,内科　老年内科,,,9" xlink:title="（特養）くやはら内診療所" transform="ref(svg,13910.7599,-3666.6211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しめぎ整形外科クリニック,群馬県沼田市柳町２５６３-１２,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="しめぎ整形外科クリニック" transform="ref(svg,13904.1954,-3665.1267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やなぎまち皮フ科クリニック,群馬県沼田市柳町２５６２-１,皮膚科,,,9" xlink:title="やなぎまち皮フ科クリニック" transform="ref(svg,13904.2158,-3665.0479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つのだ医院,群馬県沼田市久屋原町１１４-１,内科　消化器内科　小児科,,,9" xlink:title="つのだ医院" transform="ref(svg,13908.9742,-3666.3111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パナソニックエコソリューションズ内装建材（株）群馬工場健康管理室,群馬県沼田市井土上町１３５,内科,,,9" xlink:title="パナソニックエコソリューションズ内装建材（株）群馬工場健康管理室" transform="ref(svg,13901.9363,-3666.2571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平井皮膚科医院,群馬県沼田市恩田町３５３,皮膚科,,,9" xlink:title="平井皮膚科医院" transform="ref(svg,13902.1935,-3665.7683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川口診療所,新潟県長岡市西川口１２４０-１,内科　消化器内科　外科,,,9" xlink:title="川口診療所" transform="ref(svg,13886.0534,-3726.5222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あおりの里診療所,新潟県長岡市西川口１１７３-３,内科,,,9" xlink:title="（特養）あおりの里診療所" transform="ref(svg,13886.0678,-3726.435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤巻医院,新潟県小千谷市真人町甲５-１,内科　外科　婦人科,,,9" xlink:title="藤巻医院" transform="ref(svg,13877.6377,-3723.3056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤巻医院芋時診療所,新潟県小千谷市真人町丁５８０-３,内科,,,9" xlink:title="藤巻医院芋時診療所" transform="ref(svg,13880.2582,-3724.9169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,魚沼病院岩沢診療所,新潟県小千谷市岩沢１００３,内科,,,9" xlink:title="魚沼病院岩沢診療所" transform="ref(svg,13879.6129,-3724.2303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六花園診療所,新潟県魚沼市堀之内２１９７-１,内科,,,9" xlink:title="六花園診療所" transform="ref(svg,13892.5215,-3722.8273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白塚内科医院,新潟県魚沼市堀之内７５-４,内科　消化器内科,,,9" xlink:title="白塚内科医院" transform="ref(svg,13892.2793,-3724.6094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新田医院,新潟県魚沼市堀之内３３１８-３,内科　消化器内科　皮膚科　外科　整形外科　婦人科,,,9" xlink:title="新田医院" transform="ref(svg,13893.059,-3723.8366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上村医院,新潟県魚沼市諏訪町１-１２,内科　小児科,,,9" xlink:title="上村医院" transform="ref(svg,13896.0058,-3723.2613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村田医院,新潟県魚沼市四日町６０,内科　皮膚科　外科,,,9" xlink:title="村田医院" transform="ref(svg,13895.8949,-3723.5015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,庭山外科医院,新潟県魚沼市四日町１０１-２,内科　循環器内科　消化器内科　外科　整形外科,,,9" xlink:title="庭山外科医院" transform="ref(svg,13895.6441,-3723.5303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新潟眼科クリニック小出分院,新潟県魚沼市稲荷町１-２２,眼科,,,9" xlink:title="新潟眼科クリニック小出分院" transform="ref(svg,13895.8131,-3723.3346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,魚沼市南山荘医務室,新潟県魚沼市下折立５６１,内科　精神科,,,9" xlink:title="魚沼市南山荘医務室" transform="ref(svg,13906.479,-3720.6311)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,廣川医院,新潟県魚沼市小出島１２０９-７９,気管食道外科　耳鼻咽喉科,,,9" xlink:title="廣川医院" transform="ref(svg,13896.5754,-3722.9745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子クリニック,新潟県魚沼市田尻１６４-２,内科　消化器内科,,,9" xlink:title="金子クリニック" transform="ref(svg,13897.3136,-3726.2076)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やいろの里診療所,新潟県魚沼市岡新田３００-３,内科　精神科,,,9" xlink:title="やいろの里診療所" transform="ref(svg,13893.9074,-3718.3853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮医院,新潟県魚沼市井口新田４３９-１,内科　アレルギー科　小児科,,,9" xlink:title="宮医院" transform="ref(svg,13896.531,-3723.3193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かねもと外科内科医院,新潟県魚沼市井口新田９４５-１,内科　消化器内科　外科　肛門外科　リハビリテーション科,,,9" xlink:title="かねもと外科内科医院" transform="ref(svg,13896.9873,-3722.9009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うかじ園診療所,新潟県魚沼市徳田１１２-１,内科,,,9" xlink:title="うかじ園診療所" transform="ref(svg,13890.9465,-3725.6519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（社）新潟県労働衛生医学協会附属小出検査センター,新潟県魚沼市小出島１２４０-１３,内科　婦人科,,,9" xlink:title="（社）新潟県労働衛生医学協会附属小出検査センター" transform="ref(svg,13896.6319,-3722.9651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑と清流の医療研究会中島脳外科内科医院,新潟県魚沼市小出島８１-１,内科　循環器内科　神経内科　小児科　精神科　心療内科　外科　脳神経外科,,,9" xlink:title="（医）緑と清流の医療研究会中島脳外科内科医院" transform="ref(svg,13896.5753,-3723.1044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たちばな皮ふ科クリニック,新潟県魚沼市古新田１７９-１,皮膚科,,,9" xlink:title="たちばな皮ふ科クリニック" transform="ref(svg,13896.5613,-3722.0288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,魚沼市国民健康保険入広瀬診療所,新潟県魚沼市栃山６３５-１,内科　外科　歯科,,,9" xlink:title="魚沼市国民健康保険入広瀬診療所" transform="ref(svg,13892.4361,-3724.4124)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）うおの園診療所,新潟県魚沼市原虫野４３８-４,内科　精神科　歯科,,,9" xlink:title="（特養）うおの園診療所" transform="ref(svg,13896.2159,-3721.4889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,魚沼学園医務室,新潟県魚沼市十日町１４０３-１,内科　精神科　眼科　耳鼻咽喉科,,,9" xlink:title="魚沼学園医務室" transform="ref(svg,13894.4254,-3718.6197)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新潟県魚沼保健所,新潟県魚沼市大塚新田１１６-３,内科,,,9" xlink:title="新潟県魚沼保健所" transform="ref(svg,13896.4817,-3723.5031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うおぬま小児クリニック,新潟県魚沼市井口新田３２１-１,アレルギー科　小児科,,,9" xlink:title="うおぬま小児クリニック" transform="ref(svg,13896.3243,-3723.313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うおぬま眼科,新潟県魚沼市日渡新田字ヒワタリ８４-１,眼科,,,9" xlink:title="うおぬま眼科" transform="ref(svg,13896.1529,-3723.9362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀之内駅前小玉医院,新潟県魚沼市堀之内３８７０-１,内科　循環器内科,,,9" xlink:title="堀之内駅前小玉医院" transform="ref(svg,13892.8332,-3723.9412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋医院,新潟県南魚沼郡湯沢町大字湯沢１５１２,内科,,,9" xlink:title="高橋医院" transform="ref(svg,13880.6292,-3694.4174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,角谷整形外科医院,新潟県南魚沼郡湯沢町大字神立２５１-７,整形外科,,,9" xlink:title="角谷整形外科医院" transform="ref(svg,13881.6997,-3693.5447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,湯沢町保健センター,新潟県南魚沼郡湯沢町大字湯沢２８７７-１,内科　小児科,,,9" xlink:title="湯沢町保健センター" transform="ref(svg,13881.3552,-3693.8807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆのさと園医務室,新潟県南魚沼郡湯沢町大字神立１６４７-２７５,内科,,,9" xlink:title="（特養）ゆのさと園医務室" transform="ref(svg,13883.2169,-3692.9495)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かぐらみつまたスキー診療所,新潟県南魚沼郡湯沢町大字三俣７４２,整形外科,,,9" xlink:title="かぐらみつまたスキー診療所" transform="ref(svg,13877.5593,-3689.2913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,苗場スキー場診療所,新潟県南魚沼郡湯沢町大字三国２０２苗場プリンスホテル内,整形外科,,,9" xlink:title="苗場スキー場診療所" transform="ref(svg,13878.4635,-3679.2083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,静修医院,新潟県南魚沼市上一日市５３９,内科,,,9" xlink:title="静修医院" transform="ref(svg,13881.3098,-3699.9612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒川診療所,新潟県南魚沼市長崎３４-６,内科　小児科　心療内科,,,9" xlink:title="荒川診療所" transform="ref(svg,13887.3941,-3702.3014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,風間内科医院,新潟県南魚沼市塩沢２０７-２,内科　小児科,,,9" xlink:title="風間内科医院" transform="ref(svg,13885.2997,-3704.0693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南魚沼市立中之島診療所,新潟県南魚沼市仙石１-２５,内科　皮膚科　小児科　外科,,,9" xlink:title="南魚沼市立中之島診療所" transform="ref(svg,13884.0539,-3700.5745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あんべクリニック,新潟県南魚沼市塩沢１０５５-１６,内科　消化器内科　外科　リハビリテーション科　麻酔科,,,9" xlink:title="あんべクリニック" transform="ref(svg,13885.3814,-3704.2529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山医院,新潟県南魚沼市関９２７-６,内科　小児科,,,9" xlink:title="中山医院" transform="ref(svg,13881.0087,-3699.0709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青葉すこやかクリニック,新潟県南魚沼市中７９３-１,内科　血液内科　皮膚科　アレルギー科　小児科,,,9" xlink:title="青葉すこやかクリニック" transform="ref(svg,13885.3599,-3703.3011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）まいこ園,新潟県南魚沼市仙石１-１８,内科,,,9" xlink:title="（特養）まいこ園" transform="ref(svg,13884.1398,-3700.6353)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,知的障害者更生施設まきはたの里医務室,新潟県南魚沼市滝谷９９２-１,内科,,,9" xlink:title="知的障害者更生施設まきはたの里医務室" transform="ref(svg,13888.6574,-3698.8336)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塩沢スキー診療所（上越国際）,新潟県南魚沼市樺野沢１１２-１,整形外科,,,9" xlink:title="塩沢スキー診療所（上越国際）" transform="ref(svg,13882.0176,-3703.1544)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤島眼科医院,新潟県南魚沼市六日町１８８１,眼科,,,9" xlink:title="藤島眼科医院" transform="ref(svg,13887.789,-3706.2051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河内医院,新潟県南魚沼市六日町１１９,内科　小児科,,,9" xlink:title="河内医院" transform="ref(svg,13887.8383,-3706.5015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂内医院,新潟県南魚沼市寺尾２６３-２,内科　消化器内科　小児科,,,9" xlink:title="坂内医院" transform="ref(svg,13890.2839,-3711.7239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,齋藤脳神経外科,新潟県南魚沼市川窪１１５８,神経内科　消化器外科　肛門外科　脳神経外科,,,9" xlink:title="齋藤脳神経外科" transform="ref(svg,13888.6678,-3708.5084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,萌気園二日町診療所,新潟県南魚沼市二日町２１２-１,内科　神経内科　リウマチ科　小児科　泌尿器科　整形外科　耳鼻咽喉科,,,9" xlink:title="萌気園二日町診療所" transform="ref(svg,13889.8747,-3708.3898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,マイトーラ医務室,新潟県南魚沼市欠之上５３８-１,内科,,,9" xlink:title="マイトーラ医務室" transform="ref(svg,13886.7143,-3708.7811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南魚沼市休日救急診療所,新潟県南魚沼市六日町１８５-１,内科　小児科　外科,,,9" xlink:title="南魚沼市休日救急診療所" transform="ref(svg,13887.5418,-3706.5139)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南魚沼市養護老人ホーム魚沼荘,新潟県南魚沼市長森１００８,内科,,,9" xlink:title="南魚沼市養護老人ホーム魚沼荘" transform="ref(svg,13892.7972,-3709.8753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みなみ園,新潟県南魚沼市六日町７１２-４,内科　リハビリテーション科,,,9" xlink:title="（特養）みなみ園" transform="ref(svg,13886.5169,-3705.537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こころの杜医務室,新潟県南魚沼市六日町１１４８-１,内科,,,9" xlink:title="（特養）こころの杜医務室" transform="ref(svg,13887.6757,-3705.7912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南魚沼保健所,新潟県南魚沼市六日町６２０-２,内科,,,9" xlink:title="南魚沼保健所" transform="ref(svg,13886.8924,-3706.0147)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大崎さくらクリニック,新潟県南魚沼市大崎３４０９-３,皮膚科　アレルギー科,,,9" xlink:title="大崎さくらクリニック" transform="ref(svg,13894.6134,-3713.0437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,魚沼地域（特養）八色園医務室,新潟県南魚沼市浦佐４０５９-１,内科,,,9" xlink:title="魚沼地域（特養）八色園医務室" transform="ref(svg,13893.6185,-3717.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南魚沼市立城内診療所,新潟県南魚沼市泉甲１５４-１,内科　皮膚科,,,9" xlink:title="南魚沼市立城内診療所" transform="ref(svg,13891.8777,-3709.4963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）坂戸楽生園医務室,新潟県南魚沼市坂戸７-２１,内科,,,9" xlink:title="（特養）坂戸楽生園医務室" transform="ref(svg,13888.2345,-3706.0395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六日町フレッシュ眼科,新潟県南魚沼市余川本町３３５０,眼科,,,9" xlink:title="六日町フレッシュ眼科" transform="ref(svg,13887.5778,-3707.6831)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六日町アイクリニック,新潟県南魚沼市余川坂ノ上３１９０-１,眼科,,,9" xlink:title="六日町アイクリニック" transform="ref(svg,13888.1409,-3707.8985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）雪椿の里診療所,新潟県南魚沼市穴地１４-１,内科　整形外科,,,9" xlink:title="（特養）雪椿の里診療所" transform="ref(svg,13895.3871,-3713.7082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,萌気園浦佐診療所,新潟県南魚沼市浦佐５３６３-１,内科　小児科　整形外科,,,9" xlink:title="萌気園浦佐診療所" transform="ref(svg,13892.9847,-3716.8704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）百花園医務室,新潟県南魚沼市関８５２,内科,,,9" xlink:title="（特養）百花園医務室" transform="ref(svg,13881.124,-3699.1682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やすかわ整形外科,新潟県南魚沼市六日町１０１-８,整形外科　リハビリテーション科,,,9" xlink:title="（医）やすかわ整形外科" transform="ref(svg,13887.718,-3706.7324)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米倉医院,新潟県南魚沼市六日町１０１-８,内科　消化器内科　皮膚科　小児科,,,9" xlink:title="米倉医院" transform="ref(svg,13887.7138,-3706.7344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公社）地域医療振興協会今泉記念館ゆきあかり診療所,新潟県南魚沼市下一日市８５５,内科　皮膚科　小児科　外科,,,9" xlink:title="（公社）地域医療振興協会今泉記念館ゆきあかり診療所" transform="ref(svg,13892.5448,-3716.1428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,昭和大学整形外科石打診療所,新潟県南魚沼市石打１７８２-２,整形外科,,,9" xlink:title="昭和大学整形外科石打診療所" transform="ref(svg,13880.1164,-3697.9833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田医院,新潟県長岡市十日町市３１４-１,内科　小児科,,,9" xlink:title="池田医院" transform="ref(svg,13875.919,-3712.9089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大島医院,新潟県長岡市十日町市卯１１４,内科　小児科,,,9" xlink:title="大島医院" transform="ref(svg,13876.3358,-3713.3704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム妻有荘診療所,新潟県長岡市十日町市新宮乙１９５-３,内科,,,9" xlink:title="養護老人ホーム妻有荘診療所" transform="ref(svg,13872.0919,-3709.5341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新潟県十日町保健所,新潟県長岡市十日町市高山８５７,内科,,,9" xlink:title="新潟県十日町保健所" transform="ref(svg,13874.5658,-3712.8854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）小千谷総合病院附属十日町診療所,新潟県長岡市十日町市泉町２９,内科,,,9" xlink:title="（公財）小千谷総合病院附属十日町診療所" transform="ref(svg,13875.5572,-3713.3043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山口医院,新潟県長岡市十日町市袋町中２０８,内科　小児科,,,9" xlink:title="（医）山口医院" transform="ref(svg,13875.8971,-3713.1071)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山口医院,新潟県長岡市十日町市下条３-５０９,内科　腎臓内科　小児科,,,9" xlink:title="（医）山口医院" transform="ref(svg,13877.8698,-3719.6727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大熊内科医院,新潟県長岡市十日町市山本町１-８０１-２,内科　小児科,,,9" xlink:title="大熊内科医院" transform="ref(svg,13875.4016,-3712.2441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大坪医院,新潟県長岡市十日町市四日町１７４３-１０,内科　小児科,,,9" xlink:title="大坪医院" transform="ref(svg,13876.5769,-3714.6456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）三好園診療所,新潟県長岡市十日町市下条３-４８５-１,内科,,,9" xlink:title="（特養）三好園診療所" transform="ref(svg,13877.8108,-3719.6222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中外科医院,新潟県長岡市十日町市卯２７２-３,外科,,,9" xlink:title="田中外科医院" transform="ref(svg,13876.2182,-3713.5564)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかき医院,新潟県長岡市十日町市馬場丙１５５０-１,内科　小児科　産婦人科,,,9" xlink:title="たかき医院" transform="ref(svg,13872.4206,-3709.4855)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本町クリニック,新潟県長岡市十日町市本町３-３６２プラザコアビル,内科　皮膚科　外科,,,9" xlink:title="本町クリニック" transform="ref(svg,13876.1143,-3713.2959)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林内科医院,新潟県長岡市十日町市中条甲１０９６-２,内科　消化器内科　小児科,,,9" xlink:title="小林内科医院" transform="ref(svg,13877.2725,-3716.4448)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せき整形外科,新潟県長岡市十日町市四日町１３１８-２４,内科　アレルギー科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="せき整形外科" transform="ref(svg,13876.197,-3714.8493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,庭野医院,新潟県長岡市十日町市寿町４-３-５,内科　小児科,,,9" xlink:title="庭野医院" transform="ref(svg,13875.3962,-3712.9336)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一社）新潟県労働衛生医学協会附属十日町検診センター,新潟県長岡市十日町市春日１１３,内科　婦人科,,,9" xlink:title="（一社）新潟県労働衛生医学協会附属十日町検診センター" transform="ref(svg,13875.1047,-3713.0709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）三好園しんざ診療所,新潟県長岡市十日町市新座甲６０９-２,内科,,,9" xlink:title="（特養）三好園しんざ診療所" transform="ref(svg,13876.755,-3714.3366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十日町市国民健康保険川西診療所,新潟県長岡市十日町市高原田２０１-４,内科,,,9" xlink:title="十日町市国民健康保険川西診療所" transform="ref(svg,13874.1574,-3717.0367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,知的障害者更正施設なかまの家診療所,新潟県長岡市十日町市上野甲２８９６-２,内科,,,9" xlink:title="知的障害者更正施設なかまの家診療所" transform="ref(svg,13873.2955,-3718.6133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あかね園診療所,新潟県長岡市十日町市高原田２７８-１,内科,,,9" xlink:title="（特養）あかね園診療所" transform="ref(svg,13874.0472,-3717.0779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江口医院,新潟県長岡市十日町市山野田３７６-４,内科　精神科　外科　リハビリテーション科　神経科,,,9" xlink:title="江口医院" transform="ref(svg,13874.0566,-3715.7385)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富田医院,新潟県長岡市十日町市上新井１１４５-２,内科　循環器内科　皮膚科　外科　リハビリテーション科,,,9" xlink:title="富田医院" transform="ref(svg,13873.8844,-3715.8802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十日町市国民健康保険倉俣診療所,新潟県長岡市十日町市芋川乙３２６３-１,内科　外科　麻酔科,,,9" xlink:title="十日町市国民健康保険倉俣診療所" transform="ref(svg,13869.647,-3703.0037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）七川荘診療所,新潟県長岡市十日町市上山己２７３９,内科,,,9" xlink:title="（特養）七川荘診療所" transform="ref(svg,13869.8889,-3705.5384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十日町市国民健康保険室野診療所,新潟県長岡市十日町市室野４５０３-１,内科　外科　麻酔科,,,9" xlink:title="十日町市国民健康保険室野診療所" transform="ref(svg,13856.4491,-3711.9084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ほくほくの里医務室,新潟県長岡市十日町市太平６６４-４,内科,,,9" xlink:title="（特養）ほくほくの里医務室" transform="ref(svg,13862.2064,-3713.5167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十日町市国民健康保険松之山診療所,新潟県長岡市十日町市松之山１５９６-１,内科　小児科,,,9" xlink:title="十日町市国民健康保険松之山診療所" transform="ref(svg,13860.8986,-3708.6817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）不老閣医務室,新潟県長岡市十日町市松之山１０２８-８,内科,,,9" xlink:title="（特養）不老閣医務室" transform="ref(svg,13860.9217,-3707.944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津南町保健センター,新潟県中魚沼郡津南町大字下船渡丁２７９２,内科　歯科,,,9" xlink:title="津南町保健センター" transform="ref(svg,13864.9089,-3701.6118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）恵福園診療所,新潟県中魚沼郡津南町大字下船渡丁２６８２-３,内科,,,9" xlink:title="（特養）恵福園診療所" transform="ref(svg,13864.9106,-3701.5485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古藤医院,新潟県中魚沼郡津南町大字外丸丁２２４９,内科　小児科　心療内科,,,9" xlink:title="古藤医院" transform="ref(svg,13863.9326,-3702.2058)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川医院,新潟県中魚沼郡津南町大字上郷宮野原８-１,内科　小児科　心療内科,,,9" xlink:title="石川医院" transform="ref(svg,13858.9114,-3699.2265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさだ皮フ科,新潟県長岡市十日町市稲荷町３-５-９,皮膚科　アレルギー科,,,9" xlink:title="あさだ皮フ科" transform="ref(svg,13875.6285,-3713.8209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ケアホーム恵福園なかつ医務室,新潟県中魚沼郡津南町大字中深見甲５５４０,内科,,,9" xlink:title="ケアホーム恵福園なかつ医務室" transform="ref(svg,13867.0102,-3699.1094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおふち眼科,新潟県長岡市十日町市稲荷町３-南７-２５,眼科,,,9" xlink:title="おおふち眼科" transform="ref(svg,13875.596,-3713.6384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）よしだ診療所,新潟県長岡市十日町市南鐙坂４４６-１,内科,,,9" xlink:title="（特養）よしだ診療所" transform="ref(svg,13872.0724,-3712.4895)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,恵福園ほくぶ医務室,新潟県中魚沼郡津南町大字下船渡８１１９,内科,,,9" xlink:title="恵福園ほくぶ医務室" transform="ref(svg,13865.2028,-3701.4216)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）まほろばの里川治医務室,新潟県長岡市十日町市川治４５２５,内科,,,9" xlink:title="（特養）まほろばの里川治医務室" transform="ref(svg,13874.1676,-3711.8377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏崎市鵜川診療所,新潟県柏崎市女谷４７６２-１,内科,,,9" xlink:title="柏崎市鵜川診療所" transform="ref(svg,13855.2752,-3724.1933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）柏柳の里診療所,新潟県柏崎市高柳町岡野町２２５４,内科　精神科,,,9" xlink:title="（特養）柏柳の里診療所" transform="ref(svg,13863.8099,-3721.7008)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平松医院,新潟県柏崎市大字石曽根３０６８-１,内科　神経内科,,,9" xlink:title="平松医院" transform="ref(svg,13863.1957,-3726.5563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏崎市国民健康保険高柳診療所,新潟県柏崎市高柳町岡野町１８４９-１,内科　外科,,,9" xlink:title="柏崎市国民健康保険高柳診療所" transform="ref(svg,13863.8921,-3722.4111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志賀高原一の瀬高天ケ原診療所,長野県下高井郡山ノ内町大字平穏７１４９,整形外科,,,9" xlink:title="志賀高原一の瀬高天ケ原診療所" transform="ref(svg,13852.8859,-3670.3868)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）フランセーズ悠さかえ医務室,長野県下水内郡栄村大字豊栄２１４０,内科,,,9" xlink:title="（特養）フランセーズ悠さかえ医務室" transform="ref(svg,13852.8668,-3698.4122)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,栄村国民健康保険栄村診療所,長野県下水内郡栄村大字北信３６０２-１,内科　アレルギー科,,,9" xlink:title="栄村国民健康保険栄村診療所" transform="ref(svg,13857.6358,-3698.8792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,栄村秋山診療所,長野県下水内郡栄村大字堺１８２８１,内科　アレルギー科,,,9" xlink:title="栄村秋山診療所" transform="ref(svg,13863.4781,-3686.5987)" x="0" y="0"/>
+</g>
+</svg>

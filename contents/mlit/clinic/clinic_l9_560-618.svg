@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13921.875 -3568.359375 8.7890625 8.7890625" go:dataArea="13921.875 -3568.359375 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,武蔵岡診療所,東京都町田市相原町３１９０-１０,内科　胃腸科　小児科　整形外科　眼科,,,9" xlink:title="武蔵岡診療所" transform="ref(svg,13929.8936,-3560.8477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,法政大学診療所,東京都町田市相原町４３４２,内科,,,9" xlink:title="法政大学診療所" transform="ref(svg,13929.7268,-3561.5052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,法政大学スポーツ健康学部クリニック,東京都町田市相原町４３４２法政大学１８号館２階,整形外科　内科　脳神経外科,,,9" xlink:title="法政大学スポーツ健康学部クリニック" transform="ref(svg,13929.7215,-3561.5048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設ヴィラ町田医務室,東京都町田市相原町４３９１-７,内科,,,9" xlink:title="介護老人福祉施設ヴィラ町田医務室" transform="ref(svg,13929.4021,-3561.2297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高尾よしだクリニック,東京都八王子市初沢町１２７７-３岸ビル１Ｆ,内科　整形外科,,,9" xlink:title="高尾よしだクリニック" transform="ref(svg,13928.549,-3564.1356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あおき形成外科眼科クリニック,東京都八王子市下恩方町３５０-３１　,皮膚科　形成外科　眼科,,,9" xlink:title="あおき形成外科眼科クリニック" transform="ref(svg,13926.0042,-3567.7998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高尾駅南口皮フ科,東京都八王子市初沢町１２３１-５高尾メディカルビル３Ｆ,皮膚科　泌尿器科,,,9" xlink:title="高尾駅南口皮フ科" transform="ref(svg,13928.3648,-3564.1161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清明会長舟園診療所,東京都八王子市長房町９８７　,リハビリテーション科　内科　循環器内科,,,9" xlink:title="清明会長舟園診療所" transform="ref(svg,13928.8547,-3565.877)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,顕メンタルクリニック,東京都八王子市狭間町１６８２-５　,心療内科　精神科,,,9" xlink:title="顕メンタルクリニック" transform="ref(svg,13928.7131,-3563.8668)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八王子北クリニック,東京都八王子市美山町１２７１-１福寿はちおうじ美山１階,内科,,,9" xlink:title="八王子北クリニック" transform="ref(svg,13926.1136,-3568.3388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関内科医院,東京都八王子市初沢町１２９９高尾スカイハイツ５０８,内科,,,9" xlink:title="関内科医院" transform="ref(svg,13928.3549,-3564.0603)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊地外科医院,東京都八王子市東浅川町５２８-１　,外科　内科　整形外科,,,9" xlink:title="菊地外科医院" transform="ref(svg,13929.373,-3564.3991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふれあいつつじヶ丘診療所,東京都八王子市横川町６６８-６９　,内科　消化器内科,,,9" xlink:title="ふれあいつつじヶ丘診療所" transform="ref(svg,13929.9813,-3566.4148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福田医院,東京都八王子市大楽寺町４２６-２　,内科　小児科　漢方内科,,,9" xlink:title="福田医院" transform="ref(svg,13929.3688,-3567.1196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）シオン会スマイルこどもクリニック,東京都八王子市散田町５-４-２０　,小児科,,,9" xlink:title="（医）シオン会スマイルこどもクリニック" transform="ref(svg,13930.1231,-3564.9887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）継日堂高尾耳鼻咽喉科医院,東京都八王子市東浅川町８７９-４　,耳鼻いんこう科,,,9" xlink:title="（医）継日堂高尾耳鼻咽喉科医院" transform="ref(svg,13928.6104,-3564.1331)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はちせい健友クリニック,東京都八王子市叶谷町８９０-５　１階,内科　消化器内科　糖尿病内科　循環器内科　リハビリテーション科,,,9" xlink:title="はちせい健友クリニック" transform="ref(svg,13929.8321,-3567.1488)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）白百合会白百合会診療所,東京都八王子市下恩方町１８０-１　,内科,,,9" xlink:title="（福）白百合会白百合会診療所" transform="ref(svg,13925.5119,-3567.6431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科吉田クリニック,東京都八王子市長房町４５４-１２　,耳鼻いんこう科　気管食道内科,,,9" xlink:title="耳鼻咽喉科吉田クリニック" transform="ref(svg,13929.873,-3565.421)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山水園診療所,東京都八王子市西寺方町３０３　,内科,,,9" xlink:title="山水園診療所" transform="ref(svg,13926.707,-3567.2911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）主正会かわさきクリニック,東京都八王子市下恩方町１１４１-１　,内科　整形外科　脳神経外科　皮膚科　リハビリテーション科　消化器内科,,,9" xlink:title="（医）主正会かわさきクリニック" transform="ref(svg,13925.8817,-3567.4044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村内科医院,東京都八王子市諏訪町７３-２　,内科　循環器内科　呼吸器内科　糖尿病内科　代謝内科,,,9" xlink:title="中村内科医院" transform="ref(svg,13929.255,-3567.4557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金井内科医院,東京都八王子市東浅川町３３６-５　,内科　小児科　小児外科　外科,,,9" xlink:title="金井内科医院" transform="ref(svg,13928.8377,-3564.625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おがたクリニック,東京都八王子市西寺方町６２４-１　,内科　呼吸器科　外科,,,9" xlink:title="おがたクリニック" transform="ref(svg,13927.2865,-3567.9698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森原診療所,東京都八王子市初沢町１２３１-３６-１０１,内科　循環器科　小児科,,,9" xlink:title="森原診療所" transform="ref(svg,13928.3304,-3564.1762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元八王子眼科診療所,東京都八王子市横川町１１２０-１　,眼科,,,9" xlink:title="元八王子眼科診療所" transform="ref(svg,13929.2211,-3566.7966)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）愛晃会うえの整形外科,東京都八王子市初沢町１２３１-５高尾メディカルビル１階,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）愛晃会うえの整形外科" transform="ref(svg,13928.3609,-3564.1187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清仙会松本クリニック,東京都八王子市横川町９２４-２　１階,内科　心療内科　整形外科,,,9" xlink:title="（医）清仙会松本クリニック" transform="ref(svg,13929.5027,-3566.3429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）瑞翔会四谷医院,東京都八王子市四谷町７２２健康館１階,内科　消化器科　精神科　外科　リウマチ科　小児科,,,9" xlink:title="（医）瑞翔会四谷医院" transform="ref(svg,13929.7882,-3567.6393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）春風会多摩眼科クリニック,東京都八王子市散田町４-１０-１１　１階,眼科,,,9" xlink:title="（医）春風会多摩眼科クリニック" transform="ref(svg,13930.3789,-3565.1112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中澤耳鼻咽喉科気管食道科医院,東京都八王子市並木町１０-１０　,耳鼻いんこう科　気管食道科,,,9" xlink:title="中澤耳鼻咽喉科気管食道科医院" transform="ref(svg,13930.2588,-3565.1975)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）端翔会西てらかた医院,東京都八王子市西寺方町３８３-１　,内科　小児科　整形外科　リハビリテーション科　眼科　精神科,,,9" xlink:title="（医）端翔会西てらかた医院" transform="ref(svg,13926.8179,-3567.557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善智会澤田内科クリニック,東京都八王子市東浅川町５１９-３　１階,内科　循環器科　消化器科　アレルギー科　小児科　糖尿病内科　漢方内科,,,9" xlink:title="（医）善智会澤田内科クリニック" transform="ref(svg,13929.5104,-3564.4799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白鳥内科医院,東京都八王子市高尾町１５８０　,内科　消化器科　循環器科,,,9" xlink:title="白鳥内科医院" transform="ref(svg,13928.1059,-3564.2301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）クリスタルメディカル近藤眼科高尾クリニック,東京都八王子市東浅川町５４８-１ドエルクラ１Ｆ,眼科,,,9" xlink:title="（医）クリスタルメディカル近藤眼科高尾クリニック" transform="ref(svg,13928.6434,-3564.1901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永生会永生クリニック,東京都八王子市椚田町５８８-１７　,内科　神経内科　整形外科　リハビリテーション科　皮膚科,,,9" xlink:title="（医）永生会永生クリニック" transform="ref(svg,13930.5775,-3563.9604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まなと会はしもと小児科,東京都八王子市椚田町５５７-３　,小児科　内科　小児外科,,,9" xlink:title="（医）まなと会はしもと小児科" transform="ref(svg,13930.6445,-3563.6014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真紗会鷲尾整形外科,東京都八王子市高尾町１６２０ハイムＪＵＮ１階,整形外科　リハビリテーション科　麻酔科　リウマチ科,,,9" xlink:title="（医）真紗会鷲尾整形外科" transform="ref(svg,13927.9557,-3564.2653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）渉栄会元八王子耳鼻科,東京都八王子市横川町８７３-６　,耳鼻いんこう科,,,9" xlink:title="（医）渉栄会元八王子耳鼻科" transform="ref(svg,13929.5107,-3566.6418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）八王子心成苑医務室,東京都八王子市館町１７８３　,内科　精神科,,,9" xlink:title="（特養）八王子心成苑医務室" transform="ref(svg,13929.3534,-3562.8908)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）イロハ会クリニック田島,東京都八王子市元八王子町３-２２６３-５　,内科　外科　脳神経外科　リハビリテーション科,,,9" xlink:title="（医）イロハ会クリニック田島" transform="ref(svg,13927.8669,-3565.6043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）東仁会高尾駅前クリニック,東京都八王子市初沢町１２７６-１　,人工透析内科,,,9" xlink:title="（医）東仁会高尾駅前クリニック" transform="ref(svg,13928.5751,-3564.1898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤内科医院,東京都八王子市長房町１５６２-３０　,内科　呼吸器科　消化器科　循環器科　神経科,,,9" xlink:title="近藤内科医院" transform="ref(svg,13928.9726,-3565.0174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）実穂会渡辺医院,東京都八王子市長房町３７３-２渡辺ビル１階,内科　小児科,,,9" xlink:title="（医）実穂会渡辺医院" transform="ref(svg,13929.8012,-3565.5651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁正会はざま中山クリニック,東京都八王子市東浅川町７０９-１新都市はざまビル１Ｆ,内科　消化器科　外科　リハビリテーション科,,,9" xlink:title="（医）仁正会はざま中山クリニック" transform="ref(svg,13929.4522,-3564.0119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）秋桜の会（特養）諏訪の森診療所,東京都八王子市諏訪町１１０-２　,内科　循環器科　リハビリテーション科,,,9" xlink:title="（福）秋桜の会（特養）諏訪の森診療所" transform="ref(svg,13929.3457,-3567.5626)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）嘉誠会横川内科クリニック,東京都八王子市横川町５５０-２３矢野ビル１Ｆ・Ａ,内科　小児科　皮膚科,,,9" xlink:title="（医）嘉誠会横川内科クリニック" transform="ref(svg,13930.3704,-3566.5478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福神会柴田産婦人科医院,東京都八王子市横川町５１５,産科　婦人科　麻酔科,,,9" xlink:title="（医）福神会柴田産婦人科医院" transform="ref(svg,13930.4783,-3566.407)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）幸助会野下皮膚科,東京都八王子市楢原町５０６-４　,皮膚科,,,9" xlink:title="（医）幸助会野下皮膚科" transform="ref(svg,13930.6071,-3568.2724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井循環器内科クリニック,東京都八王子市散田町５-１-１　１階,内科　循環器科,,,9" xlink:title="石井循環器内科クリニック" transform="ref(svg,13930.2751,-3565.0991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宏誠会高山外科眼科医院,東京都八王子市大楽寺町４９６　,内科　胃腸科　外科　整形外科　小児外科　眼科　皮膚科,,,9" xlink:title="（医）宏誠会高山外科眼科医院" transform="ref(svg,13929.5752,-3567.1893)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,館ヶ丘クリニック,東京都八王子市館町１０９７館ヶ丘団地２-９,内科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="館ヶ丘クリニック" transform="ref(svg,13928.8638,-3562.7077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みのり会加地医院,東京都八王子市大楽寺町１３７　,内科　小児科　皮膚科　アレルギー科　放射線科,,,9" xlink:title="（医）みのり会加地医院" transform="ref(svg,13928.1684,-3567.9584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,望月クリニック,東京都八王子市川町１２８-１８３　,内科　小児科　精神科　神経科,,,9" xlink:title="望月クリニック" transform="ref(svg,13927.2304,-3567.0609)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしな整形外科,東京都八王子市横川町５５０-２５　,整形外科　リハビリテーション科,,,9" xlink:title="にしな整形外科" transform="ref(svg,13930.3551,-3566.4637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長房診療所,東京都八王子市長房町５６７都営２-２８-１０１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="長房診療所" transform="ref(svg,13929.7392,-3565.6035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）根岸耳鼻咽喉科気管食道科医院,東京都八王子市楢原町１４８３-１２　,呼吸器科　耳鼻いんこう科　気管食道科　内科　アレルギー科,,,9" xlink:title="（医）根岸耳鼻咽喉科気管食道科医院" transform="ref(svg,13930.0072,-3568.3542)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）共立医療会北団地診療所,東京都八王子市長房町７４１長房北団地７１号棟１０１　１０２,内科　外科　整形外科　リハビリテーション科　小児科　胃腸内科,,,9" xlink:title="（医）共立医療会北団地診療所" transform="ref(svg,13929.4493,-3565.7293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,布田整形外科,東京都八王子市散田町５-１４-１１　,整形外科　理学診療科　内科　麻酔科,,,9" xlink:title="布田整形外科" transform="ref(svg,13930.3155,-3565.0409)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,明山会クリニック,東京都八王子市めじろ台４-２-７　,内科　小児科　神経科,,,9" xlink:title="明山会クリニック" transform="ref(svg,13930.4374,-3564.2578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）恒陽会（特養）サントピア,東京都八王子市下恩方町３３７２　,内科　整形外科　皮膚科,,,9" xlink:title="（福）恒陽会（特養）サントピア" transform="ref(svg,13924.8212,-3566.6485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）福寿園医務室,東京都八王子市南浅川町２８８３-２　,内科,,,9" xlink:title="（特養）福寿園医務室" transform="ref(svg,13926.7954,-3561.6819)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清明会本部診療所,東京都八王子市裏高尾町９５７　,内科　整形外科　皮膚科　外科,,,9" xlink:title="清明会本部診療所" transform="ref(svg,13925.4288,-3563.7807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井小児科医院,東京都八王子市館町１０９７１街区１８号棟,小児科,,,9" xlink:title="石井小児科医院" transform="ref(svg,13928.7473,-3562.6998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,廣井内科,東京都八王子市狭間町１８００-７１　,内科　呼吸器科　循環器科　小児科　放射線科,,,9" xlink:title="廣井内科" transform="ref(svg,13928.6475,-3563.4835)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井脇医院,東京都八王子市椚田町１２１４めじろ台ハイム,内科　小児科,,,9" xlink:title="井脇医院" transform="ref(svg,13929.6031,-3563.8092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,めじろ台内科医院,東京都八王子市めじろ台４-２５-１３　,内科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="めじろ台内科医院" transform="ref(svg,13930.5115,-3564.4835)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京都八王子福祉園診療所,東京都八王子市西寺方町７６　,内科　精神科　外科　眼科　耳鼻いんこう科　皮膚科　歯科,,,9" xlink:title="東京都八王子福祉園診療所" transform="ref(svg,13926.4127,-3567.3745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長寿園診療室,東京都八王子市叶谷町１１３３　,内科　外科,,,9" xlink:title="（特養）長寿園診療室" transform="ref(svg,13930.2884,-3567.1897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）東京玉葉会浅川園診療所,東京都八王子市川口町１５４３　,内科　呼吸器科　外科,,,9" xlink:title="（福）東京玉葉会浅川園診療所" transform="ref(svg,13929.6843,-3568.322)" x="0" y="0"/>
+</g>
+</svg>

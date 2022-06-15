@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12937.5 -3093.75 281.25 281.25" go:dataArea="12937.5 -3093.75 281.25 281.25" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,公立種子島病院,鹿児島県熊毛郡南種子町中之上１７００-２２,内科　心療内科　外科　整形外科　脳神経外科　皮膚科　小児科　眼科　耳鼻いんこう科　リハビリテーション科　循環器内科　消化器内科　消化器外科,,,2" xlink:title="公立種子島病院" transform="ref(svg,13091.4205,-3043.739)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,せいざん病院,鹿児島県西之表市住吉３３６３-２,心療内科　精神科　内科,,,4" xlink:title="せいざん病院" transform="ref(svg,13094.7553,-3067.3987)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,多愛病院,鹿児島県西之表市西之表７６２７-１,内科　外科　肛門科　胃腸科,,,5" xlink:title="多愛病院" transform="ref(svg,13099.831,-3073.1326)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,田上病院,鹿児島県西之表市西之表７４６３,内科　心療内科　呼吸器科　循環器科　リウマチ科　小児科　耳鼻いんこう科　リハビリテーション科　放射線科　麻酔科　消化器内科　外科　整形外科　脳神経外科　皮膚科　泌尿器科　眼科,,,4" xlink:title="田上病院" transform="ref(svg,13099.9268,-3073.6225)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,屋久島徳洲会病院,鹿児島県熊毛郡屋久島町宮之浦２４６７,内科　精神科　循環器科　小児科　外科　整形外科　リハビリテーション科　放射線科　歯科口腔外科　麻酔科　形成外科　脳神経外科　泌尿器科　産婦人科　眼科　耳鼻いんこう科,,,4" xlink:title="屋久島徳洲会病院" transform="ref(svg,13058.6612,-3041.8282)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,県立大島病院,鹿児島県奄美市名瀬真名津町１８-１,内科　精神科　神経内科　消化器科　胃腸科　循環器科　産婦人科　眼科　耳鼻いんこう科　放射線科　歯科口腔外科　麻酔科　小児科　外科　整形外科　脳神経外科　皮膚科　泌尿器科,,,2" xlink:title="県立大島病院" transform="ref(svg,12950.106,-2836.7223)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,国立療養所奄美和光園,鹿児島県奄美市名瀬和光町１７００,内科　外科　整形外科　皮膚科　眼科　耳鼻いんこう科　歯科,,,1" xlink:title="国立療養所奄美和光園" transform="ref(svg,12951.6796,-2838.5215)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,奄美中央病院,鹿児島県奄美市名瀬長浜町１６-５,内科　呼吸器科　消化器科　循環器科　小児科　外科　肛門科　リハビリテーション科　放射線科,,,6" xlink:title="奄美中央病院" transform="ref(svg,12949.3505,-2839.4506)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,奄美病院,鹿児島県奄美市名瀬浜里町１７０,精神科　神経科,,,6" xlink:title="奄美病院" transform="ref(svg,12947.1789,-2839.7167)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,大島郡医師会病院,鹿児島県奄美市名瀬小宿字苗代田３４１１,内科　神経内科　呼吸器科　消化器科　胃腸科　循環器科　リハビリテーション科　放射線科　アレルギー科　リウマチ科　整形外科　皮膚科　耳鼻いんこう科　気管食道科,,,6" xlink:title="大島郡医師会病院" transform="ref(svg,12947.4392,-2838.6373)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,笠利病院,鹿児島県奄美市笠利町大字中金久１２０,内科　消化器科　人工透析内科　小児科　外科　整形外科　精神科　皮膚科　眼科　耳鼻いんこう科　リハビリテーション科　歯科　歯科口腔外科,,,4" xlink:title="笠利病院" transform="ref(svg,12967.6433,-2845.3568)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,喜界徳洲会病院,鹿児島県大島郡喜界町湾字前金久３１５,内科　神経内科　消化器科　循環器科　小児科　外科　耳鼻いんこう科　リハビリテーション科　精神科　整形外科　脳神経外科　皮膚科　泌尿器科　産婦人科　眼科,,,4" xlink:title="喜界徳洲会病院" transform="ref(svg,12993.3321,-2831.792)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,名瀬徳洲会病院,鹿児島県奄美市名瀬朝日町２８-１,内科　神経内科　消化器科　胃腸科　循環器科　小児科　歯科口腔外科　麻酔科　産婦人科　眼科　耳鼻いんこう科　リハビリテーション科　放射線科　歯科　外科　整形外科　形成外科　脳神経外科　皮膚科　泌尿器科,,,4" xlink:title="名瀬徳洲会病院" transform="ref(svg,12952.6343,-2839.863)" x="0" y="0"/>
+</g>
+</svg>

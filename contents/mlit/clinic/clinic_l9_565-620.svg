@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13965.8203125 -3550.78125 8.7890625 8.7890625" go:dataArea="13965.8203125 -3550.78125 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,大関医院,神奈川県横浜市鶴見区潮田町１-３７,内科　皮膚科,,,9" xlink:title="大関医院" transform="ref(svg,13968.3261,-3550.4133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古谷小児科,神奈川県横浜市鶴見区潮田町２-１１３-１,小児科,,,9" xlink:title="古谷小児科" transform="ref(svg,13968.7043,-3550.3684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古谷整形外科,神奈川県横浜市鶴見区潮田町２-１１３-１,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="古谷整形外科" transform="ref(svg,13968.7043,-3550.3684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺医院,神奈川県横浜市鶴見区潮田町３-１３３-２,内科　呼吸器科　消化器科　循環器科　小児科　神経内科,,,9" xlink:title="渡辺医院" transform="ref(svg,13968.8027,-3550.2725)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新村医院,神奈川県横浜市鶴見区岸谷１-１０-２４,内科　循環器科　小児科　皮膚科,,,9" xlink:title="新村医院" transform="ref(svg,13966.3842,-3549.4032)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天野クリニック,神奈川県横浜市鶴見区岸谷１-１７-７,内科　産婦人科　小児科,,,9" xlink:title="天野クリニック" transform="ref(svg,13966.3506,-3549.7812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほほえみ内科クリニック,神奈川県横浜市鶴見区岸谷１-２２-２２　１Ｆ,内科　アレルギー科,,,9" xlink:title="ほほえみ内科クリニック" transform="ref(svg,13966.5461,-3549.578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三島耳鼻咽喉科医院,神奈川県横浜市鶴見区岸谷３-１-１９,耳鼻いんこう科,,,9" xlink:title="三島耳鼻咽喉科医院" transform="ref(svg,13966.2779,-3549.8555)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）前廣整形外科柳町診療所,神奈川県横浜市鶴見区岸谷４-３２-１２　１Ｆ,外科　整形外科　形成外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）前廣整形外科柳町診療所" transform="ref(svg,13966.9765,-3549.9262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日健会神奈川健診診療所,神奈川県横浜市鶴見区岸谷４-２-１５ハイムトルース６　１-Ｂ,内科,,,9" xlink:title="日健会神奈川健診診療所" transform="ref(svg,13966.6903,-3549.6977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,臼井耳鼻咽喉科,神奈川県横浜市鶴見区下野谷町４-１７９,耳鼻いんこう科,,,9" xlink:title="臼井耳鼻咽喉科" transform="ref(svg,13968.47,-3549.9136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東芝京浜事業所第二診療所,神奈川県横浜市鶴見区末広町１-９,内科　外科　歯科,,,9" xlink:title="東芝京浜事業所第二診療所" transform="ref(svg,13968.6151,-3548.0538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東芝京浜事業所第一診療所,神奈川県横浜市鶴見区末広町２-４,内科　外科　神経科　歯科,,,9" xlink:title="東芝京浜事業所第一診療所" transform="ref(svg,13969.8408,-3548.9092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜食肉市場診療所,神奈川県横浜市鶴見区大黒町３-５３,内科　外科　整形外科,,,9" xlink:title="横浜食肉市場診療所" transform="ref(svg,13967.4785,-3548.8753)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱レイヨン（株）横浜事業所保健室,神奈川県横浜市鶴見区大黒町１０-１,内科,,,9" xlink:title="三菱レイヨン（株）横浜事業所保健室" transform="ref(svg,13967.5899,-3548.044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日産自動車（健保）横浜第３地区診療所,神奈川県横浜市鶴見区大黒町２０-１,内科　心臓内科,,,9" xlink:title="日産自動車（健保）横浜第３地区診療所" transform="ref(svg,13967.7999,-3548.3107)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大東医院,神奈川県横浜市鶴見区大東町１０-２,内科　胃腸科　小児科　外科　整形外科,,,9" xlink:title="大東医院" transform="ref(svg,13969.4833,-3550.3776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小出内科・胃腸科,神奈川県横浜市鶴見区鶴見１-１１-１７ベルシャムＴＯＫ１Ｆ,内科　消化器科,,,9" xlink:title="小出内科・胃腸科" transform="ref(svg,13967.324,-3550.1665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小原クリニック,神奈川県横浜市鶴見区鶴見中央１-３１-２-２１３,内科　精神科　心臓内科,,,9" xlink:title="小原クリニック" transform="ref(svg,13967.7224,-3550.7312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）新穂会あやめ皮フ科スキンケアクリニック,神奈川県横浜市鶴見区鶴見中央４-１-３矢上屋ビル２Ｆ,皮膚科　アレルギー科　美容皮膚科,,,9" xlink:title="（医）新穂会あやめ皮フ科スキンケアクリニック" transform="ref(svg,13967.8007,-3550.6981)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よこやまメンタルクリニック,神奈川県横浜市鶴見区鶴見中央４-１-３矢上屋ビル３Ｆ,心臓内科　精神科,,,9" xlink:title="よこやまメンタルクリニック" transform="ref(svg,13967.8007,-3550.6981)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京急鶴見新田整形外科,神奈川県横浜市鶴見区鶴見中央４-１-３矢上屋ビル５・６Ｆ,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="京急鶴見新田整形外科" transform="ref(svg,13967.8007,-3550.6981)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さなだ医院,神奈川県横浜市鶴見区鶴見中央４-２-３,内科　小児科　外科　皮膚科　泌尿器科　アレルギー科,,,9" xlink:title="さなだ医院" transform="ref(svg,13967.7809,-3550.6595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つるみ眼科,神奈川県横浜市鶴見区鶴見中央４-７-１１木曽屋第３ビル,眼科,,,9" xlink:title="つるみ眼科" transform="ref(svg,13967.8092,-3550.5345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ナチュレクリニック,神奈川県横浜市鶴見区鶴見中央４-８-８新生堂ビル２Ｆ,皮膚科　アレルギー科,,,9" xlink:title="ナチュレクリニック" transform="ref(svg,13967.8436,-3550.4954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮崎整形外科皮フ科,神奈川県横浜市鶴見区鶴見中央４-１４-５キャッスルマンション鶴見１Ｆ,整形外科　皮膚科　リハビリテーション科　リウマチ科,,,9" xlink:title="宮崎整形外科皮フ科" transform="ref(svg,13967.8027,-3550.606)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千翠会ちぐさ眼科医院,神奈川県横浜市鶴見区鶴見中央４-１６-３トミヤビル４Ｆ,眼科,,,9" xlink:title="（医）千翠会ちぐさ眼科医院" transform="ref(svg,13967.835,-3550.6782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千翠会第二ちぐさ眼科医院,神奈川県横浜市鶴見区鶴見中央４-１６-３,眼科,,,9" xlink:title="（医）千翠会第二ちぐさ眼科医院" transform="ref(svg,13967.8317,-3550.6787)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東芝プラントシステム（株）鶴見事業所診療所,神奈川県横浜市鶴見区鶴見中央４-３６-５,内科,,,9" xlink:title="東芝プラントシステム（株）鶴見事業所診療所" transform="ref(svg,13968.2893,-3550.7437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡部クリニック,神奈川県横浜市鶴見区鶴見中央４-４３-６第六日野ビル１Ｆ,内科　呼吸器科　小児科　皮膚科　アレルギー科,,,9" xlink:title="渡部クリニック" transform="ref(svg,13967.9474,-3550.5099)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴見循環器クリニック,神奈川県横浜市鶴見区鶴見中央５-４-１０ベルス・ベイサイド１Ｆ,内科　循環器内科,,,9" xlink:title="鶴見循環器クリニック" transform="ref(svg,13967.707,-3550.5135)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひのわクリニック鶴見,神奈川県横浜市鶴見区鶴見中央５-１４-２５エミネンス富士小堀ビル１Ｆ,内科　循環器内科　糖尿病内科　漢方内科,,,9" xlink:title="ひのわクリニック鶴見" transform="ref(svg,13967.6691,-3550.3401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮下クリニック,神奈川県横浜市鶴見区豊岡町３-１７朝日生命鶴見ビル４Ｆ,内科　呼吸器科　アレルギー科　皮膚科,,,9" xlink:title="宮下クリニック" transform="ref(svg,13967.5038,-3550.7037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まりこの皮フ科,神奈川県横浜市鶴見区豊岡町３-２８鶴見コーリンビル５Ｆ,皮膚科　アレルギー科,,,9" xlink:title="まりこの皮フ科" transform="ref(svg,13967.5336,-3550.7565)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科田中医院,神奈川県横浜市鶴見区豊岡町６-７,耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科田中医院" transform="ref(svg,13967.4607,-3550.7578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜ハビリテーションクリニック,神奈川県横浜市鶴見区豊岡町６-９サンワイズビル２Ｆ,児童精神科　リハビリテーション科　心臓内科,,,9" xlink:title="横浜ハビリテーションクリニック" transform="ref(svg,13967.4655,-3550.746)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴見クリニック,神奈川県横浜市鶴見区豊岡町６-９サンワイズビル３Ｆ,内科　形成外科　泌尿器科,,,9" xlink:title="鶴見クリニック" transform="ref(svg,13967.4655,-3550.746)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲森医院,神奈川県横浜市鶴見区仲通１-５８-７,内科　小児科,,,9" xlink:title="稲森医院" transform="ref(svg,13968.7636,-3550.1833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西山眼科医院,神奈川県横浜市鶴見区生麦３-３-８,内科　眼科,,,9" xlink:title="西山眼科医院" transform="ref(svg,13966.7546,-3549.5594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斉藤内科医院,神奈川県横浜市鶴見区生麦３-８-１１,内科,,,9" xlink:title="斉藤内科医院" transform="ref(svg,13966.7891,-3549.4176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂本クリニック,神奈川県横浜市鶴見区生麦５-６-２ネオマイムステーションスクエア１Ｆ,内科,,,9" xlink:title="坂本クリニック" transform="ref(svg,13967.3767,-3550.0236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかもと眼科,神奈川県横浜市鶴見区生麦５-６-２ネオマイムステーションスクエア１Ｆ,眼科,,,9" xlink:title="さかもと眼科" transform="ref(svg,13967.3767,-3550.0236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井医院,神奈川県横浜市鶴見区生麦５-８-４４,内科　小児科　アレルギー科,,,9" xlink:title="石井医院" transform="ref(svg,13967.2903,-3549.9006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川端こどもクリニック,神奈川県横浜市鶴見区生麦５-２１-１６,内科　小児科　アレルギー科,,,9" xlink:title="川端こどもクリニック" transform="ref(svg,13967.4771,-3549.7104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松澤内科・糖尿病クリニック,神奈川県横浜市鶴見区東寺尾４-１６-１９,内科　糖尿病内科　内分泌内科,,,9" xlink:title="松澤内科・糖尿病クリニック" transform="ref(svg,13966.1711,-3549.9388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯山医院,神奈川県横浜市鶴見区東寺尾５-３-１２,内科　小児科　循環器内科　糖尿病内科,,,9" xlink:title="飯山医院" transform="ref(svg,13966.0695,-3550.1531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京三製作所（健保）直営京三診療所,神奈川県横浜市鶴見区平安町２-２９,内科　放射線科　歯科,,,9" xlink:title="京三製作所（健保）直営京三診療所" transform="ref(svg,13969.3117,-3550.6848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,旭硝子（株）京浜工場健康管理センター,神奈川県横浜市鶴見区弁天町２,内科　外科　眼科　歯科,,,9" xlink:title="旭硝子（株）京浜工場健康管理センター" transform="ref(svg,13968.8434,-3549.668)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,蘇内科クリニック,神奈川県横浜市鶴見区本町通１-６宝屋ファニチャー貸店舗１Ｆ東側,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="蘇内科クリニック" transform="ref(svg,13968.1431,-3550.3125)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うしおだ診療所,神奈川県横浜市鶴見区本町通１-１６-１,内科　消化器内科　循環器内科　眼科　神経内科　外科　整形外科　泌尿器科　精神科　脳神経外科　皮膚科　歯科　小児歯科　矯正歯科,,,9" xlink:title="うしおだ診療所" transform="ref(svg,13967.9785,-3550.236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,神奈川県横浜市鶴見区向井町１-６５-８,内科　胃腸科　循環器科　小児科,,,9" xlink:title="鈴木医院" transform="ref(svg,13968.7185,-3550.6426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木村眼科医院,神奈川県横浜市鶴見区向井町３-７６-１０,眼科,,,9" xlink:title="木村眼科医院" transform="ref(svg,13969.0122,-3550.4874)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＪＸ日鉱日石エネルギー（株）横浜製造所医務室,神奈川県横浜市神奈川区子安通３-３８９-６,内科,,,9" xlink:title="ＪＸ日鉱日石エネルギー（株）横浜製造所医務室" transform="ref(svg,13965.9822,-3548.8378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日産自動車（健保）横浜２地区診療所,神奈川県横浜市神奈川区宝町２,内科　心臓内科　整形外科,,,9" xlink:title="日産自動車（健保）横浜２地区診療所" transform="ref(svg,13966.1995,-3548.1673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）新山下ホーム診療所,神奈川県横浜市中区新山下３-１５-５　３Ｆ,内科,,,9" xlink:title="（特養）新山下ホーム診療所" transform="ref(svg,13966.1966,-3543.58)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本牧港湾診療所,神奈川県横浜市中区錦町５,内科,,,9" xlink:title="本牧港湾診療所" transform="ref(svg,13967.2702,-3542.924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日産自動車（健保）本牧地区診療所,神奈川県横浜市中区錦町８,内科　外科,,,9" xlink:title="日産自動車（健保）本牧地区診療所" transform="ref(svg,13967.5695,-3542.6802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博生会本牧病院付属クリニック,神奈川県横浜市中区本牧三之谷８-９,内科　消化器科　神経内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）博生会本牧病院付属クリニック" transform="ref(svg,13966.615,-3542.152)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉尾内科消化器科医院,神奈川県横浜市中区本牧三之谷１０-２０,内科　消化器科,,,9" xlink:title="吉尾内科消化器科医院" transform="ref(svg,13966.4494,-3542.1132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向山眼科医院,神奈川県横浜市中区本牧三之谷２２-１,眼科,,,9" xlink:title="向山眼科医院" transform="ref(svg,13966.343,-3542.1952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向山小児科医院,神奈川県横浜市中区本牧三之谷２２-１,小児科,,,9" xlink:title="向山小児科医院" transform="ref(svg,13966.343,-3542.1952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,室橋内科医院,神奈川県横浜市中区本牧三之谷２３-１６,内科　呼吸器科　循環器科,,,9" xlink:title="室橋内科医院" transform="ref(svg,13966.3188,-3542.1883)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本牧クリニック,神奈川県横浜市中区本牧町１-８９,内科　胃腸科　外科,,,9" xlink:title="本牧クリニック" transform="ref(svg,13965.8289,-3543.0258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）翠心会尾作内科循環器科医院,神奈川県横浜市中区本牧町１-１１５,内科　循環器科　リハビリテーション科,,,9" xlink:title="（医）翠心会尾作内科循環器科医院" transform="ref(svg,13965.9537,-3543.0313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中区休日急患診療所,神奈川県横浜市中区本牧町２-３５３,内科　小児科,,,9" xlink:title="中区休日急患診療所" transform="ref(svg,13966.1319,-3542.9285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山本内科クリニック,神奈川県横浜市中区本牧町２-３６４,内科　リハビリテーション科,,,9" xlink:title="（医）山本内科クリニック" transform="ref(svg,13966.2303,-3542.9669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本牧眼科クリニック,神奈川県横浜市中区本牧原１-４ムラーラ本牧３Ｆ,眼科,,,9" xlink:title="本牧眼科クリニック" transform="ref(svg,13966.6236,-3542.7081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古川本牧クリニック,神奈川県横浜市中区本牧原１-１１有料老人ホームすいとぴー本牧三溪園内１Ｆ,内科,,,9" xlink:title="古川本牧クリニック" transform="ref(svg,13966.6316,-3542.748)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本牧ベイサイドクリニック,神奈川県横浜市中区本牧原１-２２ムラーラ本牧南館３Ｆ,内科　小児科　消化器内科　皮膚科　リハビリテーション科,,,9" xlink:title="本牧ベイサイドクリニック" transform="ref(svg,13966.6354,-3542.6948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）本牧ホーム医務室,神奈川県横浜市中区本牧原６-２,内科,,,9" xlink:title="（特養）本牧ホーム医務室" transform="ref(svg,13966.8757,-3542.6043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大出クリニック,神奈川県横浜市中区本牧原１７-１マイカル本牧１１番街２Ｆ,内科　胃腸科　外科　肛門科　リハビリテーション科,,,9" xlink:title="（医）大出クリニック" transform="ref(svg,13966.5569,-3542.3272)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本牧整形外科クリニック,神奈川県横浜市中区本牧原１９-１-１０１,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="本牧整形外科クリニック" transform="ref(svg,13966.6427,-3542.4705)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石上内科クリニック,神奈川県横浜市中区本牧原１９-１ＴＨＥ　ＲＥＳＩＤＥＮＣＥ　ＨＯＮＭＯＫＵ　ＹＯＫＯＨＡＭＡＢＡＹＳＩＤＥ３０１,内科　消化器内科,,,9" xlink:title="石上内科クリニック" transform="ref(svg,13966.6434,-3542.4663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本牧脳神経外科クリニック,神奈川県横浜市中区本牧原１９-１ザ・レジデンス本牧横浜ベイサイド３０２,脳神経外科　神経内科,,,9" xlink:title="本牧脳神経外科クリニック" transform="ref(svg,13966.6367,-3542.4739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三渓園クリニック,神奈川県横浜市中区本牧原２７-２,内科　消化器科　小児科　外科,,,9" xlink:title="三渓園クリニック" transform="ref(svg,13966.6774,-3542.2755)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科気管食道科岡田クリニック,神奈川県横浜市中区本牧和田１２-２２ジョイ新本牧ビル１Ｆ,耳鼻いんこう科　気管食道科,,,9" xlink:title="耳鼻咽喉科気管食道科岡田クリニック" transform="ref(svg,13966.1537,-3542.1963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺皮膚科クリニック,神奈川県横浜市中区本牧和田１２-２２ジョイ新本牧ビル,皮膚科,,,9" xlink:title="渡辺皮膚科クリニック" transform="ref(svg,13966.1537,-3542.1963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本牧レディスクリニック,神奈川県横浜市中区本牧和田１２-２２ジョイ新本牧２Ｆ,産婦人科,,,9" xlink:title="本牧レディスクリニック" transform="ref(svg,13966.1528,-3542.2066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土岐医院,神奈川県横浜市中区本牧和田２６-２,内科　胃腸科　小児科,,,9" xlink:title="土岐医院" transform="ref(svg,13965.9631,-3542.1676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）こうかん会水江診療所,神奈川県川崎市川崎区水江町６-２１,内科　外科,,,9" xlink:title="（医）こうかん会水江診療所" transform="ref(svg,13973.7821,-3550.4156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三菱化工機診療所,神奈川県川崎市川崎区大川町２-１,内科　外科,,,9" xlink:title="三菱化工機診療所" transform="ref(svg,13971.104,-3549.4566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴田医院,神奈川県川崎市川崎区浅田３-１０-１２,内科,,,9" xlink:title="柴田医院" transform="ref(svg,13970.0431,-3550.7258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,昭和電工（株）化学品事業部門診療所大川,神奈川県川崎市川崎区大川町６-１,内科,,,9" xlink:title="昭和電工（株）化学品事業部門診療所大川" transform="ref(svg,13971.2686,-3549.733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,昭和電工（株）川崎事業所環境安全部健康管理センター診療所,神奈川県川崎市川崎区扇町５-１,内科　呼吸器科　消化器科　外科　皮膚科　こう門科,,,9" xlink:title="昭和電工（株）川崎事業所環境安全部健康管理センター診療所" transform="ref(svg,13971.9975,-3550.2245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日清製粉（株）鶴見工場医務室,神奈川県川崎市川崎区大川町３-１,内科,,,9" xlink:title="日清製粉（株）鶴見工場医務室" transform="ref(svg,13971.211,-3549.2294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本鋳造（株）診療所,神奈川県川崎市川崎区白石町２-１,内科　外科　眼科,,,9" xlink:title="日本鋳造（株）診療所" transform="ref(svg,13970.6918,-3549.9999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富士電機（株）川崎工場診療所,神奈川県川崎市川崎区田辺新田１-１,内科　外科,,,9" xlink:title="富士電機（株）川崎工場診療所" transform="ref(svg,13970.6265,-3550.4793)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13979.00390625 -3577.1484375 4.39453125 4.39453125" go:dataArea="13979.00390625 -3577.1484375 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,こくほクリニック,東京都台東区三ノ輪１-２７-１５,内科　消化器科　産婦人科,,,9" xlink:title="こくほクリニック" transform="ref(svg,13979.2419,-3572.8928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）三ノ輪,東京都台東区三ノ輪１-２７-１１,内科　精神科,,,9" xlink:title="（特養）三ノ輪" transform="ref(svg,13979.2203,-3572.9285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）同善会同善会クリニック,東京都台東区三ノ輪２-１２-１２,内科　整形外科　リハビリテーション科　眼科,,,9" xlink:title="（医）同善会同善会クリニック" transform="ref(svg,13979.2898,-3573.0002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山友会クリ二ック,東京都台東区清川２-３２-８,内科　精神科　皮膚科　外科,,,9" xlink:title="山友会クリ二ック" transform="ref(svg,13980.0642,-3572.8472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）城北労働・福祉センター健康相談室,東京都台東区日本堤２-２-１１,内科　外科　精神科,,,9" xlink:title="（公財）城北労働・福祉センター健康相談室" transform="ref(svg,13979.8954,-3572.7937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）東京都結核予防会附属総合健診センター分室,東京都台東区日本堤２-２-１１,内科　呼吸器科,,,9" xlink:title="（公財）東京都結核予防会附属総合健診センター分室" transform="ref(svg,13979.8954,-3572.7937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏木医院,東京都墨田区東向島５-２７-１,内科　消化器内科　外科　肛門科,,,9" xlink:title="柏木医院" transform="ref(svg,13982.0679,-3572.7708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松田内科医院,東京都墨田区東向島６-６２-１０,内科　消化器内科　放射線科,,,9" xlink:title="（医）松田内科医院" transform="ref(svg,13982.5754,-3572.7592)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木醫院,東京都墨田区東向島６-６４-４,内科　呼吸器科　消化器内科　循環器科　小児科　外科　放射線科,,,9" xlink:title="鈴木醫院" transform="ref(svg,13982.4991,-3572.8158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五藤医院,東京都墨田区堤通２-７-１０-１０５,内科　消化器内科　小児科　外科　皮膚科,,,9" xlink:title="五藤医院" transform="ref(svg,13981.6562,-3573.4486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大倉医院,東京都墨田区墨田１-１０-４,内科　小児科　産科　婦人科,,,9" xlink:title="大倉医院" transform="ref(svg,13981.7447,-3572.7709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高田医院,東京都墨田区墨田２-６-１７,内科　消化器内科　小児科　リウマチ科,,,9" xlink:title="高田医院" transform="ref(svg,13981.7007,-3573.2853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桐原医院,東京都墨田区墨田３-１７-１２,内科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="（医）桐原医院" transform="ref(svg,13982.0843,-3572.9905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三喜会鐘ヶ淵クリニック,東京都墨田区墨田３-２４-２,内科　消化器内科　循環器科　神経科,,,9" xlink:title="（医）三喜会鐘ヶ淵クリニック" transform="ref(svg,13981.9679,-3573.0629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）礼理会吉田クリニック,東京都墨田区墨田３-３０-８,神経科　脳神経外科　耳鼻いんこう科,,,9" xlink:title="（医）礼理会吉田クリニック" transform="ref(svg,13981.9685,-3573.2587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健愛会すみだ共立診療所,東京都墨田区墨田３-４１-１５,内科　呼吸器科　循環器科　整形外科　皮膚科　麻酔科,,,9" xlink:title="（医）健愛会すみだ共立診療所" transform="ref(svg,13982.3011,-3573.0065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石誠会すみだ石橋クリニック,東京都墨田区墨田４-９-２０,内科　消化器内科　循環器科　外科　肛門科　放射線科,,,9" xlink:title="（医）石誠会すみだ石橋クリニック" transform="ref(svg,13982.0287,-3573.2855)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木こどもクリニック,東京都墨田区墨田４-４５-１,内科　小児科,,,9" xlink:title="鈴木こどもクリニック" transform="ref(svg,13982.3542,-3573.0672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）興譲会長澤医院,東京都墨田区墨田５-１-１０,内科,,,9" xlink:title="（医）興譲会長澤医院" transform="ref(svg,13981.8576,-3573.437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木村医院,東京都墨田区墨田５-３５-６,内科　消化器内科　循環器科　小児科　神経科　皮膚科　麻酔科,,,9" xlink:title="（医）木村医院" transform="ref(svg,13982.0894,-3573.6611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おくだクリニック,東京都足立区青井２-４-１０リバーシティ-U１階,内科　循環器内科　小児科,,,9" xlink:title="おくだクリニック" transform="ref(svg,13981.3313,-3577.0597)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市原内科クリニック,東京都足立区足立１-２０-１０,内科　循環器内科　消化器内科　腎臓内科,,,9" xlink:title="市原内科クリニック" transform="ref(svg,13980.6082,-3576.3447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近田医院,東京都足立区足立２-３-１７,内科　小児科　産科　婦人科　歯科　小児歯科　歯科口腔外科,,,9" xlink:title="近田医院" transform="ref(svg,13980.8367,-3576.059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,星野医院,東京都足立区足立３-９-６,内科　小児科,,,9" xlink:title="星野医院" transform="ref(svg,13980.8575,-3576.4888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田島眼科,東京都足立区足立３-３２-１６,眼科,,,9" xlink:title="田島眼科" transform="ref(svg,13980.9308,-3576.4895)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山-ｱ医院,東京都足立区足立４-１９-１２,内科,,,9" xlink:title="山-ｱ医院" transform="ref(svg,13980.5651,-3576.639)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡邉内科外科医院,東京都足立区足立４-２２-１５,内科　外科　呼吸器科　胃腸科　皮膚科　麻酔科,,,9" xlink:title="渡邉内科外科医院" transform="ref(svg,13980.5501,-3576.5434)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）英成会五反野内科小児科クリニック,東京都足立区足立４-３７-１２グレイトラッキーアオヤマ１階,内科　小児科　アレルギー科,,,9" xlink:title="（医）英成会五反野内科小児科クリニック" transform="ref(svg,13980.8282,-3576.5196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五反野メンタルクリニック,東京都足立区足立４-３８-９加島ビル２階,精神科　心療内科,,,9" xlink:title="五反野メンタルクリニック" transform="ref(svg,13980.8599,-3576.5482)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島小児科,東京都足立区足立４-４１-６,小児科,,,9" xlink:title="中島小児科" transform="ref(svg,13980.8368,-3576.5933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,綾瀬クリニック,東京都足立区綾瀬１-２９-１３,内科　循環器科　小児科,,,9" xlink:title="綾瀬クリニック" transform="ref(svg,13982.3767,-3575.9357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）育楽会あやせ駅前整形外科・内科,東京都足立区綾瀬１-３２-１３ハイネスアヤセ１階Ａ・Ｂ,整形外科　内科　外科　リハビリテーション科,,,9" xlink:title="（医）育楽会あやせ駅前整形外科・内科" transform="ref(svg,13982.4068,-3576.1006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林医院,東京都足立区綾瀬１-３３-１４,内科　外科　皮膚科　泌尿器科,,,9" xlink:title="林医院" transform="ref(svg,13982.2823,-3576.1006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山寿会南綾瀬クリニック,東京都足立区綾瀬２-１０-２２第二増田コーポ１０１,内科　消化器科　循環器科　小児科,,,9" xlink:title="（医）山寿会南綾瀬クリニック" transform="ref(svg,13982.5503,-3575.9371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アヤセ駅前眼科クリニック,東京都足立区綾瀬２-２４-８日興パレス綾瀬３０１,眼科（コンタクト専門）,,,9" xlink:title="アヤセ駅前眼科クリニック" transform="ref(svg,13982.6718,-3576.1362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,綾瀬皮フ科クリニック,東京都足立区綾瀬２-２６-１５第５鳥塚ビル２Ｆ,皮膚科　内科　小児科,,,9" xlink:title="綾瀬皮フ科クリニック" transform="ref(svg,13982.7156,-3576.173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木医院,東京都足立区綾瀬２-２６-１７,内科　循環器科　小児科,,,9" xlink:title="佐々木医院" transform="ref(svg,13982.6813,-3576.1703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,綾瀬東口医院,東京都足立区綾瀬２-２９-４,内科　小児科　皮膚科　外科,,,9" xlink:title="綾瀬東口医院" transform="ref(svg,13982.9319,-3576.2327)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明雲会あやせ眼科クリニック,東京都足立区綾瀬２-３３-２アヤセメディカルモール３階,眼科,,,9" xlink:title="（医）明雲会あやせ眼科クリニック" transform="ref(svg,13982.9326,-3576.0889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こもり耳鼻咽喉科小児耳鼻咽喉科,東京都足立区綾瀬２-３３-２アヤセメディカルモール３階,耳鼻咽喉科　小児耳鼻咽喉科,,,9" xlink:title="こもり耳鼻咽喉科小児耳鼻咽喉科" transform="ref(svg,13982.9326,-3576.0889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）栄心会くめ内科クリニック,東京都足立区綾瀬２-３３-２アヤセメディカルモール１階,内科　胃腸科　循環器科　泌尿器科　肛門科,,,9" xlink:title="（医）栄心会くめ内科クリニック" transform="ref(svg,13982.9326,-3576.0889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）芳羽会あやせ慶友整形外科,東京都足立区綾瀬２-３３-２アヤセメディカルモール２階,整形外科　リハビリテーション科,,,9" xlink:title="（医）芳羽会あやせ慶友整形外科" transform="ref(svg,13982.9326,-3576.0889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,綾瀬眼科診療所,東京都足立区綾瀬２-３６-６,眼科（コンタクト専門）,,,9" xlink:title="綾瀬眼科診療所" transform="ref(svg,13982.932,-3576.0527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）本橋医院,東京都足立区綾瀬２-４３-９,内科　小児科,,,9" xlink:title="（医）本橋医院" transform="ref(svg,13983.0741,-3575.9622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まちどりクリニック,東京都足立区綾瀬３-６-２ボナールビル４Ｆ,精神科　心療内科,,,9" xlink:title="まちどりクリニック" transform="ref(svg,13982.4052,-3576.3384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）俊秀会エヌ・ケイ・クリニック,東京都足立区綾瀬３-７-１５岩崎ビル２階,内科　整形外科　婦人科　放射線科,,,9" xlink:title="（医）俊秀会エヌ・ケイ・クリニック" transform="ref(svg,13982.6458,-3576.3284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）知音会かなりあクリニック,東京都足立区綾瀬３-１５-８,耳鼻咽喉科　アレルギー科　小児科,,,9" xlink:title="（医）知音会かなりあクリニック" transform="ref(svg,13982.6014,-3576.4221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）梅津クリニック,東京都足立区綾瀬３-１５-２０遠藤ビル２階,小児科,,,9" xlink:title="（医）梅津クリニック" transform="ref(svg,13982.5591,-3576.3755)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やよい会あやせ駅前腎クリニック,東京都足立区綾瀬３-１６-４とうしんビル５階・６階,内科,,,9" xlink:title="（医）やよい会あやせ駅前腎クリニック" transform="ref(svg,13982.3933,-3576.3875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヒガノクリニック,東京都足立区綾瀬３-２１-１５,内科　精神科　心療内科,,,9" xlink:title="ヒガノクリニック" transform="ref(svg,13982.6211,-3576.4485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺整形外科,東京都足立区綾瀬４-４-９,整形外科　消化器科　脳神経外科　リハビリテーション科,,,9" xlink:title="渡辺整形外科" transform="ref(svg,13982.1102,-3576.2631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,綾瀬うえむら眼科,東京都足立区綾瀬４-８-１７相善ビル２・３階,眼科,,,9" xlink:title="綾瀬うえむら眼科" transform="ref(svg,13982.3741,-3576.3398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,足立医療（生協）綾瀬駅前診療所,東京都足立区綾瀬４-９-２４大室ビル３Ｆ,内科　心療内科　小児科　リハビリテーション科,,,9" xlink:title="足立医療（生協）綾瀬駅前診療所" transform="ref(svg,13982.3327,-3576.26)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真仁会綾瀬内科診療所,東京都足立区綾瀬４-１４-１７,内科　整形外科　小児科　皮膚科,,,9" xlink:title="（医）真仁会綾瀬内科診療所" transform="ref(svg,13982.3293,-3576.3844)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）嶋津医院,東京都足立区綾瀬４-１８-６,内科　消化器科　小児科　皮膚科　放射線科,,,9" xlink:title="（医）嶋津医院" transform="ref(svg,13982.3635,-3576.5866)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはし眼科,東京都足立区綾瀬４-２４-１７,眼科,,,9" xlink:title="たかはし眼科" transform="ref(svg,13982.3805,-3576.6166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あやせ医院,東京都足立区綾瀬４-３０-１５,内科　胃腸科　外科　皮膚泌尿器科,,,9" xlink:title="あやせ医院" transform="ref(svg,13982.4136,-3576.7644)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰晴会佐藤小児科・皮膚科クリニック,東京都足立区梅島１-４-３,内科　小児科　皮膚科　アレルギー科,,,9" xlink:title="（医）泰晴会佐藤小児科・皮膚科クリニック" transform="ref(svg,13980.1463,-3577.0762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰晴会あおば眼科クリニック,東京都足立区梅島１-４-３,眼科,,,9" xlink:title="（医）泰晴会あおば眼科クリニック" transform="ref(svg,13980.1635,-3577.0652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰晴会あおば内科・総合診療クリニック,東京都足立区梅島１-４-４,内科　脳神経外科,,,9" xlink:title="（医）泰晴会あおば内科・総合診療クリニック" transform="ref(svg,13980.1314,-3577.084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎眼科医院,東京都足立区梅田１-２-１０,眼科,,,9" xlink:title="山崎眼科医院" transform="ref(svg,13980.3502,-3576.2778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あべ内科小児科,東京都足立区梅田１-１８-５,内科　小児科　皮膚科,,,9" xlink:title="あべ内科小児科" transform="ref(svg,13980.1079,-3576.3169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀口整形外科,東京都足立区梅田５-４-１８,整形外科　リハビリテーション科,,,9" xlink:title="堀口整形外科" transform="ref(svg,13979.3566,-3576.7189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤整形外科医院,東京都足立区梅田５-１２-８,整形外科　リハビリテーション科,,,9" xlink:title="加藤整形外科医院" transform="ref(svg,13979.4021,-3576.8995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科・脳神経外科西原クリニック,東京都足立区梅田５-２５-３３ロイヤルパークス梅島１階,内科　脳神経外科,,,9" xlink:title="内科・脳神経外科西原クリニック" transform="ref(svg,13979.5218,-3577.1044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森嶋皮フ科,東京都足立区梅田６-３-１１,皮膚科　アレルギー科,,,9" xlink:title="森嶋皮フ科" transform="ref(svg,13979.9582,-3576.7778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）番場整形外科医院,東京都足立区梅田７-１０-２,整形外科　リハビリテーション科,,,9" xlink:title="（医）番場整形外科医院" transform="ref(svg,13980.0356,-3576.7293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うめだ・あけぼの診療所,東京都足立区梅田７-１２-１５,小児科,,,9" xlink:title="うめだ・あけぼの診療所" transform="ref(svg,13980.0721,-3576.9086)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福寿会福岡クリニック,東京都足立区梅田７-１８-１１,内科　整形外科　リハビリテーション科　放射線科　麻酔科　小児科　皮膚科,,,9" xlink:title="（医）福寿会福岡クリニック" transform="ref(svg,13979.8704,-3577.0081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈隆会梅島診療所,東京都足立区梅田７-３２-１２,内科　皮膚科,,,9" xlink:title="（医）慈隆会梅島診療所" transform="ref(svg,13979.8745,-3577.073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤クリニック,東京都足立区梅田８-１-１梅島地所ビル３階,内科　呼吸器科　消化器科　循環器科　アレルギー科　皮膚科　リハビリテーション科,,,9" xlink:title="伊藤クリニック" transform="ref(svg,13979.7232,-3577.0849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保内医院,東京都足立区弘道１-３-１９,内科　外科　胃腸内科　肛門外科　アレルギー科　皮膚科　小児科,,,9" xlink:title="久保内医院" transform="ref(svg,13981.1976,-3576.674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五反野渡辺整形外科,東京都足立区弘道１-３-２７,整形外科　消化器科　脳神経外科　リハビリテーション科,,,9" xlink:title="五反野渡辺整形外科" transform="ref(svg,13981.087,-3576.665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久勝医院,東京都足立区弘道２-１-３,内科　呼吸器科　アレルギー科　リハビリテーション科　リハビリテーション科,,,9" xlink:title="久勝医院" transform="ref(svg,13981.4793,-3576.6773)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森川医院,東京都足立区関原１-８-１０,内科　胃腸科　小児科　外科　眼科,,,9" xlink:title="森川医院" transform="ref(svg,13979.04,-3576.4451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三秀会三宅クリニック,東京都足立区関原２-１３-２３　１Ｆ,内科　消化器科　循環器科,,,9" xlink:title="（医）三秀会三宅クリニック" transform="ref(svg,13979.224,-3576.9185)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福寿会関原クリニック,東京都足立区関原３-１-１１,神経内科　精神科　内科,,,9" xlink:title="（医）福寿会関原クリニック" transform="ref(svg,13979.1558,-3576.9874)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小宮耳鼻咽喉科医院,東京都足立区千住１-１３-１０,耳鼻いんこう科,,,9" xlink:title="小宮耳鼻咽喉科医院" transform="ref(svg,13980.0029,-3574.8675)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒川医院,東京都足立区千住１-１８-２,内科　小児科,,,9" xlink:title="黒川医院" transform="ref(svg,13980.1095,-3574.8788)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）瑞信会幸仁クリニック,東京都足立区千住１-２１-７龍ビル６-３・Ｂ１階,精神科　神経科　心療内科,,,9" xlink:title="（医）瑞信会幸仁クリニック" transform="ref(svg,13980.1556,-3574.8103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北千住美容形成外科,東京都足立区千住１-２４-６第２タチカワビル２階,皮膚科　美容皮膚科　形成外科　美容外科,,,9" xlink:title="北千住美容形成外科" transform="ref(svg,13980.1602,-3574.7254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小沢内科胃腸科,東京都足立区千住１-３１-３,内科　胃腸科,,,9" xlink:title="小沢内科胃腸科" transform="ref(svg,13980.3257,-3574.828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,萩原小児科内科医院,東京都足立区千住１-３６-１３,内科　小児科,,,9" xlink:title="萩原小児科内科医院" transform="ref(svg,13980.3442,-3574.7289)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千寿皮膚科医院,東京都足立区千住２-１コスモ北千住２０３,皮膚科,,,9" xlink:title="千寿皮膚科医院" transform="ref(svg,13979.9719,-3574.9252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）保成会菅田眼科,東京都足立区千住２-６,眼科,,,9" xlink:title="（医）保成会菅田眼科" transform="ref(svg,13980.0454,-3575.0368)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎内科クリニック,東京都足立区千住２-２７,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="山崎内科クリニック" transform="ref(svg,13980.1835,-3575.0199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂部眼科クリニック,東京都足立区千住２-４４鳥居ビル３Ｆ,眼科,,,9" xlink:title="坂部眼科クリニック" transform="ref(svg,13980.2427,-3574.9065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,海老原耳鼻咽喉科医院,東京都足立区千住３-１,耳鼻咽喉科,,,9" xlink:title="海老原耳鼻咽喉科医院" transform="ref(svg,13980.0482,-3575.1161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北千住あきやま皮膚科,東京都足立区千住３-１７,皮膚科,,,9" xlink:title="北千住あきやま皮膚科" transform="ref(svg,13980.0983,-3575.2815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大橋眼科医院,東京都足立区千住３-３１,眼科,,,9" xlink:title="大橋眼科医院" transform="ref(svg,13980.1642,-3575.0843)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えんどう耳鼻咽喉科クリニック,東京都足立区千住３-５４-２,耳鼻咽喉科　アレルギー科,,,9" xlink:title="えんどう耳鼻咽喉科クリニック" transform="ref(svg,13980.3267,-3575.2359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）京和会山路医院,東京都足立区千住３-６９,内科　リウマチ科　アレルギー科　皮膚科　感染症内科,,,9" xlink:title="（医）京和会山路医院" transform="ref(svg,13980.3932,-3575.1211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅川医院,東京都足立区千住３-７６,内科　胃腸内科　放射線科,,,9" xlink:title="浅川医院" transform="ref(svg,13980.3467,-3575.0496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北千住西口眼科,東京都足立区千住３-９２北千住マルイ８階,眼科,,,9" xlink:title="北千住西口眼科" transform="ref(svg,13980.4574,-3575.0745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）名和会名倉医院駅前クリニック,東京都足立区千住３-９８千住ミルディス-U番館３０３-１,整形外科　リハビリテーション科,,,9" xlink:title="（医）名和会名倉医院駅前クリニック" transform="ref(svg,13980.4953,-3575.1951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中興会ミルディス内科・胃腸科クリニック,東京都足立区千住３-９８千住ミルディス-U番館３０４,内科　胃腸科　呼吸器科　循環器科　小児科　アレルギー科　リウマチ科,,,9" xlink:title="（医）中興会ミルディス内科・胃腸科クリニック" transform="ref(svg,13980.4953,-3575.1951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仙耳会ミルディス小児科耳鼻科,東京都足立区千住３-９８千住ミルディス-U番館３０６,小児科　アレルギー科　耳鼻咽喉科　小児耳鼻咽喉科,,,9" xlink:title="（医）仙耳会ミルディス小児科耳鼻科" transform="ref(svg,13980.4953,-3575.1951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北千住眼科,東京都足立区千住３-９８千住ミルディス-U番館３階,眼科,,,9" xlink:title="北千住眼科" transform="ref(svg,13980.4785,-3575.2026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）精華会ミルディス皮フ科,東京都足立区千住３-９８千住ミルディス-U番館３０５,皮膚科　アレルギー科　美容皮膚科,,,9" xlink:title="（医）精華会ミルディス皮フ科" transform="ref(svg,13980.4953,-3575.1951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）厚生協会北千住メンタルクリニック,東京都足立区千住３-９８-３０７千住ミルディス-U番館,精神科　心療内科,,,9" xlink:title="（医）厚生協会北千住メンタルクリニック" transform="ref(svg,13980.4953,-3575.1951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）自彊会千住診療所,東京都足立区千住４-４-１２,内科　整形外科　放射線科,,,9" xlink:title="（医）自彊会千住診療所" transform="ref(svg,13980.2296,-3575.2935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森谷医院,東京都足立区千住４-２５-１０,老年神経内科　精神科　内科,,,9" xlink:title="森谷医院" transform="ref(svg,13980.5169,-3575.3407)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯塚医院,東京都足立区千住５-５-５,内科　小児科,,,9" xlink:title="飯塚医院" transform="ref(svg,13980.3818,-3575.4542)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）名和会名倉医院,東京都足立区千住５-２２-１,整形外科　リハビリテーション科,,,9" xlink:title="（医）名和会名倉医院" transform="ref(svg,13980.5581,-3575.5544)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）名倉会千住の名倉整形外科,東京都足立区千住５-２２-１３ヴェラハイツ北千住-U１階,整形外科　リハビリテーション科,,,9" xlink:title="（医）名倉会千住の名倉整形外科" transform="ref(svg,13980.6153,-3575.525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健和会柳原腎クリニック,東京都足立区千住曙町４-１６千住曙共同会館１階、２階、３階,内科,,,9" xlink:title="（医）健和会柳原腎クリニック" transform="ref(svg,13981.2708,-3574.4295)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健愛会健愛クリニック,東京都足立区千住曙町３７-８,内科　循環器内科　心療内科　耳鼻咽喉科　皮膚科　胃腸科　精神科　小児科,,,9" xlink:title="（医）健愛会健愛クリニック" transform="ref(svg,13981.5434,-3574.1929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永泉会曙町クリニック,東京都足立区千住曙町４１-２-１０７,内科　循環器科　小児科,,,9" xlink:title="（医）永泉会曙町クリニック" transform="ref(svg,13981.2721,-3574.2709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北千住クリニック形成外科・皮膚科,東京都足立区千住旭町４-１１西村ビル４Ｆ,形成外科　皮膚科　美容外科,,,9" xlink:title="北千住クリニック形成外科・皮膚科" transform="ref(svg,13980.6369,-3574.9415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はせがわこども・ファミリークリニック,東京都足立区千住旭町７-２４　１階,小児科　内科,,,9" xlink:title="はせがわこども・ファミリークリニック" transform="ref(svg,13980.6225,-3574.6952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）寿泉会旭医院,東京都足立区千住旭町９-１５,内科　外科　胃腸内科　肛門外科,,,9" xlink:title="（医）寿泉会旭医院" transform="ref(svg,13980.8456,-3574.6845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）やよい会北千住東口腎クリニック,東京都足立区千住旭町１１-２学園通りビル１Ｆ,内科,,,9" xlink:title="（医）やよい会北千住東口腎クリニック" transform="ref(svg,13980.7796,-3574.8852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐野内科クリニック,東京都足立区千住旭町２９-７,内科　胃腸科　小児科　麻酔科,,,9" xlink:title="（医）佐野内科クリニック" transform="ref(svg,13980.9326,-3574.9967)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）シロアム会北千住旭クリニック,東京都足立区千住旭町３１-５,精神科　内科　心療内科,,,9" xlink:title="（医）シロアム会北千住旭クリニック" transform="ref(svg,13980.8541,-3575.0942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）久矩会大岡医院,東京都足立区千住旭町３９-１,内科　アレルギー科　皮膚科,,,9" xlink:title="（医）久矩会大岡医院" transform="ref(svg,13980.7268,-3575.0482)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野原耳鼻咽喉科医院,東京都足立区千住旭町３９-１１,耳鼻咽喉科　アレルギー科,,,9" xlink:title="野原耳鼻咽喉科医院" transform="ref(svg,13980.6853,-3575.0935)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江本眼科,東京都足立区千住旭町４２-２ルミネ北千住店西口駐車場棟２階,眼科,,,9" xlink:title="江本眼科" transform="ref(svg,13980.498,-3574.9212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島袋内科,東京都足立区千住旭町４３-１１,内科,,,9" xlink:title="島袋内科" transform="ref(svg,13980.6477,-3575.07)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千クリニック,東京都足立区千住東１-２０-１２,内科　外科　整形外科,,,9" xlink:title="千クリニック" transform="ref(svg,13980.4531,-3574.5539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（財）海外産業人材育成協会東京研修センター医務室,東京都足立区千住東１-３０-１東京研修センター３３２,内科　精神科,,,9" xlink:title="（財）海外産業人材育成協会東京研修センター医務室" transform="ref(svg,13980.5754,-3574.3662)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千住中央診療所,東京都足立区千住大川町３７-２,内科　胃腸科　小児科　精神科　心療内科　耳鼻咽喉科　皮膚科　腫瘍内科　小児内科　消化器内科,,,9" xlink:title="千住中央診療所" transform="ref(svg,13979.8002,-3575.5578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部メディカルクリニック,東京都足立区千住河原町２１-１０,内科　神経内科　心療内科　外科　脳神経外科　リハビリテーション科　精神科,,,9" xlink:title="阿部メディカルクリニック" transform="ref(svg,13979.8992,-3574.282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰仁会北川医院,東京都足立区千住河原町２２-６,内科　小児科　精神科　神経内科　心療内科　皮膚科　リハビリテーション科　整形外科,,,9" xlink:title="（医）泰仁会北川医院" transform="ref(svg,13979.843,-3574.2267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中居町クリニック,東京都足立区千住寿町３-５,内科　小児科　外科　整形外科　リハビリテーション科　消化器内科　肛門外科,,,9" xlink:title="中居町クリニック" transform="ref(svg,13979.9304,-3575.1798)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博信会布川医院,東京都足立区千住中居町１１-８　１階,内科　小児科,,,9" xlink:title="（医）博信会布川医院" transform="ref(svg,13979.6699,-3574.8401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滝沢耳鼻咽喉科・アレルギー科クリニック,東京都足立区千住仲町７-７,耳鼻咽喉科　アレルギー科,,,9" xlink:title="滝沢耳鼻咽喉科・アレルギー科クリニック" transform="ref(svg,13980.023,-3574.4943)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健愛会かもん宿診療所,東京都足立区千住仲町１２-１６,内科,,,9" xlink:title="（医）健愛会かもん宿診療所" transform="ref(svg,13980.0083,-3574.5717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,足立区足立保健所千住保健総合センター,東京都足立区千住仲町１９-３,内科　小児科　歯科,,,9" xlink:title="足立区足立保健所千住保健総合センター" transform="ref(svg,13980.0884,-3574.4976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北千住仲クリニック,東京都足立区千住仲町２０-９,内科　心療内科　神経精神科,,,9" xlink:title="北千住仲クリニック" transform="ref(svg,13980.1556,-3574.5974)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北千住西口クリニック,東京都足立区千住仲町２７-１３小桜ビル地下１階,内科,,,9" xlink:title="北千住西口クリニック" transform="ref(svg,13980.074,-3574.3822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ＷＨＡ　石井医院,東京都足立区千住仲町３８-４　１階,整形外科　皮膚科　内科　形成外科,,,9" xlink:title="（医）ＷＨＡ　石井医院" transform="ref(svg,13980.219,-3574.6014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えのもとファミリークリニック,東京都足立区千住橋戸町１-１３ポンテポルタ千住４０３,内科　皮膚科　胃腸内科　小児科　アレルギー科　外科　美容皮膚科,,,9" xlink:title="えのもとファミリークリニック" transform="ref(svg,13979.5326,-3574.2388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千住町眼科,東京都足立区千住橋戸町１-１３ポンテポルタ千住４階,眼科　小児眼科　アレルギー科,,,9" xlink:title="千住町眼科" transform="ref(svg,13979.5326,-3574.2388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ニッピ診療所,東京都足立区千住緑町１-１-１,内科　外科,,,9" xlink:title="ニッピ診療所" transform="ref(svg,13979.386,-3574.3423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科胃腸科クリニック,東京都足立区千住緑町２-１０-５,内科　胃腸科,,,9" xlink:title="鈴木内科胃腸科クリニック" transform="ref(svg,13979.4088,-3574.585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）順康会こばやし眼科クリニック,東京都足立区千住宮元町１-１千住宮元ビル２階、３階,眼科,,,9" xlink:title="（医）順康会こばやし眼科クリニック" transform="ref(svg,13979.7513,-3574.4671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子整形外科内科,東京都足立区千住宮元町１-１,内科　整形外科　リハビリテーション科,,,9" xlink:title="金子整形外科内科" transform="ref(svg,13979.7647,-3574.4655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たばた内科クリニック,東京都足立区千住宮元町１３-９,内科　小児科　アレルギー科　リウマチ科,,,9" xlink:title="たばた内科クリニック" transform="ref(svg,13979.7656,-3574.6431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,東京都足立区千住元町３-５,内科　整形外科,,,9" xlink:title="鈴木医院" transform="ref(svg,13979.4069,-3575.3304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木耳鼻咽喉科医院,東京都足立区千住元町３-６,耳鼻咽喉科,,,9" xlink:title="鈴木耳鼻咽喉科医院" transform="ref(svg,13979.4057,-3575.3527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）千住桜花苑（診療所）,東京都足立区千住元町１８-１９,内科　整形外科,,,9" xlink:title="（特養）千住桜花苑（診療所）" transform="ref(svg,13979.3486,-3575.535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すずきこどもクリニック,東京都足立区千住柳町１８-７ノリコビル１階,小児科　内科　アレルギー科,,,9" xlink:title="すずきこどもクリニック" transform="ref(svg,13979.4844,-3575.4236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たちばな眼科,東京都足立区千住柳町１８-７ノリコビル２階,眼科,,,9" xlink:title="たちばな眼科" transform="ref(svg,13979.4856,-3575.4313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,足立保健所中央本町保健総合センター,東京都足立区中央本町１-５-３,内科　小児科　歯科,,,9" xlink:title="足立保健所中央本町保健総合センター" transform="ref(svg,13980.3943,-3577.1104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）雄輝会木内医院,東京都足立区中央本町２-２４-１２,内科　小児科　循環器内科　放射線科,,,9" xlink:title="（医）雄輝会木内医院" transform="ref(svg,13980.8853,-3576.7997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）芳成会芳村クリニック,東京都足立区西綾瀬２-２-１６　１Ｆ,内科　小児科　外科　麻酔科　リハビリテーション科,,,9" xlink:title="（医）芳成会芳村クリニック" transform="ref(svg,13981.4996,-3576.2142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ごたんの小児科クリニック,東京都足立区西綾瀬２-６-２０プラザホワイトＡ１階,小児科　内科　アレルギー科,,,9" xlink:title="ごたんの小児科クリニック" transform="ref(svg,13981.3389,-3576.3588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井関整形外科,東京都足立区西綾瀬２-２０-１２,整形外科　リハビリテーション科,,,9" xlink:title="井関整形外科" transform="ref(svg,13981.3262,-3576.6236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大山皮膚科,東京都足立区西綾瀬２-２３-８寿グランドマンション１０３,皮膚科　泌尿器科　アレルギー科,,,9" xlink:title="大山皮膚科" transform="ref(svg,13981.067,-3576.5745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳山産婦人科医院,東京都足立区東綾瀬１-６-６,産婦人科　皮膚科,,,9" xlink:title="徳山産婦人科医院" transform="ref(svg,13982.9598,-3576.4004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）淳友会わたクリニック足立,東京都足立区東綾瀬１-６-１０エルバビル３階,内科,,,9" xlink:title="（医）淳友会わたクリニック足立" transform="ref(svg,13983.0077,-3576.4119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）智眞会じゅんクリニック,東京都足立区東綾瀬１-１０-８　１階,内科　小児科,,,9" xlink:title="（医）智眞会じゅんクリニック" transform="ref(svg,13983.3283,-3576.4348)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）知音会みみ・はな・のどメディカルクリニック,東京都足立区東綾瀬１-１８-１７グランコスモＵ１階１０１,耳鼻咽喉科　アレルギー科　小児科,,,9" xlink:title="（医）知音会みみ・はな・のどメディカルクリニック" transform="ref(svg,13983.3854,-3576.4707)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西本医院,東京都足立区東綾瀬２-１-１５,内科　循環器科　小児科,,,9" xlink:title="西本医院" transform="ref(svg,13983.0709,-3576.6661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤医院,東京都足立区東綾瀬２-１１-１３,内科　小児科,,,9" xlink:title="佐藤医院" transform="ref(svg,13983.3879,-3576.885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今井眼科医院,東京都足立区柳原１-２３-９,眼科,,,9" xlink:title="今井眼科医院" transform="ref(svg,13981.3514,-3574.6088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健愛会柳原診療所,東京都足立区柳原１-２５-１５,内科　呼吸器科　循環器科　整形外科　リハビリテーション科,,,9" xlink:title="（医）健愛会柳原診療所" transform="ref(svg,13981.264,-3574.6247)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健愛会柳原ホームケア診療所,東京都足立区柳原１-２５-１５　２階,内科,,,9" xlink:title="（医）健愛会柳原ホームケア診療所" transform="ref(svg,13981.264,-3574.6247)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宏英会吉田医院,東京都足立区柳原１-３１-１４,内科　外科　整形外科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="（医）宏英会吉田医院" transform="ref(svg,13981.3058,-3574.5105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）八光会菅原眼科クリニック,東京都荒川区南千住１-１３-３,眼科,,,9" xlink:title="（医）八光会菅原眼科クリニック" transform="ref(svg,13979.1247,-3573.2126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上野小児科医院,東京都荒川区南千住１-１３-２２三ノ輪橋駅前ビル２階２０３,小児科,,,9" xlink:title="上野小児科医院" transform="ref(svg,13979.1111,-3573.2255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,舳松医院,東京都荒川区南千住２-２６-８,内科　消化器科　循環器科　外科　耳鼻咽喉科,,,9" xlink:title="舳松医院" transform="ref(svg,13979.7439,-3572.9051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖幸会茂澤クリニック,東京都荒川区南千住３-４-１,内科　小児科　皮膚科　リハビリテーション科　整形外科　消化器内科　循環器内科　美容皮膚科,,,9" xlink:title="（医）聖幸会茂澤クリニック" transform="ref(svg,13979.929,-3572.9856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もざわ眼科,東京都荒川区南千住３-４-２　１階,眼科,,,9" xlink:title="もざわ眼科" transform="ref(svg,13979.9464,-3572.9802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）有隣協会千寿苑,東京都荒川区南千住３-５-１３,内科,,,9" xlink:title="（福）有隣協会千寿苑" transform="ref(svg,13980.0665,-3572.9284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒川区立（特養）サンハイム荒川医務室,東京都荒川区南千住３-１４-７　２階,内科,,,9" xlink:title="荒川区立（特養）サンハイム荒川医務室" transform="ref(svg,13980.3117,-3573.0341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）鉄道弘済会義肢装具サポートセンター付属診療所,東京都荒川区南千住４-３-３　３・Ｍ３・４階,整形外科　リハビリテーション科,,,9" xlink:title="（公財）鉄道弘済会義肢装具サポートセンター付属診療所" transform="ref(svg,13979.9268,-3573.2664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇津野レディスクリニック,東京都荒川区南千住４-７-１ビビ南千住３Ｆ,産婦人科　皮膚科,,,9" xlink:title="宇津野レディスクリニック" transform="ref(svg,13980.0733,-3573.473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）サウスリバー会かどた内科クリニック,東京都荒川区南千住４-７-１ＢｉＶｉ南千住３階,内科　小児科　アレルギー科　胃腸内科　内視鏡内科　漢方内科　呼吸器内科,,,9" xlink:title="（医）サウスリバー会かどた内科クリニック" transform="ref(svg,13980.077,-3573.4696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）いなばキッズクリニック,東京都荒川区南千住４-７-１ＢｉＶｉ南千住３０４,小児科,,,9" xlink:title="（医）いなばキッズクリニック" transform="ref(svg,13980.06,-3573.4748)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松林整形外科クリニック,東京都荒川区南千住４-７-１ウェルシップ南千住１Ｆ,外科　整形外科　リハビリテーション科,,,9" xlink:title="松林整形外科クリニック" transform="ref(svg,13980.08,-3573.4806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしの耳鼻咽喉科クリニック,東京都荒川区南千住４-７-１ウェルシップ３Ｂ,アレルギー科　耳鼻咽喉科,,,9" xlink:title="よしの耳鼻咽喉科クリニック" transform="ref(svg,13980.0766,-3573.4756)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ガーデンアイクリニック,東京都荒川区南千住４-７-２ＬａＬａテラス南千住２階２０２,眼科,,,9" xlink:title="ガーデンアイクリニック" transform="ref(svg,13980.2198,-3573.5388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉野内科小児科医院,東京都荒川区南千住５-７-１,内科　小児科,,,9" xlink:title="吉野内科小児科医院" transform="ref(svg,13979.5032,-3573.297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,角田クリニック,東京都荒川区南千住５-１８-１１,アレルギー科　皮膚科　代謝内科　美容内科　美容皮膚科,,,9" xlink:title="角田クリニック" transform="ref(svg,13979.5827,-3573.4023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）瑞英会野近眼科医院,東京都荒川区南千住５-２０-８,眼科,,,9" xlink:title="（医）瑞英会野近眼科医院" transform="ref(svg,13979.6327,-3573.4057)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平永会日下診療所,東京都荒川区南千住５-２１-７　１階２階,内科　胃腸科　外科　肛門科　皮膚泌尿器科,,,9" xlink:title="（医）平永会日下診療所" transform="ref(svg,13979.624,-3573.375)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南千住内科クリニック,東京都荒川区南千住５-３１-６,内科　循環器科　神経内科,,,9" xlink:title="南千住内科クリニック" transform="ref(svg,13979.6317,-3573.2196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒川区立（特養）グリーンハイム荒川医務室,東京都荒川区南千住６-３６-５　３階,内科　精神科　整形外科,,,9" xlink:title="荒川区立（特養）グリーンハイム荒川医務室" transform="ref(svg,13979.1215,-3573.8566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子医院,東京都荒川区南千住６-４７-１１,内科　小児科,,,9" xlink:title="金子医院" transform="ref(svg,13979.3784,-3573.4617)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）久木留医院,東京都荒川区南千住６-５３-８,内科　呼吸器内科　消化器・胃腸内科　外科　整形外科,,,9" xlink:title="（医）久木留医院" transform="ref(svg,13979.4814,-3573.6929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁癒会南千住つのだ医院,東京都荒川区南千住６-６５-１２,内科　循環器内科　小児科,,,9" xlink:title="（医）仁癒会南千住つのだ医院" transform="ref(svg,13979.4538,-3573.7435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）三幸福祉会（特養）癒しの里南千住診療所,東京都荒川区南千住６-６７-８,内科　外科,,,9" xlink:title="（福）三幸福祉会（特養）癒しの里南千住診療所" transform="ref(svg,13979.4788,-3573.8825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）雄照会はちすか整形外科,東京都荒川区南千住７-１-１アクレスティ南千住３０１,整形外科　リハビリテーション科,,,9" xlink:title="（医）雄照会はちすか整形外科" transform="ref(svg,13979.8277,-3573.3184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）花水木会はたの耳鼻咽喉科,東京都荒川区南千住７-１-１アクレスティ南千住３階３０４,アレルギー科　耳鼻咽喉科,,,9" xlink:title="（医）花水木会はたの耳鼻咽喉科" transform="ref(svg,13979.8277,-3573.3184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ＫＳハートメディカルハートクリニック南千住,東京都荒川区南千住７-１-１アクレスティ南千住医療モール３０５,内科　皮膚科　婦人科　循環器内科,,,9" xlink:title="（医）ＫＳハートメディカルハートクリニック南千住" transform="ref(svg,13979.8277,-3573.3184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南千住こどもクリニック,東京都荒川区南千住７-１-１アクレスティ南千住３階３０３,小児科　アレルギー科,,,9" xlink:title="南千住こどもクリニック" transform="ref(svg,13979.8277,-3573.3184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杏音会土屋クリニック,東京都荒川区南千住７-１２-１５,内科　消化器科　放射線科,,,9" xlink:title="（医）杏音会土屋クリニック" transform="ref(svg,13979.7415,-3573.593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）関東電気保安協会診療所健康相談室,東京都荒川区南千住７-３０-８　３Ｆ,内科　精神科,,,9" xlink:title="（一財）関東電気保安協会診療所健康相談室" transform="ref(svg,13979.9821,-3573.5594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）しらひげ西クリニック,東京都荒川区南千住８-３-２-１０１とちのき通り北弐番館,内科,,,9" xlink:title="（医）しらひげ西クリニック" transform="ref(svg,13980.6394,-3573.6029)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,汐入眼科クリニック,東京都荒川区南千住８-４-５けやき通り北参番館２０３,内科　小児科　眼科　小児眼科,,,9" xlink:title="汐入眼科クリニック" transform="ref(svg,13980.7125,-3573.7356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,汐入耳鼻咽喉科,東京都荒川区南千住８-４-５ベルポート汐入西館１０２,小児科　耳鼻咽喉科,,,9" xlink:title="汐入耳鼻咽喉科" transform="ref(svg,13980.7538,-3573.7898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,汐入診療所,東京都荒川区南千住８-１０-３-１０１,内科　小児科　精神科　整形外科　リハビリテーション科,,,9" xlink:title="汐入診療所" transform="ref(svg,13981.1735,-3573.7179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小山内科医院,東京都荒川区東日暮里１-５-１０大関横丁鈴木酒販ビル３Ａ,内科　消化器内科,,,9" xlink:title="小山内科医院" transform="ref(svg,13979.0275,-3573.1292)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いなみ整形外科クリニック,東京都荒川区東日暮里１-５-１０大関横丁鈴木酒販ビル３階Ｂ,整形外科　リハビリテーション科,,,9" xlink:title="いなみ整形外科クリニック" transform="ref(svg,13979.0203,-3573.1289)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）孔明会茅野外科・内科,東京都葛飾区西亀有２-３７-３,呼吸器科　循環器科　消化器科　内科　外科　整形外科　皮膚科　肛門科　麻酔科,,,9" xlink:title="（医）孔明会茅野外科・内科" transform="ref(svg,13983.3914,-3576.2531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大鳥医院,東京都葛飾区四つ木３-１４-１３,内科　神経内科,,,9" xlink:title="大鳥医院" transform="ref(svg,13983.2465,-3573.5058)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京葛飾医療（生協）篠原診療所,東京都葛飾区四つ木４-１５-１５,内科　小児科　外科,,,9" xlink:title="東京葛飾医療（生協）篠原診療所" transform="ref(svg,13983.292,-3573.8253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山寿会大山クリニック,東京都葛飾区堀切１-４１-９エヴァーグリーン堀切１０１,内科　消化器科　小児科　循環器科,,,9" xlink:title="（医）山寿会大山クリニック" transform="ref(svg,13983.3254,-3574.2838)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小村肛門科医院,東京都葛飾区堀切２-９-７,肛門科,,,9" xlink:title="小村肛門科医院" transform="ref(svg,13982.445,-3574.4972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）直心会宮澤医院,東京都葛飾区堀切２-１３-９,内科　小児科,,,9" xlink:title="（医）直心会宮澤医院" transform="ref(svg,13982.5928,-3574.4561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐久間産婦人科クリニック,東京都葛飾区堀切２-５４-１６,産科　婦人科　内科　小児科,,,9" xlink:title="佐久間産婦人科クリニック" transform="ref(svg,13982.9094,-3574.524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明芳会新葛飾ロイヤルクリニック,東京都葛飾区堀切２-６６-１７,内科　循環器内科　消化器内科　外科　整形外科　皮膚科　泌尿器科　放射線科　精神科　心療内科　心臓血管外科　脳神経外科,,,9" xlink:title="（医）明芳会新葛飾ロイヤルクリニック" transform="ref(svg,13983.1225,-3574.4523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）敬芳会山崎眼科医院,東京都葛飾区堀切３-５-２,眼科,,,9" xlink:title="（医）敬芳会山崎眼科医院" transform="ref(svg,13982.819,-3574.665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,双葉皮ふ科クリニック,東京都葛飾区堀切３-７-２,皮膚科,,,9" xlink:title="双葉皮ふ科クリニック" transform="ref(svg,13982.6865,-3574.7025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菖蒲園診療所,東京都葛飾区堀切３-１２-１６,内科　胃腸科　小児科　皮膚科,,,9" xlink:title="菖蒲園診療所" transform="ref(svg,13982.9251,-3574.634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南郷外科・整形外科医院,東京都葛飾区堀切３-１７-１３,整形外科　外科,,,9" xlink:title="南郷外科・整形外科医院" transform="ref(svg,13983.0694,-3574.6362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恒生会林整形外科,東京都葛飾区堀切４-１２-１０,整形外科　内科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）恒生会林整形外科" transform="ref(svg,13982.6097,-3574.7104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤メディカルクリニック,東京都葛飾区堀切４-５７-５,内科　小児科　整形外科　形成外科　耳鼻いんこう科　麻酔科,,,9" xlink:title="伊藤メディカルクリニック" transform="ref(svg,13982.64,-3574.8925)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明眸会田村眼科,東京都葛飾区堀切５-１-３サンヨシダビル２階,眼科,,,9" xlink:title="（医）明眸会田村眼科" transform="ref(svg,13982.7129,-3574.7878)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中川皮フ科クリニック,東京都葛飾区堀切５-２-３,皮膚科　アレルギー科,,,9" xlink:title="中川皮フ科クリニック" transform="ref(svg,13982.7481,-3574.8015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやざわハートクリニック,東京都葛飾区堀切５-１６-１１　１Ｆ,循環器内科　内科,,,9" xlink:title="みやざわハートクリニック" transform="ref(svg,13983.1453,-3574.8232)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健伸会亀山内科医院,東京都葛飾区堀切５-２９-１９,内科　胃腸科　小児科　放射線科,,,9" xlink:title="（医）健伸会亀山内科医院" transform="ref(svg,13982.981,-3574.9019)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東京葛飾医療（生協）下千葉診療所,東京都葛飾区堀切７-１３-２４,内科　小児科　整形外科　呼吸器科　消化器科　神経内科　循環器科,,,9" xlink:title="東京葛飾医療（生協）下千葉診療所" transform="ref(svg,13983.1336,-3575.4702)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博雅会大江医院,東京都葛飾区東堀切２-５-１５,内科　小児科　消化器科,,,9" xlink:title="（医）博雅会大江医院" transform="ref(svg,13983.3897,-3575.2314)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,葛飾区保健所小菅保健センター,東京都葛飾区小菅２-１９-２１,不明,,,9" xlink:title="葛飾区保健所小菅保健センター" transform="ref(svg,13982.5718,-3575.0168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高志会ほりきり整形外科,東京都葛飾区小菅２-２１-１８アビタシオン堀切１階,整形外科　リハビリテーション科　リウマチ科　内科,,,9" xlink:title="（医）高志会ほりきり整形外科" transform="ref(svg,13982.7717,-3574.9857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）久悠会久保島医院,東京都葛飾区小菅２-２５-１０,内科　小児科,,,9" xlink:title="（医）久悠会久保島医院" transform="ref(svg,13982.683,-3575.1408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）順江会東京綾瀬腎クリニック,東京都葛飾区小菅４-８-２,人工透析内科　腎臓高血圧内科　糖尿病内科,,,9" xlink:title="（医）順江会東京綾瀬腎クリニック" transform="ref(svg,13982.4454,-3576.1069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）晴誠会とやま眼科,東京都葛飾区小菅４-８-７,眼科,,,9" xlink:title="（医）晴誠会とやま眼科" transform="ref(svg,13982.4868,-3576.1242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,綾瀬産婦人科,東京都葛飾区小菅４-８-１０,産婦人科,,,9" xlink:title="綾瀬産婦人科" transform="ref(svg,13982.4986,-3576.1123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）祥史会綾瀬中央診療所,東京都葛飾区小菅４-９-１３,内科　循環器科　胃腸科　小児科,,,9" xlink:title="（医）祥史会綾瀬中央診療所" transform="ref(svg,13982.4786,-3576.1433)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あやせ耳鼻咽喉科医院,東京都葛飾区小菅４-１０-６下井ビル１階,耳鼻いんこう科,,,9" xlink:title="あやせ耳鼻咽喉科医院" transform="ref(svg,13982.5044,-3576.1816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハートクリニック,東京都葛飾区小菅４-１４-５レインボーヒルズ１階,循環器内科　心臓血管外科　内科　循環器小児科,,,9" xlink:title="ハートクリニック" transform="ref(svg,13982.5489,-3576.1124)" x="0" y="0"/>
+</g>
+</svg>

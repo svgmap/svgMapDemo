@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13464.84375 -3410.15625 35.15625 35.15625" go:dataArea="13464.84375 -3410.15625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,瀧内科外科医院,徳島県阿南市才見町屋那婆２４-１,内科　外科　消化器内科　内視鏡内科　肛門外科　リハビリテーション科,,,9" xlink:title="瀧内科外科医院" transform="ref(svg,13467.3973,-3391.5371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿南市国民健康保険伊島診療所,徳島県阿南市伊島町瀬戸３９,内科　小児科,,,9" xlink:title="阿南市国民健康保険伊島診療所" transform="ref(svg,13480.7661,-3384.3095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木下産婦人科内科医院,徳島県阿南市学原町上水田１１-７,内科　小児科　産婦人科　放射線科,,,9" xlink:title="木下産婦人科内科医院" transform="ref(svg,13466.5113,-3391.3561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩城クリニック,徳島県阿南市学原町上水田１１-１,内科　消化器内科　心療内科　精神科　小児科　外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="岩城クリニック" transform="ref(svg,13466.5085,-3391.3277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井原医院,徳島県阿南市見能林町中かうや９-１,内科　泌尿器科,,,9" xlink:title="井原医院" transform="ref(svg,13466.738,-3389.9611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林整形外科,徳島県阿南市見能林町堤ノ内６-１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="林整形外科" transform="ref(svg,13466.9334,-3390.6195)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土肥医院,徳島県阿南市見能林町東石仏２,内科　小児科　皮膚泌尿器科,,,9" xlink:title="土肥医院" transform="ref(svg,13466.9377,-3390.2526)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田胃腸科内科医院,徳島県阿南市西路見町元村７-７,内科　消化器内科　胃腸内科,,,9" xlink:title="和田胃腸科内科医院" transform="ref(svg,13467.2649,-3392.6529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上村ヒフ科,徳島県阿南市大潟町３０,皮膚科,,,9" xlink:title="上村ヒフ科" transform="ref(svg,13466.4292,-3388.6106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,殿谷整形外科医院,徳島県阿南市津乃峰町戎山１４９-７５,内科　整形外科　麻酔科　リハビリテーション科,,,9" xlink:title="殿谷整形外科医院" transform="ref(svg,13465.3258,-3388.5028)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,健生阿南診療所,徳島県阿南市津乃峰町新浜１２,内科　小児科　眼科,,,9" xlink:title="健生阿南診療所" transform="ref(svg,13466.1812,-3388.6081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井坂クリニック,徳島県阿南市津乃峰町長浜３７６,内科　小児科　皮膚科,,,9" xlink:title="井坂クリニック" transform="ref(svg,13465.4622,-3388.8419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡本眼科,徳島県阿南市津乃峰町長浜３９２-２,眼科,,,9" xlink:title="岡本眼科" transform="ref(svg,13465.3542,-3388.9052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,是松医院,徳島県阿南市津乃峰町東分１１２-１,内科　消化器内科　小児科　外科　肛門科　リハビリテーション科,,,9" xlink:title="是松医院" transform="ref(svg,13465.1678,-3388.7824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,椿診療所,徳島県阿南市椿町地蔵ケ谷７-２,内科　小児科,,,9" xlink:title="椿診療所" transform="ref(svg,13467.6785,-3383.0738)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中野診療所,徳島県阿南市椿泊町出島２７,内科　小児科,,,9" xlink:title="中野診療所" transform="ref(svg,13470.9673,-3384.2723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,益崎胃腸科内科医院,徳島県阿南市那賀川町赤池１７８-２,内科　胃腸科　外科,,,9" xlink:title="益崎胃腸科内科医院" transform="ref(svg,13466.4172,-3394.0334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上内科外科医院,徳島県阿南市那賀川町中島４８２,内科　小児科　外科　整形外科　リハビリテーション科,,,9" xlink:title="村上内科外科医院" transform="ref(svg,13466.9002,-3394.0043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あなん皮フ科クリニック,徳島県阿南市日開野町谷田５１１-２,皮膚科,,,9" xlink:title="あなん皮フ科クリニック" transform="ref(svg,13467.4264,-3391.7368)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,けんなんメンタルクリニック,徳島県阿南市日開野町筒路１５-１阿南開発ビル５階,心療内科　精神科,,,9" xlink:title="けんなんメンタルクリニック" transform="ref(svg,13466.6629,-3391.9889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かじかわ整形外科,徳島県阿南市日開野町筒路１９-１４,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="かじかわ整形外科" transform="ref(svg,13466.7782,-3392.0181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森本内科胃腸科,徳島県阿南市富岡町あ石１６-１,内科　胃腸科　循環器科　呼吸器科　婦人科　放射線科　麻酔科,,,9" xlink:title="森本内科胃腸科" transform="ref(svg,13466.3,-3391.7944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岸医院,徳島県阿南市富岡町トノ町５４-１,内科　小児科　皮膚科　放射線科,,,9" xlink:title="岸医院" transform="ref(svg,13465.868,-3392.0196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,賀島眼科,徳島県阿南市富岡町玉-怩T-１,眼科,,,9" xlink:title="賀島眼科" transform="ref(svg,13465.5067,-3392.0015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,幸田耳鼻咽喉科医院,徳島県阿南市富岡町今福寺７３-３,小児科　耳鼻咽喉科　気管食道科,,,9" xlink:title="幸田耳鼻咽喉科医院" transform="ref(svg,13466.1296,-3392.0034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,賀島医院,徳島県阿南市富岡町西石-怩V-５,眼科,,,9" xlink:title="賀島医院" transform="ref(svg,13465.4707,-3392.0044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島内科眼科医院,徳島県阿南市富岡町東新町９９,内科　神経内科　小児科　整形外科　眼科　放射線科　リハビリテーション科,,,9" xlink:title="島内科眼科医院" transform="ref(svg,13465.432,-3392.2085)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三谷内科,徳島県阿南市富岡町東仲町３１３-２,内科　消化器科　循環器科　呼吸器科　放射線科,,,9" xlink:title="三谷内科" transform="ref(svg,13465.4046,-3392.1271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古川小児科内科医院,徳島県阿南市領家町土倉１７-１,内科　小児科,,,9" xlink:title="古川小児科内科医院" transform="ref(svg,13466.7712,-3392.0701)" x="0" y="0"/>
+</g>
+</svg>

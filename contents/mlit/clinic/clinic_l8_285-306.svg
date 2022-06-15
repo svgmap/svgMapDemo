@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14009.765625 -3621.09375 17.578125 17.578125" go:dataArea="14009.765625 -3621.09375 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,あおき内科クリニック,茨城県土浦市木田余１６４６-３,内科　呼吸器科　アレルギー科,,,9" xlink:title="あおき内科クリニック" transform="ref(svg,14021.7116,-3609.6743)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅野眼科医院,茨城県土浦市中央２-１５-１８,眼科,,,9" xlink:title="浅野眼科医院" transform="ref(svg,14020.0096,-3608.554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天川クリニック,茨城県土浦市天川１-２８-１２,内科　小児科　耳鼻咽喉科,,,9" xlink:title="天川クリニック" transform="ref(svg,14017.2907,-3606.7593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒川沖クリニック,茨城県土浦市北荒川沖町８-３０,内科　小児科　外科　こう門科　胃腸科,,,9" xlink:title="荒川沖クリニック" transform="ref(svg,14016.7767,-3603.7183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井内科クリニック,茨城県土浦市右籾２６２６-６６,内科　小児科　循環器内科,,,9" xlink:title="石井内科クリニック" transform="ref(svg,14018.9752,-3604.5621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川クリニック,茨城県土浦市大町１２-３,産婦人科,,,9" xlink:title="石川クリニック" transform="ref(svg,14019.3642,-3608.1531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川小児科医院,茨城県土浦市中央１-７-１４,小児科,,,9" xlink:title="石川小児科医院" transform="ref(svg,14019.8944,-3608.211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川皮膚科医院,茨城県土浦市東真鍋町１-３,皮膚科,,,9" xlink:title="石川皮膚科医院" transform="ref(svg,14020.6926,-3609.0213)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石原小児科,茨城県土浦市大岩田１７６８,小児科,,,9" xlink:title="石原小児科" transform="ref(svg,14020.6609,-3605.9265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊野整形外科医院,茨城県土浦市真鍋６-１-３２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="伊野整形外科医院" transform="ref(svg,14020.2531,-3610.0657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,茨城県土浦保健所,茨城県土浦市下高津２-７-４６,精神科,,,9" xlink:title="茨城県土浦保健所" transform="ref(svg,14019.0963,-3607.0695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩本クリニック,茨城県土浦市上高津４７３,内科　人工透析内科　腎臓内科,,,9" xlink:title="岩本クリニック" transform="ref(svg,14017.6022,-3607.778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇津木眼科,茨城県土浦市富士崎１-１６-１４,眼科,,,9" xlink:title="宇津木眼科" transform="ref(svg,14019.8877,-3607.3114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ウララ胃腸科外科,茨城県土浦市大和町９-２ウララ２-２０３,内科　外科　こう門科　胃腸科,,,9" xlink:title="ウララ胃腸科外科" transform="ref(svg,14020.3494,-3607.8059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明厚会大石内科クリニック,茨城県土浦市大岩田２４７２,内科　人工透析内科　消化器内科,,,9" xlink:title="（医）明厚会大石内科クリニック" transform="ref(svg,14020.611,-3605.9515)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大塚クリニック,茨城県土浦市神立中央３-９-１,内科　小児科　循環器内科,,,9" xlink:title="大塚クリニック" transform="ref(svg,14023.8903,-3611.9791)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおつ野こどもクリニック,茨城県土浦市おおつ野８-２-１８,内科　小児科,,,9" xlink:title="おおつ野こどもクリニック" transform="ref(svg,14025.5192,-3608.8052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡田整形外科クリニック,茨城県土浦市木田余１６４６-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="岡田整形外科クリニック" transform="ref(svg,14021.6828,-3609.6549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尾-寢瘟ﾈクリニック,茨城県土浦市永国１１１１-２,眼科,,,9" xlink:title="尾-寢瘟ﾈクリニック" transform="ref(svg,14018.3559,-3606.4027)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小原内科医院,茨城県土浦市中央２-４-３１,内科　循環器科,,,9" xlink:title="小原内科医院" transform="ref(svg,14020.2508,-3608.2018)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かすみ皮膚科クリニック,茨城県土浦市乙戸町１１-５,皮膚科,,,9" xlink:title="かすみ皮膚科クリニック" transform="ref(svg,14014.3972,-3603.5284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）叶多内科医院,茨城県土浦市桜ヶ丘町２８-４１,内科　消化器内科,,,9" xlink:title="（医）叶多内科医院" transform="ref(svg,14019.0619,-3606.4218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,烏山診療所,茨城県土浦市烏山２-５３０-３８６,内科　リハビリテーション科　循環器内科　呼吸器内科,,,9" xlink:title="烏山診療所" transform="ref(svg,14020.3287,-3604.9681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きし整形外科・内科,茨城県土浦市大和町９-２ウララ２-３０３,内科　整形外科　形成外科　麻酔科,,,9" xlink:title="きし整形外科・内科" transform="ref(svg,14020.4327,-3607.83)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,来栖医院,茨城県土浦市藤沢字山後１１７８-２,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="来栖医院" transform="ref(svg,14015.5706,-3612.8213)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒井整形外科医院,茨城県土浦市飯田竹岡２６４１,整形外科,,,9" xlink:title="黒井整形外科医院" transform="ref(svg,14016.0323,-3609.3673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クロサワコンタクトクリニック,茨城県土浦市真鍋新町１８-１１,眼科,,,9" xlink:title="クロサワコンタクトクリニック" transform="ref(svg,14020.8629,-3609.179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）朋友外科・内科天の橋立,茨城県土浦市天川２-１００８-６４７,内科　外科,,,9" xlink:title="（医）朋友外科・内科天の橋立" transform="ref(svg,14017.4429,-3606.8384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,結束耳鼻咽喉科医院,茨城県土浦市大町７-１９,耳鼻咽喉科,,,9" xlink:title="結束耳鼻咽喉科医院" transform="ref(svg,14019.5256,-3608.0264)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）霞ケ浦医療センター診療部,茨城県土浦市下高津２-７-１４,内科　呼吸器科　消化器科　循環器科　小児科　精神科　神経科　外科　整形外科　呼吸器外科　産婦人科　眼科　耳鼻咽喉科　皮膚科　泌尿器科　放射線科　麻酔科　歯科,,,9" xlink:title="厚生労働省第二（共済）霞ケ浦医療センター診療部" transform="ref(svg,14019.2771,-3607.3124)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,後藤外科胃腸科,茨城県土浦市並木１-２-４３,内科　外科　胃腸科,,,9" xlink:title="後藤外科胃腸科" transform="ref(svg,14019.2384,-3610.5153)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林医院,茨城県土浦市神立中央３-１０-１,内科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="小林医院" transform="ref(svg,14023.8783,-3612.1122)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐賀医院,茨城県土浦市桜町４-４-１９,内科　皮膚科　漢方内科,,,9" xlink:title="佐賀医院" transform="ref(svg,14019.7495,-3607.9172)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,酒井小児科医院,茨城県土浦市中高津３-２-９,小児科,,,9" xlink:title="酒井小児科医院" transform="ref(svg,14018.351,-3606.6316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜井内科医院,茨城県土浦市中央２-１６-２１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="桜井内科医院" transform="ref(svg,14019.9282,-3608.5977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）尽誠会さくら内科クリニック,茨城県土浦市桜町３-１４-１８さくらメディカルビル１Ｆ１０１,内科　アレルギー科　循環器内科　呼吸器内科,,,9" xlink:title="（医）尽誠会さくら内科クリニック" transform="ref(svg,14019.8883,-3607.9197)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴田マタニティクリニック,茨城県土浦市桜町４-１３-２０,内科　産婦人科　麻酔科,,,9" xlink:title="柴田マタニティクリニック" transform="ref(svg,14019.5735,-3607.8962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しほう医院,茨城県土浦市宍塚町１９４５-１,内科　精神科　外科　皮膚科　リハビリテーション科　麻酔科,,,9" xlink:title="しほう医院" transform="ref(svg,14017.1196,-3607.9648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設さくら苑診療所,茨城県土浦市神立町４４３-４,内科　脳神経外科,,,9" xlink:title="障害者支援施設さくら苑診療所" transform="ref(svg,14023.9228,-3610.6253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,常陽医院,茨城県土浦市城北町１４-４,内科　小児科　精神科　神経内科　心療内科　リハビリテーション科,,,9" xlink:title="常陽医院" transform="ref(svg,14020.2425,-3608.7188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真公会シンカクリニック,茨城県土浦市高岡２０１９,内科,,,9" xlink:title="（医）真公会シンカクリニック" transform="ref(svg,14014.7157,-3613.0459)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,助川眼科クリニック,茨城県土浦市大和町９-２ウララ２-３０５,眼科　麻酔科,,,9" xlink:title="助川眼科クリニック" transform="ref(svg,14020.3494,-3607.8059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴村医院,茨城県土浦市大町８-７,内科　産婦人科,,,9" xlink:title="鈴村医院" transform="ref(svg,14019.4413,-3608.0471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,染谷小児科,茨城県土浦市大和町９-２ウララ２-３０６,内科　小児科　アレルギー科,,,9" xlink:title="染谷小児科" transform="ref(svg,14020.3494,-3607.8059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋クリニック,茨城県土浦市板谷６-６５１-１９,内科　小児科,,,9" xlink:title="高橋クリニック" transform="ref(svg,14020.4867,-3611.4536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成心会高安クリニック,茨城県土浦市立田町１-２２,内科　神経内科　外科　循環器内科　漢方内科,,,9" xlink:title="（医）成心会高安クリニック" transform="ref(svg,14019.7973,-3608.6208)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田谷医院,茨城県土浦市生田町３-２７,内科　小児科,,,9" xlink:title="田谷医院" transform="ref(svg,14018.91,-3608.2413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中央大祢整形形成外科,茨城県土浦市中央２-９-２,外科　整形外科　形成外科　美容外科　リハビリテーション科　放射線科,,,9" xlink:title="中央大祢整形形成外科" transform="ref(svg,14020.14,-3608.3533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚田眼科医院,茨城県土浦市中央１-４-１６,眼科,,,9" xlink:title="塚田眼科医院" transform="ref(svg,14019.9893,-3608.1337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚田整形外科,茨城県土浦市桜町３-９-２０,内科　リウマチ科　外科　整形外科　婦人科　リハビリテーション科,,,9" xlink:title="塚田整形外科" transform="ref(svg,14020.0472,-3608.0426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚原医院,茨城県土浦市桜町３-７-１５,小児科,,,9" xlink:title="塚原医院" transform="ref(svg,14020.1144,-3607.9825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばメンタルクリニック,茨城県土浦市港町１-７-１５,内科　精神科　神経科　心療内科,,,9" xlink:title="つくばメンタルクリニック" transform="ref(svg,14020.8472,-3607.6702)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦協同病院附属診療所農村健康管理センター,茨城県土浦市真鍋新町９-３５,内科,,,9" xlink:title="土浦協同病院附属診療所農村健康管理センター" transform="ref(svg,14020.9143,-3608.7776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦産婦人科,茨城県土浦市中央１-１４-２２,産婦人科,,,9" xlink:title="土浦産婦人科" transform="ref(svg,14019.8522,-3608.3528)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦市休日緊急診療所,茨城県土浦市下高津２-７-２７,内科　小児科,,,9" xlink:title="土浦市休日緊急診療所" transform="ref(svg,14019.1977,-3607.1049)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦中央クリニック,茨城県土浦市城北町６-１８,内科　外科　脳神経外科　リハビリテーション科,,,9" xlink:title="土浦中央クリニック" transform="ref(svg,14020.3496,-3608.554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）竜昇会土浦西アイクリニック,茨城県土浦市上高津３６７イオンモール土浦２Ｆ,眼科,,,9" xlink:title="（医）竜昇会土浦西アイクリニック" transform="ref(svg,14018.0839,-3608.0167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つちうら東口クリニック,茨城県土浦市有明町２-３１関鉄ビル４Ｆ,内科　小児科　神経科　アレルギー科　外科,,,9" xlink:title="つちうら東口クリニック" transform="ref(svg,14020.7097,-3607.8034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦皮膚科医院,茨城県土浦市大和町９-２ウララ２-３０２,皮膚科,,,9" xlink:title="土浦皮膚科医院" transform="ref(svg,14020.3494,-3607.8059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦美容外科,茨城県土浦市大和町３-１北島ビル５Ｆ,形成外科　美容外科　皮膚科　美容皮膚科,,,9" xlink:title="土浦美容外科" transform="ref(svg,14020.5523,-3607.9267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦ベリルクニック,茨城県土浦市都和４-４０２２-２,内科　消化器内科　人工透析内科　糖尿病内科,,,9" xlink:title="土浦ベリルクニック" transform="ref(svg,14019.7279,-3611.0579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦港町クリニック,茨城県土浦市港町３-３０-２３,内科　外科　整形外科　こう門科　胃腸科,,,9" xlink:title="土浦港町クリニック" transform="ref(svg,14021.8272,-3607.9144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土浦メンタルクリニック,茨城県土浦市大和町９-２ウララ２-３０７,精神科　神経科　心療内科,,,9" xlink:title="土浦メンタルクリニック" transform="ref(svg,14020.3494,-3607.8059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鶴翔会鶴町医院,茨城県土浦市中央１-１-１１,内科　小児科,,,9" xlink:title="（医）鶴翔会鶴町医院" transform="ref(svg,14020.0401,-3608.1305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）土浦晴山苑医務室,茨城県土浦市田村町２３２１-５,内科,,,9" xlink:title="（特養）土浦晴山苑医務室" transform="ref(svg,14025.2649,-3609.2357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）道寿会（特養）なごみ医務室,茨城県土浦市右籾６４４-１,内科,,,9" xlink:title="（福）道寿会（特養）なごみ医務室" transform="ref(svg,14018.3386,-3605.0592)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はなのえん医務室,茨城県土浦市粟野町１８５２-１,内科　循環器科　外科,,,9" xlink:title="（特養）はなのえん医務室" transform="ref(svg,14019.8691,-3614.0376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やすらぎの園医務室,茨城県土浦市小岩田西２-５８６-２,内科　外科,,,9" xlink:title="（特養）やすらぎの園医務室" transform="ref(svg,14018.8993,-3606.077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）憩いの里医務室,茨城県土浦市高岡字並木２３１５,内科,,,9" xlink:title="（特養）憩いの里医務室" transform="ref(svg,14015.3655,-3613.0152)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）シルトピア医務室,茨城県土浦市本郷字城付１６７９-１,内科,,,9" xlink:title="（特養）シルトピア医務室" transform="ref(svg,14017.2585,-3615.6663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）静霞園,茨城県土浦市木田余３３７９,内科,,,9" xlink:title="（特養）静霞園" transform="ref(svg,14020.9312,-3610.84)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）滝の園医務室,茨城県土浦市宍塚町１９３５,内科　外科　リハビリテーション科　麻酔科,,,9" xlink:title="（特養）滝の園医務室" transform="ref(svg,14017.0891,-3608.2583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）飛羽ノ園医務室,茨城県土浦市小松３-１８-１８,内科,,,9" xlink:title="（特養）飛羽ノ園医務室" transform="ref(svg,14020.2134,-3606.4896)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）もりの家医務室,茨城県土浦市北荒川沖　８-１,内科,,,9" xlink:title="（特養）もりの家医務室" transform="ref(svg,14016.6948,-3603.6912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,友常医院,茨城県土浦市中央２-１４-９,内科　整形外科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="友常医院" transform="ref(svg,14019.9514,-3608.6212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鳥井耳鼻咽喉科医院,茨城県土浦市富士崎１-１１-１３,耳鼻咽喉科,,,9" xlink:title="鳥井耳鼻咽喉科医院" transform="ref(svg,14019.8887,-3607.1707)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永井医院,茨城県土浦市乙戸町９２１-３,内科　小児科,,,9" xlink:title="永井医院" transform="ref(svg,14015.2611,-3603.6725)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山産婦人科医院,茨城県土浦市川口１-１-１４,産婦人科,,,9" xlink:title="中山産婦人科医院" transform="ref(svg,14020.1815,-3608.0316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新治診療所,茨城県土浦市下坂田２０１３-１,内科　消化器科　小児科　神経内科,,,9" xlink:title="新治診療所" transform="ref(svg,14017.8489,-3611.4797)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,額賀医院,茨城県土浦市富士崎１-７-２５,内科　整形外科,,,9" xlink:title="額賀医院" transform="ref(svg,14020.0783,-3607.3212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ののやま眼科,茨城県土浦市木田余１６４４-１,眼科,,,9" xlink:title="ののやま眼科" transform="ref(svg,14021.6653,-3609.7188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,萩原同仁クリニック,茨城県土浦市神立中央５-２４-２５,内科　小児科　泌尿器科,,,9" xlink:title="萩原同仁クリニック" transform="ref(svg,14022.6028,-3612.0424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徳心会パークシティクリニック,茨城県土浦市永国東町１１-２,内科　消化器科　循環器科　アレルギー科　外科　リハビリテーション科,,,9" xlink:title="（医）徳心会パークシティクリニック" transform="ref(svg,14018.7173,-3606.3849)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本産婦人科医院,茨城県土浦市東並木町　５７６,内科　小児科　産科　婦人科,,,9" xlink:title="橋本産婦人科医院" transform="ref(svg,14019.3795,-3610.3147)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東口皮膚科,茨城県土浦市港町１-７-３,皮膚科,,,9" xlink:title="東口皮膚科" transform="ref(svg,14020.7602,-3607.6885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久松医院,茨城県土浦市桜町１-１３-５,内科　小児科　放射線科,,,9" xlink:title="久松医院" transform="ref(svg,14020.1831,-3607.6246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久松耳鼻咽喉科医院,茨城県土浦市中央２-４-２１,アレルギー科　耳鼻咽喉科,,,9" xlink:title="久松耳鼻咽喉科医院" transform="ref(svg,14020.3559,-3608.2969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平成会久松耳鼻咽喉科皮フ科医院,茨城県土浦市中央１-１２-２２,アレルギー科　形成外科　耳鼻咽喉科　気管食道科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）平成会久松耳鼻咽喉科皮フ科医院" transform="ref(svg,14020.0332,-3608.3462)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日高耳鼻科医院,茨城県土浦市川口２-１-１７,耳鼻咽喉科,,,9" xlink:title="日高耳鼻科医院" transform="ref(svg,14020.7755,-3608.0559)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）日立製作所土浦診療健診センタ,茨城県土浦市神立東２-２７-８,内科　小児科　精神科　心療内科　外科　整形外科　眼科　耳鼻咽喉科　皮膚科　泌尿器科　歯科,,,9" xlink:title="（株）日立製作所土浦診療健診センタ" transform="ref(svg,14024.8873,-3611.3594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立電線（株）土浦診療所,茨城県土浦市木田余町３５５０,内科　小児科　外科　耳鼻咽喉科,,,9" xlink:title="日立電線（株）土浦診療所" transform="ref(svg,14022.6123,-3610.1933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）白浜会ひろたこどもクリニック,茨城県土浦市文京町１１-３,内科　小児科,,,9" xlink:title="（医）白浜会ひろたこどもクリニック" transform="ref(svg,14019.4634,-3608.5737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松永医院,茨城県土浦市中高津３-１１-１５,整形外科　耳鼻咽喉科　リハビリテーション科,,,9" xlink:title="（医）松永医院" transform="ref(svg,14017.9822,-3606.7572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松橋医院,茨城県土浦市神立中央１-１５-２,内科　整形外科　こう門科　リハビリテーション科　放射線科,,,9" xlink:title="松橋医院" transform="ref(svg,14024.4868,-3611.9167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松本内科医院,茨城県土浦市中村東３-１-２０,内科　小児科,,,9" xlink:title="（医）松本内科医院" transform="ref(svg,14017.1903,-3604.2165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,真鍋１丁目眼科クリニック,茨城県土浦市真鍋１-８-２３,眼科,,,9" xlink:title="真鍋１丁目眼科クリニック" transform="ref(svg,14020.728,-3608.9773)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮崎クリニック,茨城県土浦市藤沢９６４-２,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="宮崎クリニック" transform="ref(svg,14015.7629,-3613.4074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本橋眼科,茨城県土浦市川口２-３-１５,眼科,,,9" xlink:title="本橋眼科" transform="ref(svg,14020.9193,-3608.0926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山中内科クリニック,茨城県土浦市中村南５-３０-３９,内科　小児科　皮膚科,,,9" xlink:title="山中内科クリニック" transform="ref(svg,14015.7962,-3604.1911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山手医院,茨城県土浦市国分町７-６,内科　心療内科　アレルギー科　外科　整形外科　緩和ケア内科　消化器外科,,,9" xlink:title="山手医院" transform="ref(svg,14018.8521,-3606.6185)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆみこ内科クリニック,茨城県土浦市田中３-４-４１,内科　小児科　糖尿病内科,,,9" xlink:title="ゆみこ内科クリニック" transform="ref(svg,14018.5627,-3608.2799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）関城会淀縄医院,茨城県土浦市大町１１-３４,内科　外科　脳神経外科　放射線科　消化器内科　乳腺外科　肛門外科　呼吸器内科,,,9" xlink:title="（医）関城会淀縄医院" transform="ref(svg,14019.3495,-3608.0745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊霞ケ浦駐屯地医務室,茨城県土浦市右籾町２４１０,内科　外科　歯科,,,9" xlink:title="陸上自衛隊霞ケ浦駐屯地医務室" transform="ref(svg,14018.9079,-3603.8552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）キリスト会わたひきクリニック,茨城県土浦市桜町３-５-１-２,内科　小児科　精神科　神経内科　心療内科　皮膚科,,,9" xlink:title="（医）キリスト会わたひきクリニック" transform="ref(svg,14020.0597,-3607.8914)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石岡整形クリニック,茨城県石岡市国府７-２-５０,内科　小児科　リウマチ科　外科　整形外科　皮膚科　リハビリテーション科　放射線科,,,9" xlink:title="石岡整形クリニック" transform="ref(svg,14027.328,-3618.3778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）陽山会大雅荘,茨城県石岡市三村字長峰２５９５,内科,,,9" xlink:title="（福）陽山会大雅荘" transform="ref(svg,14026.7056,-3614.1708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,重度身体障害者更生援護施設光風荘内医務室,茨城県石岡市谷向町１３-２３,内科　外科　リハビリテーション科,,,9" xlink:title="重度身体障害者更生援護施設光風荘内医務室" transform="ref(svg,14026.9157,-3621.0401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滝田整形外科,茨城県石岡市府中２-２-１２,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="滝田整形外科" transform="ref(svg,14027.2456,-3619.289)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中クリニック,茨城県石岡市鹿の子１-１１-１０,内科　外科　泌尿器科　消化器内科,,,9" xlink:title="田中クリニック" transform="ref(svg,14026.0771,-3620.6252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）回生会藤井内科クリニック,茨城県石岡市鹿の子２-１-３６,内科　小児科　循環器内科,,,9" xlink:title="（医）回生会藤井内科クリニック" transform="ref(svg,14025.8823,-3620.3907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,府中クリニック,茨城県石岡市府中５-１１-１,内科　外科　整形外科　皮膚科　泌尿器科　こう門科　胃腸科,,,9" xlink:title="府中クリニック" transform="ref(svg,14027.3175,-3619.872)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松葉産婦人科,茨城県石岡市府中２-４-４１,産科　婦人科,,,9" xlink:title="松葉産婦人科" transform="ref(svg,14027.2956,-3619.1534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊東クリニック,茨城県かすみがうら市下稲吉２６３３-１７２,アレルギー科　耳鼻咽喉科,,,9" xlink:title="伊東クリニック" transform="ref(svg,14022.9357,-3612.6449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田医院,茨城県かすみがうら市下稲吉１５９８-１,内科　外科　消化器内科,,,9" xlink:title="太田医院" transform="ref(svg,14023.8501,-3613.83)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川俣医院,茨城県かすみがうら市中志筑１３２９,内科,,,9" xlink:title="川俣医院" transform="ref(svg,14023.2036,-3618.8002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊池整形外科クリニック,茨城県かすみがうら市新治１８２７-３４,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="菊池整形外科クリニック" transform="ref(svg,14024.0324,-3613.2206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜井皮膚科医院,茨城県かすみがうら市下稲吉２６２５-１０７,皮膚科,,,9" xlink:title="桜井皮膚科医院" transform="ref(svg,14023.5201,-3612.2265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白井こどもクリニック,茨城県かすみがうら市稲吉２-１４-１１,小児科　アレルギー科,,,9" xlink:title="白井こどもクリニック" transform="ref(svg,14024.8067,-3612.4372)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,身体障害者支援施設しらうめ荘診療所,茨城県かすみがうら市中志筑２４０９-１,内科,,,9" xlink:title="身体障害者支援施設しらうめ荘診療所" transform="ref(svg,14022.9767,-3618.2073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高木医院,茨城県かすみがうら市稲吉東１-１５-１,内科　呼吸器科　消化器科　循環器科　小児科　神経科　皮膚科　リハビリテーション科　放射線科,,,9" xlink:title="高木医院" transform="ref(svg,14025.2925,-3612.6012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）グリーンヒル千代田医務室,茨城県かすみがうら市上佐谷字口蔵後２００８,内科,,,9" xlink:title="（特養）グリーンヒル千代田医務室" transform="ref(svg,14021.073,-3616.3984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム滴翠苑医務室,茨城県かすみがうら市横堀４５１-５,内科,,,9" xlink:title="養護老人ホーム滴翠苑医務室" transform="ref(svg,14022.7667,-3617.3368)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ふるさと医務室,茨城県かすみがうら市新治字江古田１８１１-６,内科,,,9" xlink:title="（特養）ふるさと医務室" transform="ref(svg,14024.8401,-3614.0468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）プルミエールひたち野医務室,茨城県かすみがうら市上土田３３０-２,内科,,,9" xlink:title="（特養）プルミエールひたち野医務室" transform="ref(svg,14023.0902,-3614.9865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久松皮膚科医院,茨城県かすみがうら市上稲吉字向原１７５６-２,内科　皮膚科,,,9" xlink:title="久松皮膚科医院" transform="ref(svg,14021.1491,-3612.7474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三輪眼科,茨城県かすみがうら市稲吉５-１９-１０,眼科,,,9" xlink:title="三輪眼科" transform="ref(svg,14024.4207,-3613.2493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢原診療所,茨城県かすみがうら市宍倉字鶴沼６１６７-１,内科　消化器科　小児科　外科　リハビリテーション科　胃腸科,,,9" xlink:title="矢原診療所" transform="ref(svg,14026.4502,-3611.7486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和医院,茨城県かすみがうら市稲吉５-２０-１２,内科　小児科,,,9" xlink:title="大和医院" transform="ref(svg,14024.4897,-3613.1954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田茂耳鼻咽喉科,茨城県かすみがうら市下稲吉３８０８-１,小児科　耳鼻咽喉科,,,9" xlink:title="吉田茂耳鼻咽喉科" transform="ref(svg,14025.0423,-3613.0456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あみ眼科クリニック,茨城県稲敷郡阿見町岡崎１-２９-１３,眼科,,,9" xlink:title="あみ眼科クリニック" transform="ref(svg,14022.3493,-3603.9128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁誠会阿見第一クリニック,茨城県稲敷郡阿見町阿見３０２０-１,内科　小児科　外科　脳神経外科,,,9" xlink:title="（医）仁誠会阿見第一クリニック" transform="ref(svg,14020.996,-3604.1479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江島記念眼科歯科口腔外科クリニック,茨城県稲敷郡阿見町阿見３０３７-１,眼科　歯科　小児歯科　歯科口腔外科,,,9" xlink:title="江島記念眼科歯科口腔外科クリニック" transform="ref(svg,14020.9214,-3604.1921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）霞ケ浦成人病研究事業団健診センター,茨城県稲敷郡阿見町中央３-２０-２,内科,,,9" xlink:title="（一財）霞ケ浦成人病研究事業団健診センター" transform="ref(svg,14021.6425,-3603.7214)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）美里会かない皮フ科,茨城県稲敷郡阿見町中郷２-３-５,皮膚科,,,9" xlink:title="（医）美里会かない皮フ科" transform="ref(svg,14021.6241,-3604.0366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かたやま耳鼻咽喉科,茨城県稲敷郡阿見町阿見２６７０-１,アレルギー科　耳鼻咽喉科　気管食道科,,,9" xlink:title="かたやま耳鼻咽喉科" transform="ref(svg,14020.5006,-3604.091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀栄会滝沢医院,茨城県稲敷郡阿見町中郷２-１-３,内科　小児科,,,9" xlink:title="（医）秀栄会滝沢医院" transform="ref(svg,14021.701,-3604.1249)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮崎こどもクリニック,茨城県稲敷郡阿見町岡崎１-２９-１１,小児科,,,9" xlink:title="宮崎こどもクリニック" transform="ref(svg,14022.4093,-3603.9025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊土浦駐屯地医務室,茨城県稲敷郡阿見町青宿１２１-１,内科　外科　歯科,,,9" xlink:title="陸上自衛隊土浦駐屯地医務室" transform="ref(svg,14022.3782,-3604.939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹園眼科,茨城県つくば市竹園３-２１-３,眼科,,,9" xlink:title="竹園眼科" transform="ref(svg,14012.4186,-3608.0203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,茨城県つくば市栗原７５７,内科　小児科,,,9" xlink:title="鈴木医院" transform="ref(svg,14012.1191,-3612.4579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,敬正会小倉内科,茨城県つくば市東２-４-１４,内科　神経科,,,9" xlink:title="敬正会小倉内科" transform="ref(svg,14013.5009,-3605.4508)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東郷医院,茨城県つくば市館野６３６,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="東郷医院" transform="ref(svg,14011.4059,-3604.2763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮本内科クリニック,茨城県つくば市原１-４,内科　消化器内科　循環器内科,,,9" xlink:title="宮本内科クリニック" transform="ref(svg,14009.8174,-3607.8491)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田医院,茨城県つくば市手代木３０９-４,内科　消化器科　小児科　外科　こう門科,,,9" xlink:title="太田医院" transform="ref(svg,14010.5964,-3605.8537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なないろレディースクリニック,茨城県つくば市西大沼６３７-６,内科　小児科　産科　婦人科,,,9" xlink:title="なないろレディースクリニック" transform="ref(svg,14011.0877,-3606.2954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡田医院,茨城県つくば市上ノ室１６１１,内科　皮膚科,,,9" xlink:title="岡田医院" transform="ref(svg,14014.1374,-3608.1987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（財）筑波麓仁会筑波学園病院並木診療所,茨城県つくば市並木４,内科　小児科,,,9" xlink:title="（財）筑波麓仁会筑波学園病院並木診療所" transform="ref(svg,14014.2552,-3606.303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡野産婦人科,茨城県つくば市梅園２-２１-８,婦人科,,,9" xlink:title="岡野産婦人科" transform="ref(svg,14013.9771,-3605.6025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,経済産業省（共済）産業技術総合研究所支部診療所,茨城県つくば市東１-１-１,内科　眼科　耳鼻咽喉科,,,9" xlink:title="経済産業省（共済）産業技術総合研究所支部診療所" transform="ref(svg,14013.0633,-3606.1045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）筑波園診療所,茨城県つくば市北条１１８０,内科,,,9" xlink:title="（特養）筑波園診療所" transform="ref(svg,14009.7935,-3618.0633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹園皮膚科医院,茨城県つくば市竹園３-２１-３,心療内科　皮膚科,,,9" xlink:title="竹園皮膚科医院" transform="ref(svg,14012.4186,-3608.0203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西武眼科診療所,茨城県つくば市吾妻１-７-１,眼科,,,9" xlink:title="西武眼科診療所" transform="ref(svg,14011.1873,-3608.0535)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科大橋医院,茨城県つくば市大角豆９４９-１０,耳鼻咽喉科,,,9" xlink:title="耳鼻咽喉科大橋医院" transform="ref(svg,14014.9829,-3606.6219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇宙飛行士養成棟医務室,茨城県つくば市千現２-１-１宇宙航空研究開発機構筑波宇宙センター実験開発棟,内科　精神科　整形外科　脳神経外科　耳鼻咽喉科,,,9" xlink:title="宇宙飛行士養成棟医務室" transform="ref(svg,14012.8074,-3606.5591)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺内科クリニック,茨城県つくば市並木３-１１-９,内科　呼吸器科　小児科,,,9" xlink:title="渡辺内科クリニック" transform="ref(svg,14014.8448,-3606.6154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有田皮膚科医院,茨城県つくば市小野崎７５９-１,皮膚科,,,9" xlink:title="有田皮膚科医院" transform="ref(svg,14010.5754,-3607.209)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加納医院,茨城県つくば市花室８６０,内科　外科　泌尿器科,,,9" xlink:title="加納医院" transform="ref(svg,14013.1096,-3608.8365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山耳鼻咽喉科医院,茨城県つくば市竹園３-２１-２,耳鼻咽喉科,,,9" xlink:title="中山耳鼻咽喉科医院" transform="ref(svg,14012.4041,-3608.0098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわごえ皮膚科クリニック,茨城県つくば市竹園２-１４-１,皮膚科,,,9" xlink:title="かわごえ皮膚科クリニック" transform="ref(svg,14012.0821,-3607.71)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上野医院,茨城県つくば市小野崎９５６-１,耳鼻咽喉科,,,9" xlink:title="上野医院" transform="ref(svg,14011.391,-3606.4713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高田整形外科,茨城県つくば市栗原字上松見３９６３,内科　整形外科　リハビリテーション科　放射線科　麻酔科,,,9" xlink:title="高田整形外科" transform="ref(svg,14009.9839,-3612.2442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南大通りクリニック,茨城県つくば市竹園２-１６-２４,内科　消化器科　小児科　外科　こう門科,,,9" xlink:title="南大通りクリニック" transform="ref(svg,14012.1289,-3607.6017)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国立大学法人筑波技術大学保健科学部附属東西医学統合医療センター,茨城県つくば市春日４-１２-７,内科　小児科　精神科　神経内科　アレルギー科　整形外科　放射線科,,,9" xlink:title="国立大学法人筑波技術大学保健科学部附属東西医学統合医療センター" transform="ref(svg,14009.9449,-3609.5994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高瀬皮膚科医院,茨城県つくば市竹園２-１３-２２,内科　皮膚科,,,9" xlink:title="高瀬皮膚科医院" transform="ref(svg,14011.9652,-3607.674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健麗会宮川内科・胃腸科医院,茨城県つくば市二の宮２-２６,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="（医）健麗会宮川内科・胃腸科医院" transform="ref(svg,14011.9332,-3606.5484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仁愛内科医院,茨城県つくば市小野崎７８５-１,内科　消化器科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="仁愛内科医院" transform="ref(svg,14010.7019,-3606.9855)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）倉田内科クリニック,茨城県つくば市栗原３４４３,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="（医）倉田内科クリニック" transform="ref(svg,14010.6867,-3612.2098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,二の宮越智クリニック,茨城県つくば市松野木字宮本１８７-３,内科　小児科　外科　形成外科　小児外科,,,9" xlink:title="二の宮越智クリニック" transform="ref(svg,14011.724,-3605.8264)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,筑波大学保健管理センター,茨城県つくば市天王台１-１-１,内科　精神科　整形外科　歯科,,,9" xlink:title="筑波大学保健管理センター" transform="ref(svg,14010.4012,-3611.1386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こうの眼科,茨城県つくば市梅園２-８-１７,眼科,,,9" xlink:title="こうの眼科" transform="ref(svg,14014.2752,-3605.6794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくば総合健診センター,茨城県つくば市天久保１-２,内科,,,9" xlink:title="つくば総合健診センター" transform="ref(svg,14010.5193,-3609.1585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）飯岡医院,茨城県つくば市桜３-２０-２,内科　小児科,,,9" xlink:title="（医）飯岡医院" transform="ref(svg,14011.4333,-3611.5424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福田クリニック,茨城県つくば市要元猿壁２９０,精神科　心療内科,,,9" xlink:title="福田クリニック" transform="ref(svg,14009.8526,-3610.4553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺医院,茨城県つくば市小野崎４７６,内科　消化器科　小児科　外科　皮膚科　こう門科,,,9" xlink:title="渡辺医院" transform="ref(svg,14010.9132,-3607.6193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,茨城県赤十字血液センターつくば出張所,茨城県つくば市吾妻１-１３６４-１-４,内科,,,9" xlink:title="茨城県赤十字血液センターつくば出張所" transform="ref(svg,14011.3859,-3608.2353)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとうクリニック,茨城県つくば市手代木１９３６-９,内科　循環器科　小児科　アレルギー科,,,9" xlink:title="さとうクリニック" transform="ref(svg,14010.0597,-3606.4323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林クリニック,茨城県つくば市稲荷前５-６,内科　消化器科　小児科　アレルギー科　リウマチ科　外科　皮膚科　こう門科,,,9" xlink:title="林クリニック" transform="ref(svg,14012.7599,-3604.927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,二の宮眼科,茨城県つくば市松野木２６-２,眼科,,,9" xlink:title="二の宮眼科" transform="ref(svg,14011.643,-3605.698)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成島クリニック,茨城県つくば市館野３６３,内科　外科　脳神経外科　リハビリテーション科,,,9" xlink:title="成島クリニック" transform="ref(svg,14011.4836,-3604.578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくば橋本眼科,茨城県つくば市古来字沖畑５３０,眼科,,,9" xlink:title="つくば橋本眼科" transform="ref(svg,14014.511,-3609.1658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清水こどもクリニック,茨城県つくば市東２-３１-８,小児科,,,9" xlink:title="（医）清水こどもクリニック" transform="ref(svg,14013.2995,-3605.1178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花クリニック南大通り,茨城県つくば市竹園２-１８-２,耳鼻咽喉科,,,9" xlink:title="花クリニック南大通り" transform="ref(svg,14012.1981,-3607.6002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）渋谷クリニック,茨城県つくば市金田字前田２０２９-１,内科　消化器科　外科　整形外科　こう門科,,,9" xlink:title="（医）渋谷クリニック" transform="ref(svg,14014.054,-3609.7888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）水清会つくば学園クリニック,茨城県つくば市東新井２１-８,内科,,,9" xlink:title="（医）水清会つくば学園クリニック" transform="ref(svg,14011.3198,-3607.6709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ホームオンクリニックつくば,茨城県つくば市稲荷前３１-２-１０５,内科　呼吸器科,,,9" xlink:title="ホームオンクリニックつくば" transform="ref(svg,14012.4423,-3604.6466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひがし外科内科医院,茨城県つくば市東２-２６-１６,内科　消化器科　循環器科　小児科　外科　皮膚科,,,9" xlink:title="ひがし外科内科医院" transform="ref(svg,14013.2569,-3605.2646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前島レディースクリニック,茨城県つくば市松代４-１０-１２,内科　産婦人科,,,9" xlink:title="前島レディースクリニック" transform="ref(svg,14010.5799,-3606.5625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,樫村内科消化器科クリニック,茨城県つくば市下広岡字清水久保７４６-１,内科　呼吸器科　消化器科　循環器科　小児科　皮膚科,,,9" xlink:title="樫村内科消化器科クリニック" transform="ref(svg,14016.8975,-3606.86)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲荷前眼科診療所,茨城県つくば市稲荷前３１-５,眼科,,,9" xlink:title="稲荷前眼科診療所" transform="ref(svg,14012.6028,-3604.7014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）勘翁記念ホームつくばの杜診療所,茨城県つくば市吉瀬字神送１０１７-１,内科,,,9" xlink:title="（特養）勘翁記念ホームつくばの杜診療所" transform="ref(svg,14014.9199,-3607.5393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（独）国立環境研究所診療室,茨城県つくば市小野川１６-２,内科,,,9" xlink:title="（独）国立環境研究所診療室" transform="ref(svg,14011.7474,-3604.9791)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）豊順会あおやぎ医院,茨城県つくば市上ノ室８８７,内科　小児科　アレルギー科　外科　整形外科　リハビリテーション科　胃腸内科,,,9" xlink:title="（医）豊順会あおやぎ医院" transform="ref(svg,14014.0718,-3607.8553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくば木の花クリニック,茨城県つくば市松野木１０９-１,精神科　心療内科,,,9" xlink:title="つくば木の花クリニック" transform="ref(svg,14011.1483,-3605.9109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ユークリニック,茨城県つくば市倉掛字新田１２０８-１,内科　リウマチ科　麻酔科,,,9" xlink:title="ユークリニック" transform="ref(svg,14012.7733,-3607.3103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,手代木クリニック,茨城県つくば市手代木１９１８-１,内科　呼吸器科　消化器科　循環器科　小児科　精神科　心療内科　アレルギー科　外科　産婦人科　こう門科　放射線科,,,9" xlink:title="手代木クリニック" transform="ref(svg,14010.174,-3606.1919)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国立大学法人筑波技術大学保健管理センター視覚障害系,茨城県つくば市春日４-１２-７,リハビリテーション科,,,9" xlink:title="国立大学法人筑波技術大学保健管理センター視覚障害系" transform="ref(svg,14009.9449,-3609.5994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばシティアビル皮フ科,茨城県つくば市吾妻２-８-８つくばシティアビル３階,皮膚科,,,9" xlink:title="つくばシティアビル皮フ科" transform="ref(svg,14011.2738,-3608.3709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばシティアビル整形外科,茨城県つくば市吾妻２-８-８つくばシティアビル１階,外科　整形外科　形成外科　リハビリテーション科　放射線科,,,9" xlink:title="つくばシティアビル整形外科" transform="ref(svg,14011.2738,-3608.3709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばシティア内科クリニック,茨城県つくば市吾妻２-８-８つくばシティアビル４階,内科　呼吸器科　消化器科　循環器科　小児科　アレルギー科　放射線科,,,9" xlink:title="つくばシティア内科クリニック" transform="ref(svg,14011.2675,-3608.3699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うえの整形外科,茨城県つくば市大角豆字山下９７４-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="うえの整形外科" transform="ref(svg,14014.8889,-3606.6361)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フォレストクリニック,茨城県つくば市東新井２６-１３-１０５,精神科　神経内科　心療内科,,,9" xlink:title="フォレストクリニック" transform="ref(svg,14011.2841,-3607.4546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばＡＲＴクリニック,茨城県つくば市竹園１-６-１,婦人科　泌尿器科,,,9" xlink:title="つくばＡＲＴクリニック" transform="ref(svg,14011.291,-3607.9818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばセンタークリニック,茨城県つくば市竹園１-６-１つくば三井ビル４階,内科　消化器科　小児科,,,9" xlink:title="つくばセンタークリニック" transform="ref(svg,14011.276,-3607.9848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（独）都市再生機構茨城地域支社医務室,茨城県つくば市竹園１-２-１,内科,,,9" xlink:title="（独）都市再生機構茨城地域支社医務室" transform="ref(svg,14011.5817,-3608.0925)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,並木内科クリニック,茨城県つくば市並木４-４-２-２０３,内科,,,9" xlink:title="並木内科クリニック" transform="ref(svg,14014.2847,-3606.2569)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ストレスケアつくばクリニック,茨城県つくば市竹園１-４-１,内科　精神科　心療内科,,,9" xlink:title="ストレスケアつくばクリニック" transform="ref(svg,14011.4209,-3607.9711)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いけがみ皮膚科,茨城県つくば市並木４-４-２並木ショッピングセンター２階,アレルギー科　皮膚科,,,9" xlink:title="いけがみ皮膚科" transform="ref(svg,14014.2847,-3606.2616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東新井眼科クリニック,茨城県つくば市東新井１８-８,眼科,,,9" xlink:title="東新井眼科クリニック" transform="ref(svg,14011.222,-3607.8039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新海眼科,茨城県つくば市吾妻１-５-３つくばクレオスクエアＭＯＧ１階,眼科,,,9" xlink:title="新海眼科" transform="ref(svg,14011.1174,-3608.1471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,常陽銀行（健保）診療所,茨城県つくば市吾妻１-１４-２,内科,,,9" xlink:title="常陽銀行（健保）診療所" transform="ref(svg,14011.4817,-3608.2633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばシティアすえひろ眼科,茨城県つくば市吾妻２-８-８つくばシティアビル３階,眼科,,,9" xlink:title="つくばシティアすえひろ眼科" transform="ref(svg,14011.2686,-3608.3734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら眼科クリニック,茨城県つくば市妻木１４２４,眼科,,,9" xlink:title="さくら眼科クリニック" transform="ref(svg,14011.2432,-3610.5635)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大見クリニック,茨城県つくば市古来３２０-５,大腸肛門外科,,,9" xlink:title="大見クリニック" transform="ref(svg,14014.5518,-3609.2237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂根Ｍクリニック,茨城県つくば市松野木１６２-７,内科　循環器内科,,,9" xlink:title="坂根Ｍクリニック" transform="ref(svg,14011.469,-3605.9422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばフジクリニック,茨城県つくば市千現１-２３-１８ウィングパーク千現１０２,形成外科　美容外科　皮膚科　美容皮膚科,,,9" xlink:title="つくばフジクリニック" transform="ref(svg,14012.0226,-3607.0992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばねむりとこころのクリニック,茨城県つくば市妻木６３７-１,精神科　心療内科,,,9" xlink:title="つくばねむりとこころのクリニック" transform="ref(svg,14011.2803,-3609.2691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしい形成クリニック,茨城県つくば市吾妻２-８-８つくばシティアビル３Ｆ,形成外科　美容外科　泌尿器科,,,9" xlink:title="いしい形成クリニック" transform="ref(svg,14011.264,-3608.3776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桜水会筑波こどものこころクリニック,茨城県つくば市大角豆字宮前１７４５-５,小児科　精神科　放射線科,,,9" xlink:title="（医）桜水会筑波こどものこころクリニック" transform="ref(svg,14013.7359,-3606.9201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小田内科クリニック,茨城県つくば市小田２９５１-５,内科　神経内科,,,9" xlink:title="（医）小田内科クリニック" transform="ref(svg,14010.9376,-3615.5833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくばけやき眼科,茨城県つくば市小野崎２７８-１ＬＡＬＡガーデンつくば１Ｆ,眼科,,,9" xlink:title="つくばけやき眼科" transform="ref(svg,14010.2926,-3607.3363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）興明会つくば腎クリニック,茨城県つくば市小野崎２８６-７,性病科,,,9" xlink:title="（医）興明会つくば腎クリニック" transform="ref(svg,14010.2543,-3607.6898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふる里クリニック,茨城県つくば市松代５-５-１２,外科,,,9" xlink:title="ふる里クリニック" transform="ref(svg,14010.9221,-3606.3438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のぐち内科クリニック,茨城県つくば市妻木６３５-１,内科,,,9" xlink:title="のぐち内科クリニック" transform="ref(svg,14011.2984,-3609.2366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康喜会辻仲つくば胃腸肛門クリニック,茨城県つくば市竹園１-４-１南３パークビル２階,内科,,,9" xlink:title="（医）康喜会辻仲つくば胃腸肛門クリニック" transform="ref(svg,14011.4367,-3607.9484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つくば画像検査センター,茨城県つくば市天久保２-１-１６,内科　麻酔科,,,9" xlink:title="つくば画像検査センター" transform="ref(svg,14010.3151,-3609.1593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はなみずき医務室,茨城県つくば市下原５２５-１,内科,,,9" xlink:title="（特養）はなみずき医務室" transform="ref(svg,14013.2453,-3603.9892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）竹園ファミリークリニック,茨城県つくば市竹園２-８-１９,内科　小児科　外科　整形外科　胃腸外科,,,9" xlink:title="（医）竹園ファミリークリニック" transform="ref(svg,14012.0173,-3607.842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青空ホームクリニック,茨城県つくば市千現１-２３-８-５,内科,,,9" xlink:title="青空ホームクリニック" transform="ref(svg,14011.8832,-3607.1736)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清宮眼科,茨城県つくば市小野崎出戸４００-１,眼科,,,9" xlink:title="清宮眼科" transform="ref(svg,14010.539,-3607.5842)" x="0" y="0"/>
+</g>
+</svg>

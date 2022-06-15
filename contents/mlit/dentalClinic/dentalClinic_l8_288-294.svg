@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14062.5 -3832.03125 17.578125 17.578125" go:dataArea="14062.5 -3832.03125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,山家歯科クリニック,宮城県柴田郡川崎町大字前川字中町７６-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="山家歯科クリニック" transform="ref(svg,14064.3462,-3817.4988)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西村歯科医院,宮城県柴田郡川崎町大字前川字町尻１２,歯科,,,9" xlink:title="西村歯科医院" transform="ref(svg,14064.9091,-3817.4293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あやし小野歯科,宮城県仙台市青葉区愛子中央２-９-１９,歯科　小児歯科,,,9" xlink:title="あやし小野歯科" transform="ref(svg,14076.4193,-3827.5577)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおうち歯科クリニック,宮城県仙台市青葉区栗生７-１１-１,歯科　小児歯科,,,9" xlink:title="おおうち歯科クリニック" transform="ref(svg,14077.733,-3826.8971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おちあい歯科医院,宮城県仙台市青葉区落合１-１７-１７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おちあい歯科医院" transform="ref(svg,14079.0975,-3827.2307)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,郷家歯科医院,宮城県仙台市青葉区愛子中央６-３-３０-１０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="郷家歯科医院" transform="ref(svg,14076.0573,-3827.1563)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木章歯科医院,宮城県仙台市青葉区愛子東３-１４-４,歯科　矯正歯科,,,9" xlink:title="鈴木章歯科医院" transform="ref(svg,14077.1477,-3827.326)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高の原歯科医院,宮城県仙台市青葉区高野原４-１０-３,歯科,,,9" xlink:title="高の原歯科医院" transform="ref(svg,14075.4972,-3829.0151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,錦ヶ丘歯科クリニック,宮城県仙台市青葉区錦ヶ丘１-３-１錦ヶ丘センタープラザ１階,歯科　小児歯科,,,9" xlink:title="錦ヶ丘歯科クリニック" transform="ref(svg,14076.4093,-3825.7415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西仙台歯科医院,宮城県仙台市青葉区落合１-１８-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="西仙台歯科医院" transform="ref(svg,14079.0794,-3827.0923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はた歯科こども歯科,宮城県仙台市青葉区落合５-２５-５３,歯科　矯正歯科　小児歯科,,,9" xlink:title="はた歯科こども歯科" transform="ref(svg,14078.4946,-3827.2454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花岡歯科医院,宮城県仙台市青葉区熊ヶ根字町１-５-４-１,歯科　小児歯科,,,9" xlink:title="花岡歯科医院" transform="ref(svg,14068.8966,-3829.3493)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらつか歯科医院,宮城県仙台市青葉区愛子東６-８-１０,歯科　小児歯科,,,9" xlink:title="ひらつか歯科医院" transform="ref(svg,14076.4838,-3827.1389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろせ歯科,宮城県仙台市青葉区愛子東１-８-７,歯科　小児歯科,,,9" xlink:title="ひろせ歯科" transform="ref(svg,14077.7775,-3827.1767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮内歯科医院,宮城県仙台市青葉区落合１-１７-４５,歯科,,,9" xlink:title="宮内歯科医院" transform="ref(svg,14079.0884,-3827.1812)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやぎ台歯科診療所,宮城県仙台市青葉区みやぎ台３-２５-６,歯科,,,9" xlink:title="みやぎ台歯科診療所" transform="ref(svg,14076.9453,-3831.11)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よねかわ歯科医院,宮城県仙台市青葉区愛子東２-３-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="よねかわ歯科医院" transform="ref(svg,14077.6326,-3827.3336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,百合デンタルクリニック,宮城県仙台市青葉区栗生４-１３-１５,歯科,,,9" xlink:title="百合デンタルクリニック" transform="ref(svg,14079.1113,-3826.8302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,宮城県仙台市青葉区落合２-６-８ウェルステージ丸浩弐番館１Ｆ,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,14079.1885,-3827.4456)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヤブキデンタルオフィス,宮城県仙台市青葉区栗生６-１１-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ヤブキデンタルオフィス" transform="ref(svg,14078.1961,-3826.8393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えまた歯科医院,宮城県仙台市太白区茂庭台１-１１-２３,歯科　矯正歯科,,,9" xlink:title="えまた歯科医院" transform="ref(svg,14078.1675,-3823.109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丹野歯科医院,宮城県仙台市太白区秋保町湯向２７-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="丹野歯科医院" transform="ref(svg,14072.1078,-3823.0024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つのだ歯科医院,宮城県仙台市太白区茂庭台４-２３-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="つのだ歯科医院" transform="ref(svg,14078.3173,-3823.903)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナカノ歯科医院,宮城県仙台市太白区茂庭字西６７,歯科　小児歯科,,,9" xlink:title="ナカノ歯科医院" transform="ref(svg,14078.8625,-3822.2499)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,茂庭台歯科,宮城県仙台市太白区茂庭台３-２９-２６,歯科,,,9" xlink:title="茂庭台歯科" transform="ref(svg,14078.7571,-3823.8828)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,泉ビレジ歯科医院,宮城県仙台市泉区館６-１４-５,歯科,,,9" xlink:title="泉ビレジ歯科医院" transform="ref(svg,14079.962,-3831.8748)" x="0" y="0"/>
+</g>
+</svg>

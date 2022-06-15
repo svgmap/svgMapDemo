@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13939.453125 -3550.78125 8.7890625 8.7890625" go:dataArea="13939.453125 -3550.78125 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,湘南お茶の水クリニック,神奈川県横浜市泉区上飯田町１２２１　１Ｆ,内科,,,9" xlink:title="湘南お茶の水クリニック" transform="ref(svg,13947.9369,-3541.9976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上飯田診療所,神奈川県横浜市泉区上飯田町１３３１,内科　小児科　外科　皮膚科,,,9" xlink:title="上飯田診療所" transform="ref(svg,13947.8595,-3542.0728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやざわ医院,神奈川県横浜市泉区上飯田町２６７０-３２,内科　循環器科　小児科,,,9" xlink:title="みやざわ医院" transform="ref(svg,13947.4314,-3543.2012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設ヴィラ泉医務室,神奈川県横浜市泉区上飯田町４４９５,内科,,,9" xlink:title="介護老人福祉施設ヴィラ泉医務室" transform="ref(svg,13947.7995,-3544.3343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）いずみ芙蓉苑医務室,神奈川県横浜市泉区上飯田町４６３１,内科　精神科,,,9" xlink:title="（特養）いずみ芙蓉苑医務室" transform="ref(svg,13948.0978,-3544.1746)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）公朋会輝の杜クリニック,神奈川県横浜市瀬谷区五貫目町１０-３８　２Ｆ,内科　小児科,,,9" xlink:title="（医）公朋会輝の杜クリニック" transform="ref(svg,13947.0632,-3549.8963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瀬谷医院,神奈川県横浜市瀬谷区瀬谷４-３-１,内科,,,9" xlink:title="瀬谷医院" transform="ref(svg,13948.1913,-3547.0001)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安達産婦人科医院,神奈川県横浜市瀬谷区瀬谷４-２４-４,産婦人科,,,9" xlink:title="安達産婦人科医院" transform="ref(svg,13948.1408,-3546.9132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）九成会武岡クリニック,神奈川県横浜市瀬谷区瀬谷５-２-１,内科　小児科,,,9" xlink:title="（医）九成会武岡クリニック" transform="ref(svg,13948.026,-3547.0007)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）熊京会天野内科胃腸科外科医院,神奈川県横浜市瀬谷区瀬谷５-１４-３,内科　胃腸科　外科,,,9" xlink:title="（医）熊京会天野内科胃腸科外科医院" transform="ref(svg,13947.9409,-3546.8898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,戸塚内科小児科医院,神奈川県横浜市瀬谷区瀬谷５-１４-１０,内科　小児科　循環器科　呼吸器科　心臓内科　精神科,,,9" xlink:title="戸塚内科小児科医院" transform="ref(svg,13947.9283,-3546.9218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤医院,神奈川県横浜市瀬谷区竹村町１４-２,内科　精神科,,,9" xlink:title="佐藤医院" transform="ref(svg,13947.3402,-3548.7835)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かなた内科クリニック,神奈川県横浜市瀬谷区中央６-２０マルエツ瀬谷店３Ｆ,内科　呼吸器科　消化器科　泌尿器科　アレルギー科,,,9" xlink:title="かなた内科クリニック" transform="ref(svg,13948.2276,-3547.1673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,稲葉内科クリニック,神奈川県横浜市瀬谷区中央１９-５,内科　呼吸器科　消化器科　循環器科　アレルギー科,,,9" xlink:title="稲葉内科クリニック" transform="ref(svg,13948.0919,-3547.3894)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いなば小児科クリニック,神奈川県横浜市瀬谷区中央１９-５,小児科,,,9" xlink:title="いなば小児科クリニック" transform="ref(svg,13948.0919,-3547.3894)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,リフレ瀬谷クリニック,神奈川県横浜市瀬谷区中屋敷１-２４-１,内科　消化器内科　循環器内科,,,9" xlink:title="リフレ瀬谷クリニック" transform="ref(svg,13947.3916,-3548.5053)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善仁会ハートフル瀬谷クリニック,神奈川県横浜市瀬谷区中屋敷２-２-１,人工透析内科　腎臓内科,,,9" xlink:title="（医）善仁会ハートフル瀬谷クリニック" transform="ref(svg,13947.9019,-3548.0504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まいえ内科,神奈川県横浜市瀬谷区橋戸２-３１-３グランデュールプラザ２Ｆ,内科　循環器内科,,,9" xlink:title="まいえ内科" transform="ref(svg,13948.0161,-3546.1179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしざわ整形外科,神奈川県横浜市瀬谷区橋戸２-３１-３グランデュールプラザ２Ｆ,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="にしざわ整形外科" transform="ref(svg,13948.0161,-3546.1179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋眼科クリニック,神奈川県横浜市瀬谷区橋戸２-３１-３グランデュールプラザ２Ｆ,眼科,,,9" xlink:title="高橋眼科クリニック" transform="ref(svg,13948.0161,-3546.1179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はなおか耳鼻咽喉科,神奈川県横浜市瀬谷区橋戸２-３１-３グランデュールプラザ２Ｆ,耳鼻いんこう科,,,9" xlink:title="はなおか耳鼻咽喉科" transform="ref(svg,13948.0161,-3546.1179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）順誠会山口整形外科,神奈川県横浜市瀬谷区橋戸３-２４-４,整形外科　リハビリテーション科,,,9" xlink:title="（医）順誠会山口整形外科" transform="ref(svg,13947.5781,-3546.5059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉岡脳外科・外科診療所,神奈川県横浜市瀬谷区橋戸３-６３-１,内科　外科　整形外科　脳神経外科,,,9" xlink:title="吉岡脳外科・外科診療所" transform="ref(svg,13947.3597,-3546.4345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本アビオニクス（株）健康推進室,神奈川県横浜市瀬谷区本郷２-２８-２,内科　外科　眼科　耳鼻いんこう科,,,9" xlink:title="日本アビオニクス（株）健康推進室" transform="ref(svg,13947.6788,-3547.7671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本郷クリニック,神奈川県横浜市瀬谷区本郷３-２０-２１,内科　血液内科,,,9" xlink:title="本郷クリニック" transform="ref(svg,13947.7934,-3547.3595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設ラペ瀬谷医務室,神奈川県横浜市瀬谷区目黒町２１-１０,内科,,,9" xlink:title="介護老人福祉施設ラペ瀬谷医務室" transform="ref(svg,13946.9716,-3549.5558)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山内クリニック,神奈川県相模原市南区相武台１-１７-７,内科　皮膚科　アレルギー科　消化器内科　漢方内科,,,9" xlink:title="山内クリニック" transform="ref(svg,13940.8317,-3550.0283)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつの会診療室,神奈川県相模原市南区相武台１-２４-１４サンライズビル３０２,神経内科　脳神経外科,,,9" xlink:title="まつの会診療室" transform="ref(svg,13940.6995,-3549.9927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相武台脳神経外科,神奈川県相模原市南区相武台１-２４-１４サンライズビル１階,脳神経外科　リハビリテーション科,,,9" xlink:title="相武台脳神経外科" transform="ref(svg,13940.6999,-3549.9944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荘加医院,神奈川県相模原市南区新磯野３-３２-９,内科　小児科　外科　胃腸科,,,9" xlink:title="荘加医院" transform="ref(svg,13940.6181,-3550.6004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いちごクリニック,神奈川県藤沢市長後１１６３-２,内科　心療内科　皮膚科　精神科,,,9" xlink:title="いちごクリニック" transform="ref(svg,13946.816,-3542.1632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,海老名中央医院,神奈川県海老名市国分南３-６-１７,内科　消化器科　小児科　外科　整形外科　皮膚科　麻酔科,,,9" xlink:title="海老名中央医院" transform="ref(svg,13939.7332,-3544.7617)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科小児科北川医院,神奈川県海老名市国分寺台１-１８-１,内科　小児科,,,9" xlink:title="内科小児科北川医院" transform="ref(svg,13940.5507,-3544.3251)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宍戸医院,神奈川県海老名市国分寺台５-１３-１１,内科　心療内科　精神科　皮膚科,,,9" xlink:title="宍戸医院" transform="ref(svg,13940.9213,-3543.2307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村屋神奈川工場診療所,神奈川県海老名市柏ヶ谷４-４-１,内科　外科,,,9" xlink:title="中村屋神奈川工場診療所" transform="ref(svg,13943.2517,-3547.2852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平沢医院,神奈川県海老名市杉久保４-３-１,内科　小児科,,,9" xlink:title="平沢医院" transform="ref(svg,13939.9179,-3542.2255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ますだ産婦人科,神奈川県海老名市柏ヶ谷１１４１,産科　婦人科,,,9" xlink:title="ますだ産婦人科" transform="ref(svg,13942.06,-3546.8045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横山クリニック,神奈川県海老名市国分寺台５-１３-１,内科　消化器内科　循環器内科,,,9" xlink:title="横山クリニック" transform="ref(svg,13940.9455,-3543.2774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,下田皮膚科医院,神奈川県海老名市国分寺台５-１３-１４,皮膚科,,,9" xlink:title="下田皮膚科医院" transform="ref(svg,13940.9163,-3543.2871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部眼科医院,神奈川県海老名市国分寺台５-１３-２,眼科,,,9" xlink:title="阿部眼科医院" transform="ref(svg,13940.9458,-3543.2615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くの小児科医院,神奈川県海老名市東柏ヶ谷１-２４-６,小児科,,,9" xlink:title="くの小児科医院" transform="ref(svg,13942.7787,-3546.8652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大矢眼科医院,神奈川県海老名市東柏ヶ谷３-１７-３１,眼科,,,9" xlink:title="大矢眼科医院" transform="ref(svg,13943.1248,-3547.3296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さがみ野診療所,神奈川県海老名市東柏ヶ谷３-１７-３１,内科　消化器科,,,9" xlink:title="さがみ野診療所" transform="ref(svg,13943.1248,-3547.3296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,葉梨整形外科,神奈川県海老名市柏ヶ谷７１９-４,内科　整形外科　皮膚科,,,9" xlink:title="葉梨整形外科" transform="ref(svg,13941.1298,-3546.5237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中心荘第一（特養）医務室,神奈川県海老名市上今泉４-７-１,内科,,,9" xlink:title="中心荘第一（特養）医務室" transform="ref(svg,13940.4355,-3546.8591)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉井小児科・神経クリニック,神奈川県海老名市上今泉４-１３-１８,精神科　神経内科　小児科,,,9" xlink:title="玉井小児科・神経クリニック" transform="ref(svg,13939.979,-3547.0213)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中心荘第二（特養）医務室,神奈川県海老名市上今泉４-７-１,内科,,,9" xlink:title="中心荘第二（特養）医務室" transform="ref(svg,13940.4219,-3546.846)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健仁かみむら皮膚科,神奈川県海老名市東柏ヶ谷３-１３-６さがみ野北口ビル２Ｆ,皮膚科,,,9" xlink:title="（医）健仁かみむら皮膚科" transform="ref(svg,13942.7956,-3547.2581)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まなべ小児科クリニック,神奈川県海老名市東柏ヶ谷３-１３-６さがみ野駅北口ビル２Ｆ,小児科,,,9" xlink:title="（医）まなべ小児科クリニック" transform="ref(svg,13942.7956,-3547.2581)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のざわ小児科内科医院,神奈川県海老名市杉久保北４-１３-１４,内科　小児科,,,9" xlink:title="のざわ小児科内科医院" transform="ref(svg,13940.1273,-3542.596)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とみなが内科医院,神奈川県海老名市東柏ケ谷３-１３-６さがみ野駅北口ビル２階２０３,呼吸器内科　消化器内科,,,9" xlink:title="とみなが内科医院" transform="ref(svg,13942.7956,-3547.2581)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たちばなクリニック,神奈川県海老名市浜田町２３-１５,小児科,,,9" xlink:title="たちばなクリニック" transform="ref(svg,13940.156,-3544.059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）紀陽さがみ野耳鼻咽喉科,神奈川県海老名市東柏ヶ谷１-１４-１７,耳鼻いんこう科,,,9" xlink:title="（医）紀陽さがみ野耳鼻咽喉科" transform="ref(svg,13942.4778,-3546.7782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大澤クリニック,神奈川県海老名市国分北１-４-１６,内科　消化器科　外科　リハビリテーション科,,,9" xlink:title="大澤クリニック" transform="ref(svg,13939.5053,-3545.8467)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さがみ野レディスクリニック,神奈川県海老名市東柏ヶ谷３-３-１９メゾンエスト弐番館,内科　産婦人科,,,9" xlink:title="さがみ野レディスクリニック" transform="ref(svg,13942.918,-3547.2184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松島眼科クリニック,神奈川県海老名市中央２-８-３１-２Ｆ,眼科,,,9" xlink:title="松島眼科クリニック" transform="ref(svg,13939.4754,-3544.9973)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えびな南（特養）医務室,神奈川県海老名市杉久保南３-３１-６,内科,,,9" xlink:title="えびな南（特養）医務室" transform="ref(svg,13940.8305,-3542.1102)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,的場内科クリニック,神奈川県海老名市中央２-８-３１,内科,,,9" xlink:title="的場内科クリニック" transform="ref(svg,13939.4854,-3544.998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もり整形外科眼科,神奈川県海老名市東柏ヶ谷２-２９-１８カトウビル１階,内科　整形外科　眼科　リハビリテーション科,,,9" xlink:title="もり整形外科眼科" transform="ref(svg,13942.9166,-3547.1083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川眼科,神奈川県海老名市中央１-１３-１ビナウォーク４番館１Ｆ,眼科,,,9" xlink:title="小川眼科" transform="ref(svg,13939.4626,-3545.2863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みたに眼科クリニック,神奈川県海老名市東柏ヶ谷５-１８-１９海老名三紫ビル１Ｆ,眼科,,,9" xlink:title="みたに眼科クリニック" transform="ref(svg,13943.2676,-3547.0844)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かしわ台クリニック,神奈川県海老名市柏ヶ谷１０５２-２かしわ台クリスタルプラザ１０１,内科　外科　リハビリテーション科,,,9" xlink:title="かしわ台クリニック" transform="ref(svg,13941.6138,-3546.5512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしのキッズクリニック,神奈川県海老名市国分南３-８-１２,アレルギー科　小児科,,,9" xlink:title="にしのキッズクリニック" transform="ref(svg,13939.7354,-3544.87)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまなかクリニック,神奈川県海老名市国分南３-８-１３,内科　脳神経外科,,,9" xlink:title="やまなかクリニック" transform="ref(svg,13939.7191,-3544.8734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）白山新川さがみ野クリニック,神奈川県海老名市東柏ヶ谷３-２-２０,アレルギー科　小児科　耳鼻いんこう科,,,9" xlink:title="（医）白山新川さがみ野クリニック" transform="ref(svg,13942.7219,-3547.1965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛和レディースクリニック,神奈川県海老名市中央２-８-８池田ビル２階Ａ,皮膚科　産婦人科,,,9" xlink:title="愛和レディースクリニック" transform="ref(svg,13939.4838,-3545.1087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宇井クリニック,神奈川県海老名市柏ヶ谷１０５２-２かしわ台クリスタルプラザ１０２,形成外科　美容外科　皮膚科,,,9" xlink:title="宇井クリニック" transform="ref(svg,13941.6208,-3546.5494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,海老名セントラルクリニック,神奈川県海老名市中央２-８-８池田ビル２ＦＢ,内科,,,9" xlink:title="海老名セントラルクリニック" transform="ref(svg,13939.481,-3545.1115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えびな北（特養）医務室,神奈川県海老名市上今泉４-８-２８,内科,,,9" xlink:title="えびな北（特養）医務室" transform="ref(svg,13940.2552,-3546.9912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やよいクリニック,神奈川県海老名市国分北１-３８-２８,内科　胃腸内科　肛門内科,,,9" xlink:title="やよいクリニック" transform="ref(svg,13939.8049,-3546.2236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えびな整形外科,神奈川県海老名市国分北２-１５-１４-１０１,整形外科　リハビリテーション科　老年内科,,,9" xlink:title="えびな整形外科" transform="ref(svg,13939.8873,-3546.1064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）和心医務室,神奈川県海老名市大谷南３-２０-１５,内科,,,9" xlink:title="（特養）和心医務室" transform="ref(svg,13939.9777,-3543.5078)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤クリニック,神奈川県海老名市東柏ケ谷６-１５-５,内科　小児科,,,9" xlink:title="佐藤クリニック" transform="ref(svg,13943.5475,-3546.9401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,湘南ひまわりクリニック,神奈川県海老名市国分寺台２-５-１８,内科,,,9" xlink:title="湘南ひまわりクリニック" transform="ref(svg,13940.4833,-3544.0688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊田医院,神奈川県座間市さがみ野３-１-１２,内科　消化器科　小児科　外科,,,9" xlink:title="菊田医院" transform="ref(svg,13942.0977,-3546.8655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小菅医院,神奈川県座間市入谷３-６３５２-２５,内科　小児科　外科　皮膚科,,,9" xlink:title="小菅医院" transform="ref(svg,13939.7694,-3548.3814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤内科,神奈川県座間市相模が丘４-１９-１８,内科　消化器内科　小児科,,,9" xlink:title="佐藤内科" transform="ref(svg,13942.4811,-3550.6448)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三晃診療所,神奈川県座間市緑ヶ丘４-２１-６,内科　小児科　小児外科,,,9" xlink:title="三晃診療所" transform="ref(svg,13940.7704,-3549.7438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,座間小児科診療所,神奈川県座間市立野台２-２０-２４,小児科,,,9" xlink:title="座間小児科診療所" transform="ref(svg,13941.1385,-3548.0221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,代田産婦人科,神奈川県座間市相武台１-２０-２１,小児科　産婦人科　産科,,,9" xlink:title="代田産婦人科" transform="ref(svg,13941.1239,-3550.3687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東芝機械（株）相模工場健康管理室,神奈川県座間市ひばりが丘４-２９-１,内科,,,9" xlink:title="東芝機械（株）相模工場健康管理室" transform="ref(svg,13943.0438,-3547.9614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鴇田医院,神奈川県座間市相模が丘３-５３-１０,内科　循環器内科　小児科,,,9" xlink:title="鴇田医院" transform="ref(svg,13942.1472,-3550.6981)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日産自動車（健保）座間地区診療所,神奈川県座間市広野台２-１０-１,内科,,,9" xlink:title="日産自動車（健保）座間地区診療所" transform="ref(svg,13942.4351,-3549.2687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古川医院,神奈川県座間市相武台３-４８６６-２２,内科　呼吸器科　消化器科　循環器科　小児科　皮膚科,,,9" xlink:title="古川医院" transform="ref(svg,13941.3972,-3550.0011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鳥羽内科,神奈川県座間市ひばりが丘１-５５４３-１,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="鳥羽内科" transform="ref(svg,13943.435,-3549.0187)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内山外科・整形外科医院,神奈川県座間市入谷４-２５９８,外科　整形外科,,,9" xlink:title="内山外科・整形外科医院" transform="ref(svg,13940.5368,-3547.9128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）フルヤクリニック降矢医院,神奈川県座間市相武台３-１８-５１,内科　呼吸器科　循環器科　リウマチ科　小児科,,,9" xlink:title="（医）フルヤクリニック降矢医院" transform="ref(svg,13941.4605,-3549.9733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子産婦人科医院,神奈川県座間市入谷４-２６９０-２９,産婦人科　産科,,,9" xlink:title="金子産婦人科医院" transform="ref(svg,13940.3152,-3547.9255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宮本内科小児科,神奈川県座間市入谷４-５０２３-５,内科　小児科,,,9" xlink:title="（医）宮本内科小児科" transform="ref(svg,13940.73,-3548.2055)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上整形外科,神奈川県座間市入谷５-１８０９,リウマチ科　整形外科　眼科　リハビリテーション科,,,9" xlink:title="井上整形外科" transform="ref(svg,13939.9673,-3547.8162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アガペ診療所,神奈川県座間市小松原２-１０-１４,内科,,,9" xlink:title="アガペ診療所" transform="ref(svg,13942.9132,-3549.3625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新井眼科,神奈川県座間市相武台１-４５１５-１,眼科,,,9" xlink:title="新井眼科" transform="ref(svg,13940.7671,-3549.9786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬來内科胃腸外科,神奈川県座間市相武台２-３８-３１,内科　外科　脳神経外科　胃腸内科　胃腸外科　肛門外科,,,9" xlink:title="馬來内科胃腸外科" transform="ref(svg,13941.2139,-3550.1752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水皮膚科,神奈川県座間市相武台１-３４-７瀬戸ビル１Ｆ,皮膚科,,,9" xlink:title="清水皮膚科" transform="ref(svg,13940.7951,-3549.9887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田医院,神奈川県座間市ひばりが丘３-８-７,内科　小児科,,,9" xlink:title="前田医院" transform="ref(svg,13943.4381,-3548.1734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,栗原ホーム医務室,神奈川県座間市栗原中央６-１-１８,内科　歯科,,,9" xlink:title="栗原ホーム医務室" transform="ref(svg,13941.6909,-3548.6343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ざま眼科クリニック,神奈川県座間市入谷５-１７００-１内藤シティマンション１階,眼科,,,9" xlink:title="ざま眼科クリニック" transform="ref(svg,13939.938,-3548.1574)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,シータン泌尿器科外科,神奈川県座間市栗原１１９９-４,内科　外科　皮膚科　泌尿器科,,,9" xlink:title="シータン泌尿器科外科" transform="ref(svg,13941.4998,-3549.6673)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村整形外科,神奈川県座間市さがみ野１-５-８,内科　消化器科　小児科　外科　整形外科　形成外科　皮膚科　リハビリテーション科,,,9" xlink:title="中村整形外科" transform="ref(svg,13942.5107,-3547.2203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さがみが丘耳鼻咽喉科,神奈川県座間市相模が丘３-４６-２６,耳鼻いんこう科,,,9" xlink:title="さがみが丘耳鼻咽喉科" transform="ref(svg,13942.2278,-3550.7387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小島小児科,神奈川県座間市入谷５-２６２８-２,小児科,,,9" xlink:title="小島小児科" transform="ref(svg,13940.384,-3547.8696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相模台クリニック,神奈川県座間市相模が丘６-２９-１４,内科　精神科　神経科,,,9" xlink:title="相模台クリニック" transform="ref(svg,13942.7924,-3550.5499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相模台健診クリニック,神奈川県座間市相模が丘６-２７-４３,内科,,,9" xlink:title="相模台健診クリニック" transform="ref(svg,13942.8623,-3550.6711)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杏仁伊藤クリニック,神奈川県座間市入谷５-１８８１-５８,内科　消化器科　外科　こう門科,,,9" xlink:title="（医）杏仁伊藤クリニック" transform="ref(svg,13940.2589,-3547.8598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）忠優相武台外科胃腸科医院,神奈川県座間市相武台１-２６-２４,消化器科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）忠優相武台外科胃腸科医院" transform="ref(svg,13941.0171,-3550.2359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,座間市休日急患センター,神奈川県座間市緑ケ丘,内科　小児科　外科,,,9" xlink:title="座間市休日急患センター" transform="ref(svg,13940.704,-3549.0316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桜慈桜井クリニック,神奈川県座間市相武台１-３５-１３,内科　外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）桜慈桜井クリニック" transform="ref(svg,13940.6777,-3549.8781)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,座間耳鼻咽喉科クリニック,神奈川県座間市入谷５-１７００-１,耳鼻いんこう科,,,9" xlink:title="座間耳鼻咽喉科クリニック" transform="ref(svg,13939.9394,-3548.1576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯田耳鼻咽喉科医院,神奈川県座間市相武台１-３５-７第２６菊地ビル３０２,耳鼻いんこう科,,,9" xlink:title="飯田耳鼻咽喉科医院" transform="ref(svg,13940.7255,-3549.9185)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹川胃腸科医院,神奈川県座間市立野台２-３-６,内科　消化器科　外科　皮膚科　こう門科,,,9" xlink:title="竹川胃腸科医院" transform="ref(svg,13940.9318,-3548.2931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ベルホーム医務室,神奈川県座間市栗原１２６１-１,内科,,,9" xlink:title="（特養）ベルホーム医務室" transform="ref(svg,13941.7761,-3550.1174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵優相武台ニーレンクリニック,神奈川県座間市相武台１-３５-１０中央企業ビル１Ｆ・２Ｆ,内科　循環器内科　放射線科　人工透析内科,,,9" xlink:title="（医）恵優相武台ニーレンクリニック" transform="ref(svg,13940.7095,-3549.891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはしクリニック,神奈川県座間市相武台３-４７３８-１それいゆ相武台１階,内科　消化器科　循環器科　小児科　外科　こう門科,,,9" xlink:title="たかはしクリニック" transform="ref(svg,13941.0404,-3549.9541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,座間メンタルクリニック,神奈川県座間市入谷５-１６８４-３座間西口駅前店舗,心療内科　精神科,,,9" xlink:title="座間メンタルクリニック" transform="ref(svg,13939.9756,-3548.0286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとだ内科クリニック,神奈川県座間市入谷５-１６８４-３座間駅前クリニックビル１階１０１,内科　呼吸器内科　消化器内科　循環器内科　糖尿病内科　アレルギー科,,,9" xlink:title="さとだ内科クリニック" transform="ref(svg,13939.9744,-3548.03)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,座間整形外科,神奈川県座間市入谷５-１６８４-３座間駅前クリニックビル２階,整形外科　リハビリテーション科,,,9" xlink:title="座間整形外科" transform="ref(svg,13939.9738,-3548.0315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サライ医務室,神奈川県座間市小松原１-１７-１５,内科,,,9" xlink:title="（特養）サライ医務室" transform="ref(svg,13942.7904,-3549.7705)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかむら耳鼻咽喉科,神奈川県座間市ひばりが丘１-４１-３,耳鼻いんこう科,,,9" xlink:title="なかむら耳鼻咽喉科" transform="ref(svg,13943.3081,-3549.0128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,座間ガーデンクリニック,神奈川県座間市入谷５-１６８５-１パークフィーネ座間,精神科,,,9" xlink:title="座間ガーデンクリニック" transform="ref(svg,13939.9425,-3548.0371)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東原診療所,神奈川県座間市東原１-６-１２,内科　放射線科　老年内科,,,9" xlink:title="東原診療所" transform="ref(svg,13942.4014,-3548.4182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,トッパングループ（健保）座間診療所,神奈川県座間市東原５-１-１９,内科,,,9" xlink:title="トッパングループ（健保）座間診療所" transform="ref(svg,13943.0919,-3547.8136)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚原クリニック,神奈川県座間市相模が丘５-５-７ブリリア小田急相模原１０５,内科　精神科　神経内科　内分泌・代謝内科,,,9" xlink:title="塚原クリニック" transform="ref(svg,13942.5293,-3550.3956)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）広井内科医院,神奈川県座間市緑ヶ丘４-７-７,内科　消化器内科　小児科　肝臓内科,,,9" xlink:title="（医）広井内科医院" transform="ref(svg,13940.6287,-3549.3695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,マザーホームクリニック,神奈川県座間市緑ケ丘２-２-１８グランドソレーユ座間１０２,内科,,,9" xlink:title="マザーホームクリニック" transform="ref(svg,13940.8603,-3549.0851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相武台メディカルクリニック,神奈川県座間市相武台３-２７-６０,内科　心療内科　精神科　外科　泌尿器科,,,9" xlink:title="相武台メディカルクリニック" transform="ref(svg,13941.3246,-3550.1223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立野台内科クリニック,神奈川県座間市立野台３-１４-５,内科　消化器内科　肝臓内科　内視鏡内科,,,9" xlink:title="立野台内科クリニック" transform="ref(svg,13941.2118,-3547.9677)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しのざき整形外科,神奈川県座間市立野台３-１４-５,整形外科,,,9" xlink:title="しのざき整形外科" transform="ref(svg,13941.2118,-3547.9677)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛育こどもクリニック,神奈川県大和市南林間２-１４-１３,小児科,,,9" xlink:title="愛育こどもクリニック" transform="ref(svg,13944.4554,-3549.6655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛育レディーズクリニック,神奈川県大和市南林間２-１３-３,婦人科,,,9" xlink:title="愛育レディーズクリニック" transform="ref(svg,13944.5536,-3549.5016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あいクリニック泌尿器科・皮膚科,神奈川県大和市福田２００４-７高座渋谷西口駅前日の出屋ビル２Ｆ,皮膚科　泌尿器科,,,9" xlink:title="あいクリニック泌尿器科・皮膚科" transform="ref(svg,13946.359,-3543.2964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木医院,神奈川県大和市深見台２-１０-１０,内科　皮膚科　小児科,,,9" xlink:title="青木医院" transform="ref(svg,13946.9562,-3546.8672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芦田医院,神奈川県大和市南林間４-６-７,内科　耳鼻いんこう科,,,9" xlink:title="芦田医院" transform="ref(svg,13944.4126,-3549.3477)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯塚クリニック,神奈川県大和市南林間１-５-８　２Ｆ,内科　皮膚科　泌尿器科,,,9" xlink:title="飯塚クリニック" transform="ref(svg,13944.7259,-3549.4382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）家本循環器・内科,神奈川県大和市大和東２-５-１２,内科　循環器科・循環器内科,,,9" xlink:title="（医）家本循環器・内科" transform="ref(svg,13946.2125,-3547.2583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田整形外科クリニック,神奈川県大和市鶴間１-３１-１大和クリニックモール２Ｆ,整形外科　リハビリテーション科,,,9" xlink:title="池田整形外科クリニック" transform="ref(svg,13945.3551,-3549.0408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石垣内科小児科医院,神奈川県大和市上和田１７５０-１,内科　小児科,,,9" xlink:title="石垣内科小児科医院" transform="ref(svg,13946.9221,-3544.807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泉の森クリニック,神奈川県大和市西鶴間１-１９-８,脳神経外科　耳鼻いんこう科,,,9" xlink:title="泉の森クリニック" transform="ref(svg,13944.8681,-3548.8948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,今西内科,神奈川県大和市下鶴間１９００-１４,内科　呼吸器科・呼吸器内科　循環器科・循環器内科　消化器科・消化器内科　放射線科,,,9" xlink:title="今西内科" transform="ref(svg,13946.0538,-3550.2934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うえだこどもクリニック,神奈川県大和市林間２-１７-６ウエダ小児科ビル,小児科,,,9" xlink:title="うえだこどもクリニック" transform="ref(svg,13944.8678,-3549.8439)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,エイトクリニック,神奈川県大和市福田２０３７-６ツィンリーフ渋谷２階,内科　皮膚科　小児科　整形外科　リハビリテーション科,,,9" xlink:title="エイトクリニック" transform="ref(svg,13946.2867,-3543.2949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,エクセル二光眼科クリニック,神奈川県大和市大和南２-１３-３-１Ｆ,眼科,,,9" xlink:title="エクセル二光眼科クリニック" transform="ref(svg,13946.6556,-3546.4323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡林クリニック,神奈川県大和市中央１-１-２第２近藤ビル２階,内科　皮膚科　小児科　整形外科　リハビリテーション科,,,9" xlink:title="岡林クリニック" transform="ref(svg,13946.1068,-3546.9373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡本医院,神奈川県大和市下和田８３石井ビル２階,内科　皮膚科　外科,,,9" xlink:title="岡本医院" transform="ref(svg,13947.1986,-3543.1305)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖光岡本眼科医院,神奈川県大和市大和東３-９-１　２階,眼科,,,9" xlink:title="（医）聖光岡本眼科医院" transform="ref(svg,13946.2548,-3547.313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁志岡本整形外科,神奈川県大和市中央５-６　１Ｆ,リウマチ科　整形外科,,,9" xlink:title="（医）仁志岡本整形外科" transform="ref(svg,13945.6688,-3546.8264)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長田クリニック,神奈川県大和市中央２-２-１ワイフロント２階,内科　小児科　外科,,,9" xlink:title="長田クリニック" transform="ref(svg,13945.9201,-3547.0308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野寺胃腸科外科医院,神奈川県大和市林間２-４-２１,消化器科・消化器内科　外科,,,9" xlink:title="小野寺胃腸科外科医院" transform="ref(svg,13944.738,-3549.8217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）ガスター診療所,神奈川県大和市深見台３-４,内科　外科,,,9" xlink:title="（株）ガスター診療所" transform="ref(svg,13946.8422,-3547.0942)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）神奈川県労働衛生福祉協会大和健診事業部,神奈川県大和市大和東３-１０-１８,内科,,,9" xlink:title="（一財）神奈川県労働衛生福祉協会大和健診事業部" transform="ref(svg,13946.3909,-3547.3288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川西内科クリニック,神奈川県大和市中央林間３-５-１１野崎ビル２階,内科　呼吸器科・呼吸器内科　循環器科・循環器内科　アレルギー科,,,9" xlink:title="川西内科クリニック" transform="ref(svg,13944.3443,-3550.7589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）菊田内科医院,神奈川県大和市林間２-１-５,内科　循環器科・循環器内科,,,9" xlink:title="（医）菊田内科医院" transform="ref(svg,13944.7807,-3549.7062)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北原皮膚科泌尿器科,神奈川県大和市大和東２-３-９,皮膚科　性病科　感染症内科　泌尿器科,,,9" xlink:title="北原皮膚科泌尿器科" transform="ref(svg,13946.1369,-3547.1951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木下耳鼻咽喉科,神奈川県大和市中央林間４-６-３中央林間とうきゅう駅ビル２階,耳鼻いんこう科,,,9" xlink:title="木下耳鼻咽喉科" transform="ref(svg,13944.4707,-3550.7593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久志本眼科クリニック,神奈川県大和市つきみ野１-６-１イオンつきみ野店３階,眼科,,,9" xlink:title="久志本眼科クリニック" transform="ref(svg,13945.715,-3550.2828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くれ内科胃腸内科クリニック,神奈川県大和市鶴間２-１１-２９第２大和クリニックモール２階,内科　胃腸科・胃腸内科　外科　肛門科・肛門外科,,,9" xlink:title="くれ内科胃腸内科クリニック" transform="ref(svg,13945.2976,-3549.0587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒山内科医院,神奈川県大和市中央林間２-２１-２０コスモヒルズ中央林間１Ｆ,内科　呼吸器科・呼吸器内科　循環器科・循環器内科　外科,,,9" xlink:title="黒山内科医院" transform="ref(svg,13944.9195,-3550.2169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）敬愛会（特養）敬愛の園医務室,神奈川県大和市福田１５５１,内科　歯科,,,9" xlink:title="（福）敬愛会（特養）敬愛の園医務室" transform="ref(svg,13946.3713,-3542.3887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高座渋谷眼科,神奈川県大和市下和田１１８２-４,眼科,,,9" xlink:title="高座渋谷眼科" transform="ref(svg,13946.5826,-3543.2638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高座渋谷じんクリニック,神奈川県大和市福田１９６９-１ルミエールビル１階,内科,,,9" xlink:title="高座渋谷じんクリニック" transform="ref(svg,13946.435,-3543.1096)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高座渋谷つばさクリニック,神奈川県大和市福田２０２１-２高座渋谷駅前複合ビル２階,内科　胃腸科・胃腸内科　外科　肛門科・肛門外科,,,9" xlink:title="高座渋谷つばさクリニック" transform="ref(svg,13946.422,-3543.2938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高座渋谷内科外科クリニック,神奈川県大和市福田１９７０-１-Ｂ,内科　皮膚科　外科　整形外科　リハビリテーション科,,,9" xlink:title="高座渋谷内科外科クリニック" transform="ref(svg,13946.452,-3543.1327)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高座渋谷ひょうどう耳鼻咽喉科,神奈川県大和市福田１９６５-２,耳鼻いんこう科,,,9" xlink:title="高座渋谷ひょうどう耳鼻咽喉科" transform="ref(svg,13946.4963,-3543.0565)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高座渋谷メンタルクリニック,神奈川県大和市福田１８２７-１１，２Ｆ,神経内科・神経科　精神科・神経科　心療内科,,,9" xlink:title="高座渋谷メンタルクリニック" transform="ref(svg,13946.0932,-3543.2563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こう整形外科,神奈川県大和市福田５５１６　１Ｆ,整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="こう整形外科" transform="ref(svg,13946.6284,-3544.9811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）晃風園診療所,神奈川県大和市草柳２-１５-１,内科,,,9" xlink:title="（特養）晃風園診療所" transform="ref(svg,13945.8229,-3546.044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）晃風園ぬくもり医務室,神奈川県大和市深見１７３６-２,内科,,,9" xlink:title="（特養）晃風園ぬくもり医務室" transform="ref(svg,13946.8686,-3548.0642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,子どもメンタルクリニック,神奈川県大和市中央林間３-２-３,精神科・神経科　心療内科,,,9" xlink:title="子どもメンタルクリニック" transform="ref(svg,13944.3822,-3550.6792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林医院,神奈川県大和市福田２０８６,内科　皮膚科　小児科　外科,,,9" xlink:title="小林医院" transform="ref(svg,13946.5296,-3543.4999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小林国際クリニック,神奈川県大和市西鶴間３-５-６-１１０,消化器科・消化器内科　小児科　外科,,,9" xlink:title="（医）小林国際クリニック" transform="ref(svg,13945.1752,-3548.7012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小柳内科胃腸科,神奈川県大和市福田５５１４-６,内科　循環器科・循環器内科　消化器科・消化器内科　胃腸科・胃腸内科,,,9" xlink:title="小柳内科胃腸科" transform="ref(svg,13946.4866,-3545.0926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤整形外科,神奈川県大和市南林間１-７-９,整形外科　リハビリテーション科,,,9" xlink:title="近藤整形外科" transform="ref(svg,13944.7282,-3549.4763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいとう整形スポーツクリニック,神奈川県大和市福田２０２１-２ＩＫＯＺＡ４階,整形外科　リハビリテーション科,,,9" xlink:title="さいとう整形スポーツクリニック" transform="ref(svg,13946.422,-3543.2938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜ヶ丘耳鼻咽喉科,神奈川県大和市福田５５１５-１,アレルギー科　耳鼻いんこう科,,,9" xlink:title="桜ヶ丘耳鼻咽喉科" transform="ref(svg,13946.5965,-3545.0315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桜クリニック,神奈川県大和市鶴間１-２２-７,小児科,,,9" xlink:title="桜クリニック" transform="ref(svg,13945.6516,-3548.8062)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら皮膚科,神奈川県大和市福田５５１５-１,皮膚科,,,9" xlink:title="さくら皮膚科" transform="ref(svg,13946.5959,-3545.0079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ささいクリニック,神奈川県大和市大和東１-７-２１山崎ビル３階,内科　呼吸器科・呼吸器内科　循環器科・循環器内科　消化器科・消化器内科　外科,,,9" xlink:title="ささいクリニック" transform="ref(svg,13946.3392,-3547.0252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤眼科,神奈川県大和市福田１-２-３,眼科,,,9" xlink:title="佐藤眼科" transform="ref(svg,13946.4774,-3545.2378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三機工業（株）大和事業所診療所,神奈川県大和市下鶴間１７４２-７,内科,,,9" xlink:title="三機工業（株）大和事業所診療所" transform="ref(svg,13945.3155,-3550.287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）大和清風会（特養）サンホーム鶴間医務室,神奈川県大和市西鶴間８-１-２,内科　泌尿器科,,,9" xlink:title="（福）大和清風会（特養）サンホーム鶴間医務室" transform="ref(svg,13944.1196,-3548.4255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芝レディースクリニック,神奈川県大和市福田２００６-３Ｓｈｉｂｕｙａ　Ｓｑｕａｒｅ・Ｌ２Ｆ,内科　産婦人科・産科,,,9" xlink:title="芝レディースクリニック" transform="ref(svg,13946.3993,-3543.2046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神奈川県勤労者医療（生協）十条通り医院,神奈川県大和市南林間８-２３-８,内科　消化器科・消化器内科,,,9" xlink:title="神奈川県勤労者医療（生協）十条通り医院" transform="ref(svg,13943.7774,-3549.5492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小児科玉井クリニック,神奈川県大和市林間１-８-１１ブルームヒル林間１階,小児科,,,9" xlink:title="小児科玉井クリニック" transform="ref(svg,13944.94,-3549.527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しょうの皮膚科,神奈川県大和市福田４-２１-４グッデーズ福田１階,皮膚科,,,9" xlink:title="しょうの皮膚科" transform="ref(svg,13946.206,-3544.0006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,真和クリニック,神奈川県大和市桜森２-６-１６不二ビル８０１,内科,,,9" xlink:title="真和クリニック" transform="ref(svg,13943.9908,-3546.9567)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,神奈川県大和市南林間２-５-４,内科　皮膚科,,,9" xlink:title="鈴木医院" transform="ref(svg,13944.5807,-3549.8217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健伸すずらんクリニック,神奈川県大和市大和南２-５-６,内科　眼科,,,9" xlink:title="（医）健伸すずらんクリニック" transform="ref(svg,13946.4864,-3546.7489)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須藤整形外科クリニック,神奈川県大和市福田２１５８-９,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="須藤整形外科クリニック" transform="ref(svg,13946.1804,-3543.5621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,聖ラファエルクリニック,神奈川県大和市桜森２-１１-１２グランドヒルズ相模大塚１Ｆ,内科　消化器科・消化器内科　小児科　外科　リハビリテーション科,,,9" xlink:title="聖ラファエルクリニック" transform="ref(svg,13943.8717,-3547.034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成和クリニック,神奈川県大和市西鶴間５-３４８８-７,内科　呼吸器科・呼吸器内科　循環器科・循環器内科　消化器科・消化器内科　外科　整形外科　婦人科　リハビリテーション科,,,9" xlink:title="成和クリニック" transform="ref(svg,13944.1543,-3548.3078)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関水眼科,神奈川県大和市福田１２１６,眼科,,,9" xlink:title="関水眼科" transform="ref(svg,13945.8161,-3542.634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関水整形外科クリニック,神奈川県大和市深見西２-３-２８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="関水整形外科クリニック" transform="ref(svg,13946.4649,-3547.6548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,セントルカ眼科歯科クリニック,神奈川県大和市鶴間１-３１-１,眼科　歯科,,,9" xlink:title="セントルカ眼科歯科クリニック" transform="ref(svg,13945.3652,-3549.0372)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宗内科・循環器科,神奈川県大和市鶴間１-３１-１大和クリニックモール２Ｆ,内科　循環器科・循環器内科,,,9" xlink:title="宗内科・循環器科" transform="ref(svg,13945.3551,-3549.0408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,草柳クリニック,神奈川県大和市草柳２-１５-９,内科　循環器科・循環器内科　皮膚科,,,9" xlink:title="草柳クリニック" transform="ref(svg,13945.8429,-3546.0285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,代官アイクリニック,神奈川県大和市代官１-１５-７代官クリニックビル２階,眼科,,,9" xlink:title="代官アイクリニック" transform="ref(svg,13945.9881,-3544.2546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,代官クリニック,神奈川県大和市代官１-１５-７代官クリニックビル３階,内科　小児科　歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="代官クリニック" transform="ref(svg,13945.9768,-3544.2601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高野クリニック,神奈川県大和市南林間１-７-９南林間西口第３ビル２階,内科　呼吸器科・呼吸器内科　アレルギー科　リウマチ科,,,9" xlink:title="高野クリニック" transform="ref(svg,13944.7355,-3549.4712)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田口クリニック,神奈川県大和市南林間７-２５-６,内科　泌尿器科,,,9" xlink:title="田口クリニック" transform="ref(svg,13943.6281,-3549.1093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹内内科医院,神奈川県大和市福田５５１１-２,内科　消化器科・消化器内科,,,9" xlink:title="竹内内科医院" transform="ref(svg,13946.6073,-3544.9247)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけのこクリニック,神奈川県大和市下鶴間３００９-１１,内科　皮膚科　小児科,,,9" xlink:title="たけのこクリニック" transform="ref(svg,13945.2774,-3549.7318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たなかクリニック,神奈川県大和市桜森３-７-１８,内科　脳神経外科,,,9" xlink:title="たなかクリニック" transform="ref(svg,13944.0335,-3547.1624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中内科クリニック,神奈川県大和市大和東１-３-１５大和ミラービル３Ｆ,内科　糖尿病内科（代謝内科）,,,9" xlink:title="田中内科クリニック" transform="ref(svg,13946.1795,-3547.0385)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）エイ・アールティー田宮クリニック産婦人科,神奈川県大和市南林間６-２１-２２,産婦人科・産科,,,9" xlink:title="（医）エイ・アールティー田宮クリニック産婦人科" transform="ref(svg,13943.8905,-3549.1006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中央林間形成・皮フ科クリニック,神奈川県大和市中央林間４-７-２０,皮膚科　形成外科,,,9" xlink:title="中央林間形成・皮フ科クリニック" transform="ref(svg,13944.507,-3550.5852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）碧中央林間耳鼻咽喉科クリニック,神奈川県大和市中央林間４-７-２０,耳鼻いんこう科,,,9" xlink:title="（医）碧中央林間耳鼻咽喉科クリニック" transform="ref(svg,13944.507,-3550.5852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三栄中央林間じんクリニック,神奈川県大和市中央林間４-１５-２２ＫＴ長谷川ビル３０１,内科　腎臓内科・人工透析内科　泌尿器科,,,9" xlink:title="（医）三栄中央林間じんクリニック" transform="ref(svg,13944.4903,-3550.7625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚本皮膚科,神奈川県大和市南林間２-１１-４　３階,皮膚科,,,9" xlink:title="塚本皮膚科" transform="ref(svg,13944.6539,-3549.558)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つるまエキチカじんクリニック,神奈川県大和市鶴間２-１-２４エスポルタ３Ｆ，４Ｆ,内科,,,9" xlink:title="つるまエキチカじんクリニック" transform="ref(svg,13945.1327,-3549.0082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴間かねしろ内科クリニック,神奈川県大和市鶴間２-１-２４-２階Ａ,内科　循環器科・循環器内科　眼科,,,9" xlink:title="鶴間かねしろ内科クリニック" transform="ref(svg,13944.9083,-3549.145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つるま耳鼻咽喉科医院,神奈川県大和市鶴間１-３１-１,耳鼻いんこう科,,,9" xlink:title="つるま耳鼻咽喉科医院" transform="ref(svg,13945.3602,-3549.0358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ツルマじんクリニック,神奈川県大和市鶴間１-３１-１大和クリニックモール３Ｆ,内科,,,9" xlink:title="ツルマじんクリニック" transform="ref(svg,13945.3551,-3549.0408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つるま整形外科,神奈川県大和市西鶴間３-１３-２０ユリセナビル２Ｆ,整形外科　リハビリテーション科,,,9" xlink:title="つるま整形外科" transform="ref(svg,13944.9043,-3548.8173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土岐医院,神奈川県大和市南林間７-１-１６,内科　消化器科・消化器内科　外科　眼科,,,9" xlink:title="土岐医院" transform="ref(svg,13944.0572,-3549.3484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかむら小児科アレルギー科,神奈川県大和市鶴間２-１１-２９第２大和クリニックモール１階,アレルギー科　小児科,,,9" xlink:title="なかむら小児科アレルギー科" transform="ref(svg,13945.2976,-3549.0587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,名取皮膚科,神奈川県大和市南林間６-３-１６,皮膚科,,,9" xlink:title="名取皮膚科" transform="ref(svg,13944.217,-3549.1886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西鶴間メディカルクリニック,神奈川県大和市西鶴間４-１-４,内科　呼吸器科・呼吸器内科　消化器科・消化器内科　胃腸科・胃腸内科　腎臓内科・人工透析内科　循環器外科・心臓血管外科　乳腺外科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）西鶴間メディカルクリニック" transform="ref(svg,13944.8534,-3548.7385)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本飛行機（株）航空機整備事業部診療所,神奈川県大和市草柳２-２８,内科　外科　整形外科,,,9" xlink:title="日本飛行機（株）航空機整備事業部診療所" transform="ref(svg,13945.5328,-3546.2348)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にれファミリークリニック,神奈川県大和市福田２０２８ロイヤルパレス渋谷１Ｆ,内科　小児科,,,9" xlink:title="にれファミリークリニック" transform="ref(svg,13946.5152,-3543.2778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のぶきよ耳鼻咽喉科クリニック,神奈川県大和市大和東１-９-２５プロムナード東１Ｆ,耳鼻いんこう科,,,9" xlink:title="のぶきよ耳鼻咽喉科クリニック" transform="ref(svg,13946.4615,-3547.0163)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,箱崎耳鼻咽喉科医院,神奈川県大和市西鶴間３-１２-５,耳鼻いんこう科,,,9" xlink:title="箱崎耳鼻咽喉科医院" transform="ref(svg,13945.0062,-3548.7642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本クリニック,神奈川県大和市中央林間３-１８-１メゾンヴォワ１階,内科　外科　消化器・胃腸・大腸外科　肛門科・肛門外科,,,9" xlink:title="橋本クリニック" transform="ref(svg,13944.2271,-3550.6703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はたの林間クリニック,神奈川県大和市中央林間３-２-３-１階,精神科・神経科　心療内科,,,9" xlink:title="はたの林間クリニック" transform="ref(svg,13944.3869,-3550.678)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林眼科医院,神奈川県大和市林間１-６-１１,眼科,,,9" xlink:title="林眼科医院" transform="ref(svg,13945.0177,-3549.5992)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひまわりの郷診療所,神奈川県大和市上和田３４６７-１特別養護老人ホームひまわりの郷,内科,,,9" xlink:title="ひまわりの郷診療所" transform="ref(svg,13946.8416,-3543.687)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平馬医院,神奈川県大和市中央林間３-１０-９,内科　皮膚科　アレルギー科　小児科　精神科・神経科,,,9" xlink:title="平馬医院" transform="ref(svg,13944.2659,-3550.752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）深見台中央医院,神奈川県大和市深見台３-５-２８,内科　呼吸器科・呼吸器内科　循環器科・循環器内科　消化器科・消化器内科　外科　肛門科・肛門外科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="（医）深見台中央医院" transform="ref(svg,13947.0883,-3547.0025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふくしま整形外科皮フ科,神奈川県大和市中央林間３-５-１１野崎ビル１Ｆ，Ｂ１,皮膚科　リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="ふくしま整形外科皮フ科" transform="ref(svg,13944.3443,-3550.7589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤沼内科クリニック,神奈川県大和市福田２００４-７高座渋谷西口駅前日の出屋ビル１Ｆ２Ｆ,内科　循環器科・循環器内科　神経内科・神経科,,,9" xlink:title="藤沼内科クリニック" transform="ref(svg,13946.3605,-3543.2929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古谷医院,神奈川県大和市林間２-２-１９,耳鼻いんこう科,,,9" xlink:title="古谷医院" transform="ref(svg,13944.7871,-3549.7395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本郷皮膚科医院,神奈川県大和市大和南１-３-１０,皮膚科,,,9" xlink:title="本郷皮膚科医院" transform="ref(svg,13946.2516,-3546.94)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本多産婦人科・内科医院,神奈川県大和市福田字甲八ノ区１９７７-１,内科　心療内科　産婦人科・産科　婦人科,,,9" xlink:title="本多産婦人科・内科医院" transform="ref(svg,13946.2643,-3543.58)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前川内科クリニック,神奈川県大和市下鶴間２７７７-５-６コンフオール鶴間１Ｆ,内科　消化器科・消化器内科,,,9" xlink:title="前川内科クリニック" transform="ref(svg,13945.6248,-3549.2271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まきうち整形外科,神奈川県大和市下鶴間１７６３-５,整形外科　リハビリテーション科,,,9" xlink:title="まきうち整形外科" transform="ref(svg,13945.3149,-3550.2873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦医院,神奈川県大和市南林間５-２-４,内科　消化器科・消化器内科　脳神経外科　リハビリテーション科,,,9" xlink:title="三浦医院" transform="ref(svg,13944.3226,-3549.515)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）プレマみなみ風診療所,神奈川県大和市上草柳１６４-５-２階,内科,,,9" xlink:title="（福）プレマみなみ風診療所" transform="ref(svg,13944.0921,-3547.3785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南大和クリニック,神奈川県大和市下和田９４０-１,内科　形成外科　耳鼻いんこう科,,,9" xlink:title="南大和クリニック" transform="ref(svg,13946.8354,-3543.1536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南大和高座クリニック,神奈川県大和市福田２０２１-２イコーザ２階,内科　消化器科・消化器内科　腎臓内科・人工透析内科　外科,,,9" xlink:title="南大和高座クリニック" transform="ref(svg,13946.422,-3543.2938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南林間クリニック,神奈川県大和市南林間１-２-２,消化器科・消化器内科　皮膚科　外科,,,9" xlink:title="南林間クリニック" transform="ref(svg,13944.8663,-3549.297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みひらクリニック,神奈川県大和市福田１８２６-２スカイステーション１０１,内科,,,9" xlink:title="みひらクリニック" transform="ref(svg,13946.2496,-3543.3473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮崎外科医院,神奈川県大和市鶴間２-１０-３,内科　消化器科・消化器内科　皮膚科　外科,,,9" xlink:title="宮崎外科医院" transform="ref(svg,13945.2119,-3549.0851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,美和レディースクリニック,神奈川県大和市南林間７-２０-３０,産婦人科・産科　婦人科,,,9" xlink:title="美和レディースクリニック" transform="ref(svg,13943.5909,-3549.4011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）華青向井診療所,神奈川県大和市大和南２-８-９,耳鼻いんこう科,,,9" xlink:title="（医）華青向井診療所" transform="ref(svg,13946.5314,-3546.6718)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,向井皮ふ科,神奈川県大和市大和東１-８-６清水ビル２階Ａ,皮膚科,,,9" xlink:title="向井皮ふ科" transform="ref(svg,13946.3056,-3547.0032)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上クリニック,神奈川県大和市大和南２-９-１０,内科　消化器科・消化器内科　皮膚科　小児科　泌尿器科,,,9" xlink:title="村上クリニック" transform="ref(svg,13946.6216,-3546.6148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むらた小児科,神奈川県大和市つきみ野１-６-１つきみ野サティ３Ｆ,アレルギー科　小児科,,,9" xlink:title="むらた小児科" transform="ref(svg,13945.7229,-3550.2934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メンタルクリニック日日草,神奈川県大和市鶴間２-１１-２９第２大和クリニックモール２階,内科　精神科・神経科　心療内科,,,9" xlink:title="メンタルクリニック日日草" transform="ref(svg,13945.2933,-3549.0601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,望月耳鼻咽喉科,神奈川県大和市中央林間４-２０-４,耳鼻いんこう科,,,9" xlink:title="望月耳鼻咽喉科" transform="ref(svg,13944.6616,-3550.6286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）もみの木もみの木医院,神奈川県大和市大和南２-６-５,内科　小児科　泌尿器科　婦人科,,,9" xlink:title="（医）もみの木もみの木医院" transform="ref(svg,13946.3421,-3546.7797)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田整形外科小児科,神奈川県大和市下和田８１６-１,小児科　整形外科,,,9" xlink:title="森田整形外科小児科" transform="ref(svg,13946.9311,-3542.633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やぐち皮膚科クリニック,神奈川県大和市鶴間１-３１-１,皮膚科,,,9" xlink:title="やぐち皮膚科クリニック" transform="ref(svg,13945.3592,-3549.0331)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安野医院,神奈川県大和市下鶴間２５６８,内科　循環器科・循環器内科　消化器科・消化器内科　皮膚科　小児科　外科　泌尿器科　肛門科・肛門外科　整形外科　リハビリテーション科　放射線科　麻酔科,,,9" xlink:title="安野医院" transform="ref(svg,13946.3828,-3549.3116)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口医院,神奈川県大和市西鶴間１-１１-１２,内科　呼吸器科・呼吸器内科　小児科,,,9" xlink:title="山口医院" transform="ref(svg,13944.893,-3549.119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和アイクリニック,神奈川県大和市下鶴間１-２-１イオン大和Ｓ．Ｃ．２Ｆ,眼科,,,9" xlink:title="大和アイクリニック" transform="ref(svg,13945.7684,-3548.9179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善仁大和クリニック,神奈川県大和市大和南１-５-１４,腎臓内科・人工透析内科,,,9" xlink:title="（医）善仁大和クリニック" transform="ref(svg,13946.3376,-3546.8972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰平大和クリニック,神奈川県大和市大和東１-３-８　４Ｆ,内科　呼吸器科・呼吸器内科　循環器科・循環器内科　消化器科・消化器内科　神経内科・神経科　皮膚科　性病科　感染症内科　小児科　心療内科　外科　泌尿器科　肛門科・肛門外科　脳神経外科　整形外科　形成外科　美容外科　眼科　耳鼻いんこう科　婦人科,リハビリテーション科　放射線科,,9" xlink:title="（医）泰平大和クリニック" transform="ref(svg,13946.2042,-3547.095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和外科内科クリニック,神奈川県大和市下鶴間７０４-６,内科　消化器科・消化器内科　外科,,,9" xlink:title="大和外科内科クリニック" transform="ref(svg,13946.344,-3550.6443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和こどもクリニック,神奈川県大和市大和東１-１０-８,アレルギー科　小児科,,,9" xlink:title="大和こどもクリニック" transform="ref(svg,13946.516,-3547.1105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和さくらクリニック,神奈川県大和市柳橋５-２-３,内科　小児科,,,9" xlink:title="大和さくらクリニック" transform="ref(svg,13945.8115,-3545.3913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまとサンクリニック,神奈川県大和市大和東１-９-２４,内科,,,9" xlink:title="やまとサンクリニック" transform="ref(svg,13946.4795,-3547.0192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和市地域医療センター休日夜間急患診療所,神奈川県大和市鶴間１-２８-５,内科　小児科,,,9" xlink:title="大和市地域医療センター休日夜間急患診療所" transform="ref(svg,13945.56,-3548.9834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）風航大和中央眼科,神奈川県大和市中央４-１-２近藤ビル５Ｆ,眼科,,,9" xlink:title="（医）風航大和中央眼科" transform="ref(svg,13946.0484,-3546.964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和中央クリニック,神奈川県大和市中央１-２-２太陽ハウジングビル１階,内科　神経内科・神経科　精神科・神経科　心療内科,,,9" xlink:title="大和中央クリニック" transform="ref(svg,13946.1477,-3546.8987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまと中央循環器内科,神奈川県大和市中央７-１０-１５,内科　循環器科・循環器内科,,,9" xlink:title="やまと中央循環器内科" transform="ref(svg,13946.3698,-3546.2493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまと内科・小児科クリニック,神奈川県大和市中央３-８-２６,内科　循環器科・循環器内科　小児科,,,9" xlink:title="やまと内科・小児科クリニック" transform="ref(svg,13945.7063,-3547.2345)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和東クリニック,神奈川県大和市大和東１-４-２大和ヘルスケアモール２Ｆ　,内科　呼吸器科・呼吸器内科　消化器科・消化器内科　外科　消化器・胃腸・大腸外科　肛門科・肛門外科,,,9" xlink:title="大和東クリニック" transform="ref(svg,13946.2302,-3547.0395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）共進大和ホームクリニック,神奈川県大和市大和東３-１-６ＪＭビル５Ｆ　Ａ,内科,,,9" xlink:title="（医）共進大和ホームクリニック" transform="ref(svg,13946.2545,-3547.1794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神奈川県厚木保健福祉事務所大和センター,神奈川県大和市中央１-５-２６,内科　歯科　小児歯科,,,9" xlink:title="神奈川県厚木保健福祉事務所大和センター" transform="ref(svg,13946.2001,-3546.6539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和南眼科,神奈川県大和市大和南２-３-１０,眼科,,,9" xlink:title="大和南眼科" transform="ref(svg,13946.515,-3546.7677)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和レディースクリニック,神奈川県大和市中央２-１３-２７　１０１,内科　産婦人科・産科,,,9" xlink:title="大和レディースクリニック" transform="ref(svg,13945.8908,-3547.3744)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵怜山本クリニック,神奈川県大和市鶴間２-１１-３０-２階,内科　外科,,,9" xlink:title="（医）恵怜山本クリニック" transform="ref(svg,13945.2836,-3549.0528)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,雪外科医院,神奈川県大和市福田３６０２,内科　消化器科・消化器内科　皮膚科　外科　肛門科・肛門外科　脳神経外科　耳鼻いんこう科　放射線科,,,9" xlink:title="雪外科医院" transform="ref(svg,13945.9131,-3543.7393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）（社団）芳沢医院,神奈川県大和市上草柳１-３-２,内科　循環器科・循環器内科　消化器科・消化器内科,,,9" xlink:title="（医）（社団）芳沢医院" transform="ref(svg,13945.6308,-3547.3613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田眼科,神奈川県大和市大和南１-３-１大和駅前ビル３Ｆ,眼科,,,9" xlink:title="吉田眼科" transform="ref(svg,13946.2439,-3546.9466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よつば整形外科,神奈川県大和市大和東１-７-２１-２Ｆ,整形外科,,,9" xlink:title="よつば整形外科" transform="ref(svg,13946.3405,-3547.0233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ライラッククリニック,神奈川県大和市鶴間２-１１-２９第２大和クリニックモール３Ｆ,心療内科　脳神経外科　整形外科,,,9" xlink:title="ライラッククリニック" transform="ref(svg,13945.2991,-3549.0571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林間メンタルクリニック,神奈川県大和市林間２-１-２４,精神科・神経科　心療内科,,,9" xlink:title="林間メンタルクリニック" transform="ref(svg,13944.8389,-3549.6889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ル・リアンふかみ診療所,神奈川県大和市深見２１０６-１,内科　歯科,,,9" xlink:title="ル・リアンふかみ診療所" transform="ref(svg,13947.0514,-3547.5213)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉クリニック,神奈川県大和市中央１-７-２１,内科,,,9" xlink:title="若葉クリニック" transform="ref(svg,13946.1,-3546.5857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和喜園診療所,神奈川県大和市下和田８２３,内科,,,9" xlink:title="和喜園診療所" transform="ref(svg,13947.0189,-3542.6532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田クリニック,神奈川県大和市南林間５-１１-２５,内科　皮膚科　小児科,,,9" xlink:title="和田クリニック" transform="ref(svg,13944.2265,-3549.3713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,海上自衛隊厚木航空基地隊医務室,神奈川県綾瀬市無番地,内科　外科　歯科,,,9" xlink:title="海上自衛隊厚木航空基地隊医務室" transform="ref(svg,13944.817,-3545.4618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あやせ眼科,神奈川県綾瀬市寺尾北２-１７-３７,眼科,,,9" xlink:title="あやせ眼科" transform="ref(svg,13942.0792,-3546.7672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一社）座間綾瀬医師会綾瀬休日診療所,神奈川県綾瀬市深谷中４-２-１,内科　小児科,,,9" xlink:title="（一社）座間綾瀬医師会綾瀬休日診療所" transform="ref(svg,13943.0842,-3543.7517)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,綾瀬市職員健康診断診療所,神奈川県綾瀬市早川５５０,内科,,,9" xlink:title="綾瀬市職員健康診断診療所" transform="ref(svg,13942.6348,-3543.7161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あやせ整形外科・眼科,神奈川県綾瀬市早川城山１-３-２,リウマチ科　整形外科　眼科　リハビリテーション科,,,9" xlink:title="あやせ整形外科・眼科" transform="ref(svg,13942.5129,-3544.12)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市川医院,神奈川県綾瀬市寺尾南１-６-１７,消化器科・消化器内科　皮膚科　外科　肛門科・肛門外科　放射線科,,,9" xlink:title="市川医院" transform="ref(svg,13943.0114,-3544.8315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,緒方医院,神奈川県綾瀬市寺尾中３-１０-１３,内科　皮膚科　外科　泌尿器科　整形外科,,,9" xlink:title="緒方医院" transform="ref(svg,13942.5372,-3545.9408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おかもと小児科,神奈川県綾瀬市寺尾中１-８-７　１Ｆ　,内科　小児科,,,9" xlink:title="おかもと小児科" transform="ref(svg,13942.6013,-3545.7896)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かしわぎクリニック,神奈川県綾瀬市深谷３９５０-１綾瀬メディカルプラザＡ棟,呼吸器科・呼吸器内科　循環器科・循環器内科　糖尿病内科（代謝内科）,,,9" xlink:title="かしわぎクリニック" transform="ref(svg,13942.9068,-3543.858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神奈川県結核予防会日本郵便綾瀬支店診療所,神奈川県綾瀬市小園６９８-７,内科,,,9" xlink:title="神奈川県結核予防会日本郵便綾瀬支店診療所" transform="ref(svg,13941.5457,-3544.7021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,紀医院,神奈川県綾瀬市深谷中６-１９-１８,内科　小児科,,,9" xlink:title="紀医院" transform="ref(svg,13943.7841,-3543.1679)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,熊倉整形外科,神奈川県綾瀬市深谷４１７６-３,内科　リウマチ科　整形外科　形成外科　リハビリテーション科,,,9" xlink:title="熊倉整形外科" transform="ref(svg,13942.396,-3544.3666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木クリニック,神奈川県綾瀬市寺尾北３-２２-１０,内科　神経内科・神経科　精神科・神経科　心療内科,,,9" xlink:title="佐々木クリニック" transform="ref(svg,13942.1812,-3546.4479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとうこどもクリニック,神奈川県綾瀬市深谷３９５９-１,小児科,,,9" xlink:title="さとうこどもクリニック" transform="ref(svg,13942.8582,-3543.9379)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅原医院,神奈川県綾瀬市小園南１-１１-１３,内科　消化器科・消化器内科　小児科,,,9" xlink:title="菅原医院" transform="ref(svg,13941.193,-3544.6559)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たけだこどもクリニック,神奈川県綾瀬市早川城山１-３-８,循環器科・循環器内科　小児科,,,9" xlink:title="たけだこどもクリニック" transform="ref(svg,13942.4543,-3544.0666)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,道志会老人ホーム診療所,神奈川県綾瀬市早川城山２-１１-３,内科　皮膚科　精神科・神経科,,,9" xlink:title="道志会老人ホーム診療所" transform="ref(svg,13942.1449,-3543.6145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東ソー（株）東京研究センター診療所,神奈川県綾瀬市早川２７４３-１,内科　外科,,,9" xlink:title="東ソー（株）東京研究センター診療所" transform="ref(svg,13941.5501,-3544.351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,トピー工業（株）綾瀬製造所医務室,神奈川県綾瀬市大上２-３-１,内科,,,9" xlink:title="トピー工業（株）綾瀬製造所医務室" transform="ref(svg,13942.7152,-3546.0286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,共ケ岡診療所,神奈川県綾瀬市大上３-２０-２３,内科,,,9" xlink:title="共ケ岡診療所" transform="ref(svg,13942.2667,-3546.4668)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原クリニック,神奈川県綾瀬市寺尾釜田１-１-８,内科　消化器科・消化器内科　糖尿病内科（代謝内科）　精神科・神経科,,,9" xlink:title="原クリニック" transform="ref(svg,13942.3167,-3544.4442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日立オートモティブシステムズ（株）相模事業所診療所,神奈川県綾瀬市小園１１１６,内科　外科,,,9" xlink:title="日立オートモティブシステムズ（株）相模事業所診療所" transform="ref(svg,13941.4015,-3545.6395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,比留川医院,神奈川県綾瀬市深谷南１-６-３,内科　循環器科・循環器内科　消化器科・消化器内科　神経内科・神経科　皮膚科　小児科　リハビリテーション科,,,9" xlink:title="比留川医院" transform="ref(svg,13943.5703,-3542.9972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮内耳鼻咽喉科医院,神奈川県綾瀬市寺尾南３-１３-１５,耳鼻いんこう科,,,9" xlink:title="宮内耳鼻咽喉科医院" transform="ref(svg,13942.838,-3545.205)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,茂木産婦人科医院,神奈川県綾瀬市深谷中４-１４-６,小児科　産婦人科・産科　婦人科,,,9" xlink:title="茂木産婦人科医院" transform="ref(svg,13943.254,-3543.8444)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）杜の郷医務室,神奈川県綾瀬市寺尾南１-５-３１,内科,,,9" xlink:title="（特養）杜の郷医務室" transform="ref(svg,13943.0059,-3544.799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈広矢崎胃腸外科,神奈川県綾瀬市上土棚中１-１-１６,消化器科・消化器内科　消化器・胃腸・大腸外科　肛門科・肛門外科,,,9" xlink:title="（医）慈広矢崎胃腸外科" transform="ref(svg,13944.4369,-3542.052)" x="0" y="0"/>
+</g>
+</svg>

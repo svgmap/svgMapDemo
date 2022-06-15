@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="hospital_l5_34-38.svg" x="13781.25" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="hospital/lvl8/tile34_38.png" preserveAspectRatio="none" x="13781.25" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<image xlink:href="hospital/lvl8/tile35_38.png" preserveAspectRatio="none" x="13921.875" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="hospital_l5_34-39.svg" x="13781.25" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="hospital/lvl8/tile34_39.png" preserveAspectRatio="none" x="13781.25" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="hospital_l5_35-39.svg" x="13921.875" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="hospital/lvl8/tile35_39.png" preserveAspectRatio="none" x="13921.875" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="hospital_l6_70-76.svg" x="13921.875" y="-3656.25" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="hospital/lvl9/tile70_76.png" preserveAspectRatio="none" x="13921.875" y="-3656.25" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="hospital_l6_71-76.svg" x="13992.1875" y="-3656.25" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="hospital/lvl9/tile71_76.png" preserveAspectRatio="none" x="13992.1875" y="-3656.25" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<image xlink:href="hospital/lvl9/tile70_77.png" preserveAspectRatio="none" x="13921.875" y="-3585.9375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="hospital_l6_71-77.svg" x="13992.1875" y="-3585.9375" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="hospital/lvl9/tile71_77.png" preserveAspectRatio="none" x="13992.1875" y="-3585.9375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="hospital_l7_140-154.svg" x="13921.875" y="-3585.9375" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="hospital/lvl10/tile140_154.png" preserveAspectRatio="none" x="13921.875" y="-3585.9375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="hospital_cont_l7_141-154.svg" x="13957.0312" y="-3585.9375" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="hospital/lvl10/tile141_154.png" preserveAspectRatio="none" x="13957.0312" y="-3585.9375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="hospital_l7_140-155.svg" x="13921.875" y="-3550.7812" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="hospital/lvl10/tile140_155.png" preserveAspectRatio="none" x="13921.875" y="-3550.7812" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="hospital_l7_141-155.svg" x="13957.0312" y="-3550.7812" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="hospital/lvl10/tile141_155.png" preserveAspectRatio="none" x="13957.0312" y="-3550.7812" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+</svg>

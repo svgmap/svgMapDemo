@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13500.0 -3515.625 35.15625 35.15625" go:dataArea="13500.0 -3515.625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,神戸アドベンチスト病院,兵庫県神戸市北区有野台８-４-１,小児科　内科　外科　消化器内科　循環器内科　整形外科　リハビリテーション科　産婦人科　放射線科　麻酔科,,,6" xlink:title="神戸アドベンチスト病院" transform="ref(svg,13522.4417,-3480.8718)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,甲北病院,兵庫県神戸市北区有野中町１-１８-３６,小児科　内科　外科　整形外科　リハビリテーション科　形成外科　皮膚科　循環器内科　放射線科,,,4" xlink:title="甲北病院" transform="ref(svg,13522.4349,-3482.3349)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,向陽病院,兵庫県神戸市北区有野町有野１４９０,内科　放射線科　精神科　神経科　歯科,,,4" xlink:title="向陽病院" transform="ref(svg,13522.4196,-3481.539)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,恒生病院,兵庫県神戸市北区道場町日下部字中ノゴウ１７８８,内科　外科　整形外科　リハビリテーション科　脳神経外科　リウマチ科　放射線科　神経内科,,,4" xlink:title="恒生病院" transform="ref(svg,13522.3752,-3485.5369)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,有泉病院,兵庫県神戸市北区有野中町３-２９-１６,内科　皮膚科　肛門外科　外科,,,4" xlink:title="有泉病院" transform="ref(svg,13522.5215,-3482.851)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）寿栄会有馬高原病院,兵庫県神戸市北区長尾町上津４６６３-３,内科　心臓内科　精神科　神経科　歯科,,,4" xlink:title="（医）寿栄会有馬高原病院" transform="ref(svg,13516.6674,-3488.8925)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,済生会兵庫県病院,兵庫県神戸市北区藤原台中町５-１-１,内科　外科　産婦人科　小児科　整形外科　脳神経外科　眼科　耳鼻いんこう科　皮膚科　泌尿器科　消化器内科　循環器内科　麻酔科　放射線科　歯科口腔外科　リハビリテーション科　リウマチ科　アレルギー科　呼吸器外科　歯科　腎臓内科　呼吸器内科,,,2" xlink:title="済生会兵庫県病院" transform="ref(svg,13521.5039,-3482.3113)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）緑水会北摂中央病院,兵庫県西宮市塩瀬町生瀬１２８１-５,内科　リハビリテーション科,,,4" xlink:title="（医）緑水会北摂中央病院" transform="ref(svg,13532.9842,-3482.1848)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,高田上谷病院,兵庫県西宮市山口町上山口４-２６-１４,内科　外科　心臓外科　循環器内科　消化器内科　消化器外科　呼吸器外科　整形外科　放射線科　リウマチ科　リハビリテーション科　人工透析内科　麻酔科　歯科,,,4" xlink:title="高田上谷病院" transform="ref(svg,13524.647,-3482.4872)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,有馬病院,兵庫県西宮市山口町下山口１６３７-５,内科　心臓内科　精神科　神経科,,,4" xlink:title="有馬病院" transform="ref(svg,13525.417,-3483.2679)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）国立病院機構兵庫中央病院,兵庫県三田市大原１３１４,内科　呼吸器内科　呼吸器外科　消化器内科　消化器外科　循環器内科　外科　整形外科　リハビリテーション科　放射線科　麻酔科　神経内科　歯科　糖尿病内科　皮膚科,,,1" xlink:title="（独）国立病院機構兵庫中央病院" transform="ref(svg,13522.9307,-3490.7435)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,三田市民病院,兵庫県三田市けやき台３-１-１,小児科　内科　外科　整形外科　形成外科　リハビリテーション科　皮膚科　泌尿器科　産婦人科　脳神経外科　消化器内科　循環器内科　腎臓内科　耳鼻いんこう科　眼科　放射線科　麻酔科　消化器外科,,,2" xlink:title="三田市民病院" transform="ref(svg,13520.1282,-3490.7852)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）敬愛会三田高原病院,兵庫県三田市下内神５２５-１,内科　リハビリテーション科,,,4" xlink:title="（医）敬愛会三田高原病院" transform="ref(svg,13518.1078,-3493.0787)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）尚仁会平島病院,兵庫県三田市天神１-２-１５,内科　呼吸器内科　循環器内科　消化器内科　腎臓内科　皮膚科　外科　消化器外科　外肛門外科　整形外科　眼科　麻酔科　リハビリテーション科　放射線科　臨床検査科,,,4" xlink:title="（医）尚仁会平島病院" transform="ref(svg,13522.2242,-3488.9827)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）山西会宝塚三田病院,兵庫県三田市西山２-２２-１０,精神科　神経科　歯科,,,4" xlink:title="（医）山西会宝塚三田病院" transform="ref(svg,13521.4315,-3488.2249)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（福）枚方療育園医療福祉センターさくら,兵庫県三田市東本庄１１８８,小児科　内科　精神科　リハビリテーション科,,,6" xlink:title="（福）枚方療育園医療福祉センターさくら" transform="ref(svg,13516.5104,-3495.6583)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）山西会三田西病院,兵庫県三田市東本庄２０１７,精神科　神経科,,,4" xlink:title="（医）山西会三田西病院" transform="ref(svg,13516.7741,-3495.9057)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,あいの病院,兵庫県三田市東本庄２４９３,内科　精神科　神経科,,,4" xlink:title="あいの病院" transform="ref(svg,13516.18,-3495.1478)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）敬愛会三田温泉病院,兵庫県三田市東山８９７-２,内科　リハビリテーション科,,,4" xlink:title="（医）敬愛会三田温泉病院" transform="ref(svg,13519.14,-3494.187)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,こだま病院,兵庫県宝塚市御殿山１-３-２,内科　外科　整形外科　リハビリテーション科　泌尿器科　脳神経外科　放射線科　消化器内科　糖尿病内科　消化器外科　リウマチ科　救急科,,,4" xlink:title="こだま病院" transform="ref(svg,13534.8458,-3481.626)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,吉川病院,兵庫県三木市吉川町稲田１-２,内科　外科　整形外科　リハビリテーション科　皮膚科,,,4" xlink:title="吉川病院" transform="ref(svg,13512.3616,-3488.7239)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,岡本病院,兵庫県篠山市東吹１０１５-１,内科　外科　整形外科　リハビリテーション科　脳神経外科　皮膚科　泌尿器科　眼科　放射線科　小児科　耳鼻いんこう科　精神科　心臓内科　歯科口腔外科,,,4" xlink:title="岡本病院" transform="ref(svg,13519.7503,-3507.0738)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,山鳥病院,兵庫県篠山市福住３９９,小児科　内科　消化器科　循環器科　呼吸器科　放射線科　麻酔科,,,4" xlink:title="山鳥病院" transform="ref(svg,13533.9342,-3507.1497)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,兵庫医科大学ささやま医療センター,兵庫県篠山市黒岡５,小児科　整形外科　リハビリテーション科　脳神経外科　産婦人科　耳鼻いんこう科　循環器内科　皮膚科　リウマチ科　泌尿器科　眼科　放射線科　麻酔科　精神科　神経内科　呼吸器内科　消化器内科　糖尿病内科　内分泌・代謝内科　消化器外科　乳腺外科　内視鏡外科,ペインクリニック内科　ペインクリニック外科　内視鏡内科　肝臓内科,,6" xlink:title="兵庫医科大学ささやま医療センター" transform="ref(svg,13521.567,-3508.028)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,柏原赤十字病院,兵庫県丹波市柏原町柏原２５９-１,小児科　内科　外科　整形外科　婦人科　眼科　放射線科　歯科口腔外科　リハビリテーション科　呼吸器内科　消化器内科　糖尿病内科　脳神経外科,,,2" xlink:title="柏原赤十字病院" transform="ref(svg,13507.636,-3512.8714)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,兵庫県立柏原病院,兵庫県丹波市柏原町柏原５２０８-１,小児科　内科　外科　整形外科　リハビリテーション科　脳神経外科　消化器内科　泌尿器科　呼吸器内科　産婦人科　耳鼻いんこう科　皮膚科　眼科　放射線科　麻酔科　歯科　循環器内科,,,2" xlink:title="兵庫県立柏原病院" transform="ref(svg,13506.5496,-3512.5961)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）みどり会にしき記念病院,兵庫県篠山市西谷５７５-１,内科　心臓内科　精神科　整形外科　皮膚科　眼科　耳鼻いんこう科　放射線科　神経内科　呼吸器内科　リハビリテーション科　脳神経外科　消化器内科,,,4" xlink:title="（医）みどり会にしき記念病院" transform="ref(svg,13518.0997,-3509.1837)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12796.875 -2671.875 140.625 140.625" go:dataArea="12796.875 -2671.875 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,辻眼科,沖縄県名護市宮里１-２６-１１,眼科,,,6" xlink:title="辻眼科" transform="ref(svg,12797.079,-2659.4298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大北内科胃腸科クリニック,沖縄県名護市大北３-１-４８,内科　胃腸科　リハビリテーション科,,,9" xlink:title="大北内科胃腸科クリニック" transform="ref(svg,12799.596,-2660.1376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,県立北部病院附属古宇利診療所,沖縄県国頭郡今帰仁村古宇利１１８,内科　小児科　外科,,,9" xlink:title="県立北部病院附属古宇利診療所" transform="ref(svg,12801.5618,-2669.8671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）乙羽園医務室,沖縄県国頭郡今帰仁村天底２２２,内科　外科,,,9" xlink:title="（特養）乙羽園医務室" transform="ref(svg,12797.8519,-2667.5503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やんばるの家,沖縄県国頭郡大宜味村字津波１９７１-３５,内科　眼科,,,9" xlink:title="（特養）やんばるの家" transform="ref(svg,12810.7108,-2665.6109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）一心福祉会一心療護園医務室,沖縄県国頭郡大宜味村字田港７４８-１,内科　外科,,,9" xlink:title="（福）一心福祉会一心療護園医務室" transform="ref(svg,12812.7109,-2665.9931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,名護厚生園医務室,沖縄県名護市宮里５-４-２９,内科　精神科,,,9" xlink:title="名護厚生園医務室" transform="ref(svg,12797.1364,-2659.9957)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小堂小児科内科医院,沖縄県名護市字伊差川１２５-１,小児科　内科　アレルギー科　皮膚科,,,9" xlink:title="（医）小堂小児科内科医院" transform="ref(svg,12800.2849,-2661.013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくら眼科,沖縄県名護市字伊差川３１０-１,眼科,,,9" xlink:title="さくら眼科" transform="ref(svg,12800.158,-2661.0242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊差川整形外科,沖縄県名護市字伊差川大又３０９-１,整形外科　リハビリテーション科,,,9" xlink:title="伊差川整形外科" transform="ref(svg,12800.1214,-2660.9588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平安山医院,沖縄県名護市字宇茂佐１７０２-１,内科　小児科,,,9" xlink:title="平安山医院" transform="ref(svg,12797.125,-2660.7287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うりずん診療所,沖縄県名護市字宮里１００４,内科　リウマチ科　小児科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="うりずん診療所" transform="ref(svg,12797.2895,-2660.5044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）国立療養所沖縄愛楽園診療部,沖縄県名護市字済井出１１９２,内科　外科　皮膚科　歯科,,,9" xlink:title="厚生労働省第二（共済）国立療養所沖縄愛楽園診療部" transform="ref(svg,12801.9204,-2667.6602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公社）北部地区医師会久志診療所,沖縄県名護市字三原６４-７,内科　外科　整形外科　リハビリテーション科　小児科　循環器科,,,9" xlink:title="（公社）北部地区医師会久志診療所" transform="ref(svg,12807.0971,-2655.8141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中央外科,沖縄県名護市城１-１-１２,内科　外科　整形外科　胃腸科　リハビリテーション科,,,9" xlink:title="（医）中央外科" transform="ref(svg,12798.2034,-2659.0757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,儀保小児科内科医院,沖縄県名護市大西２-４-３２,内科　小児科,,,9" xlink:title="儀保小児科内科医院" transform="ref(svg,12797.9651,-2659.6069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沖縄県北部保健所,沖縄県名護市大中２-１３-１,内科　小児科　性病科　呼吸器科　歯科,,,9" xlink:title="沖縄県北部保健所" transform="ref(svg,12798.7777,-2659.3422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）運天産婦人科医院,沖縄県名護市大中３-１-５,産科　婦人科　内科　小児科,,,9" xlink:title="（医）運天産婦人科医院" transform="ref(svg,12798.9944,-2659.4947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかち泌尿器科クリニック,沖縄県名護市大中５-４-５０,泌尿器科　皮膚科　外科　内科　整形外科　リハビリテーション科　小児科　性病科　リウマチ科,,,9" xlink:title="なかち泌尿器科クリニック" transform="ref(svg,12799.2052,-2659.6966)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,名嘉眞皮膚科,沖縄県名護市大東１-１０-１３,皮膚科,,,9" xlink:title="名嘉眞皮膚科" transform="ref(svg,12798.5769,-2658.837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なごみ医院,沖縄県名護市大東１-１５-６,心療内科　精神科　内科,,,9" xlink:title="なごみ医院" transform="ref(svg,12798.5909,-2658.995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仲村小児科内科皮フ科医院,沖縄県名護市大東２-２３-３０,内科　小児科　皮膚科,,,9" xlink:title="仲村小児科内科皮フ科医院" transform="ref(svg,12798.7294,-2659.1157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北部山里クリニック,沖縄県名護市大南２-１２-２６,内科　腎臓内科　人工透析内科,,,9" xlink:title="北部山里クリニック" transform="ref(svg,12797.5932,-2659.4158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山城医院,沖縄県名護市大南２-１３-８,内科　外科　整形外科　消化器科　皮膚科　泌尿器科,,,9" xlink:title="山城医院" transform="ref(svg,12797.5649,-2659.4801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,名護皮ふ科,沖縄県名護市大北１-２-３４,皮膚科,,,9" xlink:title="名護皮ふ科" transform="ref(svg,12799.5214,-2660.0089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤嶺内科,沖縄県名護市大北１-５-１１,内科　呼吸器科　胃腸科　循環器科　小児科,,,9" xlink:title="赤嶺内科" transform="ref(svg,12799.2529,-2659.8757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北部皮フ科クリニック,沖縄県名護市大北３-９-７,皮膚科,,,9" xlink:title="北部皮フ科クリニック" transform="ref(svg,12799.4535,-2660.3159)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,崎山クリニック,沖縄県名護市大北４-２６-１０,内科,,,9" xlink:title="崎山クリニック" transform="ref(svg,12798.8479,-2660.6787)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たまき産婦人科,沖縄県名護市大北５-３-４,産科　婦人科,,,9" xlink:title="（医）たまき産婦人科" transform="ref(svg,12798.3141,-2660.4104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大城耳鼻咽喉科医院,沖縄県名護市東江４-４-３,耳鼻咽喉科,,,9" xlink:title="大城耳鼻咽喉科医院" transform="ref(svg,12798.5422,-2658.4946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設瑞穂の郷,沖縄県名護市字親川５７１,内科　外科,,,9" xlink:title="地域密着型介護老人福祉施設瑞穂の郷" transform="ref(svg,12801.511,-2661.6502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大兼久医院,沖縄県名護市城１-１-１３,内科,,,9" xlink:title="大兼久医院" transform="ref(svg,12798.2075,-2659.0497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たいようのクリニック,沖縄県名護市大西３-１５-１,内科　腎臓内科　糖尿病内科　人工透析内科　リウマチ科,,,9" xlink:title="たいようのクリニック" transform="ref(svg,12798.5388,-2659.778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,名護記念クリニック,沖縄県名護市宮里７-２２-３５,耳鼻咽喉科,,,9" xlink:title="名護記念クリニック" transform="ref(svg,12797.5874,-2660.309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やんばる協同クリニック,沖縄県名護市大北５-３-２,内科,,,9" xlink:title="やんばる協同クリニック" transform="ref(svg,12798.3438,-2660.4243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東村立診療所,沖縄県国頭郡東村字平良８０４,内科　外科,,,9" xlink:title="東村立診療所" transform="ref(svg,12815.6875,-2663.3298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あがりえクリニック,沖縄県名護市大東１-５-３４,内科　消化器科　小児科,,,9" xlink:title="あがりえクリニック" transform="ref(svg,12798.7482,-2658.815)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大宜味村立診療所,沖縄県国頭郡大宜味村字塩屋１３０６-６２,内科　外科　皮膚科,,,9" xlink:title="大宜味村立診療所" transform="ref(svg,12810.1113,-2667.7795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みみ・はな・のどゆいクリニック,沖縄県名護市大北５-２２-２５,耳鼻咽喉科　小児科　内科,,,9" xlink:title="みみ・はな・のどゆいクリニック" transform="ref(svg,12798.1369,-2660.7009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アイクリニック敬愛,沖縄県名護市宮里６-４-２１,眼科,,,9" xlink:title="アイクリニック敬愛" transform="ref(svg,12797.3569,-2660.3046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よなみね内科クリニック,沖縄県名護市字宇茂佐１７０５-２５,内科,,,9" xlink:title="よなみね内科クリニック" transform="ref(svg,12796.8758,-2660.6628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,名護市屋我地診療所,沖縄県名護市字饒平名４６０-１,内科　小児科,,,9" xlink:title="名護市屋我地診療所" transform="ref(svg,12801.7267,-2665.7918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）桜風会おおにし医院,沖縄県名護市城２-１０-１６,内科　胃腸内科,,,9" xlink:title="（医）桜風会おおにし医院" transform="ref(svg,12798.4775,-2658.7077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,特別養護老人ホ-ムでいご園医務室,沖縄県国頭郡宜野座村字惣慶１３１６,内科　精神科,,,9" xlink:title="特別養護老人ホ-ムでいご園医務室" transform="ref(svg,12797.0232,-2647.4654)" x="0" y="0"/>
+</g>
+</svg>

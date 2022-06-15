@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12937.5 -3234.375 70.3125 70.3125" go:dataArea="12937.5 -3234.375 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,うしぶか皮膚科・形成外科クリニック,熊本県天草市牛深町１４９８‐２５,アレルギー科　形成外科　皮膚科,,,9" xlink:title="うしぶか皮膚科・形成外科クリニック" transform="ref(svg,13003.0824,-3220.3167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木内科,熊本県天草市牛深町２０６１-２,内科　胃腸科　循環器科,,,9" xlink:title="佐々木内科" transform="ref(svg,13001.6468,-3219.6429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）明照園,熊本県天草市久玉町１２７３-１,内科,,,9" xlink:title="（特養）明照園" transform="ref(svg,13002.8848,-3221.8273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中原医院,熊本県天草市久玉町１３９５,内科,,,9" xlink:title="中原医院" transform="ref(svg,13003.3459,-3221.9225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中邑医院,熊本県天草市久玉町１４１１-１３３,内科　循環器科,,,9" xlink:title="中邑医院" transform="ref(svg,13003.2878,-3221.6565)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本医院,熊本県天草市牛深町２５２５,内科　眼科,,,9" xlink:title="松本医院" transform="ref(svg,13002.3632,-3219.481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本内科・眼科医院,熊本県天草市久玉町５７１６-６,内科　神経内科　循環器科　眼科　リハビリテーション科,,,9" xlink:title="松本内科・眼科医院" transform="ref(svg,13002.7795,-3221.369)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松医院,熊本県天草市久玉町６１,内科　呼吸器科　消化器科　循環器科　リハビリテーション科,,,9" xlink:title="小松医院" transform="ref(svg,13002.8368,-3220.6916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森口医院,熊本県天草市天草町大江７２１４,内科　消化器科,,,9" xlink:title="森口医院" transform="ref(svg,12999.4737,-3232.5299)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）実相園医務室,熊本県天草市河浦町河浦１９７１,内科,,,9" xlink:title="（特養）実相園医務室" transform="ref(svg,13006.5811,-3230.6499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野田医院,熊本県天草市河浦町河浦４７７８-３,内科　神経科　小児科,,,9" xlink:title="野田医院" transform="ref(svg,13007.4982,-3232.7458)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤クリニック,熊本県天草市牛深町３４６０-１０２,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="佐藤クリニック" transform="ref(svg,13002.679,-3219.8409)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）悠ほーむ医務室,熊本県天草市久玉町１４１１-４,内科　循環器科,,,9" xlink:title="（特養）悠ほーむ医務室" transform="ref(svg,13003.2989,-3221.699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こしき園診療所,鹿児島県薩摩川内市上甑町中甑１２３６,内科　外科,,,9" xlink:title="こしき園診療所" transform="ref(svg,12985.9545,-3184.0303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市上甑浦内出張診療所,鹿児島県薩摩川内市上甑町瀬上８２７-５,内科　小児科　整形外科,,,9" xlink:title="薩摩川内市上甑浦内出張診療所" transform="ref(svg,12986.4029,-3186.3383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市上甑平良出張診療所,鹿児島県薩摩川内市上甑町平良２１７-１,内科　小児科　整形外科,,,9" xlink:title="薩摩川内市上甑平良出張診療所" transform="ref(svg,12984.1472,-3180.1681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市下甑青瀬診療所,鹿児島県薩摩川内市下甑町青瀬６０５,内科　小児科,,,9" xlink:title="薩摩川内市下甑青瀬診療所" transform="ref(svg,12972.5427,-3167.2767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市下甑内川内出張診療所,鹿児島県薩摩川内市下甑町瀬々野浦１７３９,内科　小児科,,,9" xlink:title="薩摩川内市下甑内川内出張診療所" transform="ref(svg,12969.4011,-3169.0633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市下甑片野浦出張診療所,鹿児島県薩摩川内市下甑町片野浦３９１-１,内科,,,9" xlink:title="薩摩川内市下甑片野浦出張診療所" transform="ref(svg,12969.1527,-3166.1328)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市下甑瀬々野浦診療所,鹿児島県薩摩川内市下甑町瀬々野浦１１９５,内科,,,9" xlink:title="薩摩川内市下甑瀬々野浦診療所" transform="ref(svg,12969.4011,-3169.0633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）寿里苑医務室,鹿児島県薩摩川内市里村里１６２１-１,内科,,,9" xlink:title="（特養）寿里苑医務室" transform="ref(svg,12991.8345,-3184.3087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鹿島園診療所,鹿児島県薩摩川内市鹿島町藺牟田１４４３-１,内科,,,9" xlink:title="鹿島園診療所" transform="ref(svg,12978.936,-3177.773)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,航空自衛隊下甑島分屯基地医務室,鹿児島県薩摩川内市下甑町長浜無番地,内科,,,9" xlink:title="航空自衛隊下甑島分屯基地医務室" transform="ref(svg,12972.7803,-3171.5611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市鹿島診療所,鹿児島県薩摩川内市鹿島町藺牟田１５３０-６,内科　歯科,,,9" xlink:title="薩摩川内市鹿島診療所" transform="ref(svg,12979.1023,-3177.5857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市上甑診療所,鹿児島県薩摩川内市上甑町中甑４９０-１,内科　眼科　歯科,,,9" xlink:title="薩摩川内市上甑診療所" transform="ref(svg,12986.7741,-3183.5539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市里診療所,鹿児島県薩摩川内市里町里１９２２,内科　歯科,,,9" xlink:title="薩摩川内市里診療所" transform="ref(svg,12991.8576,-3184.3548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市下甑長浜診療所,鹿児島県薩摩川内市下甑町長浜８-３,内科　小児科,,,9" xlink:title="薩摩川内市下甑長浜診療所" transform="ref(svg,12973.8343,-3169.9043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,薩摩川内市（社協）甑島敬老園診療所,鹿児島県薩摩川内市下甑町長浜１１９５,内科,,,9" xlink:title="薩摩川内市（社協）甑島敬老園診療所" transform="ref(svg,12973.8984,-3170.6189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村永医院,鹿児島県薩摩川内市上甑町中甑３３５-１,内科,,,9" xlink:title="村永医院" transform="ref(svg,12986.4477,-3183.5188)" x="0" y="0"/>
+</g>
+</svg>

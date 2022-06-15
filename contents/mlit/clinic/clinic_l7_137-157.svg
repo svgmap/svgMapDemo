@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13816.40625 -3480.46875 35.15625 35.15625" go:dataArea="13816.40625 -3480.46875 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,藤本外科医院,静岡県島田市南原２６６,外科　整形外科　麻酔科,,,9" xlink:title="藤本外科医院" transform="ref(svg,13822.6843,-3479.2308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田代クリニック,静岡県島田市井口１０７７-２,内科　心療内科　精神科　神経科,,,9" xlink:title="田代クリニック" transform="ref(svg,13823.3546,-3479.8266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,初倉クリニック,静岡県島田市南原８５-１,内科　アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="初倉クリニック" transform="ref(svg,13822.4467,-3479.594)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大井川睦園診療所,静岡県焼津市高新田２３２６-５８,内科,,,9" xlink:title="大井川睦園診療所" transform="ref(svg,13831.2729,-3480.2123)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たきいクリニック,静岡県焼津市相川１２１５-２,内科　アレルギー科　小児科,,,9" xlink:title="たきいクリニック" transform="ref(svg,13826.6568,-3480.4389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田医院,静岡県焼津市利右衛門９７２-１,内科　胃腸科　外科,,,9" xlink:title="吉田医院" transform="ref(svg,13829.5121,-3479.1257)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,老人ホーム相寿園診療所,静岡県牧之原市菅ケ谷１０４２,内科,,,9" xlink:title="老人ホーム相寿園診療所" transform="ref(svg,13818.9009,-3469.3585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榛原医師会健診センター,静岡県牧之原市静波１６９９-１５,内科,,,9" xlink:title="榛原医師会健診センター" transform="ref(svg,13823.1732,-3473.9157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかほりクリニック,静岡県牧之原市片浜８７３-２,内科　小児科　産婦人科　女性内科,,,9" xlink:title="あかほりクリニック" transform="ref(svg,13821.5791,-3471.8652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤堀整形外科医院,静岡県牧之原市細江１０４１-１０,内科　整形外科　リハビリテーション科,,,9" xlink:title="赤堀整形外科医院" transform="ref(svg,13823.36,-3474.9631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渥美医院,静岡県牧之原市波津１-４１-１,内科　呼吸器科　胃腸科　循環器科　小児科,,,9" xlink:title="渥美医院" transform="ref(svg,13819.3419,-3468.318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井眼科医院,静岡県牧之原市細江１５０７-５,眼科,,,9" xlink:title="石井眼科医院" transform="ref(svg,13823.9066,-3474.8211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井内科皮膚科医院,静岡県牧之原市静波２４８,内科　小児科　皮膚科　消化器内科,,,9" xlink:title="石井内科皮膚科医院" transform="ref(svg,13822.4399,-3474.2746)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,酒井内科医院,静岡県牧之原市地頭方１-１５３-２,内科　消化器科,,,9" xlink:title="酒井内科医院" transform="ref(svg,13818.9404,-3463.3796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐故医院,静岡県牧之原市静波４６１-１,内科　胃腸科　外科　リハビリテーション科,,,9" xlink:title="佐故医院" transform="ref(svg,13822.4345,-3474.1197)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高木内科医院,静岡県牧之原市静波９００,内科,,,9" xlink:title="高木内科医院" transform="ref(svg,13822.2143,-3473.6537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田形内科医院,静岡県牧之原市片浜１０８４-２,内科　心療内科　小児科　リハビリテーション科,,,9" xlink:title="田形内科医院" transform="ref(svg,13821.4548,-3471.3672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村医院耳鼻咽喉科歯科,静岡県牧之原市波津２-１１７,耳鼻いんこう科　歯科　小児歯科,,,9" xlink:title="中村医院耳鼻咽喉科歯科" transform="ref(svg,13819.3021,-3468.5026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ねぎクリニック,静岡県牧之原市静波２１４０-１,内科　精神科,,,9" xlink:title="ねぎクリニック" transform="ref(svg,13822.6138,-3473.391)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はいばら泌尿器科クリニック,静岡県牧之原市静谷５７５-１,泌尿器科,,,9" xlink:title="はいばら泌尿器科クリニック" transform="ref(svg,13819.1761,-3476.097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,廣瀬医院,静岡県牧之原市相良１７４-１,内科　呼吸器科　胃腸科　循環器科　小児科　外科　整形外科　こう門科,,,9" xlink:title="廣瀬医院" transform="ref(svg,13820.2299,-3468.7562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤本クリニック,静岡県牧之原市細江４４３６-１,内科　循環器科,,,9" xlink:title="藤本クリニック" transform="ref(svg,13823.0369,-3474.851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤原整形外科,静岡県牧之原市地頭方２２０-１,内科　整形外科　リハビリテーション科,,,9" xlink:title="藤原整形外科" transform="ref(svg,13819.2719,-3463.5863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀口外科医院,静岡県牧之原市大沢６１７-１,呼吸器科　胃腸科　外科　整形外科　こう門科,,,9" xlink:title="堀口外科医院" transform="ref(svg,13819.3008,-3468.852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺内科医院,静岡県牧之原市大沢３２９-１,内科　呼吸器科　胃腸科　小児科　皮膚科,,,9" xlink:title="渡辺内科医院" transform="ref(svg,13819.1597,-3469.4427)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＮＯＫ（株）静岡事業場診療所,静岡県牧之原市地頭方５９０-１,内科,,,9" xlink:title="ＮＯＫ（株）静岡事業場診療所" transform="ref(svg,13818.2335,-3462.9386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）小糸製作所相良工場診療所,静岡県牧之原市菅ケ谷９３３-１,内科,,,9" xlink:title="（株）小糸製作所相良工場診療所" transform="ref(svg,13818.5091,-3469.421)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）小糸製作所榛原工場診療所,静岡県牧之原市坂部３４０７,内科,,,9" xlink:title="（株）小糸製作所榛原工場診療所" transform="ref(svg,13822.7489,-3477.278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,スズキ（株）相良工場医務室,静岡県牧之原市白井１１１１,内科　小児科,,,9" xlink:title="スズキ（株）相良工場医務室" transform="ref(svg,13817.4768,-3473.468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＴＤＫ（株）静岡工場診療所,静岡県牧之原市女神３１-１,内科　外科　歯科,,,9" xlink:title="ＴＤＫ（株）静岡工場診療所" transform="ref(svg,13818.649,-3470.8692)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）うたしあ医務室,静岡県牧之原市道場４３,内科　精神科,,,9" xlink:title="（特養）うたしあ医務室" transform="ref(svg,13821.7828,-3473.0077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）海山荘医務室,静岡県牧之原市片浜１０１３-１,内科,,,9" xlink:title="（特養）海山荘医務室" transform="ref(svg,13821.2583,-3471.8035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）グレイス医務室,静岡県牧之原市坂部５６２３-１,内科　整形外科,,,9" xlink:title="（特養）グレイス医務室" transform="ref(svg,13819.5739,-3477.8157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）聖ルカホーム診療所,静岡県牧之原市静谷２２６７-１,内科　精神科　心療内科,,,9" xlink:title="（特養）聖ルカホーム診療所" transform="ref(svg,13818.0161,-3475.9767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,牧ノ原やまばと学園診療所,静岡県牧之原市坂部２１５１-２,内科　小児科　精神科　心療内科,,,9" xlink:title="牧ノ原やまばと学園診療所" transform="ref(svg,13822.6447,-3477.8629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊東クリニック,静岡県牧之原市坂部３９４２-１,内科　小児科　外科,,,9" xlink:title="伊東クリニック" transform="ref(svg,13821.2492,-3477.6493)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えんどうこどもクリニック,静岡県牧之原市細江１４９５-２,小児科,,,9" xlink:title="えんどうこどもクリニック" transform="ref(svg,13823.9575,-3474.8464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小田医院,静岡県牧之原市相良１６５,内科　外科,,,9" xlink:title="小田医院" transform="ref(svg,13820.1785,-3468.6912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サガラ眼科,静岡県牧之原市大沢１-２９,眼科,,,9" xlink:title="サガラ眼科" transform="ref(svg,13819.0216,-3468.7595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉井整形外科医院,静岡県牧之原市細江３２０６-１,整形外科　リハビリテーション科,,,9" xlink:title="玉井整形外科医院" transform="ref(svg,13823.9708,-3475.858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしだ眼科,静岡県榛原郡吉田町住吉４２７-１,眼科,,,9" xlink:title="いしだ眼科" transform="ref(svg,13825.5409,-3476.5341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤内科医院,静岡県榛原郡吉田町住吉３０３-１,内科　胃腸内科　循環器内科　内分泌代謝科　糖尿病内科　老年内科,,,9" xlink:title="加藤内科医院" transform="ref(svg,13825.3038,-3476.7372)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川田医院,静岡県榛原郡吉田町住吉２４４４,内科　小児科　外科,,,9" xlink:title="川田医院" transform="ref(svg,13825.1815,-3475.7301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかい耳鼻咽喉科医院,静岡県榛原郡吉田町片岡１７５３-１２,耳鼻いんこう科,,,9" xlink:title="さかい耳鼻咽喉科医院" transform="ref(svg,13825.7959,-3476.3043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田-ｱクリニック,静岡県榛原郡吉田町神戸２４-１５,内科　外科　脳神経外科,,,9" xlink:title="田-ｱクリニック" transform="ref(svg,13825.5253,-3478.5991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳山整形外科,静岡県榛原郡吉田町片岡１９５４-１１,整形外科,,,9" xlink:title="徳山整形外科" transform="ref(svg,13825.6519,-3477.0243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三輪クリニック,静岡県榛原郡吉田町片岡２９９-１,内科　胃腸科　循環器科　小児科　泌尿器科,,,9" xlink:title="三輪クリニック" transform="ref(svg,13825.3386,-3478.1069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＡＧＣテクノグラス（株）静岡工場健康管理室,静岡県榛原郡吉田町川尻３５８３-５,内科　外科,,,9" xlink:title="ＡＧＣテクノグラス（株）静岡工場健康管理室" transform="ref(svg,13827.7919,-3477.2748)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富士フィルム（株）吉田南工場健康管理室,静岡県榛原郡吉田町川尻４０００,内科,,,9" xlink:title="富士フィルム（株）吉田南工場健康管理室" transform="ref(svg,13826.6945,-3477.9344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,住吉杉の子園診療室,静岡県榛原郡吉田町住吉３２３９,内科　精神科　神経科　歯科　歯科口腔外科,,,9" xlink:title="住吉杉の子園診療室" transform="ref(svg,13825.1343,-3475.2358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）片岡杉の子園医務室,静岡県榛原郡吉田町片岡２８９５,内科,,,9" xlink:title="（特養）片岡杉の子園医務室" transform="ref(svg,13824.1391,-3477.2052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡野内科医院,静岡県榛原郡吉田町住吉３７９-１,内科　呼吸器科　胃腸科　循環器科　小児科,,,9" xlink:title="岡野内科医院" transform="ref(svg,13825.6093,-3476.5978)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小田原産婦人科医院,静岡県榛原郡吉田町住吉２０７６-１,内科　小児科　産婦人科,,,9" xlink:title="小田原産婦人科医院" transform="ref(svg,13825.7172,-3475.9146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こどもクリニックおおかわ小児科,静岡県榛原郡吉田町神戸２００１-２,小児科,,,9" xlink:title="こどもクリニックおおかわ小児科" transform="ref(svg,13823.6963,-3478.5928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千内科クリニック,静岡県榛原郡吉田町神戸２０６７-１０,内科　糖尿病内科,,,9" xlink:title="千内科クリニック" transform="ref(svg,13823.9491,-3478.4395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,半田医院,静岡県榛原郡吉田町片岡２１４５-１,内科　小児科　外科,,,9" xlink:title="半田医院" transform="ref(svg,13825.113,-3477.5148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,マスダクリニック,静岡県榛原郡吉田町川尻１４０９-１,内科　小児科　歯科　矯正歯科,,,9" xlink:title="マスダクリニック" transform="ref(svg,13826.6309,-3476.5858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,座光寺医院,静岡県御前崎市白羽５２４３-３,内科　小児科　消化器内科,,,9" xlink:title="座光寺医院" transform="ref(svg,13820.1281,-3461.0645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）灯光園診療所,静岡県御前崎市御前崎３５-３７,内科,,,9" xlink:title="（特養）灯光園診療所" transform="ref(svg,13822.2865,-3460.0588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永尾内科・循環器科医院,静岡県御前崎市御前崎５４-９,内科　循環器科,,,9" xlink:title="永尾内科・循環器科医院" transform="ref(svg,13821.9248,-3460.0803)" x="0" y="0"/>
+</g>
+</svg>

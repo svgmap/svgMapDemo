@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14027.34375 -3585.9375 35.15625 35.15625" go:dataArea="14027.34375 -3585.9375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,麻野クリニック,千葉県成田市三里塚御料１-１３７６,内科　小児科　皮膚科　産婦人科,,,9" xlink:title="麻野クリニック" transform="ref(svg,14036.8651,-3574.7743)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）英正会アジサイ眼科,千葉県成田市ウイング土屋２４イオン成田ショッピングセンター２階,眼科,,,9" xlink:title="（医）英正会アジサイ眼科" transform="ref(svg,14031.8543,-3579.5662)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）七風会あづま醫院,千葉県富里市七栄６４６-７８６,内科　胃腸科　外科　小児外科,,,9" xlink:title="（医）七風会あづま醫院" transform="ref(svg,14033.3681,-3573.5937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あけぼの会淡路ウイメンズクリニック,千葉県八街市八街ほ８２１-１,婦人科,,,9" xlink:title="（医）あけぼの会淡路ウイメンズクリニック" transform="ref(svg,14030.5385,-3566.0653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,囲護台アイクリニック,千葉県成田市囲護台２-１-２,眼科,,,9" xlink:title="囲護台アイクリニック" transform="ref(svg,14031.0184,-3577.8016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊在井整形外科,千葉県成田市本城１４４-２,内科　リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="伊在井整形外科" transform="ref(svg,14036.8137,-3574.105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしいクリニック,千葉県成田市ウイング土屋１６３,内科　小児科　皮膚科　泌尿器科　産科　婦人科,,,9" xlink:title="いしいクリニック" transform="ref(svg,14032.3095,-3579.4307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしがみ医院,千葉県成田市公津の杜２-１７-７,胃腸科　循環器科　外科　リハビリテーション科,,,9" xlink:title="いしがみ医院" transform="ref(svg,14030.051,-3576.1405)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鋭友会石川医院,千葉県成田市並木町１４３-９７,内科　消化器科　外科　整形外科　肛門科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="（医）鋭友会石川医院" transform="ref(svg,14030.8815,-3575.217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石原医院,千葉県成田市東町１５７-２,内科　小児科　呼吸器科,,,9" xlink:title="石原医院" transform="ref(svg,14032.2633,-3577.9885)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伊藤医院,千葉県成田市本三里塚７８-３,内科　消化器内科　小児科　外科　整形外科,,,9" xlink:title="（医）伊藤医院" transform="ref(svg,14037.6178,-3574.6541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いとうこどもクリニック,千葉県成田市美郷台１-１５-８,小児科,,,9" xlink:title="いとうこどもクリニック" transform="ref(svg,14031.1206,-3579.1163)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰仁会成田西クリニック,千葉県成田市飯田町９-１０２アプリコーゼ２０４,内科　精神科,,,9" xlink:title="（医）泰仁会成田西クリニック" transform="ref(svg,14030.437,-3576.2346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩沢クリニック,千葉県成田市飯田町１５４-８,産婦人科,,,9" xlink:title="岩沢クリニック" transform="ref(svg,14029.9225,-3577.0915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,印旛保健所成田支所,千葉県成田市加良部３-３-１,内科　小児科,,,9" xlink:title="印旛保健所成田支所" transform="ref(svg,14030.5832,-3577.8321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＡＮＡ成田エアポートサービス（株）グループ健康管理室,千葉県成田市木の根３８,内科　精神科,,,9" xlink:title="ＡＮＡ成田エアポートサービス（株）グループ健康管理室" transform="ref(svg,14038.8519,-3577.384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榎戸クリニック,千葉県八街市榎戸５５８-１,内科　呼吸器科　循環器科　小児科,,,9" xlink:title="榎戸クリニック" transform="ref(svg,14029.0458,-3568.7751)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あけぼの会遠藤内科医院,千葉県八街市八街ほ８３６-２,内科　胃腸科,,,9" xlink:title="（医）あけぼの会遠藤内科医院" transform="ref(svg,14030.6023,-3566.0056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大田クリニック,千葉県成田市ウイング土屋１４１,内科　胃腸科　循環器科,,,9" xlink:title="大田クリニック" transform="ref(svg,14032.5046,-3579.3138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡崎医院,千葉県成田市吉岡１５-２,内科　小児科　外科,,,9" xlink:title="岡崎医院" transform="ref(svg,14041.1682,-3582.7628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥秋内科医院,千葉県八街市文違３０１-８０６,内科　循環器科,,,9" xlink:title="奥秋内科医院" transform="ref(svg,14031.2743,-3567.6185)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小倉医院,千葉県成田市寺台字保目４３１-１,内科　循環器科　外科,,,9" xlink:title="小倉医院" transform="ref(svg,14032.746,-3578.6396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尾-ｱクリニック,千葉県成田市玉造７-２４-４,産婦人科,,,9" xlink:title="尾-ｱクリニック" transform="ref(svg,14029.087,-3579.233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）麗郷会小田内科医院,千葉県成田市玉造４-４２-３,内科　小児科,,,9" xlink:title="（医）麗郷会小田内科医院" transform="ref(svg,14028.5124,-3579.1013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）開拓診療所,千葉県八街市文違７３-２,内科　皮膚科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（福）開拓診療所" transform="ref(svg,14031.9898,-3568.3735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀生会粕谷内科医院,千葉県八街市八街ほ２３４-１５,内科　循環器科　小児科,,,9" xlink:title="（医）秀生会粕谷内科医院" transform="ref(svg,14031.4846,-3566.3184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）稲林会片岡内科循環器科医院,千葉県成田市玉造７-２４-２,内科　循環器科,,,9" xlink:title="（医）稲林会片岡内科循環器科医院" transform="ref(svg,14029.1056,-3579.2496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）優潤会かなめ整形外科,千葉県富里市日吉台１-１１-１３,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）優潤会かなめ整形外科" transform="ref(svg,14032.2688,-3577.2657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）ＪＡＬグランドサービス成田支店診療所,千葉県成田市古込字古込１-１,内科,,,9" xlink:title="（株）ＪＡＬグランドサービス成田支店診療所" transform="ref(svg,14038.6001,-3577.7485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）ティエフケー医務室,千葉県成田市古込１４１,内科　心療内科　精神科　循環器科　外科,,,9" xlink:title="（株）ティエフケー医務室" transform="ref(svg,14038.5272,-3576.9035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真門会かまだ整形外科,千葉県八街市八街ほ２１５-１３９,整形外科　リハビリテーション科,,,9" xlink:title="（医）真門会かまだ整形外科" transform="ref(svg,14031.2542,-3566.4301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慶翔会川島整形外科,千葉県成田市公津の杜１-２４-７,整形外科　リハビリテーション科,,,9" xlink:title="（医）慶翔会川島整形外科" transform="ref(svg,14029.9081,-3576.3651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徳進会木下医院,千葉県成田市公津の杜５-２８-１,内科　消化器科　小児科　放射線科,,,9" xlink:title="（医）徳進会木下医院" transform="ref(svg,14028.7853,-3575.7489)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京増内科クリニック,千葉県成田市花崎町８４２-３,内科　消化器科,,,9" xlink:title="京増内科クリニック" transform="ref(svg,14031.5295,-3577.8906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）國手会空港クリニック,千葉県成田市三里塚御料牧場１,内科　小児科　整形外科,,,9" xlink:title="（医）國手会空港クリニック" transform="ref(svg,14038.4597,-3576.4108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒須医院,千葉県富里市十倉４４,内科　小児科,,,9" xlink:title="黒須医院" transform="ref(svg,14034.805,-3568.9734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）昭文会黒田内科診療所,千葉県成田市加良部１-３-２,内科　呼吸器科　消化器科　循環器科　形成外科　皮膚科,,,9" xlink:title="（医）昭文会黒田内科診療所" transform="ref(svg,14029.6416,-3577.715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,公津の杜メディカルクリニック,千葉県成田市飯田町１２４-３,内科　外科　小児科　乳腺外科,,,9" xlink:title="公津の杜メディカルクリニック" transform="ref(svg,14029.6753,-3576.4309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黄内科,千葉県成田市飯田町１３６-４２,内科,,,9" xlink:title="黄内科" transform="ref(svg,14030.0789,-3576.6772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）国保医院,千葉県成田市玉造４-４２-２,心療内科　精神科　神経科　脳神経外科,,,9" xlink:title="（医）国保医院" transform="ref(svg,14028.554,-3579.126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,財務省（共済）東京税関支部成田税関支署診療所,千葉県成田市古込１-１新東京国際空港第２ターミナルビル内,内科　歯科,,,9" xlink:title="財務省（共済）東京税関支部成田税関支署診療所" transform="ref(svg,14038.8492,-3577.389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐久間皮ふ科,千葉県成田市馬橋４-２５,皮膚科,,,9" xlink:title="（医）佐久間皮ふ科" transform="ref(svg,14031.2201,-3577.8837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐久間皮ふ科はなのき台分院,千葉県成田市はなのき台１-２２-１０,皮膚科,,,9" xlink:title="（医）佐久間皮ふ科はなのき台分院" transform="ref(svg,14028.5154,-3577.8629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）江正会桜田内科,千葉県成田市公津の杜２-２７-１,内科,,,9" xlink:title="（医）江正会桜田内科" transform="ref(svg,14029.7652,-3575.9488)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笹山眼科医院,千葉県富里市日吉台２-９１-６和光ビル２Ｆ,眼科,,,9" xlink:title="笹山眼科医院" transform="ref(svg,14032.0333,-3577.4012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとみ皮膚科クリニック,千葉県成田市公津の杜２-１４-３キュアフォレスト１０２,皮膚科,,,9" xlink:title="さとみ皮膚科クリニック" transform="ref(svg,14029.737,-3576.0518)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,椎名皮膚科形成外科,千葉県成田市吾妻３-５０-２,形成外科　皮膚科,,,9" xlink:title="椎名皮膚科形成外科" transform="ref(svg,14028.5048,-3578.6282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁香会しすい眼科医院,千葉県印旛郡酒々井町中央台２-１８-１８,眼科,,,9" xlink:title="（医）仁香会しすい眼科医院" transform="ref(svg,14027.4048,-3573.201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しすい皮膚科,千葉県印旛郡酒々井町東酒々井１-１-１２１,形成外科　皮膚科,,,9" xlink:title="しすい皮膚科" transform="ref(svg,14027.5532,-3573.0376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設コスモ・ヴィレッジ,千葉県八街市滝台７３９-３,内科,,,9" xlink:title="障害者支援施設コスモ・ヴィレッジ" transform="ref(svg,14031.7743,-3559.8383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小児科川辺医院,千葉県成田市加良部１-５-２,小児科,,,9" xlink:title="小児科川辺医院" transform="ref(svg,14029.6955,-3577.7105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,シロアム会田中稔眼科,千葉県成田市囲護台１-４-３フィールドホーム第４ビル１階,眼科,,,9" xlink:title="シロアム会田中稔眼科" transform="ref(svg,14031.2268,-3577.7051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千葉光徳会すいかクリニック,千葉県富里市七栄７４３,内科　循環器科　リハビリテーション科,,,9" xlink:title="（医）千葉光徳会すいかクリニック" transform="ref(svg,14034.2585,-3572.9364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）百樹会菅谷クリニック,千葉県成田市馬橋１-１７,内科　胃腸科　外科　肛門科,,,9" xlink:title="（医）百樹会菅谷クリニック" transform="ref(svg,14031.2047,-3577.8061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木クリニック,千葉県八街市八街ほ２６５,内科　麻酔科,,,9" xlink:title="鈴木クリニック" transform="ref(svg,14031.8243,-3565.9173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）丸二会鈴木整形外科内科医院,千葉県印旛郡栄町竜角寺台５-２７-１,内科　整形外科　リハビリテーション科,,,9" xlink:title="（医）丸二会鈴木整形外科内科医院" transform="ref(svg,14028.4254,-3582.8461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木ヒフ科,千葉県成田市上町６７４,皮膚科,,,9" xlink:title="鈴木ヒフ科" transform="ref(svg,14031.699,-3578.1322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木ヒフ科,千葉県成田市上町５１８-２,皮膚科,,,9" xlink:title="鈴木ヒフ科" transform="ref(svg,14031.6985,-3578.1334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,生活クラブ風の村特養ホーム八街医務室,千葉県八街市東吉田９１２-８,内科,,,9" xlink:title="生活クラブ風の村特養ホーム八街医務室" transform="ref(svg,14029.2603,-3563.8706)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関医院,千葉県八街市八街に１１３-６,小児科　内科　皮膚科,,,9" xlink:title="関医院" transform="ref(svg,14032.0473,-3565.9294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）七風会せきねこどもクリニック,千葉県富里市七栄６４６-７８６,アレルギー科　小児科,,,9" xlink:title="（医）七風会せきねこどもクリニック" transform="ref(svg,14033.3509,-3573.5997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖母会セントマリアクリニック,千葉県成田市花崎町７９９-７ホクセイビル１階,内科　心療内科　精神科　神経科,,,9" xlink:title="（医）聖母会セントマリアクリニック" transform="ref(svg,14031.9434,-3577.5791)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高瀬眼科,千葉県八街市八街に１２１-４３,眼科,,,9" xlink:title="高瀬眼科" transform="ref(svg,14032.0497,-3566.2021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成橘会橘医院,千葉県成田市上町６６９,耳鼻いんこう科,,,9" xlink:title="（医）成橘会橘医院" transform="ref(svg,14031.6633,-3578.1799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）丁字会たちばなクリニック,千葉県成田市公津の杜２-２１-１,耳鼻いんこう科,,,9" xlink:title="（医）丁字会たちばなクリニック" transform="ref(svg,14029.7945,-3575.9929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成蘭会立花・真鍋医院,千葉県成田市橋賀台１-１５-４,皮膚科　泌尿器科　内科　消化器科,,,9" xlink:title="（医）成蘭会立花・真鍋医院" transform="ref(svg,14029.121,-3577.1502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）知己会龍岡クリニック,千葉県富里市七栄６５３-７３,内科　呼吸器科　循環器科　小児科　整形外科,,,9" xlink:title="（医）知己会龍岡クリニック" transform="ref(svg,14033.6279,-3572.5674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）瞳治会たもつ眼科,千葉県成田市公津の杜２-１７-５,眼科,,,9" xlink:title="（医）瞳治会たもつ眼科" transform="ref(svg,14030.0467,-3576.165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）清郷会知的障害者更正施設十倉厚生園,千葉県富里市十倉２４４３,内科,,,9" xlink:title="（福）清郷会知的障害者更正施設十倉厚生園" transform="ref(svg,14033.5269,-3568.1386)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（財）日本予防医学協会千葉健診診療所,千葉県成田市古込１-１成田国際空港内日本航空成田オペレーションセンター３階,内科,,,9" xlink:title="（財）日本予防医学協会千葉健診診療所" transform="ref(svg,14039.0271,-3577.038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つかだファミリークリニック,千葉県成田市加良部５-７-２,内科　外科　循環器内科　消化器内科,,,9" xlink:title="（医）つかだファミリークリニック" transform="ref(svg,14029.982,-3577.3794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土屋フレッシュ眼科,千葉県成田市ウイング土屋７５,眼科,,,9" xlink:title="土屋フレッシュ眼科" transform="ref(svg,14031.9322,-3579.4389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＴＤＫ（株）成田診療所,千葉県成田市南羽鳥５７０-２,内科　外科　整形外科　歯科,,,9" xlink:title="ＴＤＫ（株）成田診療所" transform="ref(svg,14029.7003,-3583.1367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明生会東葉クリニック・エアポート泌尿器科,千葉県富里市七栄１２７-１０,消化器外科　胃腸外科　外科　泌尿器科（人工透析）　泌尿器科,,,9" xlink:title="（医）明生会東葉クリニック・エアポート泌尿器科" transform="ref(svg,14031.7271,-3573.8217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明生会東葉クリニック八街,千葉県八街市八街ほ２３０-７０,消化器外科　胃腸外科　外科　泌尿器科　泌尿器科（人工透析）,,,9" xlink:title="（医）明生会東葉クリニック八街" transform="ref(svg,14031.7809,-3566.1747)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）九十九荘,千葉県富里市立沢新田１９２-１６,内科,,,9" xlink:title="（特養）九十九荘" transform="ref(svg,14034.112,-3571.6432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）空医務室,千葉県八街市八街ほ２０８-２３,内科,,,9" xlink:title="（特養）空医務室" transform="ref(svg,14030.6977,-3567.0147)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）成田苑医務室,千葉県成田市大室１７８３-２２,内科,,,9" xlink:title="（特養）成田苑医務室" transform="ref(svg,14038.7014,-3581.6713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）すはま会（特養）蓬莱の杜医務室,千葉県成田市川栗字大留８４２-４,内科　小児科,,,9" xlink:title="（福）すはま会（特養）蓬莱の杜医務室" transform="ref(svg,14035.7617,-3576.3962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）コート・エミナース,千葉県八街市滝台７３９-２,内科,,,9" xlink:title="（特養）コート・エミナース" transform="ref(svg,14031.7743,-3559.8383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長寿園医務室,千葉県成田市長沼字長津１６００,内科　整形外科,,,9" xlink:title="（特養）長寿園医務室" transform="ref(svg,14030.0211,-3583.0504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）玲光苑,千葉県成田市押畑８９６-４,内科,,,9" xlink:title="（特養）玲光苑" transform="ref(svg,14030.7192,-3580.1488)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）戸村内科クリニック,千葉県富里市御料葉山９２３-１１,内科　リウマチ科,,,9" xlink:title="（医）戸村内科クリニック" transform="ref(svg,14035.3992,-3572.8119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鳥居耳鼻咽喉科医院,千葉県成田市吾妻３-４９-１,耳鼻いんこう科,,,9" xlink:title="鳥居耳鼻咽喉科医院" transform="ref(svg,14028.4697,-3578.6278)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明江会鳥居内科医院,千葉県成田市吾妻３-４９-１,内科　アレルギー科,,,9" xlink:title="（医）明江会鳥居内科医院" transform="ref(svg,14028.4704,-3578.636)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中島医院,千葉県成田市中台６-２-１,胃腸科　小児科　外科,,,9" xlink:title="（医）中島医院" transform="ref(svg,14029.9888,-3578.4091)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中原医院,千葉県富里市十倉５９榎３１３-９６,内科　泌尿器科　外科,,,9" xlink:title="中原医院" transform="ref(svg,14036.5281,-3571.4555)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健裕会なかまち泌尿器科クリニック,千葉県成田市公津の杜２-２７-５キュア・ファレスト-U２０２,泌尿器科,,,9" xlink:title="（医）健裕会なかまち泌尿器科クリニック" transform="ref(svg,14029.7903,-3575.8947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）英正会なのはな眼科・内科,千葉県富里市七栄獅子穴６４９-５５ナリタヤ富里店テナント棟,眼科　内科,,,9" xlink:title="（医）英正会なのはな眼科・内科" transform="ref(svg,14033.4577,-3574.1128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）木犀会なのはなクリニック,千葉県成田市吉岡１３４２-７,内科　アレルギー科　小児科　皮膚科,,,9" xlink:title="（医）木犀会なのはなクリニック" transform="ref(svg,14039.4806,-3581.2643)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成田アイクリニック,千葉県成田市赤坂２-１-１０ボンベルタ成田５Ｆ,眼科,,,9" xlink:title="成田アイクリニック" transform="ref(svg,14029.0632,-3577.8146)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成田眼科クリニック,千葉県成田市囲護台１-２-２５,眼科,,,9" xlink:title="成田眼科クリニック" transform="ref(svg,14031.1082,-3577.6733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成田空港検疫所診察室,千葉県成田市古込１-１,内科,,,9" xlink:title="成田空港検疫所診察室" transform="ref(svg,14038.8224,-3577.3485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成田市急病診療所,千葉県成田市赤坂１-３-１,内科　小児科　外科　歯科,,,9" xlink:title="成田市急病診療所" transform="ref(svg,14029.0564,-3578.2012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成田市国保大栄診療所,千葉県成田市吉岡２８９-１,内科　外科　眼科,,,9" xlink:title="成田市国保大栄診療所" transform="ref(svg,14041.1911,-3582.3805)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠富会成田整形外科,千葉県成田市橋賀台１-１５-２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）誠富会成田整形外科" transform="ref(svg,14029.087,-3577.1148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ＤＭ会成田センタークリニック,千葉県成田市囲護台２-５-８,内科,,,9" xlink:title="（医）ＤＭ会成田センタークリニック" transform="ref(svg,14030.9055,-3577.7688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成田美容皮膚科,千葉県成田市上町５４６-１表参道石川ビル２階,皮膚科　美容皮膚科　美容外科　形成外科,,,9" xlink:title="成田美容皮膚科" transform="ref(svg,14031.706,-3578.0089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしだクリニック富里,千葉県富里市七栄４２０-１,内科　形成外科　皮膚科,,,9" xlink:title="にしだクリニック富里" transform="ref(svg,14032.9081,-3573.779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本医科大学成田国際空港クリニック,千葉県成田市古込１-１成田国際空港第２旅客ターミナルビル地下１階,内科　外科　眼科,,,9" xlink:title="日本医科大学成田国際空港クリニック" transform="ref(svg,14038.8442,-3577.3656)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日本航空成田オペレーションセンター医務室,千葉県成田市古込字古込１-１,内科　神経科　整形外科　眼科　耳鼻いんこう科　リハビリテーション科,,,9" xlink:title="日本航空成田オペレーションセンター医務室" transform="ref(svg,14038.6001,-3577.7485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のもと耳鼻咽喉科気管食道科,千葉県富里市日吉台２-４-３成田コリンズ２０７,耳鼻いんこう科　気管食道科,,,9" xlink:title="のもと耳鼻咽喉科気管食道科" transform="ref(svg,14032.0722,-3577.3713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）長谷川医院,千葉県成田市東町２１６,内科　循環器科　小児科,,,9" xlink:title="（医）長谷川医院" transform="ref(svg,14032.0352,-3578.2182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林内科小児科医院,千葉県印旛郡酒々井町東酒々井３-３-６３,内科　小児科,,,9" xlink:title="林内科小児科医院" transform="ref(svg,14027.4874,-3572.9298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）東医院,千葉県印旛郡酒々井町東酒々井３-３-９８,内科　消化器科　胃腸科　アレルギー科　リウマチ科　小児科　皮膚科　放射線科,,,9" xlink:title="（医）東医院" transform="ref(svg,14027.6149,-3572.9348)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）良友会ひきたクリニック,千葉県八街市榎戸６５６-４,産婦人科　眼科,,,9" xlink:title="（医）良友会ひきたクリニック" transform="ref(svg,14029.5203,-3567.8624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひじかいクリニック,千葉県八街市文違３０１-３９８９,内科　外科　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="ひじかいクリニック" transform="ref(svg,14030.8715,-3567.8005)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日野耳鼻咽喉科医院,千葉県八街市八街ほ２１５-３,耳鼻いんこう科,,,9" xlink:title="日野耳鼻咽喉科医院" transform="ref(svg,14031.2183,-3566.4285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鴻志会日吉台レディースクリニック,千葉県富里市日吉台２-９-６,産婦人科,,,9" xlink:title="（医）鴻志会日吉台レディースクリニック" transform="ref(svg,14032.1038,-3577.1871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福朗会ひらの内科,千葉県成田市ウイング土屋１７０,内科　消化器科,,,9" xlink:title="（医）福朗会ひらの内科" transform="ref(svg,14032.2579,-3579.4593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フィールド眼科診療所,千葉県成田市加良部６-５-２,眼科,,,9" xlink:title="フィールド眼科診療所" transform="ref(svg,14029.2814,-3577.6466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）國手会藤倉クリニック,千葉県成田市幸町４８３,内科　胃腸科　リウマチ科　小児科　外科　整形外科　皮膚科,,,9" xlink:title="（医）國手会藤倉クリニック" transform="ref(svg,14031.5564,-3578.3061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ベスト八街眼科診療所,千葉県八街市八街ほ２３４-４３,眼科,,,9" xlink:title="ベスト八街眼科診療所" transform="ref(svg,14031.5144,-3566.2628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）芳幸会前田外科内科,千葉県印旛郡酒々井町東酒々井１-１-７７,内科　小児科　外科　整形外科　皮膚科,,,9" xlink:title="（医）芳幸会前田外科内科" transform="ref(svg,14027.6947,-3573.1674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）美修会松岸レディスクリニック,千葉県成田市公津の杜３-４３-１,産婦人科,,,9" xlink:title="（医）美修会松岸レディスクリニック" transform="ref(svg,14029.8643,-3575.8521)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）彩仁会みさと眼科クリニック,千葉県成田市美郷台１-１５-１,眼科,,,9" xlink:title="（医）彩仁会みさと眼科クリニック" transform="ref(svg,14031.1459,-3579.0514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みさと会美郷台木内クリニック,千葉県成田市美郷台１-１３-１０,内科　胃腸科　循環器科　小児科　外科　整形外科　肛門科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）みさと会美郷台木内クリニック" transform="ref(svg,14031.1047,-3579.0691)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）邦久会美郷台整形外科,千葉県成田市美郷台３-２-３,整形外科　リハビリテーション科,,,9" xlink:title="（医）邦久会美郷台整形外科" transform="ref(svg,14030.9006,-3579.2403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三橋医院,千葉県富里市七栄２９５,内科　消化器科　小児科　皮膚科,,,9" xlink:title="三橋医院" transform="ref(svg,14032.2504,-3573.6628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠仁会みはま成田クリニック,千葉県成田市飯田町字向野１２９-１,泌尿器科,,,9" xlink:title="（医）誠仁会みはま成田クリニック" transform="ref(svg,14029.7226,-3576.6709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）英彦山会みやび内科クリニック,千葉県富里市日吉倉５７２-２,内科　循環器科,,,9" xlink:title="（医）英彦山会みやび内科クリニック" transform="ref(svg,14032.3339,-3576.8356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,目黒クリニック,千葉県富里市十倉１,内科,,,9" xlink:title="目黒クリニック" transform="ref(svg,14036.4551,-3571.6315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）メディカルハート土井皮膚科クリニック,千葉県富里市日吉台２-９１-１０小池ビレッジ１０１,皮膚科,,,9" xlink:title="（医）メディカルハート土井皮膚科クリニック" transform="ref(svg,14032.0498,-3577.3622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）捺友会八街眼科,千葉県八街市八街ほ２５０-８,眼科,,,9" xlink:title="（医）捺友会八街眼科" transform="ref(svg,14031.606,-3566.0282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）愛聖会八街こどもクリニック,千葉県八街市東吉田５１７-５７,内科　アレルギー科　小児科,,,9" xlink:title="（医）愛聖会八街こどもクリニック" transform="ref(svg,14031.0416,-3564.8141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八街少年院医務課診療所,千葉県八街市滝台１７６６,内科　外科,,,9" xlink:title="八街少年院医務課診療所" transform="ref(svg,14030.7886,-3558.4701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）八千代会八街整形外科内科,千葉県八街市八街に７５,整形外科　内科,,,9" xlink:title="（医）八千代会八街整形外科内科" transform="ref(svg,14032.6263,-3566.1745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）けやき会やちまた皮膚科,千葉県八街市八街ほ５９４-２,皮膚科,,,9" xlink:title="（医）けやき会やちまた皮膚科" transform="ref(svg,14031.159,-3566.0474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山崎眼科クリニック,千葉県成田市吾妻３-５０-１,眼科,,,9" xlink:title="（医）山崎眼科クリニック" transform="ref(svg,14028.5062,-3578.6418)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本医院,千葉県八街市上砂１６０,内科,,,9" xlink:title="山本医院" transform="ref(svg,14029.0973,-3560.1701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,有楽苑診療所,千葉県成田市横山２０４-４０,内科　精神科,,,9" xlink:title="有楽苑診療所" transform="ref(svg,14045.4183,-3581.5853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）晃正会湯沢クリニック,千葉県八街市八街ほ２２７-１,内科　小児科　外科　リハビリテーション科,,,9" xlink:title="（医）晃正会湯沢クリニック" transform="ref(svg,14031.6591,-3566.1184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,弓立産婦人科,千葉県富里市七栄６４６,産婦人科,,,9" xlink:title="弓立産婦人科" transform="ref(svg,14033.0346,-3573.5373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）郷愛会湯山整形外科,千葉県富里市七栄６７４-１９,整形外科　リハビリテーション科,,,9" xlink:title="（医）郷愛会湯山整形外科" transform="ref(svg,14034.2665,-3572.4688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉川医院,千葉県富里市七栄２９８-２９,内科,,,9" xlink:title="吉川医院" transform="ref(svg,14032.1611,-3573.6404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉原医院,千葉県成田市宗吾２-２７５,内科　循環器内科　小児科,,,9" xlink:title="吉原医院" transform="ref(svg,14028.0764,-3576.2432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺医院,千葉県成田市花崎町５３３,産婦人科,,,9" xlink:title="渡辺医院" transform="ref(svg,14031.6002,-3577.8556)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）わたなべクリニック,千葉県成田市公津の杜３-３-８,内科　循環器科,,,9" xlink:title="（医）わたなべクリニック" transform="ref(svg,14029.69,-3575.8048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）渡辺小児科医院,千葉県成田市はなのき台１-２２-１４,小児科,,,9" xlink:title="（医）渡辺小児科医院" transform="ref(svg,14028.5146,-3577.881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）香仁会石橋医院,千葉県香取市小見川５４８,内科　小児科　皮膚科,,,9" xlink:title="（医）香仁会石橋医院" transform="ref(svg,14060.9105,-3585.4098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大木内科医院,千葉県香取郡多古町多古２５３１,内科　胃腸科　循環器科　小児科　皮膚科,,,9" xlink:title="大木内科医院" transform="ref(svg,14046.6528,-3573.4442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵慈会おおくすの郷クリニック,千葉県香取市府馬３７２３,内科　整形外科,,,9" xlink:title="（医）恵慈会おおくすの郷クリニック" transform="ref(svg,14060.4641,-3578.5952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,九十九里ホーム山田（特養）医務室,千葉県香取市大角１５４５-１６,内科,,,9" xlink:title="九十九里ホーム山田（特養）医務室" transform="ref(svg,14055.5274,-3578.2824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明石会さとうメディカルオフィス,千葉県香取郡多古町多古２５３９,内科　心療内科　消化器科　外科　肛門科　リハビリテーション科,,,9" xlink:title="（医）明石会さとうメディカルオフィス" transform="ref(svg,14046.6378,-3573.5683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上人塚クリニック,千葉県香取郡多古町桧木２６０-１,内科　小児科　外科,,,9" xlink:title="上人塚クリニック" transform="ref(svg,14046.1705,-3578.3132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仁静堂石橋内科医院,千葉県香取郡多古町南中１４３９-１,内科　呼吸器科　消化器科　小児科,,,9" xlink:title="仁静堂石橋内科医院" transform="ref(svg,14048.4064,-3573.901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多古（特養）,千葉県香取郡多古町南玉造４６０-３６,内科　呼吸器科　消化器科,,,9" xlink:title="多古（特養）" transform="ref(svg,14052.0536,-3575.5661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鴇田医院,千葉県香取市岩部１３８８,内科,,,9" xlink:title="鴇田医院" transform="ref(svg,14050.1335,-3581.2319)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）水都苑,千葉県香取市小見川６７６-２,内科,,,9" xlink:title="（特養）水都苑" transform="ref(svg,14061.5419,-3584.9511)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）杜の家診療所,千葉県香取市岩部８６９-６０,内科,,,9" xlink:title="（特養）杜の家診療所" transform="ref(svg,14051.7097,-3581.2619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中田内科医院,千葉県香取市小見川１０５１,内科,,,9" xlink:title="中田内科医院" transform="ref(svg,14060.9903,-3584.9626)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,箱崎整形外科医院,千葉県香取郡多古町北中１１７３-１,整形外科　放射線科,,,9" xlink:title="箱崎整形外科医院" transform="ref(svg,14049.5412,-3575.2169)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,馬場医院,千葉県香取市小見川１３９３,内科　小児科,,,9" xlink:title="馬場医院" transform="ref(svg,14060.4116,-3584.8612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平山眼科医院,千葉県香取郡多古町多古３２７１-２,眼科,,,9" xlink:title="（医）平山眼科医院" transform="ref(svg,14046.458,-3574.1363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三省会本多病院附属外来診療所,千葉県香取市小見川１６１,内科　精神科　呼吸器科　外科　整形外科,,,9" xlink:title="（医）三省会本多病院附属外来診療所" transform="ref(svg,14060.307,-3585.3048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）前田医院,千葉県香取郡多古町北中２８０５-５,内科　外科　皮膚科,,,9" xlink:title="（医）前田医院" transform="ref(svg,14048.4497,-3575.1752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮内医院,千葉県香取市府馬２８０５,内科　小児科,,,9" xlink:title="宮内医院" transform="ref(svg,14060.6161,-3580.119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みやうちクリニック,千葉県香取市長岡１３０４-７,内科　消化器内科,,,9" xlink:title="みやうちクリニック" transform="ref(svg,14057.53,-3580.2532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木整形外科,千葉県旭市秋田１７４５,整形外科　リハビリテーション科,,,9" xlink:title="鈴木整形外科" transform="ref(svg,14059.612,-3574.1087)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）白寿園医務室,千葉県旭市清和乙２０-１,内科,,,9" xlink:title="（特養）白寿園医務室" transform="ref(svg,14061.7534,-3577.0508)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ひがた内科医院,千葉県旭市鎌数９４９０-７,内科　循環器内科　小児科,,,9" xlink:title="（医）ひがた内科医院" transform="ref(svg,14060.4472,-3572.2958)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一善会アサヒ眼科クリニック,千葉県匝瑳市八日市場イ６１-６,内科　眼科,,,9" xlink:title="（医）一善会アサヒ眼科クリニック" transform="ref(svg,14055.254,-3569.9653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清粋会熱田整形外科,千葉県匝瑳市八日市場ハ７９１-２７,整形外科　リハビリテーション科,,,9" xlink:title="（医）清粋会熱田整形外科" transform="ref(svg,14056.2547,-3570.7067)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井医院,千葉県匝瑳市八日市場ハ５７４-２,内科　泌尿器科,,,9" xlink:title="石井医院" transform="ref(svg,14056.2039,-3570.8536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰伯会伊藤医院,千葉県匝瑳市八日市場ホ３２３９,外科　整形外科　脳神経外科　耳鼻いんこう科　リハビリテーション科　神経内科,,,9" xlink:title="（医）泰伯会伊藤医院" transform="ref(svg,14053.1616,-3569.3504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）嚶鳴会椎の木台耳鼻咽喉科医院,千葉県匝瑳市八日市場イ２５２２,耳鼻いんこう科,,,9" xlink:title="（医）嚶鳴会椎の木台耳鼻咽喉科医院" transform="ref(svg,14054.624,-3570.337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川内科,千葉県匝瑳市八日市場イ２７８３,内科　循環器科　小児科,,,9" xlink:title="小川内科" transform="ref(svg,14054.521,-3569.9694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おひさまかわて医院,千葉県匝瑳市横須賀２８１５-２,内科　小児科　リハビリテーション科,,,9" xlink:title="（医）おひさまかわて医院" transform="ref(svg,14055.1018,-3568.39)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川村眼科医院,千葉県匝瑳市八日市場ホ３２７２-２,眼科,,,9" xlink:title="川村眼科医院" transform="ref(svg,14053.3315,-3569.4061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）眼科さとう医院,千葉県匝瑳市八日市場イ４１２-１４,眼科,,,9" xlink:title="（医）眼科さとう医院" transform="ref(svg,14054.4387,-3569.7588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三成会佐藤クリニック,千葉県匝瑳市八日市場イ２７３５-４,内科　小児科,,,9" xlink:title="（医）三成会佐藤クリニック" transform="ref(svg,14054.3366,-3569.8207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）幸仁会さとう整形外科,千葉県匝瑳市八日市場イ４９-２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）幸仁会さとう整形外科" transform="ref(svg,14055.1465,-3569.8407)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,椎名医院,千葉県匝瑳市八日市場イ２９４３,内科　小児科,,,9" xlink:title="椎名医院" transform="ref(svg,14055.0534,-3570.1504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しおさいホーム医務室,千葉県匝瑳市川辺７９７０-２,精神科,,,9" xlink:title="しおさいホーム医務室" transform="ref(svg,14057.0907,-3564.5098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設聖マーガレットホーム医務室,千葉県匝瑳市高野５８３,内科　呼吸器科　整形外科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="障害者支援施設聖マーガレットホーム医務室" transform="ref(svg,14052.7706,-3567.98)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）当為会城之内医院,千葉県匝瑳市東小笹８６,内科　小児科　皮膚科,,,9" xlink:title="（医）当為会城之内医院" transform="ref(svg,14059.4687,-3568.6333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）楠会鈴木医院,千葉県匝瑳市椿７０６,内科　小児科　産婦人科,,,9" xlink:title="（医）楠会鈴木医院" transform="ref(svg,14056.8356,-3571.4363)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,匝瑳外科医院,千葉県匝瑳市八日市場イ１９９４,呼吸器科　消化器科　外科　リハビリテーション科,,,9" xlink:title="匝瑳外科医院" transform="ref(svg,14054.4307,-3570.1452)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千葉県海匝保健所八日市場地域保健センター,千葉県匝瑳市八日市場イ２１１９-１,内科　小児科,,,9" xlink:title="千葉県海匝保健所八日市場地域保健センター" transform="ref(svg,14054.4372,-3570.633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明生会東葉クリニック八日市場,千葉県匝瑳市八日市場イ１６-１,内科　消化器内科　胃腸内科　人工透析内科,,,9" xlink:title="（医）明生会東葉クリニック八日市場" transform="ref(svg,14055.3791,-3569.8484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）松丘園医務室,千葉県匝瑳市飯倉１７-１,内科,,,9" xlink:title="（特養）松丘園医務室" transform="ref(svg,14052.4766,-3568.7261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）太陽の家医務室,千葉県匝瑳市春海６３８７,内科,,,9" xlink:title="（特養）太陽の家医務室" transform="ref(svg,14058.5799,-3573.3476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）花園医務室,千葉県匝瑳市野手１９８６-１,内科,,,9" xlink:title="（特養）花園医務室" transform="ref(svg,14058.617,-3566.2953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）瑞穂園医務室,千葉県匝瑳市八日市場ニ８１-３,内科,,,9" xlink:title="（特養）瑞穂園医務室" transform="ref(svg,14056.0977,-3569.0263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）野澤医院,千葉県匝瑳市八日市場イ２３９９-６,内科　消化器科　小児科,,,9" xlink:title="（医）野澤医院" transform="ref(svg,14055.0996,-3570.4206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はしば医院,千葉県匝瑳市今泉４８５,内科　胃腸科　外科　肛門科,,,9" xlink:title="はしば医院" transform="ref(svg,14056.655,-3565.9395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,檜垣内科循環器科医院,千葉県匝瑳市八日市場イ５６-３,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="檜垣内科循環器科医院" transform="ref(svg,14055.1336,-3569.757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恕修会福島医院,千葉県匝瑳市八日市場イ２０２-１,内科　リウマチ科　小児科,,,9" xlink:title="（医）恕修会福島医院" transform="ref(svg,14054.975,-3569.8809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）増田産婦人科,千葉県匝瑳市八日市場イ２８３７,産婦人科,,,9" xlink:title="（医）増田産婦人科" transform="ref(svg,14054.7841,-3569.9779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,守医院,千葉県匝瑳市椿１２６８,内科　小児科　外科　整形外科,,,9" xlink:title="守医院" transform="ref(svg,14059.5387,-3571.8014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム瑞穂園医務室,千葉県匝瑳市八日市場ニ８１-３,内科,,,9" xlink:title="養護老人ホーム瑞穂園医務室" transform="ref(svg,14056.0977,-3569.0263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）隆仁会秋葉医院,千葉県東金市東金１１９５,内科　小児科　産婦人科　麻酔科,,,9" xlink:title="（医）隆仁会秋葉医院" transform="ref(svg,14036.0795,-3556.0051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきば伝統医学クリニック,千葉県山武市蓮沼ニ２０８６,内科　消化器科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="あきば伝統医学クリニック" transform="ref(svg,14048.3409,-3559.4814)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）豊翔会天野内科クリニック,千葉県東金市南上宿５-３４-４東総ビル２Ｆ,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）豊翔会天野内科クリニック" transform="ref(svg,14035.8867,-3555.2865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,板倉内科医院,千葉県大網白里市北横川１３４,内科　胃腸科　小児科,,,9" xlink:title="板倉内科医院" transform="ref(svg,14034.0046,-3551.4027)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,千葉県山武市津辺２３８,内科　小児科,,,9" xlink:title="伊藤医院" transform="ref(svg,14041.1303,-3560.6722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）今井会今井医院,千葉県東金市田間１１３０,内科　小児科,,,9" xlink:title="（医）今井会今井医院" transform="ref(svg,14037.4021,-3557.4484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）爽章会城西クリニック,千葉県東金市南上宿４-９,外科　胃腸外科　内科　小児科,,,9" xlink:title="（医）爽章会城西クリニック" transform="ref(svg,14036.0928,-3555.5004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）滝琉会りゅうクリニック,千葉県東金市田間１２８５-２,内科　循環器内科　小児科,,,9" xlink:title="（医）滝琉会りゅうクリニック" transform="ref(svg,14038.27,-3557.5125)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明生会東葉クリニック東新宿,千葉県東金市東新宿字１-８-１,外科　消化器外科　胃腸外科　肛門外科　人口透析外科,,,9" xlink:title="（医）明生会東葉クリニック東新宿" transform="ref(svg,14036.9266,-3556.069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩崎医院,千葉県山武市松尾町猿尾３１１,内科　小児科　消化器科　循環器科,,,9" xlink:title="岩崎医院" transform="ref(svg,14045.8202,-3563.8889)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）育慈会岩佐産婦人科医院,千葉県東金市広瀬１７３,婦人科,,,9" xlink:title="（医）育慈会岩佐産婦人科医院" transform="ref(svg,14038.8862,-3553.8532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）潤友会宇井医院,千葉県山武市蓮沼イ２２４３-３,内科　循環器科　小児科,,,9" xlink:title="（医）潤友会宇井医院" transform="ref(svg,14050.1322,-3561.0287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁誠会うじはらクリニック,千葉県大網白里市みやこ野１-２-１サエグサビル２０１,内科　胃腸科　小児科　外科　肛門科　皮膚科,,,9" xlink:title="（医）仁誠会うじはらクリニック" transform="ref(svg,14031.5452,-3551.9886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）海診療所,千葉県山武市蓮沼ニ５０３２,内科　リハビリテーション科,,,9" xlink:title="（福）海診療所" transform="ref(svg,14048.242,-3559.4237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おおあみ眼科,千葉県大網白里市みやこ野２-１-４,眼科,,,9" xlink:title="（医）おおあみ眼科" transform="ref(svg,14031.7221,-3552.0277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大網耳鼻咽喉科,千葉県大網白里市みやこ野１-２-１サエグサビル２０２,耳鼻いんこう科,,,9" xlink:title="大網耳鼻咽喉科" transform="ref(svg,14031.5483,-3551.9829)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大網小児科クリニック,千葉県大網白里市大網１０４,小児科,,,9" xlink:title="大網小児科クリニック" transform="ref(svg,14031.6716,-3552.3038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清水会大網整形外科,千葉県大網白里市駒込１４７９,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）清水会大網整形外科" transform="ref(svg,14031.1011,-3552.0641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徳仁会おおあみ泌尿器科,千葉県大網白里市駒込１４８２サンモール角川ビル１階,内科　皮膚科　泌尿器科,,,9" xlink:title="（医）徳仁会おおあみ泌尿器科" transform="ref(svg,14031.0951,-3552.0453)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大網ひふクリニック,千葉県大網白里市駒込４４８-１角川ビル２Ｆ,アレルギー科　皮膚科,,,9" xlink:title="大網ひふクリニック" transform="ref(svg,14031.1717,-3552.1572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大多和診療所,千葉県東金市東金１４３３-６,内科,,,9" xlink:title="大多和診療所" transform="ref(svg,14035.5593,-3556.2327)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鳳会大原耳鼻咽喉科,千葉県東金市東岩崎２４-１０モアチェリー１Ｆ,耳鼻いんこう科,,,9" xlink:title="（医）鳳会大原耳鼻咽喉科" transform="ref(svg,14036.7803,-3555.6908)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大平会大平医院,千葉県山武市松尾町借毛本郷３９６２-１,内科　胃腸科　外科　肛門科　皮膚科　リハビリテーション科　放射線科,,,9" xlink:title="（医）大平会大平医院" transform="ref(svg,14047.0846,-3560.9692)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）二洋会岡崎医院,千葉県東金市油井５５-１,内科　小児科　外科,,,9" xlink:title="（医）二洋会岡崎医院" transform="ref(svg,14033.375,-3556.7909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おぐらクリニック,千葉県東金市田間字倉の内５７１,内科　精神科　胃腸科,,,9" xlink:title="おぐらクリニック" transform="ref(svg,14037.3461,-3557.2388)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小高医院,千葉県山武郡横芝光町横芝２２７２,内科　胃腸科　小児科,,,9" xlink:title="（医）小高医院" transform="ref(svg,14048.1747,-3565.6029)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明正会柿栖眼科医院,千葉県東金市東岩崎５-４,眼科,,,9" xlink:title="（医）明正会柿栖眼科医院" transform="ref(svg,14036.4839,-3556.0078)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,春日クリニック,千葉県山武市木原２０２-１０,内科,,,9" xlink:title="春日クリニック" transform="ref(svg,14035.8922,-3563.4393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かめたに耳鼻咽喉科クリニック,千葉県大網白里市駒込４４８-１,アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="かめたに耳鼻咽喉科クリニック" transform="ref(svg,14031.1717,-3552.1572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）岸本医院,千葉県東金市南上宿４１-８,内科　呼吸器科　アレルギー科　小児科　皮膚科,,,9" xlink:title="（医）岸本医院" transform="ref(svg,14035.8183,-3555.2622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きみのもりクリニック,千葉県大網白里市季美の森南３-３-１６,脳神経外科　内科,,,9" xlink:title="きみのもりクリニック" transform="ref(svg,14030.0655,-3554.8913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鎮誠会季美の森整形外科,千葉県大網白里市季美の森南１-３０-５,内科　リウマチ科　整形外科　形成外科　美容外科　リハビリテーション科　放射線科　神経内科,,,9" xlink:title="（医）鎮誠会季美の森整形外科" transform="ref(svg,14029.2036,-3555.502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きららのくにみどりが丘クリニック,千葉県大網白里市みどりが丘３-１０-６,内科　循環器内科　消化器内科,,,9" xlink:title="きららのくにみどりが丘クリニック" transform="ref(svg,14031.548,-3554.165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,九十九里診療所,千葉県山武郡九十九里町片貝２７０５-７,内科　リハビリテーション科,,,9" xlink:title="九十九里診療所" transform="ref(svg,14043.7967,-3553.284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,京葉内科クリニック,千葉県山武市成東７４４-１東総ビル２階,内科　神経内科　呼吸器科,,,9" xlink:title="京葉内科クリニック" transform="ref(svg,14040.0728,-3559.6824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河宇産婦人科,千葉県東金市堀上３５-１,内科　小児科　産科　婦人科,,,9" xlink:title="河宇産婦人科" transform="ref(svg,14036.7446,-3555.5211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）光洋苑診療所,千葉県山武市木戸８４８,内科　精神科　外科　整形外科　眼科　耳鼻いんこう科　歯科,,,9" xlink:title="（福）光洋苑診療所" transform="ref(svg,14048.8206,-3558.0739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医社）向陽会ひまわり眼科,千葉県大網白里市仏島１１４,眼科,,,9" xlink:title="（医社）向陽会ひまわり眼科" transform="ref(svg,14032.4879,-3551.9803)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高齢者福祉施設三愛医務室,千葉県山武郡横芝光町栗山２７００,内科　外科,,,9" xlink:title="高齢者福祉施設三愛医務室" transform="ref(svg,14049.5203,-3565.8192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,郡山医院,千葉県東金市台方７０-１,内科　小児科,,,9" xlink:title="郡山医院" transform="ref(svg,14035.3912,-3555.5842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）玄裕会越川医院,千葉県山武郡横芝光町宮川２３８０-１,内科　小児科,,,9" xlink:title="（医）玄裕会越川医院" transform="ref(svg,14051.028,-3565.4994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）駒込クリニック,千葉県大網白里市駒込１６５９-１,内科　胃腸科　外科　整形外科　肛門科　皮膚科　泌尿器科　リハビリテーション科　放射線科,,,9" xlink:title="（医）駒込クリニック" transform="ref(svg,14031.1361,-3551.8405)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大喜会斉藤クリニック,千葉県東金市台方２０５８-１,内科　胃腸科　外科　整形外科　肛門科　リハビリテーション科　放射線科,,,9" xlink:title="（医）大喜会斉藤クリニック" transform="ref(svg,14034.4865,-3555.5801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらクリニック,千葉県山武郡横芝光町宮川１１９４９-１,内科　消化器科　小児科,,,9" xlink:title="さくらクリニック" transform="ref(svg,14051.2011,-3566.9811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笹本医院,千葉県山武郡横芝光町横芝１４５９-１,内科　消化器科　胃腸科　小児科,,,9" xlink:title="笹本医院" transform="ref(svg,14049.6227,-3566.1773)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）座間泌尿器科医院,千葉県東金市南上宿５-４１-１,泌尿器科,,,9" xlink:title="（医）座間泌尿器科医院" transform="ref(svg,14035.8468,-3555.2737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山武郡市急病診療所,千葉県東金市堀上３６０-２,内科　小児科　外科　歯科,,,9" xlink:title="山武郡市急病診療所" transform="ref(svg,14037.1495,-3555.6639)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山武郡市広域行政組合立養護老人ホーム診療所,千葉県山武郡横芝光町坂田池２１０-１,内科,,,9" xlink:title="山武郡市広域行政組合立養護老人ホーム診療所" transform="ref(svg,14047.534,-3566.0536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山武保健所,千葉県東金市東金９０７-１,内科　小児科,,,9" xlink:title="山武保健所" transform="ref(svg,14036.7314,-3556.1799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）勝新会さんむ眼科クリニック,千葉県山武市成東７４４-１,眼科,,,9" xlink:title="（医）勝新会さんむ眼科クリニック" transform="ref(svg,14040.109,-3559.6504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山武市国保日向診療所,千葉県山武市椎崎４３０,内科　小児科　外科,,,9" xlink:title="山武市国保日向診療所" transform="ref(svg,14036.4284,-3563.0012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徳育会芝山診療所,千葉県山武郡芝山町山中６７８,内科　整形外科,,,9" xlink:title="（医）徳育会芝山診療所" transform="ref(svg,14043.444,-3569.6006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芝山みどりの森クリニック,千葉県山武郡芝山町新井田４９-４,内科　外科　消化器内科,,,9" xlink:title="芝山みどりの森クリニック" transform="ref(svg,14040.9261,-3569.8394)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）養護老人ホーム光楽園医務室,千葉県山武郡横芝光町木戸９６２９,内科,,,9" xlink:title="（福）養護老人ホーム光楽園医務室" transform="ref(svg,14054.3467,-3562.092)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,千葉県山武郡横芝光町横芝７３０,内科　小児科,,,9" xlink:title="鈴木医院" transform="ref(svg,14048.4786,-3566.2191)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑風会鈴木医院,千葉県山武市埴谷１２３３,内科　呼吸器科　循環器科　小児科　眼科,,,9" xlink:title="（医）緑風会鈴木医院" transform="ref(svg,14037.6922,-3565.5254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）青松苑診療所,千葉県山武市木戸８４８,内科　精神科　外科　整形外科　眼科　耳鼻いんこう科,,,9" xlink:title="（福）青松苑診療所" transform="ref(svg,14048.8206,-3558.0739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ソニーカスタマーサービス（株）東金テクノロジーサイト健康管理室,千葉県東金市上武射田２３１０,内科,,,9" xlink:title="ソニーカスタマーサービス（株）東金テクノロジーサイト健康管理室" transform="ref(svg,14041.7665,-3558.1494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太平堂診療所,千葉県東金市東岩崎１３-１,眼科,,,9" xlink:title="太平堂診療所" transform="ref(svg,14036.5656,-3555.8391)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）輝翔会高橋医院,千葉県山武市富口５３８,内科　小児科,,,9" xlink:title="（医）輝翔会高橋医院" transform="ref(svg,14043.0741,-3559.2769)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田波整形外科,千葉県東金市南上宿４１-１７,内科　リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="田波整形外科" transform="ref(svg,14035.8519,-3555.1323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千葉東こどもクリニック,千葉県大網白里市大網１３-４高山ビルＡ棟２Ｆ,小児科　アレルギー科,,,9" xlink:title="千葉東こどもクリニック" transform="ref(svg,14031.7426,-3552.0848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東金眼科クリニック,千葉県東金市東岩崎２-２６-９,眼科,,,9" xlink:title="東金眼科クリニック" transform="ref(svg,14036.4877,-3556.0065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鎮誠会東金整形外科,千葉県東金市東岩崎２-２６-１４,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）鎮誠会東金整形外科" transform="ref(svg,14036.8689,-3555.7792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）東成会東金中央クリニック,千葉県東金市東岩崎２４-７,内科　神経内科　小児科　皮膚科　泌尿器科　放射線科,,,9" xlink:title="（医）東成会東金中央クリニック" transform="ref(svg,14036.7023,-3555.7467)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東金皮フ科,千葉県東金市南上宿５-３４-４東総ビル１Ｆ,皮膚科,,,9" xlink:title="東金皮フ科" transform="ref(svg,14035.8867,-3555.2865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）明生会東葉クリニック大網脳神経外科,千葉県大網白里市みやこ野２-２-４,脳神経外科　外科　消化器外科　胃腸外科　人工透析外科,,,9" xlink:title="（医）明生会東葉クリニック大網脳神経外科" transform="ref(svg,14031.8835,-3551.9869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）徳栄会芝山苑,千葉県山武郡芝山町山中１３３７-１,内科,,,9" xlink:title="（福）徳栄会芝山苑" transform="ref(svg,14043.3969,-3570.0128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）おおあみ緑の里医務室,千葉県大網白里市柿餅２６８-２,内科　胃腸科　外科　整形外科,,,9" xlink:title="（特養）おおあみ緑の里医務室" transform="ref(svg,14035.1015,-3551.6721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）吉祥苑医務室,千葉県山武郡横芝光町寺方広台７８０-１,内科,,,9" xlink:title="（特養）吉祥苑医務室" transform="ref(svg,14046.1165,-3567.6452)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）九十九里園医務室,千葉県山武郡九十九里町粟生１５３２-１,内科,,,9" xlink:title="（特養）九十九里園医務室" transform="ref(svg,14043.1882,-3552.5246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）第二松丘園医務室,千葉県山武郡横芝光町宮川１２１０３-１,内科　呼吸器科　整形外科　皮膚科　泌尿器科　リハビリテーション科,,,9" xlink:title="（特養）第二松丘園医務室" transform="ref(svg,14050.3985,-3565.7765)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）福福の里,千葉県東金市極楽寺字松山１６３-１,内科,,,9" xlink:title="（特養）福福の里" transform="ref(svg,14032.6976,-3562.6842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）芙蓉荘医務室,千葉県東金市家之子２０１０-３,内科,,,9" xlink:title="（特養）芙蓉荘医務室" transform="ref(svg,14037.6603,-3559.8881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）北総長寿苑医務室,千葉県山武市木原８１４-１,内科,,,9" xlink:title="（特養）北総長寿苑医務室" transform="ref(svg,14035.3669,-3564.8454)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆりの木苑診療所,千葉県東金市家徳７５６-２,内科,,,9" xlink:title="（特養）ゆりの木苑診療所" transform="ref(svg,14040.1457,-3555.1046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とし整形外科クリニック,千葉県山武郡横芝光町北清水１７３-４,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="とし整形外科クリニック" transform="ref(svg,14050.9896,-3561.9629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）豊和会とよだ整形外科医院,千葉県東金市堀上１３３９,内科　リウマチ科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）豊和会とよだ整形外科医院" transform="ref(svg,14038.3041,-3554.4358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）友愛会成東医院,千葉県山武市津辺６５,内科　小児科　放射線科,,,9" xlink:title="（医）友愛会成東医院" transform="ref(svg,14041.3027,-3560.6414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成東耳鼻咽喉科,千葉県山武市成東７４４-１東総ビル２Ｆ,耳鼻いんこう科,,,9" xlink:title="成東耳鼻咽喉科" transform="ref(svg,14040.109,-3559.6504)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）粲登記念会錦織メディカルクリニック,千葉県大網白里市みやこ野１-４-５,内科　神経内科　消化器科　循環器科　小児科　外科　リハビリテーション科,,,9" xlink:title="（医）粲登記念会錦織メディカルクリニック" transform="ref(svg,14031.5844,-3551.8786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）浩陽会西田医院,千葉県東金市東新宿１３-７,内科　神経内科　循環器科　小児科,,,9" xlink:title="（医）浩陽会西田医院" transform="ref(svg,14037.0906,-3555.9999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,博愛会伊藤内科,千葉県山武郡九十九里町片貝６７５３,内科,,,9" xlink:title="博愛会伊藤内科" transform="ref(svg,14044.5738,-3552.8965)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本医院,千葉県大網白里市みずほ台１-２９-１３,内科,,,9" xlink:title="橋本医院" transform="ref(svg,14030.5167,-3551.5156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はっとり内科クリニック,千葉県東金市求名７６-１,消化器内科　内科　呼吸器内科　循環器内科,,,9" xlink:title="はっとり内科クリニック" transform="ref(svg,14039.8335,-3557.7881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）双仁会花城医院,千葉県山武市松尾町大堤１３６-３,内科　消化器科　小児科,,,9" xlink:title="（医）双仁会花城医院" transform="ref(svg,14045.4135,-3563.547)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はにや内科,千葉県大網白里市駒込４４８-１,内科　消化器科,,,9" xlink:title="はにや内科" transform="ref(svg,14031.1624,-3552.1567)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原医院,千葉県東金市東新宿８-１１,内科　呼吸器科　消化器科　胃腸科　循環器科　小児科　放射線科,,,9" xlink:title="原医院" transform="ref(svg,14037.0201,-3556.1413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原田医院,千葉県山武郡芝山町小池２４７３,内科　小児科,,,9" xlink:title="原田医院" transform="ref(svg,14041.1594,-3569.7134)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鎮誠会姫島クリニック,千葉県山武市姫島２６８-１,内科　リウマチ科　整形外科　リハビリテーション科　神経内科,,,9" xlink:title="（医）鎮誠会姫島クリニック" transform="ref(svg,14038.9758,-3558.9597)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）日向台クリニック,千葉県山武市椎崎１３５４-２,内科　消化器科　外科　整形外科　肛門科　皮膚科　麻酔科,,,9" xlink:title="（医）日向台クリニック" transform="ref(svg,14036.6661,-3563.3414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日吉台クリニック,千葉県東金市日吉台４-３-２エスタシオ,内科　小児科　皮膚科,,,9" xlink:title="日吉台クリニック" transform="ref(svg,14035.0804,-3556.8859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平山クリニック,千葉県東金市東金９３１,内科　消化器科　外科,,,9" xlink:title="平山クリニック" transform="ref(svg,14036.5994,-3556.2846)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福島医院,千葉県大網白里市永田１８２９-４,内科　胃腸科　小児科　皮膚科,,,9" xlink:title="福島医院" transform="ref(svg,14031.0501,-3550.8095)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富士フイルムＲＩファーマ（株）千葉事業所,千葉県山武市松尾町下大蔵４５３-１,内科,,,9" xlink:title="富士フイルムＲＩファーマ（株）千葉事業所" transform="ref(svg,14042.9245,-3563.2767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,不動堂クリニック,千葉県山武郡九十九里町西野１７８２,内科　小児科　外科　整形外科　皮膚科　リハビリテーション科　放射線科　麻酔科,,,9" xlink:title="不動堂クリニック" transform="ref(svg,14043.0559,-3551.2282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふるがき糖尿病内科医院,千葉県東金市田間２６２-２,内科　内分泌代謝科　小児科,,,9" xlink:title="ふるがき糖尿病内科医院" transform="ref(svg,14036.9878,-3556.584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）古川医院,千葉県山武市津辺３１４-１,外科　皮膚科　泌尿器科,,,9" xlink:title="（医）古川医院" transform="ref(svg,14041.2326,-3560.8238)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）九仁会古川クリニック,千葉県山武郡九十九里町片貝３６８９,内科　循環器科　小児科,,,9" xlink:title="（医）九仁会古川クリニック" transform="ref(svg,14044.6586,-3553.1405)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）平成桔梗会シルバークリニック,千葉県山武市松尾町田越７５６-６,内科　リハビリテーション科,,,9" xlink:title="（福）平成桔梗会シルバークリニック" transform="ref(svg,14044.3855,-3563.009)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）北辰堂佐藤医院,千葉県東金市薄島１６２-３,内科　呼吸器科　消化器科　循環器科　小児科　麻酔科,,,9" xlink:title="（医）北辰堂佐藤医院" transform="ref(svg,14041.2284,-3554.2374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松誠会まさごクリニック,千葉県山武郡横芝光町横芝４２５-１,内科　胃腸科　外科　整形外科　肛門科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）松誠会まさごクリニック" transform="ref(svg,14047.739,-3565.9291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つくし会松尾クリニック,千葉県山武市松尾町大堤４１-１,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="（医）つくし会松尾クリニック" transform="ref(svg,14045.777,-3563.7416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みずほ台クリニック,千葉県大網白里市みずほ台１-１-２５,内科　小児科,,,9" xlink:title="みずほ台クリニック" transform="ref(svg,14030.5593,-3551.963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁和会睦岡クリニック,千葉県山武市埴谷５４０-１,外科　内科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）仁和会睦岡クリニック" transform="ref(svg,14038.1061,-3565.3047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,明海クリニック,千葉県山武市蓮沼イ１３７２-２,内科　循環器内科　呼吸器内科　外科　整形外科　アレルギー科,,,9" xlink:title="明海クリニック" transform="ref(svg,14050.6679,-3560.7476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メンタルケア林クリニック,千葉県大網白里市駒込１４８１サンモールカクガワ２０３,心療内科　精神科　神経科,,,9" xlink:title="メンタルケア林クリニック" transform="ref(svg,14031.096,-3552.0488)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森重医院,千葉県大網白里市みやこ野２-１０-１３,内科　アレルギー科　リウマチ科　外科　整形外科　皮膚科　麻酔科,,,9" xlink:title="森重医院" transform="ref(svg,14031.848,-3551.9097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎医院,千葉県山武郡横芝光町横芝２１３７,内科　胃腸科　外科　整形外科　麻酔科,,,9" xlink:title="山崎医院" transform="ref(svg,14048.7069,-3566.1362)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田クリニック,千葉県山武市富田ト７７２,胃腸科,,,9" xlink:title="吉田クリニック" transform="ref(svg,14042.0684,-3561.0412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉橋医院,千葉県東金市東金２５０,内科　小児科,,,9" xlink:title="吉橋医院" transform="ref(svg,14035.9781,-3555.7089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしみ医院,千葉県山武市成東２４０６,内科　小児科　皮膚科,,,9" xlink:title="よしみ医院" transform="ref(svg,14040.3539,-3560.0372)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,両総診療所,千葉県東金市南上宿８-２,内科　耳鼻いんこう科,,,9" xlink:title="両総診療所" transform="ref(svg,14036.2451,-3555.415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）阿うんの会坂の上外科,千葉県千葉市緑区土気町３１１,内科　呼吸器科　胃腸科　外科　整形外科　皮膚科　リハビリテーション科　放射線科,,,9" xlink:title="（医）阿うんの会坂の上外科" transform="ref(svg,14028.0266,-3552.9554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）櫻佑会昭和の森クリニック,千葉県千葉市緑区あすみが丘東３-１４-３,内科　老年内科　腎臓・人工透析内科,,,9" xlink:title="（医）櫻佑会昭和の森クリニック" transform="ref(svg,14027.9543,-3552.1785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,昭和の森耳鼻咽喉科,千葉県千葉市緑区あすみが丘東１-２０-１７,耳鼻いんこう科,,,9" xlink:title="昭和の森耳鼻咽喉科" transform="ref(svg,14028.0354,-3552.652)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ロイヤル千葉グリーンホーム医務室,千葉県千葉市緑区あすみが丘東２-２１-１,内科,,,9" xlink:title="（特養）ロイヤル千葉グリーンホーム医務室" transform="ref(svg,14027.7179,-3552.4149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉原クリニック,千葉県千葉市緑区あすみが丘東４-１-１,内科　小児科　糖尿病内科　アレルギー科,,,9" xlink:title="吉原クリニック" transform="ref(svg,14027.3847,-3552.1929)" x="0" y="0"/>
+</g>
+</svg>

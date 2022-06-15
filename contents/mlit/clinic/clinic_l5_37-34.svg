@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14203.125 -4218.75 140.625 140.625" go:dataArea="14203.125 -4218.75 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,えりも町国民健康保険診療所,北海道幌泉郡えりも町字本町２１０-１,内科　呼吸器科　消化器科　循環器科　小児科　外科　整形外科　皮膚科　こう門科　アレルギー科,,,9" xlink:title="えりも町国民健康保険診療所" transform="ref(svg,14314.937,-4201.6088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,航空自衛隊襟裳分屯基地医務室,北海道幌泉郡えりも町字えりも岬４０７,内科　外科　歯科,,,9" xlink:title="航空自衛隊襟裳分屯基地医務室" transform="ref(svg,14322.2864,-4196.3408)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,勤医協浦河診療所,北海道浦河郡浦河町築地２-１-２,内科　小児科　外科,,,9" xlink:title="勤医協浦河診療所" transform="ref(svg,14276.7493,-4216.9796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）藤井内科医院,北海道浦河郡浦河町堺町東１-１２-５,内科　消化器科,,,9" xlink:title="（医）藤井内科医院" transform="ref(svg,14276.1084,-4217.7054)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中尾メンタルクリニック,北海道浦河郡浦河町東町ちのみ４-１７６-５,精神科　神経科　心療内科,,,9" xlink:title="中尾メンタルクリニック" transform="ref(svg,14279.9356,-4217.064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浦河町立（特養）ちのみ荘医務室,北海道浦河郡浦河町東町ちのみ４-１５-１,内科　精神科　神経科,,,9" xlink:title="浦河町立（特養）ちのみ荘医務室" transform="ref(svg,14279.7421,-4217.0729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浦河町保健センター,北海道浦河郡浦河町築地１-３-１,内科　小児科,,,9" xlink:title="浦河町保健センター" transform="ref(svg,14276.8123,-4216.8516)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道浦河保健所,北海道浦河郡浦河町東町ちのみ３-１-８,内科,,,9" xlink:title="北海道浦河保健所" transform="ref(svg,14279.2599,-4216.4631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三和会三和医院,北海道様似郡様似町大通２-１,内科　呼吸器科　消化器科　循環器科　リハビリテーション科　放射線科,,,9" xlink:title="（医）三和会三和医院" transform="ref(svg,14293.5897,-4212.6346)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）様似ソビラ荘医務室,北海道様似郡様似町港町１７-２,内科,,,9" xlink:title="（特養）様似ソビラ荘医務室" transform="ref(svg,14291.2751,-4212.9429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,様似町保健福祉センター,北海道様似郡様似町大通２-９８,内科　小児科,,,9" xlink:title="様似町保健福祉センター" transform="ref(svg,14293.3551,-4212.7853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北海道立庶野診療所,北海道幌泉郡えりも町字庶野６６４,内科　小児科,,,9" xlink:title="北海道立庶野診療所" transform="ref(svg,14330.0441,-4204.6929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やまと苑医務室,北海道幌泉郡えりも町字大和１０６-３,内科,,,9" xlink:title="（特養）やまと苑医務室" transform="ref(svg,14313.061,-4203.1836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えりも町保健センター,北海道幌泉郡えりも町本町２０６,内科　小児科　精神科　歯科,,,9" xlink:title="えりも町保健センター" transform="ref(svg,14314.8529,-4201.6236)" x="0" y="0"/>
+</g>
+</svg>

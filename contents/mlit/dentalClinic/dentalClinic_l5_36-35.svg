@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14062.5 -4078.125 140.625 140.625" go:dataArea="14062.5 -4078.125 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,ぬるゆ歯科,青森県黒石市大字温湯字上川原１５-１７,歯科,,,9" xlink:title="ぬるゆ歯科" transform="ref(svg,14067.0092,-4060.7295)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ａｉ　Ｄｅｎｔａｌ,青森県八戸市売市字小待１４４-１,歯科　小児歯科,,,9" xlink:title="Ａｉ　Ｄｅｎｔａｌ" transform="ref(svg,14147.7941,-4051.683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青葉歯科クリニック,青森県八戸市青葉３-４-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="青葉歯科クリニック" transform="ref(svg,14150.7129,-4050.9768)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおもりデンタルケア,青森県八戸市売市４-５-１９,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="あおもりデンタルケア" transform="ref(svg,14147.3751,-4051.2394)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天野矯正歯科,青森県八戸市城下４-１３-１９,歯科　矯正歯科,,,9" xlink:title="天野矯正歯科" transform="ref(svg,14149.2125,-4051.8838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池谷歯科医院,青森県八戸市柏崎５-４-１７,歯科　小児歯科　矯正歯科,,,9" xlink:title="池谷歯科医院" transform="ref(svg,14150.4325,-4051.6907)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしおかデンタルクリニック,青森県八戸市三日町２４石岡商事ビル２Ｆ,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="いしおかデンタルクリニック" transform="ref(svg,14149.0818,-4050.9384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしがめ歯科,青森県八戸市江陽５-４-６,歯科　小児歯科,,,9" xlink:title="いしがめ歯科" transform="ref(svg,14150.647,-4052.1658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石亀歯科まさる矯正歯科,青森県八戸市廿三日町７,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="石亀歯科まさる矯正歯科" transform="ref(svg,14148.614,-4050.7345)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イシダ歯科医院,青森県八戸市東白山台３-１０-１,歯科,,,9" xlink:title="イシダ歯科医院" transform="ref(svg,14146.4238,-4048.4608)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石橋歯科,青森県八戸市上組町２９-６,歯科,,,9" xlink:title="石橋歯科" transform="ref(svg,14148.2401,-4050.4961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石橋歯科医院,青森県八戸市番町６,歯科,,,9" xlink:title="石橋歯科医院" transform="ref(svg,14148.9118,-4051.0393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石橋歯科クリニック,青森県八戸市番町４４-３,歯科,,,9" xlink:title="石橋歯科クリニック" transform="ref(svg,14148.801,-4050.9484)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみ歯科医院,青森県八戸市鮫町字二子石１１-３,歯科,,,9" xlink:title="いずみ歯科医院" transform="ref(svg,14155.4862,-4052.9743)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,青森県八戸市青葉３-６-１３,歯科　小児歯科　矯正歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,14150.8186,-4051.0632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲垣歯科医院,青森県八戸市湊町字久保２０-１,歯科,,,9" xlink:title="稲垣歯科医院" transform="ref(svg,14152.574,-4052.2802)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩崎歯科クリニック,青森県八戸市下長８-１１-８,歯科,,,9" xlink:title="岩崎歯科クリニック" transform="ref(svg,14148.6733,-4053.8107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわぶち矯正歯科クリニック,青森県八戸市白銀３-１４-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="いわぶち矯正歯科クリニック" transform="ref(svg,14154.4443,-4051.9981)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えと歯科医院,青森県八戸市鳥屋部町１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="えと歯科医院" transform="ref(svg,14148.9249,-4050.6977)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科医院,青森県八戸市新井田字水溜４-４,歯科,,,9" xlink:title="遠藤歯科医院" transform="ref(svg,14153.0821,-4050.7654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,お歯科,青森県八戸市尻内町字直田７３,歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="お歯科" transform="ref(svg,14142.7238,-4051.6646)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大里歯科医院,青森県八戸市長横町１６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="大里歯科医院" transform="ref(svg,14149.3029,-4050.8258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大下歯科クリニック,青森県八戸市尻内町字八百刈２３-１,歯科,,,9" xlink:title="大下歯科クリニック" transform="ref(svg,14143.6431,-4050.8765)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥寺歯科医院,青森県八戸市市川町字桔梗野上２-１,歯科,,,9" xlink:title="奥寺歯科医院" transform="ref(svg,14145.127,-4055.735)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,音喜多歯科医院,青森県八戸市吹上３-５-４,歯科,,,9" xlink:title="音喜多歯科医院" transform="ref(svg,14149.6363,-4050.3147)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かが歯科医院,青森県八戸市一番町２-１-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="かが歯科医院" transform="ref(svg,14143.3724,-4050.784)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柏崎歯科医院,青森県八戸市下長４-５-１９,歯科,,,9" xlink:title="柏崎歯科医院" transform="ref(svg,14147.7119,-4053.4884)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,角浜歯科医院,青森県八戸市鳥屋部町１４-４,歯科,,,9" xlink:title="角浜歯科医院" transform="ref(svg,14149.1213,-4050.6451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,兼田歯科クリニック,青森県八戸市八戸市吹上３-３-５,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="兼田歯科クリニック" transform="ref(svg,14149.4982,-4050.3129)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,亀井歯科,青森県八戸市六日町２３-１,歯科,,,9" xlink:title="亀井歯科" transform="ref(svg,14149.1956,-4050.8975)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川野歯科医院,青森県八戸市旭ヶ丘５-１-１９,歯科,,,9" xlink:title="川野歯科医院" transform="ref(svg,14153.5345,-4049.4606)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科医院,青森県八戸市類家４-７-１,歯科　小児歯科,,,9" xlink:title="川村歯科医院" transform="ref(svg,14150.8183,-4050.7086)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くぼた歯科医院,青森県八戸市沼館３-３-３,歯科,,,9" xlink:title="くぼた歯科医院" transform="ref(svg,14149.2079,-4052.9212)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くまさか歯科,青森県八戸市石堂１-２７-１３,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="くまさか歯科" transform="ref(svg,14147.4833,-4053.0775)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,栗田歯科医院,青森県八戸市湊高台４-２-１５,歯科,,,9" xlink:title="栗田歯科医院" transform="ref(svg,14153.9027,-4050.6979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くりはし歯科医院,青森県八戸市東白山台２-２６-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="くりはし歯科医院" transform="ref(svg,14146.7879,-4048.1944)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こなかの歯科よしだ,青森県八戸市小中野４-８-１２,歯科　小児歯科,,,9" xlink:title="こなかの歯科よしだ" transform="ref(svg,14151.1706,-4052.0941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,是川歯科クリニック,青森県八戸市是川４-４-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="是川歯科クリニック" transform="ref(svg,14150.2975,-4046.9458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,青森県八戸市柏崎５-７-１２,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,14150.5831,-4051.661)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こんどうファミリー歯科,青森県八戸市鮫町字小長根１２-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="こんどうファミリー歯科" transform="ref(svg,14155.9632,-4052.7832)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科,青森県八戸市一番町２-１-５,歯科　小児歯科,,,9" xlink:title="ささき歯科" transform="ref(svg,14143.4,-4050.7611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹森歯科医院,青森県八戸市番町３０のだビル４Ｆ,歯科　小児歯科　矯正歯科,,,9" xlink:title="笹森歯科医院" transform="ref(svg,14149.0617,-4051.0905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渋田歯科クリニック,青森県八戸市大久保字沢目１３-５,歯科,,,9" xlink:title="渋田歯科クリニック" transform="ref(svg,14154.9289,-4051.2707)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下川歯科,青森県八戸市十六日町２３,歯科,,,9" xlink:title="下川歯科" transform="ref(svg,14149.0673,-4050.8121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白井歯科医院,青森県八戸市小中野８-９-１７,歯科,,,9" xlink:title="白井歯科医院" transform="ref(svg,14151.8823,-4052.3055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白銀コスモ歯科医院,青森県八戸市白銀町小沼１１-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="白銀コスモ歯科医院" transform="ref(svg,14154.8993,-4052.085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白銀吉田歯科医院,青森県八戸市白銀町字大沢頭２８-６,歯科,,,9" xlink:title="白銀吉田歯科医院" transform="ref(svg,14153.8841,-4051.8305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんどう歯科医院,青森県八戸市長苗代２-１７-５,歯科　小児歯科　矯正歯科,,,9" xlink:title="しんどう歯科医院" transform="ref(svg,14146.8518,-4052.5479)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,シンフォニー・デンタル・クリニック,青森県八戸市沼館４-４-８シンフォニープラザ沼館内２Ｆ,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="シンフォニー・デンタル・クリニック" transform="ref(svg,14149.5327,-4052.9174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅原歯科医院,青森県八戸市内丸１-３-２１,歯科,,,9" xlink:title="菅原歯科医院" transform="ref(svg,14148.9493,-4051.4399)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科クリニック,青森県八戸市南類家１-１２-４,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="スマイル歯科クリニック" transform="ref(svg,14150.3836,-4050.3301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関口歯科,青森県八戸市白銀町字姥畑３-７,歯科,,,9" xlink:title="関口歯科" transform="ref(svg,14154.3658,-4051.3688)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,だいすけ歯科,青森県八戸市湊高台４-１２-１４,歯科　小児歯科　矯正歯科,,,9" xlink:title="だいすけ歯科" transform="ref(svg,14154.0883,-4050.9532)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,多賀台歯科,青森県八戸市多賀台２-３-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="多賀台歯科" transform="ref(svg,14143.8777,-4058.4773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかのはし歯科医院,青森県八戸市白銀町字右岩淵通り１９-２．１８-１３,歯科,,,9" xlink:title="たかのはし歯科医院" transform="ref(svg,14153.5651,-4052.0763)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科クリニック,青森県八戸市白銀町字三島上２０-４,歯科,,,9" xlink:title="高橋歯科クリニック" transform="ref(svg,14154.2766,-4051.9993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科医院,青森県八戸市柏崎５-３-３５,歯科,,,9" xlink:title="高山歯科医院" transform="ref(svg,14150.2729,-4051.6527)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,滝沢北村歯科医院,青森県八戸市売市２-１-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="滝沢北村歯科医院" transform="ref(svg,14147.7603,-4050.7615)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立花歯科クリニック,青森県八戸市旭ヶ丘３-１-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="立花歯科クリニック" transform="ref(svg,14153.5221,-4049.833)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たものき歯科医院,青森県八戸市田面木字上田面木２０-４３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たものき歯科医院" transform="ref(svg,14144.4968,-4049.7168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちば歯科医院,青森県八戸市下長６-１４-２,歯科,,,9" xlink:title="ちば歯科医院" transform="ref(svg,14148.1719,-4053.5332)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つきだて歯科湊高台診療所,青森県八戸市湊高台２-１３-４２,歯科　小児歯科　矯正歯科,,,9" xlink:title="つきだて歯科湊高台診療所" transform="ref(svg,14153.8596,-4050.3175)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｄｅｎｔａｌ　Ｓａｌｏｎ　Ｋ,青森県八戸市石堂１-２７-１５,歯科　歯科口腔外科,,,9" xlink:title="Ｄｅｎｔａｌ　Ｓａｌｏｎ　Ｋ" transform="ref(svg,14147.5264,-4053.0914)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,トヨタ歯科医院,青森県八戸市下長５-１２-６,歯科,,,9" xlink:title="トヨタ歯科医院" transform="ref(svg,14147.8489,-4053.9705)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながおか歯科,青森県八戸市根城５-１３-１７,歯科,,,9" xlink:title="ながおか歯科" transform="ref(svg,14146.6234,-4050.7572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかさと歯科,青森県八戸市城下４-５-１３,歯科,,,9" xlink:title="なかさと歯科" transform="ref(svg,14149.048,-4052.0821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中里デンタルクリニック,青森県八戸市鷹匠小路１２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中里デンタルクリニック" transform="ref(svg,14149.2832,-4050.6937)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかだて歯科医院,青森県八戸市新井田西２-１４-１０,歯科　小児歯科,,,9" xlink:title="なかだて歯科医院" transform="ref(svg,14152.142,-4050.2894)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかの矯正歯科クリニック,青森県八戸市上徒士町２０-１,歯科,,,9" xlink:title="なかの矯正歯科クリニック" transform="ref(svg,14148.4243,-4050.5741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,青森県八戸市小中野２-１-９,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,14150.717,-4051.6647)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科クリニック,青森県八戸市根城２-１３-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="中村歯科クリニック" transform="ref(svg,14148.0027,-4050.194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）夏堀デンタルクリニック城下診療所,青森県八戸市城下１-１５-２８,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）夏堀デンタルクリニック城下診療所" transform="ref(svg,14149.1034,-4051.6429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科医院,青森県八戸市売市２-１２-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="成田歯科医院" transform="ref(svg,14147.2891,-4050.9108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新井田中里歯科,青森県八戸市新井田字常光田２５-３,歯科,,,9" xlink:title="新井田中里歯科" transform="ref(svg,14152.492,-4049.5114)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根城歯科クリニック,青森県八戸市根城３-２３-１６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="根城歯科クリニック" transform="ref(svg,14147.2612,-4050.3688)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根城よしだ歯科,青森県八戸市根城９-４-７,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="根城よしだ歯科" transform="ref(svg,14147.0047,-4050.8368)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根橋歯科医院,青森県八戸市白銀２-１-７,歯科,,,9" xlink:title="根橋歯科医院" transform="ref(svg,14154.441,-4052.3058)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のぶデンタルクリニック,青森県八戸市類家５-３８-１８,歯科　小児歯科,,,9" xlink:title="のぶデンタルクリニック" transform="ref(svg,14151.2675,-4050.3379)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハーモニー歯科医院,青森県八戸市南類家５-８-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="ハーモニー歯科医院" transform="ref(svg,14150.7758,-4049.8443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白山台歯科医院,青森県八戸市北白山台３-４-１７,歯科　小児歯科　矯正歯科,,,9" xlink:title="白山台歯科医院" transform="ref(svg,14146.5902,-4048.829)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はこいし歯科医院,青森県八戸市売市３-２-１６,歯科,,,9" xlink:title="はこいし歯科医院" transform="ref(svg,14147.1612,-4050.8499)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,畑山歯科医院,青森県八戸市根城２-２-５,歯科,,,9" xlink:title="畑山歯科医院" transform="ref(svg,14148.1586,-4050.068)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はたやま歯科医院,青森県八戸市吹上６-５-１,歯科　小児歯科,,,9" xlink:title="はたやま歯科医院" transform="ref(svg,14149.765,-4049.2874)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,畑山歯科クリニック,青森県八戸市長者１-１-６,歯科,,,9" xlink:title="畑山歯科クリニック" transform="ref(svg,14148.9361,-4050.5353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八戸クリニック歯科矯正歯科,青森県八戸市柏崎１-８-３２,歯科　矯正歯科,,,9" xlink:title="八戸クリニック歯科矯正歯科" transform="ref(svg,14149.529,-4051.2689)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハローデンタルオフィス,青森県八戸市諏訪１-１-９６,歯科　小児歯科,,,9" xlink:title="ハローデンタルオフィス" transform="ref(svg,14151.7295,-4051.6396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,樋口歯科医院,青森県八戸市城下３-１３-１５,歯科,,,9" xlink:title="樋口歯科医院" transform="ref(svg,14148.8178,-4052.2558)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）明誠会古川歯科医院,青森県八戸市小中野５-１１-３,歯科,,,9" xlink:title="（医）明誠会古川歯科医院" transform="ref(svg,14151.6073,-4052.2108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）フルダテ歯科,青森県八戸市八戸市内丸３-９-９,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）フルダテ歯科" transform="ref(svg,14149.3231,-4051.4407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほりべ歯科クリニック,青森県八戸市根城６-３-１２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ほりべ歯科クリニック" transform="ref(svg,14147.091,-4050.2942)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松尾歯科医院,青森県八戸市田面木字下田面木１３-３,歯科,,,9" xlink:title="松尾歯科医院" transform="ref(svg,14145.1466,-4049.9788)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松川歯科,青森県八戸市本徒士町８-６,歯科　小児歯科　矯正歯科,,,9" xlink:title="松川歯科" transform="ref(svg,14148.6238,-4050.8979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松舘歯科医院,青森県八戸市新井田西３-１８-１０,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="松舘歯科医院" transform="ref(svg,14151.712,-4049.4651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,丸谷歯科医院,青森県八戸市湊町字久保４４-２,歯科,,,9" xlink:title="丸谷歯科医院" transform="ref(svg,14152.6605,-4052.2374)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,溝口歯科医院,青森県八戸市柏崎６-２４-１９,歯科　小児歯科,,,9" xlink:title="溝口歯科医院" transform="ref(svg,14150.6267,-4051.3187)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮沢歯科矯正歯科医院,青森県八戸市一町３６-１,歯科　矯正歯科,,,9" xlink:title="宮沢歯科矯正歯科医院" transform="ref(svg,14148.9569,-4051.0229)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科医院,青森県八戸市湊町字上中道１１-１３,歯科,,,9" xlink:title="村上歯科医院" transform="ref(svg,14152.8962,-4052.2949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やち歯科クリニック,青森県八戸市諏訪３-１-２１,歯科,,,9" xlink:title="やち歯科クリニック" transform="ref(svg,14151.3286,-4050.9867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷地歯科医院,青森県八戸市柏崎１-１６１-１ロイヤルマンション柏崎１階,歯科　矯正歯科,,,9" xlink:title="谷地歯科医院" transform="ref(svg,14149.7126,-4051.2502)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,青森県八戸市南類家２-２-９,歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,14150.8825,-4050.1279)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,青森県八戸市沢里字二ツ屋３-１２,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,14147.8805,-4048.9692)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科医院,青森県八戸市湊町字柳町１-２,歯科,,,9" xlink:title="よしだ歯科医院" transform="ref(svg,14152.4791,-4052.2711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米沢歯科医院,青森県八戸市白銀台４-１-２０,歯科,,,9" xlink:title="米沢歯科医院" transform="ref(svg,14156.0352,-4051.5445)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あこう歯科医院,青森県八戸市南郷区市野沢字市野沢３３-１,歯科,,,9" xlink:title="あこう歯科医院" transform="ref(svg,14143.5668,-4040.1658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科,青森県八戸市南郷区島守字稲荷１-３,歯科,,,9" xlink:title="村上歯科" transform="ref(svg,14149.3608,-4041.9142)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石亀歯科クリニック,青森県三戸郡三戸町川守田字関根川原８５-１,歯科,,,9" xlink:title="石亀歯科クリニック" transform="ref(svg,14125.5586,-4038.0194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北村歯科医院,青森県三戸郡三戸町川守田字沖中３-２,歯科,,,9" xlink:title="北村歯科医院" transform="ref(svg,14126.6907,-4038.9626)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとうデンタルクリニック,青森県三戸郡三戸町八日町１９-１,歯科,,,9" xlink:title="さとうデンタルクリニック" transform="ref(svg,14125.5038,-4037.7643)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科医院,青森県三戸郡三戸町川守田字下比良３５三戸ショッピングセンター内,歯科　小児歯科　矯正歯科,,,9" xlink:title="ひまわり歯科医院" transform="ref(svg,14126.3236,-4039.7693)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松尾歯科医院,青森県三戸郡三戸町八日町５３-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="松尾歯科医院" transform="ref(svg,14125.6368,-4037.6986)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）夏堀デンタルクリニック福地診療所,青森県三戸郡南部町苫米地字町中２２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）夏堀デンタルクリニック福地診療所" transform="ref(svg,14137.9947,-4046.7018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲村歯科医院,青森県三戸郡南部町下名久井字如来堂６-１０,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="稲村歯科医院" transform="ref(svg,14133.5759,-4042.3458)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,青森県三戸郡南部町剣吉字桜場１-４,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,14134.6685,-4044.9836)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮沢歯科医院,青森県三戸郡南部町斗賀字上明戸１４,歯科　小児歯科　矯正歯科,,,9" xlink:title="宮沢歯科医院" transform="ref(svg,14134.4901,-4044.9575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,千葉歯科医院,青森県三戸郡南部町沖田面字千刈６２-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="千葉歯科医院" transform="ref(svg,14127.8277,-4041.0908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あこう歯科医院階上歯科診療所,青森県三戸郡階上町道仏字榊山１０-２１５,歯科,,,9" xlink:title="あこう歯科医院階上歯科診療所" transform="ref(svg,14166.4125,-4045.73)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柏崎歯科階上診療所,青森県三戸郡階上町道仏字耳ヶ吠３-５３７,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="柏崎歯科階上診療所" transform="ref(svg,14160.9569,-4045.6144)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蒼前歯科医院,青森県三戸郡階上町蒼前西７-９-１０７２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="蒼前歯科医院" transform="ref(svg,14157.2607,-4047.8864)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つきだて歯科医院,青森県三戸郡階上町道仏字耳ヶ吠６-４３９,歯科　小児歯科,,,9" xlink:title="つきだて歯科医院" transform="ref(svg,14161.3521,-4045.531)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小村歯科医院,青森県三戸郡五戸町熊ノ沢２５-１３,歯科,,,9" xlink:title="小村歯科医院" transform="ref(svg,14130.7522,-4052.678)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,第二船越歯科医院,青森県三戸郡五戸町野月２５-３,歯科,,,9" xlink:title="第二船越歯科医院" transform="ref(svg,14129.7375,-4052.2331)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田嶋歯科医院,青森県三戸郡五戸町下モ沢向２１-６６,歯科,,,9" xlink:title="田嶋歯科医院" transform="ref(svg,14130.5134,-4052.52)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科医院,青森県三戸郡五戸町下大町１２,歯科,,,9" xlink:title="成田歯科医院" transform="ref(svg,14130.0713,-4052.2852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふなこし歯科医院,青森県三戸郡五戸町上市川字高田８-１,歯科,,,9" xlink:title="ふなこし歯科医院" transform="ref(svg,14139.2485,-4055.5518)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,青森県三戸郡五戸町荒町１５-１,歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,14129.8542,-4052.0386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あとむら歯科医院,青森県上北郡おいらせ町青葉１-５０-１５０２,歯科,,,9" xlink:title="あとむら歯科医院" transform="ref(svg,14136.7959,-4065.9465)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柏崎歯科下田ショッピングセンター診療所,青森県上北郡おいらせ町中野平４０-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="柏崎歯科下田ショッピングセンター診療所" transform="ref(svg,14141.7784,-4060.1457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,めとき歯科医院,青森県上北郡おいらせ町青葉５-５０-２０４２,歯科,,,9" xlink:title="めとき歯科医院" transform="ref(svg,14137.4428,-4065.2622)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,青森県上北郡おいらせ町下明堂１-８,歯科　小児歯科,,,9" xlink:title="木村歯科医院" transform="ref(svg,14143.0646,-4059.3928)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,昆歯科医院,青森県上北郡おいらせ町上明堂８２,歯科,,,9" xlink:title="昆歯科医院" transform="ref(svg,14142.9906,-4059.7155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科,青森県上北郡おいらせ町下前田６２-１,歯科,,,9" xlink:title="スマイル歯科" transform="ref(svg,14143.0673,-4060.0927)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石亀歯科医院,青森県三戸郡田子町田子字田子３４-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="石亀歯科医院" transform="ref(svg,14115.233,-4034.1356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北村歯科医院,青森県三戸郡田子町田子字田子２４-４,歯科,,,9" xlink:title="北村歯科医院" transform="ref(svg,14115.0657,-4034.0275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,乗上歯科医院,青森県三戸郡田子町田子字田子６１,歯科,,,9" xlink:title="乗上歯科医院" transform="ref(svg,14114.9489,-4034.085)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大友歯科医院,青森県十和田市稲生町２０-３４,歯科　矯正歯科　小児歯科,,,9" xlink:title="大友歯科医院" transform="ref(svg,14121.5803,-4061.2554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浅原歯科医院,青森県十和田市西三番町１５-３７,歯科,,,9" xlink:title="浅原歯科医院" transform="ref(svg,14121.3632,-4061.1023)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲生歯科診療所,青森県十和田市稲生町１５-２４パルコビル５Ｆ,歯科,,,9" xlink:title="稲生歯科診療所" transform="ref(svg,14121.3247,-4061.369)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大竹歯科医院,青森県十和田市稲生町３-７大竹ビル２Ｆ,歯科,,,9" xlink:title="大竹歯科医院" transform="ref(svg,14120.9352,-4061.9732)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,官庁街歯科,青森県十和田市西二番町１３-２,歯科　歯科口腔外科,,,9" xlink:title="官庁街歯科" transform="ref(svg,14120.6931,-4061.4419)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科クリニック,青森県十和田市西二番町３-２５,歯科,,,9" xlink:title="佐々木歯科クリニック" transform="ref(svg,14120.9804,-4061.5694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さつき歯科医院,青森県十和田市東三番町１０-８１,歯科　矯正歯科　小児歯科,,,9" xlink:title="さつき歯科医院" transform="ref(svg,14121.9545,-4061.2701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,篠田歯科医院,青森県十和田市穂並町５-３８,歯科,,,9" xlink:title="篠田歯科医院" transform="ref(svg,14121.8222,-4060.7063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仁歯科医院,青森県十和田市大字三本木字並木西１７８-１０,歯科,,,9" xlink:title="仁歯科医院" transform="ref(svg,14119.9477,-4060.2976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瀬尾歯科医院,青森県十和田市西四番町１２-４２,歯科　矯正歯科　小児歯科,,,9" xlink:title="瀬尾歯科医院" transform="ref(svg,14121.1859,-4060.7695)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大学通り歯科医院,青森県十和田市東十二番町１２-４１,歯科　小児歯科,,,9" xlink:title="大学通り歯科医院" transform="ref(svg,14122.2464,-4062.0098)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,青森県十和田市稲生町８-５,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14121.0901,-4061.7871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかはしデンタルクリニック,青森県十和田市東二番町２-５０,歯科,,,9" xlink:title="たかはしデンタルクリニック" transform="ref(svg,14121.4149,-4061.6334)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タカヒロ矯正歯科医院,青森県十和田市東二十三番町２１-６,矯正歯科,,,9" xlink:title="タカヒロ矯正歯科医院" transform="ref(svg,14123.3955,-4062.4117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）高屋歯科医院,青森県十和田市稲生町２３-１０,歯科,,,9" xlink:title="（医）高屋歯科医院" transform="ref(svg,14121.6634,-4061.0357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立花歯科医院,青森県十和田市東十四番町１７-４０,歯科　矯正歯科,,,9" xlink:title="立花歯科医院" transform="ref(svg,14122.6329,-4060.966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田端歯科医院,青森県十和田市西四番町４-３７,歯科,,,9" xlink:title="田端歯科医院" transform="ref(svg,14121.4464,-4060.8834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）十和田歯科,青森県十和田市東三番町４-１５,歯科　矯正歯科,,,9" xlink:title="（医）十和田歯科" transform="ref(svg,14121.7656,-4061.4125)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,波紫歯科診療室,青森県十和田市西十二番町７-２７,歯科,,,9" xlink:title="波紫歯科診療室" transform="ref(svg,14120.2644,-4061.3611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤坂歯科診療所,青森県十和田市大字相坂字小林１１５-３,歯科,,,9" xlink:title="藤坂歯科診療所" transform="ref(svg,14123.3326,-4059.561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふくい歯科クリニック,青森県十和田市東二番町８-１５,歯科　小児歯科,,,9" xlink:title="ふくい歯科クリニック" transform="ref(svg,14121.7548,-4062.0357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科クリニック,青森県十和田市東二十三番町１-５,歯科　歯科口腔外科,,,9" xlink:title="村上歯科クリニック" transform="ref(svg,14122.7237,-4062.1169)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,青森県十和田市西三番町１４-４４,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,14121.3576,-4061.1775)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ポプラ歯科医院,青森県十和田市西二十二番町２７-１９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ポプラ歯科医院" transform="ref(svg,14119.5882,-4060.8003)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）みきのがはら歯科医院,青森県十和田市東一番町１０-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）みきのがはら歯科医院" transform="ref(svg,14121.6182,-4062.4327)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,第二渡辺歯科,青森県十和田市大字奥瀬字小沢口９５-１,歯科,,,9" xlink:title="第二渡辺歯科" transform="ref(svg,14111.0074,-4058.7779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青の森歯科医院,青森県十和田市東十三番町２５-２８-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="青の森歯科医院" transform="ref(svg,14122.6227,-4061.7573)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富田歯科医院,青森県三沢市松園町２-１-４６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="富田歯科医院" transform="ref(svg,14136.5118,-4067.947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石岡歯科医院,青森県三沢市中央町１-６-６,歯科,,,9" xlink:title="石岡歯科医院" transform="ref(svg,14136.6998,-4068.2254)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石要歯科,青森県三沢市本町２-８１-２,歯科,,,9" xlink:title="石要歯科" transform="ref(svg,14135.2831,-4067.0573)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）愛歯会黒田歯科医院,青森県三沢市幸町１-２-２３,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）愛歯会黒田歯科医院" transform="ref(svg,14136.8759,-4068.4509)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）育生会奥寺歯科,青森県三沢市中央町３-１０-２４,歯科,,,9" xlink:title="（医）育生会奥寺歯科" transform="ref(svg,14136.1852,-4067.9863)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）第二黒田歯科診療所,青森県三沢市中央町４-１１-３９,歯科,,,9" xlink:title="（医）第二黒田歯科診療所" transform="ref(svg,14136.4551,-4067.8855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）よしだ歯科医院,青森県三沢市東町１-１-１０,歯科,,,9" xlink:title="（医）よしだ歯科医院" transform="ref(svg,14137.3566,-4067.9018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡三沢歯科クリニック,青森県三沢市岡三沢２-５-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="岡三沢歯科クリニック" transform="ref(svg,14137.5159,-4068.8273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川市歯科医院,青森県三沢市中央町３-７-２３,歯科,,,9" xlink:title="川市歯科医院" transform="ref(svg,14136.2977,-4068.1059)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,篠田歯科医院,青森県三沢市下久保３-１９-５,歯科,,,9" xlink:title="篠田歯科医院" transform="ref(svg,14138.2528,-4069.0634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たなべ歯科・矯正歯科医院,青森県三沢市美野原１-１３-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たなべ歯科・矯正歯科医院" transform="ref(svg,14137.7463,-4068.4342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山木歯科医院,青森県三沢市松園町３-７-９,歯科　矯正歯科,,,9" xlink:title="山木歯科医院" transform="ref(svg,14136.3926,-4067.6561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なみおか歯科医院,青森県三沢市松園町２-１２-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="なみおか歯科医院" transform="ref(svg,14136.714,-4067.6459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あしはらデンタルクリニック,青森県三沢市東町１-１２-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あしはらデンタルクリニック" transform="ref(svg,14137.5526,-4067.7387)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＴＯＪＯ　ＤＥＮＴＡＬ　ＣＬＩＮＩＣ,青森県三沢市中央町４-３-１９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ＴＯＪＯ　ＤＥＮＴＡＬ　ＣＬＩＮＩＣ" transform="ref(svg,14136.3866,-4068.0128)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えびな歯科クリニック,青森県三沢市東町４-４-７,歯科,,,9" xlink:title="えびな歯科クリニック" transform="ref(svg,14137.9401,-4067.7051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ワイズ歯科,青森県三沢市下久保３-１８-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ワイズ歯科" transform="ref(svg,14138.351,-4069.1325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つきだて歯科診療室,青森県三沢市美野原２-２２-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="つきだて歯科診療室" transform="ref(svg,14137.8553,-4068.1701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,青森県上北郡七戸町字七戸２０１,歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,14115.3248,-4069.7368)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高田歯科医院,青森県上北郡七戸町字笊田１３-２,歯科,,,9" xlink:title="高田歯科医院" transform="ref(svg,14116.1542,-4069.5916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あらと歯科クリニック,青森県上北郡七戸町字森ノ上２１４-２,歯科,,,9" xlink:title="あらと歯科クリニック" transform="ref(svg,14115.7578,-4074.5717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山松歯科クリニック,青森県上北郡七戸町字七戸２９１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山松歯科クリニック" transform="ref(svg,14115.386,-4069.5927)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科,青森県上北郡七戸町字七戸３２５-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="小川歯科" transform="ref(svg,14115.665,-4069.6232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）奥寺歯科医院,青森県上北郡六戸町大字犬落瀬字若宮２-３,歯科,,,9" xlink:title="（医）奥寺歯科医院" transform="ref(svg,14132.7416,-4060.3463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,青森県上北郡六戸町大字犬落瀬字後田５２-４８,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,14132.5879,-4060.6851)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小松ヶ丘歯科医院,青森県上北郡六戸町小松ヶ丘３-７７-１０７６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小松ヶ丘歯科医院" transform="ref(svg,14134.4061,-4065.9915)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かみきたデンタルクリニック,青森県上北郡東北町旭北１-３１-９０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かみきたデンタルクリニック" transform="ref(svg,14126.6778,-4073.2787)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沼山歯科医院,青森県上北郡東北町上北南３-３２-５５４,歯科,,,9" xlink:title="沼山歯科医院" transform="ref(svg,14125.9065,-4072.885)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大島歯科医院,青森県上北郡東北町字膳前４１-１０,歯科,,,9" xlink:title="大島歯科医院" transform="ref(svg,14121.0648,-4078.0319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保田歯科医院,青森県上北郡東北町字上笹崎１６-８,歯科,,,9" xlink:title="久保田歯科医院" transform="ref(svg,14121.6407,-4077.7897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せきの歯科医院,青森県青森市大字横内字亀井５９-３,歯科　小児歯科,,,9" xlink:title="せきの歯科医院" transform="ref(svg,14076.6103,-4077.6751)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大浦内科・歯科クリニック,岩手県盛岡市津志田西２-１３-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="大浦内科・歯科クリニック" transform="ref(svg,14115.0291,-3966.3909)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,障害者・要介護者歯科診療センター,岩手県盛岡市盛岡駅西通２-５-２５,歯科　小児歯科,,,9" xlink:title="障害者・要介護者歯科診療センター" transform="ref(svg,14113.5222,-3969.9947)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中澤歯科医院,岩手県宮古市大通４-４-２,歯科,,,9" xlink:title="中澤歯科医院" transform="ref(svg,14194.8705,-3964.1216)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルオフィス松橋,岩手県宮古市保久田４-２６,歯科,,,9" xlink:title="デンタルオフィス松橋" transform="ref(svg,14194.7454,-3964.2799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松山歯科医院,岩手県宮古市磯鶏沖９-３４,歯科,,,9" xlink:title="松山歯科医院" transform="ref(svg,14196.2267,-3962.7743)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉川歯科医院,岩手県宮古市築地１-３-４,歯科,,,9" xlink:title="吉川歯科医院" transform="ref(svg,14195.7198,-3964.2967)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,澤田歯科医院,岩手県宮古市築地２-６-４,歯科,,,9" xlink:title="澤田歯科医院" transform="ref(svg,14196.1299,-3964.1293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮古歯科医院,岩手県宮古市宮町２-２-３４,歯科,,,9" xlink:title="宮古歯科医院" transform="ref(svg,14194.5863,-3963.8166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,林歯科クリニック,岩手県宮古市西町１-７-３８,歯科,,,9" xlink:title="林歯科クリニック" transform="ref(svg,14194.413,-3964.6325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,道又歯科医院,岩手県宮古市鍬ケ崎上町８-２０,歯科　小児歯科,,,9" xlink:title="道又歯科医院" transform="ref(svg,14196.6485,-3964.4552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科伊藤医院,岩手県宮古市大通１-３-１３,歯科,,,9" xlink:title="歯科伊藤医院" transform="ref(svg,14195.2138,-3964.0964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寿歯科医院,岩手県宮古市黒田町４-１,歯科,,,9" xlink:title="寿歯科医院" transform="ref(svg,14195.173,-3964.3011)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルクリニック駒井,岩手県宮古市上鼻２-２-１,歯科,,,9" xlink:title="デンタルクリニック駒井" transform="ref(svg,14191.4137,-3963.2428)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中居歯科医院,岩手県宮古市保久田８-１０,歯科,,,9" xlink:title="中居歯科医院" transform="ref(svg,14194.6916,-3964.3707)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久保歯科医院,岩手県宮古市鍬ヶ崎上町２-２４,歯科　小児歯科,,,9" xlink:title="久保歯科医院" transform="ref(svg,14196.6479,-3964.2829)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くらた歯科医院,岩手県宮古市実田１-７-１７,歯科,,,9" xlink:title="くらた歯科医院" transform="ref(svg,14195.4961,-3962.4987)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐原歯科医院,岩手県宮古市佐原３-４-１,歯科　小児歯科,,,9" xlink:title="佐原歯科医院" transform="ref(svg,14195.5284,-3965.6122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,岩手県宮古市小山田２-７-６９,歯科　矯正歯科　小児歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,14194.0333,-3963.3627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科矯正クリニック,岩手県宮古市太田１-５-１０,歯科　矯正歯科,,,9" xlink:title="さいとう歯科矯正クリニック" transform="ref(svg,14192.7567,-3963.9121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本デンタルオフィス,岩手県宮古市南町１５-９,歯科,,,9" xlink:title="橋本デンタルオフィス" transform="ref(svg,14195.0463,-3963.8721)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,岩手県宮古市田老字向新田１４８,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,14197.1357,-3979.0228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,昆デンタルクリニック,岩手県宮古市津軽石５地割８８-１,歯科,,,9" xlink:title="昆デンタルクリニック" transform="ref(svg,14193.5965,-3957.7265)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒田歯科,岩手県宮古市藤原２-１０-１５,歯科,,,9" xlink:title="黒田歯科" transform="ref(svg,14196.1023,-3963.6568)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木澤歯科医院,岩手県下閉伊郡山田町長崎４-１４-６,歯科　小児歯科,,,9" xlink:title="木澤歯科医院" transform="ref(svg,14194.4279,-3946.1852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大川歯科クリニック,岩手県下閉伊郡岩泉町岩泉字中家９-７,歯科,,,9" xlink:title="大川歯科クリニック" transform="ref(svg,14179.4765,-3984.5243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八重樫歯科,岩手県下閉伊郡岩泉町岩泉字森ノ越３-１０,歯科,,,9" xlink:title="八重樫歯科" transform="ref(svg,14179.9141,-3984.7178)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おがわ歯科,岩手県下閉伊郡岩泉町岩泉字中家４５-２,歯科,,,9" xlink:title="おがわ歯科" transform="ref(svg,14179.5711,-3984.6989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前原歯科クリニック,岩手県下閉伊郡田野畑村和野１５-２９,歯科,,,9" xlink:title="前原歯科クリニック" transform="ref(svg,14193.6189,-3993.3342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩泉町国民健康保険岩泉歯科診療所,岩手県下閉伊郡岩泉町岩泉字惣畑５９-５,歯科,,,9" xlink:title="岩泉町国民健康保険岩泉歯科診療所" transform="ref(svg,14179.6479,-3984.3113)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こがわ歯科診療所,岩手県下閉伊郡岩泉町門字町向３２-１,歯科,,,9" xlink:title="こがわ歯科診療所" transform="ref(svg,14165.2946,-3987.5679)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,留理歯科医院,岩手県下閉伊郡山田町豊間根２-１０５-１,歯科　歯科口腔外科,,,9" xlink:title="留理歯科医院" transform="ref(svg,14192.7369,-3953.2946)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,窪島歯科医院,岩手県二戸市福岡字長嶺５５-４,歯科,,,9" xlink:title="窪島歯科医院" transform="ref(svg,14129.8807,-4028.1645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,國香歯科医院,岩手県二戸市石切所字川原６０-３,歯科,,,9" xlink:title="國香歯科医院" transform="ref(svg,14129.0146,-4025.8412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅歯科,岩手県二戸市福岡字橋場１８-３,歯科,,,9" xlink:title="菅歯科" transform="ref(svg,14129.6977,-4026.4701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀米歯科医院,岩手県九戸郡軽米町大字軽米７-３４-２,歯科,,,9" xlink:title="堀米歯科医院" transform="ref(svg,14146.3777,-4032.5102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮沢歯科医院,岩手県九戸郡軽米町大字軽米第８地割１０５,歯科　歯科口腔外科,,,9" xlink:title="宮沢歯科医院" transform="ref(svg,14146.4527,-4032.7253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊保内歯科医院,岩手県九戸郡九戸村大字伊保内第１２地割１８,歯科,,,9" xlink:title="伊保内歯科医院" transform="ref(svg,14142.3366,-4020.5258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科医院,岩手県二戸市浄法寺町字浄法寺３-１,歯科,,,9" xlink:title="関歯科医院" transform="ref(svg,14115.8116,-4018.3271)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阿部歯科クリニック,岩手県二戸市福岡字上町１３-２,歯科,,,9" xlink:title="阿部歯科クリニック" transform="ref(svg,14130.0963,-4027.2994)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）陽和会ほんだ歯科クリニック,岩手県二戸市石切所字枋ノ木１０-１７,歯科　矯正歯科,,,9" xlink:title="（医）陽和会ほんだ歯科クリニック" transform="ref(svg,14128.829,-4026.0263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野寺歯科医院,岩手県二戸郡一戸町高善寺字野田５６-１３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小野寺歯科医院" transform="ref(svg,14129.8257,-4021.4501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,岩手県二戸市堀野字長瀬２７-２,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,14129.457,-4029.2374)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国香歯科医院,岩手県二戸市福岡字裏小路６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="国香歯科医院" transform="ref(svg,14129.9089,-4027.5268)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩渕歯科医院,岩手県二戸郡一戸町一戸字向町５８-４,歯科,,,9" xlink:title="岩渕歯科医院" transform="ref(svg,14129.8918,-4021.5607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,右門歯科クリニック,岩手県二戸市浄法寺町樋田３８-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="右門歯科クリニック" transform="ref(svg,14115.487,-4018.4571)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅原歯科クリニック,岩手県二戸市福岡字川又３-８,歯科,,,9" xlink:title="菅原歯科クリニック" transform="ref(svg,14130.3724,-4027.0387)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沢藤歯科医院,岩手県二戸市堀野字下夕川原７-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="沢藤歯科医院" transform="ref(svg,14129.5647,-4029.0249)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,曽根歯科医院,岩手県二戸市金田一字野月２０２-３,歯科,,,9" xlink:title="曽根歯科医院" transform="ref(svg,14130.4623,-4031.6571)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ムカイダ歯科クリニック,岩手県九戸郡軽米町大字軽米第８地割３-１,歯科,,,9" xlink:title="ムカイダ歯科クリニック" transform="ref(svg,14146.5893,-4032.4529)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科・矯正歯科医院,岩手県久慈市本町２-４０,歯科　矯正歯科,,,9" xlink:title="吉田歯科・矯正歯科医院" transform="ref(svg,14176.9803,-4018.7438)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮澤歯科医院,岩手県久慈市八日町１-３７,歯科　小児歯科,,,9" xlink:title="宮澤歯科医院" transform="ref(svg,14176.1975,-4019.2413)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）二紀会岩城歯科医院,岩手県久慈市川崎町９-３１,歯科,,,9" xlink:title="（医）二紀会岩城歯科医院" transform="ref(svg,14177.2716,-4019.0475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村田歯科医院,岩手県九戸郡野田村大字野田２８-５１-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="村田歯科医院" transform="ref(svg,14181.6751,-4011.4663)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久慈歯科医院,岩手県久慈市本町２-５８-１,歯科,,,9" xlink:title="久慈歯科医院" transform="ref(svg,14177.0457,-4018.7537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,洋野町国民健康保険大野歯科診療所,岩手県九戸郡洋野町大野８-８３-４,歯科,,,9" xlink:title="洋野町国民健康保険大野歯科診療所" transform="ref(svg,14162.7125,-4028.5575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口歯科医院,岩手県久慈市山形町川井９-８-６,歯科,,,9" xlink:title="田口歯科医院" transform="ref(svg,14157.066,-4014.9229)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩本歯科医院,岩手県久慈市田屋町第１地割４８,歯科,,,9" xlink:title="岩本歯科医院" transform="ref(svg,14177.1498,-4019.5256)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八重樫歯科医院,岩手県久慈市栄町３７-１２８-１０,歯科,,,9" xlink:title="八重樫歯科医院" transform="ref(svg,14176.2007,-4019.5131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関合歯科クリニック,岩手県久慈市長内町２１-１-１,歯科,,,9" xlink:title="関合歯科クリニック" transform="ref(svg,14177.4383,-4018.1055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,普代村国民健康保険歯科診療所,岩手県下閉伊郡普代村第１０地割羅賀７-８,歯科,,,9" xlink:title="普代村国民健康保険歯科診療所" transform="ref(svg,14188.3816,-4000.1654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青木歯科医院,岩手県九戸郡洋野町種市２３-２９-９,歯科,,,9" xlink:title="青木歯科医院" transform="ref(svg,14171.6621,-4040.8976)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大橋歯科医院,岩手県久慈市八日町２-４-２,歯科　小児歯科,,,9" xlink:title="大橋歯科医院" transform="ref(svg,14176.3829,-4019.1236)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中野歯科,岩手県九戸郡洋野町中野１２-１９,歯科,,,9" xlink:title="中野歯科" transform="ref(svg,14177.6757,-4029.9339)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまぐち歯科医院,岩手県久慈市中央２-１６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまぐち歯科医院" transform="ref(svg,14176.8886,-4019.0625)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長内歯科医院,岩手県久慈市長内町３０-１６-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="長内歯科医院" transform="ref(svg,14178.5156,-4018.8689)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,篠村歯科医院,岩手県岩手郡雫石町１０地割字寺の下５７-１,歯科,,,9" xlink:title="篠村歯科医院" transform="ref(svg,14097.5533,-3968.9921)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,土樋歯科医院,岩手県岩手郡雫石町千刈田８０-３,歯科　小児歯科,,,9" xlink:title="土樋歯科医院" transform="ref(svg,14097.5964,-3969.774)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たにふじ歯科医院,岩手県岩手郡雫石町高前田１１８-１２,歯科　小児歯科,,,9" xlink:title="たにふじ歯科医院" transform="ref(svg,14096.33,-3969.5835)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科医院,岩手県岩手郡葛巻町葛巻１３地割５１,歯科,,,9" xlink:title="遠藤歯科医院" transform="ref(svg,14144.2268,-4004.0913)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,コアラ歯科,岩手県岩手郡葛巻町葛巻第１５地割３４-１,歯科　小児歯科,,,9" xlink:title="コアラ歯科" transform="ref(svg,14143.5704,-4004.1469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,岩手県岩手郡葛巻町葛巻第１２地割２４-６,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14144.1134,-4004.0532)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）紀耶会沼宮内歯科医院,岩手県岩手郡岩手町大字江刈内１０-５３,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）紀耶会沼宮内歯科医院" transform="ref(svg,14122.0891,-3996.6293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長沢歯科医院,岩手県岩手郡岩手町江刈内１１-１３,歯科,,,9" xlink:title="長沢歯科医院" transform="ref(svg,14122.2267,-3996.9628)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三宅歯科医院,岩手県岩手郡岩手町沼宮内６地割２３-２,歯科,,,9" xlink:title="三宅歯科医院" transform="ref(svg,14122.3798,-3997.1591)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮田歯科医院,岩手県岩手郡岩手町大字沼宮内７-１８-２,歯科　小児歯科,,,9" xlink:title="宮田歯科医院" transform="ref(svg,14122.3165,-3997.1957)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村木歯科クリニック,岩手県岩手郡岩手町大字五日市第１１地割字上苗代沢１３１-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="村木歯科クリニック" transform="ref(svg,14121.5539,-3996.6655)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一戸歯科クリニック,岩手県八幡平市大更２４-３０,歯科,,,9" xlink:title="一戸歯科クリニック" transform="ref(svg,14109.1166,-3991.4259)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,岩手県八幡平市大更２５地割１１７-２,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,14109.7222,-3991.3949)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,岩手県八幡平市大更２２-１６２,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14109.6349,-3990.9014)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかしま歯科医院,岩手県八幡平市大更第１６地割４-２４１,歯科　小児歯科,,,9" xlink:title="たかしま歯科医院" transform="ref(svg,14109.422,-3989.5749)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,岩手県八幡平市平舘９-２３８-１,歯科,,,9" xlink:title="前田歯科医院" transform="ref(svg,14109.2577,-3994.8712)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）貴成会山口歯科医院,岩手県八幡平市大更３５-６３-４４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）貴成会山口歯科医院" transform="ref(svg,14109.5913,-3992.5631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小岩井駅前歯科,岩手県滝沢市大釜風林６１-９７,歯科　小児歯科,,,9" xlink:title="小岩井駅前歯科" transform="ref(svg,14102.3171,-3970.997)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こだま歯科医院,岩手県滝沢市室小路６６３-１５,歯科　矯正歯科　小児歯科,,,9" xlink:title="こだま歯科医院" transform="ref(svg,14109.9379,-3973.5537)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たきざわ駅前歯科医院,岩手県滝沢市大崎２６１-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たきざわ駅前歯科医院" transform="ref(svg,14114.5489,-3979.9677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つなぎ歯科医院,岩手県岩手郡雫石町板橋４１-１１,歯科,,,9" xlink:title="つなぎ歯科医院" transform="ref(svg,14102.3573,-3969.8899)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科,岩手県滝沢市大釜外舘１１８-１,歯科,,,9" xlink:title="中村歯科" transform="ref(svg,14107.1517,-3970.8448)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沼田歯科クリニック,岩手県岩手郡雫石町町裏８８,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="沼田歯科クリニック" transform="ref(svg,14097.6998,-3969.1466)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のざわ歯科医院,岩手県滝沢市野沢６２-１００３,歯科,,,9" xlink:title="のざわ歯科医院" transform="ref(svg,14114.3494,-3979.9326)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はの木沢歯科医院,岩手県滝沢市葉の木沢山３８６-３,歯科　小児歯科,,,9" xlink:title="はの木沢歯科医院" transform="ref(svg,14114.2112,-3977.6176)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平栗歯科,岩手県滝沢市鵜飼笹森５-３３,歯科,,,9" xlink:title="平栗歯科" transform="ref(svg,14108.8415,-3973.1722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらの歯科医院,岩手県滝沢市穴口５７-４７,歯科　矯正歯科　小児歯科,,,9" xlink:title="ひらの歯科医院" transform="ref(svg,14112.0684,-3974.6699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福士歯科医院,岩手県滝沢市穴口３１４-６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="福士歯科医院" transform="ref(svg,14109.9963,-3973.1028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三浦歯科医院,岩手県滝沢市巣子１１８８-４１,歯科,,,9" xlink:title="三浦歯科医院" transform="ref(svg,14113.2951,-3977.624)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,南舘歯科・小児歯科医院,岩手県滝沢市土沢３０８-１,歯科　小児歯科,,,9" xlink:title="南舘歯科・小児歯科医院" transform="ref(svg,14110.1965,-3975.1105)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまのかみ歯科医院,岩手県滝沢市中鵜飼７９-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="やまのかみ歯科医院" transform="ref(svg,14107.6275,-3973.3819)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八幡歯科医院,岩手県滝沢市鵜飼狐洞１-８９,歯科　小児歯科,,,9" xlink:title="八幡歯科医院" transform="ref(svg,14108.4299,-3973.8908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渋民歯科クリニック,岩手県盛岡市玉山区渋民字泉田２００,歯科　矯正歯科,,,9" xlink:title="渋民歯科クリニック" transform="ref(svg,14116.8364,-3984.6945)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,岩手県盛岡市玉山区好摩夏間木１０７-４,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,14117.2677,-3987.3568)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アオキ歯科医院,岩手県八幡平市荒屋新町１０９,歯科,,,9" xlink:title="アオキ歯科医院" transform="ref(svg,14104.8076,-4009.9279)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小原歯科医院,岩手県八幡平市清水９０-２,歯科,,,9" xlink:title="小原歯科医院" transform="ref(svg,14105.0024,-4010.5084)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科,岩手県紫波郡紫波町日詰下丸森９-１,歯科,,,9" xlink:title="ささき歯科" transform="ref(svg,14116.3009,-3955.6701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,城北歯科医院,岩手県紫波郡紫波町高水寺字古屋敷８９-４,歯科,,,9" xlink:title="城北歯科医院" transform="ref(svg,14116.4103,-3957.4898)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,岩手県紫波郡矢巾町又兵エ新田４-９-１,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14114.3313,-3961.571)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つのだ歯科・矯正歯科医院,岩手県紫波郡紫波町桜町２-１-５,歯科　矯正歯科,,,9" xlink:title="つのだ歯科・矯正歯科医院" transform="ref(svg,14116.7476,-3954.8089)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,岩手県紫波郡紫波町中島字桜田１-１３３,歯科　矯正歯科　小児歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,14116.1897,-3957.7296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひづめ歯科医院,岩手県紫波郡紫波町日詰西６-５-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="ひづめ歯科医院" transform="ref(svg,14116.4318,-3955.2396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平井歯科医院,岩手県紫波郡紫波町北日詰字白旗４９,歯科,,,9" xlink:title="平井歯科医院" transform="ref(svg,14116.3275,-3954.1968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふかざわ歯科医院,岩手県紫波郡紫波町北日詰字大日堂１５-６,歯科,,,9" xlink:title="ふかざわ歯科医院" transform="ref(svg,14116.7395,-3953.7907)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まきふじ歯科医院,岩手県紫波郡紫波町平沢字松田１-１,歯科,,,9" xlink:title="まきふじ歯科医院" transform="ref(svg,14115.4199,-3955.0809)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,六本木歯科医院,岩手県紫波郡紫波町日詰字郡山駅２０５,歯科,,,9" xlink:title="六本木歯科医院" transform="ref(svg,14116.9948,-3955.6606)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,岩手県紫波郡紫波町日詰字下丸森１２０-４,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,14116.7696,-3955.62)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）潤心会神の前歯科小児科歯科医院,岩手県紫波郡矢巾町大字南矢幅第１３地割２９-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）潤心会神の前歯科小児科歯科医院" transform="ref(svg,14114.4391,-3960.8042)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,煙山歯科医院,岩手県紫波郡矢巾町大字上矢次第７地割１２６,歯科,,,9" xlink:title="煙山歯科医院" transform="ref(svg,14114.1651,-3962.3517)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,岩手県紫波郡矢巾町高田１１-１-３,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14117.3329,-3962.855)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,岩手県紫波郡矢巾町又兵エ新田８-１４３,歯科　小児歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14115.653,-3961.2273)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スマイル歯科医院,岩手県紫波郡矢巾町大字西徳田第５地割６８-７,歯科,,,9" xlink:title="スマイル歯科医院" transform="ref(svg,14116.9333,-3961.2694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,染井デンタルクリニック,岩手県紫波郡矢巾町南矢幅８-２５０,歯科　矯正歯科　小児歯科,,,9" xlink:title="染井デンタルクリニック" transform="ref(svg,14115.3779,-3960.9189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はこざき歯科クリニック,岩手県紫波郡矢巾町大字高田１０地割字大畑２７-９２,歯科,,,9" xlink:title="はこざき歯科クリニック" transform="ref(svg,14117.3306,-3962.464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平野歯科クリニック,岩手県紫波郡矢巾町流通センター南３-１-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="平野歯科クリニック" transform="ref(svg,14111.6207,-3963.4181)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星と虹歯科クリニック,岩手県紫波郡矢巾町大字南矢幅１４-２３-１６ディアス花やはば２Ｆ,歯科,,,9" xlink:title="星と虹歯科クリニック" transform="ref(svg,14114.593,-3960.3155)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矢巾歯科診療所,岩手県紫波郡矢巾町又兵ェ新田７-１８９,歯科　矯正歯科　小児歯科,,,9" xlink:title="矢巾歯科診療所" transform="ref(svg,14115.2479,-3961.3632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）慧和会流通センター歯科診療所,岩手県紫波郡矢巾町流通センター南１-２-１５流通会館２Ｆ,歯科,,,9" xlink:title="（医）慧和会流通センター歯科診療所" transform="ref(svg,14111.2335,-3963.8254)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あい歯科クリニック,岩手県盛岡市月が丘３-３９-５０,歯科,,,9" xlink:title="あい歯科クリニック" transform="ref(svg,14110.8372,-3973.81)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,愛歯科診療所,岩手県盛岡市向中野１-１０-３１,歯科　矯正歯科　小児歯科,,,9" xlink:title="愛歯科診療所" transform="ref(svg,14114.3652,-3968.1816)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤坂歯科医院,岩手県盛岡市八幡町１-１１,歯科,,,9" xlink:title="赤坂歯科医院" transform="ref(svg,14115.778,-3969.7867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤ちゃん・こども歯科,岩手県盛岡市上田２-９-２１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="赤ちゃん・こども歯科" transform="ref(svg,14114.3852,-3971.6526)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あにわ歯科クリニック,岩手県盛岡市東安庭３-１５-２,歯科　小児歯科,,,9" xlink:title="あにわ歯科クリニック" transform="ref(svg,14116.6753,-3967.7441)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,岩手県盛岡市上田１-１６-１２,歯科　矯正歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,14114.2489,-3971.0971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,壱番舘歯科クリニック,岩手県盛岡市永井２２-３-１１８　ＳＡＷＡＸ壱番舘１Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="壱番舘歯科クリニック" transform="ref(svg,14115.377,-3965.5123)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科医院,岩手県盛岡市東山１-１９-２１,歯科　小児歯科,,,9" xlink:title="いとう歯科医院" transform="ref(svg,14117.5777,-3969.003)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊保内歯科クリニック,岩手県盛岡市菜園２-２-２３,歯科,,,9" xlink:title="伊保内歯科クリニック" transform="ref(svg,14114.6328,-3970.1189)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今井歯科医院,岩手県盛岡市中央通３-１５-１７,歯科　小児歯科,,,9" xlink:title="今井歯科医院" transform="ref(svg,14113.9983,-3970.5198)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）紀耶会岩渕歯科医院,岩手県盛岡市天神町９-１５,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）紀耶会岩渕歯科医院" transform="ref(svg,14116.4941,-3970.3456)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上島歯科医院,岩手県盛岡市青山２-１６-２３,歯科,,,9" xlink:title="上島歯科医院" transform="ref(svg,14111.1917,-3972.4882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上田歯科医院,岩手県盛岡市上田４-２０-３,歯科　歯科口腔外科,,,9" xlink:title="上田歯科医院" transform="ref(svg,14113.7421,-3972.0534)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うしぶくろ歯科医院,岩手県盛岡市中堤町１３-４３,歯科　矯正歯科　小児歯科,,,9" xlink:title="うしぶくろ歯科医院" transform="ref(svg,14110.8079,-3971.9188)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内田歯科クリニック,岩手県盛岡市大通３-７-２０,歯科　矯正歯科　小児歯科,,,9" xlink:title="内田歯科クリニック" transform="ref(svg,14114.0989,-3970.3392)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内丸歯科クリニック,岩手県盛岡市内丸１７-３０トーカンジェネラス内丸１Ｆ,歯科　歯科口腔外科,,,9" xlink:title="内丸歯科クリニック" transform="ref(svg,14115.4153,-3970.4873)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,駅西通りおばら歯科医院,岩手県盛岡市盛岡駅西通１-５-３,歯科　小児歯科,,,9" xlink:title="駅西通りおばら歯科医院" transform="ref(svg,14113.0966,-3970.3055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科医院,岩手県盛岡市上厨川横長根７６-３,歯科　小児歯科,,,9" xlink:title="遠藤歯科医院" transform="ref(svg,14108.4222,-3970.6863)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科クリニック,岩手県盛岡市大沢川原３-６-３１ライオンズマンション開運橋２１１,歯科,,,9" xlink:title="遠藤歯科クリニック" transform="ref(svg,14114.1149,-3970.1768)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,岩手県盛岡市上太田金財１-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="太田歯科医院" transform="ref(svg,14108.9872,-3969.3024)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大館歯科クリニック,岩手県盛岡市大館町２６-５０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="大館歯科クリニック" transform="ref(svg,14110.9485,-3971.2992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小笠原歯科医院,岩手県盛岡市清水町６-２８,歯科,,,9" xlink:title="小笠原歯科医院" transform="ref(svg,14115.0652,-3969.6474)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）大樹会小笠原歯科クリニック,岩手県盛岡市本宮３-３２-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）大樹会小笠原歯科クリニック" transform="ref(svg,14113.1909,-3969.0201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,岩手県盛岡市仙北１-１４-４９,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,14114.9764,-3969.0331)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,岩手県盛岡市紺屋町６-１,歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,14115.6844,-3970.3465)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おかだ歯科医院,岩手県盛岡市上田堤２-２-２０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="おかだ歯科医院" transform="ref(svg,14115.2429,-3973.0087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,じろう歯科クリニック,岩手県盛岡市開運橋通１-２１,歯科　小児歯科,,,9" xlink:title="じろう歯科クリニック" transform="ref(svg,14114.3404,-3970.2878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）小川歯科医院,岩手県盛岡市黒川９-２０-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）小川歯科医院" transform="ref(svg,14118.3634,-3963.1685)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小田中歯科医院,岩手県盛岡市湯沢西３-４-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="小田中歯科医院" transform="ref(svg,14109.5742,-3963.9419)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おとべ歯科クリニック,岩手県盛岡市乙部４地割１５-２,歯科　小児歯科,,,9" xlink:title="おとべ歯科クリニック" transform="ref(svg,14119.1151,-3961.6911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,岩手県盛岡市月が丘３-３２-６,歯科　小児歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,14110.8659,-3973.6056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山田歯科医院,岩手県盛岡市盛岡駅前通８-１１盛岡駅前ビル３Ｆ,歯科,,,9" xlink:title="小山田歯科医院" transform="ref(svg,14113.7722,-3970.1797)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山田歯科クリニック,岩手県盛岡市南青山町３-１,歯科,,,9" xlink:title="小山田歯科クリニック" transform="ref(svg,14111.591,-3971.9898)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,開運橋歯科クリニック,岩手県盛岡市開運橋通２-３４,歯科,,,9" xlink:title="開運橋歯科クリニック" transform="ref(svg,14114.3502,-3970.1709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加賀野歯科クリニック,岩手県盛岡市加賀野３-１-１１,歯科　小児歯科,,,9" xlink:title="加賀野歯科クリニック" transform="ref(svg,14116.6647,-3970.5719)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かまた歯科クリニック,岩手県盛岡市山岸２-１６-１２,歯科,,,9" xlink:title="かまた歯科クリニック" transform="ref(svg,14116.9144,-3971.4912)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神歯科医院,岩手県盛岡市南大通１-１４-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="神歯科医院" transform="ref(svg,14115.6296,-3969.6688)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上ノ橋歯科クリニック,岩手県盛岡市上ノ橋町１-４５,歯科　小児歯科,,,9" xlink:title="上ノ橋歯科クリニック" transform="ref(svg,14115.8098,-3970.4923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）寛歯科クリニック,岩手県盛岡市内丸１７-３８杜陵ビル２階,歯科,,,9" xlink:title="（医）寛歯科クリニック" transform="ref(svg,14115.3819,-3970.4498)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かんの歯科医院,岩手県盛岡市西仙北１-３５-３１,歯科,,,9" xlink:title="かんの歯科医院" transform="ref(svg,14114.4834,-3968.4846)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊池歯科医院,岩手県盛岡市厨川５-７-２６,歯科,,,9" xlink:title="菊池歯科医院" transform="ref(svg,14112.8009,-3974.9486)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）尚歯会菊月歯科医院,岩手県盛岡市松園２-１-１９,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）尚歯会菊月歯科医院" transform="ref(svg,14116.6773,-3974.8095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木のまち歯科医院,岩手県盛岡市材木町２-２６近三ビル３Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="木のまち歯科医院" transform="ref(svg,14113.8488,-3970.5396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）貴友会桐田歯科医院,岩手県盛岡市加賀野４-１５-３０,歯科　歯科口腔外科,,,9" xlink:title="（医）貴友会桐田歯科医院" transform="ref(svg,14117.1281,-3971.1598)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くまがい歯科クリニック,岩手県盛岡市津志田町２-１-７０,歯科　矯正歯科　小児歯科,,,9" xlink:title="くまがい歯科クリニック" transform="ref(svg,14115.6735,-3966.6857)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒石野歯科医院,岩手県盛岡市黒石野２-１３-４４,歯科　小児歯科,,,9" xlink:title="黒石野歯科医院" transform="ref(svg,14114.6379,-3974.1722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒江歯科医院,岩手県盛岡市若園町１０-２,歯科,,,9" xlink:title="黒江歯科医院" transform="ref(svg,14115.9598,-3970.2267)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くろだ歯科医院,岩手県盛岡市三ツ割５-７-５,歯科　小児歯科,,,9" xlink:title="くろだ歯科医院" transform="ref(svg,14115.9698,-3972.7333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒田歯科クリニック,岩手県盛岡市上田１-５-３８,歯科,,,9" xlink:title="黒田歯科クリニック" transform="ref(svg,14114.622,-3971.2263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小泉歯科医院,岩手県盛岡市仙北３-１５-２６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="小泉歯科医院" transform="ref(svg,14115.2062,-3968.0837)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国労会館歯科,岩手県盛岡市盛岡駅前北通り４-４国労会館２階,歯科,,,9" xlink:title="国労会館歯科" transform="ref(svg,14113.5139,-3970.4272)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,岩手県盛岡市菜園２-７-３３トーカンジェネラス菜園公園通り２Ｆ,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,14114.5175,-3970.1389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小鳥沢歯科クリニック,岩手県盛岡市小鳥沢１-３４-１７,歯科　小児歯科,,,9" xlink:title="小鳥沢歯科クリニック" transform="ref(svg,14116.4819,-3976.3973)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科口腔外科小松デンタルオフィス,岩手県盛岡市名須川町１７-６,歯科　歯科口腔外科,,,9" xlink:title="歯科口腔外科小松デンタルオフィス" transform="ref(svg,14115.0745,-3971.0739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小守林歯科医院,岩手県盛岡市材木町９-１,歯科　歯科口腔外科,,,9" xlink:title="小守林歯科医院" transform="ref(svg,14113.6806,-3970.7769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科クリニック,岩手県盛岡市永井２２-４２-２,歯科　矯正歯科,,,9" xlink:title="近藤歯科クリニック" transform="ref(svg,14115.5607,-3965.3995)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菜園矯正歯科クリニック,岩手県盛岡市菜園２-２-１１-１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="菜園矯正歯科クリニック" transform="ref(svg,14114.5808,-3970.1077)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西郷歯科医院,岩手県盛岡市西見前１４-８３,歯科　矯正歯科　小児歯科,,,9" xlink:title="西郷歯科医院" transform="ref(svg,14116.6825,-3964.1654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みきデンタルクリニック,岩手県盛岡市中央通１-１１-１６,歯科,,,9" xlink:title="みきデンタルクリニック" transform="ref(svg,14114.7412,-3970.4323)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西郷歯科医院,岩手県盛岡市高松１-１３-１５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西郷歯科医院" transform="ref(svg,14113.917,-3972.2704)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科医院,岩手県盛岡市厨川１-５-１,歯科　小児歯科,,,9" xlink:title="さいとう歯科医院" transform="ref(svg,14112.902,-3974.159)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくらだ歯科クリニック,岩手県盛岡市緑が丘４-１-５０アスティ３０４,歯科,,,9" xlink:title="さくらだ歯科クリニック" transform="ref(svg,14114.2529,-3973.506)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科医院,岩手県盛岡市三本柳３地割１２-７,歯科,,,9" xlink:title="ささき歯科医院" transform="ref(svg,14116.082,-3966.4415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）大志会さとう歯科クリニック,岩手県盛岡市永井２０-１-９１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）大志会さとう歯科クリニック" transform="ref(svg,14114.8861,-3965.3985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科クリニック,岩手県盛岡市本町通２-１４-３８,歯科,,,9" xlink:title="佐藤歯科クリニック" transform="ref(svg,14114.8879,-3970.808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤たもつ歯科医院,岩手県盛岡市本宮１-２４-３,歯科　小児歯科,,,9" xlink:title="佐藤たもつ歯科医院" transform="ref(svg,14114.3215,-3968.6801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）白翆会佐藤誠歯科医院,岩手県盛岡市西青山２-１９-３１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）白翆会佐藤誠歯科医院" transform="ref(svg,14110.7248,-3972.913)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三條矯正歯科,岩手県盛岡市本町通２-４-３２,矯正歯科,,,9" xlink:title="三條矯正歯科" transform="ref(svg,14115.179,-3970.7415)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サンタウン歯科クリニック,岩手県盛岡市北松園２-１４-２,歯科　小児歯科,,,9" xlink:title="サンタウン歯科クリニック" transform="ref(svg,14117.3339,-3976.1369)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しげのぶ歯科医院,岩手県盛岡市中野１-２９-４,歯科,,,9" xlink:title="しげのぶ歯科医院" transform="ref(svg,14117.323,-3969.1764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柴田歯科医院,岩手県盛岡市肴町５-５,歯科,,,9" xlink:title="柴田歯科医院" transform="ref(svg,14115.5304,-3969.8908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）広仁会城西歯科クリニック,岩手県盛岡市城西町７-３５,歯科,,,9" xlink:title="（医）広仁会城西歯科クリニック" transform="ref(svg,14112.6436,-3970.3259)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白石歯科クリニック,岩手県盛岡市下飯岡１１-１２６-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="白石歯科クリニック" transform="ref(svg,14112.6495,-3966.7786)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白倉歯科医院,岩手県盛岡市仙北町３-１４-５７,歯科,,,9" xlink:title="白倉歯科医院" transform="ref(svg,14115.2447,-3968.0301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅原歯科,岩手県盛岡市大通２-２-１５さわやビル４Ｆ,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="菅原歯科" transform="ref(svg,14114.6662,-3970.2935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科クリニック,岩手県盛岡市中央通３-７-１政経ビル２階,歯科,,,9" xlink:title="鈴木歯科クリニック" transform="ref(svg,14114.3857,-3970.6381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科診療室,岩手県盛岡市前九年２-１０-３９,歯科　矯正歯科　小児歯科,,,9" xlink:title="鈴木歯科診療室" transform="ref(svg,14112.4987,-3971.5671)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瀬川歯科医院,岩手県盛岡市志家町９-１２,歯科　歯科口腔外科,,,9" xlink:title="瀬川歯科医院" transform="ref(svg,14116.2833,-3970.0178)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科・口腔医療クリニック,岩手県盛岡市中央通３-１４-２９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="関歯科・口腔医療クリニック" transform="ref(svg,14114.1278,-3970.5284)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,攝待歯科医院,岩手県盛岡市東松園３-２８-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="攝待歯科医院" transform="ref(svg,14116.6577,-3975.8339)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,惣門歯科,岩手県盛岡市南大通３-１０-１１,歯科,,,9" xlink:title="惣門歯科" transform="ref(svg,14115.4876,-3969.2965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,外川歯科医院,岩手県盛岡市山岸１-２-４６,歯科,,,9" xlink:title="外川歯科医院" transform="ref(svg,14116.4916,-3971.1991)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）だいこく歯科医院,岩手県盛岡市仙北３-１１-４,歯科　小児歯科,,,9" xlink:title="（医）だいこく歯科医院" transform="ref(svg,14115.0721,-3968.4197)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかはし歯科医院,岩手県盛岡市月が丘１-２７-４５エンジェルビル３　１Ｆ,歯科　小児歯科,,,9" xlink:title="たかはし歯科医院" transform="ref(svg,14111.2618,-3973.3839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）高橋衛歯科医院,岩手県盛岡市北天昌寺町７-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）高橋衛歯科医院" transform="ref(svg,14111.8133,-3971.1588)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）高橋歯科医院,岩手県盛岡市大通り１-２-１岩手県産業会館別館２階,歯科　矯正歯科,,,9" xlink:title="（医）高橋歯科医院" transform="ref(svg,14114.942,-3970.2332)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科医院,岩手県盛岡市茶畑１-１-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="高山歯科医院" transform="ref(svg,14116.1296,-3969.4196)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田代歯科医院,岩手県盛岡市前九年１-６-１２,歯科,,,9" xlink:title="田代歯科医院" transform="ref(svg,14112.673,-3971.347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たちばな歯科医院,岩手県盛岡市黒川２２地割３９-１,歯科,,,9" xlink:title="たちばな歯科医院" transform="ref(svg,14118.6617,-3961.9977)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）尽誠会田中歯科医院,岩手県盛岡市上堂１-１６-２７,歯科　小児歯科,,,9" xlink:title="（医）尽誠会田中歯科医院" transform="ref(svg,14112.0433,-3972.4916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,千葉歯科,岩手県盛岡市盛岡駅前北通２-２５,歯科　矯正歯科　小児歯科,,,9" xlink:title="千葉歯科" transform="ref(svg,14113.6717,-3970.4607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,茶畑歯科医院,岩手県盛岡市茶畑１-８-１８,歯科,,,9" xlink:title="茶畑歯科医院" transform="ref(svg,14116.6416,-3969.5576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,手代森歯科クリニック,岩手県盛岡市手代森７地割７８-４,歯科　小児歯科,,,9" xlink:title="手代森歯科クリニック" transform="ref(svg,14118.0594,-3965.8108)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺島歯科医院,岩手県盛岡市加賀野１-２-６１,歯科,,,9" xlink:title="寺島歯科医院" transform="ref(svg,14115.9409,-3970.5959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,照井歯科医院,岩手県盛岡市本町通１-９-３４,歯科,,,9" xlink:title="照井歯科医院" transform="ref(svg,14115.4008,-3970.5668)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天日歯科医院,岩手県盛岡市大通り１-３-４宝来ビル４Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="天日歯科医院" transform="ref(svg,14114.9966,-3970.2545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,どいじり歯科医院,岩手県盛岡市本宮５-９-１７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="どいじり歯科医院" transform="ref(svg,14111.9021,-3968.9242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）トシ歯科医院,岩手県盛岡市みたけ３-２７-１５,歯科　小児歯科,,,9" xlink:title="（医）トシ歯科医院" transform="ref(svg,14111.6036,-3973.9915)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,栃内歯科医院,岩手県盛岡市神明町１０-３５,歯科　矯正歯科　小児歯科,,,9" xlink:title="栃内歯科医院" transform="ref(svg,14115.9015,-3969.9388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,都南歯科医院,岩手県盛岡市三本柳７地割１３-８,歯科,,,9" xlink:title="都南歯科医院" transform="ref(svg,14116.4269,-3965.9922)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかの矯正歯科,岩手県盛岡市加賀野２-８-２４,矯正歯科,,,9" xlink:title="なかの矯正歯科" transform="ref(svg,14116.6628,-3970.6841)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中野歯科クリニック,岩手県盛岡市中野１-１７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="中野歯科クリニック" transform="ref(svg,14116.9818,-3969.4021)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながはま歯科医院,岩手県盛岡市長田町２１-４３,歯科　小児歯科,,,9" xlink:title="ながはま歯科医院" transform="ref(svg,14114.228,-3970.9711)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,岩手県盛岡市仙北２-１０-７,歯科　小児歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,14115.0609,-3968.868)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中屋敷歯科医院,岩手県盛岡市緑が丘１-１-７オフィス緑が丘２Ｆ,歯科　小児歯科,,,9" xlink:title="中屋敷歯科医院" transform="ref(svg,14114.0916,-3973.0253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和矯正・デンタルクリニック,岩手県盛岡市前潟４-７-１イオンモール盛岡１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="和矯正・デンタルクリニック" transform="ref(svg,14109.8634,-3971.1701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野手歯科医院,岩手県盛岡市みたけ６-１-１１,歯科　小児歯科,,,9" xlink:title="野手歯科医院" transform="ref(svg,14111.5102,-3974.3467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のむら歯科医院,岩手県盛岡市手代森１４-１６-２９,歯科,,,9" xlink:title="のむら歯科医院" transform="ref(svg,14118.4675,-3965.1707)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はぎわら歯科クリニック,岩手県盛岡市新田町１０-７,歯科　小児歯科,,,9" xlink:title="はぎわら歯科クリニック" transform="ref(svg,14112.9705,-3970.6055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋浦歯科診療所,岩手県盛岡市西松園１-３-８,歯科　矯正歯科　小児歯科,,,9" xlink:title="橋浦歯科診療所" transform="ref(svg,14115.7376,-3974.9754)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はしば歯科医院,岩手県盛岡市山岸４-１０-３１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="はしば歯科医院" transform="ref(svg,14117.2007,-3972.0343)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじさわ歯科クリニック,岩手県盛岡市みたけ４-２４-３５,歯科　小児歯科,,,9" xlink:title="ふじさわ歯科クリニック" transform="ref(svg,14112.3146,-3974.4145)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじむら歯科医院,岩手県盛岡市肴町３-３０パークハイツ中津川１０２,歯科　矯正歯科　小児歯科,,,9" xlink:title="ふじむら歯科医院" transform="ref(svg,14115.3496,-3969.8911)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細川歯科医院,岩手県盛岡市三ツ割２-１-１２,歯科　矯正歯科　小児歯科,,,9" xlink:title="細川歯科医院" transform="ref(svg,14115.4574,-3971.7448)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀井歯科クリニック,岩手県盛岡市夕顔瀬町１-１,歯科　小児歯科,,,9" xlink:title="堀井歯科クリニック" transform="ref(svg,14113.4119,-3970.7643)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本町歯科クリニック,岩手県盛岡市本町通１-１４-８,歯科,,,9" xlink:title="本町歯科クリニック" transform="ref(svg,14115.2476,-3970.7841)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前川歯科医院,岩手県盛岡市西青山１-１６-１７,歯科　小児歯科,,,9" xlink:title="前川歯科医院" transform="ref(svg,14110.9986,-3972.4386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前川歯科クリニック,岩手県盛岡市新田町９-１５第３甚ビル,歯科,,,9" xlink:title="前川歯科クリニック" transform="ref(svg,14112.7892,-3970.601)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,岩手県盛岡市青山４-３０-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="前田歯科医院" transform="ref(svg,14111.4052,-3972.9982)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前東歯科医院,岩手県盛岡市大沢川原３-６-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="前東歯科医院" transform="ref(svg,14114.225,-3970.1176)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松田歯科医院,岩手県盛岡市中ノ橋通１-７-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="松田歯科医院" transform="ref(svg,14115.6204,-3970.0068)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）邦陽会松舘歯科医院,岩手県盛岡市下太田沢田６８-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）邦陽会松舘歯科医院" transform="ref(svg,14111.5529,-3969.7914)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まゆみ歯科小児歯科医院,岩手県盛岡市天神町１０-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="まゆみ歯科小児歯科医院" transform="ref(svg,14116.5637,-3970.3071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三島歯科医院,岩手県盛岡市津志田中央３-６-１,歯科,,,9" xlink:title="三島歯科医院" transform="ref(svg,14115.366,-3966.3687)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三田歯科医院,岩手県盛岡市厨川１-１９-５,歯科,,,9" xlink:title="三田歯科医院" transform="ref(svg,14112.9217,-3974.3071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどりが丘歯科クリニック,岩手県盛岡市緑が丘３-４-３６,歯科,,,9" xlink:title="みどりが丘歯科クリニック" transform="ref(svg,14114.5894,-3973.372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮城歯科医院,岩手県盛岡市下ノ橋２-１０,歯科,,,9" xlink:title="宮城歯科医院" transform="ref(svg,14115.1842,-3969.7576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮崎歯科医院,岩手県盛岡市茶畑２-７-２３,歯科　小児歯科,,,9" xlink:title="宮崎歯科医院" transform="ref(svg,14116.3582,-3969.2222)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮田歯科医院,岩手県盛岡市高松２-２６-２７,歯科,,,9" xlink:title="宮田歯科医院" transform="ref(svg,14113.5433,-3972.4707)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みやのデンタルオフィス,岩手県盛岡市中屋敷町７-１７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="みやのデンタルオフィス" transform="ref(svg,14111.9961,-3970.8139)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三善歯科医院,岩手県盛岡市西青山２-１８-４,歯科,,,9" xlink:title="三善歯科医院" transform="ref(svg,14110.9468,-3972.7549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,向井田歯科医院,岩手県盛岡市梨木町１１-１,歯科　歯科口腔外科,,,9" xlink:title="向井田歯科医院" transform="ref(svg,14113.5961,-3971.0772)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらかみ歯科医院,岩手県盛岡市中央通２-７-１１,歯科,,,9" xlink:title="むらかみ歯科医院" transform="ref(svg,14114.4823,-3970.6047)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本宮歯科,岩手県盛岡市本宮４-２-１０,歯科,,,9" xlink:title="本宮歯科" transform="ref(svg,14113.4559,-3968.8179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,守口歯科クリニック,岩手県盛岡市西松園３-２３-１０,歯科　小児歯科,,,9" xlink:title="守口歯科クリニック" transform="ref(svg,14116.3018,-3975.5257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やすの矯正歯科クリニック,岩手県盛岡市盛岡駅前通１４-９,矯正歯科,,,9" xlink:title="やすの矯正歯科クリニック" transform="ref(svg,14113.6973,-3970.2577)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,岩手県盛岡市羽場第１７地割９９-５,歯科　小児歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,14111.3581,-3965.3505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科クリニック,岩手県盛岡市山岸３-２-１,歯科,,,9" xlink:title="山田歯科クリニック" transform="ref(svg,14116.8901,-3971.6094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,夕顔瀬歯科医院,岩手県盛岡市材木町１１-１７,歯科,,,9" xlink:title="夕顔瀬歯科医院" transform="ref(svg,14113.6097,-3970.9137)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横沢歯科医院,岩手県盛岡市中央通り２-８-２１,歯科　小児歯科,,,9" xlink:title="横沢歯科医院" transform="ref(svg,14114.4662,-3970.5541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横藤歯科医院,岩手県盛岡市志家町１-２和光ホームビル１階,歯科　矯正歯科　小児歯科,,,9" xlink:title="横藤歯科医院" transform="ref(svg,14115.9681,-3969.9385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横矢歯科医院,岩手県盛岡市南大通２-４-１７,歯科,,,9" xlink:title="横矢歯科医院" transform="ref(svg,14115.5291,-3969.4725)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,岩手県盛岡市中ノ橋通１-４-２２中ノ橋１０６ビル３階,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,14115.5666,-3970.0367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,岩手県盛岡市南仙北２-２６-２７,歯科　矯正歯科　小児歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,14115.4631,-3967.4766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科クリニック,岩手県盛岡市西下台町１８-２７,歯科,,,9" xlink:title="吉田歯科クリニック" transform="ref(svg,14113.1449,-3971.6485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田デンタルクリニック,岩手県盛岡市愛宕町３-２５,歯科,,,9" xlink:title="吉田デンタルクリニック" transform="ref(svg,14115.9397,-3970.8247)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米内歯科医院,岩手県盛岡市三本柳１１地割１２-２,歯科　矯正歯科,,,9" xlink:title="米内歯科医院" transform="ref(svg,14116.4479,-3965.2163)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,両川歯科医院,岩手県盛岡市志家町３-４１,歯科,,,9" xlink:title="両川歯科医院" transform="ref(svg,14116.0869,-3970.1145)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,りょうわ歯科,岩手県盛岡市材木町６-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="りょうわ歯科" transform="ref(svg,14113.7958,-3970.6712)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和田歯科医院,岩手県盛岡市神明町２-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="和田歯科医院" transform="ref(svg,14115.7566,-3970.2474)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,及川歯科クリニック,岩手県花巻市仲町９-１７,歯科,,,9" xlink:title="及川歯科クリニック" transform="ref(svg,14112.1701,-3938.7162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）佐藤歯科医院,岩手県花巻市石鳥谷町好地６-４-３,歯科　矯正歯科,,,9" xlink:title="（医）佐藤歯科医院" transform="ref(svg,14115.01,-3949.0576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,多田歯科医院,岩手県花巻市東和町安俵１１区１-２,歯科　矯正歯科,,,9" xlink:title="多田歯科医院" transform="ref(svg,14122.6386,-3938.5158)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こばやかわ歯科医院,岩手県花巻市桜町４-２３４-１,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="こばやかわ歯科医院" transform="ref(svg,14112.1088,-3937.5272)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,徳富歯科医院,岩手県花巻市愛宕町３-１９,歯科,,,9" xlink:title="徳富歯科医院" transform="ref(svg,14111.476,-3939.3393)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高田歯科医院,岩手県花巻市東町３-２８,歯科,,,9" xlink:title="高田歯科医院" transform="ref(svg,14112.0679,-3938.5703)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岸根歯科医院,岩手県花巻市四日町２-６-３０,歯科,,,9" xlink:title="岸根歯科医院" transform="ref(svg,14111.7909,-3939.9397)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花巻市休日歯科診療所,岩手県花巻市南万-９７０-５,歯科,,,9" xlink:title="花巻市休日歯科診療所" transform="ref(svg,14110.0311,-3939.1722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）石桜会いしくろ歯科医院,岩手県花巻市桜台２-１２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）石桜会いしくろ歯科医院" transform="ref(svg,14110.1839,-3940.0242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺内歯科医院,岩手県花巻市西大通２-１３-１３,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="寺内歯科医院" transform="ref(svg,14110.4338,-3939.311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,管野歯科医院,岩手県花巻市末広町７-１０,歯科　矯正歯科,,,9" xlink:title="管野歯科医院" transform="ref(svg,14111.2937,-3938.5401)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしお歯科クリニック,岩手県花巻市大迫町大迫３-１４５,歯科　矯正歯科　小児歯科,,,9" xlink:title="にしお歯科クリニック" transform="ref(svg,14128.7091,-3946.5524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）幸花会畠山歯科医院,岩手県花巻市西大通り１-６-３０,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）幸花会畠山歯科医院" transform="ref(svg,14110.8788,-3939.3092)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松園歯科クリニック,岩手県花巻市星が丘２-１６-１,歯科,,,9" xlink:title="松園歯科クリニック" transform="ref(svg,14110.7399,-3940.5636)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,照井歯科医院,岩手県花巻市材木町２８-２２,歯科　小児歯科,,,9" xlink:title="照井歯科医院" transform="ref(svg,14110.7227,-3938.5845)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鎌田歯科クリニック,岩手県花巻市石鳥谷町八幡３-１０-３０,歯科　小児歯科,,,9" xlink:title="鎌田歯科クリニック" transform="ref(svg,14114.7572,-3948.1572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮川歯科クリニック,岩手県花巻市松園町４５０-６,歯科,,,9" xlink:title="宮川歯科クリニック" transform="ref(svg,14110.4163,-3941.0453)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜井歯科医院,岩手県花巻市石鳥谷町好地９-９-９,歯科,,,9" xlink:title="桜井歯科医院" transform="ref(svg,14115.2332,-3949.9392)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科医院,岩手県花巻市大通り１-１９-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="成田歯科医院" transform="ref(svg,14111.3873,-3938.9801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八重樫歯科医院,岩手県花巻市東町４-１１,歯科,,,9" xlink:title="八重樫歯科医院" transform="ref(svg,14112.198,-3938.5311)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,多田歯科クリニック,岩手県花巻市若葉町３-１５-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="多田歯科クリニック" transform="ref(svg,14110.1896,-3938.6017)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,不動大橋歯科クリニック,岩手県花巻市不動町２-１-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="不動大橋歯科クリニック" transform="ref(svg,14111.118,-3937.7492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤根歯科医院,岩手県花巻市湯本６-１６９,歯科,,,9" xlink:title="藤根歯科医院" transform="ref(svg,14109.8311,-3944.4743)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山内歯科医院,岩手県花巻市大迫町大迫３-２０２,歯科,,,9" xlink:title="山内歯科医院" transform="ref(svg,14128.3836,-3946.6373)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三又歯科医院,岩手県花巻市四日町１-８-１９,歯科,,,9" xlink:title="三又歯科医院" transform="ref(svg,14111.6726,-3939.7165)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八森歯科医院,岩手県花巻市高木１９-３４-７,歯科,,,9" xlink:title="八森歯科医院" transform="ref(svg,14113.9438,-3938.5684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上村歯科医院,岩手県花巻市石鳥谷町好地８-８８-１,歯科,,,9" xlink:title="上村歯科医院" transform="ref(svg,14115.0648,-3949.3995)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,狩野歯科医院,岩手県花巻市円万寺字法船８０,歯科,,,9" xlink:title="狩野歯科医院" transform="ref(svg,14105.478,-3939.0524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,岩手県花巻市二枚橋町南１-４６-４,歯科　小児歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14113.0794,-3944.0564)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）小原クリニックおばら歯科医院,岩手県花巻市東和町土沢五区４３０,歯科,,,9" xlink:title="（医）小原クリニックおばら歯科医院" transform="ref(svg,14122.8004,-3938.8018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鎌田歯科医院,岩手県花巻市二枚橋町南１-４７-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="鎌田歯科医院" transform="ref(svg,14112.8207,-3944.0599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科医院,岩手県花巻市上町８-１７,歯科　矯正歯科,,,9" xlink:title="金子歯科医院" transform="ref(svg,14111.8843,-3938.64)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植村歯科医院,岩手県花巻市大通り２-７-３,歯科,,,9" xlink:title="植村歯科医院" transform="ref(svg,14111.3142,-3938.8867)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,見前歯科クリニック,岩手県盛岡市西見前１５地割４-４,歯科　小児歯科,,,9" xlink:title="見前歯科クリニック" transform="ref(svg,14116.2726,-3964.6959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおば歯科小児歯科クリニック,岩手県盛岡市前九年３-１９-４６,歯科　小児歯科,,,9" xlink:title="あおば歯科小児歯科クリニック" transform="ref(svg,14111.8569,-3972.0815)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村・北條クリニック,岩手県盛岡市西仙北１-３２-１５,歯科　歯科口腔外科,,,9" xlink:title="中村・北條クリニック" transform="ref(svg,14114.3836,-3968.7303)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梨木歯科医院,岩手県九戸郡洋野町種市第２３地割６０-２,歯科　小児歯科,,,9" xlink:title="梨木歯科医院" transform="ref(svg,14171.0697,-4041.0232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北田・工藤歯科医院,岩手県盛岡市菜園１-３-６農林会館３階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北田・工藤歯科医院" transform="ref(svg,14114.9097,-3970.0933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤ひろし歯科医院,岩手県盛岡市上田１-７-１１,歯科　矯正歯科　小児歯科,,,9" xlink:title="佐藤ひろし歯科医院" transform="ref(svg,14114.4779,-3971.1535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかさと歯科医院,岩手県盛岡市緑が丘３-２-４４,歯科　歯科口腔外科,,,9" xlink:title="なかさと歯科医院" transform="ref(svg,14114.312,-3973.3372)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はし歯科こども歯科,岩手県盛岡市みたけ２-２１-３８,歯科　矯正歯科　小児歯科,,,9" xlink:title="はし歯科こども歯科" transform="ref(svg,14112.9991,-3974.7172)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国民健康保険田野畑村歯科診療所,岩手県下閉伊郡田野畑村田野畑１２０-３,歯科,,,9" xlink:title="国民健康保険田野畑村歯科診療所" transform="ref(svg,14189.412,-3993.138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）陌仁会森川歯科医院,岩手県二戸市堀野字大畑３２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）陌仁会森川歯科医院" transform="ref(svg,14130.5776,-4029.7937)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじの歯科医院,岩手県盛岡市緑が丘３-２１-２３,歯科,,,9" xlink:title="ふじの歯科医院" transform="ref(svg,14114.5426,-3973.7673)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮古市国民健康保険川井歯科診療所,岩手県宮古市川井２-１６９-５,歯科,,,9" xlink:title="宮古市国民健康保険川井歯科診療所" transform="ref(svg,14167.8655,-3959.861)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,盛岡ながの脳神経・歯科クリニック,岩手県盛岡市津志田１６-１７-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="盛岡ながの脳神経・歯科クリニック" transform="ref(svg,14115.9611,-3965.7244)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津志田歯科医院,岩手県盛岡市津志田西１-１-３１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="津志田歯科医院" transform="ref(svg,14115.3868,-3967.036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新津歯科クリニック,岩手県盛岡市神明町１０-３８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="新津歯科クリニック" transform="ref(svg,14115.8894,-3969.9626)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしき歯科クリニック,岩手県盛岡市上田１-３-１０,歯科　小児歯科,,,9" xlink:title="よしき歯科クリニック" transform="ref(svg,14114.6871,-3971.2888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,双木歯科医院,岩手県盛岡市月が丘２-３-２５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="双木歯科医院" transform="ref(svg,14110.8015,-3973.1545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いけだ歯科口腔外科,岩手県盛岡市南大通２-１０-２７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いけだ歯科口腔外科" transform="ref(svg,14115.255,-3969.4117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかデンタルクリニック,岩手県盛岡市中央通１-６-２６　ＨＩＫＡＧＥＭＯＮサトウビル２Ｆ,歯科　小児歯科,,,9" xlink:title="たかデンタルクリニック" transform="ref(svg,14114.84,-3970.5671)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくらだい外川歯科医院,岩手県盛岡市上米内字道ノ下３８-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さくらだい外川歯科医院" transform="ref(svg,14118.7949,-3975.5131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かめだ歯科医院,岩手県盛岡市本宮字宮沢１０６-４,歯科　小児歯科,,,9" xlink:title="かめだ歯科医院" transform="ref(svg,14112.9154,-3968.8154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆいとぴあ歯科医院,岩手県盛岡市本宮６-１１-１０,歯科　小児歯科,,,9" xlink:title="ゆいとぴあ歯科医院" transform="ref(svg,14112.2943,-3968.7409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヒデ・デンタルクリニック,岩手県盛岡市本宮字稲荷１０-１イオン盛岡南ショッピングセンター２階,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ヒデ・デンタルクリニック" transform="ref(svg,14112.8695,-3968.3623)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかだ歯科クリニック,岩手県滝沢市狼久保６８９-６,歯科　小児歯科,,,9" xlink:title="たかだ歯科クリニック" transform="ref(svg,14113.6654,-3978.3082)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）安藤歯科医院,岩手県盛岡市盛岡駅前通８-３　ＡＮＤＯビル１Ｆ,歯科　矯正歯科,,,9" xlink:title="（医）安藤歯科医院" transform="ref(svg,14113.8091,-3970.1586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せきね歯科医院,岩手県九戸郡洋野町種市２３-９４-１６,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="せきね歯科医院" transform="ref(svg,14171.2125,-4041.3288)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中ノ橋歯科クリニック,岩手県盛岡市中ノ橋通１-１１-２０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中ノ橋歯科クリニック" transform="ref(svg,14115.8493,-3969.8658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）岡村歯科医院,岩手県盛岡市大通２-６-１４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）岡村歯科医院" transform="ref(svg,14114.4973,-3970.3766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおさわ歯科クリニック,岩手県久慈市川崎町１５-２９,歯科　小児歯科,,,9" xlink:title="おおさわ歯科クリニック" transform="ref(svg,14177.4189,-4019.1542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ビーナス．Ｅデンタルオフィス,岩手県八幡平市柏台３-３４-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="ビーナス．Ｅデンタルオフィス" transform="ref(svg,14097.408,-3991.2066)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大沢歯科医院,岩手県盛岡市茶畑２-８-３,歯科,,,9" xlink:title="大沢歯科医院" transform="ref(svg,14116.458,-3969.2821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）拓心会松嶋歯科医院,岩手県盛岡市本宮１-９-８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）拓心会松嶋歯科医院" transform="ref(svg,14114.335,-3969.006)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仙北坂歯科クリニック,岩手県盛岡市本宮２-１１-１６,歯科　矯正歯科　小児歯科,,,9" xlink:title="仙北坂歯科クリニック" transform="ref(svg,14113.7204,-3968.9183)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかせ歯科医院,岩手県滝沢市穴口１８３-４,歯科　矯正歯科　小児歯科,,,9" xlink:title="たかせ歯科医院" transform="ref(svg,14110.6327,-3974.2658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,島津歯科医院,岩手県盛岡市夕顔瀬町７-１４,歯科　小児歯科,,,9" xlink:title="島津歯科医院" transform="ref(svg,14113.2139,-3970.6747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関デンタルクリニック,岩手県盛岡市大通３-９-１７,歯科　矯正歯科,,,9" xlink:title="関デンタルクリニック" transform="ref(svg,14113.9582,-3970.3784)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹川小児歯科医院,岩手県盛岡市中央通１-１１-７,歯科　矯正歯科　小児歯科,,,9" xlink:title="笹川小児歯科医院" transform="ref(svg,14114.7007,-3970.4247)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木まなぶ歯科医院,岩手県盛岡市上田１-１-５２,歯科,,,9" xlink:title="鈴木まなぶ歯科医院" transform="ref(svg,14114.8495,-3971.286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しわ歯科,岩手県紫波郡紫波町片寄梅田９９-３,歯科　小児歯科,,,9" xlink:title="しわ歯科" transform="ref(svg,14112.989,-3952.9323)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹嶋歯科医院,岩手県滝沢市鵜飼滝向３-１,歯科,,,9" xlink:title="笹嶋歯科医院" transform="ref(svg,14107.5802,-3972.8619)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,巣子歯科クリニック,岩手県滝沢市巣子１５２３-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="巣子歯科クリニック" transform="ref(svg,14113.7075,-3977.7138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マキ歯科クリニック,岩手県岩手郡雫石町万田渡４５-３,歯科　小児歯科,,,9" xlink:title="マキ歯科クリニック" transform="ref(svg,14097.603,-3969.764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆとりが丘きくち歯科,岩手県滝沢市土沢４７６-３,歯科　小児歯科,,,9" xlink:title="ゆとりが丘きくち歯科" transform="ref(svg,14110.2554,-3974.5315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すこやか歯科こども歯科医院,岩手県滝沢市鵜飼笹森７２-２４,歯科　小児歯科,,,9" xlink:title="すこやか歯科こども歯科医院" transform="ref(svg,14109.4364,-3973.1963)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こばやし歯科クリニック,岩手県久慈市旭町第９地割４６-２,歯科　小児歯科,,,9" xlink:title="こばやし歯科クリニック" transform="ref(svg,14177.5682,-4020.0159)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ぽっぽ歯科クリニック,岩手県二戸郡一戸町一戸字砂森１２３-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ぽっぽ歯科クリニック" transform="ref(svg,14130.5086,-4021.0643)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こしみず歯科クリニック,岩手県二戸郡一戸町一戸字蒔前５２,歯科　小児歯科,,,9" xlink:title="こしみず歯科クリニック" transform="ref(svg,14129.5026,-4022.4146)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ますだ歯科クリニック,岩手県二戸市石切所字荷渡２-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ますだ歯科クリニック" transform="ref(svg,14129.5945,-4026.9886)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,岩手県盛岡市黒石野１-１０-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,14114.6328,-3974.0685)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつしま歯科医院,岩手県盛岡市玉山区渋民字駅２５-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="まつしま歯科医院" transform="ref(svg,14116.803,-3984.2622)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）かみはらかみはら歯科医院,岩手県盛岡市中ノ橋通り１-８-２１,歯科,,,9" xlink:title="（医）かみはらかみはら歯科医院" transform="ref(svg,14115.7144,-3970.0629)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くどう歯科クリニック,岩手県盛岡市長橋町１６-２０,歯科　小児歯科,,,9" xlink:title="くどう歯科クリニック" transform="ref(svg,14110.2102,-3971.666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くろさわ歯科医院,岩手県盛岡市本町通２-３-１１,歯科,,,9" xlink:title="くろさわ歯科医院" transform="ref(svg,14115.0531,-3970.6878)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科医院,岩手県盛岡市肴町４-２５,歯科　小児歯科,,,9" xlink:title="金子歯科医院" transform="ref(svg,14115.4662,-3969.8736)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科クリニック,岩手県滝沢市鵜飼狐洞１-４５７,歯科　矯正歯科　小児歯科,,,9" xlink:title="ささき歯科クリニック" transform="ref(svg,14108.6437,-3973.5351)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菅原歯科医院,岩手県二戸市金田一字馬場１４７-１,歯科,,,9" xlink:title="菅原歯科医院" transform="ref(svg,14130.739,-4031.8228)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひであき歯科,岩手県盛岡市肴町３-１８ラオ・エム・コート１階,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひであき歯科" transform="ref(svg,14115.4159,-3969.929)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かど歯科クリニック,岩手県盛岡市門１-１９-１７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かど歯科クリニック" transform="ref(svg,14117.1464,-3966.9063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂下歯科医院,岩手県宮古市宮町１-１-４６,歯科　小児歯科,,,9" xlink:title="坂下歯科医院" transform="ref(svg,14194.5782,-3963.9151)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内舘歯科医院,岩手県下閉伊郡山田町飯岡１-３１-５,歯科　小児歯科,,,9" xlink:title="内舘歯科医院" transform="ref(svg,14195.2972,-3945.9969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ねそり歯科,岩手県盛岡市みたけ３-１８-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ねそり歯科" transform="ref(svg,14111.6678,-3973.6512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）銀杏会コバヤシデンタルクリニック,岩手県盛岡市中央通２-１０-１５,歯科　小児歯科,,,9" xlink:title="（医）銀杏会コバヤシデンタルクリニック" transform="ref(svg,14114.4335,-3970.4715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯の松本,岩手県盛岡市東安庭１-２３-６２,歯科　小児歯科,,,9" xlink:title="歯の松本" transform="ref(svg,14116.4189,-3968.02)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ノリ・デンタルクリニック,岩手県盛岡市北飯岡１-２-７１,歯科,,,9" xlink:title="ノリ・デンタルクリニック" transform="ref(svg,14113.3309,-3968.0388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とも歯科医院,岩手県花巻市星が丘１-３０-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="とも歯科医院" transform="ref(svg,14110.5863,-3940.121)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きむら歯科医院,岩手県盛岡市緑ヶ丘３-１２-３,歯科　小児歯科,,,9" xlink:title="きむら歯科医院" transform="ref(svg,14114.5034,-3973.5607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,雫石歯科医院,岩手県岩手郡雫石町上町東１-５,歯科,,,9" xlink:title="雫石歯科医院" transform="ref(svg,14096.9487,-3969.542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,むらた歯科,岩手県紫波郡矢巾町大字又兵エ新田８-１６９ＴＴＭ不来方西号室,歯科　小児歯科,,,9" xlink:title="むらた歯科" transform="ref(svg,14115.9174,-3961.2953)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつうら歯科クリニック,岩手県盛岡市青山３-７-１０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="まつうら歯科クリニック" transform="ref(svg,14112.3144,-3972.8203)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くまがい歯科医院,岩手県盛岡市青山３-２５-２０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くまがい歯科医院" transform="ref(svg,14111.3889,-3972.9258)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,りえ歯科医院,岩手県盛岡市津志田西２-１７-５０盛岡南ＳＣサンサ内,歯科　小児歯科,,,9" xlink:title="りえ歯科医院" transform="ref(svg,14114.8722,-3966.2202)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本陽子デンタルクリニック,岩手県盛岡市本宮２-４３-１１,一般歯科　口腔外科　小児歯科　予防歯科　スポーツ歯科,,,9" xlink:title="松本陽子デンタルクリニック" transform="ref(svg,14113.9977,-3968.4818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水町デンタルクリニック,岩手県盛岡市清水町４-３０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="清水町デンタルクリニック" transform="ref(svg,14115.1467,-3969.5555)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小豆嶋歯科クリニック,岩手県滝沢市留が森３６２-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="小豆嶋歯科クリニック" transform="ref(svg,14111.2423,-3983.6406)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うじょう歯科クリニック,岩手県久慈市湊町１５-３２-１５,歯科　小児歯科,,,9" xlink:title="うじょう歯科クリニック" transform="ref(svg,14178.5704,-4019.7498)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,紫波中央歯科,岩手県紫波郡紫波町紫波中央駅前２-２-３オガールプラザ東棟１階,歯科　小児歯科,,,9" xlink:title="紫波中央歯科" transform="ref(svg,14115.8037,-3955.4281)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科,岩手県花巻市四日町３-８-４,歯科　小児歯科,,,9" xlink:title="いとう歯科" transform="ref(svg,14111.7825,-3940.2168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）高橋衛歯科医院　ＭＡＭＯ　ＩＭＰＬＡＮＴ　ＣＬＩＮＩＣ　ＭＡＬＩＯＳ,岩手県盛岡市盛岡駅西通２-９-１マリオスビル１５Ｆ,歯科,,,9" xlink:title="（医）高橋衛歯科医院　ＭＡＭＯ　ＩＭＰＬＡＮＴ　ＣＬＩＮＩＣ　ＭＡＬＩＯＳ" transform="ref(svg,14113.3516,-3970.1172)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大久保歯科医院,岩手県盛岡市中ノ橋通２-１０-９,歯科　小児歯科,,,9" xlink:title="大久保歯科医院" transform="ref(svg,14116.1555,-3969.6937)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神の前キッズデンタルパーク,岩手県紫波郡矢巾町大字南矢幅第１３地割３０-６,小児歯科,,,9" xlink:title="神の前キッズデンタルパーク" transform="ref(svg,14114.4394,-3960.7697)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥中山高原歯科クリニック,岩手県二戸郡一戸町奥中山字西田子１３１１,歯科　小児歯科,,,9" xlink:title="奥中山高原歯科クリニック" transform="ref(svg,14122.626,-4006.3295)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八幡平市国民健康保険安代診療所,岩手県八幡平市荒屋新町１４４-１,歯科,,,9" xlink:title="八幡平市国民健康保険安代診療所" transform="ref(svg,14105.06,-4009.9819)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,社団（医）新和会宮古山口病院,岩手県宮古市山口５-３-２０,内科　精神科　神経科　歯科,,,9" xlink:title="社団（医）新和会宮古山口病院" transform="ref(svg,14193.2282,-3965.5603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮古市国民健康保険新里診療所,岩手県宮古市茂市１-１１６-９,内科　歯科,,,9" xlink:title="宮古市国民健康保険新里診療所" transform="ref(svg,14178.6503,-3962.8477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,特定（医）弘慈会宮古第一病院,岩手県宮古市保久田８-３７,内科　消化器科　眼科　リハビリテーション科　歯科,,,9" xlink:title="特定（医）弘慈会宮古第一病院" transform="ref(svg,14194.7529,-3964.4409)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まさデンタルクリニック,岩手県盛岡市永井１２地割１１７-１,歯科　小児歯科,,,9" xlink:title="まさデンタルクリニック" transform="ref(svg,14113.8297,-3965.7135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北天昌寺歯科医院,岩手県盛岡市北天昌寺町５-５１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北天昌寺歯科医院" transform="ref(svg,14111.7734,-3971.3904)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,社団（医）恭生会鳥谷医院,岩手県久慈市十八日町１-３０-３,内科　歯科　歯科口腔外科,,,9" xlink:title="社団（医）恭生会鳥谷医院" transform="ref(svg,14176.4988,-4019.1775)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エストエストデンタルケア,岩手県紫波郡矢巾町大字南矢巾第８地割１００-１０,歯科,,,9" xlink:title="エストエストデンタルケア" transform="ref(svg,14115.2507,-3960.7925)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ポラーノ矯正歯科,岩手県盛岡市材木町６-２６,矯正歯科,,,9" xlink:title="ポラーノ矯正歯科" transform="ref(svg,14113.721,-3970.7546)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みちえ・やなぎさわ歯科,岩手県盛岡市本宮字石仏２２-１６,歯科,,,9" xlink:title="みちえ・やなぎさわ歯科" transform="ref(svg,14110.9374,-3968.0562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながぬまけんこう歯科,秋田県大館市曲田曲田６-１,歯科口腔外科　小児歯科,,,9" xlink:title="ながぬまけんこう歯科" transform="ref(svg,14062.7307,-4021.5927)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,折戸歯科医院,秋田県鹿角市花輪堰向５５,歯科,,,9" xlink:title="折戸歯科医院" transform="ref(svg,14078.8573,-4018.8853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山内歯科医院,秋田県鹿角市花輪下中島７６,歯科,,,9" xlink:title="山内歯科医院" transform="ref(svg,14078.6914,-4019.029)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花のまち歯科医院,秋田県鹿角市花輪蒼前平７２-１,矯正歯科　歯科　歯科口腔外科,,,9" xlink:title="花のまち歯科医院" transform="ref(svg,14079.0906,-4021.1893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,昆歯科医院,秋田県鹿角市花輪上中島１３４-１,歯科,,,9" xlink:title="昆歯科医院" transform="ref(svg,14078.48,-4018.6366)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,駒ケ嶺歯科医院,秋田県鹿角市花輪下中島１４１,歯科,,,9" xlink:title="駒ケ嶺歯科医院" transform="ref(svg,14078.643,-4018.9242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近江歯科クリニック,秋田県鹿角市花輪下夕町１１７-１,歯科,,,9" xlink:title="近江歯科クリニック" transform="ref(svg,14079.2896,-4019.7608)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石木田歯科医院,秋田県鹿角市花輪堰向３２,歯科,,,9" xlink:title="石木田歯科医院" transform="ref(svg,14078.8731,-4018.9746)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あんどう歯科医院,秋田県鹿角市花輪八正寺７-２,歯科,,,9" xlink:title="あんどう歯科医院" transform="ref(svg,14078.8931,-4019.2281)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オーラルクリニックかづの,秋田県鹿角市花輪新田町２５-８,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="オーラルクリニックかづの" transform="ref(svg,14078.6834,-4018.249)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちゃこ歯科クリニック,秋田県鹿角市十和田毛馬内上寄熊１５-１,歯科　小児歯科,,,9" xlink:title="ちゃこ歯科クリニック" transform="ref(svg,14077.633,-4026.8186)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野寺歯科クリニック,秋田県鹿角市十和田毛馬内毛馬内１０６-１,歯科,,,9" xlink:title="小野寺歯科クリニック" transform="ref(svg,14076.7628,-4027.2022)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田子歯科医院,秋田県鹿角市十和田毛馬内城ノ下７３,矯正歯科　歯科,,,9" xlink:title="田子歯科医院" transform="ref(svg,14076.6663,-4026.8933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八幡歯科医院,秋田県鹿角市十和田毛馬内下タ道１９-２２,歯科　小児歯科,,,9" xlink:title="八幡歯科医院" transform="ref(svg,14076.553,-4027.8862)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なら歯科医院,秋田県鹿角市十和田大湯川原の湯１３-９,歯科　小児歯科,,,9" xlink:title="なら歯科医院" transform="ref(svg,14082.6008,-4029.4361)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かづの大湯歯科診療所,秋田県鹿角市十和田大湯上の湯５６-３,矯正歯科　歯科　小児歯科,,,9" xlink:title="かづの大湯歯科診療所" transform="ref(svg,14082.9285,-4029.4964)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小坂町立歯科診療所,秋田県鹿角郡小坂町小坂鉱山松の下８-２,歯科,,,9" xlink:title="小坂町立歯科診療所" transform="ref(svg,14074.5541,-4032.5109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷本歯科クリニック,秋田県鹿角郡小坂町小坂鉱山栗平１９-１４,歯科,,,9" xlink:title="谷本歯科クリニック" transform="ref(svg,14073.9444,-4033.0166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仙北市田沢湖歯科診療所,秋田県仙北市田沢湖生保内字浮世坂１７-１,歯科,,,9" xlink:title="仙北市田沢湖歯科診療所" transform="ref(svg,14072.147,-3969.8538)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつだ歯科医院,秋田県仙北市田沢湖生保内武蔵野１０５-７５０,矯正歯科　歯科,,,9" xlink:title="まつだ歯科医院" transform="ref(svg,14072.9385,-3970.4654)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くぼた歯科医院,秋田県仙北市田沢湖生保内街道ノ上４２-１,歯科,,,9" xlink:title="くぼた歯科医院" transform="ref(svg,14072.6709,-3970.1884)" x="0" y="0"/>
+</g>
+</svg>

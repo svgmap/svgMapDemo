@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13289.0625 -3375.0 70.3125 70.3125" go:dataArea="13289.0625 -3375.0 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,直瀬クリニック,愛媛県上浮穴郡久万高原町直瀬甲２８８１-１,内科　消化器内科（胃腸内科）　外科　整形外科,,,9" xlink:title="直瀬クリニック" transform="ref(svg,13295.9864,-3370.4773)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,畑野川クリニック,愛媛県上浮穴郡久万高原町下畑野川甲３７０-２,内科　消化器内科（胃腸内科）　外科　整形外科,,,9" xlink:title="畑野川クリニック" transform="ref(svg,13292.7362,-3367.2635)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉村医院,愛媛県上浮穴郡久万高原町柳井川８４９-２,内科　小児科,,,9" xlink:title="吉村医院" transform="ref(svg,13300.4828,-3355.3525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うつのみや内科,愛媛県上浮穴郡久万高原町久万２０６-５,内科,,,9" xlink:title="うつのみや内科" transform="ref(svg,13290.1029,-3365.5503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西本医院,愛媛県上浮穴郡久万高原町久万２９２-６,内科,,,9" xlink:title="西本医院" transform="ref(svg,13290.0539,-3365.8347)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久万高原町養護老人ホームささゆり荘,愛媛県上浮穴郡久万高原町菅生２-６２６,外科,,,9" xlink:title="久万高原町養護老人ホームささゆり荘" transform="ref(svg,13290.7334,-3365.4995)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久万高原町国民健康保険面河診療所前組出張所,愛媛県上浮穴郡久万高原町前組１７７４,内科,,,9" xlink:title="久万高原町国民健康保険面河診療所前組出張所" transform="ref(svg,13303.3909,-3369.1226)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久万高原町国民健康保険面河診療所,愛媛県上浮穴郡久万高原町渋草２４７４,内科,,,9" xlink:title="久万高原町国民健康保険面河診療所" transform="ref(svg,13303.3862,-3369.1309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みかわクリニック,愛媛県上浮穴郡久万高原町上黒岩２９２０,内科　アレルギー科　小児科,,,9" xlink:title="みかわクリニック" transform="ref(svg,13297.6527,-3361.4646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）久万の里診療所,愛媛県上浮穴郡久万高原町菅生３-５８０-２４,内科,,,9" xlink:title="（特養）久万の里診療所" transform="ref(svg,13290.9995,-3365.0426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＡＧＡスキンクリニック高知院,高知県高知市帯屋町１-１３-２３アベニュービル３Ｆ,頭部皮膚科　美容皮膚科,,,9" xlink:title="ＡＧＡスキンクリニック高知院" transform="ref(svg,13353.8866,-3356.0191)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,Ｄｒ．オヤマ診療所,高知県高知市追手筋１-９-２２高知メディカルプラザ４Ｆ,内科　アレルギー科　麻酔科,,,9" xlink:title="Ｄｒ．オヤマ診療所" transform="ref(svg,13353.8111,-3356.1318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＮＴＴ西日本四国健康管理センター,高知県高知市はりまや町１-１０-１ＮＴＴ高知東営業所ビル２Ｆ,内科,,,9" xlink:title="ＮＴＴ西日本四国健康管理センター" transform="ref(svg,13354.5003,-3356.0002)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木脳神経外科形成外科,高知県高知市高須新町１-６-２６,形成外科　脳神経外科　内科　皮膚科　リハビリテーション科　循環器内科　循環器外科,,,9" xlink:title="青木脳神経外科形成外科" transform="ref(svg,13357.7296,-3355.8261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あおば内科呼吸器科,高知県高知市知寄町２-２-４１,内科　呼吸器科　アレルギー科,,,9" xlink:title="あおば内科呼吸器科" transform="ref(svg,13356.0842,-3355.8208)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青柳クリニック,高知県高知市若松町１１-２０,内科　糖尿病内科,,,9" xlink:title="青柳クリニック" transform="ref(svg,13356.2851,-3355.2514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋沢内科,高知県高知市東雲町８-４７,内科　心療内科　精神科　小腸内科　循環器科,,,9" xlink:title="秋沢内科" transform="ref(svg,13356.4103,-3355.8813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅井産婦人科・内科,高知県高知市一宮東町１-７-７,内科　小児科　産科　婦人科,,,9" xlink:title="浅井産婦人科・内科" transform="ref(svg,13357.6004,-3358.0761)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝倉医療クリニック,高知県高知市朝倉丙５３４-１,内科　呼吸器内科　消化器内科　循環器内科,,,9" xlink:title="朝倉医療クリニック" transform="ref(svg,13348.5931,-3355.5464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝倉深田内科,高知県高知市朝倉丙３１８-１０,内科　小児科　放射線科　呼吸器科　循環器科,,,9" xlink:title="朝倉深田内科" transform="ref(svg,13348.7441,-3355.1568)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさひ皮フ科,高知県高知市旭町２-３８,皮膚科,,,9" xlink:title="あさひ皮フ科" transform="ref(svg,13350.8089,-3355.4869)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アズマ耳鼻咽喉科・アレルギー科,高知県高知市上町２-２-１６,耳鼻いんこう科　気管食道科　リハビリテーション科　アレルギー科,,,9" xlink:title="アズマ耳鼻咽喉科・アレルギー科" transform="ref(svg,13352.3696,-3355.7629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アドレス高知医務室,高知県高知市池１０００-１,内科,,,9" xlink:title="アドレス高知医務室" transform="ref(svg,13358.9352,-3352.796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田内科,高知県高知市城見町６-２３,内科　神経内科　呼吸器科　胃腸科　循環器科　リハビリテーション科,,,9" xlink:title="池田内科" transform="ref(svg,13354.956,-3355.938)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石立クリニック,高知県高知市石立町９６-５,内科　呼吸器科　胃腸科　リハビリテーション科,,,9" xlink:title="石立クリニック" transform="ref(svg,13351.6022,-3355.2174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石丸眼科,高知県高知市本町２-５-２０,眼科,,,9" xlink:title="石丸眼科" transform="ref(svg,13353.7153,-3355.7857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,市川医院,高知県高知市百石町３-８-２０,内科　呼吸器内科,,,9" xlink:title="市川医院" transform="ref(svg,13354.6669,-3354.5261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,一文橋窪耳鼻科,高知県高知市弥生町１-１１,耳鼻いんこう科,,,9" xlink:title="一文橋窪耳鼻科" transform="ref(svg,13355.5562,-3356.1859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤外科乳腺クリニック,高知県高知市札場１２-１０,外科　乳腺外科,,,9" xlink:title="伊藤外科乳腺クリニック" transform="ref(svg,13356.1084,-3356.4571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）医信会西武クリニック,高知県高知市本町１-２-１５ＴＳ’ビル３Ｆ,内科　形成外科　美容外科　皮膚科　泌尿器科　眼科,,,9" xlink:title="（医）医信会西武クリニック" transform="ref(svg,13353.8225,-3355.9841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）協浜会浜田循環器内科,高知県高知市本町５-２-１６,内科　呼吸器内科　胃腸内科　循環器内科,,,9" xlink:title="（医）協浜会浜田循環器内科" transform="ref(svg,13352.9534,-3355.871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千葉健愛会あおぞら診療所高知潮江,高知県高知市北竹島町５-１０,内科　小児科,,,9" xlink:title="（医）千葉健愛会あおぞら診療所高知潮江" transform="ref(svg,13354.1398,-3354.5635)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁栄会島津クリニック比島,高知県高知市比島町２-１０-３１,内科　外科,,,9" xlink:title="（医）仁栄会島津クリニック比島" transform="ref(svg,13355.1194,-3357.1833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成仁会快聖クリニック,高知県高知市鴨部１０８５-１,内科　呼吸器内科　消化器内科　外科　整形外科　泌尿器科　肛門外科　人工透析内科　消化器外科,,,9" xlink:title="（医）成仁会快聖クリニック" transform="ref(svg,13350.4709,-3354.761)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖美会ＪＯＥクリニック,高知県高知市本町３-１-４アイランド-Uビル２Ｆ,美容外科　形成外科　皮膚科,,,9" xlink:title="（医）聖美会ＪＯＥクリニック" transform="ref(svg,13353.5925,-3355.9127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ふたつやま会二山整形外科,高知県高知市潮新町１-６-３０,リウマチ科　整形外科　形成外科　リハビリテーション科　麻酔科,,,9" xlink:title="（医）ふたつやま会二山整形外科" transform="ref(svg,13354.7364,-3355.2897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩崎胃腸科内科,高知県高知市薊野東町９-３２,内科　消化器内科　胃腸科,,,9" xlink:title="岩崎胃腸科内科" transform="ref(svg,13356.505,-3358.1449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,植田医院,高知県高知市廿代町１-８,内科　神経内科　呼吸器内科　消化器内科　循環器内科　小児科　リハビリテーション科　放射線科　糖尿病内科　腎臓内科　リウマチ科　心臓内科　アレルギー科,,,9" xlink:title="植田医院" transform="ref(svg,13354.1717,-3356.2842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うえたクリニック,高知県高知市高-嘯P３-１４,内科　小児科,,,9" xlink:title="うえたクリニック" transform="ref(svg,13355.6837,-3357.2532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,植田皮膚科,高知県高知市上町２-４-５,皮膚科,,,9" xlink:title="植田皮膚科" transform="ref(svg,13352.3485,-3355.6898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うぐるす内科クリニック,高知県高知市鵜来巣１１-３８-１０あさくらメディカルビル２Ｆ,内科　循環器内科,,,9" xlink:title="うぐるす内科クリニック" transform="ref(svg,13348.3859,-3354.0904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,潮江診療所,高知県高知市高見町３６３,内科　呼吸器内科　消化器内科　循環器内科　リハビリテーション科,,,9" xlink:title="潮江診療所" transform="ref(svg,13353.7393,-3354.1424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,うしおえ太陽クリニック,高知県高知市竹島町１３-１うしおえメディカルビルイーア２Ｆ,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="うしおえ太陽クリニック" transform="ref(svg,13354.2547,-3354.2832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,潮江皮膚科診療所,高知県高知市百石町２-７-１３,皮膚科,,,9" xlink:title="潮江皮膚科診療所" transform="ref(svg,13354.4119,-3354.8881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内田産婦人科,高知県高知市南久万３９-２,産婦人科,,,9" xlink:title="内田産婦人科" transform="ref(svg,13352.1307,-3357.0735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内田内科消化器科,高知県高知市南久万３９-２０,内科　小腸内科　循環器科　放射線科,,,9" xlink:title="内田内科消化器科" transform="ref(svg,13352.111,-3357.0765)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内田脳神経外科,高知県高知市塚ノ原３７,内科　脳神経外科　リハビリテーション科　放射線科,,,9" xlink:title="内田脳神経外科" transform="ref(svg,13349.4897,-3356.1142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梅ノ辻クリニック,高知県高知市梅ノ辻８-７,内科　神経内科　整形外科　脳神経外科　リハビリテーション科,,,9" xlink:title="梅ノ辻クリニック" transform="ref(svg,13354.3564,-3355.3602)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梅原産科婦人科,高知県高知市瀬戸南町２-１-１０,産科　婦人科,,,9" xlink:title="梅原産科婦人科" transform="ref(svg,13354.3932,-3350.8838)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えだしげ整形外科,高知県高知市伊勢崎町１３-１３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="えだしげ整形外科" transform="ref(svg,13352.9065,-3357.0557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,麻植胃腸科,高知県高知市はりまや町３-３-３,内科　胃腸科　放射線科,,,9" xlink:title="麻植胃腸科" transform="ref(svg,13354.3619,-3356.349)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大川内科,高知県高知市萩町１-６-５２,内科　循環器内科　老年内科,,,9" xlink:title="大川内科" transform="ref(svg,13355.3952,-3354.62)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおくま皮膚科,高知県高知市高須２-１８-１１,皮膚科,,,9" xlink:title="おおくま皮膚科" transform="ref(svg,13358.9675,-3356.0461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大-ｱ眼科,高知県高知市朝倉甲６０-１,眼科,,,9" xlink:title="大-ｱ眼科" transform="ref(svg,13350.1848,-3354.3164)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおつ耳鼻咽喉科,高知県高知市鵜来巣１１-３８-１０あさくらメディカルビル２Ｆ,耳鼻いんこう科,,,9" xlink:title="おおつ耳鼻咽喉科" transform="ref(svg,13348.3859,-3354.0904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大津診療所,高知県高知市大津乙１９５８-７,内科　小腸内科　麻酔科,,,9" xlink:title="大津診療所" transform="ref(svg,13359.0742,-3357.1676)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大原小児科医院,高知県高知市神田１０７３-１８,内科　小児科,,,9" xlink:title="大原小児科医院" transform="ref(svg,13351.3755,-3354.3931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川内科,高知県高知市八反町１-３-８,内科,,,9" xlink:title="小川内科" transform="ref(svg,13352.4123,-3356.6845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おがわハートクリニック,高知県高知市神田８４０-１,内科　循環器科,,,9" xlink:title="おがわハートクリニック" transform="ref(svg,13351.1509,-3354.508)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おざきクリニック,高知県高知市東石立町４８-１２,内科　胃腸内科,,,9" xlink:title="おざきクリニック" transform="ref(svg,13352.347,-3355.2761)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,織田医院,高知県高知市愛宕山１００,内科　小児科　眼科,,,9" xlink:title="織田医院" transform="ref(svg,13353.6585,-3357.768)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小谷放射線科・内科,高知県高知市吉田町２-８,内科　呼吸器科　小腸内科　循環器科　小児科　放射線科,,,9" xlink:title="小谷放射線科・内科" transform="ref(svg,13353.3912,-3357.1027)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,お日さまクリニック,高知県高知市北久保１０-１６,内科　リウマチ科　リハビリテーション科　糖尿病内科　内分泌内科　感染症内科,,,9" xlink:title="お日さまクリニック" transform="ref(svg,13356.5336,-3357.1473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設早蕨医務室,高知県高知市五台山字福浦３７８０-１,内科,,,9" xlink:title="介護老人福祉施設早蕨医務室" transform="ref(svg,13358.3911,-3354.2082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,カジハラ耳鼻咽喉科,高知県高知市愛宕町２-２２-１２,耳鼻いんこう科,,,9" xlink:title="カジハラ耳鼻咽喉科" transform="ref(svg,13353.6519,-3356.9223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片岡小児科,高知県高知市西秦泉寺３８１-６　１Ｆ,内科　小児科,,,9" xlink:title="片岡小児科" transform="ref(svg,13353.4187,-3357.7999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かっとう耳鼻科,高知県高知市瀬戸南町２-３-２,耳鼻いんこう科,,,9" xlink:title="かっとう耳鼻科" transform="ref(svg,13354.3179,-3350.7627)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金田アイクリニック,高知県高知市北金田１０-３２,眼科,,,9" xlink:title="金田アイクリニック" transform="ref(svg,13355.5954,-3356.5873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,亀井クリニック,高知県高知市札場１８-２２,内科　皮膚科　泌尿器科,,,9" xlink:title="亀井クリニック" transform="ref(svg,13356.102,-3356.3265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かもだの診療所,高知県高知市鴨部２-１-１６,内科　外科　肛門外科,,,9" xlink:title="かもだの診療所" transform="ref(svg,13350.5453,-3354.9478)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かりた耳鼻咽喉科,高知県高知市神田１０４１-１,耳鼻いんこう科,,,9" xlink:title="かりた耳鼻咽喉科" transform="ref(svg,13351.062,-3354.2255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,刈谷皮膚科,高知県高知市上町５-５-１６,皮膚科,,,9" xlink:title="刈谷皮膚科" transform="ref(svg,13351.7433,-3355.6887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川上小児科クリニック,高知県高知市福井扇井町１１８０-１,小児科,,,9" xlink:title="川上小児科クリニック" transform="ref(svg,13350.9736,-3356.7904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわず皮フ科,高知県高知市横浜新町４-２３１２-８,皮膚科,,,9" xlink:title="かわず皮フ科" transform="ref(svg,13353.5385,-3351.6254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわむらクリニック整形外科,高知県高知市杉井流１-５,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="かわむらクリニック整形外科" transform="ref(svg,13355.4784,-3356.8015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川村整形外科,高知県高知市曙町１-１９-１,整形外科　リハビリテーション科　麻酔科　内科,,,9" xlink:title="川村整形外科" transform="ref(svg,13349.2174,-3355.104)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木田山薬堂診療所,高知県高知市愛宕町３-７-６,漢方内科,,,9" xlink:title="木田山薬堂診療所" transform="ref(svg,13353.7782,-3357.0219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きたじま内科クリニック,高知県高知市高須２-５-２２,内科　呼吸器科　小腸内科　循環器科,,,9" xlink:title="きたじま内科クリニック" transform="ref(svg,13358.6845,-3355.8897)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きたむら心臓血管外科内科,高知県高知市薊野南町２８-４５,内科　呼吸器科　小腸内科　循環器科　外科　心臓内科,,,9" xlink:title="きたむら心臓血管外科内科" transform="ref(svg,13356.3288,-3357.7189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,絹川医院,高知県高知市桟橋通１-７-１７,内科　胃腸内科　循環器内科　外科　肛門外科　リハビリテーション科　消化器内科　呼吸器内科　糖尿病・代謝内科,,,9" xlink:title="絹川医院" transform="ref(svg,13354.6303,-3355.1167)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,救護施設浦戸園医務室,高知県高知市十津２-１２-１,内科　精神科,,,9" xlink:title="救護施設浦戸園医務室" transform="ref(svg,13357.0113,-3352.3179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,勤労クリニック,高知県高知市薊野北町３-２-２８,内科　リハビリテーション科,,,9" xlink:title="勤労クリニック" transform="ref(svg,13355.0465,-3358.1749)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くすのせクリニック,高知県高知市福井町８１１-１,内科　神経内科,,,9" xlink:title="くすのせクリニック" transform="ref(svg,13351.0058,-3356.6583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くすのせ形成外科,高知県高知市追手筋１-９-２２高知メディカルプラザ３Ｆ,形成外科　皮膚科,,,9" xlink:title="くすのせ形成外科" transform="ref(svg,13353.7949,-3356.1144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国見産婦人科,高知県高知市本町４-２-３０,産婦人科,,,9" xlink:title="国見産婦人科" transform="ref(svg,13353.2806,-3355.7404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くぼぞえ外科胃腸内科,高知県高知市相生町１-２０,内科　胃腸内科　外科　整形外科　肛門外科　リハビリテーション科　放射線科,,,9" xlink:title="くぼぞえ外科胃腸内科" transform="ref(svg,13354.4794,-3356.5242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックグリーンハウス,高知県高知市上町１-７-１,内科　小腸内科　外科　婦人科,,,9" xlink:title="クリニックグリーンハウス" transform="ref(svg,13352.6412,-3355.7118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニック地球３３番地,高知県高知市北本町４-４-６１,内科　小腸内科,,,9" xlink:title="クリニック地球３３番地" transform="ref(svg,13355.4615,-3356.3684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックひろと,高知県高知市長浜４８２３,内科　神経内科　消化器内科　循環器内科　整形外科　皮膚科　リハビリテーション科　放射線診断科　呼吸器内科　糖尿病内科　リウマチ科　腎臓内科　美容皮膚科,,,9" xlink:title="クリニックひろと" transform="ref(svg,13354.819,-3350.0303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桑名皮膚科,高知県高知市小津町９-１３,皮膚科,,,9" xlink:title="桑名皮膚科" transform="ref(svg,13352.8505,-3356.3644)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽費老人ホームあかねの里,高知県高知市朝倉丙１６４４-１,内科,,,9" xlink:title="軽費老人ホームあかねの里" transform="ref(svg,13347.5624,-3355.4119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,県庁前クリニック,高知県高知市升形４-３,内科　胃腸科　外科,,,9" xlink:title="県庁前クリニック" transform="ref(svg,13352.9079,-3355.7776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高新ビル診療所,高知県高知市本町３-２-１５,内科,,,9" xlink:title="高新ビル診療所" transform="ref(svg,13353.469,-3355.8937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こうせいこどもクリニック,高知県高知市葛島２-６-３０,小児科,,,9" xlink:title="こうせいこどもクリニック" transform="ref(svg,13357.3449,-3355.7275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）国立高知病院診療部,高知県高知市朝倉西町１-２-２５,内科,,,9" xlink:title="厚生労働省第二（共済）国立高知病院診療部" transform="ref(svg,13348.425,-3354.2886)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知いちょう医院,高知県高知市井口町１１,内科　胃腸内科　肛門内科　女性内科　男性内科,,,9" xlink:title="高知いちょう医院" transform="ref(svg,13351.7472,-3355.8053)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知医療（生協）旭診療所,高知県高知市旭上町３２,内科　呼吸器内科　消化器内科　循環器内科　小児科　外科　糖尿病内科,,,9" xlink:title="高知医療（生協）旭診療所" transform="ref(svg,13350.2953,-3355.6144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知家庭裁判所医務室,高知県高知市丸ノ内１-３-５,精神科　内科　婦人科,,,9" xlink:title="高知家庭裁判所医務室" transform="ref(svg,13352.9333,-3355.9219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知検診クリニック,高知県高知市知寄町２-４-３６,内科　歯科,,,9" xlink:title="高知検診クリニック" transform="ref(svg,13356.0169,-3355.7532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知県赤十字血液センター,高知県高知市桟橋通６-７-４４,内科,,,9" xlink:title="高知県赤十字血液センター" transform="ref(svg,13355.6335,-3354.036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知県赤十字血液センター本町出張所献血ルームハートピアやまもも,高知県高知市本町１-１-３,内科,,,9" xlink:title="高知県赤十字血液センター本町出張所献血ルームハートピアやまもも" transform="ref(svg,13353.9623,-3355.9778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知県立精神保健福祉センター,高知県高知市丸ノ内２-４-１,精神科　神経科,,,9" xlink:title="高知県立精神保健福祉センター" transform="ref(svg,13353.2534,-3356.2339)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知県立療育福祉センター,高知県高知市若草町１０-５,整形外科　リハビリテーション科　精神科　歯科　小児科,,,9" xlink:title="高知県立療育福祉センター" transform="ref(svg,13348.8672,-3354.4632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知市休日夜間急患センター平日夜間小児急患センター,高知県高知市丸ノ内１-７-４５,内科　小児科　耳鼻いんこう科,,,9" xlink:title="高知市休日夜間急患センター平日夜間小児急患センター" transform="ref(svg,13352.784,-3356.0079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知市誠和園診療室,高知県高知市横浜４-２,内科　精神科　神経科,,,9" xlink:title="高知市誠和園診療室" transform="ref(svg,13355.8854,-3352.994)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知市土佐山へき地診療所,高知県高知市土佐山１１４,内科,,,9" xlink:title="高知市土佐山へき地診療所" transform="ref(svg,13352.7872,-3363.553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知市保健所,高知県高知市丸ノ内１-７-４５,内科　小児科　歯科,,,9" xlink:title="高知市保健所" transform="ref(svg,13352.784,-3356.0079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知市保健福祉センター,高知県高知市塩田町１８-１０,内科　小児科　婦人科　歯科,,,9" xlink:title="高知市保健福祉センター" transform="ref(svg,13354.5185,-3357.265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知大学保健管理センター,高知県高知市曙町２-５-１,内科　精神科　神経内科　整形外科　婦人科,,,9" xlink:title="高知大学保健管理センター" transform="ref(svg,13348.851,-3354.9756)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知ファミリークリニック,高知県高知市朝倉横町２３-７-１０,産科　婦人科,,,9" xlink:title="高知ファミリークリニック" transform="ref(svg,13349.2983,-3354.4549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知見元醫院,高知県高知市升形５-３３,内科　循環器内科　呼吸器内科　消化器内科　外科　形成外科　皮膚科　放射線科,,,9" xlink:title="高知見元醫院" transform="ref(svg,13352.8354,-3355.7065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こうない坂医院,高知県高知市朝倉丙１９１７-３,泌尿器科,,,9" xlink:title="こうない坂医院" transform="ref(svg,13347.0735,-3355.1699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ここからクリニック,高知県高知市鵜来巣１１-３８-１０あさくらメディカルビル３Ｆ,心療内科　精神科　神経内科,,,9" xlink:title="ここからクリニック" transform="ref(svg,13348.3859,-3354.0904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こさい耳鼻咽喉科,高知県高知市一ツ橋町２-１６９-１,耳鼻いんこう科,,,9" xlink:title="こさい耳鼻咽喉科" transform="ref(svg,13352.8018,-3357.2344)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五台山医院,高知県高知市五台山２７４８-３,内科　リハビリテーション科,,,9" xlink:title="五台山医院" transform="ref(svg,13358.8576,-3354.3108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こどもクリニックケロちゃん,高知県高知市鵜来巣１１-３８-１０あさくらメディカルビル２Ｆ,小児科,,,9" xlink:title="こどもクリニックケロちゃん" transform="ref(svg,13348.3859,-3354.0904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林レディスクリニック,高知県高知市竹島町１３-１うしおえメデイカルビルイーア３Ｆ,内科　婦人科,,,9" xlink:title="小林レディスクリニック" transform="ref(svg,13354.2547,-3354.2832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こんどうクリニック,高知県高知市日ノ出町１-１１,リウマチ科　整形外科　リハビリテーション科　内科,,,9" xlink:title="こんどうクリニック" transform="ref(svg,13355.5748,-3355.9741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）高知県総合保健協会中央健診センター,高知県高知市桟橋通６-７-４３,内科　呼吸器科　循環器科,,,9" xlink:title="（公財）高知県総合保健協会中央健診センター" transform="ref(svg,13355.6282,-3354.0312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さえんば耳鼻科,高知県高知市菜園場町１-１５,耳鼻いんこう科　気管食道科,,,9" xlink:title="さえんば耳鼻科" transform="ref(svg,13354.766,-3355.9613)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂井内科小児科,高知県高知市十津３-６-２８,内科　小腸内科　循環器科　小児科,,,9" xlink:title="坂井内科小児科" transform="ref(svg,13357.4242,-3352.4004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂本医院,高知県高知市朝倉南町４-２５,内科　小腸内科　外科　皮膚科　こう門科　リハビリテーション科,,,9" xlink:title="坂本医院" transform="ref(svg,13349.1786,-3354.2324)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかもと眼科,高知県高知市愛宕町１-５-８,眼科,,,9" xlink:title="さかもと眼科" transform="ref(svg,13353.7672,-3356.5866)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さなだクリニック,高知県高知市南はりまや町１-１７-２７はりまや館１０１,心療内科　神経内科　精神科,,,9" xlink:title="さなだクリニック" transform="ref(svg,13354.4631,-3355.8945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猿田皮膚科診療所,高知県高知市升形４-２５,皮膚科,,,9" xlink:title="猿田皮膚科診療所" transform="ref(svg,13352.8929,-3355.811)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さわだ耳鼻咽喉科・眼科,高知県高知市福井町１７３４-５,耳鼻いんこう科,,,9" xlink:title="さわだ耳鼻咽喉科・眼科" transform="ref(svg,13350.4459,-3356.7775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さんさんクリニック,高知県高知市鷹匠町１-１-８,内科　胃腸科　リウマチ科　整形外科　リハビリテーション科　放射線科　歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さんさんクリニック" transform="ref(svg,13353.6837,-3355.6421)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三宮心療クリニック,高知県高知市愛宕町３-１１-２７,心療内科　精神科,,,9" xlink:title="三宮心療クリニック" transform="ref(svg,13353.8022,-3357.1855)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桟橋みどりクリニック,高知県高知市百石町２-８-８,精神科　心療内科,,,9" xlink:title="桟橋みどりクリニック" transform="ref(svg,13354.534,-3354.9236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塩見クリニック,高知県高知市六泉寺町８７-５,内科　胃腸科　小児科　外科　リハビリテーション科,,,9" xlink:title="塩見クリニック" transform="ref(svg,13354.4336,-3353.8007)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塩見整形外科,高知県高知市瀬戸南町１-２-３０,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="塩見整形外科" transform="ref(svg,13354.366,-3350.9932)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四国電力（株）高知支店健康管理室,高知県高知市本町４-１-１１,内科,,,9" xlink:title="四国電力（株）高知支店健康管理室" transform="ref(svg,13353.3134,-3355.8607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渋谷内科胃腸科,高知県高知市中須賀町１０７,内科　呼吸器科　胃腸科　循環器科　リハビリテーション科　放射線科,,,9" xlink:title="渋谷内科胃腸科" transform="ref(svg,13350.934,-3355.7809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しまさきクリニック,高知県高知市一宮東町５-５-１３,内科　小児科　リハビリテーション科　循環器科　心療内科,,,9" xlink:title="しまさきクリニック" transform="ref(svg,13357.8723,-3358.9351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島崎クリニック,高知県高知市桟橋通２-１２-５,内科　皮膚科　泌尿器科　性感染症内科　腎臓内科,,,9" xlink:title="島崎クリニック" transform="ref(svg,13354.6072,-3354.9836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島崎耳鼻咽喉科,高知県高知市愛宕町１-３-１１,耳鼻いんこう科,,,9" xlink:title="島崎耳鼻咽喉科" transform="ref(svg,13353.5989,-3356.5884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島本医院,高知県高知市春野町西分６９-１,内科　小児科　外科,,,9" xlink:title="島本医院" transform="ref(svg,13349.2141,-3349.6464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,純クリニック,高知県高知市栄田町１-２-１６,内科　神経内科　小児科　整形外科,,,9" xlink:title="純クリニック" transform="ref(svg,13354.1559,-3356.7808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しろくま皮フ科,高知県高知市鴨部２-２０-５,皮膚科　美容皮膚科,,,9" xlink:title="しろくま皮フ科" transform="ref(svg,13350.4843,-3354.8618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新木診療所,高知県高知市高須３-１２-４０,内科　胃腸科　外科　麻酔科,,,9" xlink:title="新木診療所" transform="ref(svg,13358.9967,-3356.2319)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新本町クリニック,高知県高知市新本町１-１-２１タケマサビル２Ｆ，３Ｆ,内科　リハビリテーション科　心療内科　皮フ科　アレルギー科,,,9" xlink:title="新本町クリニック" transform="ref(svg,13354.3589,-3356.8441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅野医院,高知県高知市東久万８４-２１,内科　呼吸器科　胃腸科　循環器科　小児科　放射線科,,,9" xlink:title="菅野医院" transform="ref(svg,13352.9259,-3357.4999)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉本整形外科,高知県高知市高須２-１８-１９,整形外科　リハビリテーション科,,,9" xlink:title="杉本整形外科" transform="ref(svg,13358.9888,-3356.0034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,誠内科,高知県高知市仁井田新築４３５０-２,内科　呼吸器科　胃腸科　循環器科　小児科　放射線科,,,9" xlink:title="誠内科" transform="ref(svg,13357.2429,-3351.7149)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瀬戸内科,高知県高知市愛宕町２-２２-３,内科　呼吸器科　胃腸科　循環器科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="瀬戸内科" transform="ref(svg,13353.6672,-3356.9062)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかさきクリニック胃腸科内科,高知県高知市杉井流２-３２,内科　胃腸科　小児科,,,9" xlink:title="たかさきクリニック胃腸科内科" transform="ref(svg,13355.5379,-3356.7787)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高島整形外科内科,高知県高知市愛宕町１-２-２０,内科　整形外科　リハビリテーション科,,,9" xlink:title="高島整形外科内科" transform="ref(svg,13353.6689,-3356.5578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高須どい産婦人科,高知県高知市高須２-１８-１７,産科　婦人科,,,9" xlink:title="高須どい産婦人科" transform="ref(svg,13358.9611,-3356.0034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高須ヒカリ眼科,高知県高知市高須新町１-１４-１０,眼科,,,9" xlink:title="高須ヒカリ眼科" transform="ref(svg,13357.7257,-3355.9153)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高松内科クリニック,高知県高知市大川筋２-５-４８,内科　循環器科　小腸内科　呼吸器科　放射線科,,,9" xlink:title="高松内科クリニック" transform="ref(svg,13353.299,-3356.4872)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武井整形外科,高知県高知市北本町３-１０-４７,整形外科,,,9" xlink:title="武井整形外科" transform="ref(svg,13354.9938,-3356.6071)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武林整形外科,高知県高知市仁井田６４５,整形外科　リハビリテーション科　麻酔科　内科,,,9" xlink:title="武林整形外科" transform="ref(svg,13357.4335,-3351.1983)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹村循環器科内科,高知県高知市玉水町８２,内科　循環器科,,,9" xlink:title="竹村循環器科内科" transform="ref(svg,13351.4066,-3355.5531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹村診療所,高知県高知市種崎２８,内科　外科,,,9" xlink:title="竹村診療所" transform="ref(svg,13356.8183,-3350.8252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たしま耳鼻咽喉科,高知県高知市潮新町２-１１-５,耳鼻いんこう科,,,9" xlink:title="たしま耳鼻咽喉科" transform="ref(svg,13355.021,-3354.9461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷岡内科小児科,高知県高知市はりまや町３-２１-１７,内科　小児科,,,9" xlink:title="谷岡内科小児科" transform="ref(svg,13354.6944,-3356.2162)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷田内科クリニック,高知県高知市本町４-１-５２本町ＭＬプラザ,内科　アレルギー科,,,9" xlink:title="谷田内科クリニック" transform="ref(svg,13353.3823,-3355.8782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田内眼科,高知県高知市北本町４-３-１２,眼科,,,9" xlink:title="田内眼科" transform="ref(svg,13355.1857,-3356.5618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉木内科小児科クリニック,高知県高知市高見町１８９-１,内科　心療内科　呼吸器科　小腸内科　循環器科　アレルギー科　リウマチ科　小児科　リハビリテーション科　放射線科,,,9" xlink:title="玉木内科小児科クリニック" transform="ref(svg,13353.952,-3354.0054)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田村クリニック胃腸科・内科,高知県高知市槙山町１-３,内科　腹部内科　消化器内科　食道内科　胃腸内科　十二指腸内科　小腸内科　大腸内科　肝臓内科　胆のう内科　膵臓内科,,,9" xlink:title="田村クリニック胃腸科・内科" transform="ref(svg,13348.7399,-3353.8645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田村産婦人科,高知県高知市鷹匠町１-１-１０,産婦人科,,,9" xlink:title="田村産婦人科" transform="ref(svg,13353.6914,-3355.6174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たむら内科クリニック,高知県高知市曙町１-１-２０,内科　循環器科　呼吸器科,,,9" xlink:title="たむら内科クリニック" transform="ref(svg,13349.4899,-3355.2282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,段原内科,高知県高知市瀬戸１-２-６１,内科　胃腸科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="段原内科" transform="ref(svg,13354.4993,-3351.2112)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちかぞえ小児科,高知県高知市百石町３-２-５,内科　小児科,,,9" xlink:title="ちかぞえ小児科" transform="ref(svg,13354.6561,-3354.67)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地方職員（共済）高知診療所,高知県高知市丸ノ内１-２-２０,内科,,,9" xlink:title="地方職員（共済）高知診療所" transform="ref(svg,13353.1112,-3355.9721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中四国郵政健康管理センター高知分室,高知県高知市北本町１-１０-１８高知中央郵便局内,内科,,,9" xlink:title="中四国郵政健康管理センター高知分室" transform="ref(svg,13354.1269,-3356.667)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津野クリニック,高知県高知市比島町４-１-１２,内科　呼吸器科　小児科　循環器科　小腸内科　アレルギー科,,,9" xlink:title="津野クリニック" transform="ref(svg,13354.7938,-3357.2505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,出原診療所,高知県高知市永国寺町６-２,内科　麻酔科,,,9" xlink:title="出原診療所" transform="ref(svg,13353.5112,-3356.2859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺尾内科クリニック,高知県高知市はりまや町１-５-３３土電ビル４Ｆ,内科　呼吸器科　小腸内科　循環器科　放射線科,,,9" xlink:title="寺尾内科クリニック" transform="ref(svg,13354.3619,-3355.9682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,トカゲ堂医院,高知県高知市神田４０８-１,漢方内科,,,9" xlink:title="トカゲ堂医院" transform="ref(svg,13350.8129,-3354.2555)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あざみの里医務室,高知県高知市薊野北町２-２５-８,内科　精神科,,,9" xlink:title="（特養）あざみの里医務室" transform="ref(svg,13355.6454,-3358.3577)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ウェルプラザ高知医務室,高知県高知市一宮しなね２-１５-１９,内科　リハビリテーション科,,,9" xlink:title="（特養）ウェルプラザ高知医務室" transform="ref(svg,13357.753,-3359.3854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）海の里,高知県高知市仁井田１６１８-１８,内科,,,9" xlink:title="（特養）海の里" transform="ref(svg,13357.2027,-3351.319)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）うららか春陽荘医務室,高知県高知市春野町西分４６６０,内科　精神科,,,9" xlink:title="（特養）うららか春陽荘医務室" transform="ref(svg,13350.0568,-3350.0367)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）風花の里医務室,高知県高知市西塚ノ原７６-１,内科,,,9" xlink:title="（特養）風花の里医務室" transform="ref(svg,13349.0122,-3356.4041)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）絆の広場医務室,高知県高知市一宮南町１-４-７５,内科　精神科,,,9" xlink:title="（特養）絆の広場医務室" transform="ref(svg,13356.5022,-3357.7936)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）シーサイドホーム桂浜医務室,高知県高知市長浜６５９８-４,内科,,,9" xlink:title="（特養）シーサイドホーム桂浜医務室" transform="ref(svg,13354.751,-3349.077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）スウィート・ハート・ホーム医務室,高知県高知市朝倉甲６４-１,内科,,,9" xlink:title="（特養）スウィート・ハート・ホーム医務室" transform="ref(svg,13350.2395,-3354.3075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はるの若菜荘医務室,高知県高知市春野町東諸木３０５８-１,内科,,,9" xlink:title="（特養）はるの若菜荘医務室" transform="ref(svg,13351.5715,-3348.7519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ふるさとの丘医務室,高知県高知市朝倉己１１４９-１０６,内科,,,9" xlink:title="（特養）ふるさとの丘医務室" transform="ref(svg,13347.8388,-3353.1435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）森の里高知診療室,高知県高知市横浜２０-１,内科　精神科　神経内科,,,9" xlink:title="（特養）森の里高知診療室" transform="ref(svg,13355.3689,-3352.8616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やすらぎの家医務室,高知県高知市針木北１-１４-３０,内科　精神科,,,9" xlink:title="（特養）やすらぎの家医務室" transform="ref(svg,13347.4227,-3354.0486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）湯の里医務室,高知県高知市円行寺５２-１０,内科　皮膚科　歯科,,,9" xlink:title="（特養）湯の里医務室" transform="ref(svg,13351.3354,-3358.3951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土佐整形外科,高知県高知市朝倉甲５０-６,整形外科　リハビリテーション科,,,9" xlink:title="土佐整形外科" transform="ref(svg,13350.0704,-3354.3727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富田小児科,高知県高知市升形２-１,小児科,,,9" xlink:title="富田小児科" transform="ref(svg,13352.7832,-3355.8246)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中内整形外科クリニック,高知県高知市旭上町３０,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="中内整形外科クリニック" transform="ref(svg,13350.3524,-3355.6067)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長尾神経クリニック,高知県高知市桟橋通り３-１-１５,内科　精神科　神経科　神経内科　外科,,,9" xlink:title="長尾神経クリニック" transform="ref(svg,13354.9105,-3354.7039)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永野耳鼻咽喉科・アレルギー科医院,高知県高知市上町５-２-１４,アレルギー科　耳鼻いんこう科,,,9" xlink:title="永野耳鼻咽喉科・アレルギー科医院" transform="ref(svg,13351.8266,-3355.7843)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながの内科クリニック,高知県高知市新田町１４-３１,内科　神経内科　リハビリテーション科,,,9" xlink:title="ながの内科クリニック" transform="ref(svg,13355.3982,-3355.1417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菜の花診療所,高知県高知市追手筋１-９-２２,心療内科　精神科　神経内科,,,9" xlink:title="菜の花診療所" transform="ref(svg,13353.7949,-3356.1144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にこにこレディースクリニック,高知県高知市大谷公園町１６-３０,婦人科　産科　女性内科,,,9" xlink:title="にこにこレディースクリニック" transform="ref(svg,13348.1934,-3353.6392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしの内科クリニック循環器・心臓内科,高知県高知市百石町２-２９-１６,内科　循環器内科　老年内科　呼吸器内科　心臓内科,,,9" xlink:title="にしの内科クリニック循環器・心臓内科" transform="ref(svg,13354.3022,-3354.575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ネクストホームクリニック,高知県高知市九反田３-１７,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="ネクストホームクリニック" transform="ref(svg,13354.7835,-3355.7646)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野田眼科,高知県高知市瀬戸１-６-４０,眼科,,,9" xlink:title="野田眼科" transform="ref(svg,13354.4616,-3350.9762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のもと皮膚科クリニック,高知県高知市南久万１９６-１,皮膚科,,,9" xlink:title="のもと皮膚科クリニック" transform="ref(svg,13352.0066,-3357.0604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,畠中クリニック,高知県高知市追手筋１-９-２２,整形外科　リハビリテーション科,,,9" xlink:title="畠中クリニック" transform="ref(svg,13353.8111,-3356.1318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はまだ産婦人科,高知県高知市高須３-１-２８,内科　産婦人科,,,9" xlink:title="はまだ産婦人科" transform="ref(svg,13358.9055,-3356.2533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はまだ耳鼻咽喉科,高知県高知市本町５-１-３,耳鼻いんこう科,,,9" xlink:title="はまだ耳鼻咽喉科" transform="ref(svg,13353.1561,-3355.8089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はまだ小児科,高知県高知市桟橋通１-１３-６,小児科,,,9" xlink:title="はまだ小児科" transform="ref(svg,13354.49,-3355.1553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原脳神経外科,高知県高知市中水道８-１,脳神経外科　麻酔科,,,9" xlink:title="原脳神経外科" transform="ref(svg,13353.6325,-3356.8553)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はりまやばし診療所,高知県高知市はりまや町１-７-７川村ビル２Ｆ,精神科　心臓内科　神経内科,,,9" xlink:title="はりまやばし診療所" transform="ref(svg,13354.4106,-3356.0665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,春野うららかクリニック,高知県高知市春野町南ヶ丘７-１６,内科　小児科　循環器内科　老年内科,,,9" xlink:title="春野うららかクリニック" transform="ref(svg,13351.9895,-3351.7258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,春野診療所,高知県高知市春野町弘岡上１３６,内科　呼吸器科　胃腸科　循環器科　放射線科,,,9" xlink:title="春野診療所" transform="ref(svg,13346.0535,-3350.5402)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はるの森澤クリニック,高知県高知市春野町東諸木３１６３,内科　皮膚科　小児科,,,9" xlink:title="はるの森澤クリニック" transform="ref(svg,13351.1127,-3349.192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひらた皮フ科,高知県高知市竹島町１３-１うしおえメディカルビルイーア４Ｆ,アレルギー科　形成外科　皮膚科,,,9" xlink:title="ひらた皮フ科" transform="ref(svg,13354.2547,-3354.2832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広島検疫所高知出張所予防接種室,高知県高知市桟橋通５-４-５５高知港湾合同庁舎２Ｆ,内科,,,9" xlink:title="広島検疫所高知出張所予防接種室" transform="ref(svg,13355.2383,-3353.9665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井診療所内科消化器科,高知県高知市福井扇町１１７８-１,内科　小腸内科　放射線科,,,9" xlink:title="福井診療所内科消化器科" transform="ref(svg,13350.85,-3356.8589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福井小児科・内科・循環器科,高知県高知市愛宕町３-１２-３,内科　小児科　循環器科,,,9" xlink:title="福井小児科・内科・循環器科" transform="ref(svg,13353.6997,-3357.1108)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福田心臓・消化器内科,高知県高知市東秦泉寺６７-１,内科　消化器内科　循環器内科　心臓内科　小児科　外科　リハビリテーション科,,,9" xlink:title="福田心臓・消化器内科" transform="ref(svg,13354.5991,-3357.8554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福森循環器科小児科,高知県高知市葛島２-３-２１,内科　呼吸器科　循環器科　小児科　放射線科,,,9" xlink:title="福森循環器科小児科" transform="ref(svg,13357.2668,-3355.6702)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井クリニック,高知県高知市朝倉乙９８８,内科　産婦人科,,,9" xlink:title="藤井クリニック" transform="ref(svg,13348.3789,-3355.0309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田クリニック,高知県高知市旭町２-２３-３５,泌尿器科,,,9" xlink:title="藤田クリニック" transform="ref(svg,13351.0891,-3355.5834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田皮フ科,高知県高知市梅ノ辻５-２５,皮膚科,,,9" xlink:title="藤田皮フ科" transform="ref(svg,13354.39,-3355.4232)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふたばクリニック,高知県高知市役知町１５-７,内科　消化器内科　循環器内科,,,9" xlink:title="ふたばクリニック" transform="ref(svg,13354.7994,-3355.4382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふないキッズクリニック,高知県高知市北新田町９-１０,小児科,,,9" xlink:title="ふないキッズクリニック" transform="ref(svg,13355.1282,-3355.2813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふみの皮フ科,高知県高知市福井扇町１１７８-３,皮膚科　形成外科,,,9" xlink:title="ふみの皮フ科" transform="ref(svg,13350.8742,-3356.8525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フレッククリニック,高知県高知市高須新町４-３-２０,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="フレッククリニック" transform="ref(svg,13357.989,-3355.559)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ベノネット血管クリニック,高知県高知市高須２-６-６４アーバンビル青山１０１,血管外科　血液内科,,,9" xlink:title="ベノネット血管クリニック" transform="ref(svg,13358.7898,-3355.8722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,法務省（共済）高知地方検察庁支部診療所,高知県高知市丸ノ内１-４-１,内科,,,9" xlink:title="法務省（共済）高知地方検察庁支部診療所" transform="ref(svg,13352.8548,-3355.8898)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細木眼科,高知県高知市日の出町１-１０,眼科,,,9" xlink:title="細木眼科" transform="ref(svg,13355.5607,-3355.9694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田診療所,高知県高知市高須３-２-４３-１４,内科　心療内科　精神科　小児科,,,9" xlink:title="前田診療所" transform="ref(svg,13358.9412,-3356.1907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まさおか眼科,高知県高知市竹島町１３-１ウシオエメディカルビルイーア２Ｆ,眼科,,,9" xlink:title="まさおか眼科" transform="ref(svg,13354.2556,-3354.2827)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ますだクリニック,高知県高知市百石町４-１７-１,内科　泌尿器科,,,9" xlink:title="ますだクリニック" transform="ref(svg,13354.5675,-3354.4445)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡胃腸科内科,高知県高知市和泉町３-２５,内科　小児科　胃腸科,,,9" xlink:title="松岡胃腸科内科" transform="ref(svg,13354.1911,-3357.0916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡クリニック,高知県高知市横内４５４,内科　小腸内科　循環器科　小児科,,,9" xlink:title="松岡クリニック" transform="ref(svg,13350.1215,-3356.6177)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本クリニック,高知県高知市桟橋通２-７-１１,皮膚科　泌尿器科　耳鼻いんこう科,,,9" xlink:title="松本クリニック" transform="ref(svg,13354.8449,-3354.8075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつもとデイクリニック,高知県高知市北久保２-３９,内科　血管外科　肛門外科　腹部外科,,,9" xlink:title="まつもとデイクリニック" transform="ref(svg,13356.4358,-3356.9546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本皮膚泌尿器科,高知県高知市南はりまや町１-６-５,皮膚科　泌尿器科　形成外科,,,9" xlink:title="松本皮膚泌尿器科" transform="ref(svg,13354.2949,-3355.781)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まなべ小児科・循環器科クリニック,高知県高知市薊野西町３-８-１１,小児科　循環器科,,,9" xlink:title="まなべ小児科・循環器科クリニック" transform="ref(svg,13355.1106,-3357.8261)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三木耳鼻いんこう科,高知県高知市薊野西町３-３４-６,耳鼻いんこう科,,,9" xlink:title="三木耳鼻いんこう科" transform="ref(svg,13355.6184,-3357.8292)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みぞぶち整形外科クリニック,高知県高知市鵜来巣１１-３８-１０あさくらメディカルビル１Ｆ,整形外科　リハビリテーション科,,,9" xlink:title="みぞぶち整形外科クリニック" transform="ref(svg,13348.3851,-3354.0945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みちなか整形外科クリニック,高知県高知市福井町８１１-１,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="みちなか整形外科クリニック" transform="ref(svg,13351.4244,-3356.7402)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなみが丘ポラリスクリニック,高知県高知市春野町南ヶ丘１-４-１,内科　リハビリテーション科　消化器内科　肝臓内科　皮膚科,,,9" xlink:title="みなみが丘ポラリスクリニック" transform="ref(svg,13351.9696,-3351.5879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みなみの風診療所,高知県高知市栄田町３-７-１,内科　リハビリテーション科,,,9" xlink:title="みなみの風診療所" transform="ref(svg,13354.5543,-3356.7756)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,見元クリニック,高知県高知市西町４２,内科　アレルギー科　呼吸器内科,,,9" xlink:title="見元クリニック" transform="ref(svg,13351.8485,-3355.8571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮上内科,高知県高知市朝倉東町５１-１,内科　消化器内科　循環器内科　呼吸器内科,,,9" xlink:title="宮上内科" transform="ref(svg,13350.0027,-3354.3835)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮川漢方クリニック,高知県高知市南はりまや町２-１２-２１,漢方内科,,,9" xlink:title="宮川漢方クリニック" transform="ref(svg,13354.5744,-3355.7129)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村上外科胃腸科,高知県高知市高須新町４-１-１０,胃腸科　外科　整形外科　こう門科,,,9" xlink:title="村上外科胃腸科" transform="ref(svg,13357.8996,-3355.6491)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メディカルカウンセリングルームいとうクリニック,高知県高知市追手筋２-７-８レジデンス大手前Ａ５０３,心療内科　精神科　神経科,,,9" xlink:title="メディカルカウンセリングルームいとうクリニック" transform="ref(svg,13353.4367,-3356.0537)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森眼科,高知県高知市廿代町１-２１,眼科,,,9" xlink:title="森眼科" transform="ref(svg,13354.1978,-3356.3114)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田整形外科,高知県高知市薊野西町３-３５-２７,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="森田整形外科" transform="ref(svg,13355.6279,-3357.6697)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田内科クリニック,高知県高知市仁井田６８３-８,内科　消化器内科　小児科,,,9" xlink:title="森田内科クリニック" transform="ref(svg,13357.3682,-3351.2438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森本外科内科眼科,高知県高知市中宝永町７-２１,内科　胃腸科　外科　整形外科　皮膚科　こう門科　眼科,,,9" xlink:title="森本外科内科眼科" transform="ref(svg,13355.251,-3355.904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もりもと整形外科・内科,高知県高知市朝倉本町２-１２-６,内科　整形外科　リハビリテーション科,,,9" xlink:title="もりもと整形外科・内科" transform="ref(svg,13348.7178,-3354.6037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢嶋医院,高知県高知市廿代町１-８,皮膚科　泌尿器科　性病科,,,9" xlink:title="矢嶋医院" transform="ref(svg,13354.1717,-3356.2842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安岡眼科,高知県高知市上町２-２-９,眼科,,,9" xlink:title="安岡眼科" transform="ref(svg,13352.4279,-3355.7576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安田皮フ科,高知県高知市高須新町２-２-１６,皮膚科,,,9" xlink:title="安田皮フ科" transform="ref(svg,13357.844,-3355.775)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柳澤外科,高知県高知市桜井町１-２-１６,外科　整形外科,,,9" xlink:title="柳澤外科" transform="ref(svg,13354.8227,-3356.0867)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢野小児科診療所,高知県高知市上町２-１-２６,小児科,,,9" xlink:title="矢野小児科診療所" transform="ref(svg,13352.2951,-3355.8642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまかわ乳腺クリニック,高知県高知市若草町１５-４５,外科　内科　乳腺外科,,,9" xlink:title="やまかわ乳腺クリニック" transform="ref(svg,13348.6866,-3354.2813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山-ｱ耳鼻咽喉科,高知県高知市高須２-１７-２８,耳鼻いんこう科,,,9" xlink:title="山-ｱ耳鼻咽喉科" transform="ref(svg,13358.9053,-3355.9757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山-ｱ内科泌尿器科,高知県高知市朝倉横町１０-４５,内科　胃腸科　循環器科　小児科　泌尿器科　放射線科,,,9" xlink:title="山-ｱ内科泌尿器科" transform="ref(svg,13349.1939,-3354.6695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山下脳神経外科,高知県高知市南元町３-１３,脳神経外科,,,9" xlink:title="山下脳神経外科" transform="ref(svg,13350.7708,-3355.6804)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山中外科・整形外科,高知県高知市西泰泉寺３７３-１,胃腸科　外科　整形外科　こう門科　リハビリテーション科,,,9" xlink:title="山中外科・整形外科" transform="ref(svg,13353.3587,-3357.8398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山村診療所,高知県高知市鏡今井１２６-イ,内科　呼吸器科　胃腸科　循環器科　小児科　皮膚科,,,9" xlink:title="山村診療所" transform="ref(svg,13347.1676,-3360.8012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本内科外科医院,高知県高知市上町１-１０-３９,内科　漢方内科　外科　皮膚科　心療内科　アレルギー科,,,9" xlink:title="山本内科外科医院" transform="ref(svg,13352.5729,-3355.5589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本皮膚科泌尿器科,高知県高知市大川筋２-３-３５,皮膚科　泌尿器科,,,9" xlink:title="山本皮膚科泌尿器科" transform="ref(svg,13353.4598,-3356.5539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本志雄泌尿器科,高知県高知市大手筋１-９-２２高知メディカルプラザ４Ｆ,泌尿器科,,,9" xlink:title="山本志雄泌尿器科" transform="ref(svg,13353.8111,-3356.1318)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山脇整形外科医院,高知県高知市旭駅前町３１,整形外科,,,9" xlink:title="山脇整形外科医院" transform="ref(svg,13350.8781,-3355.6956)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柚本内科,高知県高知市本町２-２-３０,内科　呼吸器科　小腸内科　循環器科　神経内科　放射線科,,,9" xlink:title="柚本内科" transform="ref(svg,13353.7114,-3355.8854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム千松園医務室,高知県高知市十津２-１２-１,内科,,,9" xlink:title="養護老人ホーム千松園医務室" transform="ref(svg,13357.034,-3352.2787)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横田胃腸科内科,高知県高知市潮新町１-１６-１０,内科　胃腸科,,,9" xlink:title="横田胃腸科内科" transform="ref(svg,13354.9266,-3355.0061)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横田クリニック,高知県高知市旭駅前町５,内科　胃腸科　循環器科,,,9" xlink:title="横田クリニック" transform="ref(svg,13350.8703,-3355.774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横浜ニュータウン内科,高知県高知市横浜新町４-２３１５,内科　胃腸科　小児科　リハビリテーション科,,,9" xlink:title="横浜ニュータウン内科" transform="ref(svg,13353.5566,-3351.5701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉岡クリニック,高知県高知市上町２-５-１臼井エステートビル２Ｆ,内科　循環器科,,,9" xlink:title="吉岡クリニック" transform="ref(svg,13352.4912,-3355.7118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉川内科消化器科,高知県高知市伊勢崎町１０-１１,内科　小腸内科　循環器科,,,9" xlink:title="吉川内科消化器科" transform="ref(svg,13352.934,-3356.9754)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉村神経内科リハビリクリニック,高知県高知市百石町２-２-１,内科　神経内科　外科　リハビリテーション科　放射線科　小腸内科,,,9" xlink:title="吉村神経内科リハビリクリニック" transform="ref(svg,13354.443,-3354.9425)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,依岡内科,高知県高知市横浜新町３-１１６,内科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="依岡内科" transform="ref(svg,13353.4138,-3351.8442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,依光内科クリニック,高知県高知市愛宕町１-２-２２,内科,,,9" xlink:title="依光内科クリニック" transform="ref(svg,13353.6736,-3356.5378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よりみつ内科消化器内科,高知県高知市三園町２２７,内科　消化器内科,,,9" xlink:title="よりみつ内科消化器内科" transform="ref(svg,13353.3744,-3357.4243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,らくだクリニック,高知県高知市南元町３０,精神科　心療内科,,,9" xlink:title="らくだクリニック" transform="ref(svg,13350.7134,-3355.6492)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディスクリニックコスモス,高知県高知市追手筋１-９-２２高知メディカルプラザ１Ｆ,内科　婦人科,,,9" xlink:title="レディスクリニックコスモス" transform="ref(svg,13353.8086,-3356.1286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杏クリニック,高知県土佐市高岡町丙６４-１,内科　糖尿病・代謝内科　消化器内科　漢方内科,,,9" xlink:title="杏クリニック" transform="ref(svg,13343.506,-3349.7405)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石黒小児科,高知県土佐市高岡町丙４６-１,内科　小児科,,,9" xlink:title="石黒小児科" transform="ref(svg,13343.2958,-3349.726)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊与木クリニック,高知県土佐市蓮池１２２７-５,内科　外科　リハビリテーション科,,,9" xlink:title="伊与木クリニック" transform="ref(svg,13341.3317,-3349.2595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高尚会川田整形外科,高知県土佐市高岡町甲９２０-１,整形外科　リハビリテーション科　外科　麻酔科,,,9" xlink:title="（医）高尚会川田整形外科" transform="ref(svg,13343.0852,-3349.6458)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江渕診療所,高知県土佐市家俊１１７９,内科　小腸内科　循環器科,,,9" xlink:title="江渕診療所" transform="ref(svg,13334.6302,-3346.1151)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岸本内科,高知県土佐市宇佐町宇佐１７３８,内科,,,9" xlink:title="岸本内科" transform="ref(svg,13344.1949,-3345.0448)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設とさ医務室,高知県土佐市波介１２４４-１,内科　整形外科,,,9" xlink:title="障害者支援施設とさ医務室" transform="ref(svg,13342.1354,-3348.2752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋クリニック,高知県土佐市高岡町甲１９７５-１,内科　婦人科,,,9" xlink:title="高橋クリニック" transform="ref(svg,13342.7069,-3349.5444)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田所内科,高知県土佐市高岡町甲２０１８,内科　小腸内科,,,9" xlink:title="田所内科" transform="ref(svg,13342.5566,-3349.6258)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土佐市立土佐市民病院附属とさの里診療所,高知県土佐市高岡町甲１７９２-２,内科　外科　神経内科　整形外科　脳神経外科　皮膚科　泌尿器科　産婦人科　眼科　その他,,,9" xlink:title="土佐市立土佐市民病院附属とさの里診療所" transform="ref(svg,13342.3019,-3349.192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土佐やまもと眼科,高知県土佐市高岡町乙５１-２,眼科,,,9" xlink:title="土佐やまもと眼科" transform="ref(svg,13341.8631,-3349.6865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかの内科・胃腸科,高知県土佐市宇佐町字西松岡４５６-３,内科　呼吸器科　小腸内科　胃腸科　循環器科,,,9" xlink:title="なかの内科・胃腸科" transform="ref(svg,13343.6378,-3344.5359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本外科胃腸科内科,高知県土佐市高岡町甲７５０-１,内科　胃腸科　循環器科　外科　こう門科　リハビリテーション科　放射線科,,,9" xlink:title="橋本外科胃腸科内科" transform="ref(svg,13343.5224,-3349.5605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はなさく耳鼻咽喉科・いびき睡眠クリニック,高知県土佐市高岡町甲２１５４-１２,耳鼻咽喉科,,,9" xlink:title="はなさく耳鼻咽喉科・いびき睡眠クリニック" transform="ref(svg,13342.1639,-3349.5663)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひろせ整形外科リハビリテーションクリニック,高知県土佐市蓮池１００４-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="ひろせ整形外科リハビリテーションクリニック" transform="ref(svg,13341.6293,-3349.5035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松岡内科,高知県土佐市高岡町甲２１５８-２,内科　呼吸器科　小腸内科　循環器科,,,9" xlink:title="松岡内科" transform="ref(svg,13342.1592,-3349.5352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁栄会島津クリニック,高知県須崎市西古市町３-１５,内科　消化器内科　循環器内科　外科　整形外科　泌尿器科　消化器外科　人工透析内科,,,9" xlink:title="（医）仁栄会島津クリニック" transform="ref(svg,13328.5475,-3338.977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浦ノ内診療所,高知県須崎市浦ノ内東分１６８-１１４,内科,,,9" xlink:title="浦ノ内診療所" transform="ref(svg,13336.2411,-3342.7265)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上分診療所,高知県須崎市上分丙９２-１,内科,,,9" xlink:title="上分診療所" transform="ref(svg,13323.4331,-3339.7981)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北川眼科,高知県須崎市緑町１-１,眼科,,,9" xlink:title="北川眼科" transform="ref(svg,13328.8249,-3341.0322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知医療（生協）すさき診療所,高知県須崎市東古市町３-４,内科　呼吸器科　小腸内科　胃腸科　リハビリテーション科,,,9" xlink:title="高知医療（生協）すさき診療所" transform="ref(svg,13328.8214,-3338.9538)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知県須崎保健所,高知県須崎市東古市町６-２６,内科,,,9" xlink:title="高知県須崎保健所" transform="ref(svg,13328.7297,-3339.063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂本内科消化器科,高知県須崎市赤崎町３-２０,内科　呼吸器科　小腸内科　循環器科,,,9" xlink:title="坂本内科消化器科" transform="ref(svg,13328.9133,-3341.3441)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須崎医療クリニック,高知県須崎市多ノ郷甲５７４８-１,内科　呼吸器科　小腸内科　循環器科　整形外科,,,9" xlink:title="須崎医療クリニック" transform="ref(svg,13327.2697,-3342.0321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須崎菅野医院,高知県須崎市西糺町１,内科　消化器内科　外科　皮膚科,,,9" xlink:title="須崎菅野医院" transform="ref(svg,13328.4917,-3339.1158)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須崎緑町診療所,高知県須崎市緑町１０-２３,内科,,,9" xlink:title="須崎緑町診療所" transform="ref(svg,13329.1224,-3341.3777)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）清流荘診療所,高知県須崎市上分丙１７５８-２,内科　外科,,,9" xlink:title="（特養）清流荘診療所" transform="ref(svg,13323.6327,-3339.9936)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中山整形外科,高知県須崎市妙見町９-１０,整形外科,,,9" xlink:title="中山整形外科" transform="ref(svg,13329.3362,-3341.4455)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南診療所,高知県須崎市大谷２０８-１,内科　小児科,,,9" xlink:title="南診療所" transform="ref(svg,13331.2645,-3338.0817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もりはた小児科,高知県須崎市緑町９０,小児科,,,9" xlink:title="もりはた小児科" transform="ref(svg,13328.8529,-3341.2823)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹本病院附属富山診療所,高知県四万十市大用３４８,内科,,,9" xlink:title="竹本病院附属富山診療所" transform="ref(svg,13296.2736,-3310.2852)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田井医院,高知県土佐郡土佐町田井１４５７,内科　小児科　循環器内科　皮膚科　神経内科　精神科,,,9" xlink:title="田井医院" transform="ref(svg,13355.5306,-3374.853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）トキワ苑医務室,高知県土佐郡土佐町田井１３７７-２９,内科　外科,,,9" xlink:title="（特養）トキワ苑医務室" transform="ref(svg,13355.7034,-3374.6366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＷＥＳＴほね関節クリニック,高知県吾川郡いの町駅前町２２０-３,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="ＷＥＳＴほね関節クリニック" transform="ref(svg,13343.0468,-3354.8003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いの町立国民健康保険越裏門出張診療所,高知県吾川郡いの町越裏門２４６-６,内科,,,9" xlink:title="いの町立国民健康保険越裏門出張診療所" transform="ref(svg,13323.4957,-3372.8929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いの町立国民健康保険長沢診療所,高知県吾川郡いの町長沢２５４-３,内科,,,9" xlink:title="いの町立国民健康保険長沢診療所" transform="ref(svg,13330.7546,-3372.5048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いの町立（特養）偕楽荘診療所,高知県吾川郡いの町１４００,内科　精神科,,,9" xlink:title="いの町立（特養）偕楽荘診療所" transform="ref(svg,13343.1766,-3354.6699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いの町立国民健康保険仁淀病院附属吾北診療所,高知県吾川郡いの町上八川甲１９５３-１,内科　外科,,,9" xlink:title="いの町立国民健康保険仁淀病院附属吾北診療所" transform="ref(svg,13334.0305,-3364.5964)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）陽晃会天王診療所,高知県吾川郡いの町天王北３-４-１,内科　精神科　神経内科,,,9" xlink:title="（医）陽晃会天王診療所" transform="ref(svg,13344.9078,-3353.2118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高岩診療所,高知県吾川郡いの町小川東津賀才８５,内科,,,9" xlink:title="高岩診療所" transform="ref(svg,13330.1303,-3362.7241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高岡内科,高知県吾川郡いの町新町８６,内科,,,9" xlink:title="高岡内科" transform="ref(svg,13342.8633,-3354.7343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田村外科,高知県吾川郡いの町波川５６３,内科　循環器科　小腸内科　外科　整形外科　こう門科,,,9" xlink:title="田村外科" transform="ref(svg,13341.0711,-3354.6326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）吾北荘医務室,高知県吾川郡いの町下八川丁１６７６,内科,,,9" xlink:title="（特養）吾北荘医務室" transform="ref(svg,13330.1286,-3359.7891)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とんぼクリニック,高知県吾川郡いの町２０５,内科　呼吸器内科　循環器内科　消化器内科　心療内科,,,9" xlink:title="とんぼクリニック" transform="ref(svg,13344.2557,-3355.0794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西村整形外科医院,高知県吾川郡いの町２５６,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="西村整形外科医院" transform="ref(svg,13344.4498,-3355.0497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日比原診療所,高知県吾川郡いの町清水下文１０８９-２,内科,,,9" xlink:title="日比原診療所" transform="ref(svg,13333.6915,-3367.7729)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,町田整形外科,高知県吾川郡いの町天王南１-６-３,整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="町田整形外科" transform="ref(svg,13344.084,-3352.793)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮内医院,高知県吾川郡いの町新町２９-２,耳鼻いんこう科　皮膚科,,,9" xlink:title="宮内医院" transform="ref(svg,13342.9405,-3354.7966)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柳瀬診療所,高知県吾川郡いの町柳瀬８９２,内科,,,9" xlink:title="柳瀬診療所" transform="ref(svg,13333.1367,-3356.1026)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山内内科,高知県吾川郡いの町枝川２４７-１１,内科　小腸内科　循環器科　小児科　放射線科,,,9" xlink:title="山内内科" transform="ref(svg,13345.2679,-3355.2808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまおか眼科,高知県吾川郡いの町新町２０-１,眼科,,,9" xlink:title="やまおか眼科" transform="ref(svg,13342.9528,-3354.7596)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高吾北広域町村事務組合（特養）もみじ荘医務室,高知県吾川郡仁淀川町岩丸８４８,内科　外科,,,9" xlink:title="高吾北広域町村事務組合（特養）もみじ荘医務室" transform="ref(svg,13317.0387,-3361.5971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高吾北広域町村事務組合（特養）あがわ荘医務室,高知県吾川郡仁淀川町本村８９-１,内科,,,9" xlink:title="高吾北広域町村事務組合（特養）あがわ荘医務室" transform="ref(svg,13315.9372,-3358.7016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,酒井医院,高知県吾川郡仁淀川町土居甲９４１,内科　小児科,,,9" xlink:title="酒井医院" transform="ref(svg,13317.1594,-3360.8628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西村医院,高知県吾川郡仁淀川町森２５７７-３,内科　外科　整形外科　胃腸科　リハビリテーション科,,,9" xlink:title="西村医院" transform="ref(svg,13312.9585,-3353.5514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仁淀川町国民健康保険大崎診療所,高知県吾川郡仁淀川町大崎３００,内科　歯科,,,9" xlink:title="仁淀川町国民健康保険大崎診療所" transform="ref(svg,13317.1316,-3357.3076)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上ノ加江クリニック,高知県高岡郡中土佐町上ノ加江小湊２７７-１０,内科,,,9" xlink:title="上ノ加江クリニック" transform="ref(svg,13323.6869,-3327.8392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニック土佐久礼,高知県高岡郡中土佐町久礼６７２８-１,内科　呼吸器科　小腸内科　循環器科　小児科　放射線科,,,9" xlink:title="クリニック土佐久礼" transform="ref(svg,13322.7954,-3332.667)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）大野見荘診療所,高知県高岡郡中土佐町大野見吉野中山５-１,内科,,,9" xlink:title="（特養）大野見荘診療所" transform="ref(svg,13314.0489,-3333.4216)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）望海の郷医務室,高知県高岡郡中土佐町上ノ加江小奏２７７-１０,内科,,,9" xlink:title="（特養）望海の郷医務室" transform="ref(svg,13323.6694,-3328.0243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中土佐町立大野見診療所,高知県高岡郡中土佐町大野見吉野２３４,内科　小腸内科,,,9" xlink:title="中土佐町立大野見診療所" transform="ref(svg,13314.2104,-3333.7304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中土佐町立上ノ加江診療所,高知県高岡郡中土佐町上ノ加江２４１５-１,内科,,,9" xlink:title="中土佐町立上ノ加江診療所" transform="ref(svg,13323.7146,-3327.8392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢井賀診療所,高知県高岡郡中土佐町矢井賀甲１３９,内科　消化器内科　循環器内科　呼吸器内科,,,9" xlink:title="矢井賀診療所" transform="ref(svg,13324.576,-3324.3119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム双名園医務室,高知県高岡郡中土佐町久礼５９９８,内科　外科,,,9" xlink:title="養護老人ホーム双名園医務室" transform="ref(svg,13322.8842,-3333.4259)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川田内科クリニック,高知県高岡郡佐川町甲８０８-１,内科　糖尿病内科,,,9" xlink:title="川田内科クリニック" transform="ref(svg,13329.7032,-3350.1728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くぼたこどもクリニック,高知県高岡郡佐川町甲１０５０-５,小児科,,,9" xlink:title="くぼたこどもクリニック" transform="ref(svg,13329.1948,-3350.045)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高吾北広域町村事務組合立（特養）春日荘医務室,高知県高岡郡佐川町乙２３４０,内科,,,9" xlink:title="高吾北広域町村事務組合立（特養）春日荘医務室" transform="ref(svg,13328.6654,-3350.4396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高知県中央西保健所,高知県高岡郡佐川町甲１２４３-１,内科,,,9" xlink:title="高知県中央西保健所" transform="ref(svg,13329.3239,-3349.861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐川町立高北国民健康保険病院附属尾川診療所,高知県高岡郡佐川町本郷耕１９２８,内科,,,9" xlink:title="佐川町立高北国民健康保険病院附属尾川診療所" transform="ref(svg,13325.3131,-3349.3713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐川町立高北国民健康保険病院附属黒岩診療所,高知県高岡郡佐川町黒原３３５７,内科,,,9" xlink:title="佐川町立高北国民健康保険病院附属黒岩診療所" transform="ref(svg,13328.6945,-3354.4122)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西森医院,高知県高岡郡佐川町中組４９-４,内科　小腸内科　循環器科,,,9" xlink:title="西森医院" transform="ref(svg,13328.5257,-3347.5487)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井医院,高知県高岡郡佐川町乙１８６９,内科,,,9" xlink:title="藤井医院" transform="ref(svg,13328.3805,-3350.8922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森耳鼻咽喉科,高知県高岡郡佐川町甲１３６０-１,耳鼻いんこう科,,,9" xlink:title="森耳鼻咽喉科" transform="ref(svg,13329.0201,-3350.0461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わだ眼科・皮膚科,高知県高岡郡佐川町甲１３５１-１,眼科　皮膚科,,,9" xlink:title="わだ眼科・皮膚科" transform="ref(svg,13329.0612,-3350.0499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岡本内科,高知県高岡郡越知町越知甲１６７８,内科　小児科　皮膚科　放射線科,,,9" xlink:title="岡本内科" transform="ref(svg,13325.2697,-3353.0585)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高吾北広域町村事務組合（特養）五葉荘医務室,高知県高岡郡越知町越知甲９４６,内科　外科　整形外科,,,9" xlink:title="高吾北広域町村事務組合（特養）五葉荘医務室" transform="ref(svg,13325.8489,-3353.277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若槻産婦人科クリニック,高知県高岡郡越知町越知甲１７２５-１,内科　小児科　産婦人科,,,9" xlink:title="若槻産婦人科クリニック" transform="ref(svg,13325.1548,-3353.1053)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設梼原みどりの家診療所,高知県高岡郡梼原町広野６４４,内科,,,9" xlink:title="障害者支援施設梼原みどりの家診療所" transform="ref(svg,13289.6432,-3340.0266)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）檮原ふじの家診療所,高知県高岡郡檮原町広野６３６-４,内科,,,9" xlink:title="（特養）檮原ふじの家診療所" transform="ref(svg,13289.7899,-3339.9015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梼原町立松原診療所,高知県高岡郡檮原町松原５７８,内科,,,9" xlink:title="梼原町立松原診療所" transform="ref(svg,13297.7174,-3331.0881)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）コスモスの里医務室,高知県高岡郡日高村沖名１,内科,,,9" xlink:title="（特養）コスモスの里医務室" transform="ref(svg,13337.3667,-3353.1612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土佐くすのき荘医務室,高知県高岡郡日高村本村字土橋５-５,内科　歯科,,,9" xlink:title="土佐くすのき荘医務室" transform="ref(svg,13333.5766,-3355.9056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日高クリニック,高知県高岡郡日高村本郷字瀧ノ前７,内科　小児科　リハビリテーション科　整形外科,,,9" xlink:title="日高クリニック" transform="ref(svg,13337.4631,-3353.5587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高陵（特養）葉山荘診療所,高知県高岡郡津野町姫野々４１７,内科,,,9" xlink:title="高陵（特養）葉山荘診療所" transform="ref(svg,13321.4092,-3343.9484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津野町国民健康保険杉ノ川診療所,高知県高岡郡津野町杉ノ川甲３８-３,内科,,,9" xlink:title="津野町国民健康保険杉ノ川診療所" transform="ref(svg,13315.8854,-3343.9171)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津野町国民健康保険姫野々診療所,高知県高岡郡津野町姫野々４７３-１,内科　小児科　整形外科,,,9" xlink:title="津野町国民健康保険姫野々診療所" transform="ref(svg,13321.2149,-3344.1428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つのやまクリニック,高知県高岡郡津野町力石２８２９-３,内科　循環器科,,,9" xlink:title="つのやまクリニック" transform="ref(svg,13302.5778,-3339.393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,津野山養護老人ホーム組合高原荘医務室,高知県高岡郡津野町力石５０８２,内科　循環器科,,,9" xlink:title="津野山養護老人ホーム組合高原荘医務室" transform="ref(svg,13303.0169,-3339.4281)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石川ヘルスクリニック,高知県高岡郡四万十町榊山町７-２３,内科　神経科　小腸内科　放射線科,,,9" xlink:title="石川ヘルスクリニック" transform="ref(svg,13313.8546,-3321.3952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四万十町国民健康保険十和診療所,高知県高岡郡四万十町昭和４６８,内科,,,9" xlink:title="四万十町国民健康保険十和診療所" transform="ref(svg,13289.746,-3321.8394)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四万十町立興津診療所,高知県高岡郡四万十町興津１５６７-４,内科　胃腸科　小児科　外科　こう門科　放射線科,,,9" xlink:title="四万十町立興津診療所" transform="ref(svg,13320.7708,-3316.7294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,四万十町国民健康保険大正診療所,高知県高岡郡四万十町大正４５９-１,内科　リハビリテーション科,,,9" xlink:title="四万十町国民健康保険大正診療所" transform="ref(svg,13297.3011,-3319.3119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志和出張土居診療所,高知県高岡郡四万十町志和５２８,内科　呼吸器科　循環器科　胃腸科　小腸内科,,,9" xlink:title="志和出張土居診療所" transform="ref(svg,13324.3813,-3323.0064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋内科・呼吸器科・消化器科,高知県高岡郡四万十町大奈路４８７-５,内科　呼吸器科　小腸内科　循環器科　整形外科　リハビリテーション科,,,9" xlink:title="高橋内科・呼吸器科・消化器科" transform="ref(svg,13314.6323,-3322.5341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田医院,高知県高岡郡四万十町本町４-８,内科　整形外科　リハビリテーション科,,,9" xlink:title="武田医院" transform="ref(svg,13313.2714,-3321.0066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田辺医院,高知県高岡郡四万十町仁井田７７０-２,内科　呼吸器科　小腸内科　循環器科,,,9" xlink:title="田辺医院" transform="ref(svg,13316.2155,-3324.5894)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土居診療所,高知県高岡郡四万十町本堂４０１-８,内科　呼吸器科　小腸内科　胃腸科　循環器科,,,9" xlink:title="土居診療所" transform="ref(svg,13318.6319,-3322.2287)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）窪川荘医務室,高知県高岡郡四万十町影野６４０-２,内科　外科,,,9" xlink:title="（特養）窪川荘医務室" transform="ref(svg,13317.2669,-3327.5838)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）四万十荘医務室,高知県高岡郡四万十町大正５７６,内科　外科,,,9" xlink:title="（特養）四万十荘医務室" transform="ref(svg,13297.2395,-3319.4545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ファミリークリニック四万十,高知県高岡郡四万十町北琴平町２-３７,内科　小児科　循環器科　呼吸器科　神経科　小腸内科,,,9" xlink:title="ファミリークリニック四万十" transform="ref(svg,13313.6601,-3321.312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒潮町国保伊与喜出張診療所,高知県幡多郡黒潮町伊与喜２５-１,内科　小児科　皮膚科,,,9" xlink:title="黒潮町国保伊与喜出張診療所" transform="ref(svg,13309.8649,-3310.685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒潮町国保拳ノ川診療所,高知県幡多郡黒潮町挙ノ川３１-１,内科　小児科　皮膚科,,,9" xlink:title="黒潮町国保拳ノ川診療所" transform="ref(svg,13312.3569,-3313.6832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒潮町国保鈴出張診療所,高知県幡多郡黒潮町鈴３１７-３,内科　小児科　皮膚科,,,9" xlink:title="黒潮町国保鈴出張診療所" transform="ref(svg,13315.4661,-3312.7856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐賀診療所,高知県幡多郡黒潮町佐賀７４６-１,内科　小児科　外科　リハビリテーション科,,,9" xlink:title="佐賀診療所" transform="ref(svg,13310.6433,-3307.9642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）黒潮福祉会黒潮町（特養）かしま荘医務室,高知県幡多郡黒潮町佐賀３１７７,内科,,,9" xlink:title="（福）黒潮福祉会黒潮町（特養）かしま荘医務室" transform="ref(svg,13310.5856,-3306.2427)" x="0" y="0"/>
+</g>
+</svg>

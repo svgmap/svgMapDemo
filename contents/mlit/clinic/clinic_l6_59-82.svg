@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13148.4375 -3234.375 70.3125 70.3125" go:dataArea="13148.4375 -3234.375 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（医）博心会大山脳神経外科クリニック,宮崎県児湯郡新富町富田１-３-２,神経内科　心療内科　脳神経外科　精神科　リハビリテーション科,,,9" xlink:title="（医）博心会大山脳神経外科クリニック" transform="ref(svg,13148.9428,-3206.8695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,児玉医院,宮崎県児湯郡新富町富田３-６-３,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　小児科　リハビリテーション科　放射線科,,,9" xlink:title="児玉医院" transform="ref(svg,13149.2375,-3207.1343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たにはた整形外科,宮崎県児湯郡新富町富田３-５１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）たにはた整形外科" transform="ref(svg,13149.3688,-3207.0247)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）新富診療所,宮崎県児湯郡新富町大字三納代１９１１-１,内科　呼吸器内科　小児科　皮膚科　アレルギー科,,,9" xlink:title="（医）新富診療所" transform="ref(svg,13149.8008,-3207.4681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）しんとみ希望の里診療所,宮崎県児湯郡新富町大字下富田字小島江６２９-５,外科　内科,,,9" xlink:title="（特養）しんとみ希望の里診療所" transform="ref(svg,13149.9336,-3205.5626)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）野津手・加来内科医院,宮崎県児湯郡高鍋町大字上江８２５０,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　糖尿病内科（代謝内科）　放射線科,,,9" xlink:title="（医）野津手・加来内科医院" transform="ref(svg,13150.3558,-3213.204)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高橋耳鼻咽喉科医院,宮崎県児湯郡高鍋町大字北高鍋１５４-１,耳鼻いんこう科,,,9" xlink:title="（医）高橋耳鼻咽喉科医院" transform="ref(svg,13150.8079,-3213.2304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）蟻塚クリニック,宮崎県児湯郡高鍋町北高鍋７８５,耳鼻いんこう科,,,9" xlink:title="（医）蟻塚クリニック" transform="ref(svg,13150.8201,-3213.1665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）忠恕会内田医院,宮崎県児湯郡高鍋町大字北高鍋７８４,内科,,,9" xlink:title="（医）忠恕会内田医院" transform="ref(svg,13150.8719,-3213.1041)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大森内科医院,宮崎県児湯郡高鍋町大字北高鍋１３４７-２,内科　循環器内科　腎臓内科　小児科,,,9" xlink:title="大森内科医院" transform="ref(svg,13150.921,-3212.8785)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永友クリニック,宮崎県児湯郡高鍋町大字北高鍋１００６,皮膚科　泌尿器科,,,9" xlink:title="永友クリニック" transform="ref(svg,13150.9837,-3213.2126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永友慶子小児科,宮崎県児湯郡高鍋町大字北高鍋１０００,小児科,,,9" xlink:title="永友慶子小児科" transform="ref(svg,13151.0054,-3213.2326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永友胃腸科内科医院,宮崎県児湯郡高鍋町北高鍋１２４３-５,内科,,,9" xlink:title="永友胃腸科内科医院" transform="ref(svg,13151.2479,-3212.6768)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）フェニックス診療所,宮崎県児湯郡川南町大字川南１７９７９-８７,内科,,,9" xlink:title="（特養）フェニックス診療所" transform="ref(svg,13151.2541,-3221.4393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清風園診療所,宮崎県児湯郡新富町大字日置９６３-３,精神科,,,9" xlink:title="清風園診療所" transform="ref(svg,13151.4828,-3208.0524)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム福寿園診療所,宮崎県児湯郡川南町大字川南１３４２８-１７,内科,,,9" xlink:title="養護老人ホーム福寿園診療所" transform="ref(svg,13151.6502,-3220.7966)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴外科胃腸科,宮崎県児湯郡高鍋町北高鍋３３９５,消化器内科（胃腸内科）　外科　肛門外科,,,9" xlink:title="鶴外科胃腸科" transform="ref(svg,13151.6698,-3212.7235)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまぐち脳神経外科,宮崎県児湯郡高鍋町大字北高鍋４７６４-５,神経内科　脳神経外科　リハビリテーション科,,,9" xlink:title="やまぐち脳神経外科" transform="ref(svg,13151.7679,-3212.8457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながとも眼科,宮崎県児湯郡高鍋町大字北高鍋２５９０-１,眼科,,,9" xlink:title="ながとも眼科" transform="ref(svg,13151.9278,-3212.1647)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,河野産科婦人科医院,宮崎県児湯郡高鍋町大字北高鍋２６０５,産科　婦人科,,,9" xlink:title="河野産科婦人科医院" transform="ref(svg,13151.9695,-3212.2227)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒木内科医院,宮崎県児湯郡高鍋町大字北高鍋２６０３,内科,,,9" xlink:title="黒木内科医院" transform="ref(svg,13152.0142,-3212.2213)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山仁会山口整形外科,宮崎県児湯郡高鍋町大字北高鍋３２３５-３,整形外科　リハビリテーション科　放射線科,,,9" xlink:title="（医）山仁会山口整形外科" transform="ref(svg,13152.1153,-3212.5741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかやま小児科,宮崎県児湯郡高鍋町大字北高鍋４７３２-８,小児科　アレルギー科,,,9" xlink:title="たかやま小児科" transform="ref(svg,13152.3397,-3212.709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川南山口整形外科医院,宮崎県児湯郡川南町大字川南１３８６４-９６,整形外科　リウマチ科,,,9" xlink:title="川南山口整形外科医院" transform="ref(svg,13152.3716,-3218.706)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）-ｯ雲会林クリニック,宮崎県児湯郡川南町大字平田１４０２-７４,内科　外科　整形外科　形成外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）-ｯ雲会林クリニック" transform="ref(svg,13152.564,-3220.1806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善仁会尾鈴クリニック,宮崎県児湯郡川南町大字川南１３６８１-１,内科　外科　整形外科　眼科,,,9" xlink:title="（医）善仁会尾鈴クリニック" transform="ref(svg,13152.5946,-3219.0554)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おがわクリニック,宮崎県児湯郡高鍋町蚊口浦６１９９-６１,心療内科　精神科,,,9" xlink:title="（医）おがわクリニック" transform="ref(svg,13153.1786,-3211.9608)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒木皮膚科,宮崎県児湯郡高鍋町大字蚊口浦２５-２６,皮膚科,,,9" xlink:title="黒木皮膚科" transform="ref(svg,13153.2458,-3212.1963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,糸井医院,宮崎県児湯郡川南町平田１８８８,内科　外科　皮膚科,,,9" xlink:title="糸井医院" transform="ref(svg,13153.7628,-3219.2329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）鈴南の里診療所,宮崎県児湯郡川南町大字川南１２７０７,内科　外科　精神科,,,9" xlink:title="（特養）鈴南の里診療所" transform="ref(svg,13153.8366,-3220.9239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛寿園医務室,宮崎県児湯郡都農町大字川北１１５９２-１,内科,,,9" xlink:title="愛寿園医務室" transform="ref(svg,13155.1929,-3227.0291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ながとも医院,宮崎県児湯郡都農町大字川北５４７９-２,内科　消化器内科（胃腸内科）　外科　リハビリテーション科,,,9" xlink:title="ながとも医院" transform="ref(svg,13155.5116,-3225.4879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,--嶋医院,宮崎県児湯郡都農町大字川北４７８６,内科　小児科,,,9" xlink:title="--嶋医院" transform="ref(svg,13155.6277,-3225.3735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田医院,宮崎県児湯郡都農町大字川北４５８９,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　外科　肛門外科　リハビリテーション科,,,9" xlink:title="前田医院" transform="ref(svg,13156.0507,-3225.4304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つねよしクリニック,宮崎県児湯郡都農町大字川北１２２９,内科　外科　リハビリテーション科,,,9" xlink:title="つねよしクリニック" transform="ref(svg,13156.0657,-3224.8569)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）聖水会（特養）尾鈴荘,宮崎県児湯郡都農町大字川北１８９１２-１０,内科,,,9" xlink:title="（福）聖水会（特養）尾鈴荘" transform="ref(svg,13156.3117,-3227.7374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）立縫の里,宮崎県日向市美々津町４０７４,内科,,,9" xlink:title="（特養）立縫の里" transform="ref(svg,13159.7293,-3233.2683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高鍋春光会医院,宮崎県児湯郡高鍋町大字高鍋町８３０,内科　消化器内科（胃腸内科）,,,9" xlink:title="高鍋春光会医院" transform="ref(svg,13151.0185,-3212.6682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北村医院,宮崎県児湯郡新富町富田２-５３,内科　消化器内科（胃腸内科）　外科　肛門外科,,,9" xlink:title="北村医院" transform="ref(svg,13149.162,-3206.9268)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,喜多医院,宮崎県児湯郡川南町大字平田２３８０-２,内科　小児科,,,9" xlink:title="喜多医院" transform="ref(svg,13152.7815,-3219.3909)" x="0" y="0"/>
+</g>
+</svg>

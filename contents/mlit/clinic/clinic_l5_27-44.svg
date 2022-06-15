@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12796.875 -2812.5 140.625 140.625" go:dataArea="12796.875 -2812.5 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,にこにこクリニック,鹿児島県大島郡和泊町手々知名７８０,内科　心療内科　消化器科　循環器科　小児科　リハビリテーション科　皮膚科　呼吸器科,,,9" xlink:title="にこにこクリニック" transform="ref(svg,12865.4638,-2740.0948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）しらゆり園診療所,鹿児島県大島郡和泊町手々知名７８１,内科,,,9" xlink:title="（特養）しらゆり園診療所" transform="ref(svg,12865.4155,-2740.1419)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和泊町臨時診療所,鹿児島県大島郡和泊町和泊５２８,内科,,,9" xlink:title="和泊町臨時診療所" transform="ref(svg,12865.4606,-2739.3156)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大蔵医院,鹿児島県大島郡知名町知名１６-２,小児科　内科　消化器科　循環器科,,,9" xlink:title="大蔵医院" transform="ref(svg,12857.4733,-2733.3888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,知名町立養護老人ホーム長寿園診療所,鹿児島県大島郡知名町知名１９４５,内科,,,9" xlink:title="知名町立養護老人ホーム長寿園診療所" transform="ref(svg,12856.3209,-2733.3598)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）さくら園診療所,鹿児島県大島郡知名町知名１９５２-１,内科,,,9" xlink:title="（特養）さくら園診療所" transform="ref(svg,12856.29,-2733.4285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本部医院,鹿児島県大島郡知名町知名５９１,内科　産婦人科　小児科　整形外科　麻酔科　リウマチ科　リハビリテーション科,,,9" xlink:title="本部医院" transform="ref(svg,12857.2163,-2733.2541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆんぬ眼科,鹿児島県大島郡与論町茶花２１８４,眼科　内科　精神科,,,9" xlink:title="ゆんぬ眼科" transform="ref(svg,12841.9187,-2705.1439)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ヨロン園診療所,鹿児島県大島郡与論町茶花２１７９,内科,,,9" xlink:title="（特養）ヨロン園診療所" transform="ref(svg,12841.5816,-2704.901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パナウル診療所,鹿児島県大島郡与論町那間２７４７-１,内科　小児科　外科,,,9" xlink:title="パナウル診療所" transform="ref(svg,12842.2451,-2705.9903)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福山医院,鹿児島県大島郡和泊町和泊９６-５,内科　小児科　リハビリテーション科,,,9" xlink:title="福山医院" transform="ref(svg,12865.3343,-2738.8672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土持内科,鹿児島県大島郡和泊町和泊５８０,内科　小児科,,,9" xlink:title="土持内科" transform="ref(svg,12865.6148,-2739.4276)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瀬戸内町国民健康保険池地診療所,鹿児島県大島郡瀬戸内町池地６６１-３,内科　外科　小児外科,,,9" xlink:title="瀬戸内町国民健康保険池地診療所" transform="ref(svg,12923.4659,-2803.0716)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瀬戸内町与路へき地診療所,鹿児島県大島郡瀬戸内町与路字村内原３８４,内科　外科,,,9" xlink:title="瀬戸内町与路へき地診療所" transform="ref(svg,12916.4407,-2804.4653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）加計呂麻園診療所,鹿児島県大島郡瀬戸内町伊子茂１８７-１,内科　整形外科,,,9" xlink:title="（特養）加計呂麻園診療所" transform="ref(svg,12924.3878,-2810.8596)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なのはな園診療所,鹿児島県大島郡瀬戸内町勝能８８７,内科　精神科　外科,,,9" xlink:title="なのはな園診療所" transform="ref(svg,12929.527,-2810.7203)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝戸医院,鹿児島県大島郡和泊町和泊１４,内科　消化器科　外科　整形外科　眼科,,,9" xlink:title="朝戸医院" transform="ref(svg,12865.4629,-2739.2778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天城診療所,鹿児島県大島郡天城町天城３５８-１,内科　外科,,,9" xlink:title="天城診療所" transform="ref(svg,12889.3849,-2781.963)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊仙クリニック,鹿児島県大島郡伊仙町伊仙２０９７,内科　小児科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="伊仙クリニック" transform="ref(svg,12893.6792,-2767.4497)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徳洲会東天城クリニック,鹿児島県大島郡徳之島町花徳７８７-３,内科　小児科　外科　リハビリテーション科,,,9" xlink:title="（医）徳洲会東天城クリニック" transform="ref(svg,12896.4617,-2782.2201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加計呂麻徳洲会診療所,鹿児島県大島郡瀬戸内町大字瀬相７４７-１,内科　外科　眼科,,,9" xlink:title="加計呂麻徳洲会診療所" transform="ref(svg,12924.6251,-2812.1599)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くらもと眼科医院,鹿児島県大島郡徳之島町亀津北区大村ビル１階,眼科,,,9" xlink:title="くらもと眼科医院" transform="ref(svg,12902.0282,-2773.3277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国民健康保険伊仙診療所,鹿児島県大島郡伊仙町伊仙２２９３-２,内科　外科　整形外科,,,9" xlink:title="国民健康保険伊仙診療所" transform="ref(svg,12893.6151,-2767.5356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,龍美クリニック,鹿児島県大島郡与論町大字麦屋字風花１３０５-５,内科　整形外科,,,9" xlink:title="龍美クリニック" transform="ref(svg,12844.4931,-2701.9802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳州園診療所,鹿児島県大島郡徳之島町亀徳３３４５,精神科　神経科,,,9" xlink:title="徳州園診療所" transform="ref(svg,12901.6482,-2775.2198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳之島診療所,鹿児島県大島郡徳之島町亀津７５５４,内科　消化器科　小児科,,,9" xlink:title="徳之島診療所" transform="ref(svg,12902.109,-2773.3558)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳之島保健所,鹿児島県大島郡徳之島町亀津４９４３-２,内科,,,9" xlink:title="徳之島保健所" transform="ref(svg,12901.6401,-2771.758)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,徳之島老人ホーム診療所,鹿児島県大島郡伊仙町伊仙１７８-２,内科,,,9" xlink:title="徳之島老人ホーム診療所" transform="ref(svg,12893.6003,-2767.9904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）徳寿園診療所,鹿児島県大島郡徳之島町亀津５５４６-１,内科,,,9" xlink:title="（特養）徳寿園診療所" transform="ref(svg,12901.7388,-2772.8164)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）仙寿の里診療所,鹿児島県大島郡伊仙町伊仙２５７１,内科,,,9" xlink:title="（特養）仙寿の里診療所" transform="ref(svg,12893.4622,-2767.2341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）天寿園診療所,鹿児島県大島郡天城町松原７８４-４,内科,,,9" xlink:title="（特養）天寿園診療所" transform="ref(svg,12890.7102,-2786.5597)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南風園診療所,鹿児島県大島郡徳之島町花徳６２０,内科,,,9" xlink:title="南風園診療所" transform="ref(svg,12896.6195,-2781.9847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,町田医院,鹿児島県大島郡和泊町手々知名６３６-１,内科　消化器科　胃腸科　小児科,,,9" xlink:title="町田医院" transform="ref(svg,12865.5365,-2739.8094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国頭村立診療所,沖縄県国頭郡国頭村字辺土名１４３７,内科　小児科,,,9" xlink:title="国頭村立診療所" transform="ref(svg,12817.5994,-2674.531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）北斗園医務室,沖縄県国頭郡国頭村字辺土名１６９２,内科,,,9" xlink:title="（特養）北斗園医務室" transform="ref(svg,12817.4974,-2674.0794)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）天正会ひかり医院,沖縄県国頭郡国頭村字辺土名１９７,内科　小児科　皮膚科　リハビリテーション科　消化器科　外科　精神科　眼科　心療内科,,,9" xlink:title="（医）天正会ひかり医院" transform="ref(svg,12817.7935,-2674.6632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国頭村立東部へき地診療所,沖縄県国頭郡国頭村字安田１７０,内科,,,9" xlink:title="国頭村立東部へき地診療所" transform="ref(svg,12831.7098,-2674.5505)" x="0" y="0"/>
+</g>
+</svg>

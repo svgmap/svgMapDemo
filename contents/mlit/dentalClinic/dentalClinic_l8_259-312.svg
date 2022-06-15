@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13552.734375 -3515.625 17.578125 17.578125" go:dataArea="13552.734375 -3515.625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,秋田歯科,京都府南丹市八木町八木西町裏１３,歯科,,,9" xlink:title="秋田歯科" transform="ref(svg,13553.4256,-3506.987)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,嶋村歯科診療所,京都府南丹市八木町八木野条３３,歯科,,,9" xlink:title="嶋村歯科診療所" transform="ref(svg,13552.9067,-3507.1634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安井歯科医院,京都府亀岡市北町１６,歯科　矯正歯科,,,9" xlink:title="安井歯科医院" transform="ref(svg,13557.7628,-3501.4856)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,嶋村歯科医院,京都府亀岡市北町３８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="嶋村歯科医院" transform="ref(svg,13557.6615,-3501.5252)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仕合歯科・矯正歯科,京都府亀岡市旅籠町２８,歯科　矯正歯科　小児歯科　小児矯正歯科,,,9" xlink:title="仕合歯科・矯正歯科" transform="ref(svg,13558.0929,-3500.99)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩田歯科医院,京都府亀岡市内丸町２６-６２,歯科,,,9" xlink:title="岩田歯科医院" transform="ref(svg,13557.791,-3501.2957)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中川歯科医院,京都府亀岡市古世町２-３-８,歯科,,,9" xlink:title="中川歯科医院" transform="ref(svg,13558.5059,-3500.7056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡本歯科医院,京都府亀岡市三宅町１-１-６,歯科,,,9" xlink:title="岡本歯科医院" transform="ref(svg,13558.9557,-3500.6294)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クニッテル並河歯科,京都府亀岡市追分町馬場通１９-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="クニッテル並河歯科" transform="ref(svg,13557.9828,-3501.5342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,京都府亀岡市篠町野条井ボラ４-５,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13560.1727,-3500.3541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浦田歯科医院,京都府亀岡市河原町２３０-１０,歯科,,,9" xlink:title="浦田歯科医院" transform="ref(svg,13557.2919,-3502.0701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内藤歯科医院,京都府亀岡市千代川町千原１-１-２０,歯科,,,9" xlink:title="内藤歯科医院" transform="ref(svg,13554.4837,-3504.9322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,京都府亀岡市西つつじヶ丘大山台１-１６-５,歯科,,,9" xlink:title="前田歯科医院" transform="ref(svg,13559.0483,-3500.0253)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂井歯科医院,京都府亀岡市千代川町千原１-２-８,歯科,,,9" xlink:title="坂井歯科医院" transform="ref(svg,13554.3723,-3504.9028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,京都府亀岡市篠町広田１-３２-１１,歯科　矯正歯科　小児歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13559.5874,-3500.3322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナカムラ矯正歯科・小児歯科,京都府亀岡市古世町西内坪３２-１,矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ナカムラ矯正歯科・小児歯科" transform="ref(svg,13558.3349,-3501.4308)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,脇歯科医院,京都府亀岡市南つつじヶ丘桜台２-１６-１０,歯科　小児歯科,,,9" xlink:title="脇歯科医院" transform="ref(svg,13558.5045,-3498.9925)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川歯科医院,京都府亀岡市追分町馬場通２１-１２石川ビル４Ｆ,歯科,,,9" xlink:title="石川歯科医院" transform="ref(svg,13558.1088,-3501.5574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,京都府亀岡市大井町土田２-６-３,歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,13555.2833,-3503.3585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中川幹也歯科診療所,京都府亀岡市安町中畠１２１,歯科,,,9" xlink:title="中川幹也歯科診療所" transform="ref(svg,13557.3209,-3501.6055)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河野歯科医院,京都府亀岡市大井町土田２-１１-２０-１０８,歯科　矯正歯科　小児歯科,,,9" xlink:title="河野歯科医院" transform="ref(svg,13555.421,-3503.2578)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永田歯科医院,京都府亀岡市千代川町千原２-４-８,歯科,,,9" xlink:title="永田歯科医院" transform="ref(svg,13554.6207,-3505.0224)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おぎの矯正歯科,京都府亀岡市追分町大堀１７-１フラットヤギ２Ｆ,矯正歯科,,,9" xlink:title="おぎの矯正歯科" transform="ref(svg,13558.2405,-3501.5781)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,斉藤歯科医院,京都府亀岡市追分町谷筋３７-３３中村ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="斉藤歯科医院" transform="ref(svg,13558.0747,-3501.6469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天野歯科医院,京都府亀岡市追分町馬場通９-９山口ＳＳビル２Ｆ,歯科,,,9" xlink:title="天野歯科医院" transform="ref(svg,13558.1925,-3501.6087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西田歯科医院,京都府亀岡市曽我部町穴太川原口４２-１,歯科,,,9" xlink:title="西田歯科医院" transform="ref(svg,13554.7911,-3501.2049)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみ歯科医院,京都府亀岡市篠町夕日ケ丘１-４１,歯科,,,9" xlink:title="いずみ歯科医院" transform="ref(svg,13560.8777,-3499.6057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,細木歯科医院,京都府亀岡市西つつじヶ丘五月台２-４０-９,歯科,,,9" xlink:title="細木歯科医院" transform="ref(svg,13558.7393,-3500.4035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじた歯科医院,京都府亀岡市南つつじヶ丘大葉台２-４４-１０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="ふじた歯科医院" transform="ref(svg,13559.0181,-3499.1732)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植村歯科医院,京都府亀岡市篠町柏原久保垣内１-３オプトカワモトビル,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="植村歯科医院" transform="ref(svg,13559.9223,-3500.9633)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわもり歯科医院,京都府亀岡市篠町馬堀駅前２-３-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="いわもり歯科医院" transform="ref(svg,13560.3866,-3500.9652)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うまほり西田歯科医院,京都府亀岡市篠町篠見晴１５-７,歯科　小児歯科,,,9" xlink:title="うまほり西田歯科医院" transform="ref(svg,13560.4176,-3500.9353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とおさか歯科医院,京都府亀岡市大井町土田２-１２-５,歯科　小児歯科,,,9" xlink:title="とおさか歯科医院" transform="ref(svg,13555.3739,-3503.2557)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,市川歯科医院,京都府亀岡市大井町並河２-２-１１,歯科,,,9" xlink:title="市川歯科医院" transform="ref(svg,13555.3664,-3503.1523)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前川歯科医院,京都府亀岡市北古世町２-１２-１,歯科,,,9" xlink:title="前川歯科医院" transform="ref(svg,13558.6297,-3501.2294)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,京都府亀岡市曽我部町南条下河原１２-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13555.2242,-3499.8801)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上原デンタルクリニック,京都府亀岡市西つつじケ丘五月台２-３４-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="上原デンタルクリニック" transform="ref(svg,13558.5058,-3500.3776)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新井歯科医院,京都府京都市右京区嵯峨天龍寺若宮町４-４,歯科,,,9" xlink:title="新井歯科医院" transform="ref(svg,13568.2842,-3501.9716)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,嵐山高島歯科医院,京都府京都市西京区嵐山中尾下町３２-５,歯科,,,9" xlink:title="嵐山高島歯科医院" transform="ref(svg,13567.9467,-3500.9512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしばし歯科クリニック,京都府京都市西京区桂上野南町８９,歯科　矯正歯科　小児歯科,,,9" xlink:title="いしばし歯科クリニック" transform="ref(svg,13570.168,-3499.407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科クリニック,京都府京都市右京区太秦堀ケ内町３０-７ラ・フェスタ太秦１Ｆ,歯科,,,9" xlink:title="いとう歯科クリニック" transform="ref(svg,13570.2016,-3501.4174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）聖歯会梅津歯科医院分院,京都府京都市西京区御陵峰ヶ堂町２-１６-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）聖歯会梅津歯科医院分院" transform="ref(svg,13567.5656,-3498.295)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清歯会浅井歯科医院,京都府京都市西京区松尾木ノ曽町５８-５,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）清歯会浅井歯科医院" transform="ref(svg,13569.3106,-3498.9137)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ひまわり会かわの歯科医院,京都府京都市西京区嵐山朝月町２３-５,歯科,,,9" xlink:title="（医）ひまわり会かわの歯科医院" transform="ref(svg,13568.7367,-3500.1275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）みらいいばらき歯科クリニック,京都府京都市右京区太秦京ノ道町１４-３アトラスグランドメゾン１Ｆ,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）みらいいばらき歯科クリニック" transform="ref(svg,13570.3074,-3502.12)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）洛生会田中歯科医院梅津診療所,京都府京都市右京区梅津北浦町３-７,歯科,,,9" xlink:title="（医）洛生会田中歯科医院梅津診療所" transform="ref(svg,13569.9936,-3500.3543)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえだ歯科医院,京都府京都市右京区嵯峨天龍寺中島町１-９,歯科,,,9" xlink:title="うえだ歯科医院" transform="ref(svg,13568.5557,-3501.9992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上野歯科医院,京都府京都市西京区山田大吉見町５-６中川ビル２Ｆ,歯科,,,9" xlink:title="上野歯科医院" transform="ref(svg,13569.365,-3498.0987)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上山歯科医院,京都府京都市西京区桂千代原町６９,歯科,,,9" xlink:title="上山歯科医院" transform="ref(svg,13569.6158,-3498.3354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宇野歯科医院,京都府京都市西京区山田六ノ坪町８-３５,歯科,,,9" xlink:title="宇野歯科医院" transform="ref(svg,13569.1927,-3498.4476)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宇野歯科医院,京都府京都市西京区山田六の坪町８-３５,歯科,,,9" xlink:title="宇野歯科医院" transform="ref(svg,13569.1889,-3498.4427)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大野歯科医院,京都府京都市右京区嵯峨大覚寺門前八軒町３,歯科,,,9" xlink:title="大野歯科医院" transform="ref(svg,13568.1156,-3502.1117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡本歯科医院,京都府京都市西京区嵐山朝月町２-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="岡本歯科医院" transform="ref(svg,13568.5748,-3500.3411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おぎの歯科医院,京都府京都市右京区嵯峨野神ノ木町１３-５グランエスポワール１Ｆ,歯科,,,9" xlink:title="おぎの歯科医院" transform="ref(svg,13569.478,-3501.5543)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,可知歯科医院,京都府京都市西京区桂千代原町３５-１０,歯科　小児歯科,,,9" xlink:title="可知歯科医院" transform="ref(svg,13569.4621,-3498.2167)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桂川水野歯科医院,京都府京都市西京区上桂北村町２３４プリベール上桂１Ｆ,歯科,,,9" xlink:title="桂川水野歯科医院" transform="ref(svg,13570.2926,-3499.1706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,亀川歯科医院,京都府京都市西京区松尾鈴川町８６-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="亀川歯科医院" transform="ref(svg,13569.5963,-3499.1262)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,京都府京都市右京区太秦北路町８-３シャンポール松室１Ｆ,歯科,,,9" xlink:title="木村歯科医院" transform="ref(svg,13570.0055,-3502.0607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,クロイ歯科医院,京都府京都市西京区山田庄田町３-５２,歯科　小児歯科,,,9" xlink:title="クロイ歯科医院" transform="ref(svg,13569.1339,-3498.7391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河野歯科医院,京都府京都市西京区松尾大利町５５-４９,歯科,,,9" xlink:title="河野歯科医院" transform="ref(svg,13569.056,-3499.324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河渕歯科医院,京都府京都市西京区上桂宮ノ後町４０,歯科,,,9" xlink:title="河渕歯科医院" transform="ref(svg,13569.5467,-3499.018)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小森歯科医院,京都府京都市右京区嵯峨中通町１,歯科,,,9" xlink:title="小森歯科医院" transform="ref(svg,13568.8027,-3501.6465)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さがのあおい歯科,京都府京都市右京区嵯峨野芝野町２-１,歯科　小児歯科,,,9" xlink:title="さがのあおい歯科" transform="ref(svg,13569.7191,-3501.0712)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さが松井歯科医院,京都府京都市右京区嵯峨天龍寺中島町１３-５,歯科,,,9" xlink:title="さが松井歯科医院" transform="ref(svg,13568.3078,-3502.0545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科小児歯科乃子医院,京都府京都市右京区太秦開日町２-１コーポエル２０１,歯科　小児歯科,,,9" xlink:title="歯科小児歯科乃子医院" transform="ref(svg,13569.9041,-3502.075)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新谷歯科桂診療所,京都府京都市西京区桂南巽町５５-３,歯科,,,9" xlink:title="新谷歯科桂診療所" transform="ref(svg,13569.9752,-3498.1404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,--井歯科医院,京都府京都市右京区嵯峨折戸町２７,歯科,,,9" xlink:title="--井歯科医院" transform="ref(svg,13568.6248,-3501.7153)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,京都府京都市西京区松尾大利町２０-３９,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13569.2796,-3499.1628)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,京都府京都市西京区山田久田町３-３,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13569.2454,-3498.5385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,--溝歯科医院,京都府京都市右京区太秦乾町１３-３,歯科,,,9" xlink:title="--溝歯科医院" transform="ref(svg,13569.7999,-3501.9641)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科診療所,京都府京都市西京区桂南巽町３０山品ビル２Ｆ,歯科,,,9" xlink:title="高山歯科診療所" transform="ref(svg,13570.2323,-3498.1938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高寄歯科医院,京都府京都市右京区太秦御所ノ内町２５-１０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="高寄歯科医院" transform="ref(svg,13569.9723,-3501.4426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ただ歯科診療所,京都府京都市右京区太秦開日町２１-１９,歯科　矯正歯科　小児歯科,,,9" xlink:title="ただ歯科診療所" transform="ref(svg,13569.6496,-3502.1354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宕陰歯科診療所,京都府京都市右京区嵯峨越畑中ノ町２２-４,歯科,,,9" xlink:title="宕陰歯科診療所" transform="ref(svg,13561.1962,-3508.562)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中島歯科医院,京都府京都市右京区嵯峨大覚寺門前堂ノ前町２２-１３０,歯科,,,9" xlink:title="中島歯科医院" transform="ref(svg,13568.1463,-3502.2384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中山歯科医院,京都府京都市西京区桂上野中町１７０,歯科,,,9" xlink:title="中山歯科医院" transform="ref(svg,13570.2797,-3499.5731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,名古歯科医院,京都府京都市右京区嵯峨朝日町２-３嵐山グランドシティ１Ｆ,歯科,,,9" xlink:title="名古歯科医院" transform="ref(svg,13569.091,-3501.5103)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西川歯科医院,京都府京都市右京区梅津徳丸町５セントポーリア梅津-T、２Ｆ-Ｂ,歯科,,,9" xlink:title="西川歯科医院" transform="ref(svg,13569.8088,-3500.3414)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はぎざき歯科医院,京都府京都市西京区上桂北ノ口町１２１,歯科　小児歯科,,,9" xlink:title="はぎざき歯科医院" transform="ref(svg,13570.1013,-3499.2612)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原田歯科医院,京都府京都市右京区梅津中倉町２０-１,歯科,,,9" xlink:title="原田歯科医院" transform="ref(svg,13569.3111,-3500.2388)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日高歯科診療所,京都府京都市西京区桂南巽町１０,歯科,,,9" xlink:title="日高歯科診療所" transform="ref(svg,13570.2479,-3498.2699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三木歯科医院,京都府京都市右京区太秦御所之内町２７-６,歯科,,,9" xlink:title="三木歯科医院" transform="ref(svg,13569.9511,-3501.4383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科医院,京都府京都市西京区上桂森下町１-１５２,歯科,,,9" xlink:title="水野歯科医院" transform="ref(svg,13569.5197,-3498.6049)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮尾歯科医院,京都府京都市西京区大枝北沓掛町２-１０-７,歯科　小児歯科,,,9" xlink:title="宮尾歯科医院" transform="ref(svg,13565.7791,-3498.6102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森歯科,京都府京都市右京区太秦帷子ヶ辻町２６-３エルセドール１,歯科　矯正歯科　小児歯科,,,9" xlink:title="森歯科" transform="ref(svg,13569.9984,-3501.5731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,モリ歯科医院,京都府京都市右京区嵯峨大覚寺門前井頭町１７-１４,歯科,,,9" xlink:title="モリ歯科医院" transform="ref(svg,13567.688,-3502.23)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森本歯科,京都府京都市西京区上桂宮ノ後町４６-２,歯科　小児歯科,,,9" xlink:title="森本歯科" transform="ref(svg,13569.6116,-3498.9655)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安井歯科医院,京都府京都市上京区千本通笹屋町下ル笹屋町４-２６９,歯科　矯正歯科　小児歯科,,,9" xlink:title="安井歯科医院" transform="ref(svg,13565.8375,-3502.8025)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,湯浅歯科医院,京都府京都市右京区太秦御所ノ内町１７,歯科　小児歯科,,,9" xlink:title="湯浅歯科医院" transform="ref(svg,13569.8903,-3501.4237)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉見歯科医院,京都府京都市西京区山田猫塚町６-１８,歯科,,,9" xlink:title="吉見歯科医院" transform="ref(svg,13569.0806,-3498.154)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よねざわ歯科医院,京都府京都市右京区嵯峨広沢御所ノ内町４３-４１,歯科,,,9" xlink:title="よねざわ歯科医院" transform="ref(svg,13568.7446,-3502.086)" x="0" y="0"/>
+</g>
+</svg>

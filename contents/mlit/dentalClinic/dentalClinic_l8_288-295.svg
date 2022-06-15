@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14062.5 -3814.453125 17.578125 17.578125" go:dataArea="14062.5 -3814.453125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,清原歯科医院,宮城県白石市字銚子ヶ森１０-３９,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="清原歯科医院" transform="ref(svg,14062.8129,-3800.0611)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かおる歯科医院,宮城県白石市鷹巣東１-５-１６,歯科,,,9" xlink:title="かおる歯科医院" transform="ref(svg,14063.6707,-3799.7496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小野歯科医院,宮城県白石市東町１-１-１０,歯科　小児歯科,,,9" xlink:title="小野歯科医院" transform="ref(svg,14062.7453,-3799.6998)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ごとう歯科医院,宮城県白石市堂場前１２８,歯科,,,9" xlink:title="ごとう歯科医院" transform="ref(svg,14062.8937,-3800.5102)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひかり歯科医院,宮城県白石市字東大畑１３４-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひかり歯科医院" transform="ref(svg,14062.9578,-3800.7361)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科クリニック,宮城県角田市横倉今谷２９０-１,歯科,,,9" xlink:title="伊藤歯科クリニック" transform="ref(svg,14076.7309,-3798.7499)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かまた歯科医院,宮城県角田市角田字幸町７３,歯科　小児歯科,,,9" xlink:title="かまた歯科医院" transform="ref(svg,14077.8229,-3797.9702)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科医院,宮城県角田市角田字中島下４１９-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さいとう歯科医院" transform="ref(svg,14079.3408,-3797.4773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仙南歯科医院,宮城県角田市角田字町２１７,歯科,,,9" xlink:title="仙南歯科医院" transform="ref(svg,14078.2712,-3797.2908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,宮城県角田市角田字町２５,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,14078.4655,-3797.1714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒須歯科医院,宮城県角田市角田字田町１３７-１,歯科,,,9" xlink:title="黒須歯科医院" transform="ref(svg,14078.6881,-3797.4703)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,宮城県角田市角田字田町７３-３,歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,14078.1144,-3797.4314)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,氏家歯科医院,宮城県角田市角田字南１１８,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="氏家歯科医院" transform="ref(svg,14078.6081,-3796.9757)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,宮城県角田市梶賀字西１２８-２,歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,14078.7209,-3798.4597)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宍戸歯科医院,宮城県角田市梶賀字西３２-１,歯科,,,9" xlink:title="宍戸歯科医院" transform="ref(svg,14078.9744,-3798.8627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みかみ歯科医院,宮城県角田市字大町１-１０,歯科,,,9" xlink:title="みかみ歯科医院" transform="ref(svg,14078.281,-3797.6452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科医院,宮城県刈田郡蔵王町円田字西浦上２-２,歯科　小児歯科,,,9" xlink:title="村上歯科医院" transform="ref(svg,14065.6382,-3809.7962)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）真壁歯科医院,宮城県刈田郡蔵王町宮字井戸井前４２,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）真壁歯科医院" transform="ref(svg,14065.2104,-3804.2952)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,チェルトの森歯科診療所,宮城県刈田郡蔵王町大字円田字中田７４-１,歯科　小児歯科,,,9" xlink:title="チェルトの森歯科診療所" transform="ref(svg,14066.212,-3808.8582)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,宮城県柴田郡大河原町字幸町８-２３,歯科　矯正歯科　小児歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,14074.2095,-3804.7392)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安藤歯科医院,宮城県柴田郡大河原町字小島１２-２,歯科,,,9" xlink:title="安藤歯科医院" transform="ref(svg,14073.6662,-3806.7629)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えんどう歯科医院,宮城県柴田郡大河原町字新南３７-５,歯科,,,9" xlink:title="えんどう歯科医院" transform="ref(svg,14073.0532,-3805.0321)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大河原歯科医院,宮城県柴田郡大河原町字新南５８-８,歯科,,,9" xlink:title="大河原歯科医院" transform="ref(svg,14073.0015,-3805.1646)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あいはら歯科医院,宮城県柴田郡大河原町字西桜町２１-１,歯科　矯正歯科,,,9" xlink:title="あいはら歯科医院" transform="ref(svg,14074.3199,-3805.9542)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はせ歯科医院,宮城県柴田郡大河原町字中島町７-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="はせ歯科医院" transform="ref(svg,14073.9822,-3804.4426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,宮城県柴田郡大河原町字町２５２,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14073.6184,-3804.9088)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科,宮城県柴田郡大河原町字東新町６-９,歯科,,,9" xlink:title="さくら歯科" transform="ref(svg,14071.494,-3804.3658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,村上歯科医院,宮城県柴田郡大河原町字南７９-１,歯科　小児歯科,,,9" xlink:title="村上歯科医院" transform="ref(svg,14073.4014,-3805.2905)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小田部歯科医院,宮城県柴田郡大河原町大谷字町向１０１-５,歯科,,,9" xlink:title="小田部歯科医院" transform="ref(svg,14073.8853,-3804.7276)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いのうえ歯科医院,宮城県柴田郡大河原町字新東３２-７,歯科　小児歯科,,,9" xlink:title="いのうえ歯科医院" transform="ref(svg,14073.4299,-3805.8404)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もり歯科クリニック,宮城県柴田郡大河原町字町６３-１,歯科,,,9" xlink:title="もり歯科クリニック" transform="ref(svg,14073.4953,-3805.0966)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スエヒロデンタルクリニック,宮城県柴田郡大河原町大谷字末広４５-１,歯科　小児歯科,,,9" xlink:title="スエヒロデンタルクリニック" transform="ref(svg,14074.0961,-3805.2343)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,としみ歯科クリニック,宮城県柴田郡大河原町金ヶ瀬字新町尻２０７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="としみ歯科クリニック" transform="ref(svg,14071.6222,-3804.5737)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大沼歯科医院,宮城県柴田郡村田町大字村田字西４８,歯科,,,9" xlink:title="大沼歯科医院" transform="ref(svg,14072.4187,-3811.7475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,宮城県柴田郡村田町大字村田字末広町１３８,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,14072.468,-3812.2163)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,榊原歯科医院,宮城県柴田郡村田町大字村田字大槻下７３-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="榊原歯科医院" transform="ref(svg,14072.246,-3812.1743)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,前田歯科医院,宮城県柴田郡村田町大字小泉字西浦９７-１,歯科　小児歯科,,,9" xlink:title="前田歯科医院" transform="ref(svg,14072.4996,-3810.6329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川口歯科医院,宮城県柴田郡柴田町西船迫１-８-６４,歯科,,,9" xlink:title="川口歯科医院" transform="ref(svg,14076.642,-3806.6061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和野歯科医院,宮城県柴田郡柴田町西船迫２-２-３１,歯科,,,9" xlink:title="和野歯科医院" transform="ref(svg,14076.2068,-3806.4472)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉野井歯科医院,宮城県柴田郡柴田町船岡上大原２０-１,歯科,,,9" xlink:title="玉野井歯科医院" transform="ref(svg,14078.3809,-3806.0113)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,船岡中央歯科医院,宮城県柴田郡柴田町船岡中央２-３-２,歯科,,,9" xlink:title="船岡中央歯科医院" transform="ref(svg,14076.6609,-3805.6656)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科ヒライ,宮城県柴田郡柴田町船岡東２-８-２２,歯科,,,9" xlink:title="歯科ヒライ" transform="ref(svg,14077.4077,-3805.7781)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大友歯科医院,宮城県柴田郡柴田町船岡東２-４-１９,歯科,,,9" xlink:title="大友歯科医院" transform="ref(svg,14077.226,-3805.5879)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科医院,宮城県柴田郡柴田町船岡南１-９-１１,歯科,,,9" xlink:title="よしだ歯科医院" transform="ref(svg,14076.9123,-3805.2063)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊池歯科医院,宮城県柴田郡柴田町大字船岡字七作１１-１,歯科　小児歯科,,,9" xlink:title="菊池歯科医院" transform="ref(svg,14077.6944,-3805.5025)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内田歯科医院,宮城県柴田郡柴田町大字船岡字若葉町１２-１,歯科,,,9" xlink:title="内田歯科医院" transform="ref(svg,14077.1072,-3806.7194)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こや歯科医院,宮城県柴田郡柴田町船岡新栄３-４３-１５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="こや歯科医院" transform="ref(svg,14078.3334,-3805.2835)" x="0" y="0"/>
+</g>
+</svg>

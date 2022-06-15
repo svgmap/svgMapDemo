@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13007.8125 -3375.0 17.578125 17.578125" go:dataArea="13007.8125 -3375.0 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（医）奥医院,福岡県糸島市志摩初４１-１,内科　胃腸科　外科　リハビリテーション科,,,9" xlink:title="（医）奥医院" transform="ref(svg,13018.3557,-3358.2132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おくホームクリニック,福岡県糸島市志摩稲留５,内科　消化器内科　外科,,,9" xlink:title="おくホームクリニック" transform="ref(svg,13018.159,-3358.5127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらのクリニック,福岡県糸島市志摩桜井２４３５-１７,内科　胃腸科　循環器科　神経内科,,,9" xlink:title="さくらのクリニック" transform="ref(svg,13019.2779,-3362.1221)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽費老人ホーム師吉荘医務室,福岡県糸島市志摩師吉７３９-１,内科,,,9" xlink:title="軽費老人ホーム師吉荘医務室" transform="ref(svg,13018.0149,-3357.9172)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設玄海学園医務室,福岡県糸島市志摩小金丸２４０１-５６,精神科,,,9" xlink:title="障害者支援施設玄海学園医務室" transform="ref(svg,13015.6207,-3359.2909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,志摩学園医務室,福岡県糸島市志摩馬場１０７９-１,精神科,,,9" xlink:title="志摩学園医務室" transform="ref(svg,13020.4223,-3359.9899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かむら大腸肛門クリニック,福岡県福岡市西区泉２-１-２６,内科　外科　リハビリテーション科　こう門内科　こう門外科　胃腸内科,,,9" xlink:title="かむら大腸肛門クリニック" transform="ref(svg,13024.4098,-3357.4755)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,九州大学キャンパスライフ・健康支援センター伊都地区センターゾーン健康相談室,福岡県福岡市西区大字元岡７４４,内科　精神科,,,9" xlink:title="九州大学キャンパスライフ・健康支援センター伊都地区センターゾーン健康相談室" transform="ref(svg,13021.8494,-3359.5731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,九州大学キャンパスライフ・健康支援センター伊都地区ウエストゾーン健康相談室,福岡県福岡市西区大字元岡７４４,内科,,,9" xlink:title="九州大学キャンパスライフ・健康支援センター伊都地区ウエストゾーン健康相談室" transform="ref(svg,13021.8494,-3359.5731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福岡市立玄界診療所,福岡県福岡市西区大字玄界島字寄木１２１９-６０,内科　小児科,,,9" xlink:title="福岡市立玄界診療所" transform="ref(svg,13023.6183,-3368.3764)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保田クリニック,福岡県福岡市西区大字小田字中間５１-１,内科　循環器科　小児科,,,9" xlink:title="久保田クリニック" transform="ref(svg,13022.4266,-3363.1255)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森本医院,福岡県福岡市西区大字田尻１５３９-１,内科　消化器内科,,,9" xlink:title="森本医院" transform="ref(svg,13024.2035,-3358.8216)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）長野醫院長野産婦人科クリニック,福岡県福岡市西区大字徳永字野入１０５５,産科　婦人科,,,9" xlink:title="（医）長野醫院長野産婦人科クリニック" transform="ref(svg,13025.3861,-3358.0496)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アカデミアはらだ内科・消化器科,福岡県福岡市西区富士見２-１４-１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="アカデミアはらだ内科・消化器科" transform="ref(svg,13023.973,-3358.2394)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,そのだこどもクリニック,福岡県福岡市西区富士見２-１４-３,小児科,,,9" xlink:title="そのだこどもクリニック" transform="ref(svg,13023.9811,-3358.2756)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさのひ整形外科クリニック,福岡県福岡市西区富士見２-１４-７,整形外科,,,9" xlink:title="あさのひ整形外科クリニック" transform="ref(svg,13023.9517,-3358.2963)" x="0" y="0"/>
+</g>
+</svg>

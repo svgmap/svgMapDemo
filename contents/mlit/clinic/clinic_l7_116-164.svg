@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13078.125 -3234.375 35.15625 35.15625" go:dataArea="13078.125 -3234.375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,師井医院,熊本県熊本市北区植木町植木１８６,内科　胃腸科　小児科　外科　整形外科　形成外科　性病科　こう門科　リハビリテーション科,,,9" xlink:title="師井医院" transform="ref(svg,13094.254,-3226.5834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あいだ診療所,熊本県人吉市下漆田町字後平１５３８-４,内科　心療内科　外科,,,9" xlink:title="あいだ診療所" transform="ref(svg,13079.3511,-3219.0783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川整形外科医院,熊本県球磨郡錦町西９４９-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="小川整形外科医院" transform="ref(svg,13081.6551,-3219.6098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高田内科医院,熊本県球磨郡錦町一武１５７６,内科　胃腸科　小児科,,,9" xlink:title="高田内科医院" transform="ref(svg,13084.2813,-3219.9422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中医院,熊本県球磨郡錦町木上西１４３-１,内科　小児科　婦人科,,,9" xlink:title="田中医院" transform="ref(svg,13084.0437,-3222.5584)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）にしき園医務室,熊本県球磨郡錦町木上字杉の場１５０-１,内科,,,9" xlink:title="（特養）にしき園医務室" transform="ref(svg,13081.3111,-3222.6703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,深水内科医院,熊本県球磨郡錦町西字百太郎３５８５-１４,内科　胃腸科　小児科,,,9" xlink:title="深水内科医院" transform="ref(svg,13082.8753,-3219.8422)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほづみ皮膚科医院,熊本県球磨郡錦町西１０６５-３,アレルギー科　形成外科　皮膚科,,,9" xlink:title="ほづみ皮膚科医院" transform="ref(svg,13081.9262,-3219.6309)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,犬童内科胃腸科医院,熊本県球磨郡あさぎり町上北１６９-２,内科　消化器科　胃腸科　小児科,,,9" xlink:title="犬童内科胃腸科医院" transform="ref(svg,13089.1402,-3223.3252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさぎり町立救護施設しらがね寮医務室,熊本県球磨郡あさぎり町上西８３５-２,内科　精神科,,,9" xlink:title="あさぎり町立救護施設しらがね寮医務室" transform="ref(svg,13088.9111,-3221.7813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桑原医院,熊本県球磨郡あさぎり町免田東１９８２,内科　小児科,,,9" xlink:title="桑原医院" transform="ref(svg,13090.1345,-3223.9018)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こんどう整形外科医院,熊本県球磨郡あさぎり町免田東２７９１,内科　リウマチ科　整形外科　形成外科　リハビリテーション科　放射線科,,,9" xlink:title="こんどう整形外科医院" transform="ref(svg,13090.6605,-3224.0985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,翠光園老人ホーム,熊本県球磨郡あさぎり町深田東４１０,内科,,,9" xlink:title="翠光園老人ホーム" transform="ref(svg,13087.3425,-3224.5623)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あさぎりホーム,熊本県球磨郡あさぎり町岡原南７７-１,内科,,,9" xlink:title="（特養）あさぎりホーム" transform="ref(svg,13092.0297,-3223.4425)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）鐘ケ丘ホーム,熊本県球磨郡あさぎり町上西８３５,内科　皮膚泌尿器科,,,9" xlink:title="（特養）鐘ケ丘ホーム" transform="ref(svg,13088.9128,-3221.8807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,増田耳鼻咽喉科クリニック,熊本県球磨郡あさぎり町免田東１４４０-１１,内科　耳鼻いんこう科,,,9" xlink:title="増田耳鼻咽喉科クリニック" transform="ref(svg,13089.5545,-3223.7241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまむら医院,熊本県球磨郡あさぎり町免田東１４９７-６４,内科　小児科,,,9" xlink:title="やまむら医院" transform="ref(svg,13089.3098,-3223.4795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井口医院,熊本県球磨郡多良木町多良木２９０５-１,内科　胃腸科　小児科,,,9" xlink:title="井口医院" transform="ref(svg,13093.1832,-3225.6218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,犬童耳鼻咽喉科,熊本県球磨郡多良木町多良木２８３４,耳鼻いんこう科　気管食道科,,,9" xlink:title="犬童耳鼻咽喉科" transform="ref(svg,13092.9719,-3225.6909)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,槻木診療所,熊本県球磨郡多良木町槻木芭蕉の本８,内科,,,9" xlink:title="槻木診療所" transform="ref(svg,13102.545,-3220.2916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あずみ野,熊本県球磨郡多良木町多良木２５７-１,内科,,,9" xlink:title="（特養）あずみ野" transform="ref(svg,13094.3863,-3226.6692)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仁田畑クリニック,熊本県球磨郡多良木町多良木８９５-６,内科　胃腸科　小児科　外科　整形外科　こう門科　皮膚科　麻酔科,,,9" xlink:title="仁田畑クリニック" transform="ref(svg,13093.8071,-3226.229)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮原医院,熊本県球磨郡多良木町多良木２６０,内科　リウマチ科　小児科　リハビリテーション科,,,9" xlink:title="宮原医院" transform="ref(svg,13094.3351,-3226.6296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横山医院,熊本県球磨郡多良木町黒肥地１５９６,内科　小児科,,,9" xlink:title="横山医院" transform="ref(svg,13093.9346,-3227.4415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺医院,熊本県球磨郡多良木町多良木２６５-１,内科　胃腸科　外科,,,9" xlink:title="渡辺医院" transform="ref(svg,13094.2545,-3226.5731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,兒玉医院,熊本県球磨郡湯前町上洗口１１２２,胃腸科　外科　整形外科　脳神経外科　小児外科　こう門科,,,9" xlink:title="兒玉医院" transform="ref(svg,13097.3321,-3228.0174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,そのだ医院,熊本県球磨郡湯前町９５３-１,内科　外科　整形外科,,,9" xlink:title="そのだ医院" transform="ref(svg,13097.4533,-3228.2848)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）福寿荘医務室,熊本県球磨郡湯前町８３６,内科,,,9" xlink:title="（特養）福寿荘医務室" transform="ref(svg,13099.5426,-3227.5049)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）桜の里医務室,熊本県球磨郡水上村岩野２６５８-１,内科　外科,,,9" xlink:title="（特養）桜の里医務室" transform="ref(svg,13098.554,-3229.3657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,成尾整形外科病院附属水上温泉診療所,熊本県球磨郡水上村湯山字中覚井７７６,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="成尾整形外科病院附属水上温泉診療所" transform="ref(svg,13104.6329,-3231.8783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,権頭医院,熊本県球磨郡相良村四浦東２８１５,内科　小児科　外科,,,9" xlink:title="権頭医院" transform="ref(svg,13084.7942,-3230.6735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）川辺川園医務室,熊本県球磨郡相良村川辺１７７１,内科,,,9" xlink:title="（特養）川辺川園医務室" transform="ref(svg,13081.556,-3225.6871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩井クリニック,熊本県球磨郡あさぎり町深田東４４５-１,内科　胃腸科　外科　こう門科,,,9" xlink:title="岩井クリニック" transform="ref(svg,13087.3392,-3224.7988)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,酒瀬川内科,熊本県球磨郡錦町西１４-８,内科　呼吸器科　循環器科　小児科,,,9" xlink:title="酒瀬川内科" transform="ref(svg,13082.829,-3219.721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仙寿会緒方医院,熊本県球磨郡相良村川辺１７６４,内科　神経内科　消化器科　胃腸科　小児科　外科　皮膚科　泌尿器科　リハビリテーション科　放射線科,,,9" xlink:title="（医）仙寿会緒方医院" transform="ref(svg,13081.6344,-3225.6494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,脳神経外科小林クリニック,熊本県球磨郡錦町西３６０４-１０６,内科　神経内科　脳神経外科　リハビリテーション科,,,9" xlink:title="脳神経外科小林クリニック" transform="ref(svg,13083.1036,-3219.7939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型介護老人福祉施設錦寿豊苑,熊本県球磨郡錦町一武字原田川１２３４,内科　精神科,,,9" xlink:title="地域密着型介護老人福祉施設錦寿豊苑" transform="ref(svg,13083.2087,-3220.3715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかの眼科,熊本県球磨郡あさぎり町上北１９３-１,眼科,,,9" xlink:title="たかの眼科" transform="ref(svg,13089.21,-3223.3426)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設りゅうきんか医務室,熊本県球磨郡あさぎり町免田東３３３３-３,内科,,,9" xlink:title="介護老人福祉施設りゅうきんか医務室" transform="ref(svg,13091.2932,-3224.9709)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,古城クリニック,熊本県球磨郡水上村大字岩野字石原２６７５-１,内科　呼吸器科　消化器科,,,9" xlink:title="古城クリニック" transform="ref(svg,13098.7242,-3229.669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あけぼの園診療所,宮崎県えびの市大字榎田５７９-１０,内科　外科,,,9" xlink:title="（特養）あけぼの園診療所" transform="ref(svg,13081.2692,-3206.5647)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田医院,宮崎県えびの市大字栗下２１８-１,内科　循環器内科　消化器内科（胃腸内科）　小児科,,,9" xlink:title="前田医院" transform="ref(svg,13081.476,-3204.2681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えびの整形外科医院,宮崎県えびの市大字小田１１６９-１,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="えびの整形外科医院" transform="ref(svg,13081.9162,-3205.263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えびの眼科こだま小児科医院,宮崎県えびの市大明司１０２３,小児科　眼科,,,9" xlink:title="えびの眼科こだま小児科医院" transform="ref(svg,13082.7933,-3205.0207)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えびのセントロクリニック,宮崎県えびの市大字上江１００７-４,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　外科　肛門外科　婦人科,,,9" xlink:title="えびのセントロクリニック" transform="ref(svg,13085.5524,-3203.0791)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉原耳鼻咽喉科,宮崎県えびの市大字原田３２３６,気管食道外科　アレルギー科　耳鼻いんこう科,,,9" xlink:title="杉原耳鼻咽喉科" transform="ref(svg,13086.467,-3204.4424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平塚医院,宮崎県えびの市大字原田３２１５-２３,心療内科　精神科,,,9" xlink:title="平塚医院" transform="ref(svg,13086.6006,-3204.5551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,えびの第一クリニック,宮崎県えびの市大字原田２２３６,内科　循環器内科　皮膚科,,,9" xlink:title="えびの第一クリニック" transform="ref(svg,13087.0444,-3203.3137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉クリニック,宮崎県えびの市杉水流５０-１,内科　循環器内科　消化器内科（胃腸内科）　眼科,,,9" xlink:title="若葉クリニック" transform="ref(svg,13087.2288,-3204.681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしざわ循環器内科,宮崎県えびの市大字原田２１４３-１,内科　循環器内科　消化器内科（胃腸内科）　麻酔科,,,9" xlink:title="いしざわ循環器内科" transform="ref(svg,13087.4522,-3202.8139)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）公佑会丹医院,宮崎県えびの市大字大河平４３２７-３７,内科　外科　皮膚科,,,9" xlink:title="（医）公佑会丹医院" transform="ref(svg,13091.2932,-3203.9695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西小林診療所,宮崎県小林市北西方１２１２,内科　消化器内科（胃腸内科）　放射線科,,,9" xlink:title="西小林診療所" transform="ref(svg,13092.1318,-3201.1109)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊えびの駐屯地医務室,宮崎県えびの市大字大河平４４５５-１,内科　外科　歯科,,,9" xlink:title="陸上自衛隊えびの駐屯地医務室" transform="ref(svg,13092.5348,-3207.9928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）産科婦人科生駒クリニック,宮崎県小林市南西方４９-３,産科　婦人科,,,9" xlink:title="（医）産科婦人科生駒クリニック" transform="ref(svg,13095.9186,-3199.6189)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ありの実園診療所,宮崎県小林市北西方１１５ありの実園,内科,,,9" xlink:title="ありの実園診療所" transform="ref(svg,13096.0727,-3200.6599)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤内科クリニック,宮崎県小林市大字細野４０５-９,内科　循環器内科　小児科,,,9" xlink:title="近藤内科クリニック" transform="ref(svg,13097.0232,-3199.4415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀胃腸科外科医院,宮崎県小林市大字細野４３６-１０,内科　呼吸器内科　循環器内科　消化器内科（胃腸内科）　外科　乳腺外科　消化器外科（胃腸外科）,,,9" xlink:title="堀胃腸科外科医院" transform="ref(svg,13097.1129,-3199.5192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岩元医院,宮崎県小林市大字細野１６１８,産科　婦人科,,,9" xlink:title="岩元医院" transform="ref(svg,13097.2474,-3199.4201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈裕会宮崎医院,宮崎県小林市細野１６１９,内科　消化器内科（胃腸内科）　皮膚科,,,9" xlink:title="（医）慈裕会宮崎医院" transform="ref(svg,13097.2585,-3199.4556)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）柊山医院,宮崎県小林市真方１１８,眼科　耳鼻いんこう科,,,9" xlink:title="（医）柊山医院" transform="ref(svg,13097.5007,-3199.8325)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）尚生会上田内科,宮崎県小林市大字細野１８７７-５,内科　循環器内科,,,9" xlink:title="（医）尚生会上田内科" transform="ref(svg,13097.5496,-3199.4326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）五蘊会二口子供医院,宮崎県小林市大字真方２１２,消化器内科（胃腸内科）　小児科　アレルギー科,,,9" xlink:title="（医）五蘊会二口子供医院" transform="ref(svg,13097.7556,-3199.7901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,針貝眼科医院,宮崎県小林市大字細野１５８,眼科,,,9" xlink:title="針貝眼科医院" transform="ref(svg,13097.8157,-3199.3962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）友光会整形外科フレンドクリニック,宮崎県小林市細野１３４-１５,整形外科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）友光会整形外科フレンドクリニック" transform="ref(svg,13097.974,-3199.4273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）相愛会桑原皮膚科医院,宮崎県小林市大字細野５９-１,皮膚科,,,9" xlink:title="（医）相愛会桑原皮膚科医院" transform="ref(svg,13098.2087,-3199.4657)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）和芳会小林中央眼科,宮崎県小林市細野５５-１,眼科,,,9" xlink:title="（医）和芳会小林中央眼科" transform="ref(svg,13098.2312,-3199.3951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健生会勝間田内科,宮崎県小林市真方５６０-１９,内科　消化器内科（胃腸内科）,,,9" xlink:title="（医）健生会勝間田内科" transform="ref(svg,13098.9603,-3199.2651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）陽光の里診療所,宮崎県小林市真方５０３８-１,内科　外科,,,9" xlink:title="（特養）陽光の里診療所" transform="ref(svg,13099.566,-3200.1337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）美穂の里診療所,宮崎県小林市須木下田１１５２,内科,,,9" xlink:title="（特養）美穂の里診療所" transform="ref(svg,13107.4019,-3207.6929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林市立須木診療所,宮崎県小林市須木下田１２２４,内科　外科　消化器外科（胃腸外科）,,,9" xlink:title="小林市立須木診療所" transform="ref(svg,13107.5072,-3207.2004)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林市立内山へき地診療所,宮崎県小林市須木内山５２０３-１,内科　外科　消化器外科（胃腸外科）,,,9" xlink:title="小林市立内山へき地診療所" transform="ref(svg,13111.5871,-3200.2931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,のなか整形外科,宮崎県えびの市大字原田３１８７,整形外科　リハビリテーション科,,,9" xlink:title="のなか整形外科" transform="ref(svg,13086.5682,-3204.2518)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沖内科小児科医院,宮崎県小林市大字細野５９-８,内科　小児科,,,9" xlink:title="沖内科小児科医院" transform="ref(svg,13098.1062,-3199.5081)" x="0" y="0"/>
+</g>
+</svg>

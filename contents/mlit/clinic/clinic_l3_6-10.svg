@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12375.0 -3375.0 562.5 562.5" go:dataArea="12375.0 -3375.0 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,西海市国民健康保険江島診療所,長崎県西海市崎戸町江島２２７５-１,歯科　内科,,,9" xlink:title="西海市国民健康保険江島診療所" transform="ref(svg,12935.0199,-3300.387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西海市国民健康保険平島診療所,長崎県西海市崎戸町平島７４１,歯科　内科,,,9" xlink:title="西海市国民健康保険平島診療所" transform="ref(svg,12923.9288,-3300.014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きじの里診療所,長崎県五島市岐宿町二本楠３７５,外科　内科,,,9" xlink:title="きじの里診療所" transform="ref(svg,12872.382,-3267.3704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みどりが丘クリニック,長崎県五島市木場町５７０-４,小児科　消化器科　内科　放射線科,,,9" xlink:title="（医）みどりが丘クリニック" transform="ref(svg,12883.3599,-3269.5143)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）井上内科小児科医院,長崎県五島市武家屋敷１-２-１３,小児科　内科,,,9" xlink:title="（医）井上内科小児科医院" transform="ref(svg,12884.3678,-3269.2582)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山下医院,長崎県五島市幸町１-３,リハビリテーション科　消化器科　内科,,,9" xlink:title="（医）山下医院" transform="ref(svg,12884.1201,-3269.3612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）山内診療所,長崎県五島市岐宿町中嶽郷１０７３-１,呼吸器科　呼吸器科　内科,,,9" xlink:title="（医）山内診療所" transform="ref(svg,12873.538,-3268.669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松尾整形外科,長崎県五島市福江町１５-１３,リハビリテーション科　整形外科,,,9" xlink:title="（医）松尾整形外科" transform="ref(svg,12884.2951,-3269.6902)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松本耳鼻咽喉科,長崎県五島市池田町２-１７,耳鼻いんこう科,,,9" xlink:title="（医）松本耳鼻咽喉科" transform="ref(svg,12884.5159,-3269.4176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福島内科医院,長崎県五島市福江町２-１０,小児科　内科,,,9" xlink:title="（医）福島内科医院" transform="ref(svg,12884.0933,-3269.484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）雄仁会浦クリニック,長崎県五島市栄町９-１６,循環器科　小児科　内科　皮膚科,,,9" xlink:title="（医）雄仁会浦クリニック" transform="ref(svg,12884.5418,-3269.6547)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ダケ眼科クリニック,長崎県五島市福江町１５-１６,眼科,,,9" xlink:title="（医）ダケ眼科クリニック" transform="ref(svg,12884.2738,-3269.7)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）沢本外科医院,長崎県五島市栄町１-４６,外科　消化器科　整形外科　皮膚科　放射線科,,,9" xlink:title="（医）沢本外科医院" transform="ref(svg,12884.596,-3269.572)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）福江産婦人科医院,長崎県五島市江川町１０-６,産婦人科,,,9" xlink:title="（医）福江産婦人科医院" transform="ref(svg,12884.4544,-3269.7688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岐宿診療所,長崎県五島市岐宿町岐宿２５４４-４,外科　内科,,,9" xlink:title="岐宿診療所" transform="ref(svg,12875.9194,-3274.9656)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保循環器内科,長崎県五島市吉久木町４４３-７,循環器科　内科,,,9" xlink:title="久保循環器内科" transform="ref(svg,12882.7154,-3269.2103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,虎島医院,長崎県五島市中央町２-２,内科　皮膚科,,,9" xlink:title="虎島医院" transform="ref(svg,12884.3481,-3269.3791)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市伊福貴診療所,長崎県五島市伊福貴町３７６-１３,外科　歯科　小児科　内科,,,9" xlink:title="五島市伊福貴診療所" transform="ref(svg,12896.9891,-3275.3429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市伊福貴診療所本窯分院,長崎県五島市本窯町８-１,外科　小児科　内科,,,9" xlink:title="五島市伊福貴診療所本窯分院" transform="ref(svg,12899.2285,-3277.0048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市黄島診療所,長崎県五島市黄島町１７４,外科　小児科　内科,,,9" xlink:title="五島市黄島診療所" transform="ref(svg,12890.4571,-3256.9745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市黄島診療所赤島分院,長崎県五島市赤島町４４６,外科　小児科　内科,,,9" xlink:title="五島市黄島診療所赤島分院" transform="ref(svg,12892.3958,-3259.7403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市国民健康保険久賀診療所,長崎県五島市久賀町２４５-１,外科　小児科　内科,,,9" xlink:title="五島市国民健康保険久賀診療所" transform="ref(svg,12887.0447,-3279.2837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市国民健康保険玉之浦診療所,長崎県五島市玉之浦町玉之浦１３９７-１,外科　歯科　小児科　内科,,,9" xlink:title="五島市国民健康保険玉之浦診療所" transform="ref(svg,12861.4429,-3261.6301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市国民健康保険玉之浦診療所幾久山診療所,長崎県五島市玉之浦町幾久山４６９,外科　小児科　内科,,,9" xlink:title="五島市国民健康保険玉之浦診療所幾久山診療所" transform="ref(svg,12870.5358,-3264.4864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市国民健康保険玉之浦診療所荒川丹奈出張診療所,長崎県五島市玉之浦町荒川１３４-１,外科　小児科　内科,,,9" xlink:title="五島市国民健康保険玉之浦診療所荒川丹奈出張診療所" transform="ref(svg,12867.1556,-3266.7282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市国民健康保険玉之浦診療所大宝出張診療所,長崎県五島市玉之浦町大宝９３６,外科　小児科　内科,,,9" xlink:title="五島市国民健康保険玉之浦診療所大宝出張診療所" transform="ref(svg,12865.2244,-3260.5188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市国民健康保険玉之浦診療所中須出張診療所,長崎県五島市玉之浦町小川１１４７-１,外科　小児科　内科,,,9" xlink:title="五島市国民健康保険玉之浦診療所中須出張診療所" transform="ref(svg,12866.6855,-3263.0876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市国民健康保険三井楽診療所,長崎県五島市三井楽町濱ノ畔１０４６-１,外科　小児科　内科,,,9" xlink:title="五島市国民健康保険三井楽診療所" transform="ref(svg,12869.1513,-3274.6742)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市国民健康保険三井楽診療所嵯峨島出張診療所,長崎県五島市三井楽町嵯峨島４９,外科　歯科　小児科　内科,,,9" xlink:title="五島市国民健康保険三井楽診療所嵯峨島出張診療所" transform="ref(svg,12859.932,-3272.6944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島市立養護老人ホーム松寿園診療所,長崎県五島市松山町１９６,内科,,,9" xlink:title="五島市立養護老人ホーム松寿園診療所" transform="ref(svg,12884.4073,-3270.2479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,五島保健所,長崎県五島市福江町７-２,内科,,,9" xlink:title="五島保健所" transform="ref(svg,12884.0274,-3269.5955)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田医院,長崎県五島市三井楽町濱ノ畔１２５３-１,リハビリテーション科　整形外科　内科,,,9" xlink:title="山田医院" transform="ref(svg,12869.1961,-3274.3766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本皮膚科医院,長崎県五島市福江町３-１３,皮膚科,,,9" xlink:title="山本皮膚科医院" transform="ref(svg,12884.1404,-3269.5144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健友会五島ふれあい診療所,長崎県五島市三尾野町２-１-２９,リハビリテーション科　外科　内科,,,9" xlink:title="（医）健友会五島ふれあい診療所" transform="ref(svg,12884.1191,-3269.2456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宿輪医院,長崎県五島市奈留町浦１８６６-１,循環器科　内科,,,9" xlink:title="宿輪医院" transform="ref(svg,12893.7177,-3282.6628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,聖マリアの園診療所,長崎県五島市松山町７０６-３,内科,,,9" xlink:title="聖マリアの園診療所" transform="ref(svg,12883.7924,-3270.5871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川原診療所,長崎県五島市岐宿町川原５７７-１,呼吸器内科　小児科　内科,,,9" xlink:title="川原診療所" transform="ref(svg,12872.8472,-3273.5214)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,只狩荘診療所,長崎県五島市富江町黒瀬５８５,外科　内科,,,9" xlink:title="只狩荘診療所" transform="ref(svg,12874.5951,-3260.5448)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎県五島中央病院附属診療所奈留医療センター,長崎県五島市奈留町浦１６４４,リハビリテーション科　外科　眼科　小児科　整形外科　精神科　内科　泌尿器科　皮膚科,,,9" xlink:title="長崎県五島中央病院附属診療所奈留医療センター" transform="ref(svg,12893.3696,-3283.2222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）なるの里医務室,長崎県五島市奈留町船廻８７９-１,内科,,,9" xlink:title="（特養）なるの里医務室" transform="ref(svg,12894.3269,-3284.457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みみらくの里診療所,長崎県五島市三井楽町濱ノ畔１０４６-２,内科,,,9" xlink:title="（特養）みみらくの里診療所" transform="ref(svg,12869.1083,-3274.6873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆうゆうの里内診療所,長崎県五島市玉之浦町玉之浦１３７１-１,外科　内科,,,9" xlink:title="（特養）ゆうゆうの里内診療所" transform="ref(svg,12861.4515,-3261.6759)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）緑乃園内診療所,長崎県五島市野々切町２０３５-２,内科,,,9" xlink:title="（特養）緑乃園内診療所" transform="ref(svg,12883.2875,-3264.8924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南町脳神経外科クリニック,長崎県五島市武家屋敷１-７-１２,リハビリテーション科　脳神経外科,,,9" xlink:title="南町脳神経外科クリニック" transform="ref(svg,12884.6,-3269.165)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富江診療所,長崎県五島市富江町松尾６８６-１,リハビリテーション科　神経内科　内科,,,9" xlink:title="富江診療所" transform="ref(svg,12876.2979,-3261.7695)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホームたちばな荘医務室,長崎県五島市玉之浦町荒川８７４-２,内科,,,9" xlink:title="養護老人ホームたちばな荘医務室" transform="ref(svg,12867.9306,-3267.2562)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）もとおか歯科医院,長崎県南松浦郡新上五島町浦桑郷１３６３,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）もとおか歯科医院" transform="ref(svg,12908.5844,-3298.6377)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）戸田眼科医院,長崎県南松浦郡新上五島町有川郷９５０-２,眼科,,,9" xlink:title="（医）戸田眼科医院" transform="ref(svg,12911.7014,-3298.1157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小値賀町国民健康保険診療所,長崎県北松浦郡小値賀町笛吹郷１７５７-８,産婦人科　小児科　内科,,,9" xlink:title="小値賀町国民健康保険診療所" transform="ref(svg,12905.9927,-3319.2019)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上五島保健所,長崎県南松浦郡新上五島町有川郷２２５４-１７,内科,,,9" xlink:title="上五島保健所" transform="ref(svg,12911.6483,-3298.0463)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町国民健康保険榎津診療所,長崎県南松浦郡新上五島町榎津郷２１６,外科　小児科　内科,,,9" xlink:title="新上五島町国民健康保険榎津診療所" transform="ref(svg,12909.1571,-3299.6489)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町若松国民健康保険診療所,長崎県南松浦郡新上五島町若松郷２８１,外科　小児科　内科,,,9" xlink:title="新上五島町若松国民健康保険診療所" transform="ref(svg,12902.1345,-3288.7751)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町若松国民健康保険診療所日島出張診療所,長崎県南松浦郡新上五島町日島郷９４,外科　小児科　内科,,,9" xlink:title="新上五島町若松国民健康保険診療所日島出張診療所" transform="ref(svg,12896.0153,-3291.7088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町新魚目国民健康保険診療所,長崎県南松浦郡新上五島町小串郷１４８０-１,外科　歯科　小児科　内科,,,9" xlink:title="新上五島町新魚目国民健康保険診療所" transform="ref(svg,12909.7698,-3305.5326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町立太田診療所,長崎県南松浦郡新上五島町太田郷１６５９-１,小児科　内科,,,9" xlink:title="新上五島町立太田診療所" transform="ref(svg,12914.7003,-3295.6837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町立岩瀬浦診療所,長崎県南松浦郡新上五島町岩瀬浦郷４２５-１,小児科　内科,,,9" xlink:title="新上五島町立岩瀬浦診療所" transform="ref(svg,12908.301,-3288.1304)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町立崎浦地区へき地診療所,長崎県南松浦郡新上五島町友住郷１３２-１,外科　小児科　整形外科　内科,,,9" xlink:title="新上五島町立崎浦地区へき地診療所" transform="ref(svg,12917.3202,-3299.8912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町立仲知へき地診療所,長崎県南松浦郡新上五島町津和崎郷９８４-１,外科　小児科　内科,,,9" xlink:title="新上五島町立仲知へき地診療所" transform="ref(svg,12910.285,-3311.7795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町立津和崎へき地診療所,長崎県南松浦郡新上五島町津和崎郷４７６-１,外科　小児科　内科,,,9" xlink:title="新上五島町立津和崎へき地診療所" transform="ref(svg,12911.0293,-3314.7911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新上五島町立東神ノ浦へき地診療所,長崎県南松浦郡新上五島町東神の浦郷１４５-４,外科　小児科　内科,,,9" xlink:title="新上五島町立東神ノ浦へき地診療所" transform="ref(svg,12908.3704,-3292.5224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎県上五島病院附属診療所奈良尾医療センター,長崎県南松浦郡新上五島町奈良尾郷字新港１０００,リハビリテーション科　外科　眼科　耳鼻いんこう科　小児科　整形外科　内科　泌尿器科　皮膚科　放射線科,,,9" xlink:title="長崎県上五島病院附属診療所奈良尾医療センター" transform="ref(svg,12905.788,-3284.6135)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長崎県上五島病院附属診療所有川医療センター,長崎県南松浦郡新上五島町有川郷２２５５,リハビリテーション科　外科　小児科　整形外科　内科,,,9" xlink:title="長崎県上五島病院附属診療所有川医療センター" transform="ref(svg,12911.6758,-3297.9989)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田坂医院,長崎県南松浦郡新上五島町青方郷１５４４-７,小児科　内科　放射線科,,,9" xlink:title="田坂医院" transform="ref(svg,12907.0872,-3298.3792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田坂医院奈摩出張診療所,長崎県南松浦郡新上五島町奈摩郷２５,小児科　内科,,,9" xlink:title="田坂医院奈摩出張診療所" transform="ref(svg,12907.0064,-3301.8118)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）つつじが丘診療所,長崎県南松浦郡新上五島町有川郷２３６９-１,内科　皮膚科,,,9" xlink:title="（特養）つつじが丘診療所" transform="ref(svg,12910.9997,-3297.9882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）つばきの里診療所,長崎県南松浦郡新上五島町浦桑郷１００８-５,外科　内科　皮膚科,,,9" xlink:title="（特養）つばきの里診療所" transform="ref(svg,12908.9205,-3298.7575)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）わかまつ診療所,長崎県南松浦郡新上五島町若松郷２８８,外科　内科,,,9" xlink:title="（特養）わかまつ診療所" transform="ref(svg,12902.2106,-3288.7217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）福見の園診療所,長崎県南松浦郡新上五島町岩瀬浦郷３１-１,内科,,,9" xlink:title="（特養）福見の園診療所" transform="ref(svg,12907.6339,-3286.2662)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）芳寿荘診療所,長崎県南松浦郡新上五島町今里郷６１０,歯科　内科,,,9" xlink:title="（特養）芳寿荘診療所" transform="ref(svg,12903.6387,-3294.7434)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）養寿園診療所,長崎県北松浦郡小値賀町笛吹郷１７５６-２,内科,,,9" xlink:title="（特養）養寿園診療所" transform="ref(svg,12905.9832,-3319.115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム朝海荘診療所,長崎県南松浦郡新上五島町奈良尾郷８０５-１,外科　内科,,,9" xlink:title="養護老人ホーム朝海荘診療所" transform="ref(svg,12905.2964,-3284.9052)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐世保市立総合病院宇久診療所,長崎県佐世保市宇久町平２３４４,内科　外科　小児科　眼科,,,9" xlink:title="佐世保市立総合病院宇久診療所" transform="ref(svg,12912.9589,-3326.5464)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十島村立宝島へき地診療所,鹿児島県鹿児島郡十島村宝島１,内科,,,9" xlink:title="十島村立宝島へき地診療所" transform="ref(svg,12920.6083,-2915.3618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十島村立小宝島へき地診療所,鹿児島県鹿児島郡十島村大字小宝島４,内科,,,9" xlink:title="十島村立小宝島へき地診療所" transform="ref(svg,12932.8785,-2922.2539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和村立（特養）大和の園,鹿児島県大島郡大和村戸円１９０３,内科,,,9" xlink:title="大和村立（特養）大和の園" transform="ref(svg,12931.5004,-2834.7294)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大和村今里へき地出張診療所,鹿児島県大島郡大和村今里７９０,内科　小児科,,,9" xlink:title="大和村今里へき地出張診療所" transform="ref(svg,12927.4535,-2832.4219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奄美の園診療所,鹿児島県大島郡瀬戸内町古仁屋芦瀬原１２８３-２７,内科　外科,,,9" xlink:title="奄美の園診療所" transform="ref(svg,12932.071,-2813.8232)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南大島診療所,鹿児島県大島郡瀬戸内町古仁屋字松江１６-４,内科　小児科　放射線科,,,9" xlink:title="南大島診療所" transform="ref(svg,12931.2233,-2814.8713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム寿老園,鹿児島県大島郡瀬戸内町古仁屋瀬久井西７-３,内科　外科,,,9" xlink:title="養護老人ホーム寿老園" transform="ref(svg,12932.1213,-2814.0845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,滝の園診療所,鹿児島県大島郡宇検村字阿京７５７,内科　精神科,,,9" xlink:title="滝の園診療所" transform="ref(svg,12928.7115,-2827.6503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,虹の園診療所,鹿児島県大島郡宇検村須古２-４,内科,,,9" xlink:title="虹の園診療所" transform="ref(svg,12929.9537,-2827.1926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いづはら医院,鹿児島県大島郡瀬戸内町古仁屋大湊７,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="いづはら医院" transform="ref(svg,12931.0221,-2814.7205)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国民健康保険大和診療所,鹿児島県大島郡大和村大棚大町４２０,内科　小児科　歯科,,,9" xlink:title="国民健康保険大和診療所" transform="ref(svg,12935.8072,-2835.5948)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国民健康保険宇検診療所,鹿児島県大島郡宇検村湯湾川尻原３７,内科　外科　歯科,,,9" xlink:title="国民健康保険宇検診療所" transform="ref(svg,12929.496,-2827.911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瀬戸内町へき地診療所,鹿児島県大島郡瀬戸内町古仁屋瀬久井西１３-２,内科　小児科　外科,,,9" xlink:title="瀬戸内町へき地診療所" transform="ref(svg,12931.7805,-2814.4366)" x="0" y="0"/>
+</g>
+</svg>

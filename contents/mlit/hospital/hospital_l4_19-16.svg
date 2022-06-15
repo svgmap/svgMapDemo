@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="14343.75 -4500.0 281.25 281.25" go:dataArea="14343.75 -4500.0 281.25 281.25" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="1,美幌療育病院,北海道網走郡美幌町字美富９,内科　小児科　精神科　循環器科　リハビリテーション科,,,6" xlink:title="美幌療育病院" transform="ref(svg,14410.2319,-4381.4647)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,美幌町立国民健康保険病院,北海道網走郡美幌町字仲町２-３８,内科　小児科　外科　眼科　リハビリテーション科　循環器内科　腎臓内科,,,2" xlink:title="美幌町立国民健康保険病院" transform="ref(svg,14410.5905,-4383.2647)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,津別病院,北海道網走郡津別町字幸町６１,内科　小児科　消化器科　外科　整形外科　歯科　歯科口腔外科,,,6" xlink:title="津別病院" transform="ref(svg,14402.4878,-4370.7123)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ＪＡ北海道厚生連常呂厚生病院,北海道北見市常呂町字常呂５７３-２,内科　小児科　外科　皮膚科,,,2" xlink:title="ＪＡ北海道厚生連常呂厚生病院" transform="ref(svg,14406.5489,-4411.7467)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,北海道立北見病院,北海道北見市高栄西町１-１-２,内科　呼吸器内科　呼吸器外科　循環器内科　心臓血管外科　麻酔科,,,2" xlink:title="北海道立北見病院" transform="ref(svg,14386.8741,-4380.9513)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,北見赤十字病院,北海道北見市北６条東２-１,内科　神経精神科　循環器内科　消化器内科　小児科　外科　整形外科　形成外科　脳神経外科　皮膚科　泌尿器科　産婦人科　眼科　頭頸部外科　耳鼻咽喉科　放射線科　麻酔科　ペインクリニック科　心療内科　リハビリテーション科　消化器外科　緩和ケア内科,,,2" xlink:title="北見赤十字病院" transform="ref(svg,14389.3651,-4380.8794)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,置戸赤十字病院,北海道常呂郡置戸町字置戸７７,内科　皮膚科　麻酔科,,,2" xlink:title="置戸赤十字病院" transform="ref(svg,14358.8358,-4367.7733)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）拓美会玉越病院,北海道北見市光西町１９５,心療内科　精神科　神経科,,,4" xlink:title="（医）拓美会玉越病院" transform="ref(svg,14387.1856,-4379.3469)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,小林病院,北海道北見市北３条西４-２,内科　心療内科　精神科　消化器科　循環器科　外科　整形外科　脳神経外科　皮膚科　泌尿器科　こう門科　リハビリテーション科　放射線科　麻酔科,,,5" xlink:title="小林病院" transform="ref(svg,14389.1338,-4380.3421)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,オホーツク勤医協北見病院,北海道北見市常盤町５-７-５,内科,,,4" xlink:title="オホーツク勤医協北見病院" transform="ref(svg,14388.9316,-4379.3032)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）耳鼻咽喉科麻生北見病院,北海道北見市東三輪２-５４-８,耳鼻いんこう科　歯科口腔外科,,,4" xlink:title="（医）耳鼻咽喉科麻生北見病院" transform="ref(svg,14385.7806,-4379.9808)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）治恵会北見中央病院,北海道北見市とん田東町３８３,内科　神経内科　消化器内科　外科　整形外科　脳神経外科　リハビリテーション科　麻酔科　乳腺外科,,,4" xlink:title="（医）治恵会北見中央病院" transform="ref(svg,14387.8448,-4379.8307)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,北見北斗病院,北海道北見市北５条西１-６,内科　呼吸器科　消化器科　循環器科　外科,,,5" xlink:title="北見北斗病院" transform="ref(svg,14389.252,-4380.6554)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）公和会中村記念愛成病院,北海道北見市高栄東町４-２０-１,産科　婦人科　小児科,,,4" xlink:title="（医）公和会中村記念愛成病院" transform="ref(svg,14387.4508,-4381.8963)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）潤清会端野病院,北海道北見市端野町１区６６６,内科　精神科　神経科,,,4" xlink:title="（医）潤清会端野病院" transform="ref(svg,14398.0121,-4388.5644)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）ケイ，アイオホーツク海病院,北海道北見市端野町２区７９３-１,内科　リハビリテーション科　放射線科,,,4" xlink:title="（医）ケイ，アイオホーツク海病院" transform="ref(svg,14392.8217,-4386.3898)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,北星脳神経，心血管内科病院,北海道北見市東三輪２-３６-１,神経内科　脳神経外科　リハビリテーション科　麻酔科　循環器内科　泌尿器科　歯科口腔外科　脳神経科　心血管内科,,,4" xlink:title="北星脳神経，心血管内科病院" transform="ref(svg,14385.8918,-4379.8931)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）明生会道東脳神経外科病院,北海道北見市美山町６８-９,脳神経外科　リハビリテーション科,,,4" xlink:title="（医）明生会道東脳神経外科病院" transform="ref(svg,14388.3488,-4382.6778)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,北海道立向陽ヶ丘病院,北海道網走市向陽ケ丘１-５-１,精神科,,,2" xlink:title="北海道立向陽ヶ丘病院" transform="ref(svg,14425.4968,-4402.7234)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,斜里町国民健康保険病院,北海道斜里郡斜里町青葉町４１,内科　小児科　外科　産婦人科,,,2" xlink:title="斜里町国民健康保険病院" transform="ref(svg,14466.3499,-4390.4993)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ＪＡ北海道厚生連網走厚生病院,北海道網走市北６条西１-９,内科　循環器科　小児科　外科　整形外科　皮膚科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　放射線科　麻酔科　消化器科,,,2" xlink:title="ＪＡ北海道厚生連網走厚生病院" transform="ref(svg,14426.3155,-4402.6036)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,小清水赤十字病院,北海道斜里郡小清水町字小清水６４５-１６,内科　消化器科　整形外科　皮膚科　循環器科　眼科　糖尿病内分泌科,,,2" xlink:title="小清水赤十字病院" transform="ref(svg,14446.0298,-4385.5868)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）網走中央病院,北海道網走市南６条東１-７,内科　外科　整形外科　消化器内科,,,4" xlink:title="（医）網走中央病院" transform="ref(svg,14426.8557,-4401.9634)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）朗愛会こが病院,北海道網走市字潮見１５３-１,内科　消化器科　循環器科　外科　整形外科　麻酔科　リハビリテーション科,,,4" xlink:title="（医）朗愛会こが病院" transform="ref(svg,14426.6601,-4399.1488)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）明生会網走脳神経外科，リハビリテーション病院,北海道網走市桂町４-１-７,脳神経外科　リハビリテーション科,,,4" xlink:title="（医）明生会網走脳神経外科，リハビリテーション病院" transform="ref(svg,14426.9724,-4401.4674)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）双心会女満別中央病院,北海道網走郡大空町女満別西４条４-１-２９,内科　消化器科　外科　皮膚科　リハビリテーション科,,,4" xlink:title="（医）双心会女満別中央病院" transform="ref(svg,14417.1436,-4390.9796)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ＪＡ北海道厚生連遠軽厚生病院,北海道紋別郡遠軽町大通北３-１-５,内科　循環器内科　消化器内科　小児科　外科　消化器外科　整形外科　脳神経外科　皮膚科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　リハビリテーション科　放射線科　麻酔科,,,2" xlink:title="ＪＡ北海道厚生連遠軽厚生病院" transform="ref(svg,14352.4068,-4406.2645)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,遠軽共立病院,北海道紋別郡遠軽町大通北１-３,内科　整形外科,,,5" xlink:title="遠軽共立病院" transform="ref(svg,14352.5539,-4405.9678)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）恵池会遠軽学田病院,北海道紋別郡遠軽町岩見通北６-２,内科　精神科　神経科,,,4" xlink:title="（医）恵池会遠軽学田病院" transform="ref(svg,14352.5146,-4406.8004)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）耕仁会曽我病院,北海道紋別郡湧別町中湧別中町８２６-１,内科　外科　整形外科　皮膚科　泌尿器科,,,4" xlink:title="（医）耕仁会曽我病院" transform="ref(svg,14359.1599,-4418.8687)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,十勝いけだ地域医療センター,北海道中川郡池田町字西２条５-２５,内科　小児科　外科　リハビリテーション科,,,2" xlink:title="十勝いけだ地域医療センター" transform="ref(svg,14344.7475,-4292.6347)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,本別町国民健康保険病院,北海道中川郡本別町西美里別６-８,内科　精神科　小児科　外科　眼科　耳鼻いんこう科　整形外科　泌尿器科　脳神経外科,,,2" xlink:title="本別町国民健康保険病院" transform="ref(svg,14359.1997,-4312.2188)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,足寄町国民健康保険病院,北海道足寄郡足寄町南２条３-１,内科　外科　整形外科　婦人科　精神科　眼科　循環器内科　消化器外科　肛門外科,,,2" xlink:title="足寄町国民健康保険病院" transform="ref(svg,14354.9221,-4324.2)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（独）労働者健康福祉機構釧路労災病院,北海道釧路市中園町１３-２３,内科　消化器内科　精神科　神経内科　循環器科　小児科　外科　整形外科　形成外科　脳神経外科　皮膚科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　リハビリテーション科　放射線科　歯科　麻酔科　歯科口腔外科,,,1" xlink:title="（独）労働者健康福祉機構釧路労災病院" transform="ref(svg,14438.5352,-4300.5943)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,市立釧路総合病院,北海道釧路市春湖台１-１２,内科　精神科　神経科　呼吸器内科　消化器内科　心臓血管内科　小児科　外科　整形外科　脳神経外科　心臓血管外科　皮膚科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　放射線科　歯科　歯科口腔外科　麻酔科　リウマチ科　リハビリテーション科　アレルギー科,病理診断科,,2" xlink:title="市立釧路総合病院" transform="ref(svg,14440.348,-4297.703)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,町立厚岸病院,北海道厚岸郡厚岸町住の江１-１,内科　小児科　外科　整形外科　脳神経外科,,,2" xlink:title="町立厚岸病院" transform="ref(svg,14484.6359,-4305.7425)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,総合病院釧路赤十字病院,北海道釧路市新栄町２１-１４,内科　精神科　消化器外科　小児科　外科　整形外科　皮膚科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　リハビリテーション科　放射線科　歯科　矯正歯科　歯科口腔外科　麻酔科　病理診断科,,,2" xlink:title="総合病院釧路赤十字病院" transform="ref(svg,14438.1188,-4300.1694)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）太平洋記念みなみ病院,北海道釧路市春採７-９-９,内科　呼吸器内科　消化器内科　整形外科　リハビリテーション科　循環器内科　婦人科,,,4" xlink:title="（医）太平洋記念みなみ病院" transform="ref(svg,14441.886,-4297.8365)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）三慈会釧路三慈会病院,北海道釧路市幣舞町４-３０,内科　整形外科　外科　麻酔科　循環器内科　ペインクリニック外科,,,4" xlink:title="（医）三慈会釧路三慈会病院" transform="ref(svg,14438.6537,-4297.8512)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,道東勤医協釧路協立病院,北海道釧路市治水町３-１４,内科　リウマチ科　外科　整形外科　麻酔科　リハビリテーション科,,,4" xlink:title="道東勤医協釧路協立病院" transform="ref(svg,14437.1542,-4300.8512)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）扶恵会釧路中央病院,北海道釧路市黒金町８-３,内科　消化器科　リハビリテーション科,,,4" xlink:title="（医）扶恵会釧路中央病院" transform="ref(svg,14438.2471,-4298.5781)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,つるい養生邑病院,北海道阿寒郡鶴居村字雪裡原野北２２線西１１,内科　精神科　神経科,,,4" xlink:title="つるい養生邑病院" transform="ref(svg,14432.6291,-4327.1768)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）優心会釧路優心病院,北海道釧路市大楽毛４-１-１,精神科　神経科,,,4" xlink:title="（医）優心会釧路優心病院" transform="ref(svg,14427.2239,-4301.0517)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）藤花会釧路谷藤病院,北海道釧路市双葉町３-１５,内科　外科,,,4" xlink:title="（医）藤花会釧路谷藤病院" transform="ref(svg,14438.967,-4299.5913)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）清水桜が丘病院,北海道釧路市桜ケ岡８-１-２,精神科　神経科,,,4" xlink:title="（医）清水桜が丘病院" transform="ref(svg,14443.6655,-4297.017)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）孝仁会星が浦病院,北海道釧路市星が浦大通３-９-１３,神経内科　循環器内科　脳神経外科　呼吸器外科　心臓血管外科　整形外科　放射線科　リハビリテーション科,,,4" xlink:title="（医）孝仁会星が浦病院" transform="ref(svg,14431.6123,-4301.5884)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）美生会釧路第一病院,北海道釧路市鳥取大通４-１１-１０,内科　外科　整形外科　皮膚科,,,4" xlink:title="（医）美生会釧路第一病院" transform="ref(svg,14435.0999,-4301.3666)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）敬愛会白樺台病院,北海道釧路市白樺台２-２５-１,内科　消化器内科　循環器内科,,,4" xlink:title="（医）敬愛会白樺台病院" transform="ref(svg,14444.5733,-4295.9975)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）東北海道病院,北海道釧路市若竹町７-１９,リウマチ科　整形外科　リハビリテーション科　麻酔科　内科,,,4" xlink:title="（医）東北海道病院" transform="ref(svg,14437.4831,-4299.844)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）豊慈会釧路北病院,北海道釧路市昭和１９０-１０５,内科　リハビリテーション科　眼科,,,4" xlink:title="（医）豊慈会釧路北病院" transform="ref(svg,14435.6563,-4303.4189)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,釧央脳神経外科病院,北海道釧路市豊川町１-９,脳神経外科,,,4" xlink:title="釧央脳神経外科病院" transform="ref(svg,14438.0063,-4300.7088)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,標茶町立病院,北海道川上郡標茶町開運４-１,内科　小児科　外科　産婦人科　リハビリテーション科,,,2" xlink:title="標茶町立病院" transform="ref(svg,14459.8032,-4330.0213)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）共生会川湯の森病院,北海道川上郡弟子屈町川湯温泉４-８-３０,内科　心療内科　精神科,,,4" xlink:title="（医）共生会川湯の森病院" transform="ref(svg,14443.666,-4364.1505)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,ＪＡ北海道厚生連摩周厚生病院,北海道川上郡弟子屈町泉２-３-１,内科　外科　整形外科　リハビリテーション科　眼科　リウマチ科　小児科　皮膚科,,,2" xlink:title="ＪＡ北海道厚生連摩周厚生病院" transform="ref(svg,14446.3233,-4348.1607)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）孝仁会釧路孝仁会記念病院,北海道釧路市愛国１９１-２１２,脳神経外科　整形外科　心臓血管外科　循環器内科　内科　呼吸器内科　外科　放射線科　麻酔科　リハビリテーション科　泌尿器科,,,4" xlink:title="（医）孝仁会釧路孝仁会記念病院" transform="ref(svg,14439.9071,-4302.8726)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,市立根室病院,北海道根室市有磯町１-２,内科　呼吸器内科　消化器内科　循環器内科　消化器外科　小児科　外科　整形外科　脳神経外科　心臓血管外科　皮膚科　泌尿器科　産婦人科　眼科　耳鼻いんこう科　リハビリテーション科　麻酔科　放射線科,,,2" xlink:title="市立根室病院" transform="ref(svg,14558.6668,-4333.4067)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,根室共立病院,北海道根室市花園町４-１,内科　精神科　神経科　循環器科,,,5" xlink:title="根室共立病院" transform="ref(svg,14556.9902,-4332.6283)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,江村精神科内科病院,北海道根室市有磯町２-２５,内科　精神科,,,4" xlink:title="江村精神科内科病院" transform="ref(svg,14558.9784,-4333.2851)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,町立中標津病院,北海道標津郡中標津町西１０条南９-１-１,内科　精神科　循環器科　小児科　外科　整形外科　産婦人科　眼科　耳鼻いんこう科　皮膚科　泌尿器科　リハビリテーション科　放射線科　麻酔科,,,2" xlink:title="町立中標津病院" transform="ref(svg,14497.2106,-4353.6513)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,標津町国民健康保険標津病院,北海道標津郡標津町北１条西５-６-１,内科　外科,,,2" xlink:title="標津町国民健康保険標津病院" transform="ref(svg,14512.1006,-4365.9223)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,町立別海病院,北海道野付郡別海町別海西本町１０３-９,内科　精神科　心療内科　小児科　外科　産婦人科　耳鼻いんこう科　眼科　皮膚科　リハビリテーション科,,,2" xlink:title="町立別海病院" transform="ref(svg,14512.2491,-4339.1317)" x="0" y="0"/>
+<use xlink:href="#p0" content="1,（医）樹恵会石田病院,北海道標津郡中標津町りんどう町５-６,内科　リハビリテーション科,,,4" xlink:title="（医）樹恵会石田病院" transform="ref(svg,14492.7071,-4354.428)" x="0" y="0"/>
+</g>
+</svg>

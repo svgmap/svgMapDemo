@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13974.609375 -3550.78125 17.578125 17.578125" go:dataArea="13974.609375 -3550.78125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,飯島歯科医院,千葉県富津市大堀１-９-１２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="飯島歯科医院" transform="ref(svg,13985.7552,-3533.3739)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,内山歯科医院,千葉県君津市人見２-１９-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="内山歯科医院" transform="ref(svg,13987.5993,-3533.2763)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大澤歯科医院,千葉県富津市大堀１４９５,歯科,,,9" xlink:title="大澤歯科医院" transform="ref(svg,13986.2005,-3533.5717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小沢歯科医院,千葉県君津市西坂田３-８-９,歯科,,,9" xlink:title="小沢歯科医院" transform="ref(svg,13988.3536,-3533.8439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鍛治口歯科医院,千葉県木更津市畑沢２-３７-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="鍛治口歯科医院" transform="ref(svg,13990.3579,-3534.4694)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かずさ歯科クリニック,千葉県木更津市貝渕２-１０-１７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かずさ歯科クリニック" transform="ref(svg,13992.1187,-3537.4866)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわさき歯科,千葉県君津市東坂田２-６-１４,歯科　小児歯科,,,9" xlink:title="かわさき歯科" transform="ref(svg,13989.2642,-3533.5094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木更津きらら歯科,千葉県木更津市築地１-４,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="木更津きらら歯科" transform="ref(svg,13990.8434,-3536.5667)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）かずさ大伸会君津グリーン歯科医院,千葉県君津市東坂田１-６-１君津ファーストビル１０２,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）かずさ大伸会君津グリーン歯科医院" transform="ref(svg,13989.9016,-3533.3418)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,君津歯科医院,千葉県君津市西坂田１-８-２４,歯科　小児歯科,,,9" xlink:title="君津歯科医院" transform="ref(svg,13988.7801,-3533.6058)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,けいひろ歯科クリニック,千葉県君津市東坂田２-６-１６サンプラザ１階,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="けいひろ歯科クリニック" transform="ref(svg,13989.2964,-3533.5034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,港南台歯科,千葉県木更津市港南台３-４-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="港南台歯科" transform="ref(svg,13991.1039,-3535.0671)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小竹歯科医院,千葉県木更津市新田３-２-５,歯科,,,9" xlink:title="小竹歯科医院" transform="ref(svg,13991.7002,-3537.8759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐久間歯科医院,千葉県君津市東坂田１-５-２３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="佐久間歯科医院" transform="ref(svg,13989.7491,-3533.4083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しいづ歯科医院,千葉県富津市大堀４-５-１５,歯科,,,9" xlink:title="しいづ歯科医院" transform="ref(svg,13984.8548,-3533.3208)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,須藤歯科医院,千葉県木更津市畑沢南４-１３-１５,歯科　小児歯科,,,9" xlink:title="須藤歯科医院" transform="ref(svg,13990.6147,-3533.8824)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,つるおか歯科医院,千葉県木更津市桜井５７１,歯科,,,9" xlink:title="つるおか歯科医院" transform="ref(svg,13991.6134,-3536.3981)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,那須歯科医院,千葉県君津市中野５-１４-１２,歯科,,,9" xlink:title="那須歯科医院" transform="ref(svg,13988.6224,-3533.4819)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,畑沢南歯科クリニック,千葉県木更津市畑沢南６-１-３,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="畑沢南歯科クリニック" transform="ref(svg,13990.0102,-3534.2061)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,千葉県君津市中野４-１-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="原歯科医院" transform="ref(svg,13989.4044,-3533.3436)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ビー・アイ歯科診療所,千葉県君津市君津１君津健康センター１階東側,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ビー・アイ歯科診療所" transform="ref(svg,13987.3957,-3534.6417)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平塚歯科医院,千葉県木更津市中央２-１２-１０,歯科　矯正歯科,,,9" xlink:title="平塚歯科医院" transform="ref(svg,13992.1051,-3538.6052)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふしい歯科医院,千葉県木更津市桜井新町５-２-１４,歯科　矯正歯科　小児歯科,,,9" xlink:title="ふしい歯科医院" transform="ref(svg,13991.9924,-3536.6088)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）青空会渡辺歯科医院,千葉県木更津市中央２-３-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）青空会渡辺歯科医院" transform="ref(svg,13992.0668,-3538.2702)" x="0" y="0"/>
+</g>
+</svg>

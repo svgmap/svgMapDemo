@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13500.0 -4500.0 562.5 562.5" go:dataArea="13500.0 -4500.0 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,松前町立江良歯科診療所,北海道松前郡松前町字江良９０２-２,歯科,,,9" xlink:title="松前町立江良歯科診療所" transform="ref(svg,13999.2337,-4154.9434)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口歯科医院,北海道松前郡松前町字福山３７０,歯科,,,9" xlink:title="田口歯科医院" transform="ref(svg,14011.3432,-4143.6056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささもり歯科医院,北海道松前郡松前町字松城７０-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="ささもり歯科医院" transform="ref(svg,14010.7531,-4142.8422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）永井歯科医院松前診療所,北海道松前郡松前町字松城６３-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）永井歯科医院松前診療所" transform="ref(svg,14010.9604,-4142.8827)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富山歯科医院,北海道松前郡福島町字三岳４５-１３,歯科,,,9" xlink:title="富山歯科医院" transform="ref(svg,14025.5735,-4148.7433)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長谷川歯科クリニック,北海道松前郡福島町字吉野５１９-７,歯科,,,9" xlink:title="長谷川歯科クリニック" transform="ref(svg,14023.0043,-4143.5877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふくしま歯科診療室,北海道松前郡福島町字福島２７８-２,歯科　小児歯科,,,9" xlink:title="ふくしま歯科診療室" transform="ref(svg,14025.4794,-4148.162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西根歯科医院,北海道上磯郡知内町字重内４-３０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="西根歯科医院" transform="ref(svg,14042.5152,-4160.4215)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,知内町歯科診療所,北海道上磯郡知内町字重内３１-１３０,歯科,,,9" xlink:title="知内町歯科診療所" transform="ref(svg,14042.0113,-4160.1362)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおた歯科医院,北海道上磯郡木古内町字本町３５-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="おおた歯科医院" transform="ref(svg,14043.8859,-4167.8688)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あひこ歯科クリニック,北海道上磯郡木古内町字本町５５１-４,歯科,,,9" xlink:title="あひこ歯科クリニック" transform="ref(svg,14043.3596,-4167.6186)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金丸歯科クリニック,北海道茅部郡森町字森川町２８１-５６,歯科　小児歯科,,,9" xlink:title="金丸歯科クリニック" transform="ref(svg,14057.9004,-4209.5355)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山野井歯科医院,北海道茅部郡森町字森川町２-１０,歯科,,,9" xlink:title="山野井歯科医院" transform="ref(svg,14058.0451,-4210.6111)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ときわ歯科医院,北海道茅部郡森町字常盤町８０-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ときわ歯科医院" transform="ref(svg,14058.559,-4210.3679)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）いわしま歯科医院,北海道茅部郡森町字御幸町１１６,歯科　小児歯科,,,9" xlink:title="（医）いわしま歯科医院" transform="ref(svg,14057.6876,-4210.6416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科イワイデンティックス,北海道茅部郡森町字本町４７-１,歯科　歯科口腔外科,,,9" xlink:title="歯科イワイデンティックス" transform="ref(svg,14057.1038,-4210.9028)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）信樹会向歯科診療所森クリニック,北海道茅部郡森町字森川町１-２,歯科　小児歯科,,,9" xlink:title="（医）信樹会向歯科診療所森クリニック" transform="ref(svg,14057.9692,-4210.6209)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,向歯科医院,北海道茅部郡森町字御幸町９-１３,不明,,,9" xlink:title="向歯科医院" transform="ref(svg,14057.6708,-4210.8209)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大沼歯科医院,北海道檜山郡江差町字本町１４７,歯科,,,9" xlink:title="大沼歯科医院" transform="ref(svg,14012.7064,-4186.6463)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えさしホワイト歯科クリニック,北海道檜山郡江差町字新地町１３１-１１,歯科,,,9" xlink:title="えさしホワイト歯科クリニック" transform="ref(svg,14012.9719,-4186.2828)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）京会増永歯科医院,北海道檜山郡江差町字新地町５７,歯科,,,9" xlink:title="（医）京会増永歯科医院" transform="ref(svg,14012.798,-4186.3888)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和崎歯科医院,北海道檜山郡江差町字茂尻町１４８,歯科,,,9" xlink:title="和崎歯科医院" transform="ref(svg,14012.7484,-4186.171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和み歯科,北海道檜山郡江差町字中歌町２４-１,歯科,,,9" xlink:title="和み歯科" transform="ref(svg,14012.8257,-4186.8783)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩坂歯科医院,北海道檜山郡江差町字中歌町８６-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="岩坂歯科医院" transform="ref(svg,14012.827,-4186.8778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上ノ国町立歯科診療所,北海道檜山郡上ノ国町字大留１５２-１,歯科,,,9" xlink:title="上ノ国町立歯科診療所" transform="ref(svg,14012.3128,-4180.4527)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上ノ国町立石崎歯科診療所,北海道檜山郡上ノ国町字石崎２０６,歯科,,,9" xlink:title="上ノ国町立石崎歯科診療所" transform="ref(svg,14002.6252,-4170.574)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小山歯科医院,北海道檜山郡厚沢部町緑町１６２-２７,歯科,,,9" xlink:title="小山歯科医院" transform="ref(svg,14021.2247,-4191.8023)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,乙部町立歯科診療所,北海道爾志郡乙部町字緑町１９９-１,歯科,,,9" xlink:title="乙部町立歯科診療所" transform="ref(svg,14013.7998,-4197.2201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどり町歯科医院,北海道爾志郡乙部町字緑町３８０-１,歯科,,,9" xlink:title="みどり町歯科医院" transform="ref(svg,14013.4796,-4196.8199)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥尻町国民健康保険青苗歯科診療所,北海道奥尻郡奥尻町字青苗４２４,歯科,,,9" xlink:title="奥尻町国民健康保険青苗歯科診療所" transform="ref(svg,13944.7824,-4205.9866)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科クリニック,北海道二海郡八雲町本町８９,歯科　小児歯科,,,9" xlink:title="清水歯科クリニック" transform="ref(svg,14027.0611,-4225.6212)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）祐和会はねだ歯科医院,北海道二海郡八雲町本町２３４,歯科　小児歯科,,,9" xlink:title="（医）祐和会はねだ歯科医院" transform="ref(svg,14027.1205,-4225.6044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）幸仁会ファミリー歯科,北海道二海郡八雲町富士見町９８-１,歯科,,,9" xlink:title="（医）幸仁会ファミリー歯科" transform="ref(svg,14027.4981,-4225.5462)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おとしべ歯科クリニック,北海道二海郡八雲町落部３８,歯科,,,9" xlink:title="おとしべ歯科クリニック" transform="ref(svg,14042.2963,-4219.0101)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヤクモ歯科クリニック,北海道二海郡八雲町本町１７５,歯科　小児歯科　矯正歯科,,,9" xlink:title="ヤクモ歯科クリニック" transform="ref(svg,14027.6453,-4225.2831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,茂木歯科医院,北海道二海郡八雲町末広町３９,歯科　小児歯科　矯正歯科,,,9" xlink:title="茂木歯科医院" transform="ref(svg,14026.7934,-4225.6099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,町立熊石歯科診療所,北海道二海郡八雲町熊石雲石町１５５-１,歯科,,,9" xlink:title="町立熊石歯科診療所" transform="ref(svg,13997.9776,-4213.0348)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やぎ歯科医院,北海道山越郡長万部町字長万部４１１-３０９,歯科,,,9" xlink:title="やぎ歯科医院" transform="ref(svg,14037.3432,-4251.5852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）幸仁会ケン歯科,北海道山越郡長万部町字長万部４３１-４７,歯科,,,9" xlink:title="（医）幸仁会ケン歯科" transform="ref(svg,14036.7537,-4250.6808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あやめ歯科,北海道山越郡長万部町字長万部１６４,歯科　小児歯科,,,9" xlink:title="あやめ歯科" transform="ref(svg,14037.9865,-4251.6464)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きたひやま歯科クリニック,北海道久遠郡せたな町北檜山区北檜山１５７-１０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="きたひやま歯科クリニック" transform="ref(svg,13987.8973,-4241.1783)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せたなホワイト歯科,北海道久遠郡せたな町北檜山区北檜山２７３-１,歯科　小児歯科,,,9" xlink:title="せたなホワイト歯科" transform="ref(svg,13987.7461,-4241.3569)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ねい歯科医院,北海道久遠郡せたな町瀬棚区本町４９１,歯科,,,9" xlink:title="ねい歯科医院" transform="ref(svg,13985.2298,-4245.1913)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せたな町立国保病院瀬棚歯科診療所,北海道久遠郡せたな町瀬棚区本町８５０-４,歯科,,,9" xlink:title="せたな町立国保病院瀬棚歯科診療所" transform="ref(svg,13985.1783,-4244.9157)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せたな町大成歯科診療所,北海道久遠郡せたな町大成区都３３０,歯科,,,9" xlink:title="せたな町大成歯科診療所" transform="ref(svg,13981.8381,-4222.7013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科クリニック,北海道瀬棚郡今金町字今金１１９-５,歯科　小児歯科,,,9" xlink:title="鈴木歯科クリニック" transform="ref(svg,14001.6325,-4242.8478)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いまかね歯科クリニック,北海道瀬棚郡今金町字今金６３-７,歯科,,,9" xlink:title="いまかね歯科クリニック" transform="ref(svg,14001.055,-4243.0004)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）幸仁会今金役場前歯科,北海道瀬棚郡今金町字今金４８-８,歯科,,,9" xlink:title="（医）幸仁会今金役場前歯科" transform="ref(svg,14000.8769,-4242.8658)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）白水会寿都歯科医院,北海道寿都郡寿都町字渡島町７２-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）白水会寿都歯科医院" transform="ref(svg,14022.9989,-4279.2746)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,星歯科医院,北海道寿都郡寿都町字新栄町１７５-１,歯科　小児歯科,,,9" xlink:title="星歯科医院" transform="ref(svg,14022.5192,-4279.6005)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ぶなの森レインボー歯科クリニック,北海道寿都郡黒松内町字黒松内２９０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ぶなの森レインボー歯科クリニック" transform="ref(svg,14030.6209,-4266.7432)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蘭越歯科診療所,北海道磯谷郡蘭越町蘭越町２５３,歯科,,,9" xlink:title="蘭越歯科診療所" transform="ref(svg,14052.9264,-4280.772)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまだ歯科医院,北海道磯谷郡蘭越町蘭越町１７１-４,歯科　小児歯科,,,9" xlink:title="やまだ歯科医院" transform="ref(svg,14052.5681,-4280.469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,積丹町歯科診療所,北海道積丹郡積丹町大字美国町字大沢２５０-１,歯科,,,9" xlink:title="積丹町歯科診療所" transform="ref(svg,14059.6271,-4329.4601)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,共和歯科診療所,北海道岩内郡共和町南幌似３０-７,歯科,,,9" xlink:title="共和歯科診療所" transform="ref(svg,14061.3866,-4298.0945)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恵歯会ファミリー歯科クリニック,北海道岩内郡共和町前田１３６,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）恵歯会ファミリー歯科クリニック" transform="ref(svg,14057.1591,-4298.2214)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）中村歯科医院,北海道岩内郡共和町梨野舞納１８-２３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）中村歯科医院" transform="ref(svg,14053.7879,-4298.218)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）井筒歯科医院,北海道岩内郡岩内町字高台３１５,歯科,,,9" xlink:title="（医）井筒歯科医院" transform="ref(svg,14051.4486,-4297.6988)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ふくろう会伊藤歯科医院,北海道岩内郡岩内町字清住６-３,歯科　小児歯科,,,9" xlink:title="（医）ふくろう会伊藤歯科医院" transform="ref(svg,14050.6415,-4298.071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡崎歯科医院,北海道岩内郡岩内町字高台１４８-１,歯科,,,9" xlink:title="岡崎歯科医院" transform="ref(svg,14051.2098,-4298.0009)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒田歯科医院,北海道岩内郡岩内町字万代４-３,歯科,,,9" xlink:title="黒田歯科医院" transform="ref(svg,14051.2533,-4298.1345)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしざき歯科医院,北海道岩内郡岩内町字高台１５０,歯科,,,9" xlink:title="にしざき歯科医院" transform="ref(svg,14051.2323,-4297.9495)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水野歯科医院,北海道岩内郡岩内町字万代１７-１２,歯科,,,9" xlink:title="水野歯科医院" transform="ref(svg,14051.7677,-4298.2965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みずの歯科医院,北海道岩内郡岩内町字栄１-７,歯科,,,9" xlink:title="みずの歯科医院" transform="ref(svg,14051.8069,-4298.1477)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,青山歯科クリニック,北海道岩内郡岩内町字東山１３３-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="青山歯科クリニック" transform="ref(svg,14052.5982,-4297.9324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,泊村立歯科診療所,北海道古宇郡泊村大字泊村５３-３,歯科,,,9" xlink:title="泊村立歯科診療所" transform="ref(svg,14048.9845,-4307.1412)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神恵内村歯科診療所,北海道古宇郡神恵内村大字神恵内村１７１-２,歯科,,,9" xlink:title="神恵内村歯科診療所" transform="ref(svg,14043.3023,-4314.3577)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊浦町国民健康保険病院附属礼文華診療所,北海道虻田郡豊浦町字礼文華１５６-２６,内科,,,9" xlink:title="豊浦町国民健康保険病院附属礼文華診療所" transform="ref(svg,14059.5507,-4257.7706)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,住吉歯科医院,青森県東津軽郡今別町大字今別字今別８４,歯科　小児歯科,,,9" xlink:title="住吉歯科医院" transform="ref(svg,14048.0585,-4118.2329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｉ歯科,青森県弘前市大字富士見町７-１,歯科,,,9" xlink:title="Ｉ歯科" transform="ref(svg,14047.123,-4059.1181)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あおば歯科医院,青森県弘前市大字桔梗野４-９-２６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あおば歯科医院" transform="ref(svg,14046.1807,-4058.6989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あかね歯科クリニック,青森県弘前市大字城西４-７-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="あかね歯科クリニック" transform="ref(svg,14045.0493,-4060.193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤石歯科医院,青森県弘前市大字上瓦ヶ町１７-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="赤石歯科医院" transform="ref(svg,14047.7127,-4059.9778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,秋元歯科クリニック,青森県弘前市大字大開２-１-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="秋元歯科クリニック" transform="ref(svg,14044.7633,-4057.5207)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,明本歯科医院,青森県弘前市大字大町３-４-９,歯科　小児歯科,,,9" xlink:title="明本歯科医院" transform="ref(svg,14047.9613,-4059.6329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あべ歯科医院,青森県弘前市大字青山３-８-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="あべ歯科医院" transform="ref(svg,14048.0777,-4062.2341)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石岡歯科医院,青森県弘前市大字松森町７５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="石岡歯科医院" transform="ref(svg,14048.0629,-4059.2503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いちむら歯科医院,青森県弘前市大字取上２-１６-２,歯科　小児歯科,,,9" xlink:title="いちむら歯科医院" transform="ref(svg,14048.3078,-4058.7053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）審美会梅原歯科医院,青森県弘前市大字土手町１２３-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）審美会梅原歯科医院" transform="ref(svg,14047.4886,-4059.877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,梅村歯科クリニック,青森県弘前市大字石渡１-１-３,歯科　矯正歯科,,,9" xlink:title="梅村歯科クリニック" transform="ref(svg,14045.433,-4062.6357)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,駅前歯科クリニック,青森県弘前市大字駅前１-４-２,歯科,,,9" xlink:title="駅前歯科クリニック" transform="ref(svg,14048.2947,-4060.1986)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,遠藤歯科,青森県弘前市大字代官町７５-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="遠藤歯科" transform="ref(svg,14047.949,-4060.2395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大手門歯科,青森県弘前市大字元大工町５０-５,歯科　小児歯科,,,9" xlink:title="大手門歯科" transform="ref(svg,14046.7754,-4060.1777)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおつ歯科クリニック,青森県弘前市大字山王町２-６,歯科,,,9" xlink:title="おおつ歯科クリニック" transform="ref(svg,14047.4369,-4060.9398)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおしみず歯科クリニック,青森県弘前市大字大清水１-１１,歯科　小児歯科,,,9" xlink:title="おおしみず歯科クリニック" transform="ref(svg,14049.6584,-4058.1918)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大開歯科医院,青森県弘前市大字大開１-８-１,歯科　小児歯科,,,9" xlink:title="大開歯科医院" transform="ref(svg,14044.646,-4057.7132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大町歯科医院,青森県弘前市大字大町３-１０-４,歯科,,,9" xlink:title="大町歯科医院" transform="ref(svg,14047.9639,-4059.7083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,オリオン歯科クリニック,青森県弘前市大字元寺町３５,歯科,,,9" xlink:title="オリオン歯科クリニック" transform="ref(svg,14047.0072,-4060.4465)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かなもり歯科,青森県弘前市大字中野５-１２-２７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かなもり歯科" transform="ref(svg,14047.516,-4057.7003)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一歩デンタル,青森県弘前市大字早稲田１-１-４,歯科　小児歯科　口腔外科,,,9" xlink:title="一歩デンタル" transform="ref(svg,14051.342,-4060.5475)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川崎歯科,青森県弘前市大字紙漉町２-１２,歯科,,,9" xlink:title="川崎歯科" transform="ref(svg,14047.201,-4059.5107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川村歯科医院,青森県弘前市大字野田１-６-２,歯科,,,9" xlink:title="川村歯科医院" transform="ref(svg,14048.0815,-4060.8685)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわむら歯科医院,青森県弘前市大字茂森町１７４-４,歯科,,,9" xlink:title="かわむら歯科医院" transform="ref(svg,14045.9735,-4059.7186)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桔梗野歯科,青森県弘前市大字桔梗野２-５-２３,歯科　小児歯科　矯正歯科,,,9" xlink:title="桔梗野歯科" transform="ref(svg,14046.4239,-4059.1673)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊地歯科医院,青森県弘前市大字中野１-１１-６,歯科　矯正歯科　歯科口腔外科　小児歯科,,,9" xlink:title="菊地歯科医院" transform="ref(svg,14047.0991,-4058.445)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木村歯科医院,青森県弘前市大字品川町５９-１,歯科,,,9" xlink:title="木村歯科医院" transform="ref(svg,14047.6494,-4059.5621)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,矯正歯科じん歯科クリニック,青森県弘前市大字大町２-１０-３,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="矯正歯科じん歯科クリニック" transform="ref(svg,14048.241,-4059.5139)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,楠美歯科クリニック,青森県弘前市大字中野２-６-２１,歯科,,,9" xlink:title="楠美歯科クリニック" transform="ref(svg,14047.5027,-4058.0883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くどう歯科,青森県弘前市大字茂森町１２１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くどう歯科" transform="ref(svg,14046.0377,-4059.8776)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,工藤歯科医院,青森県弘前市大字石川字家岸１０-６,歯科,,,9" xlink:title="工藤歯科医院" transform="ref(svg,14054.3286,-4055.2011)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久米田歯科医院,青森県弘前市神田５-７-１,歯科,,,9" xlink:title="久米田歯科医院" transform="ref(svg,14049.2491,-4062.6239)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くるみ歯科,青森県弘前市末広１-３-１,歯科,,,9" xlink:title="くるみ歯科" transform="ref(svg,14049.9506,-4060.3831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,弘南歯科医院,青森県弘前市大字川先４-１２-２４,歯科　小児歯科　矯正歯科,,,9" xlink:title="弘南歯科医院" transform="ref(svg,14048.7921,-4059.2131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小泉歯科医院,青森県弘前市大字高屋字本宮４８０-４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="小泉歯科医院" transform="ref(svg,14042.18,-4061.7894)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小杉デンタルクリニック,青森県弘前市大字早稲田２-１-２,歯科,,,9" xlink:title="小杉デンタルクリニック" transform="ref(svg,14051.3304,-4060.3401)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サカイ歯科,青森県弘前市大字黒滝字二ノ川瀬１-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="サカイ歯科" transform="ref(svg,14040.6129,-4058.9402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくらデンタルクリニック,青森県弘前市大字城東北３-５-１２,歯科　小児歯科　矯正歯科,,,9" xlink:title="さくらデンタルクリニック" transform="ref(svg,14049.4155,-4060.5695)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹村歯科医院,青森県弘前市大字城東中央４-３-３１,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="笹村歯科医院" transform="ref(svg,14049.5583,-4060.0488)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,青森県弘前市大字中野１-９-１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14047.1844,-4058.2532)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,青森県弘前市大字大浦町４,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14046.887,-4061.0384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科診療所,青森県弘前市大字賀田字大浦８１-１１,歯科,,,9" xlink:title="佐藤歯科診療所" transform="ref(svg,14042.2053,-4061.6769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三和歯科クリニック,青森県弘前市大字中野４-６-１０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="三和歯科クリニック" transform="ref(svg,14047.8078,-4057.4264)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柴田歯科医院,青森県弘前市大字賀田１-２０-２,歯科,,,9" xlink:title="柴田歯科医院" transform="ref(svg,14042.146,-4061.7079)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,城西歯科クリニック,青森県弘前市大字五十石町２,歯科　小児歯科　矯正歯科,,,9" xlink:title="城西歯科クリニック" transform="ref(svg,14045.8608,-4060.7686)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しろと歯科医院,青森県弘前市大字川先１-２-１,歯科　小児歯科,,,9" xlink:title="しろと歯科医院" transform="ref(svg,14049.4307,-4058.9679)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科クリニック,青森県弘前市大字泉野２-１８-６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="杉山歯科クリニック" transform="ref(svg,14049.3964,-4057.2961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,スクエア歯科,青森県弘前市大字富田３-１０-２１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="スクエア歯科" transform="ref(svg,14047.4486,-4059.1993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清歯科医院,青森県弘前市大字青山５-２７-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="清歯科医院" transform="ref(svg,14048.0732,-4062.7193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関歯科医院,青森県弘前市大字和泉１-４-７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="関歯科医院" transform="ref(svg,14049.3447,-4060.9524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,相田歯科医院,青森県弘前市大字文京町１４,歯科　小児歯科　矯正歯科,,,9" xlink:title="相田歯科医院" transform="ref(svg,14047.3962,-4058.4828)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,相馬歯科医院,青森県弘前市大字富田２-９-３,歯科,,,9" xlink:title="相馬歯科医院" transform="ref(svg,14047.4655,-4059.3827)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,副島歯科医院,青森県弘前市大字稔町８-４,歯科,,,9" xlink:title="副島歯科医院" transform="ref(svg,14046.9207,-4058.5329)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ソレイユ歯科医院,青森県弘前市大字新町１６２-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ソレイユ歯科医院" transform="ref(svg,14045.5809,-4060.6885)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,第一歯科診療所,青森県弘前市大字城東中央３-１-２５,歯科　小児歯科　矯正歯科,,,9" xlink:title="第一歯科診療所" transform="ref(svg,14049.1772,-4059.9838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,第一ファミリー歯科,青森県弘前市大字城東中央３-１０-１９,歯科　小児歯科　矯正歯科,,,9" xlink:title="第一ファミリー歯科" transform="ref(svg,14049.2463,-4060.0036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,代官町クリニック吉田歯科,青森県弘前市大字代官町１０８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="代官町クリニック吉田歯科" transform="ref(svg,14047.9884,-4060.4555)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかち歯科・小児歯科医院,青森県弘前市大字向外瀬４-１４-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="たかち歯科・小児歯科医院" transform="ref(svg,14047.5728,-4062.7485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口矯正歯科,青森県弘前市大字徳田町３６,矯正歯科,,,9" xlink:title="田口矯正歯科" transform="ref(svg,14047.582,-4060.5501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹沢歯科クリニック,青森県弘前市大字松原西３-１-１,歯科　小児歯科　矯正歯科,,,9" xlink:title="竹沢歯科クリニック" transform="ref(svg,14048.108,-4056.8349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,玉山歯科医院,青森県弘前市大字駒越町２２-１,歯科　小児歯科,,,9" xlink:title="玉山歯科医院" transform="ref(svg,14045.4261,-4060.7778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中畑歯科診療所,青森県弘前市大字山道町１４-３,歯科　矯正歯科,,,9" xlink:title="中畑歯科診療所" transform="ref(svg,14047.36,-4059.8916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,青森県弘前市大字住吉町８-６,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,14047.3938,-4059.7399)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中川歯科医院,青森県弘前市大字松森町１５６,歯科,,,9" xlink:title="中川歯科医院" transform="ref(svg,14048.2951,-4058.9969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかむら歯科医院,青森県弘前市大字末広４-２-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="なかむら歯科医院" transform="ref(svg,14050.2357,-4060.7095)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかざわ歯科,青森県弘前市大字北川端町３,歯科,,,9" xlink:title="なかざわ歯科" transform="ref(svg,14047.2492,-4060.0795)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科クリニック,青森県弘前市大字八幡町２-５-５,歯科　小児歯科,,,9" xlink:title="成田歯科クリニック" transform="ref(svg,14048.2183,-4061.6256)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なるみ歯科,青森県弘前市大字大清水４-８-６,歯科　小児歯科,,,9" xlink:title="なるみ歯科" transform="ref(svg,14048.9298,-4057.7585)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鳴海デンタルクリニック,青森県弘前市大字城東中央３-１０-１３,歯科　小児歯科,,,9" xlink:title="鳴海デンタルクリニック" transform="ref(svg,14049.2241,-4060.0772)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,野村歯科医院,青森県弘前市大字西川岸町１,歯科　小児歯科,,,9" xlink:title="野村歯科医院" transform="ref(svg,14047.4734,-4060.1426)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,波多野歯科医院,青森県弘前市大字徳田町５,歯科,,,9" xlink:title="波多野歯科医院" transform="ref(svg,14047.3992,-4060.3427)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浜の町歯科クリニック,青森県弘前市大字浜の町東３-３-５,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="浜の町歯科クリニック" transform="ref(svg,14045.6763,-4062.4478)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科クリニック,青森県弘前市大字早稲田２-１２-１４,歯科　小児歯科　矯正歯科,,,9" xlink:title="ひまわり歯科クリニック" transform="ref(svg,14051.0027,-4060.1915)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平山歯科診療所,青森県弘前市大字本町８６-２,歯科,,,9" xlink:title="平山歯科診療所" transform="ref(svg,14046.8718,-4060.1006)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平山歯科クリニック,青森県弘前市大字宮園５-３５-３,歯科,,,9" xlink:title="平山歯科クリニック" transform="ref(svg,14047.6041,-4062.1126)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広瀬矯正歯科クリニック,青森県弘前市大字代官町４１甘栄堂ビル５Ｆ,矯正歯科,,,9" xlink:title="広瀬矯正歯科クリニック" transform="ref(svg,14047.8481,-4060.0257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,弘前インター歯科クリニック,青森県弘前市大字石川字平岡１５７-１,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="弘前インター歯科クリニック" transform="ref(svg,14055.104,-4055.1777)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,弘前歯科中央クリニック,青森県弘前市大字城東３-６-１,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="弘前歯科中央クリニック" transform="ref(svg,14049.2368,-4059.6215)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふくい歯科口腔外科クリニック,青森県弘前市大字松原西１-１４-１９,歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="ふくい歯科口腔外科クリニック" transform="ref(svg,14047.6397,-4057.2297)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福原歯科医院,青森県弘前市大字上鞘師町１２-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="福原歯科医院" transform="ref(svg,14047.1014,-4060.4865)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじた歯科医院,青森県弘前市大字石渡４-１３-３,歯科,,,9" xlink:title="ふじた歯科医院" transform="ref(svg,14045.8124,-4062.9568)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじた歯科,青森県弘前市大字大町１-３-１０,歯科,,,9" xlink:title="ふじた歯科" transform="ref(svg,14048.2333,-4059.6853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほくおう・歯科医院,青森県弘前市大字北横町４２,歯科　小児歯科,,,9" xlink:title="ほくおう・歯科医院" transform="ref(svg,14047.7786,-4060.7832)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松野歯科医院,青森県弘前市大字上瓦ヶ町５,歯科　小児歯科,,,9" xlink:title="松野歯科医院" transform="ref(svg,14047.6143,-4059.925)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松山歯科医院,青森県弘前市大字富田３-１-１１,歯科　小児歯科,,,9" xlink:title="松山歯科医院" transform="ref(svg,14047.2831,-4059.2813)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松枝歯科医院,青森県弘前市大字白銀町１５-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="松枝歯科医院" transform="ref(svg,14046.9019,-4060.4825)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ミカミ歯科,青森県弘前市駅前１-１-５,歯科　小児歯科,,,9" xlink:title="ミカミ歯科" transform="ref(svg,14048.3913,-4059.9598)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,めぐみ歯科医院,青森県弘前市大字城東２-１-１３,歯科,,,9" xlink:title="めぐみ歯科医院" transform="ref(svg,14048.9896,-4059.8383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,毛内歯科医院,青森県弘前市大字田園４-１２-２１,歯科,,,9" xlink:title="毛内歯科医院" transform="ref(svg,14050.8827,-4060.4362)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,盛歯科クリニック,青森県弘前市大字桔梗野１-４-２０,歯科　歯科口腔外科,,,9" xlink:title="盛歯科クリニック" transform="ref(svg,14046.473,-4059.1459)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やがわ歯科医院,青森県弘前市大字城西４-１-１３,歯科　小児歯科　矯正歯科,,,9" xlink:title="やがわ歯科医院" transform="ref(svg,14044.9822,-4060.4283)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やぎはしファミリー歯科,青森県弘前市大字富田町３４,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="やぎはしファミリー歯科" transform="ref(svg,14048.1948,-4058.929)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安原田中歯科医院,青森県弘前市大字安原３-３-１９,歯科,,,9" xlink:title="安原田中歯科医院" transform="ref(svg,14048.7346,-4057.5109)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山-ｱ歯科医院,青森県弘前市大字田茂木６２,歯科,,,9" xlink:title="山-ｱ歯科医院" transform="ref(svg,14047.7613,-4061.0677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山崎歯科クリニック,青森県弘前市大字宮川２-３-４,歯科,,,9" xlink:title="山崎歯科クリニック" transform="ref(svg,14048.5133,-4061.3671)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科医院,青森県弘前市大字茂森新町１-６-２２,歯科　小児歯科　矯正歯科,,,9" xlink:title="山口歯科医院" transform="ref(svg,14045.2731,-4059.4941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまざき歯科医院,青森県弘前市大字大清水４-１０-１０,歯科　小児歯科,,,9" xlink:title="やまざき歯科医院" transform="ref(svg,14049.2501,-4057.8162)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わかば歯科医院,青森県弘前市大字笹森町３２-１,歯科,,,9" xlink:title="わかば歯科医院" transform="ref(svg,14047.356,-4061.0373)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,青森県弘前市大字茂森町４２-１,歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,14046.1174,-4060.134)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,和徳歯科医院,青森県弘前市大字和徳町２４-１,歯科,,,9" xlink:title="和徳歯科医院" transform="ref(svg,14047.7463,-4060.59)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルオフィスよしだ,青森県弘前市大字早稲田３-６-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="デンタルオフィスよしだ" transform="ref(svg,14051.2604,-4059.9721)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アクロスプラザ歯科,青森県黒石市富士見１０３-３,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="アクロスプラザ歯科" transform="ref(svg,14060.1244,-4066.6935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アップル歯科医院,青森県黒石市東新町１-６,歯科,,,9" xlink:title="アップル歯科医院" transform="ref(svg,14060.0523,-4064.1468)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あとち歯科,青森県黒石市大字市ノ町１８-１,歯科　小児歯科,,,9" xlink:title="あとち歯科" transform="ref(svg,14059.3656,-4064.2588)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あぼ歯科クリニック,青森県黒石市北美町１-５８,歯科,,,9" xlink:title="あぼ歯科クリニック" transform="ref(svg,14060.2287,-4065.4769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石川歯科クリニック,青森県黒石市大字黒石字十三森１８４-９,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="石川歯科クリニック" transform="ref(svg,14058.877,-4065.5524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,一番町歯科医院,青森県黒石市大字中町６,歯科,,,9" xlink:title="一番町歯科医院" transform="ref(svg,14059.6814,-4064.4759)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大場歯科医院,青森県黒石市柵ノ木１-５-６,歯科,,,9" xlink:title="大場歯科医院" transform="ref(svg,14060.499,-4063.9116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くどう歯科医院,青森県黒石市大字内町８-５,歯科　小児歯科　矯正歯科,,,9" xlink:title="くどう歯科医院" transform="ref(svg,14059.1258,-4064.3619)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,青森県黒石市元町１１６-２,歯科　小児歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14058.9591,-4064.4469)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こだま歯科医院,青森県黒石市追子野木１-２４７-３９,歯科　小児歯科　矯正歯科　口腔外科,,,9" xlink:title="こだま歯科医院" transform="ref(svg,14059.0524,-4063.5854)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ことぶき歯科医院,青森県黒石市寿町２３,歯科　小児歯科　矯正歯科,,,9" xlink:title="ことぶき歯科医院" transform="ref(svg,14060.0851,-4064.9473)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清藤歯科医院,青森県黒石市大字前町２３-２,歯科　小児歯科,,,9" xlink:title="清藤歯科医院" transform="ref(svg,14059.5107,-4064.1336)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科診療所,青森県黒石市大字大板町１１-１,歯科,,,9" xlink:title="中村歯科診療所" transform="ref(svg,14058.8982,-4064.5596)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花園歯科医院,青森県黒石市花園７１,歯科,,,9" xlink:title="花園歯科医院" transform="ref(svg,14060.2688,-4065.0257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はなデンタルクリニック,青森県黒石市ちとせ１-１４７,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="はなデンタルクリニック" transform="ref(svg,14059.644,-4063.7333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あずまデンタルクリニック,青森県平川市柏木町東田３１３-８,歯科　矯正歯科　小児歯科　口腔外科,,,9" xlink:title="あずまデンタルクリニック" transform="ref(svg,14056.8039,-4057.6097)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,碇ケ関歯科医院,青森県平川市碇ケ関山崎堂１１３-３,歯科　小児歯科,,,9" xlink:title="碇ケ関歯科医院" transform="ref(svg,14062.4151,-4047.7313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,工藤歯科医院,青森県平川市柏木町藤山１１-６,歯科,,,9" xlink:title="工藤歯科医院" transform="ref(svg,14056.5929,-4058.2471)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科クリニック,青森県平川市南田中北村元３７-１,歯科　小児歯科,,,9" xlink:title="さとう歯科クリニック" transform="ref(svg,14058.7261,-4061.3334)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すぎた歯科,青森県平川市中佐渡南田１８-１６,歯科　小児歯科　矯正歯科,,,9" xlink:title="すぎた歯科" transform="ref(svg,14057.6327,-4061.4447)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清藤歯科医院,青森県平川市本町平野４６-１２,歯科,,,9" xlink:title="清藤歯科医院" transform="ref(svg,14056.3878,-4058.772)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひらかわ歯科クリニック,青森県平川市小和森中松岡１１６-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ひらかわ歯科クリニック" transform="ref(svg,14056.6022,-4059.2296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清藤歯科平賀医院,青森県平川市本町北柳田２１-３,歯科,,,9" xlink:title="清藤歯科平賀医院" transform="ref(svg,14056.2045,-4058.5164)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あしだ歯科医院,青森県南津軽郡藤崎町大字西豊田１-１２-９,歯科,,,9" xlink:title="あしだ歯科医院" transform="ref(svg,14050.0014,-4065.5058)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,青森県南津軽郡藤崎町大字藤崎字武元１２,歯科　小児歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14049.4287,-4065.2699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ときわさとう歯科医院,青森県南津軽郡藤崎町大字榊字亀田９-２４,歯科,,,9" xlink:title="ときわさとう歯科医院" transform="ref(svg,14053.0856,-4067.2434)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仲町歯科医院,青森県南津軽郡藤崎町大字藤崎字村岡５８,歯科　小児歯科　矯正歯科,,,9" xlink:title="仲町歯科医院" transform="ref(svg,14049.7458,-4064.9582)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西とよだ歯科医院,青森県南津軽郡藤崎町大字藤崎字西豊田１-９-４,歯科,,,9" xlink:title="西とよだ歯科医院" transform="ref(svg,14050.1153,-4065.618)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のじりデンタルクリニック,青森県南津軽郡藤崎町大字藤崎字村井５３-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="のじりデンタルクリニック" transform="ref(svg,14050.1778,-4065.0561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,天内歯科医院,青森県南津軽郡大鰐町大字蔵舘字村岡２５,歯科　小児歯科,,,9" xlink:title="天内歯科医院" transform="ref(svg,14057.4072,-4052.1356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,デンタルクリニック-さとう,青森県南津軽郡大鰐町大字大鰐字前田３３-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="デンタルクリニック-さとう" transform="ref(svg,14056.6816,-4052.224)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科医院,青森県南津軽郡大鰐町大字大鰐字大鰐８１-２,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="成田歯科医院" transform="ref(svg,14057.1352,-4051.9626)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安田歯科医院,青森県南津軽郡大鰐町大字大鰐字大鰐９３-１,歯科,,,9" xlink:title="安田歯科医院" transform="ref(svg,14057.1749,-4052.013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田舎館歯科クリニック,青森県南津軽郡田舎館村大字八反田字古舘１１９-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="田舎館歯科クリニック" transform="ref(svg,14054.8722,-4063.4632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおせ歯科医院,青森県北津軽郡板柳町大字福野田字実田９７-１,歯科,,,9" xlink:title="おおせ歯科医院" transform="ref(svg,14045.8436,-4069.771)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,工藤八歯科医院,青森県北津軽郡板柳町大字板柳字土井１０８-２,歯科,,,9" xlink:title="工藤八歯科医院" transform="ref(svg,14045.5608,-4069.5729)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久米田歯科矯正歯科医院,青森県北津軽郡板柳町大字福野田字実田８４-２,歯科　矯正歯科,,,9" xlink:title="久米田歯科矯正歯科医院" transform="ref(svg,14046.0457,-4070.0229)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久米田歯科,青森県北津軽郡板柳町大字五林平字三宅１１-１,歯科,,,9" xlink:title="久米田歯科" transform="ref(svg,14051.1402,-4074.8223)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,諏訪歯科,青森県北津軽郡板柳町大字福野田字増田１８-３,歯科,,,9" xlink:title="諏訪歯科" transform="ref(svg,14045.7631,-4069.939)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけだ歯科医院,青森県北津軽郡板柳町大字板柳字土井３６１-２,歯科　歯科口腔外科　矯正歯科　小児歯科,,,9" xlink:title="たけだ歯科医院" transform="ref(svg,14045.8061,-4069.1454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかむら歯科医院,青森県北津軽郡板柳町大字辻字福岡５５,歯科　小児歯科,,,9" xlink:title="なかむら歯科医院" transform="ref(svg,14046.452,-4069.5842)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あすなろ歯科医院,青森県五所川原市字一ツ谷５０７-２３,歯科　小児歯科,,,9" xlink:title="あすなろ歯科医院" transform="ref(svg,14045.1872,-4080.7995)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アップル歯科医院,青森県五所川原市大字稲実字米崎１１８-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="アップル歯科医院" transform="ref(svg,14046.638,-4078.776)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えびなファミリー歯科,青森県五所川原市字鎌谷町５１６-１２,歯科　小児歯科,,,9" xlink:title="えびなファミリー歯科" transform="ref(svg,14045.1056,-4080.5358)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エルム歯科小児歯科,青森県五所川原市中央２-２４長内ビル２Ｆ,歯科　小児歯科,,,9" xlink:title="エルム歯科小児歯科" transform="ref(svg,14045.024,-4080.0286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小原歯科医院,青森県五所川原市みどり町６-１６,歯科,,,9" xlink:title="小原歯科医院" transform="ref(svg,14046.0311,-4078.2908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,工藤歯科医院,青森県五所川原市字大町３７-５,歯科,,,9" xlink:title="工藤歯科医院" transform="ref(svg,14044.7032,-4080.9503)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒部歯科クリニック,青森県五所川原市大字広田字榊森５４-６５,歯科　小児歯科　矯正歯科,,,9" xlink:title="黒部歯科クリニック" transform="ref(svg,14046.6923,-4078.4168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小嶋歯科医院,青森県五所川原市字敷島町１-４,歯科　小児歯科　矯正歯科,,,9" xlink:title="小嶋歯科医院" transform="ref(svg,14044.6012,-4081.1965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,青森県五所川原市字柏原町５０,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,14044.137,-4081.298)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,サトウ歯科クリニック,青森県五所川原市中央６-２１,歯科　小児歯科　矯正歯科,,,9" xlink:title="サトウ歯科クリニック" transform="ref(svg,14044.9698,-4079.1968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高満歯科医院,青森県五所川原市字川端町３-６,歯科　小児歯科,,,9" xlink:title="高満歯科医院" transform="ref(svg,14044.2948,-4080.7474)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田附歯科医院,青森県五所川原市字寺町１６,歯科　小児歯科　矯正歯科,,,9" xlink:title="田附歯科医院" transform="ref(svg,14044.0309,-4080.9918)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たんぽぽ歯科,青森県五所川原市大字姥萢字桜木２２-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たんぽぽ歯科" transform="ref(svg,14045.1482,-4079.2877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津島歯科,青森県五所川原市字大町９,歯科　矯正歯科,,,9" xlink:title="津島歯科" transform="ref(svg,14044.4489,-4080.9666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,飛嶋歯科医院,青森県五所川原市字松島町３-５,歯科　小児歯科,,,9" xlink:title="飛嶋歯科医院" transform="ref(svg,14045.973,-4080.8858)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中嶋歯科医院,青森県五所川原市字雛田３２,歯科　小児歯科,,,9" xlink:title="中嶋歯科医院" transform="ref(svg,14044.8002,-4081.1179)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,成田歯科診療所,青森県五所川原市字旭町２７,歯科　矯正歯科,,,9" xlink:title="成田歯科診療所" transform="ref(svg,14044.5696,-4081.1468)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろし歯科,青森県五所川原市字幾世森２４-３,歯科　小児歯科,,,9" xlink:title="ひろし歯科" transform="ref(svg,14044.934,-4082.0015)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本町歯科医院,青森県五所川原市字本町１４,歯科,,,9" xlink:title="本町歯科医院" transform="ref(svg,14044.3223,-4080.8715)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮川歯科クリニック,青森県五所川原市大字広田字柳沼５４-１５,歯科　小児歯科,,,9" xlink:title="宮川歯科クリニック" transform="ref(svg,14045.9633,-4078.5807)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渋谷歯科診療所,青森県五所川原市金木町朝日山３３６-１,歯科,,,9" xlink:title="渋谷歯科診療所" transform="ref(svg,14045.7246,-4090.2416)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科クリニック,青森県五所川原市金木町朝日山３５８-１,歯科　小児歯科,,,9" xlink:title="田中歯科クリニック" transform="ref(svg,14045.9024,-4090.349)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,津島歯科医院,青森県五所川原市金木町朝日山４２１-２,歯科,,,9" xlink:title="津島歯科医院" transform="ref(svg,14045.2564,-4090.3808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福士歯科医院,青森県五所川原市金木町朝日山４５３,歯科,,,9" xlink:title="福士歯科医院" transform="ref(svg,14045.3434,-4090.2249)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五所川原市国民健康保険市浦歯科診療所,青森県五所川原市相内２７３,歯科,,,9" xlink:title="五所川原市国民健康保険市浦歯科診療所" transform="ref(svg,14034.6779,-4105.5043)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長内歯科医院,青森県つがる市車力町下林７-１,歯科,,,9" xlink:title="長内歯科医院" transform="ref(svg,14035.9099,-4094.5871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,葛西歯科診療所,青森県つがる市木造清水４７,歯科　矯正歯科,,,9" xlink:title="葛西歯科診療所" transform="ref(svg,14038.0443,-4081.4515)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柏ミナトヤ歯科医院,青森県つがる市柏稲盛幾世４１,歯科　小児歯科,,,9" xlink:title="柏ミナトヤ歯科医院" transform="ref(svg,14041.6033,-4080.3461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,菊池歯科医院,青森県つがる市木造曙６５,歯科,,,9" xlink:title="菊池歯科医院" transform="ref(svg,14038.7994,-4080.8035)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しもや歯科医院,青森県つがる市森田町森田月見野２５６-１,歯科,,,9" xlink:title="しもや歯科医院" transform="ref(svg,14033.7295,-4077.9913)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,車力歯科診療所,青森県つがる市車力町山崎１-１,歯科,,,9" xlink:title="車力歯科診療所" transform="ref(svg,14036.3786,-4095.3901)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清藤歯科,青森県つがる市木造清水２２,歯科,,,9" xlink:title="清藤歯科" transform="ref(svg,14038.1664,-4081.2772)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平田歯科診療所,青森県つがる市木造増田２２-１５,歯科,,,9" xlink:title="平田歯科診療所" transform="ref(svg,14038.8295,-4080.5531)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福士歯科医院,青森県つがる市木造千代町２７-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="福士歯科医院" transform="ref(svg,14038.6895,-4080.7903)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かなざわ歯科医院,青森県西津軽郡鰺ヶ沢町大字舞戸町字蒲生１２４-１,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="かなざわ歯科医院" transform="ref(svg,14022.2207,-4077.3048)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かねこ歯科医院,青森県西津軽郡鰺ヶ沢町大字舞戸町字下富田５６-１２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かねこ歯科医院" transform="ref(svg,14022.332,-4077.4039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,湊谷歯科診療所,青森県西津軽郡鰺ヶ沢町大字舞戸町字上富田１３６-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="湊谷歯科診療所" transform="ref(svg,14021.8991,-4077.7015)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科医院,青森県西津軽郡深浦町大字深浦字苗代沢８２-２０,歯科　小児歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="さいとう歯科医院" transform="ref(svg,13992.9697,-4065.1584)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけだ歯科,青森県西津軽郡深浦町大字関字栃沢８９-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たけだ歯科" transform="ref(svg,14009.5987,-4074.5731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今歯科医院,青森県北津軽郡中泊町大字中里字紅葉坂４８-２,歯科,,,9" xlink:title="今歯科医院" transform="ref(svg,14044.0252,-4096.3257)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伝法谷歯科医院,青森県北津軽郡中泊町大字中里字亀山４４８,歯科,,,9" xlink:title="伝法谷歯科医院" transform="ref(svg,14043.8665,-4096.5299)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口歯科診療室,青森県北津軽郡中泊町大字中里字亀山４７３-１,歯科,,,9" xlink:title="山口歯科診療室" transform="ref(svg,14043.7798,-4096.6684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆみこ歯科クリニック,青森県北津軽郡中泊町大字中里字亀山４２５-２,歯科,,,9" xlink:title="ゆみこ歯科クリニック" transform="ref(svg,14043.1878,-4096.2898)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中田歯科医院,青森県北津軽郡鶴田町大字鶴田字早瀬１８２-５,歯科　小児歯科,,,9" xlink:title="中田歯科医院" transform="ref(svg,14043.0802,-4075.798)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかじま歯科クリニック,青森県北津軽郡鶴田町大字鶴田字相原１７,歯科,,,9" xlink:title="なかじま歯科クリニック" transform="ref(svg,14043.6017,-4075.9331)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,赤川斉藤歯科医院,青森県青森市浪岡大字浪岡字平野２６-４,歯科,,,9" xlink:title="赤川斉藤歯科医院" transform="ref(svg,14058.9839,-4071.6548)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かとう歯科医院,青森県青森市浪岡大字浪岡字細田２０２-３,歯科　小児歯科　矯正歯科,,,9" xlink:title="かとう歯科医院" transform="ref(svg,14059.2823,-4071.2935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,笹森歯科医院,青森県青森市浪岡大字浪岡字川合８１-１１,歯科,,,9" xlink:title="笹森歯科医院" transform="ref(svg,14058.9441,-4071.3978)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東町歯科医院,青森県青森市浪岡大字女鹿沢字東種本１４-７,歯科　小児歯科　矯正歯科,,,9" xlink:title="東町歯科医院" transform="ref(svg,14058.872,-4070.9114)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナミオカさくら歯科小児歯科医院,青森県青森市浪岡大字浪岡字松嶋１５浪岡ショッピングセンター,歯科　小児歯科　矯正歯科,,,9" xlink:title="ナミオカさくら歯科小児歯科医院" transform="ref(svg,14059.4322,-4072.2291)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平井歯科医院,青森県青森市浪岡大字浪岡字若松１６-２,歯科　小児歯科　矯正歯科,,,9" xlink:title="平井歯科医院" transform="ref(svg,14059.2144,-4071.2173)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なみおか歯科矯正こども歯科,青森県青森市浪岡大字浪岡字稲村１５７-２０,歯科　小児歯科　矯正歯科,,,9" xlink:title="なみおか歯科矯正こども歯科" transform="ref(svg,14059.3057,-4070.6483)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,門間歯科医院,秋田県大館市花岡町猫鼻６-８,歯科,,,9" xlink:title="門間歯科医院" transform="ref(svg,14055.0266,-4031.6669)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古田歯科医院,秋田県大館市釈迦内稲荷山下１２３-１,歯科,,,9" xlink:title="古田歯科医院" transform="ref(svg,14055.8522,-4029.6074)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）谷本歯科医院,秋田県大館市有浦１-６-２３,歯科,,,9" xlink:title="（医）谷本歯科医院" transform="ref(svg,14056.2788,-4028.3599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神歯科医院,秋田県大館市有浦６-１-３３,矯正歯科　歯科　小児歯科,,,9" xlink:title="神歯科医院" transform="ref(svg,14056.8516,-4028.0335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ありうら歯科医院,秋田県大館市有浦３-２-６２,歯科,,,9" xlink:title="ありうら歯科医院" transform="ref(svg,14056.394,-4028.0365)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺岡歯科医院,秋田県大館市御成町３-６-５２,歯科,,,9" xlink:title="寺岡歯科医院" transform="ref(svg,14056.0809,-4028.1481)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しん歯科クリニック,秋田県大館市中道１-１-３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="しん歯科クリニック" transform="ref(svg,14055.7135,-4028.5979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,秋田県大館市清水１-３-３７,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,14055.1492,-4028.4163)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひがしだい歯科クリニック,秋田県大館市東台４-４-９３,歯科,,,9" xlink:title="ひがしだい歯科クリニック" transform="ref(svg,14057.5427,-4027.2013)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,阿部歯科医院,秋田県大館市柄沢狐台２-１０４,歯科,,,9" xlink:title="阿部歯科医院" transform="ref(svg,14057.4636,-4025.7589)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,メイホウデンタルクリニック,秋田県大館市赤館町４-１５-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="メイホウデンタルクリニック" transform="ref(svg,14057.2091,-4027.2039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）たかはし歯科医院,秋田県大館市谷地町８,歯科,,,9" xlink:title="（医）たかはし歯科医院" transform="ref(svg,14056.286,-4026.7565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神成歯科医院,秋田県大館市馬喰町２５,歯科,,,9" xlink:title="神成歯科医院" transform="ref(svg,14056.1229,-4027.071)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なかまち歯科クリニック,秋田県大館市中町２８,歯科,,,9" xlink:title="なかまち歯科クリニック" transform="ref(svg,14056.1653,-4027.0118)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,根田歯科医院,秋田県大館市常盤木町３-１４,矯正歯科　歯科　小児歯科,,,9" xlink:title="根田歯科医院" transform="ref(svg,14055.8158,-4026.805)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）こう歯科,秋田県大館市片山町３-２-３３,歯科,,,9" xlink:title="（医）こう歯科" transform="ref(svg,14053.4769,-4027.555)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,秋田県大館市美園町５-５６,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14054.7268,-4027.2337)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とだ歯科医院,秋田県大館市長木川南１６-６,歯科,,,9" xlink:title="とだ歯科医院" transform="ref(svg,14056.0064,-4027.4437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わたなべ歯科医院,秋田県大館市豊町９-３２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="わたなべ歯科医院" transform="ref(svg,14055.2045,-4027.4233)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三の丸歯科医院,秋田県大館市桂城５,歯科,,,9" xlink:title="三の丸歯科医院" transform="ref(svg,14056.2469,-4027.1871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）歯友会佐藤歯科桂城診療所,秋田県大館市桂城８-２３,歯科　小児歯科,,,9" xlink:title="（医）歯友会佐藤歯科桂城診療所" transform="ref(svg,14056.3217,-4027.1685)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,秋田県大館市長倉９０,歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,14056.1152,-4027.1354)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,越前歯科医院,秋田県大館市大館６５,歯科,,,9" xlink:title="越前歯科医院" transform="ref(svg,14055.8756,-4027.319)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,秋田県大館市大館４０-５,歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,14055.7009,-4027.1897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小笠原歯科医院,秋田県大館市三ノ丸２２-２,歯科　小児歯科,,,9" xlink:title="小笠原歯科医院" transform="ref(svg,14056.3783,-4027.437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,猪野歯科医院,秋田県大館市早口上野４４-１,歯科,,,9" xlink:title="猪野歯科医院" transform="ref(svg,14044.7298,-4027.0716)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまお歯科医院,秋田県大館市早口深沢岱４０-２２,歯科,,,9" xlink:title="やまお歯科医院" transform="ref(svg,14045.1402,-4027.969)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,秋田県大館市比内町扇田字中扇田２６,歯科,,,9" xlink:title="武田歯科医院" transform="ref(svg,14058.1135,-4022.8305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひない根田歯科医院,秋田県大館市比内町扇田長岡下１４-１１,歯科　小児歯科,,,9" xlink:title="ひない根田歯科医院" transform="ref(svg,14058.6712,-4022.4633)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながはしデンタルクリニック,秋田県大館市大田面３９３-１,歯科,,,9" xlink:title="ながはしデンタルクリニック" transform="ref(svg,14057.4112,-4028.4143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宝樹会たかのす歯科クリニック,秋田県北秋田市栄前綱６９,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）宝樹会たかのす歯科クリニック" transform="ref(svg,14038.0011,-4023.1117)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加賀谷歯科医院,秋田県北秋田市花園町４-２６-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="加賀谷歯科医院" transform="ref(svg,14037.1861,-4022.8866)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおた歯科医院,秋田県北秋田市宮前町１-３,歯科,,,9" xlink:title="おおた歯科医院" transform="ref(svg,14037.2142,-4022.4779)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森川歯科医院,秋田県北秋田市東横町４-２７,歯科,,,9" xlink:title="森川歯科医院" transform="ref(svg,14037.0866,-4022.512)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）明正会佐藤歯科医院,秋田県北秋田市松葉町１０-１１,歯科,,,9" xlink:title="（医）明正会佐藤歯科医院" transform="ref(svg,14036.9657,-4023.0069)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,澤口歯科医院,秋田県北秋田市米代町１-３４,歯科,,,9" xlink:title="澤口歯科医院" transform="ref(svg,14036.6824,-4022.4776)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,秋田県北秋田市脇神藤株囲ノ内５１,歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,14038.966,-4020.3261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あじみね歯科医院,秋田県北秋田市脇神高村岱１６７-３,歯科,,,9" xlink:title="あじみね歯科医院" transform="ref(svg,14038.096,-4020.9632)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科医院,秋田県北秋田市川井才ノ神６３-２１,歯科,,,9" xlink:title="清水歯科医院" transform="ref(svg,14032.4161,-4016.3053)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）明正会佐藤歯科医院合川診療所,秋田県北秋田市新田目大野５０-３,歯科,,,9" xlink:title="（医）明正会佐藤歯科医院合川診療所" transform="ref(svg,14032.9682,-4016.0575)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,合川歯科医院,秋田県北秋田市李岱上悪外２１-３,歯科,,,9" xlink:title="合川歯科医院" transform="ref(svg,14031.3498,-4015.5958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くるみ歯科医院,秋田県北秋田市米内沢薬師下８６-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="くるみ歯科医院" transform="ref(svg,14036.8864,-4011.9935)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米内沢歯科医院,秋田県北秋田市米内沢諏訪岱３１-２,歯科,,,9" xlink:title="米内沢歯科医院" transform="ref(svg,14037.6064,-4012.0104)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）さとう歯科医院,秋田県能代市向能代上野１３８,矯正歯科　歯科　小児歯科,,,9" xlink:title="（医）さとう歯科医院" transform="ref(svg,14003.1284,-4022.0461)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恵徳会森田歯科医院,秋田県能代市落合上前田１４１,歯科,,,9" xlink:title="（医）恵徳会森田歯科医院" transform="ref(svg,14002.6961,-4022.7309)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みなみ歯科診療所,秋田県能代市河戸川大須賀５２-３,歯科　小児歯科,,,9" xlink:title="みなみ歯科診療所" transform="ref(svg,14001.9924,-4017.8627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宏明会大山歯科クリニック,秋田県能代市下瀬３３-４,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）宏明会大山歯科クリニック" transform="ref(svg,14003.791,-4018.7996)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平沢歯科医院,秋田県能代市大町４-９,歯科　小児歯科,,,9" xlink:title="平沢歯科医院" transform="ref(svg,14002.6348,-4021.325)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松野歯科医院,秋田県能代市大手町１-７,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="松野歯科医院" transform="ref(svg,14002.4688,-4021.2342)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,横山歯科医院,秋田県能代市富町８-２４,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="横山歯科医院" transform="ref(svg,14003.0049,-4021.0208)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,秋田県能代市上町１０-２３,歯科　歯科口腔外科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14003.0366,-4021.1993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）能登歯科医院,秋田県能代市上町８-２２,歯科,,,9" xlink:title="（医）能登歯科医院" transform="ref(svg,14002.9071,-4021.2773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）織田歯科医院,秋田県能代市上町７-２３,矯正歯科　歯科　小児歯科,,,9" xlink:title="（医）織田歯科医院" transform="ref(svg,14002.7903,-4021.296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）村岡歯科医院,秋田県能代市住吉町１１-１６,歯科,,,9" xlink:title="（医）村岡歯科医院" transform="ref(svg,14002.3477,-4020.6452)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）南小林歯科医院,秋田県能代市西赤沼３６-５,歯科,,,9" xlink:title="（医）南小林歯科医院" transform="ref(svg,14003.8093,-4019.0895)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）能代歯科医療会畠歯科医院,秋田県能代市中和２-１-３,歯科,,,9" xlink:title="（医）能代歯科医療会畠歯科医院" transform="ref(svg,14003.1232,-4020.2)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）梅田歯科医院,秋田県能代市花園町２７-１７,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）梅田歯科医院" transform="ref(svg,14002.3343,-4019.7679)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みどり歯科医院,秋田県能代市緑町２-３５,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="みどり歯科医院" transform="ref(svg,14003.1579,-4019.797)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）中和歯科医院,秋田県能代市豊祥岱１-４３,歯科,,,9" xlink:title="（医）中和歯科医院" transform="ref(svg,14002.973,-4019.4272)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ももデンタルクリニック,秋田県能代市藤山３４-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）ももデンタルクリニック" transform="ref(svg,14002.9645,-4018.7713)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よつじ歯科医院,秋田県能代市昇平岱２４-１能代オフィスビル２Ｆ,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="よつじ歯科医院" transform="ref(svg,14002.1649,-4019.1081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,愛歯科医院,秋田県能代市芝童森５-２,歯科　小児歯科,,,9" xlink:title="愛歯科医院" transform="ref(svg,14002.2459,-4019.1411)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五十嵐歯科医院,秋田県能代市二ツ井町五千苅３７-９,歯科,,,9" xlink:title="五十嵐歯科医院" transform="ref(svg,14024.1046,-4021.3844)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,簾内歯科医院,秋田県能代市二ツ井町比井野２３,歯科,,,9" xlink:title="簾内歯科医院" transform="ref(svg,14024.1445,-4020.6959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科池端クリニック,秋田県能代市二ツ井町比井野５５-７,歯科,,,9" xlink:title="歯科池端クリニック" transform="ref(svg,14023.8806,-4020.5077)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤里町営歯科診療所,秋田県山本郡藤里町藤琴家の後３３-３０,歯科,,,9" xlink:title="藤里町営歯科診療所" transform="ref(svg,14026.4888,-4027.8296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,秋田県山本郡三種町鹿渡片カリ橋６２,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14007.9784,-4004.2593)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）能代歯科医療会琴丘歯科医院,秋田県山本郡三種町鹿渡西小瀬川１７１,歯科,,,9" xlink:title="（医）能代歯科医療会琴丘歯科医院" transform="ref(svg,14007.9426,-4003.3592)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）歯優会嶋田歯科医院,秋田県山本郡三種町森岳字小狭間１５５,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）歯優会嶋田歯科医院" transform="ref(svg,14007.3231,-4010.0356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,八竜歯科医院,秋田県山本郡三種町鵜川西家の下４-３,歯科　小児歯科,,,9" xlink:title="八竜歯科医院" transform="ref(svg,14000.4545,-4010.232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）能代歯科医療会八森歯科医院,秋田県山本郡八峰町八森湯の尻２３-１,歯科,,,9" xlink:title="（医）能代歯科医療会八森歯科医院" transform="ref(svg,14003.0623,-4033.6114)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清水歯科医院,秋田県男鹿市船越本町１-２９,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）清水歯科医院" transform="ref(svg,13994.6657,-3990.4484)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,児玉歯科医院,秋田県男鹿市船越前野９８-９０,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="児玉歯科医院" transform="ref(svg,13993.1506,-3990.6229)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,秋田県男鹿市船越船越３０３,歯科　歯科口腔外科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13995.3476,-3990.3286)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わきもと歯科医院,秋田県男鹿市脇本脇本石舘３１-１,歯科　小児歯科,,,9" xlink:title="わきもと歯科医院" transform="ref(svg,13990.7765,-3990.9386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もりやま歯科医院,秋田県男鹿市脇本富永野田１２-２,矯正歯科　歯科　歯科口腔外科,,,9" xlink:title="もりやま歯科医院" transform="ref(svg,13990.6081,-3991.3139)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）わかみ歯科クリニック,秋田県男鹿市角間崎百目木４８-１,歯科,,,9" xlink:title="（医）わかみ歯科クリニック" transform="ref(svg,13991.3851,-3995.9514)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）豊和会志田歯科医院,秋田県男鹿市船川港金川字金川台１-２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）豊和会志田歯科医院" transform="ref(svg,13985.917,-3989.7636)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小西歯科医院,秋田県男鹿市船川港船川外ヶ沢１２５-６,歯科,,,9" xlink:title="小西歯科医院" transform="ref(svg,13984.6095,-3988.025)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,秋田県男鹿市船川港船川栄町１３,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,13984.6811,-3988.4993)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森山歯科医院,秋田県男鹿市船川港船川船川５１,歯科,,,9" xlink:title="森山歯科医院" transform="ref(svg,13984.541,-3988.5506)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小林歯科医院,秋田県男鹿市北浦北浦栄町３-１,歯科　小児歯科,,,9" xlink:title="小林歯科医院" transform="ref(svg,13978.4576,-3996.2097)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）南秋会わかばデンタルクリニック,秋田県潟上市天王６０-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）南秋会わかばデンタルクリニック" transform="ref(svg,14003.8794,-3982.0939)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）石井歯科クリニック,秋田県潟上市天王長沼４０-１４,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）石井歯科クリニック" transform="ref(svg,14004.6894,-3981.3737)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,敬徳会歯科診療所,秋田県潟上市天王上江川４７,歯科,,,9" xlink:title="敬徳会歯科診療所" transform="ref(svg,13998.7185,-3987.9534)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宝樹会ふただ歯科クリニック,秋田県潟上市天王二田２１９-１２２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）宝樹会ふただ歯科クリニック" transform="ref(svg,13999.1838,-3988.3826)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,でとまち歯科クリニック,秋田県潟上市天王北野２２３-２４４,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="でとまち歯科クリニック" transform="ref(svg,14002.5851,-3984.3315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よねざわ歯科医院,秋田県潟上市天王上江川４７-３４２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="よねざわ歯科医院" transform="ref(svg,13998.7422,-3988.2069)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科医院,秋田県潟上市昭和大久保堤の上１２５,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="鈴木歯科医院" transform="ref(svg,14006.233,-3986.7598)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおくぼ歯科診療所,秋田県潟上市昭和大久保街道下９６-３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="おおくぼ歯科診療所" transform="ref(svg,14006.1833,-3986.9567)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）浩衛会大坂歯科医院,秋田県潟上市昭和豊川竜毛下斉藤田７,歯科,,,9" xlink:title="（医）浩衛会大坂歯科医院" transform="ref(svg,14007.106,-3986.8232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,秋田県潟上市飯田川下虻川屋敷１２９-３,矯正歯科　歯科　小児歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14006.8953,-3987.6751)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口歯科医院,秋田県南秋田郡五城目町七倉１１５-１,矯正歯科　歯科　小児歯科,,,9" xlink:title="田口歯科医院" transform="ref(svg,14011.8447,-3994.5634)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五城目歯科医院,秋田県南秋田郡五城目町鵜ノ木９３-４,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="五城目歯科医院" transform="ref(svg,14011.4115,-3994.5052)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）晴功会わしや歯科医院,秋田県南秋田郡五城目町西磯ノ目１-２-１０,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）晴功会わしや歯科医院" transform="ref(svg,14011.1618,-3994.2346)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）哲風会ちづ歯科クリニック,秋田県南秋田郡八郎潟町川崎昼寝２３３-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）哲風会ちづ歯科クリニック" transform="ref(svg,14008.3518,-3994.3211)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井川歯科診療所,秋田県南秋田郡井川町北川尻海老沢樋ノ口７８-１,歯科,,,9" xlink:title="井川歯科診療所" transform="ref(svg,14008.0663,-3991.3944)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら・デンタル・オフィス,秋田県南秋田郡井川町浜井川杉ノ実２４-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="さくら・デンタル・オフィス" transform="ref(svg,14007.6772,-3991.0353)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科医院,秋田県南秋田郡井川町浜井川土樋１６５-１,矯正歯科　歯科　小児歯科,,,9" xlink:title="橋本歯科医院" transform="ref(svg,14007.7536,-3990.6774)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（福）井川町福祉会障害者支援施設桐ヶ丘,秋田県南秋田郡井川町寺沢綱木沢１３３-２,歯科,,,9" xlink:title="（福）井川町福祉会障害者支援施設桐ヶ丘" transform="ref(svg,14012.1357,-3989.5572)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわた歯科医院,秋田県南秋田郡大潟村中央１-３４,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="かわた歯科医院" transform="ref(svg,13995.9292,-4001.9378)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）信康会キャッスル歯科室,秋田県秋田市中通１-３-５秋田キャッスルホテル２Ｆ,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）信康会キャッスル歯科室" transform="ref(svg,14012.0355,-3971.7799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）信康会ホワイトエッセンス秋田店,秋田県秋田市中通１-３-５秋田キャッスルホテル２Ｆ,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）信康会ホワイトエッセンス秋田店" transform="ref(svg,14012.0355,-3971.7799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安倍歯科医院,秋田県秋田市中通３-３-２８,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="安倍歯科医院" transform="ref(svg,14011.9844,-3971.4956)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加藤歯科・矯正歯科医院,秋田県秋田市中通６-４-３３,矯正歯科　歯科,,,9" xlink:title="加藤歯科・矯正歯科医院" transform="ref(svg,14012.3798,-3971.2208)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,日興歯科医院,秋田県秋田市中通６-１３-２５,歯科,,,9" xlink:title="日興歯科医院" transform="ref(svg,14012.5231,-3971.2263)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大淵歯科医院,秋田県秋田市中通４-７-３５,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="大淵歯科医院" transform="ref(svg,14012.5362,-3971.4334)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）千成会遠藤歯科クリニック,秋田県秋田市中通２-８-１フォンテＡＫＩＴＡ４Ｆ,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）千成会遠藤歯科クリニック" transform="ref(svg,14012.7583,-3971.625)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）明和会中通歯科診療所,秋田県秋田市中通６-１-５８,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）明和会中通歯科診療所" transform="ref(svg,14012.2085,-3971.3644)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）山内歯科・矯正歯科,秋田県秋田市中通３-１-７,矯正歯科　歯科,,,9" xlink:title="（医）山内歯科・矯正歯科" transform="ref(svg,14011.8655,-3971.6219)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アルヴェたかのはし歯科,秋田県秋田市東通仲町４-１秋田拠点センターアルヴェ４Ｆ４-６,歯科　歯科口腔外科,,,9" xlink:title="アルヴェたかのはし歯科" transform="ref(svg,14013.1231,-3971.5637)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,明田歯科医院,秋田県秋田市東通仲町２-１１,歯科,,,9" xlink:title="明田歯科医院" transform="ref(svg,14013.3428,-3971.5938)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宝樹会城東歯科クリニック,秋田県秋田市東通２-１-１７,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）宝樹会城東歯科クリニック" transform="ref(svg,14013.925,-3971.7146)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安井歯科クリニック,秋田県秋田市東通２-１０-４５,歯科　小児歯科,,,9" xlink:title="安井歯科クリニック" transform="ref(svg,14013.813,-3971.4657)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひがしとおり歯科医院,秋田県秋田市東通３-１０-１５,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ひがしとおり歯科医院" transform="ref(svg,14014.2916,-3971.517)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ＳａｃｒｅｄＡｒｔあんどう矯正歯科クリニック,秋田県秋田市東通４-４-１８,矯正歯科,,,9" xlink:title="（医）ＳａｃｒｅｄＡｒｔあんどう矯正歯科クリニック" transform="ref(svg,14014.3139,-3971.4143)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東京歯科クリニック,秋田県秋田市東通１-１２-６,歯科　歯科口腔外科,,,9" xlink:title="東京歯科クリニック" transform="ref(svg,14013.5565,-3971.6731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,秋田県秋田市南通亀の町５-７,矯正歯科　歯科　小児歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,14011.7532,-3971.2174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広幡歯科医院,秋田県秋田市南通築地２-１４,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="広幡歯科医院" transform="ref(svg,14012.4945,-3971.149)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,南浦歯科クリニック,秋田県秋田市南通宮田１-３,矯正歯科　歯科　小児歯科,,,9" xlink:title="南浦歯科クリニック" transform="ref(svg,14012.8468,-3971.1968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大村矯正歯科,秋田県秋田市楢山登町２-３３,矯正歯科,,,9" xlink:title="大村矯正歯科" transform="ref(svg,14011.5946,-3970.8714)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河原田歯科医院,秋田県秋田市楢山南中町２-５,矯正歯科　歯科　小児歯科,,,9" xlink:title="河原田歯科医院" transform="ref(svg,14011.9335,-3970.8534)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,立花歯科医院,秋田県秋田市楢山南中町９-２２,歯科,,,9" xlink:title="立花歯科医院" transform="ref(svg,14011.6341,-3970.4328)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,秋田県秋田市楢山本町３-１４,歯科,,,9" xlink:title="神田歯科医院" transform="ref(svg,14012.2024,-3970.7163)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,秋田県秋田市楢山共和町２-３,歯科　小児歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14011.5216,-3970.4197)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ケテル歯科医院,秋田県秋田市楢山川口境５-１１イオン秋田中央店１Ｆ,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ケテル歯科医院" transform="ref(svg,14010.9745,-3970.4107)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,柏木歯科,秋田県秋田市広面土手下４１-１,矯正歯科　歯科　小児歯科,,,9" xlink:title="柏木歯科" transform="ref(svg,14014.5982,-3972.527)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ケーディーシィーカネウチ歯科医院,秋田県秋田市広面谷地沖４-３,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）ケーディーシィーカネウチ歯科医院" transform="ref(svg,14014.837,-3972.3378)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蓮沼佐藤歯科医院,秋田県秋田市広面蓮沼７８-１,歯科,,,9" xlink:title="蓮沼佐藤歯科医院" transform="ref(svg,14014.9337,-3972.7576)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,わかさ歯科クリニック,秋田県秋田市広面谷地田８３-３,歯科　小児歯科,,,9" xlink:title="わかさ歯科クリニック" transform="ref(svg,14014.5176,-3971.894)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広面中村歯科医院,秋田県秋田市広面蓮沼２０-３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="広面中村歯科医院" transform="ref(svg,14014.7876,-3972.8732)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はぁと歯科クリニック,秋田県秋田市広面樋口１０１-１１,歯科　小児歯科,,,9" xlink:title="はぁと歯科クリニック" transform="ref(svg,14015.0782,-3972.0647)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科医院,秋田県秋田市広面蓮沼１０４-１,矯正歯科　歯科　小児歯科,,,9" xlink:title="さとう歯科医院" transform="ref(svg,14015.0273,-3972.6963)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしかわ歯科・矯正歯科,秋田県秋田市広面野添１８１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="いしかわ歯科・矯正歯科" transform="ref(svg,14013.449,-3971.0713)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広面歯科クリニック,秋田県秋田市広面樋ノ下１９-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="広面歯科クリニック" transform="ref(svg,14014.9057,-3972.1051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科クリニック,秋田県秋田市広面大袋３８-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ささき歯科クリニック" transform="ref(svg,14014.1532,-3971.1131)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,木下歯科医院,秋田県秋田市桜２-２０-１０,歯科,,,9" xlink:title="木下歯科医院" transform="ref(svg,14015.096,-3970.8279)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）デッグデンタルクリニック桜,秋田県秋田市桜１-１３-７,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）デッグデンタルクリニック桜" transform="ref(svg,14014.9338,-3971.1471)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桜歯科クリニック,秋田県秋田市横森５-２０-２５,歯科　小児歯科,,,9" xlink:title="桜歯科クリニック" transform="ref(svg,14014.4982,-3970.8164)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下北手かねた歯科クリニック,秋田県秋田市下北手松崎家の前１８２-３,歯科,,,9" xlink:title="下北手かねた歯科クリニック" transform="ref(svg,14015.6977,-3972.5636)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハピネス歯科クリニック,秋田県秋田市牛島東７-８-２２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ハピネス歯科クリニック" transform="ref(svg,14012.9278,-3969.6246)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おときだ歯科医院,秋田県秋田市牛島東２-２-３９,歯科,,,9" xlink:title="おときだ歯科医院" transform="ref(svg,14011.8219,-3970.1056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松木歯科クリニック,秋田県秋田市牛島東６-２-９,歯科　小児歯科,,,9" xlink:title="松木歯科クリニック" transform="ref(svg,14012.1971,-3969.4992)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せき歯科クリニック,秋田県秋田市牛島西３-６-１６,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="せき歯科クリニック" transform="ref(svg,14010.9007,-3969.2339)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大住鈴木歯科医院,秋田県秋田市牛島西３-２-３２,歯科　小児歯科,,,9" xlink:title="大住鈴木歯科医院" transform="ref(svg,14011.3472,-3969.1297)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,バラジマ歯科クリニック,秋田県秋田市茨島６-１０-１３,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="バラジマ歯科クリニック" transform="ref(svg,14009.6497,-3969.4564)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,江畑歯科医院,秋田県秋田市茨島４-６-４４,歯科,,,9" xlink:title="江畑歯科医院" transform="ref(svg,14010.4473,-3969.4961)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）興仁会あいば歯科,秋田県秋田市茨島２-４-６,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）興仁会あいば歯科" transform="ref(svg,14010.4998,-3970.2785)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,追分歯科医院,秋田県秋田市金足小泉潟向３-２,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="追分歯科医院" transform="ref(svg,14006.1165,-3981.5335)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恒心会追分佐藤歯科医院,秋田県秋田市金足追分海老穴２６２-３,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）恒心会追分佐藤歯科医院" transform="ref(svg,14005.62,-3981.0092)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石沢歯科医院,秋田県秋田市外旭川八柳３-１２-２８,歯科,,,9" xlink:title="石沢歯科医院" transform="ref(svg,14009.6242,-3974.7376)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北インター歯科クリニック,秋田県秋田市外旭川小谷地４-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="北インター歯科クリニック" transform="ref(svg,14009.7008,-3975.1728)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はまなす歯科クリニック,秋田県秋田市外旭川前谷地４１-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="はまなす歯科クリニック" transform="ref(svg,14009.2883,-3975.6251)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とおる歯科医院,秋田県秋田市外旭川字八幡田２１０,歯科,,,9" xlink:title="とおる歯科医院" transform="ref(svg,14011.1,-3974.204)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たんぽぽ歯科クリニック,秋田県秋田市外旭川八幡田１-１１-３７,歯科　小児歯科,,,9" xlink:title="たんぽぽ歯科クリニック" transform="ref(svg,14010.6171,-3974.5566)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石成歯科医院,秋田県秋田市泉三嶽根２-２７,歯科,,,9" xlink:title="石成歯科医院" transform="ref(svg,14012.4052,-3973.6094)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,十全歯科医院,秋田県秋田市濁川三升作１-１０６,歯科,,,9" xlink:title="十全歯科医院" transform="ref(svg,14012.7925,-3974.7965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,添川あおば歯科,秋田県秋田市添川地ノ内１７５-５,矯正歯科　歯科　小児歯科,,,9" xlink:title="添川あおば歯科" transform="ref(svg,14013.1274,-3974.494)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あさひかわ歯科医院,秋田県秋田市旭川南町１２-２３,歯科　小児歯科,,,9" xlink:title="あさひかわ歯科医院" transform="ref(svg,14012.959,-3973.7519)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小柳歯科医院,秋田県秋田市手形十七流４１９,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="小柳歯科医院" transform="ref(svg,14013.8054,-3971.7558)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,酒樹歯科医院,秋田県秋田市手形十七流３２-４,歯科,,,9" xlink:title="酒樹歯科医院" transform="ref(svg,14014.064,-3972.0758)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ふじた矯正歯科,秋田県秋田市手形山崎町４-２２,矯正歯科,,,9" xlink:title="ふじた矯正歯科" transform="ref(svg,14013.2049,-3972.384)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,手形歯科診療所,秋田県秋田市手形からみでん３-６７,歯科,,,9" xlink:title="手形歯科診療所" transform="ref(svg,14012.8528,-3973.067)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）英歯会パール歯科クリニック,秋田県秋田市手形田中１２-３７,歯科,,,9" xlink:title="（医）英歯会パール歯科クリニック" transform="ref(svg,14013.2095,-3973.3027)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科クリニック,秋田県秋田市手形休下町９-４０,歯科,,,9" xlink:title="佐藤歯科クリニック" transform="ref(svg,14012.7882,-3972.769)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すみよし歯科医院,秋田県秋田市手形住吉町１-７,歯科　小児歯科,,,9" xlink:title="すみよし歯科医院" transform="ref(svg,14012.9952,-3972.5821)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科明徳町クリニック,秋田県秋田市千秋明徳町３-４８,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="歯科明徳町クリニック" transform="ref(svg,14012.527,-3971.8129)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,秋田県秋田市千秋公園１-２３,歯科　小児歯科,,,9" xlink:title="武田歯科医院" transform="ref(svg,14012.6664,-3972.3081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ＣＬＯＶＥＲ　　ＤＥＮＴＡＬ,秋田県秋田市千秋矢留町６-３０トーカンマンション千秋鷹匠橋１Ｆ,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ＣＬＯＶＥＲ　　ＤＥＮＴＡＬ" transform="ref(svg,14012.0439,-3972.4044)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,千葉歯科医院,秋田県秋田市千秋矢留町６-１２,歯科,,,9" xlink:title="千葉歯科医院" transform="ref(svg,14011.959,-3972.2584)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）晴功会ほどの歯科クリニック,秋田県秋田市保戸野桜町１９-３,歯科　歯科口腔外科,,,9" xlink:title="（医）晴功会ほどの歯科クリニック" transform="ref(svg,14011.7718,-3973.3171)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科医院,秋田県秋田市保戸野中町６-６,歯科,,,9" xlink:title="小川歯科医院" transform="ref(svg,14011.7491,-3972.4045)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）哲風会むさしデンタルオフィス,秋田県秋田市保戸野通町４-８,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）哲風会むさしデンタルオフィス" transform="ref(svg,14011.6758,-3972.159)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,秋田県秋田市保戸野通町２-２８,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,14011.8455,-3972.0893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,通町歯科クリニック,秋田県秋田市保戸野通町７-３２ノーベルビル２Ｆ,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="通町歯科クリニック" transform="ref(svg,14011.3585,-3972.1627)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,清水歯科クリニック,秋田県秋田市保戸野千代田町２-４１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="清水歯科クリニック" transform="ref(svg,14011.147,-3972.5545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ほどの矯正歯科クリニック,秋田県秋田市保戸野千代田町２-５８,矯正歯科　歯科,,,9" xlink:title="ほどの矯正歯科クリニック" transform="ref(svg,14010.9477,-3972.528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,のなか歯科医院,秋田県秋田市泉北２-２-６,歯科,,,9" xlink:title="のなか歯科医院" transform="ref(svg,14010.4266,-3973.6049)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水上歯科医院,秋田県秋田市泉北１-８-９,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="水上歯科医院" transform="ref(svg,14010.2221,-3973.6755)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とし歯科クリニック,秋田県秋田市泉中央３-１０-２４,歯科　小児歯科,,,9" xlink:title="とし歯科クリニック" transform="ref(svg,14011.1105,-3973.2731)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,海塩歯科医院,秋田県秋田市泉中央３-４-１５,歯科,,,9" xlink:title="海塩歯科医院" transform="ref(svg,14010.8559,-3973.435)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いずみ歯科クリニック,秋田県秋田市泉中央２-１４-６ノーベル泉１Ｆ,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="いずみ歯科クリニック" transform="ref(svg,14010.6582,-3973.4138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松田歯科医院,秋田県秋田市泉中央２-６-１２,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="松田歯科医院" transform="ref(svg,14010.3494,-3973.3923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恭栄会泉南デンタルクリニック,秋田県秋田市泉南１-２-２,歯科,,,9" xlink:title="（医）恭栄会泉南デンタルクリニック" transform="ref(svg,14010.4902,-3972.9099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,原歯科医院,秋田県秋田市泉南３-４-１６,歯科,,,9" xlink:title="原歯科医院" transform="ref(svg,14011.208,-3973.0482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながい歯科医院,秋田県秋田市泉南３-２５-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ながい歯科医院" transform="ref(svg,14011.3627,-3972.8853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,秋田県秋田市大町４-３-１４,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,14011.5632,-3971.6022)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石田歯科医院,秋田県秋田市大町１-３-３３,矯正歯科　歯科　小児歯科,,,9" xlink:title="石田歯科医院" transform="ref(svg,14011.7217,-3972.012)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白根歯科医院,秋田県秋田市旭北栄町５-３３,歯科,,,9" xlink:title="白根歯科医院" transform="ref(svg,14010.9884,-3972.1152)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）千成会旭北歯科医院,秋田県秋田市旭北栄町１-４,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）千成会旭北歯科医院" transform="ref(svg,14010.8691,-3971.9818)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,エンパイア歯科医院,秋田県秋田市旭北栄町５-１０,歯科,,,9" xlink:title="エンパイア歯科医院" transform="ref(svg,14010.962,-3972.1407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）玉木歯科医院,秋田県秋田市旭南３-８-３,矯正歯科　歯科　小児歯科,,,9" xlink:title="（医）玉木歯科医院" transform="ref(svg,14010.6523,-3970.635)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡部歯科医院,秋田県秋田市旭南３-３-１３,歯科　小児歯科,,,9" xlink:title="岡部歯科医院" transform="ref(svg,14011.001,-3970.8269)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）デッグ高山歯科医院,秋田県秋田市旭南２-１-３８,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）デッグ高山歯科医院" transform="ref(svg,14011.1619,-3971.0347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひろはた歯科医院,秋田県秋田市川元山下町２-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="ひろはた歯科医院" transform="ref(svg,14010.4855,-3971.3773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,稲葉歯科医院,秋田県秋田市川元開和町１０-２０,矯正歯科　歯科　小児歯科,,,9" xlink:title="稲葉歯科医院" transform="ref(svg,14010.6574,-3970.9937)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,船木歯科クリニック,秋田県秋田市川尻大川町１-４０,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="船木歯科クリニック" transform="ref(svg,14009.3037,-3971.3296)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,真宮歯科医院,秋田県秋田市川尻みよし町１３-３２,歯科,,,9" xlink:title="真宮歯科医院" transform="ref(svg,14009.7224,-3970.9439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉山歯科クリニック,秋田県秋田市山王３-５-１５,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="杉山歯科クリニック" transform="ref(svg,14010.7381,-3971.5933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科アキタクリニック,秋田県秋田市山王１-９-１０,矯正歯科　歯科　歯科口腔外科,,,9" xlink:title="歯科アキタクリニック" transform="ref(svg,14010.2278,-3972.202)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こまはし歯科医院,秋田県秋田市山王２-６-１,歯科　小児歯科,,,9" xlink:title="こまはし歯科医院" transform="ref(svg,14010.658,-3972.0479)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山王歯科医院,秋田県秋田市山王１-３-１８,歯科,,,9" xlink:title="山王歯科医院" transform="ref(svg,14010.237,-3972.086)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）秋田歯科医療会山王有明歯科診療所,秋田県秋田市山王２-１-５３　２Ｆ,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）秋田歯科医療会山王有明歯科診療所" transform="ref(svg,14010.5131,-3971.958)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いとう歯科医院,秋田県秋田市山王５-１-１５朝日プラザ欅通１０１,歯科,,,9" xlink:title="いとう歯科医院" transform="ref(svg,14010.2856,-3971.5379)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｄｅｎｔａｌ　Ｃａｒｅ　オリーブ歯科クリニック,秋田県秋田市山王中島町２-２５,歯科　小児歯科,,,9" xlink:title="Ｄｅｎｔａｌ　Ｃａｒｅ　オリーブ歯科クリニック" transform="ref(svg,14009.2671,-3971.5941)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山王中村歯科医院,秋田県秋田市山王中島町１２-１６,歯科,,,9" xlink:title="山王中村歯科医院" transform="ref(svg,14009.0345,-3971.6139)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡辺歯科医院,秋田県秋田市八橋大畑２-２-８,歯科　小児歯科,,,9" xlink:title="渡辺歯科医院" transform="ref(svg,14009.6598,-3973.386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すのうち歯科医院,秋田県秋田市八橋新川向９-２１,矯正歯科　歯科　小児歯科,,,9" xlink:title="すのうち歯科医院" transform="ref(svg,14010.3407,-3972.8649)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉田歯科医院,秋田県秋田市八橋三和町１９-１９,歯科,,,9" xlink:title="杉田歯科医院" transform="ref(svg,14010.0065,-3973.0447)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おみ歯科クリニック,秋田県秋田市八橋田五郎１-２-７,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="おみ歯科クリニック" transform="ref(svg,14009.6696,-3972.7324)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,けやき通り歯科医院,秋田県秋田市八橋本町３-１４-１４,歯科,,,9" xlink:title="けやき通り歯科医院" transform="ref(svg,14010.0716,-3972.6249)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たつやデンタルクリニック,秋田県秋田市八橋本町２-１１-８,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="たつやデンタルクリニック" transform="ref(svg,14009.3568,-3972.3418)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すがわら歯科医院,秋田県秋田市雄和石田中大部５０-５,矯正歯科　歯科,,,9" xlink:title="すがわら歯科医院" transform="ref(svg,14016.7109,-3959.3099)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いがらし歯科医院,秋田県秋田市雄和妙法字上大部１７-３,矯正歯科　歯科　小児歯科,,,9" xlink:title="いがらし歯科医院" transform="ref(svg,14017.0373,-3958.9091)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イオン秋田歯科クリニック,秋田県秋田市御所野地蔵田１-１-１イオンモール秋田１Ｆ,矯正歯科　歯科　小児歯科,,,9" xlink:title="イオン秋田歯科クリニック" transform="ref(svg,14016.0725,-3966.3549)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いしばし歯科医院,秋田県秋田市御所野元町５-１２-３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="いしばし歯科医院" transform="ref(svg,14016.9297,-3966.0201)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平塚歯科医院,秋田県秋田市御所野元町２-１２-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="平塚歯科医院" transform="ref(svg,14016.6922,-3966.4838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）三浦歯科クリニック,秋田県秋田市仁井田本町５-１-２５,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）三浦歯科クリニック" transform="ref(svg,14012.7455,-3967.644)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神田歯科医院,秋田県秋田市仁井田本町４-１３-２,歯科,,,9" xlink:title="神田歯科医院" transform="ref(svg,14013.0177,-3967.8467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）熊谷歯科医院,秋田県秋田市仁井田中新田５０９,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）熊谷歯科医院" transform="ref(svg,14012.4319,-3967.3726)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おのば歯科クリニック,秋田県秋田市仁井田中新田７５,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="おのば歯科クリニック" transform="ref(svg,14012.3578,-3967.7679)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こばやし歯科クリニック,秋田県秋田市御野場８-７-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="こばやし歯科クリニック" transform="ref(svg,14012.6932,-3966.8341)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,京谷歯科医院,秋田県秋田市御野場４-３-３,歯科　小児歯科,,,9" xlink:title="京谷歯科医院" transform="ref(svg,14013.2746,-3967.2508)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西野歯科医院,秋田県秋田市御野場新町４-１-１,歯科,,,9" xlink:title="西野歯科医院" transform="ref(svg,14012.3408,-3966.9588)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）おおすみ歯科医院,秋田県秋田市大住３-３-５３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）おおすみ歯科医院" transform="ref(svg,14011.856,-3969.0301)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,下浜歯科医院,秋田県秋田市下浜羽川字下山４８-１２５,矯正歯科　歯科　小児歯科,,,9" xlink:title="下浜歯科医院" transform="ref(svg,14006.5444,-3961.1554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥山歯科医院,秋田県秋田市新屋勝平町９-４４,歯科,,,9" xlink:title="奥山歯科医院" transform="ref(svg,14008.2455,-3969.6447)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きくち歯科医院,秋田県秋田市新屋天秤野５-７,歯科　小児歯科,,,9" xlink:title="きくち歯科医院" transform="ref(svg,14008.4769,-3970.6243)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）晃翔会おの歯科医院,秋田県秋田市新屋豊町１０-３,歯科,,,9" xlink:title="（医）晃翔会おの歯科医院" transform="ref(svg,14008.9173,-3970.3192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,歯科勝平クリニック,秋田県秋田市新屋松美ガ丘南町１５-２３,歯科,,,9" xlink:title="歯科勝平クリニック" transform="ref(svg,14008.087,-3970.0834)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くまがい日吉歯科医院,秋田県秋田市新屋町関町後２０５-１,歯科　小児歯科,,,9" xlink:title="くまがい日吉歯科医院" transform="ref(svg,14007.7797,-3968.3741)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もとまち歯科医院,秋田県秋田市新屋元町５-３８,歯科　小児歯科,,,9" xlink:title="もとまち歯科医院" transform="ref(svg,14008.3725,-3968.7174)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三浦歯科医院,秋田県秋田市新屋元町２２-３４,歯科,,,9" xlink:title="三浦歯科医院" transform="ref(svg,14008.4182,-3968.3511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,とりき町歯科クリニック,秋田県秋田市新屋鳥木町４-４７,歯科　小児歯科,,,9" xlink:title="とりき町歯科クリニック" transform="ref(svg,14009.1685,-3967.4057)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,堀部歯科医院,秋田県秋田市新屋表町１１-３,矯正歯科　歯科　小児歯科,,,9" xlink:title="堀部歯科医院" transform="ref(svg,14008.4401,-3967.9396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,寺内歯科医院,秋田県秋田市寺内油田２-５-２１,歯科,,,9" xlink:title="寺内歯科医院" transform="ref(svg,14009.052,-3973.1051)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,秋田県秋田市寺内油田３-１６-３４,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,14008.5499,-3973.2318)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）南秋会もみの木デンタルクリニック,秋田県秋田市飯島堀川１０,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）南秋会もみの木デンタルクリニック" transform="ref(svg,14006.2366,-3979.2977)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,白石歯科医院,秋田県秋田市飯島道東２-１２-４３,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="白石歯科医院" transform="ref(svg,14006.7374,-3977.9999)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,フレンドこども歯科,秋田県秋田市港北松野町１０-４５,歯科　小児歯科,,,9" xlink:title="フレンドこども歯科" transform="ref(svg,14007.982,-3976.7803)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田北歯科医院,秋田県秋田市将軍野青山町１２-３０,歯科,,,9" xlink:title="田北歯科医院" transform="ref(svg,14009.0723,-3976.1985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,Ｄｅｎｔａｌ　Ａｒｔ　Ｏｆｆｉｃｅ,秋田県秋田市将軍野向山１３-４６,歯科,,,9" xlink:title="Ｄｅｎｔａｌ　Ａｒｔ　Ｏｆｆｉｃｅ" transform="ref(svg,14009.1035,-3975.0135)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,将軍野歯科診療所,秋田県秋田市将軍野南１-１０-５２,歯科　小児歯科,,,9" xlink:title="将軍野歯科診療所" transform="ref(svg,14008.0101,-3974.7152)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹内歯科医院,秋田県秋田市将軍野南３-１３-２２,歯科,,,9" xlink:title="竹内歯科医院" transform="ref(svg,14008.2696,-3974.9122)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）佐々木歯科医院,秋田県秋田市将軍野南３-１０-１０,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）佐々木歯科医院" transform="ref(svg,14008.0044,-3974.7622)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恒心会佐藤歯科医院,秋田県秋田市土崎港北３-３-５１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）恒心会佐藤歯科医院" transform="ref(svg,14007.885,-3976.6833)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こまつ歯科医院,秋田県秋田市土崎港北７-７-２１,歯科,,,9" xlink:title="こまつ歯科医院" transform="ref(svg,14007.0174,-3977.2414)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤岡歯科医院,秋田県秋田市土崎港東４-４-２,歯科,,,9" xlink:title="藤岡歯科医院" transform="ref(svg,14008.2933,-3975.6403)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひゃくすい歯科,秋田県秋田市土崎港東４-６-４７,歯科,,,9" xlink:title="ひゃくすい歯科" transform="ref(svg,14008.335,-3975.8541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すま歯科医院,秋田県秋田市土崎港南１-１４-９,歯科　小児歯科,,,9" xlink:title="すま歯科医院" transform="ref(svg,14006.9518,-3974.8407)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）能代歯科医療会みなみ歯科医院,秋田県秋田市土崎港南３-７-４,歯科,,,9" xlink:title="（医）能代歯科医療会みなみ歯科医院" transform="ref(svg,14007.5731,-3974.5881)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,片野歯科医院,秋田県秋田市土崎港南２-４-３８,矯正歯科　歯科,,,9" xlink:title="片野歯科医院" transform="ref(svg,14007.1862,-3974.852)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）豊盛会豊間歯科医院,秋田県秋田市土崎港中央２-５-２４,歯科　歯科口腔外科,,,9" xlink:title="（医）豊盛会豊間歯科医院" transform="ref(svg,14007.406,-3975.0106)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,泉谷歯科医院,秋田県秋田市土崎港中央１-１４-１３,歯科,,,9" xlink:title="泉谷歯科医院" transform="ref(svg,14006.8345,-3975.2305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神谷歯科医院,秋田県秋田市土崎港中央７-５-２５,歯科　小児歯科,,,9" xlink:title="神谷歯科医院" transform="ref(svg,14006.846,-3976.2873)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,竹中歯科クリニック,秋田県秋田市土崎港中央５-８-３,歯科,,,9" xlink:title="竹中歯科クリニック" transform="ref(svg,14007.244,-3975.8292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中道歯科医院,秋田県秋田市土崎港中央６-１２-１５,歯科,,,9" xlink:title="中道歯科医院" transform="ref(svg,14007.2474,-3975.6129)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小澤歯科医院,秋田県秋田市土崎港中央５-１０-１４,矯正歯科　歯科　小児歯科,,,9" xlink:title="小澤歯科医院" transform="ref(svg,14006.9565,-3975.9824)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）東京堂港町歯科クリニック,秋田県秋田市土崎港中央３-５-４０,歯科,,,9" xlink:title="（医）東京堂港町歯科クリニック" transform="ref(svg,14006.8272,-3975.5897)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小澤歯科医院,秋田県秋田市土崎港中央４-５-５３,歯科,,,9" xlink:title="小澤歯科医院" transform="ref(svg,14007.3915,-3975.2306)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大山歯科医院,秋田県秋田市土崎港中央５-２-１１,歯科,,,9" xlink:title="大山歯科医院" transform="ref(svg,14006.9463,-3975.7835)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,又井歯科クリニック,秋田県秋田市飯島西袋２-１６-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="又井歯科クリニック" transform="ref(svg,14009.1919,-3976.893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）石塚歯科医院,秋田県秋田市河辺和田上中野４０１-６,歯科　小児歯科,,,9" xlink:title="（医）石塚歯科医院" transform="ref(svg,14021.5365,-3965.1697)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,広幡歯科医院,秋田県秋田市河辺和田上中野１２６-３,歯科,,,9" xlink:title="広幡歯科医院" transform="ref(svg,14021.794,-3965.1187)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かず歯科クリニック,秋田県秋田市広面字昼寝２３-２,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="かず歯科クリニック" transform="ref(svg,14014.2917,-3972.3808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）大坂歯科医院,秋田県由利本荘市石脇田尻野２２-３１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）大坂歯科医院" transform="ref(svg,14003.1599,-3939.5168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鈴木歯科クリニック,秋田県由利本荘市石脇山ノ神１１-１１１５,歯科,,,9" xlink:title="鈴木歯科クリニック" transform="ref(svg,14003.287,-3940.5975)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,東京ホワイト歯科,秋田県由利本荘市川口八幡前２５２-１,歯科,,,9" xlink:title="東京ホワイト歯科" transform="ref(svg,14006.1243,-3939.9796)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,五味デンタルクリニック,秋田県由利本荘市川口家後７９-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="五味デンタルクリニック" transform="ref(svg,14006.3179,-3940.5203)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）瑞雲会工藤歯科医院,秋田県由利本荘市裏尾崎町１０-２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）瑞雲会工藤歯科医院" transform="ref(svg,14004.7412,-3938.7989)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,秋田県由利本荘市笹道５９,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14005.5842,-3938.3875)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,志村歯科医院,秋田県由利本荘市花畑町１-７３,歯科,,,9" xlink:title="志村歯科医院" transform="ref(svg,14005.5855,-3938.4588)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）歯仁会斎藤歯科診療所,秋田県由利本荘市美倉町４７-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）歯仁会斎藤歯科診療所" transform="ref(svg,14005.224,-3939.0058)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,秋田県由利本荘市中竪町４２,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,14004.8315,-3938.9083)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤丸歯科クリニック,秋田県由利本荘市中竪町１８-１,歯科　小児歯科,,,9" xlink:title="藤丸歯科クリニック" transform="ref(svg,14004.9041,-3938.8614)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,進藤歯科医院,秋田県由利本荘市谷山小路１８,歯科,,,9" xlink:title="進藤歯科医院" transform="ref(svg,14004.8708,-3938.933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,秋田県由利本荘市桶屋町１２４,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="武田歯科医院" transform="ref(svg,14004.7675,-3939.2489)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおくま歯科クリニック,秋田県由利本荘市赤沼下４２３-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="おおくま歯科クリニック" transform="ref(svg,14005.738,-3939.1882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しんどう歯科クリニック,秋田県由利本荘市砂子下７-３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="しんどう歯科クリニック" transform="ref(svg,14003.9214,-3938.8168)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さはら歯科クリニック,秋田県由利本荘市中梵天１００-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="さはら歯科クリニック" transform="ref(svg,14006.1332,-3938.5896)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科医院,秋田県由利本荘市御門２２４-２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="金子歯科医院" transform="ref(svg,14004.9816,-3938.2081)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ケーディーシー金内歯科医院,秋田県由利本荘市岩谷町日渡２５２,歯科,,,9" xlink:title="（医）ケーディーシー金内歯科医院" transform="ref(svg,14009.3959,-3944.0482)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）大内会鈴木歯科診療所,秋田県由利本荘市大内三川白山田８６-１,歯科,,,9" xlink:title="（医）大内会鈴木歯科診療所" transform="ref(svg,14011.3006,-3944.5163)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蔵小路歯科クリニック,秋田県由利本荘市岩城亀田大町蔵小路１１,歯科　小児歯科,,,9" xlink:title="蔵小路歯科クリニック" transform="ref(svg,14008.1693,-3950.159)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恭栄会歯科いわきクリニック,秋田県由利本荘市岩城内道川新鶴潟３-８,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）恭栄会歯科いわきクリニック" transform="ref(svg,14005.6376,-3955.9631)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,御門歯科クリニック,秋田県由利本荘市本田仲町７２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="御門歯科クリニック" transform="ref(svg,14005.1862,-3938.2666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとうデンタルクリニック,秋田県由利本荘市東梵天１９０-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="さいとうデンタルクリニック" transform="ref(svg,14006.3602,-3938.5217)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井関歯科医院,秋田県大仙市朝日町４-１４,歯科,,,9" xlink:title="井関歯科医院" transform="ref(svg,14047.5497,-3946.8134)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みちのく政宗デンタルクリニック,秋田県大仙市福田町２２-２３-７,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="みちのく政宗デンタルクリニック" transform="ref(svg,14048.3305,-3947.0192)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,嶋村歯科クリニック,秋田県大仙市大曲中通町８-３２,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="嶋村歯科クリニック" transform="ref(svg,14047.7895,-3946.3137)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,船木歯科医院,秋田県大仙市大曲中通町２-１７,歯科,,,9" xlink:title="船木歯科医院" transform="ref(svg,14047.9974,-3946.0836)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤田歯科医院,秋田県大仙市大曲通町１-２１,歯科,,,9" xlink:title="藤田歯科医院" transform="ref(svg,14047.823,-3946.4389)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科クリニック,秋田県大仙市大曲丸子町７-３１,歯科　小児歯科,,,9" xlink:title="金子歯科クリニック" transform="ref(svg,14048.9231,-3946.0717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口歯科医院,秋田県大仙市大曲田町２８-３０,歯科　小児歯科,,,9" xlink:title="田口歯科医院" transform="ref(svg,14048.5007,-3945.0936)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋ひろし歯科医院,秋田県大仙市大曲田町１２-２０,矯正歯科　歯科,,,9" xlink:title="高橋ひろし歯科医院" transform="ref(svg,14048.2114,-3945.3138)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こまい歯科医院,秋田県大仙市大曲上大町７-１１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="こまい歯科医院" transform="ref(svg,14047.8011,-3945.7075)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,畠山歯科医院,秋田県大仙市大曲浜町２-３,歯科,,,9" xlink:title="畠山歯科医院" transform="ref(svg,14047.4859,-3945.7924)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,秋田県大仙市大曲栄町３-２３,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14047.7932,-3945.2859)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）明和会大曲中通歯科診療所,秋田県大仙市大曲上栄町４-３,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）明和会大曲中通歯科診療所" transform="ref(svg,14047.5845,-3945.1383)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ホワイト歯科医院,秋田県大仙市大曲日の出町２-４-１６,歯科　歯科口腔外科,,,9" xlink:title="ホワイト歯科医院" transform="ref(svg,14048.0589,-3944.4467)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ヒロ・デンタル・プロデュース　タケダ歯科秋田インプラントクリニック,秋田県大仙市飯田大道端３-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）ヒロ・デンタル・プロデュース　タケダ歯科秋田インプラントクリニック" transform="ref(svg,14048.7238,-3942.9552)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩田歯科医院,秋田県大仙市四ツ屋下古道４２-１,歯科　小児歯科,,,9" xlink:title="岩田歯科医院" transform="ref(svg,14049.8565,-3949.3164)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仙北歯科医院,秋田県大仙市福田穴沢４７,歯科,,,9" xlink:title="仙北歯科医院" transform="ref(svg,14053.9475,-3948.6645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながさか歯科医院,秋田県大仙市北長野茶畑５５-１,歯科　小児歯科,,,9" xlink:title="ながさか歯科医院" transform="ref(svg,14054.6129,-3954.5554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長尾歯科医院,秋田県大仙市長野紫嶋４８-２,歯科,,,9" xlink:title="長尾歯科医院" transform="ref(svg,14054.0483,-3954.3738)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米澤歯科医院,秋田県大仙市長野六日町６８,歯科,,,9" xlink:title="米澤歯科医院" transform="ref(svg,14053.4233,-3954.1923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかはし歯科クリニック,秋田県大仙市高梨田茂木８４,歯科　小児歯科,,,9" xlink:title="たかはし歯科クリニック" transform="ref(svg,14050.5076,-3946.1186)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,秋田県大仙市角間川町西本町２,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14048.0494,-3940.6959)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,角間川歯科医院,秋田県大仙市角間川町中前田１１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="角間川歯科医院" transform="ref(svg,14048.1312,-3939.8587)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おやしき歯科クリニック,秋田県大仙市角間川町東本町６,歯科,,,9" xlink:title="おやしき歯科クリニック" transform="ref(svg,14048.1826,-3940.8732)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科診療所,秋田県大仙市太田町横沢窪関南５０５-３,歯科,,,9" xlink:title="太田歯科診療所" transform="ref(svg,14059.7801,-3951.0757)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,冨岡歯科医院,秋田県大仙市太田町中里二十町９８,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="冨岡歯科医院" transform="ref(svg,14059.3733,-3949.9707)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,船木歯科医院,秋田県大仙市神宮寺本郷野２２-４,歯科,,,9" xlink:title="船木歯科医院" transform="ref(svg,14042.6115,-3949.4697)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,神岡歯科診療所,秋田県大仙市神宮寺本郷下２６-２,歯科,,,9" xlink:title="神岡歯科診療所" transform="ref(svg,14042.1452,-3949.003)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高橋歯科医院,秋田県大仙市神宮寺本郷野１２５-９,歯科,,,9" xlink:title="高橋歯科医院" transform="ref(svg,14042.3596,-3949.3808)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,畠山歯科医院,秋田県大仙市南外落合２４-３,矯正歯科　歯科　小児歯科,,,9" xlink:title="畠山歯科医院" transform="ref(svg,14036.3092,-3945.2916)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小坂歯科医院,秋田県大仙市刈和野愛宕町２５,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="小坂歯科医院" transform="ref(svg,14037.0348,-3954.4982)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,冨塚歯科医院,秋田県大仙市刈和野字川原田２-２８,矯正歯科　歯科　歯科口腔外科,,,9" xlink:title="冨塚歯科医院" transform="ref(svg,14036.9781,-3954.8982)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）康晴会生和堂医院歯科,秋田県大仙市刈和野清光院後１５-２,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="（医）康晴会生和堂医院歯科" transform="ref(svg,14037.3343,-3954.4278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,協和町歯科診療所,秋田県大仙市協和境野田２１-３,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="協和町歯科診療所" transform="ref(svg,14032.1602,-3961.5666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,秋田県仙北市角館町田町上丁５０-２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,14056.6356,-3959.3485)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとうデンタルクリニック,秋田県仙北市角館町田町下丁１１-１,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="さとうデンタルクリニック" transform="ref(svg,14056.5244,-3959.0132)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐藤歯科医院,秋田県仙北市角館町下岩瀬町１,歯科,,,9" xlink:title="佐藤歯科医院" transform="ref(svg,14056.4618,-3958.9971)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さいとう歯科クリニック,秋田県仙北市角館町下新町４-２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="さいとう歯科クリニック" transform="ref(svg,14056.4347,-3959.1773)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,城南堂歯科医院,秋田県仙北市角館町西勝楽町２０,歯科,,,9" xlink:title="城南堂歯科医院" transform="ref(svg,14056.1752,-3959.313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）祐生堂祐生堂医院歯科,秋田県仙北市角館町竹原町２６,歯科,,,9" xlink:title="（医）祐生堂祐生堂医院歯科" transform="ref(svg,14056.801,-3959.4666)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,カワラダ歯科,秋田県仙北市角館町上菅沢１６４-２,歯科,,,9" xlink:title="カワラダ歯科" transform="ref(svg,14057.4944,-3959.5882)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科医院,秋田県仙北市角館町小館２８-１８,矯正歯科　歯科　小児歯科,,,9" xlink:title="さくら歯科医院" transform="ref(svg,14056.0403,-3959.1443)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,にしき歯科クリニック,秋田県仙北市西木町門屋道目木３１９-２,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="にしき歯科クリニック" transform="ref(svg,14056.7664,-3965.9942)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科医院,秋田県仙北市田沢湖神代堂ノ西６-９,矯正歯科　歯科　小児歯科,,,9" xlink:title="ささき歯科医院" transform="ref(svg,14060.2022,-3961.4682)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田口歯科クリニック,秋田県仙北市角館町竹原町３９,歯科　小児歯科,,,9" xlink:title="田口歯科クリニック" transform="ref(svg,14056.9077,-3959.5089)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たかはし歯科医院,秋田県仙北郡美郷町境田下八百刈２１８,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="たかはし歯科医院" transform="ref(svg,14051.808,-3940.333)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小西歯科医院,秋田県仙北郡美郷町六郷荒町６,矯正歯科　歯科　小児歯科,,,9" xlink:title="小西歯科医院" transform="ref(svg,14054.5949,-3942.0505)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,富永歯科医院,秋田県仙北郡美郷町六郷荒町１１７-５,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="富永歯科医院" transform="ref(svg,14054.6747,-3942.0669)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡田歯科医院,秋田県仙北郡美郷町六郷馬町１２,歯科　小児歯科,,,9" xlink:title="岡田歯科医院" transform="ref(svg,14054.7463,-3942.2511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,高山歯科医院,秋田県仙北郡美郷町土崎上野２３６-４,矯正歯科　歯科　歯科口腔外科　小児歯科,,,9" xlink:title="高山歯科医院" transform="ref(svg,14058.0674,-3946.1496)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,佐々木歯科医院,秋田県大仙市大曲上栄町１-１８,歯科,,,9" xlink:title="佐々木歯科医院" transform="ref(svg,14047.5964,-3945.2259)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,渡部歯科医院,秋田県横手市金沢本町本町４,歯科,,,9" xlink:title="渡部歯科医院" transform="ref(svg,14057.3474,-3937.7907)" x="0" y="0"/>
+</g>
+</svg>

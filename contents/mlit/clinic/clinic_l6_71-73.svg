@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13992.1875 -3867.1875 70.3125 70.3125" go:dataArea="13992.1875 -3867.1875 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,おおぬまクリニック,宮城県白石市延命寺北１-６,耳鼻咽喉科　気管食道科,,,9" xlink:title="おおぬまクリニック" transform="ref(svg,14062.3488,-3800.8159)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦内科胃腸科クリニック,宮城県白石市字東小路１１２,内科　胃腸科,,,9" xlink:title="三浦内科胃腸科クリニック" transform="ref(svg,14062.1462,-3800.3505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝倉医院,宮城県白石市字本町８９,内科,,,9" xlink:title="朝倉医院" transform="ref(svg,14062.3029,-3800.2359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅野眼科医院,宮城県白石市字柳町７２-４,眼科,,,9" xlink:title="浅野眼科医院" transform="ref(svg,14062.4846,-3799.9762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,亘理内科胃腸科医院,宮城県白石市城北町１-１８,内科　胃腸科,,,9" xlink:title="亘理内科胃腸科医院" transform="ref(svg,14062.0528,-3800.6443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つつみ内科外科こどもクリニック,宮城県白石市清水小路６-３,内科　小児科　外科　糖尿病内科,,,9" xlink:title="つつみ内科外科こどもクリニック" transform="ref(svg,14062.3179,-3800.7329)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤小児科内科医院,宮城県白石市大手町３-１３,内科　小児科,,,9" xlink:title="加藤小児科内科医院" transform="ref(svg,14062.0732,-3800.2588)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柿崎小児科,宮城県白石市沢端町１-３７,小児科,,,9" xlink:title="柿崎小児科" transform="ref(svg,14062.0299,-3800.4571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水野内科クリニック,宮城県白石市沢端町３-４３,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="水野内科クリニック" transform="ref(svg,14061.9226,-3800.5757)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,海上内科医院,宮城県白石市長町５６-１,内科　内科（呼吸器・循環器・消化器・糖尿病・代謝）,,,9" xlink:title="海上内科医院" transform="ref(svg,14062.2687,-3800.5428)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴原医院,宮城県白石市不澄ヶ池２２-１,内科　耳鼻咽喉科　気管食道科,,,9" xlink:title="柴原医院" transform="ref(svg,14062.4843,-3800.6116)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）えんじゅ診療所,宮城県白石市福岡蔵本字茶園６２-１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（特養）えんじゅ診療所" transform="ref(svg,14060.3098,-3798.106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）八宮荘診療所,宮城県白石市福岡八宮字川原１０-３,内科,,,9" xlink:title="（特養）八宮荘診療所" transform="ref(svg,14060.2386,-3802.5933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはし内科クリニック,宮城県白石市城北町４-１１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="たかはし内科クリニック" transform="ref(svg,14061.8654,-3800.6694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こまつ外科内科クリニック,宮城県白石市城南２-２-６,内科　外科　小児外科　皮膚科　こう門科,,,9" xlink:title="こまつ外科内科クリニック" transform="ref(svg,14061.4375,-3799.715)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塚本内科消化器科,宮城県白石市城南１-２-２９,内科　心療内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="塚本内科消化器科" transform="ref(svg,14061.2226,-3799.6225)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大手町おおはし眼科,宮城県白石市城北町４-４１,眼科,,,9" xlink:title="大手町おおはし眼科" transform="ref(svg,14061.845,-3800.6216)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおはし整形外科,宮城県白石市南町１-３-３３,整形外科　リハビリテーション科,,,9" xlink:title="おおはし整形外科" transform="ref(svg,14061.9711,-3800.0506)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みずき診療所,宮城県白石市福岡蔵本字茶園６２-５,整形外科,,,9" xlink:title="（特養）みずき診療所" transform="ref(svg,14060.1726,-3801.0082)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）せせらぎのさと蔵王,宮城県刈田郡蔵王町遠刈田温泉字小妻坂７９-８,内科,,,9" xlink:title="（特養）せせらぎのさと蔵王" transform="ref(svg,14061.3224,-3811.6161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,七ヶ宿町国民健康保険診療所,宮城県刈田郡七ヶ宿町字関１８３,内科　小児科　外科　歯科,,,9" xlink:title="七ヶ宿町国民健康保険診療所" transform="ref(svg,14043.9617,-3799.5127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,七ヶ宿町国民健康保険湯原診療所,宮城県刈田郡七ヶ宿町字東口道下４-６,内科　小児科　外科,,,9" xlink:title="七ヶ宿町国民健康保険湯原診療所" transform="ref(svg,14032.709,-3801.0016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ゆりの里七ヶ宿診療所,宮城県刈田郡七ヶ宿町字矢立３-１,内科,,,9" xlink:title="（特養）ゆりの里七ヶ宿診療所" transform="ref(svg,14046.3941,-3798.3576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）内ケ崎医院,山形県山形市幸町１２-５０,内科　精神科　神経科,,,9" xlink:title="（医）内ケ崎医院" transform="ref(svg,14032.6749,-3824.385)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）音山医院,山形県山形市三日町１-２-７,皮膚科　泌尿器科,,,9" xlink:title="（医）音山医院" transform="ref(svg,14033.4786,-3824.1835)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大沼産婦人科医院,山形県山形市十日町１-３-２６,産科　婦人科,,,9" xlink:title="大沼産婦人科医院" transform="ref(svg,14033.5696,-3824.7717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松医院,山形県山形市長町１-４-１,内科　小児科　精神科　心療内科,,,9" xlink:title="小松医院" transform="ref(svg,14033.9535,-3828.4222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堺内科胃腸科医院,山形県山形市小白川町２-１-６５,内科,,,9" xlink:title="堺内科胃腸科医院" transform="ref(svg,14034.895,-3824.9245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）斎藤皮膚科医院,山形県山形市十日町４-１-４１,皮膚科,,,9" xlink:title="（医）斎藤皮膚科医院" transform="ref(svg,14033.2745,-3824.5858)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木医院,山形県山形市肴町３-３４,内科　胃腸科　アレルギー科　皮膚科,,,9" xlink:title="佐々木医院" transform="ref(svg,14033.1445,-3826.1579)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斎藤医院,山形県山形市蔵王半郷２５６-７,内科　循環器科,,,9" xlink:title="斎藤医院" transform="ref(svg,14031.73,-3819.0899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斯波医院,山形県山形市宮町５-４-２８,内科　呼吸器科　アレルギー科,,,9" xlink:title="斯波医院" transform="ref(svg,14034.0449,-3826.2467)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多田医院,山形県山形市七日町３-２-８,耳鼻いんこう科,,,9" xlink:title="多田医院" transform="ref(svg,14034.0769,-3825.4299)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田眼科医院,山形県山形市十日町１-３-３７,眼科,,,9" xlink:title="武田眼科医院" transform="ref(svg,14033.4926,-3824.7342)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高橋外科内科医院,山形県山形市大字大森１０７５-２,内科　外科　皮膚科　泌尿器科,,,9" xlink:title="（医）高橋外科内科医院" transform="ref(svg,14038.5805,-3831.2531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）長嶋医院,山形県山形市小姓町３-１０,内科　胃腸科,,,9" xlink:title="（医）長嶋医院" transform="ref(svg,14034.0018,-3824.6986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内藤医院,山形県山形市鉄砲町１-４-２０,胃腸科　外科　整形外科　眼科　こう門科,,,9" xlink:title="内藤医院" transform="ref(svg,14033.2242,-3823.9782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森整形外科医院,山形県山形市桜町２-４６,整形外科,,,9" xlink:title="森整形外科医院" transform="ref(svg,14033.2092,-3825.1972)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉池小児科皮膚科医院,山形県山形市十日町２-４-１６,小児科　皮膚科,,,9" xlink:title="吉池小児科皮膚科医院" transform="ref(svg,14033.6943,-3824.8274)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉村医院,山形県山形市小姓町１-３４,内科　胃腸科　外科　こう門科,,,9" xlink:title="吉村医院" transform="ref(svg,14033.9281,-3824.6551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大内内科胃腸科医院,山形県山形市下条町２-１-２０,内科　胃腸科,,,9" xlink:title="（医）大内内科胃腸科医院" transform="ref(svg,14032.4434,-3826.0607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,堀米医院,山形県山形市木の実町７-４,皮膚科　泌尿器科,,,9" xlink:title="堀米医院" transform="ref(svg,14033.237,-3825.1298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐山クリニック,山形県山形市双葉町２-３-３,内科　胃腸科　外科　麻酔科,,,9" xlink:title="佐山クリニック" transform="ref(svg,14032.0972,-3824.9404)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋胃腸科内科医院古館診療所,山形県山形市大字古館字替所１５６０-２,内科　胃腸科,,,9" xlink:title="高橋胃腸科内科医院古館診療所" transform="ref(svg,14026.0576,-3826.2872)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形県職員診療所,山形県山形市松波２-８-１,内科,,,9" xlink:title="山形県職員診療所" transform="ref(svg,14036.2533,-3824.0127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橘医院,山形県山形市西田４-９-１６,内科　呼吸器科　胃腸科　循環器科　小児科,,,9" xlink:title="橘医院" transform="ref(svg,14031.8003,-3826.7079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長谷川医院,山形県山形市印役町２-１-２,内科　消化器科　循環器科,,,9" xlink:title="長谷川医院" transform="ref(svg,14035.16,-3826.15)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰道会佐藤眼科医院,山形県山形市美畑町１１-１１,眼科,,,9" xlink:title="（医）泰道会佐藤眼科医院" transform="ref(svg,14032.6066,-3823.5502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）やまがた健康推進機構山形検診センター,山形県山形市蔵王成沢字向久保田２２２０,内科　婦人科,,,9" xlink:title="（公財）やまがた健康推進機構山形検診センター" transform="ref(svg,14031.0537,-3820.5532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中皮膚科医院,山形県山形市春日町２-２６,皮膚科,,,9" xlink:title="田中皮膚科医院" transform="ref(svg,14031.9827,-3825.1752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加賀山医院,山形県山形市南一番町５-２６,内科　精神科　心療内科,,,9" xlink:title="加賀山医院" transform="ref(svg,14032.6664,-3823.401)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形県赤十字血液センター,山形県山形市松波１-１８-１０,内科,,,9" xlink:title="山形県赤十字血液センター" transform="ref(svg,14036.1706,-3823.7578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口内科医院,山形県山形市松波４-２-２３,内科　呼吸器科　消化器科　胃腸科　循環器科　小児科,,,9" xlink:title="山口内科医院" transform="ref(svg,14036.388,-3823.8105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部外科胃腸科医院,山形県山形市八日町２-１-１５,内科　胃腸科　外科　こう門科,,,9" xlink:title="阿部外科胃腸科医院" transform="ref(svg,14032.8723,-3824.2527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,城南胃腸科内科医院,山形県山形市若葉町５-１３,内科　消化器科　小児科,,,9" xlink:title="城南胃腸科内科医院" transform="ref(svg,14032.6835,-3824.1662)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）愛日荘診療所,山形県山形市大字妙見寺４,内科,,,9" xlink:title="（特養）愛日荘診療所" transform="ref(svg,14038.119,-3824.0617)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,明石医院,山形県山形市旅篭町１-９-２２,皮膚科,,,9" xlink:title="明石医院" transform="ref(svg,14033.6165,-3825.6534)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つげ医院,山形県山形市香澄町１-１１-１５,内科　外科,,,9" xlink:title="つげ医院" transform="ref(svg,14033.0879,-3824.9315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋クリニック,山形県山形市上町３-６-４１,内科　胃腸科　リウマチ科　外科　整形外科,,,9" xlink:title="高橋クリニック" transform="ref(svg,14031.5424,-3824.1985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土田小児科医院,山形県山形市長町２-３-６,小児科,,,9" xlink:title="土田小児科医院" transform="ref(svg,14034.1496,-3828.6498)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芳賀医院,山形県山形市南館３-４-３,内科,,,9" xlink:title="芳賀医院" transform="ref(svg,14031.3142,-3823.5774)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴宮小児科医院,山形県山形市東原町３-１０-７,小児科,,,9" xlink:title="鶴宮小児科医院" transform="ref(svg,14034.5173,-3824.2514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田整形外科クリニック,山形県山形市山家町２-６-６,整形外科,,,9" xlink:title="武田整形外科クリニック" transform="ref(svg,14036.1345,-3826.4637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大島医院,山形県山形市桜田西４-１-１４,内科　神経内科　整形外科　リハビリテーション科　放射線科,,,9" xlink:title="大島医院" transform="ref(svg,14031.9145,-3821.8545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青山医院,山形県上山市八日町４-２１,内科　小児科　婦人科　循環器内科,,,9" xlink:title="青山医院" transform="ref(svg,14027.8415,-3815.4533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原田医院,山形県上山市石崎２-１-８,内科　小児科　整形外科　産婦人科　リハビリテーション科,,,9" xlink:title="原田医院" transform="ref(svg,14027.313,-3815.3689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長岡医院,山形県上山市沢丁９-１３,内科　循環器科,,,9" xlink:title="長岡医院" transform="ref(svg,14027.4005,-3815.5639)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム蔵王長寿園,山形県上山市金谷字土矢倉３０７-１,内科　精神科,,,9" xlink:title="養護老人ホーム蔵王長寿園" transform="ref(svg,14030.0012,-3816.3103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高野せきね外科・眼科クリニック,山形県上山市八日町１-１,内科　外科　眼科　乳腺外科　消化器外科,,,9" xlink:title="高野せきね外科・眼科クリニック" transform="ref(svg,14027.8119,-3815.3465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原田眼科医院,山形県上山市十日町９-２,眼科,,,9" xlink:title="原田眼科医院" transform="ref(svg,14027.8832,-3815.8307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,紅花ホーム診療所,山形県天童市成生１９７１-２６,内科　精神科,,,9" xlink:title="紅花ホーム診療所" transform="ref(svg,14036.5747,-3839.4922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科外科中橋医院,山形県天童市老野森３-１６-１４,内科　外科,,,9" xlink:title="内科外科中橋医院" transform="ref(svg,14037.1466,-3836.6333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松田医院,山形県天童市大字山口１９１３-２,内科,,,9" xlink:title="松田医院" transform="ref(svg,14040.8196,-3838.649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮脇医院,山形県天童市東本町３-４-１３,内科　消化器科　循環器科,,,9" xlink:title="宮脇医院" transform="ref(svg,14037.9587,-3835.8119)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,真田眼科医院,山形県天童市三日町２-６-１,眼科,,,9" xlink:title="真田眼科医院" transform="ref(svg,14037.0696,-3835.5601)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,家坂小児科医院,山形県天童市東本町１-６-２２,小児科,,,9" xlink:title="家坂小児科医院" transform="ref(svg,14037.496,-3836.0472)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,干布後藤医院,山形県天童市大字干布４０３-２,内科　呼吸器科　小児科　アレルギー科,,,9" xlink:title="干布後藤医院" transform="ref(svg,14039.7148,-3832.8053)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋眼科医院,山形県天童市大字長岡７,眼科,,,9" xlink:title="高橋眼科医院" transform="ref(svg,14035.8592,-3833.296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安部内科胃腸科医院,山形県天童市久野本３-１-２７,内科　消化器科　胃腸科,,,9" xlink:title="安部内科胃腸科医院" transform="ref(svg,14037.7597,-3836.9719)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤山医院,山形県天童市荒谷９１,内科　外科,,,9" xlink:title="藤山医院" transform="ref(svg,14038.3752,-3832.0093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,水戸外科医院,山形県天童市北久野本１-６-３８,内科　消化器科　胃腸科　外科　皮膚科　こう門科,,,9" xlink:title="水戸外科医院" transform="ref(svg,14037.5856,-3837.3758)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三條外科胃腸科医院,山形県天童市五日町１-３-７,内科　外科　麻酔科　肛門外科　胃腸内科　疼痛緩和内科,,,9" xlink:title="三條外科胃腸科医院" transform="ref(svg,14037.0802,-3835.3035)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鞍掛胃腸科内科医院,山形県天童市東本町１-６-２０,内科　胃腸科,,,9" xlink:title="鞍掛胃腸科内科医院" transform="ref(svg,14037.4844,-3836.0776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋整形外科,山形県天童市久野本３-１９-２６,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="高橋整形外科" transform="ref(svg,14037.7849,-3837.2539)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安耳鼻咽喉科医院,山形県天童市東本町３-６-１２,呼吸器科　耳鼻いんこう科,,,9" xlink:title="（医）安耳鼻咽喉科医院" transform="ref(svg,14037.8351,-3835.8006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅原内科胃腸科医院,山形県天童市東長岡２-１-１,内科　消化器科　胃腸科,,,9" xlink:title="菅原内科胃腸科医院" transform="ref(svg,14036.2196,-3833.1375)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,パナソニック（株）山形工場,山形県天童市松城町１-１,内科,,,9" xlink:title="パナソニック（株）山形工場" transform="ref(svg,14037.1606,-3834.0217)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安孫子内科医院,山形県山形市大字風間１１４５,内科　小児科,,,9" xlink:title="安孫子内科医院" transform="ref(svg,14036.9649,-3829.9861)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢尾板医院,山形県山形市十日町１-２-２９,内科　循環器科,,,9" xlink:title="矢尾板医院" transform="ref(svg,14033.503,-3824.644)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大道寺内科医院,山形県山形市上町３-１１-４,内科　循環器科,,,9" xlink:title="大道寺内科医院" transform="ref(svg,14031.9856,-3824.1387)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）蓬仙園,山形県上山市高野字下小屋１７６-１,内科　精神科,,,9" xlink:title="（特養）蓬仙園" transform="ref(svg,14031.8599,-3815.9137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木外科胃腸科医院,山形県山形市七日町４-４-７,内科　外科　整形外科,,,9" xlink:title="鈴木外科胃腸科医院" transform="ref(svg,14034.391,-3825.2056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みこころの園診療所,山形県山形市大字沼木字下河原１１２９-１,内科　皮膚科　精神科　歯科,,,9" xlink:title="（特養）みこころの園診療所" transform="ref(svg,14028.5104,-3825.0856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）明幸園医務室,山形県天童市大字矢野目１５０,内科　外科,,,9" xlink:title="（特養）明幸園医務室" transform="ref(svg,14035.0567,-3835.3077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長岡医院,山形県山形市七日町４-５-２０,内科,,,9" xlink:title="長岡医院" transform="ref(svg,14034.4902,-3825.2934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松柏会至誠堂総合病院附属中山診療所,山形県東村山郡中山町長崎３０３０-１,内科　小児科　外科　眼科　皮膚科,,,9" xlink:title="（医）松柏会至誠堂総合病院附属中山診療所" transform="ref(svg,14027.9318,-3832.8436)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）妙光福祉会軽費老人ホームＡ型蔵王やすらぎの里医務室,山形県山形市蔵王上野字南坂９２０,内科,,,9" xlink:title="（福）妙光福祉会軽費老人ホームＡ型蔵王やすらぎの里医務室" transform="ref(svg,14031.6832,-3817.5926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須田整形外科医院,山形県上山市美咲町１-２-１８,内科　リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="須田整形外科医院" transform="ref(svg,14027.9564,-3815.0413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤倉医院,山形県上山市矢来４-１１-４６,内科,,,9" xlink:title="藤倉医院" transform="ref(svg,14027.9172,-3814.857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形県身体障がい者更生相談所,山形県山形市十日町１-６-６,整形外科　耳鼻いんこう科,,,9" xlink:title="山形県身体障がい者更生相談所" transform="ref(svg,14033.4464,-3824.8192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中島眼科医院,山形県山形市春日町８-３１,眼科,,,9" xlink:title="中島眼科医院" transform="ref(svg,14032.0288,-3825.2758)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）愛泉会向陽園医務室,山形県山形市大字長谷堂字川原４６８７,精神科　神経内科,,,9" xlink:title="（福）愛泉会向陽園医務室" transform="ref(svg,14027.9887,-3821.3186)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）菅野内科医院,山形県山形市旭が丘２-３４,内科　循環器科,,,9" xlink:title="（医）菅野内科医院" transform="ref(svg,14033.0229,-3822.6279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松眼科医院,山形県山形市元木２-１３-５,眼科,,,9" xlink:title="小松眼科医院" transform="ref(svg,14032.5246,-3822.3922)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科・胃腸科高橋医院,山形県天童市東本町１-１-３２,内科　胃腸科,,,9" xlink:title="内科・胃腸科高橋医院" transform="ref(svg,14037.4505,-3835.9639)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,服部内科胃腸科医院,山形県東村山郡中山町大字長崎４１７０-１,内科　胃腸科,,,9" xlink:title="服部内科胃腸科医院" transform="ref(svg,14026.6066,-3833.7749)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋胃腸科内科医院飯塚診療所,山形県山形市飯塚町中道北４４８-３,内科　胃腸科,,,9" xlink:title="高橋胃腸科内科医院飯塚診療所" transform="ref(svg,14028.9939,-3825.7832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）日本健康管理協会山形健康管理センター,山形県山形市桧町４-８-３０,内科　婦人科,,,9" xlink:title="（一財）日本健康管理協会山形健康管理センター" transform="ref(svg,14032.7213,-3827.7239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,門間医院,山形県山形市瀬波３-５-２０,内科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="門間医院" transform="ref(svg,14030.6866,-3828.2871)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤小児科医院,山形県山形市小白川町３-９-１５,小児科,,,9" xlink:title="佐藤小児科医院" transform="ref(svg,14035.977,-3824.7081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,玉井眼科医院,山形県山形市松波１-５-８,眼科,,,9" xlink:title="玉井眼科医院" transform="ref(svg,14035.6248,-3823.8557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大泉胃腸科内科クリニック,山形県山形市城西町５-２１-１５,内科　胃腸科,,,9" xlink:title="大泉胃腸科内科クリニック" transform="ref(svg,14031.5193,-3826.1349)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）政仁会原田香曽我部医院,山形県上山市栄町２-６-１,内科　消化器科　循環器科　小児科　整形外科,,,9" xlink:title="（医）政仁会原田香曽我部医院" transform="ref(svg,14028.1099,-3815.7569)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,とくなが整形外科医院,山形県山形市木の実町１０-１７,リウマチ科　整形外科,,,9" xlink:title="とくなが整形外科医院" transform="ref(svg,14033.5345,-3825.2462)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形市養護老人ホームあたご荘診療所,山形県山形市大字岩波５,内科,,,9" xlink:title="山形市養護老人ホームあたご荘診療所" transform="ref(svg,14035.0016,-3822.3212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅野馨眼科,山形県天童市本町２-１-１,眼科,,,9" xlink:title="菅野馨眼科" transform="ref(svg,14037.1679,-3835.9699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野目クリニック,山形県山形市大野目３-６-２２,内科　循環器科　心臓血管外科,,,9" xlink:title="大野目クリニック" transform="ref(svg,14035.9668,-3828.315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,政木医院,山形県山形市江南３-５-１９,皮膚科　泌尿器科,,,9" xlink:title="政木医院" transform="ref(svg,14031.8072,-3827.1826)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ながまち荘診療所,山形県山形市長町７５１,内科　整形外科,,,9" xlink:title="（特養）ながまち荘診療所" transform="ref(svg,14033.3793,-3829.0655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,設楽整形外科,山形県山形市桧町２-６-２７,整形外科　リハビリテーション科,,,9" xlink:title="設楽整形外科" transform="ref(svg,14033.2194,-3827.7239)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もんま内科皮ふ科医院,山形県山形市小立２-７-２０,内科　胃腸科　皮膚科,,,9" xlink:title="もんま内科皮ふ科医院" transform="ref(svg,14034.1505,-3822.9703)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）やまのべ荘診療所,山形県東村山郡山辺町大字大塚８１４-２,内科,,,9" xlink:title="（特養）やまのべ荘診療所" transform="ref(svg,14027.566,-3827.8802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,土屋眼科医院,山形県山形市七日町３-５-７,眼科,,,9" xlink:title="土屋眼科医院" transform="ref(svg,14034.1353,-3825.5069)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,勝島小児科医院,山形県山形市南館４-４-１２,小児科,,,9" xlink:title="勝島小児科医院" transform="ref(svg,14031.0211,-3823.5063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊東医院,山形県東村山郡山辺町大字山辺３１０-１,内科　皮膚科,,,9" xlink:title="伊東医院" transform="ref(svg,14026.901,-3829.5166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形クリニック,山形県山形市南四番町３-６,皮膚科　泌尿器科　泌尿器科（人工透析）,,,9" xlink:title="山形クリニック" transform="ref(svg,14032.5961,-3823.4494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安藤内科医院,山形県東村山郡中山町大字長崎１１４４-１,内科　胃腸科,,,9" xlink:title="安藤内科医院" transform="ref(svg,14028.7386,-3833.3546)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芳賀小児クリニック,山形県山形市城西町２-３-１５,小児科,,,9" xlink:title="芳賀小児クリニック" transform="ref(svg,14032.123,-3825.4733)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鈴木クリニック,山形県山形市桧町４-６-１６,内科,,,9" xlink:title="（医）鈴木クリニック" transform="ref(svg,14032.5964,-3827.6256)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,御殿湯ひふ科医院,山形県上山市御井戸丁３-３,皮膚科,,,9" xlink:title="御殿湯ひふ科医院" transform="ref(svg,14027.7426,-3816.0212)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう医院,山形県天童市駅西２-５-２０,内科　胃腸科,,,9" xlink:title="さとう医院" transform="ref(svg,14036.7577,-3835.8641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,児玉整形外科クリニック,山形県天童市泉町１-１-２３,リウマチ科　整形外科,,,9" xlink:title="児玉整形外科クリニック" transform="ref(svg,14038.2027,-3836.1833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平野クリニック,山形県天童市老野森１-１５-８,皮膚科　泌尿器科,,,9" xlink:title="平野クリニック" transform="ref(svg,14038.061,-3836.2857)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大内外科医院,山形県山形市宮町２-６-１３,内科　外科,,,9" xlink:title="大内外科医院" transform="ref(svg,14033.587,-3826.7046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,目黒クリニック循環器科内科,山形県天童市糠塚１-４-１,内科　循環器科,,,9" xlink:title="目黒クリニック循環器科内科" transform="ref(svg,14037.8296,-3836.5872)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ベテル会上山小児クリニック,山形県上山市河崎１-２-３９,小児科　アレルギー科,,,9" xlink:title="（医）ベテル会上山小児クリニック" transform="ref(svg,14027.0137,-3814.9541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田内科クリニック,山形県山形市桜田東２-１０-３７,内科,,,9" xlink:title="和田内科クリニック" transform="ref(svg,14032.2073,-3822.0019)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障がい者支援施設すげさわの丘医務室,山形県山形市すげさわの丘７２７-４７,内科　整形外科,,,9" xlink:title="障がい者支援施設すげさわの丘医務室" transform="ref(svg,14026.8043,-3822.2576)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ともおか整形外科,山形県山形市元木２-８-８,内科　整形外科　リハビリテーション科,,,9" xlink:title="ともおか整形外科" transform="ref(svg,14032.0899,-3822.3969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東海林皮ふ科医院,山形県山形市桧町２-５-１３,皮膚科,,,9" xlink:title="東海林皮ふ科医院" transform="ref(svg,14033.1748,-3827.4874)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆうき整形外科,山形県山形市南原町１-２５-２０,整形外科　リハビリテーション科,,,9" xlink:title="ゆうき整形外科" transform="ref(svg,14034.7564,-3823.6275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）羽根田産婦人科クリニック,山形県山形市寿町１９-１,内科　産科　婦人科,,,9" xlink:title="（医）羽根田産婦人科クリニック" transform="ref(svg,14033.7103,-3823.3494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芳川小児科医院,山形県山形市元木２-６-１３,小児科,,,9" xlink:title="芳川小児科医院" transform="ref(svg,14032.4216,-3822.4431)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近岡小児科医院,山形県山形市桧町３-７-２５,小児科,,,9" xlink:title="近岡小児科医院" transform="ref(svg,14033.1057,-3827.7277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国立大学法人山形大学保健管理センター,山形県山形市小白川町１-４-１２,内科　消化器科　精神科　神経科,,,9" xlink:title="国立大学法人山形大学保健管理センター" transform="ref(svg,14034.937,-3824.6612)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野目耳鼻科,山形県山形市大野目２-２-３７,耳鼻いんこう科　気管食道科,,,9" xlink:title="大野目耳鼻科" transform="ref(svg,14035.7786,-3827.9847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,殿岡内科医院,山形県山形市中桜田３-２-１７,内科　呼吸器科　胃腸科　循環器科,,,9" xlink:title="殿岡内科医院" transform="ref(svg,14033.4662,-3821.6179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ときめき形成外科,山形県山形市大野目２-２-３３,整形外科　形成外科　皮膚科,,,9" xlink:title="ときめき形成外科" transform="ref(svg,14035.719,-3828.0024)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,塩野医院,山形県天童市乱川３-２-１０,内科　胃腸科　リウマチ科　整形外科,,,9" xlink:title="塩野医院" transform="ref(svg,14037.8643,-3838.5312)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伸愛会中井こども医院,山形県山形市花楯１-１６-１１,小児科　アレルギー科,,,9" xlink:title="（医）伸愛会中井こども医院" transform="ref(svg,14035.2814,-3827.0665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）全日本労働福祉協会山形健診センター,山形県山形市西崎４９-６,内科,,,9" xlink:title="（一財）全日本労働福祉協会山形健診センター" transform="ref(svg,14030.5205,-3826.1904)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,早坂内科循環器科医院,山形県山形市あかねケ丘２-１０-２,内科　循環器内科,,,9" xlink:title="早坂内科循環器科医院" transform="ref(svg,14031.2074,-3824.505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥山こども医院,山形県天童市北久野本１-１２-２７,小児科,,,9" xlink:title="奥山こども医院" transform="ref(svg,14037.7692,-3837.5937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松内科医院,山形県山形市元木２-１３-８,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="小松内科医院" transform="ref(svg,14032.561,-3822.3752)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）高橋耳鼻咽喉科医院,山形県上山市十日町９-８,アレルギー科　耳鼻いんこう科　気管食道内科,,,9" xlink:title="（医）高橋耳鼻咽喉科医院" transform="ref(svg,14027.9176,-3815.8706)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しろにし診療所,山形県山形市城西町４-２７-２５,内科,,,9" xlink:title="しろにし診療所" transform="ref(svg,14031.8359,-3826.145)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひのき町小松眼科,山形県山形市桧町２-６-４,眼科,,,9" xlink:title="ひのき町小松眼科" transform="ref(svg,14033.1969,-3827.6813)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一社）山形市医師会山形市医師会健診センター,山形県山形市深町１-７-５７,内科,,,9" xlink:title="（一社）山形市医師会山形市医師会健診センター" transform="ref(svg,14031.6454,-3823.5243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかねケ丘整形外科医院,山形県山形市あかねケ丘２-１０-３,整形外科　リハビリテーション科,,,9" xlink:title="あかねケ丘整形外科医院" transform="ref(svg,14031.2037,-3824.5011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおもり眼科医院,山形県天童市柏木町１-１０-３６,眼科,,,9" xlink:title="おおもり眼科医院" transform="ref(svg,14036.763,-3836.6369)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なわの内科医院,山形県山形市七日町３-５-１,内科　胃腸科　皮膚科,,,9" xlink:title="なわの内科医院" transform="ref(svg,14034.1028,-3825.4571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,深瀬内科医院,山形県山形市落合町１９５-３,内科　胃腸科　循環器科,,,9" xlink:title="深瀬内科医院" transform="ref(svg,14034.8079,-3828.5568)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三條クリニック,山形県山形市寿町１４-３,内科　胃腸科　外科　こう門科,,,9" xlink:title="三條クリニック" transform="ref(svg,14033.6937,-3823.4642)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊沢内科胃腸科医院,山形県山形市大字下東山４３１９-１,内科　消化器科　胃腸科　小児科　皮膚科　こう門科,,,9" xlink:title="伊沢内科胃腸科医院" transform="ref(svg,14038.8991,-3830.3106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和敬会クリニック,山形県東村山郡山辺町大字山辺２６５,内科　外科　リハビリテーション科　麻酔科,,,9" xlink:title="和敬会クリニック" transform="ref(svg,14026.843,-3829.4286)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）菅沢荘,山形県山形市すげさわの丘４６,内科,,,9" xlink:title="（特養）菅沢荘" transform="ref(svg,14026.7673,-3822.6545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまもと整形外科医院,山形県天童市駅西２-８-２５,整形外科　リハビリテーション科,,,9" xlink:title="やまもと整形外科医院" transform="ref(svg,14036.6094,-3836.0062)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,緑町関口クリニック,山形県山形市緑町１-７-１６,内科　神経内科　脳神経外科,,,9" xlink:title="緑町関口クリニック" transform="ref(svg,14034.3907,-3825.7376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口クリニック,山形県上山市四ツ谷１-６-３５,皮膚科　泌尿器科,,,9" xlink:title="山口クリニック" transform="ref(svg,14028.2323,-3816.6284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山辺こどもクリニック,山形県東村山郡山辺町大字山辺２９０８-１４,小児科,,,9" xlink:title="山辺こどもクリニック" transform="ref(svg,14027.0782,-3829.2618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,篠原神経・心療内科クリニック,山形県山形市元木３-２-５,精神科　神経科　心療内科,,,9" xlink:title="篠原神経・心療内科クリニック" transform="ref(svg,14031.9476,-3822.3739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥山内科胃腸科クリニック,山形県山形市深町３-１-２０,内科　胃腸科,,,9" xlink:title="奥山内科胃腸科クリニック" transform="ref(svg,14031.7711,-3823.1503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,板坂胃腸科内科クリニック,山形県山形市江俣４-６-２３,内科　胃腸科　循環器科,,,9" xlink:title="板坂胃腸科内科クリニック" transform="ref(svg,14031.873,-3827.7071)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桧町鈴木耳鼻咽喉科,山形県山形市桧町２-６-１９,耳鼻いんこう科　気管食道科,,,9" xlink:title="桧町鈴木耳鼻咽喉科" transform="ref(svg,14033.1832,-3827.7139)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島崎クリニック,山形県山形市城西町５-３-５,内科　循環器科　外科　皮膚科,,,9" xlink:title="島崎クリニック" transform="ref(svg,14031.2083,-3825.8993)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田耳鼻咽喉科,山形県天童市老野森２-１５-１８,耳鼻いんこう科,,,9" xlink:title="武田耳鼻咽喉科" transform="ref(svg,14037.6994,-3836.5937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿部クリニック,山形県山形市桜田西４-３-４,内科　精神科　神経科　心療内科　リハビリテーション科,,,9" xlink:title="阿部クリニック" transform="ref(svg,14031.8959,-3821.8038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若杉内科医院,山形県山形市荒楯町１-７-１９,内科　胃腸科,,,9" xlink:title="若杉内科医院" transform="ref(svg,14033.68,-3823.2607)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,洋々会秋葉医院,山形県東村山郡中山町大字長崎３０３-８,内科　消化器内科,,,9" xlink:title="洋々会秋葉医院" transform="ref(svg,14027.4585,-3833.3638)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）佐藤整形外科クリニック,山形県山形市小立３-１３-２５,整形外科　リハビリテーション科,,,9" xlink:title="（医）佐藤整形外科クリニック" transform="ref(svg,14034.1726,-3822.7591)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）いきいきの郷,山形県山形市大字成安４２５-２,内科,,,9" xlink:title="（特養）いきいきの郷" transform="ref(svg,14031.1042,-3832.3357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設いきいきの郷,山形県山形市大字成安４２５-２,内科,,,9" xlink:title="障害者支援施設いきいきの郷" transform="ref(svg,14031.1042,-3832.3357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小田消化器科内科クリニック,山形県山形市大字片谷地１２１-１２,内科　消化器科,,,9" xlink:title="小田消化器科内科クリニック" transform="ref(svg,14030.6901,-3820.9473)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）とかみ共生苑医務室,山形県山形市富神前６,内科,,,9" xlink:title="（特養）とかみ共生苑医務室" transform="ref(svg,14026.334,-3823.7519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤清医院,山形県山形市五十鈴１-６-５６,内科　循環器科　神経内科　脳神経外科,,,9" xlink:title="佐藤清医院" transform="ref(svg,14035.3504,-3827.0818)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）清幸園医務室,山形県天童市大字大清水４９１-１,内科　外科,,,9" xlink:title="（特養）清幸園医務室" transform="ref(svg,14035.2756,-3838.7542)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渋谷医院,山形県上山市十日町７-３,内科　整形外科　リハビリテーション科,,,9" xlink:title="渋谷医院" transform="ref(svg,14027.8177,-3815.7697)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまのべ藤田クリニック,山形県東村山郡山辺町大字大塚８２３-１,内科　アレルギー科　整形外科　脳神経外科　リハビリテーション科,,,9" xlink:title="やまのべ藤田クリニック" transform="ref(svg,14027.4731,-3828.0093)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北村医院,山形県上山市矢来３-７-３２-１４,内科　神経内科　脳神経外科　リハビリテーション科,,,9" xlink:title="北村医院" transform="ref(svg,14027.2623,-3814.9971)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹本眼科医院,山形県山形市上町４-７-２９,眼科,,,9" xlink:title="竹本眼科医院" transform="ref(svg,14031.2488,-3824.4682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,二瓶内科クリニック,山形県山形市宮町１-５-２３,内科　小児科　神経内科,,,9" xlink:title="二瓶内科クリニック" transform="ref(svg,14033.6736,-3826.4308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックメルヘン,山形県東村山郡山辺町大字大寺竹ノ花１１５２-４,内科　神経内科　整形外科　リハビリテーション科,,,9" xlink:title="クリニックメルヘン" transform="ref(svg,14026.5697,-3830.6778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさひ町榊原耳鼻咽喉科医院,山形県山形市あさひ町７-２５,アレルギー科　耳鼻いんこう科,,,9" xlink:title="あさひ町榊原耳鼻咽喉科医院" transform="ref(svg,14036.0715,-3824.2233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ねもとクリニック,山形県山形市小白川町４-８-１３,内科　循環器科　外科　心臓血管外科,,,9" xlink:title="ねもとクリニック" transform="ref(svg,14035.5761,-3824.6351)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南原耳鼻咽喉科医院,山形県山形市南原町３-１９-２６,耳鼻いんこう科,,,9" xlink:title="南原耳鼻咽喉科医院" transform="ref(svg,14034.1231,-3823.3157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村医院,山形県山形市あかねヶ丘１-１-１,内科　消化器科,,,9" xlink:title="中村医院" transform="ref(svg,14031.3974,-3825.178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいとう内科胃腸科クリニック,山形県天童市南町２-１０-５,内科　胃腸科　神経内科,,,9" xlink:title="さいとう内科胃腸科クリニック" transform="ref(svg,14037.1419,-3834.2853)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）サンシャイン大森,山形県山形市大字大森２１３９-１,内科,,,9" xlink:title="（特養）サンシャイン大森" transform="ref(svg,14038.6578,-3830.6913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）中山ひまわり荘,山形県東村山郡中山町大字柳沢２３３３,内科　精神科,,,9" xlink:title="（特養）中山ひまわり荘" transform="ref(svg,14025.9464,-3832.9241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いそだ医院,山形県山形市大字漆山２５７３-１,内科　循環器科　外科　こう門科　リハビリテーション科,,,9" xlink:title="いそだ医院" transform="ref(svg,14034.2873,-3831.1432)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,瑞穂医院,山形県天童市大字高擶字東浦９４１-２,整形外科　リハビリテーション科,,,9" xlink:title="瑞穂医院" transform="ref(svg,14034.6319,-3833.4319)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あびこ耳鼻咽喉科クリニック,山形県寒河江市南町２-１-１２,耳鼻いんこう科　気管食道科,,,9" xlink:title="あびこ耳鼻咽喉科クリニック" transform="ref(svg,14027.7639,-3837.4193)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきば医院,山形県寒河江市末広町２-３３,内科　外科　整形外科,,,9" xlink:title="あきば医院" transform="ref(svg,14027.9324,-3836.9908)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊地胃腸科内科医院,山形県寒河江市中央１-１４-１１,内科　胃腸科,,,9" xlink:title="菊地胃腸科内科医院" transform="ref(svg,14027.8313,-3838.2183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,熊坂整形外科医院,山形県寒河江市栄町７-１１,整形外科,,,9" xlink:title="熊坂整形外科医院" transform="ref(svg,14027.7143,-3836.856)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）国井医院,山形県寒河江市中央１-５-２７,内科,,,9" xlink:title="（医）国井医院" transform="ref(svg,14027.9511,-3837.9689)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）小松医院,山形県寒河江市本町２-１１-４３,内科　呼吸器科　消化器科　循環器科　小児科　皮膚泌尿器科　放射線科,,,9" xlink:title="（医）小松医院" transform="ref(svg,14027.7015,-3837.8186)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田婦人科・内科医院,山形県寒河江市中央１-１４-３６,内科　小児科　婦人科,,,9" xlink:title="武田婦人科・内科医院" transform="ref(svg,14027.8061,-3838.1413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中正堂高橋医院,山形県寒河江市大字白岩２２０,内科　循環器科　眼科,,,9" xlink:title="中正堂高橋医院" transform="ref(svg,14022.8226,-3840.9765)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,豊岡整形外科,山形県寒河江市中央１-１３-３１,リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="豊岡整形外科" transform="ref(svg,14027.7068,-3838.2358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すまいるレディースクリニック,山形県寒河江市大字寒河江字月越５-２,産科　婦人科,,,9" xlink:title="すまいるレディースクリニック" transform="ref(svg,14027.8442,-3836.4921)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺外科胃腸科医院,山形県寒河江市大字寒河江字小和田２５-１,消化器科　外科　整形外科,,,9" xlink:title="渡辺外科胃腸科医院" transform="ref(svg,14026.8516,-3837.5812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横山耳鼻咽喉科医院,山形県寒河江市元町１-２-１,耳鼻いんこう科　気管食道科　皮膚科,,,9" xlink:title="横山耳鼻咽喉科医院" transform="ref(svg,14027.3965,-3837.2138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）土田内科医院,山形県寒河江市元町２-４-３,内科　循環器科,,,9" xlink:title="（医）土田内科医院" transform="ref(svg,14027.2864,-3836.925)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長生園,山形県寒河江市大字柴橋２２４６-１,内科,,,9" xlink:title="（特養）長生園" transform="ref(svg,14025.4297,-3836.9809)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）山形県社会福祉事業団みやま荘,山形県西村山郡河北町大字吉田字馬場１１,内科　精神科,,,9" xlink:title="（福）山形県社会福祉事業団みやま荘" transform="ref(svg,14031.0536,-3844.3927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,細谷医院,山形県西村山郡河北町谷地ひな市１-３-５,内科　小児科,,,9" xlink:title="細谷医院" transform="ref(svg,14031.6334,-3842.9157)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田医院,山形県西村山郡河北町谷地甲２３９,内科　消化器科,,,9" xlink:title="和田医院" transform="ref(svg,14031.1404,-3842.3113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西川町立岩根沢診療所,山形県西村山郡西川町大字岩根沢４５４-１,内科　外科,,,9" xlink:title="西川町立岩根沢診療所" transform="ref(svg,14010.247,-3845.4645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西川町立大井沢診療所,山形県西村山郡西川町大字大井沢８２２-１,内科　外科,,,9" xlink:title="西川町立大井沢診療所" transform="ref(svg,13999.2505,-3838.573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安達医院,山形県西村山郡朝日町大字宮宿１１１１-１,内科　小児科,,,9" xlink:title="安達医院" transform="ref(svg,14014.6086,-3830.0863)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤内科,山形県西村山郡大江町大字左沢１７００-１,内科　消化器科,,,9" xlink:title="佐藤内科" transform="ref(svg,14020.8233,-3837.6333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）山形県社会福祉事業団大寿荘診療所,山形県西村山郡大江町大字藤田８３９-１,内科,,,9" xlink:title="（福）山形県社会福祉事業団大寿荘診療所" transform="ref(svg,14020.575,-3836.3911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥山医院,山形県西村山郡大江町大字左沢３１０,内科　小児科　神経内科　放射線科,,,9" xlink:title="奥山医院" transform="ref(svg,14020.9871,-3837.8502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科医院,山形県西村山郡河北町谷地中央２-６-６,内科,,,9" xlink:title="鈴木内科医院" transform="ref(svg,14031.4747,-3842.0115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西村山広域行政事務組合養護老人ホーム明鏡荘,山形県西村山郡朝日町大字大谷１０６３,内科,,,9" xlink:title="西村山広域行政事務組合養護老人ホーム明鏡荘" transform="ref(svg,14016.6899,-3833.9034)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斎藤医院,山形県西村山郡河北町Τ７５０-３,内科　小児科,,,9" xlink:title="斎藤医院" transform="ref(svg,14028.71,-3841.7623)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎医院,山形県寒河江市丸内１-５-３０,内科　神経内科　外科　脳神経外科,,,9" xlink:title="山崎医院" transform="ref(svg,14028.1086,-3837.4927)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白田医院,山形県西村山郡大江町大字左沢１１８７,内科　胃腸科　外科,,,9" xlink:title="白田医院" transform="ref(svg,14020.4891,-3838.4435)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ケアハイツ西川,山形県西村山郡西川町大字海味５４８,内科　外科,,,9" xlink:title="（特養）ケアハイツ西川" transform="ref(svg,14014.6147,-3842.683)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅野耳鼻咽喉科医院,山形県西村山郡河北町谷地所岡３-２-９,耳鼻いんこう科,,,9" xlink:title="浅野耳鼻咽喉科医院" transform="ref(svg,14031.1536,-3843.2297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木眼科,山形県寒河江市中央１-１３-３５,眼科,,,9" xlink:title="鈴木眼科" transform="ref(svg,14027.7287,-3838.1954)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木医院,山形県西村山郡河北町Τ５３９-７,内科　循環器科　小児科,,,9" xlink:title="青木医院" transform="ref(svg,14028.6006,-3841.5847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,折居内科医院,山形県寒河江市落衣前２-１,内科　神経内科　リハビリテーション科,,,9" xlink:title="折居内科医院" transform="ref(svg,14026.1825,-3836.9941)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平野医院,山形県寒河江市小沼町６９-１,皮膚科　泌尿器科,,,9" xlink:title="平野医院" transform="ref(svg,14028.3369,-3837.0819)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,多田医院,山形県西村山郡朝日町大字宮宿２３０５-２,内科　神経内科　泌尿器科　放射線科,,,9" xlink:title="多田医院" transform="ref(svg,14014.8806,-3829.9273)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,国井クリニック,山形県寒河江市大字中郷１４５０-１,内科　小児科　産婦人科,,,9" xlink:title="国井クリニック" transform="ref(svg,14022.0927,-3837.2137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大原医院,山形県寒河江市大字西根字下堰５０９,内科　消化器科　皮膚科,,,9" xlink:title="大原医院" transform="ref(svg,14027.9288,-3839.2111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦医院,山形県寒河江市大字柴橋７１８-１,内科,,,9" xlink:title="三浦医院" transform="ref(svg,14024.7103,-3838.0184)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ふれあい荘,山形県西村山郡朝日町大字四ノ沢８７０,内科　精神科　外科,,,9" xlink:title="（特養）ふれあい荘" transform="ref(svg,14015.8036,-3830.622)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）いずみ,山形県寒河江市字上河原２４１,内科,,,9" xlink:title="（特養）いずみ" transform="ref(svg,14027.8883,-3840.0481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田代診療所,山形県寒河江市大字田代３５５-１,内科,,,9" xlink:title="田代診療所" transform="ref(svg,14023.1305,-3844.8444)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にとう小児科医院,山形県寒河江市元町３-８-９,小児科,,,9" xlink:title="にとう小児科医院" transform="ref(svg,14026.7787,-3836.9931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,工藤内科医院,山形県西村山郡河北町大字溝延字西浦１２-１,内科　呼吸器科　循環器科,,,9" xlink:title="工藤内科医院" transform="ref(svg,14030.9797,-3839.3083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとうクリニック,山形県寒河江市大字日田字五反２０４-３,内科　呼吸器科　循環器科,,,9" xlink:title="さとうクリニック" transform="ref(svg,14029.5695,-3837.2875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,齊藤医院,山形県西村山郡河北町谷地字所岡３９-５,内科　外科,,,9" xlink:title="齊藤医院" transform="ref(svg,14031.1524,-3842.746)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）らふらんす大江,山形県西村山郡大江町大字左沢１２７７,内科,,,9" xlink:title="（特養）らふらんす大江" transform="ref(svg,14020.0496,-3838.4389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,谷地整形外科クリニック,山形県西村山郡河北町谷地中央４-６-６,整形外科,,,9" xlink:title="谷地整形外科クリニック" transform="ref(svg,14031.1418,-3841.6578)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林医院,山形県西村山郡河北町谷地中央３-９-９,内科　小児科　アレルギー科　皮膚科,,,9" xlink:title="小林医院" transform="ref(svg,14031.2422,-3841.6244)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,板坂医院,山形県西村山郡河北町谷地甲２１７,内科　循環器内科　胃腸内科　呼吸器内科,,,9" xlink:title="板坂医院" transform="ref(svg,14031.117,-3842.4463)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,幸生診療所,山形県寒河江市大字幸生４７８-７,内科　循環器科,,,9" xlink:title="幸生診療所" transform="ref(svg,14020.1471,-3845.0476)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西川町立小山診療所,山形県西村山郡西川町大字入間１６３７-２,内科　外科,,,9" xlink:title="西川町立小山診療所" transform="ref(svg,14008.5194,-3843.2763)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小室医院,山形県村山市大字本飯田５８４,内科　呼吸器科　小児科　アレルギー科,,,9" xlink:title="小室医院" transform="ref(svg,14039.6963,-3853.2956)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋内科・神経科医院,山形県村山市楯岡荒町１-７-６,内科　精神科　心療内科,,,9" xlink:title="高橋内科・神経科医院" transform="ref(svg,14039.3222,-3847.8779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,八鍬医院,山形県村山市楯岡新高田９-２４,内科,,,9" xlink:title="八鍬医院" transform="ref(svg,14038.7756,-3848.4828)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菅クリニック,山形県東根市大字東根甲６５５,産婦人科,,,9" xlink:title="菅クリニック" transform="ref(svg,14039.5682,-3844.353)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大沼医院,山形県東根市神町中央１-１１-１８,内科　小児科,,,9" xlink:title="大沼医院" transform="ref(svg,14038.0838,-3840.9621)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤内科胃腸科医院,山形県東根市神町中央１-９-３５,内科　胃腸科,,,9" xlink:title="佐藤内科胃腸科医院" transform="ref(svg,14038.0042,-3840.732)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁愛会塩野胃腸科内科医院,山形県東根市大字東根甲５１６０-３,内科　胃腸科　小児科,,,9" xlink:title="（医）仁愛会塩野胃腸科内科医院" transform="ref(svg,14037.945,-3845.7235)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤田医院,山形県東根市六田１-１-３５,内科　外科　循環器内科,,,9" xlink:title="藤田医院" transform="ref(svg,14038.2702,-3843.7021)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦医院,山形県東根市本丸南１-８-２,内科　循環器内科,,,9" xlink:title="三浦医院" transform="ref(svg,14040.0473,-3844.0917)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陸上自衛隊神町駐屯地医務室,山形県東根市神町南３-１-１,内科　外科　歯科,,,9" xlink:title="陸上自衛隊神町駐屯地医務室" transform="ref(svg,14039.6005,-3840.4563)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺医院,山形県東根市大字羽入２８２１,皮膚科,,,9" xlink:title="渡辺医院" transform="ref(svg,14035.4227,-3841.0834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形カシオ診療所,山形県東根市大字東根甲５４００-１,内科,,,9" xlink:title="山形カシオ診療所" transform="ref(svg,14040.0851,-3842.3064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム万寿荘,山形県尾花沢市大字延沢２２８７-１,内科,,,9" xlink:title="養護老人ホーム万寿荘" transform="ref(svg,14042.289,-3859.2704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）長寿園,山形県尾花沢市新町３-２-２１,内科　外科,,,9" xlink:title="（特養）長寿園" transform="ref(svg,14041.5093,-3860.4505)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尾花沢市中央診療所,山形県尾花沢市新町３-２-２０,内科　胃腸科　外科　こう門科,,,9" xlink:title="尾花沢市中央診療所" transform="ref(svg,14041.3687,-3860.3924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吾妻クリニック,山形県北村山郡大石田町大字大石田甲９３-４,内科　外科　産婦人科,,,9" xlink:title="吾妻クリニック" transform="ref(svg,14037.2038,-3859.0461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,後藤医院,山形県北村山郡大石田町大字大石田乙９４,内科　小児科　婦人科,,,9" xlink:title="後藤医院" transform="ref(svg,14037.0591,-3858.9437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清治医院,山形県尾花沢市上町６-３-１５,内科　小児科,,,9" xlink:title="清治医院" transform="ref(svg,14040.0594,-3860.2802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）敬天会（特養）仁風荘,山形県北村山郡大石田町大字大石田甲５７４,内科　精神科,,,9" xlink:title="（福）敬天会（特養）仁風荘" transform="ref(svg,14037.476,-3860.0364)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科医院,山形県村山市楯岡新町３-２４-３,内科,,,9" xlink:title="鈴木内科医院" transform="ref(svg,14039.1857,-3847.4201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はんだクリニック,山形県村山市楯岡新町２-７-１７,内科　小児科　消化器内科,,,9" xlink:title="はんだクリニック" transform="ref(svg,14039.0829,-3847.5662)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三浦皮膚科医院,山形県村山市駅西１８-２,皮膚科,,,9" xlink:title="三浦皮膚科医院" transform="ref(svg,14038.4611,-3847.6943)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）白水荘医務室,山形県東根市大字野川２０７４-９９,内科　精神科,,,9" xlink:title="（特養）白水荘医務室" transform="ref(svg,14043.1599,-3840.8747)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村山光ホーム医務室,山形県村山市楯岡笛田２-１９-４０,内科,,,9" xlink:title="村山光ホーム医務室" transform="ref(svg,14040.2773,-3847.9311)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤クリニック,山形県尾花沢市若葉町１-３-１,内科　神経内科　外科,,,9" xlink:title="伊藤クリニック" transform="ref(svg,14040.6786,-3860.0144)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なりさわ胃腸科内科医院,山形県東根市神町北１-３-４１,内科,,,9" xlink:title="なりさわ胃腸科内科医院" transform="ref(svg,14038.043,-3841.5772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）敬天会指定障害者支援施設水明苑,山形県北村山郡大石田町大字横山４０４２-３,内科　精神科,,,9" xlink:title="（福）敬天会指定障害者支援施設水明苑" transform="ref(svg,14035.2284,-3859.8218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東根クリニック,山形県東根市中央４-１-２９,皮膚科　泌尿器科　泌尿器科（人工透析）,,,9" xlink:title="東根クリニック" transform="ref(svg,14039.2404,-3843.3977)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤眼科クリニック,山形県村山市楯岡晦日町５-２,眼科,,,9" xlink:title="佐藤眼科クリニック" transform="ref(svg,14038.8796,-3848.2944)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,後藤眼科医院,山形県東根市大森２-１-４,眼科,,,9" xlink:title="後藤眼科医院" transform="ref(svg,14038.8965,-3843.0055)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,工藤医院,山形県東根市大字羽入２０９８-４,内科　胃腸科　外科　整形外科　こう門科,,,9" xlink:title="工藤医院" transform="ref(svg,14036.1257,-3840.8887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,江口こども医院,山形県東根市中央２-１８-１,小児科　アレルギー科　皮膚科,,,9" xlink:title="江口こども医院" transform="ref(svg,14038.9697,-3843.4274)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ふもと,山形県村山市大字湯野沢９５６-３,内科,,,9" xlink:title="（特養）ふもと" transform="ref(svg,14030.7155,-3846.215)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）東根中央整形外科,山形県東根市中央３-９-１０,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）東根中央整形外科" transform="ref(svg,14039.1934,-3843.5341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮崎外科胃腸科クリニック,山形県東根市宮崎１-３-３０,内科　胃腸科　外科　こう門科,,,9" xlink:title="宮崎外科胃腸科クリニック" transform="ref(svg,14038.7475,-3844.5301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村山市休日診療所,山形県村山市中央１-３-６村山市保健センター内,内科　小児科,,,9" xlink:title="村山市休日診療所" transform="ref(svg,14038.0402,-3848.3356)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障害者支援施設新生園,山形県尾花沢市大字荻袋９１１-１,内科　精神科,,,9" xlink:title="障害者支援施設新生園" transform="ref(svg,14040.4201,-3862.3007)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝日町立北部診療所,山形県西村山郡朝日町大字大谷１６３１,内科　外科,,,9" xlink:title="朝日町立北部診療所" transform="ref(svg,14016.6233,-3834.461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池澤内科クリニック,山形県山形市松山１-１-１０５,内科,,,9" xlink:title="池澤内科クリニック" transform="ref(svg,14034.4369,-3823.4243)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）七日町こまくさ園,山形県山形市七日町４-５-２０,内科,,,9" xlink:title="（特養）七日町こまくさ園" transform="ref(svg,14034.4902,-3825.2934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小野内科胃腸科クリニック,山形県村山市楯岡五日町１４-２５,内科　胃腸科,,,9" xlink:title="小野内科胃腸科クリニック" transform="ref(svg,14038.7374,-3847.9945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安達クリニック,山形県東根市大字泉郷６２５-１,内科　胃腸科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="安達クリニック" transform="ref(svg,14041.5226,-3842.283)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中利治皮フ科,山形県山形市篭田１-１４-３０,皮膚科,,,9" xlink:title="田中利治皮フ科" transform="ref(svg,14032.0052,-3824.0038)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横山小児科医院,山形県山形市荒楯町２-２０-２１,小児科,,,9" xlink:title="横山小児科医院" transform="ref(svg,14033.6997,-3823.1807)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）第二白水荘,山形県東根市大字蟹沢８９７-１,内科,,,9" xlink:title="（特養）第二白水荘" transform="ref(svg,14036.9361,-3844.4236)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すみや眼科クリニック,山形県西村山郡河北町谷地中央４-５-１,眼科,,,9" xlink:title="すみや眼科クリニック" transform="ref(svg,14031.1868,-3841.8152)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたなべ耳鼻咽喉科クリニック,山形県山形市城西町４-５-１９,アレルギー科　耳鼻いんこう科,,,9" xlink:title="わたなべ耳鼻咽喉科クリニック" transform="ref(svg,14032.3308,-3826.0008)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松柏会至誠堂とかみクリニック,山形県山形市富神前４８-５,内科　小児科,,,9" xlink:title="（医）松柏会至誠堂とかみクリニック" transform="ref(svg,14026.2652,-3823.8022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みずほの里,山形県上山市牧野字清水２１-１,内科　精神科,,,9" xlink:title="（特養）みずほの里" transform="ref(svg,14030.1631,-3811.587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉井内科胃腸科クリニック,山形県上山市金生東１-１０-１５,内科　胃腸科,,,9" xlink:title="吉井内科胃腸科クリニック" transform="ref(svg,14028.5397,-3814.4604)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つばさ皮膚科,山形県東根市中央３-２-２１,皮膚科,,,9" xlink:title="つばさ皮膚科" transform="ref(svg,14038.9592,-3843.4822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本内科医院,山形県東根市中央４-５-２４,内科　神経内科　循環器内科　胃腸内科,,,9" xlink:title="山本内科医院" transform="ref(svg,14039.2408,-3843.5085)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひがしたに小児科,山形県天童市南町３-１-２４,小児科,,,9" xlink:title="ひがしたに小児科" transform="ref(svg,14036.8604,-3834.3913)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西バイパスひとみ整形外科,山形県山形市砂塚１２-８,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="西バイパスひとみ整形外科" transform="ref(svg,14031.044,-3825.9262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横田耳鼻咽喉科医院,山形県山形市桜田東２-１０-４０,耳鼻いんこう科　頭頸部外科,,,9" xlink:title="横田耳鼻咽喉科医院" transform="ref(svg,14032.2303,-3822.0461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神林内科小児科医院,山形県北村山郡大石田町駅前通り７-１２,内科　小児科,,,9" xlink:title="神林内科小児科医院" transform="ref(svg,14037.4446,-3859.3741)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,尾上医院,山形県上山市栄町１-３-１１,内科　循環器科,,,9" xlink:title="尾上医院" transform="ref(svg,14027.8301,-3815.6105)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小白川整形外科クリニック,山形県山形市小白川町２-３-１,整形外科　リハビリテーション科,,,9" xlink:title="小白川整形外科クリニック" transform="ref(svg,14035.0325,-3824.969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田菊地医院,山形県山形市西田２-１-２７,内科　神経内科　外科　整形外科　脳神経外科　リハビリテーション科,,,9" xlink:title="山田菊地医院" transform="ref(svg,14031.6359,-3826.2677)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柴田内科循環器科クリニック,山形県東根市一本木２-４-２５,内科　循環器内科　呼吸器内科,,,9" xlink:title="柴田内科循環器科クリニック" transform="ref(svg,14038.6259,-3842.264)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こころのクリニック山形,山形県山形市江俣４-１８-２６,内科　精神科　心療内科,,,9" xlink:title="こころのクリニック山形" transform="ref(svg,14031.7699,-3827.791)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）城西医院,山形県山形市春日町１３-２７,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="（医）城西医院" transform="ref(svg,14031.9364,-3825.4486)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おかべクリニック,山形県山形市長谷堂字出倉４４６４,内科　胃腸科　外科　皮膚科　こう門科　リハビリテーション科,,,9" xlink:title="おかべクリニック" transform="ref(svg,14027.7489,-3821.6053)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芳賀胃腸科内科クリニック,山形県山形市あこや町２-１５-１,内科　胃腸科,,,9" xlink:title="芳賀胃腸科内科クリニック" transform="ref(svg,14035.2977,-3824.27)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小関内科胃腸科医院,山形県寒河江市本町２-５-２０,内科　胃腸科,,,9" xlink:title="小関内科胃腸科医院" transform="ref(svg,14027.7403,-3837.5311)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小松胃腸科内科クリニック,山形県山形市吉原２-４-１９,内科　消化器科　胃腸科,,,9" xlink:title="小松胃腸科内科クリニック" transform="ref(svg,14030.932,-3823.041)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井川整形外科クリニック,山形県東根市さくらんぼ駅前２-１７-２３,整形外科　リハビリテーション科,,,9" xlink:title="井川整形外科クリニック" transform="ref(svg,14038.4641,-3842.8412)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川クリニック,山形県山形市落合町５２８-５,内科,,,9" xlink:title="小川クリニック" transform="ref(svg,14035.0399,-3828.6396)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）ほんまこどもクリニック,山形県山形市若宮１-１１-３３,小児科,,,9" xlink:title="（医）ほんまこどもクリニック" transform="ref(svg,14030.89,-3822.8188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥山眼科,山形県山形市七日町２-１-３蜂屋ビル１Ｆ,眼科,,,9" xlink:title="奥山眼科" transform="ref(svg,14033.8828,-3825.2176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）なごみの里,山形県山形市吉原３-１０-８,内科　精神科　婦人科,,,9" xlink:title="（特養）なごみの里" transform="ref(svg,14030.6817,-3823.0549)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科・アレルギー科深瀬医院,山形県山形市七日町２-７-３０,アレルギー科　耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科・アレルギー科深瀬医院" transform="ref(svg,14034.0496,-3825.3036)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こまつ整形外科クリニック,山形県山形市富の中４-４-２１,整形外科　リハビリテーション科,,,9" xlink:title="こまつ整形外科クリニック" transform="ref(svg,14030.7023,-3823.2022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,セントラルクリニック,山形県山形市吉原３-１０-１７,内科　産婦人科　歯科,,,9" xlink:title="セントラルクリニック" transform="ref(svg,14030.6695,-3822.9865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかねヶ丘あきば小児科医院,山形県山形市あかねヶ丘２-１０-５４,小児科　アレルギー科,,,9" xlink:title="あかねヶ丘あきば小児科医院" transform="ref(svg,14031.1805,-3824.4931)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ごとう医院,山形県山形市東青田３-１１-１０,内科　消化器科　アレルギー科,,,9" xlink:title="ごとう医院" transform="ref(svg,14033.9096,-3822.0616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いがらし内科循環器科クリニック,山形県山形市銅町２-２４-５,内科　循環器科,,,9" xlink:title="いがらし内科循環器科クリニック" transform="ref(svg,14034.0025,-3827.3884)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまかわ整形外科,山形県山形市瀬波１-６-１０,整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="やまかわ整形外科" transform="ref(svg,14030.7708,-3827.8615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおやま皮膚科,山形県天童市南町３-１-１８,アレルギー科　皮膚科,,,9" xlink:title="おおやま皮膚科" transform="ref(svg,14036.8695,-3834.4132)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥山クリニック,山形県村山市駅西１９-１５,内科　循環器科　小児科　リハビリテーション科,,,9" xlink:title="奥山クリニック" transform="ref(svg,14038.385,-3847.6316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石郷岡クリニック,山形県山形市双葉町１-４-６,皮膚科　泌尿器科,,,9" xlink:title="石郷岡クリニック" transform="ref(svg,14032.2862,-3824.8337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相馬脳神経クリニック,山形県山形市松波１-１１-３５,内科　神経内科　脳神経外科　リハビリテーション科,,,9" xlink:title="相馬脳神経クリニック" transform="ref(svg,14035.7938,-3823.8046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野胃腸科内科医院,山形県天童市大字久野本１０５６-３,内科　胃腸科,,,9" xlink:title="大野胃腸科内科医院" transform="ref(svg,14038.4887,-3838.046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,武田内科胃腸科医院,山形県山形市鈴川町３-１５-６１,内科　胃腸科　リハビリテーション科　消化器内科　漢方内科　内視鏡内科,,,9" xlink:title="武田内科胃腸科医院" transform="ref(svg,14035.6413,-3827.0015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,菊地医院,山形県西村山郡河北町大字溝延２７４-１,内科　胃腸科,,,9" xlink:title="菊地医院" transform="ref(svg,14031.1344,-3839.3275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みさわクリニック,山形県山形市城南町３-５-２８,内科　胃腸科,,,9" xlink:title="みさわクリニック" transform="ref(svg,14032.3134,-3825.2272)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小幡皮膚科医院,山形県天童市駅西３-９-１,アレルギー科　皮膚科,,,9" xlink:title="小幡皮膚科医院" transform="ref(svg,14036.5152,-3835.8403)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くわぞえ整形外科クリニック,山形県山形市花楯２-７-６,整形外科　リハビリテーション科,,,9" xlink:title="くわぞえ整形外科クリニック" transform="ref(svg,14034.8001,-3827.2645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和敬会大蕨クリニック,山形県東村山郡山辺町大字大蕨字中田１２２３,内科　外科　麻酔科,,,9" xlink:title="和敬会大蕨クリニック" transform="ref(svg,14020.1462,-3828.8949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニックあこがれ,山形県天童市大字荒谷１９７３-８８４,内科　神経内科　整形外科　心臓血管外科　リハビリテーション科　消化器外科,,,9" xlink:title="クリニックあこがれ" transform="ref(svg,14038.802,-3832.6826)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平本整形外科,山形県山形市千石６５,整形外科　リハビリテーション科,,,9" xlink:title="平本整形外科" transform="ref(svg,14036.5194,-3829.3271)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あこがれ,山形県天童市大字荒谷１９７３-１３４５,内科　神経内科　整形外科,,,9" xlink:title="（特養）あこがれ" transform="ref(svg,14038.7125,-3832.7302)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,濱井眼科,山形県山形市南原町２-７-４４,眼科,,,9" xlink:title="濱井眼科" transform="ref(svg,14034.0414,-3823.5393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正英会林内科・レディースクリニック,山形県山形市成沢西２-１-２１,内科　婦人科,,,9" xlink:title="（医）正英会林内科・レディースクリニック" transform="ref(svg,14031.3658,-3821.1962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やさく医院,山形県山形市成沢西５-６-２２,内科　胃腸科　外科　こう門科　リハビリテーション科,,,9" xlink:title="やさく医院" transform="ref(svg,14031.9829,-3820.8296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,芳賀心療内科・神経科クリニック,山形県天童市田鶴町４-２-５３,精神科　神経科　心療内科,,,9" xlink:title="芳賀心療内科・神経科クリニック" transform="ref(svg,14036.5436,-3835.6875)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口ハートクリニック,山形県山形市花楯２-５０-３,内科　呼吸器科　循環器科,,,9" xlink:title="山口ハートクリニック" transform="ref(svg,14035.1939,-3827.5358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新田クリニック,山形県上山市金生１-１５-１０,整形外科　リハビリテーション科　歯科　小児歯科,,,9" xlink:title="新田クリニック" transform="ref(svg,14028.5505,-3815.1262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,橋本こどもクリニック,山形県山形市瀬波１-１-３６,小児科,,,9" xlink:title="橋本こどもクリニック" transform="ref(svg,14031.1463,-3827.9522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉川皮ふ科クリニック,山形県山形市富の中４-１-１２,皮膚科,,,9" xlink:title="吉川皮ふ科クリニック" transform="ref(svg,14030.8283,-3823.2252)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,沢村クリニック,山形県山形市東原町４-１６-７,内科　皮膚科　泌尿器科,,,9" xlink:title="沢村クリニック" transform="ref(svg,14034.6305,-3824.3296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,平林耳鼻科皮膚科医院,山形県山形市成沢西２-９-３,耳鼻いんこう科　気管食道科　皮膚科,,,9" xlink:title="平林耳鼻科皮膚科医院" transform="ref(svg,14031.4853,-3820.9672)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）伊藤泌尿器科クリニック,山形県山形市五十鈴１-１-２８,皮膚科　泌尿器科,,,9" xlink:title="（医）伊藤泌尿器科クリニック" transform="ref(svg,14035.1275,-3827.1664)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつき整形外科クリニック,山形県村山市楯岡新町３-３４-２７,整形外科　リハビリテーション科,,,9" xlink:title="まつき整形外科クリニック" transform="ref(svg,14039.1022,-3846.9966)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,消化器科内科井上クリニック,山形県山形市北町３-７-１,内科　消化器科,,,9" xlink:title="消化器科内科井上クリニック" transform="ref(svg,14032.7559,-3827.1706)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形県精神保健福祉センター,山形県山形市小白川町２-３-３０,精神科　神経科,,,9" xlink:title="山形県精神保健福祉センター" transform="ref(svg,14035.0804,-3825.0317)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまのべ耳鼻咽喉科,山形県東村山郡山辺町大字山辺１１１５-７,耳鼻いんこう科,,,9" xlink:title="やまのべ耳鼻咽喉科" transform="ref(svg,14027.0766,-3829.7796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前田クリニック,山形県山形市末広町１５-８,内科　外科　リハビリテーション科,,,9" xlink:title="前田クリニック" transform="ref(svg,14032.4261,-3823.8032)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田村内科消化器科クリニック,山形県寒河江市高田１-１０-１０,内科　消化器科,,,9" xlink:title="田村内科消化器科クリニック" transform="ref(svg,14028.6803,-3836.8679)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陵南さとう整形外科,山形県寒河江市内ノ袋１-９-６,整形外科　リハビリテーション科,,,9" xlink:title="陵南さとう整形外科" transform="ref(svg,14026.2742,-3837.2436)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形サトウクリニック,山形県山形市六日町６-４２,内科,,,9" xlink:title="山形サトウクリニック" transform="ref(svg,14034.3712,-3825.9616)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神村内科医院,山形県天童市鍬ノ町３-２２,内科,,,9" xlink:title="神村内科医院" transform="ref(svg,14038.3881,-3835.4762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉原眼科,山形県山形市西田２-３-３,眼科,,,9" xlink:title="吉原眼科" transform="ref(svg,14031.3203,-3826.3466)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわしま内科循環器科クリニック,山形県山形市城西町５-２９-２２,内科　循環器内科　呼吸器内科,,,9" xlink:title="かわしま内科循環器科クリニック" transform="ref(svg,14031.5638,-3826.2206)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大畠整形外科医院,山形県山形市鈴川町３-１５-６４,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="大畠整形外科医院" transform="ref(svg,14035.6261,-3827.0076)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たておか小児クリニック,山形県村山市楯岡二日町７-７,小児科　アレルギー科,,,9" xlink:title="たておか小児クリニック" transform="ref(svg,14038.8853,-3848.6268)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまのべ整形外科,山形県東村山郡山辺町大字山辺１２５８-１３,整形外科　リハビリテーション科,,,9" xlink:title="やまのべ整形外科" transform="ref(svg,14027.089,-3829.4079)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとうウィメンズクリニック,山形県天童市南小畑４-１-１,小児科　産科　婦人科　歯科,,,9" xlink:title="さとうウィメンズクリニック" transform="ref(svg,14036.646,-3835.1231)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いがらしクリニック,山形県天童市東長岡２-８-８,内科　循環器科,,,9" xlink:title="いがらしクリニック" transform="ref(svg,14036.4727,-3833.2303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白壁内科クリニック,山形県山形市陣場１-９-２１,内科　呼吸器科　消化器科　循環器科,,,9" xlink:title="白壁内科クリニック" transform="ref(svg,14031.0515,-3827.8166)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天童温泉矢吹クリニック,山形県天童市鍬ノ町１-２-１０,内科,,,9" xlink:title="天童温泉矢吹クリニック" transform="ref(svg,14038.4424,-3835.5988)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはし元気クリニック,山形県東村山郡中山町大字小塩１２８４-５,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="たかはし元気クリニック" transform="ref(svg,14026.4365,-3834.1969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,保坂クリニック,山形県東根市さくらんぼ駅前２-７-２２,内科　呼吸器科　胃腸科　循環器科　小児科　外科　心臓血管外科,,,9" xlink:title="保坂クリニック" transform="ref(svg,14038.5927,-3842.9194)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかねヶ丘えんどう耳鼻咽喉科,山形県山形市上町４-１４-２０,アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="あかねヶ丘えんどう耳鼻咽喉科" transform="ref(svg,14031.2185,-3824.3417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,六日町あいあい（特養）医務室,山形県山形市六日町２-７,内科　精神科　皮膚科　歯科,,,9" xlink:title="六日町あいあい（特養）医務室" transform="ref(svg,14034.0778,-3826.0443)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいとう泌尿器科皮膚科,山形県山形市あかねヶ丘２-１０-５８,皮膚科　泌尿器科,,,9" xlink:title="さいとう泌尿器科皮膚科" transform="ref(svg,14031.1912,-3824.503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,甲州耳鼻咽喉科医院,山形県村山市駅西１９-２６,アレルギー科　耳鼻いんこう科,,,9" xlink:title="甲州耳鼻咽喉科医院" transform="ref(svg,14038.3844,-3847.6766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大竹内科呼吸器科医院,山形県天童市老野森１-５-１,内科　呼吸器科,,,9" xlink:title="大竹内科呼吸器科医院" transform="ref(svg,14037.7472,-3836.4018)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かつうら小児科,山形県山形市あさひ町１５-１５,小児科　アレルギー科,,,9" xlink:title="かつうら小児科" transform="ref(svg,14036.279,-3824.3348)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）西條クリニック,山形県山形市あこや町３-１２-１５,内科　外科　リハビリテーション科,,,9" xlink:title="（医）西條クリニック" transform="ref(svg,14035.4667,-3823.7943)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小関皮ふ科眼科クリニック,山形県山形市あこや町２-２-１５,眼科　皮膚科,,,9" xlink:title="小関皮ふ科眼科クリニック" transform="ref(svg,14035.176,-3824.1736)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東根市休日診療所,山形県東根市中央１-５-１,内科　小児科,,,9" xlink:title="東根市休日診療所" transform="ref(svg,14039.334,-3843.066)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真理子レディースクリニック,山形県山形市小姓町６-３５,産科　婦人科,,,9" xlink:title="（医）真理子レディースクリニック" transform="ref(svg,14034.3213,-3824.7343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまもと眼科クリニック,山形県山形市元木３-３-７,眼科,,,9" xlink:title="やまもと眼科クリニック" transform="ref(svg,14031.9342,-3822.2531)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋眼科クリニック,山形県天童市鍬ノ町１-２-２１,眼科,,,9" xlink:title="高橋眼科クリニック" transform="ref(svg,14038.456,-3835.5083)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ざおう整形外科クリニック,山形県山形市蔵王半郷字西ノ宮２４４-１,整形外科　リハビリテーション科,,,9" xlink:title="ざおう整形外科クリニック" transform="ref(svg,14031.5509,-3819.0933)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越医院,山形県山形市宮町１-３-３６,内科　小児科　産婦人科　消化器内科,,,9" xlink:title="川越医院" transform="ref(svg,14033.6303,-3826.2874)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひがしざわ診療所,山形県村山市楯岡笛田２-１９-５７,内科,,,9" xlink:title="（特養）ひがしざわ診療所" transform="ref(svg,14040.3662,-3847.9484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮川整形外科クリニック,山形県山形市宮町２-１-３４,整形外科　リハビリテーション科,,,9" xlink:title="宮川整形外科クリニック" transform="ref(svg,14033.3873,-3826.5982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ファミリークリニックやざわ,山形県山形市青柳字北柳１５４４-５,皮膚科　泌尿器科,,,9" xlink:title="ファミリークリニックやざわ" transform="ref(svg,14034.9433,-3829.976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひがしね耳鼻咽喉科,山形県東根市さくらんぼ駅前２-１０-２７,アレルギー科　耳鼻いんこう科　気管食道科,,,9" xlink:title="ひがしね耳鼻咽喉科" transform="ref(svg,14038.7503,-3842.8768)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）おさなぎ医務室,山形県東根市中島通り１-２５,内科,,,9" xlink:title="（特養）おさなぎ医務室" transform="ref(svg,14040.2843,-3841.1682)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリスタル美容外科,山形県山形市本町１-３-１４牧谷ビル３Ｆ,形成外科　美容外科　皮膚科　歯科,,,9" xlink:title="クリスタル美容外科" transform="ref(svg,14033.656,-3824.9161)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口内科クリニック,山形県山形市七日町５-１２-１４,内科　循環器内科,,,9" xlink:title="山口内科クリニック" transform="ref(svg,14034.4584,-3825.0669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南沼原内科クリニック,山形県山形市松栄１-１-５３,内科　神経内科,,,9" xlink:title="南沼原内科クリニック" transform="ref(svg,14029.8295,-3823.9358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじもり形成外科クリニック,山形県山形市十日町４-７-２３　２Ｆ,外科　形成外科　美容外科　皮膚科,,,9" xlink:title="ふじもり形成外科クリニック" transform="ref(svg,14033.3116,-3824.2939)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いしざわ皮ふ科クリニック,山形県西村山郡河北町谷地中央５-４-１,皮膚科,,,9" xlink:title="いしざわ皮ふ科クリニック" transform="ref(svg,14030.7647,-3841.9577)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひいなの里,山形県西村山郡河北町谷地字月山堂１２１７-５,内科,,,9" xlink:title="（特養）ひいなの里" transform="ref(svg,14030.8585,-3841.2633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青山皮膚科,山形県山形市五十鈴１-８-１４,皮膚科,,,9" xlink:title="青山皮膚科" transform="ref(svg,14035.5327,-3827.1302)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）しらいわ医務室,山形県寒河江市大字白岩６３２４,内科,,,9" xlink:title="（特養）しらいわ医務室" transform="ref(svg,14022.0038,-3840.9911)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いなむら耳鼻咽喉科クリニック,山形県山形市篭田３-１-２,耳鼻いんこう科,,,9" xlink:title="いなむら耳鼻咽喉科クリニック" transform="ref(svg,14031.8947,-3823.9014)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,七日町メンタルクリニック,山形県山形市七日町１-４-３１,精神科　心療内科,,,9" xlink:title="七日町メンタルクリニック" transform="ref(svg,14033.8991,-3825.3617)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本内科クリニック,山形県山形市双葉町２-１-２２,内科　糖尿病内科　内分泌・代謝内科,,,9" xlink:title="松本内科クリニック" transform="ref(svg,14032.2179,-3824.8359)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しらかばショートステイ笠原整形外科クリニック,山形県東村山郡山辺町大字山辺６７５-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="しらかばショートステイ笠原整形外科クリニック" transform="ref(svg,14026.2597,-3829.3917)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,オーヌマ眼科,山形県山形市鈴川町３-８-１０,眼科,,,9" xlink:title="オーヌマ眼科" transform="ref(svg,14035.8869,-3826.9379)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかえクリニック,山形県尾花沢市上町１-１-８,内科　婦人科　皮膚科　泌尿器科,,,9" xlink:title="さかえクリニック" transform="ref(svg,14040.4723,-3860.1792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆうき眼科クリニック,山形県尾花沢市上町４-７-７,眼科,,,9" xlink:title="ゆうき眼科クリニック" transform="ref(svg,14040.0755,-3859.9277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢口眼科クリニック,山形県村山市楯岡新町４-５-１６,眼科,,,9" xlink:title="矢口眼科クリニック" transform="ref(svg,14039.0874,-3846.9281)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,整形外科増子,山形県天童市南町３-１４-２７,整形外科　リハビリテーション科,,,9" xlink:title="整形外科増子" transform="ref(svg,14036.8815,-3834.18)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金井たかはし眼科,山形県山形市瀬波１-６-１５,眼科,,,9" xlink:title="金井たかはし眼科" transform="ref(svg,14030.7741,-3827.8808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,羽根田医院,山形県村山市大字湯野沢１９２１,内科　小児科,,,9" xlink:title="羽根田医院" transform="ref(svg,14032.1563,-3847.1735)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ヒッポメンタルクリニック,山形県山形市南栄町２-１４-６,精神科,,,9" xlink:title="ヒッポメンタルクリニック" transform="ref(svg,14031.9293,-3823.1199)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉山内科クリニック,山形県山形市嶋北１-１４-３,内科　糖尿病内科　内分泌・代謝内科,,,9" xlink:title="杉山内科クリニック" transform="ref(svg,14032.167,-3828.6799)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,山形県東村山郡山辺町大字山辺１０６８,内科　胃腸科　外科,,,9" xlink:title="鈴木医院" transform="ref(svg,14026.7508,-3830.0839)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒田内科クリニック,山形県山形市七日町４-１３-３３,内科　呼吸器科　循環器科,,,9" xlink:title="黒田内科クリニック" transform="ref(svg,14034.6562,-3825.4275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひでたま胃腸科眼科クリニック,山形県東村山郡山辺町大字山辺６１３９-６,内科　胃腸科　眼科,,,9" xlink:title="ひでたま胃腸科眼科クリニック" transform="ref(svg,14027.2032,-3828.868)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田小児科クリニック,山形県山形市大字松原３１１-１,小児科,,,9" xlink:title="池田小児科クリニック" transform="ref(svg,14030.739,-3820.6509)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,陵南眼科クリニック,山形県寒河江市仲谷地２-３-６,眼科,,,9" xlink:title="陵南眼科クリニック" transform="ref(svg,14026.2493,-3837.072)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）鈴川敬寿園医務室,山形県山形市大野目２-２-６７,内科　循環器科　精神科,,,9" xlink:title="（特養）鈴川敬寿園医務室" transform="ref(svg,14035.6589,-3827.765)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）みゆき会南館クリニック,山形県山形市南館４-１-４５,内科　整形外科,,,9" xlink:title="（医）みゆき会南館クリニック" transform="ref(svg,14031.1086,-3823.6802)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）慈敬会（特養）おばなざわ医務室,山形県尾花沢市大字五十沢１８６,内科　皮膚科,,,9" xlink:title="（福）慈敬会（特養）おばなざわ医務室" transform="ref(svg,14040.3383,-3858.5232)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,矢口泌尿器科内科クリニック,山形県西村山郡河北町谷地中央１-３-７,内科　泌尿器科,,,9" xlink:title="矢口泌尿器科内科クリニック" transform="ref(svg,14031.2176,-3842.0707)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金村医院,山形県東根市本丸西４-１-２４,内科　小児科　アレルギー科　循環器内科　呼吸器内科,,,9" xlink:title="金村医院" transform="ref(svg,14039.4246,-3844.6789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）妙光福祉会やすらぎの里金井,山形県山形市内表東１,内科,,,9" xlink:title="（福）妙光福祉会やすらぎの里金井" transform="ref(svg,14030.7257,-3828.713)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本町矢吹クリニック,山形県山形市本町１-６-１７,内科　リハビリテーション科　腎臓内科,,,9" xlink:title="本町矢吹クリニック" transform="ref(svg,14033.5829,-3825.1301)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,つかさ内科医院,山形県西村山郡河北町谷地字月山堂４０８-１,内科,,,9" xlink:title="つかさ内科医院" transform="ref(svg,14031.3888,-3841.5307)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小規模（特養）本丸ホーム診療所,山形県東根市本丸南１-１０-１６,内科,,,9" xlink:title="小規模（特養）本丸ホーム診療所" transform="ref(svg,14039.9837,-3844.1806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おくやま内科医院,山形県尾花沢市新町中央３-６,内科,,,9" xlink:title="おくやま内科医院" transform="ref(svg,14040.6996,-3860.5693)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,村田内科医院,山形県山形市十日町４-７-２３メディカルプラザ十日町３Ｆ,内科　消化器内科,,,9" xlink:title="村田内科医院" transform="ref(svg,14033.309,-3824.2923)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,板垣クリニック,山形県山形市成沢西４-４-５,内科　神経内科　脳神経外科　リハビリテーション科,,,9" xlink:title="板垣クリニック" transform="ref(svg,14031.9603,-3820.6277)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,十日町ようこクリニック,山形県山形市十日町３-２-８クレス十日町１階,内科　女性内科,,,9" xlink:title="十日町ようこクリニック" transform="ref(svg,14033.7065,-3824.4978)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディースクリニック高山,山形県山形市嶋北１-１４-１３,産婦人科,,,9" xlink:title="レディースクリニック高山" transform="ref(svg,14032.1711,-3828.7457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松柏会わかばクリニック,山形県山形市旅篭町１-７-２３,内科　麻酔科,,,9" xlink:title="（医）松柏会わかばクリニック" transform="ref(svg,14033.4734,-3825.5067)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）滝山なごみの里医務室,山形県山形市東青田２-６-４,内科　精神科　婦人科,,,9" xlink:title="（特養）滝山なごみの里医務室" transform="ref(svg,14034.1261,-3822.5589)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,べにばな内科クリニック,山形県山形市成沢西４-１１-３２,内科　精神科　心療内科,,,9" xlink:title="べにばな内科クリニック" transform="ref(svg,14031.6061,-3820.4762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）飯塚なごみの里医務室,山形県山形市飯塚町字宮浦１４４７-４,内科　精神科　婦人科,,,9" xlink:title="（特養）飯塚なごみの里医務室" transform="ref(svg,14030.0524,-3825.5551)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桃井整形外科,山形県山形市緑町４-１４-８,整形外科　リハビリテーション科,,,9" xlink:title="桃井整形外科" transform="ref(svg,14035.1948,-3825.3892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さがえ整形外科クリニック,山形県山形市あこや町２-２-２３,整形外科,,,9" xlink:title="さがえ整形外科クリニック" transform="ref(svg,14035.1987,-3824.1674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひかり皮膚科,山形県東根市さくらんぼ駅前２-１３-１,皮膚科,,,9" xlink:title="ひかり皮膚科" transform="ref(svg,14038.8621,-3842.8658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）山形県成人病検査センター,山形県寒河江市六供町２-５-１３,内科,,,9" xlink:title="（一財）山形県成人病検査センター" transform="ref(svg,14026.7665,-3838.2629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高柳整形外科クリニック,山形県山形市十日町３-７-２２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="高柳整形外科クリニック" transform="ref(svg,14033.5761,-3824.3615)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わだ心療内科クリニック,山形県山形市小白川町４-３-２４,内科　精神科　神経科　心療内科,,,9" xlink:title="わだ心療内科クリニック" transform="ref(svg,14035.3592,-3824.4899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かほく紅花クリニック,山形県西村山郡河北町谷地中央５-９-１５,内科　神経内科　脳神経外科,,,9" xlink:title="かほく紅花クリニック" transform="ref(svg,14030.7385,-3841.6924)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こにだ高橋クリニック,山形県山形市小荷駄町１２-３２,循環器内科　呼吸器内科　内科,,,9" xlink:title="こにだ高橋クリニック" transform="ref(svg,14034.2994,-3823.7816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）よつば荘医務室,山形県尾花沢市大字荻袋１２８７-２０,内科,,,9" xlink:title="（特養）よつば荘医務室" transform="ref(svg,14038.1378,-3862.4376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ソーレ東根,山形県東根市温泉町２-５-３-５,内科　整形外科　皮膚科　泌尿器科　精神科,,,9" xlink:title="（特養）ソーレ東根" transform="ref(svg,14038.816,-3846.0077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）山静寿診療所,山形県山形市大字沼木字下河原１１３３-１,内科　整形外科,,,9" xlink:title="（特養）山静寿診療所" transform="ref(svg,14028.6617,-3825.1671)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,荒井小児科医院,山形県山形市久保田１-４-２７,小児科　アレルギー科　呼吸器内科,,,9" xlink:title="荒井小児科医院" transform="ref(svg,14031.7435,-3825.0019)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かんの眼科,山形県山形市吉原２-１０-５,眼科,,,9" xlink:title="かんの眼科" transform="ref(svg,14031.3025,-3822.8499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形市休日夜間診療所,山形県山形市香澄町２-９-３９,内科　外科　小児科,,,9" xlink:title="山形市休日夜間診療所" transform="ref(svg,14033.3672,-3824.9128)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちとせノ杜医務室,山形県山形市落合町２０５,内科　循環器内科　外科　心臓血管外科,,,9" xlink:title="ちとせノ杜医務室" transform="ref(svg,14035.0534,-3828.3717)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福寿草小荷駄町医務室,山形県山形市小荷駄町１２-４６,内科,,,9" xlink:title="福寿草小荷駄町医務室" transform="ref(svg,14034.2782,-3823.8013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）妙光福祉会（特養）蔵王やすらぎの里医務室,山形県山形市蔵王上野９２０,内科,,,9" xlink:title="（福）妙光福祉会（特養）蔵王やすらぎの里医務室" transform="ref(svg,14031.6178,-3817.5962)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ナブテスコ診療所,山形県村山市金谷５-１,内科,,,9" xlink:title="ナブテスコ診療所" transform="ref(svg,14039.0195,-3851.3447)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちばクリニック,山形県山形市元木２-９-３９,内科　外科,,,9" xlink:title="ちばクリニック" transform="ref(svg,14032.0052,-3822.3669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,美畑町耳鼻咽喉科クリニック,山形県山形市美畑町１２-１２,耳鼻いんこう科,,,9" xlink:title="美畑町耳鼻咽喉科クリニック" transform="ref(svg,14032.3596,-3823.5665)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほなみ透析クリニック,山形県寒河江市丸内３-４-３４,人工透析内科,,,9" xlink:title="ほなみ透析クリニック" transform="ref(svg,14028.378,-3837.6031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みはらしの丘医務室,山形県山形市大字松原１９１１-４（９５-１）,内科,,,9" xlink:title="（特養）みはらしの丘医務室" transform="ref(svg,14029.0051,-3818.2181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小規模（特養）あっぷるの里久保田医務室,山形県山形市久保田１-７-７,内科,,,9" xlink:title="小規模（特養）あっぷるの里久保田医務室" transform="ref(svg,14031.8712,-3824.8414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）さくらホーム山形診療所,山形県山形市嶋北３-１４-２４,内科,,,9" xlink:title="（特養）さくらホーム山形診療所" transform="ref(svg,14031.955,-3829.0888)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山元診療所,山形県上山市狸森字久々取５１１-１,内科　外科,,,9" xlink:title="山元診療所" transform="ref(svg,14022.5384,-3818.5573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ユトリアケアセンターかすみ医務室,山形県山形市香澄町２-３-３２,内科　消化器内科　循環器内科,,,9" xlink:title="ユトリアケアセンターかすみ医務室" transform="ref(svg,14033.2628,-3824.6956)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）沼木敬寿園医務室,山形県山形市大字沼木６８-１,内科,,,9" xlink:title="（特養）沼木敬寿園医務室" transform="ref(svg,14029.1424,-3824.4436)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あきらクリニック,山形県山形市南四番町１２-１０,内科　循環器内科　呼吸器内科,,,9" xlink:title="あきらクリニック" transform="ref(svg,14032.5912,-3823.3094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）眺葉園医務室（ユニット型）,山形県西村山郡河北町谷地字東６８０,内科　胃腸内科　外科,,,9" xlink:title="（特養）眺葉園医務室（ユニット型）" transform="ref(svg,14032.2827,-3842.4681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）眺葉園医務室,山形県西村山郡河北町谷地字東６８０,内科　胃腸内科　外科,,,9" xlink:title="（特養）眺葉園医務室" transform="ref(svg,14032.2827,-3842.4681)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こんの小児科クリニック,山形県山形市銅町２-６-６,小児科　アレルギー疾患内科,,,9" xlink:title="こんの小児科クリニック" transform="ref(svg,14034.2482,-3827.0326)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつながキッズクリニック,山形県山形市西田２-２-１０,小児科　腎臓内科,,,9" xlink:title="まつながキッズクリニック" transform="ref(svg,14031.4196,-3826.3282)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,由美子こどもクリニック,山形県山形市大字中野４１０１,小児科,,,9" xlink:title="由美子こどもクリニック" transform="ref(svg,14030.0785,-3830.7263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとこ女性クリニック,山形県山形市大字中野４１０３,内科　婦人科,,,9" xlink:title="さとこ女性クリニック" transform="ref(svg,14030.0813,-3830.7164)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）南町耳鼻咽喉科,山形県天童市南町３-１４-１９,耳鼻いんこう科　頭頸部外科,,,9" xlink:title="（医）南町耳鼻咽喉科" transform="ref(svg,14036.8765,-3834.1389)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形県赤十字血液センター山形駅前出張所,山形県山形市香澄町２-２-３６-５Ｆ,内科,,,9" xlink:title="山形県赤十字血液センター山形駅前出張所" transform="ref(svg,14033.1067,-3824.7395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いちかわ整形外科,山形県山形市上町３-１２-１２,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="いちかわ整形外科" transform="ref(svg,14031.9112,-3823.9529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東谷心療内科,山形県天童市南町３-２-１６,精神科　心療内科,,,9" xlink:title="東谷心療内科" transform="ref(svg,14036.8351,-3834.398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤眼科医院銅町クリニック,山形県山形市銅町１-６-３５,眼科,,,9" xlink:title="佐藤眼科医院銅町クリニック" transform="ref(svg,14033.8801,-3827.3637)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きくち内科医院,山形県山形市松見町１６-２４,内科　消化器内科,,,9" xlink:title="きくち内科医院" transform="ref(svg,14033.8978,-3823.1574)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおたけ医院,山形県山形市南三番町７-１８,アレルギー科　耳鼻いんこう科,,,9" xlink:title="おおたけ医院" transform="ref(svg,14032.4518,-3823.0533)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かるべクリニック,山形県村山市楯岡新町４-９-６,内科　糖尿病内科　血液内科,,,9" xlink:title="かるべクリニック" transform="ref(svg,14039.2268,-3846.8795)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,福寿乃郷医務室,山形県山形市飯田２-７-３０,内科,,,9" xlink:title="福寿乃郷医務室" transform="ref(svg,14032.6849,-3821.6651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）金沢医院,山形県上山市新町２-２-３４,内科　消化器内科,,,9" xlink:title="（医）金沢医院" transform="ref(svg,14028.3855,-3816.333)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）ソーレ大石田,山形県北村山郡大石田町駒籠４１３,内科　精神科　整形外科　皮膚科　泌尿器科,,,9" xlink:title="地域密着型（特養）ソーレ大石田" transform="ref(svg,14033.8227,-3862.6192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）笠原整形外科,山形県山形市久保田１-８-１３,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）笠原整形外科" transform="ref(svg,14031.7712,-3824.7503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ＴＦメディカルクリニック,山形県山形市嶋北３-１-１１,内科　外科　胃腸内科,,,9" xlink:title="ＴＦメディカルクリニック" transform="ref(svg,14032.3647,-3828.9263)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,花楯やすらぎクリニック,山形県山形市花楯１-３-１,内科　麻酔科　疼痛緩和内科,,,9" xlink:title="花楯やすらぎクリニック" transform="ref(svg,14035.0595,-3827.1373)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤医院,山形県天童市糠塚２-８-３０,内科　皮膚科,,,9" xlink:title="近藤医院" transform="ref(svg,14038.3641,-3836.4873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小規模（特養）東部の郷,山形県山形市松波３-４-５,内科,,,9" xlink:title="小規模（特養）東部の郷" transform="ref(svg,14036.7561,-3824.2369)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）ながすずの里,山形県上山市長清水２-５-１９,内科,,,9" xlink:title="地域密着型（特養）ながすずの里" transform="ref(svg,14027.3316,-3814.181)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,すずきこどもクリニック,山形県東根市神町北３-２-１８,小児科　アレルギー科,,,9" xlink:title="すずきこどもクリニック" transform="ref(svg,14038.5816,-3841.75)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,皮ふ科桜井医院,山形県山形市南原町３-１-３,皮膚科,,,9" xlink:title="皮ふ科桜井医院" transform="ref(svg,14034.0441,-3823.3952)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）むらやま医務室,山形県村山市中央２-３-４６,内科,,,9" xlink:title="地域密着型（特養）むらやま医務室" transform="ref(svg,14037.3795,-3848.2313)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,盲（特養）和合荘,山形県西村山郡朝日町大字和合４２２-１,内科,,,9" xlink:title="盲（特養）和合荘" transform="ref(svg,14016.7009,-3832.7916)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）べにはなの杜,山形県山形市大字大森８５３,内科　外科　心臓血管外科　循環器内科,,,9" xlink:title="（特養）べにはなの杜" transform="ref(svg,14038.8689,-3830.503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつだクリニック,山形県山形市桧町２-１１-１５,内科　消化器内科　循環器内科,,,9" xlink:title="まつだクリニック" transform="ref(svg,14033.1381,-3827.8297)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,緑町山田医院,山形県山形市緑町３-２-５１,精神科　心療内科,,,9" xlink:title="緑町山田医院" transform="ref(svg,14034.6712,-3825.0342)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,霞城眼科クリニック,山形県山形市双葉町２-４-２３,眼科,,,9" xlink:title="霞城眼科クリニック" transform="ref(svg,14032.0095,-3825.0178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ブレインクリニック妻沼,山形県山形市嶋南２-７-３,内科　脳神経外科　リハビリテーション科,,,9" xlink:title="ブレインクリニック妻沼" transform="ref(svg,14032.0606,-3828.1042)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,肘折温泉療養相談所,山形県最上郡大蔵村大字南山４５１-２,内科,,,9" xlink:title="肘折温泉療養相談所" transform="ref(svg,14016.946,-3861.1298)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川医院,山形県南陽市郡山１０８２-１０,産婦人科,,,9" xlink:title="小川医院" transform="ref(svg,14015.1578,-3804.7543)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,齋藤医院,山形県南陽市宮内２９６３,内科　小児科　麻酔科,,,9" xlink:title="齋藤医院" transform="ref(svg,14013.4034,-3807.2376)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤産婦人科医院,山形県南陽市宮内２５４５,内科　小児科　産科　婦人科,,,9" xlink:title="佐藤産婦人科医院" transform="ref(svg,14014.0324,-3807.414)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,須藤皮膚科医院,山形県南陽市二色根７５-９,皮膚科,,,9" xlink:title="須藤皮膚科医院" transform="ref(svg,14016.0435,-3804.9946)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永山医院,山形県南陽市椚塚１８２１-２,内科　外科　糖尿病内科　漢方内科,,,9" xlink:title="永山医院" transform="ref(svg,14015.9605,-3804.7658)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南陽市国民健康保険小滝診療所,山形県南陽市小滝１４７１,内科,,,9" xlink:title="南陽市国民健康保険小滝診療所" transform="ref(svg,14018.7885,-3818.5211)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西山医院,山形県南陽市宮内２７７９-１,内科　消化器科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="西山医院" transform="ref(svg,14013.5581,-3807.1611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三須小児科内科医院,山形県南陽市宮内２６２１,内科　小児科,,,9" xlink:title="三須小児科内科医院" transform="ref(svg,14013.8241,-3807.3383)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホーム南陽やすらぎ荘診療所,山形県南陽市三間通１０６５,内科,,,9" xlink:title="養護老人ホーム南陽やすらぎ荘診療所" transform="ref(svg,14015.3069,-3806.529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科医院,山形県南陽市宮内４５４５-２,内科　循環器科　小児科,,,9" xlink:title="鈴木内科医院" transform="ref(svg,14013.2285,-3806.5595)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,南陽東置賜休日診療所,山形県南陽市椚塚４２０-７,内科　小児科,,,9" xlink:title="南陽東置賜休日診療所" transform="ref(svg,14016.2974,-3804.2915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,千葉医院,山形県東置賜郡高畠町高畠１５７４,内科　外科,,,9" xlink:title="千葉医院" transform="ref(svg,14019.4401,-3800.4905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かすかわ醫院,山形県東置賜郡高畠町高畠５２６-３,内科　外科　漢方内科　肛門外科,,,9" xlink:title="（医）かすかわ醫院" transform="ref(svg,14018.9082,-3800.3928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）松風会（特養）まほろば荘,山形県東置賜郡高畠町大字福沢７０５-１,内科,,,9" xlink:title="（福）松風会（特養）まほろば荘" transform="ref(svg,14015.4224,-3799.5816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,久保田整形外科医院,山形県東置賜郡高畠町相森６３-１,整形外科,,,9" xlink:title="久保田整形外科医院" transform="ref(svg,14018.3173,-3800.4129)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,後藤医院,山形県南陽市赤湯３４２,消化器内科,,,9" xlink:title="後藤医院" transform="ref(svg,14016.2369,-3804.8806)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）山形県社会福祉事業団泉荘診療所,山形県長井市今泉１８１２,内科　精神科,,,9" xlink:title="（福）山形県社会福祉事業団泉荘診療所" transform="ref(svg,14005.2178,-3805.5522)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,梅津医院,山形県長井市大町２-２７,循環器科　胃腸科　内科　一般外科,,,9" xlink:title="梅津医院" transform="ref(svg,14003.6904,-3811.0111)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁陽会仁陽堂外田医院,山形県長井市栄町１１-１７,内科　外科　リハビリテーション科　消化器内科,,,9" xlink:title="（医）仁陽会仁陽堂外田医院" transform="ref(svg,14003.8309,-3810.8618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,外田医院,山形県長井市大町８-６,内科　消化器科　外科,,,9" xlink:title="外田医院" transform="ref(svg,14003.8026,-3810.9779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）山形県社会福祉事業団寿泉荘診療所,山形県長井市今泉１８５７,内科　精神科,,,9" xlink:title="（福）山形県社会福祉事業団寿泉荘診療所" transform="ref(svg,14005.3989,-3805.7945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,養護老人ホ-ムおいたま荘診療所,山形県長井市今泉１８５７-６,内科　精神科,,,9" xlink:title="養護老人ホ-ムおいたま荘診療所" transform="ref(svg,14005.5189,-3805.8033)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三上医院,山形県長井市高野町１-６-１,内科　外科　皮膚科,,,9" xlink:title="（医）三上医院" transform="ref(svg,14003.4547,-3810.7617)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,阿達医院,山形県長井市あら町６-４７,内科　アレルギー科　リウマチ科,,,9" xlink:title="阿達医院" transform="ref(svg,14003.8379,-3810.0697)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）仁鷹会新野医院,山形県西置賜郡白鷹町大字鮎貝１０７７,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）仁鷹会新野医院" transform="ref(svg,14006.796,-3818.3772)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）多田医院,山形県西置賜郡白鷹町大字荒砥甲１０５５,内科　消化器内科,,,9" xlink:title="（医）多田医院" transform="ref(svg,14010.0871,-3818.5536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白光園診療所,山形県西置賜郡白鷹町大字荒砥甲３７７,内科,,,9" xlink:title="白光園診療所" transform="ref(svg,14009.3327,-3818.2986)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,寺嶋医院,山形県西置賜郡飯豊町手の子１４５３-１,内科　外科　整形外科　皮膚科,,,9" xlink:title="寺嶋医院" transform="ref(svg,13996.2841,-3801.0668)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）慈光園医務室,山形県長井市小出３４５３,内科,,,9" xlink:title="（特養）慈光園医務室" transform="ref(svg,14004.9867,-3810.9341)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,横沢医院,山形県西置賜郡白鷹町大字横田尻５３７９-１,内科　胃腸科,,,9" xlink:title="横沢医院" transform="ref(svg,14004.2095,-3817.8721)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう小児科医院,山形県長井市幸町１７-２７,内科　小児科　アレルギー科,,,9" xlink:title="さとう小児科医院" transform="ref(svg,14002.82,-3810.923)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひめさゆり荘医務室,山形県西置賜郡飯豊町大字添川３５１４-８２,内科,,,9" xlink:title="（特養）ひめさゆり荘医務室" transform="ref(svg,14002.9609,-3802.979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長井西置賜休日診療所,山形県長井市ままの上７-１０,内科　小児科　外科,,,9" xlink:title="長井西置賜休日診療所" transform="ref(svg,14004.151,-3810.5599)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松下クリニック,山形県長井市本町１-９-２７-１,内科　泌尿器科,,,9" xlink:title="松下クリニック" transform="ref(svg,14003.7025,-3810.5796)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斎藤眼科医院,山形県長井市ままの上１-１６,眼科,,,9" xlink:title="斎藤眼科医院" transform="ref(svg,14003.9278,-3810.7592)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,池田内科医院,山形県長井市台町６-１,内科,,,9" xlink:title="池田内科医院" transform="ref(svg,14003.3881,-3809.4661)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大森医院,山形県西置賜郡白鷹町大字荒砥乙３２８２,内科　胃腸科　外科　皮膚科　こう門科,,,9" xlink:title="大森医院" transform="ref(svg,14010.0799,-3818.0183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,白鷹陽光学園診療所,山形県西置賜郡白鷹町大字山口４０８,内科　精神科　外科,,,9" xlink:title="白鷹陽光学園診療所" transform="ref(svg,14006.6173,-3819.4479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桑島眼科医院,山形県長井市本町２-２-１２,眼科,,,9" xlink:title="桑島眼科医院" transform="ref(svg,14003.7431,-3810.5235)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聰明会みゆき整形外科クリニック,山形県西置賜郡白鷹町大字十王５０５９-１３,内科　整形外科　リハビリテーション科,,,9" xlink:title="（医）聰明会みゆき整形外科クリニック" transform="ref(svg,14012.413,-3819.2767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤内科クリニック,山形県長井市緑町１３-１１,内科,,,9" xlink:title="伊藤内科クリニック" transform="ref(svg,14004.1426,-3811.6929)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）山形県社会福祉事業団希望が丘診療所,山形県東置賜郡川西町下小松２０４５-２０,内科　精神科　整形外科　皮膚科　歯科,,,9" xlink:title="（福）山形県社会福祉事業団希望が丘診療所" transform="ref(svg,14004.0643,-3804.1845)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柄沢医院,山形県東置賜郡川西町中小松２２１５-１,内科　消化器内科,,,9" xlink:title="柄沢医院" transform="ref(svg,14005.0847,-3800.8651)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こぶし荘,山形県南陽市川樋５０８,内科,,,9" xlink:title="（特養）こぶし荘" transform="ref(svg,14019.4028,-3809.4879)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,板垣医院,山形県南陽市宮内５８７-２,内科　小児科　整形外科,,,9" xlink:title="板垣医院" transform="ref(svg,14013.8136,-3806.5384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）そよ風の森,山形県東置賜郡川西町大字時田１４１７,内科,,,9" xlink:title="（特養）そよ風の森" transform="ref(svg,14006.3725,-3798.4629)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかはた内科医院,山形県東置賜郡高畠町大字福沢字鎌塚台１６３-１,内科,,,9" xlink:title="たかはた内科医院" transform="ref(svg,14014.6138,-3798.8882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（公財）やまがた健康推進機構南陽検診センター,山形県南陽市三間通４６６-５,内科,,,9" xlink:title="（公財）やまがた健康推進機構南陽検診センター" transform="ref(svg,14014.76,-3805.718)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安日クリニック,山形県南陽市郡山８７７-５,内科,,,9" xlink:title="安日クリニック" transform="ref(svg,14015.3362,-3804.4878)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺整形外科医院,山形県南陽市赤湯３４６-３４,外科　整形外科　リハビリテーション科,,,9" xlink:title="渡辺整形外科医院" transform="ref(svg,14016.3924,-3804.7786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大西眼科,山形県南陽市赤湯２８７５-１,眼科,,,9" xlink:title="大西眼科" transform="ref(svg,14017.3148,-3804.6743)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本町クリニック,山形県南陽市宮内２６２０,内科　小児科　放射線科,,,9" xlink:title="本町クリニック" transform="ref(svg,14013.906,-3807.3365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相田医院,山形県東置賜郡高畠町大字糠野目１４９０-１,内科　精神科,,,9" xlink:title="相田医院" transform="ref(svg,14013.7672,-3798.3324)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,齋藤内科クリニック,山形県南陽市宮内４６５２-１,内科　リウマチ科　消化器内科　循環器内科,,,9" xlink:title="齋藤内科クリニック" transform="ref(svg,14013.829,-3806.9065)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はとみね荘,山形県東置賜郡高畠町大字高畠３０３,内科　外科,,,9" xlink:title="（特養）はとみね荘" transform="ref(svg,14019.0421,-3800.0276)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,金子医院,山形県東置賜郡高畠町高畠１１３５-２,内科　小児科　神経内科　皮膚科,,,9" xlink:title="金子医院" transform="ref(svg,14020.1744,-3800.2208)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）太陽の里ふたば医務室,山形県南陽市宮内２３８１,内科,,,9" xlink:title="（特養）太陽の里ふたば医務室" transform="ref(svg,14014.5108,-3807.2678)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤整形外科クリニック,山形県南陽市島貫６１５-９,整形外科　リハビリテーション科,,,9" xlink:title="加藤整形外科クリニック" transform="ref(svg,14014.3592,-3804.4303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,公立置賜川西診療所,山形県東置賜郡川西町大字上小松２９１８-２,内科　外科　整形外科　リハビリテーション科,,,9" xlink:title="公立置賜川西診療所" transform="ref(svg,14004.015,-3800.1934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くのもと整形外科クリニック,山形県長井市九野本８０５-１６,整形外科　リハビリテーション科,,,9" xlink:title="くのもと整形外科クリニック" transform="ref(svg,14002.9319,-3809.5197)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斎藤内科循環器科クリニック,山形県東置賜郡川西町大字上小松１０６８-６,内科　小児科　循環器内科,,,9" xlink:title="斎藤内科循環器科クリニック" transform="ref(svg,14005.1399,-3800.5033)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,トータルヘルスクリニック,山形県南陽市椚塚１１８０-５,内科　精神科　心療内科　歯科,,,9" xlink:title="トータルヘルスクリニック" transform="ref(svg,14017.3105,-3804.3991)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,まつはし内科胃腸科クリニック,山形県東置賜郡高畠町大字高畠２７６-８,内科　胃腸科,,,9" xlink:title="まつはし内科胃腸科クリニック" transform="ref(svg,14019.1599,-3799.8923)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さゆり内科歯科クリニック,山形県西置賜郡飯豊町大字萩生４３６２,内科　歯科,,,9" xlink:title="さゆり内科歯科クリニック" transform="ref(svg,13999.8944,-3806.0581)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中村循環器科医院,山形県長井市栄町６-３１,内科　呼吸器科　循環器科,,,9" xlink:title="（医）中村循環器科医院" transform="ref(svg,14003.6851,-3810.724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川合耳鼻咽喉科,山形県南陽市島貫５９９-１,内科　アレルギー科　耳鼻いんこう科,,,9" xlink:title="川合耳鼻咽喉科" transform="ref(svg,14014.5413,-3804.7395)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかさとこどもクリニック,山形県長井市小出３９３０-３,小児科,,,9" xlink:title="なかさとこどもクリニック" transform="ref(svg,14003.9616,-3809.142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木クリニック,山形県南陽市島貫５９０-１５,皮膚科　泌尿器科　腎臓内科,,,9" xlink:title="鈴木クリニック" transform="ref(svg,14014.6011,-3804.6906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとうクリニック,山形県南陽市宮内字横町３５００,内科　外科　消化器内科　漢方内科　肛門外科,,,9" xlink:title="さとうクリニック" transform="ref(svg,14013.9924,-3807.4674)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前山耳鼻咽喉クリニック,山形県長井市泉字舘の越１９２６-１２,アレルギー科　耳鼻いんこう科,,,9" xlink:title="前山耳鼻咽喉クリニック" transform="ref(svg,14003.6982,-3808.7957)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はぎの内科医院,山形県長井市東町１-１,内科,,,9" xlink:title="はぎの内科医院" transform="ref(svg,14004.1987,-3810.7142)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大塚医院,山形県南陽市赤湯３９３,内科　胃腸科　外科　こう門科,,,9" xlink:title="大塚医院" transform="ref(svg,14016.6251,-3804.7137)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井ファミリークリニック,山形県東置賜郡高畠町大字相森５７-１３,内科　小児科,,,9" xlink:title="石井ファミリークリニック" transform="ref(svg,14018.336,-3800.4289)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あかゆ小児クリニック,山形県南陽市椚塚１６８６-１,小児科,,,9" xlink:title="あかゆ小児クリニック" transform="ref(svg,14015.9756,-3804.411)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,近藤皮ふ科クリニック,山形県長井市高野町１-４-１４-１,皮膚科,,,9" xlink:title="近藤皮ふ科クリニック" transform="ref(svg,14003.6305,-3810.8453)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,飯豊町国民健康保険診療所,山形県西置賜郡飯豊町大字椿３６５４-１,内科　小児科,,,9" xlink:title="飯豊町国民健康保険診療所" transform="ref(svg,13999.4288,-3804.5366)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）たかはた荘,山形県東置賜郡高畠町大字高畠３０３-１,内科　外科,,,9" xlink:title="（特養）たかはた荘" transform="ref(svg,14019.0549,-3800.07)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,障がい者支援施設南陽の里医務室,山形県南陽市宮内１２０４-３,内科,,,9" xlink:title="障がい者支援施設南陽の里医務室" transform="ref(svg,14014.4553,-3806.9514)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤湯駅前クリニック,山形県南陽市三間通１２６-１１,内科　精神科　心療内科,,,9" xlink:title="赤湯駅前クリニック" transform="ref(svg,14015.2074,-3804.8461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いからし内科クリニック,山形県東置賜郡高畠町福沢南１１-４,内科　消化器内科,,,9" xlink:title="いからし内科クリニック" transform="ref(svg,14014.8788,-3799.2267)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）桜の里双葉医務室,山形県南陽市椚塚１６９０,内科　心療内科,,,9" xlink:title="地域密着型（特養）桜の里双葉医務室" transform="ref(svg,14015.9713,-3804.5226)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高畠町健診センター,山形県東置賜郡高畠町高畠３７９-１,内科　外科,,,9" xlink:title="高畠町健診センター" transform="ref(svg,14018.8641,-3800.1195)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上領眼科クリニック,山形県東置賜郡高畠町大字福沢５９６-３,眼科,,,9" xlink:title="上領眼科クリニック" transform="ref(svg,14014.6202,-3799.323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）マイスカイ中山医務室,山形県西置賜郡白鷹町大字中山２７６０,内科　整形外科　リハビリテーション科,,,9" xlink:title="（特養）マイスカイ中山医務室" transform="ref(svg,14014.76,-3823.3883)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）きじまキッズクリニック,山形県東置賜郡川西町上小松９１５-５,小児科,,,9" xlink:title="（医）きじまキッズクリニック" transform="ref(svg,14005.2298,-3800.2088)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）ひめさゆりの丘医務室,山形県西置賜郡飯豊町大字添川３５１４-８２,内科　精神科,,,9" xlink:title="地域密着型（特養）ひめさゆりの丘医務室" transform="ref(svg,14002.9609,-3802.979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）野の香医務室,山形県長井市館町南９-６３,内科,,,9" xlink:title="（特養）野の香医務室" transform="ref(svg,14004.2586,-3809.2751)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚生労働省第二（共済）山形病院診療部,山形県山形市行才１２６-２,内科,,,9" xlink:title="厚生労働省第二（共済）山形病院診療部" transform="ref(svg,14030.9328,-3828.8413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形県村山保健所,山形県山形市十日町１-６-６,内科,,,9" xlink:title="山形県村山保健所" transform="ref(svg,14033.4464,-3824.8192)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形県村山保健所西村山診療所,山形県寒河江市大字西根字石川西３５５,内科,,,9" xlink:title="山形県村山保健所西村山診療所" transform="ref(svg,14027.7254,-3839.0907)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山形県置賜保健所西置賜診療所,山形県長井市高野町２-３-１,内科　泌尿器科,,,9" xlink:title="山形県置賜保健所西置賜診療所" transform="ref(svg,14003.4433,-3811.0582)" x="0" y="0"/>
+</g>
+</svg>

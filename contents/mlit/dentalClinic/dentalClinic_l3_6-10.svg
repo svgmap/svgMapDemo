@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="12375.0 -3375.0 562.5 562.5" go:dataArea="12375.0 -3375.0 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,（医）こまき歯科医院,長崎県五島市中央町４-１,歯科,,,9" xlink:title="（医）こまき歯科医院" transform="ref(svg,12884.315,-3269.5025)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）よこやま歯科医院,長崎県五島市幸町８-２５,歯科,,,9" xlink:title="（医）よこやま歯科医院" transform="ref(svg,12884.0704,-3269.4603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岩本歯科診療所,長崎県五島市上大津町１１３,歯科,,,9" xlink:title="岩本歯科診療所" transform="ref(svg,12884.9563,-3268.7883)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大坪歯科医院,長崎県五島市大荒町２３５-１,矯正歯科　歯科　小児歯科,,,9" xlink:title="大坪歯科医院" transform="ref(svg,12883.6697,-3269.7766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,煌歯科医院,長崎県五島市三井楽町浜ノ畔１０５７,歯科,,,9" xlink:title="煌歯科医院" transform="ref(svg,12869.2968,-3274.748)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国民健康保険岐宿歯科診療所,長崎県五島市岐宿町岐宿２５３５,歯科　小児歯科,,,9" xlink:title="国民健康保険岐宿歯科診療所" transform="ref(svg,12876.0003,-3274.9684)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,国民健康保険岐宿歯科診療所山内出張所,長崎県五島市岐宿町中嶽１０７３-１,歯科　小児歯科,,,9" xlink:title="国民健康保険岐宿歯科診療所山内出張所" transform="ref(svg,12873.5406,-3268.6657)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,米山歯科医院,長崎県五島市三井楽町濱ノ畔１２３３,歯科,,,9" xlink:title="米山歯科医院" transform="ref(svg,12869.2025,-3274.4639)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,長崎県五島市池田町３-１２,矯正歯科　歯科　小児歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,12884.6692,-3269.5001)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,近藤歯科医院,長崎県五島市富江町富江１６０-３,矯正歯科　歯科,,,9" xlink:title="近藤歯科医院" transform="ref(svg,12876.7734,-3261.402)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,才津歯科医院,長崎県五島市幸町２-３,歯科,,,9" xlink:title="才津歯科医院" transform="ref(svg,12884.0936,-3269.322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ささき歯科,長崎県五島市武家屋敷１-７-１,歯科,,,9" xlink:title="ささき歯科" transform="ref(svg,12884.517,-3269.2235)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,沢本歯科医院,長崎県五島市栄町７-１１,歯科,,,9" xlink:title="沢本歯科医院" transform="ref(svg,12884.609,-3269.7191)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,長滝歯科医院,長崎県五島市幸町１-７,歯科,,,9" xlink:title="長滝歯科医院" transform="ref(svg,12884.1106,-3269.3871)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奈留歯科医院,長崎県五島市奈留町浦１７５０-１,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="奈留歯科医院" transform="ref(svg,12893.4043,-3283.1166)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福江みなと歯科医院,長崎県五島市東浜町１-３-１４,歯科　歯科口腔外科,,,9" xlink:title="福江みなと歯科医院" transform="ref(svg,12884.8556,-3269.5535)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松園歯科医院,長崎県五島市富江町富江２３７-１,歯科,,,9" xlink:title="松園歯科医院" transform="ref(svg,12876.8512,-3261.4395)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,長崎県五島市中央町６-２３,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,12884.4309,-3269.5445)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）小値賀歯科診療所,長崎県北松浦郡小値賀町笛吹郷２７２０-３,歯科　小児歯科,,,9" xlink:title="（医）小値賀歯科診療所" transform="ref(svg,12906.2266,-3319.5116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）津田歯科医院,長崎県南松浦郡新上五島町有川郷２２５４-１４,歯科,,,9" xlink:title="（医）津田歯科医院" transform="ref(svg,12911.634,-3298.0919)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浦田歯科医院,長崎県南松浦郡新上五島町七目郷９６６-４,歯科　小児歯科,,,9" xlink:title="浦田歯科医院" transform="ref(svg,12909.9425,-3297.869)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大坪歯科医院,長崎県南松浦郡新上五島町青方郷２２９９,歯科,,,9" xlink:title="大坪歯科医院" transform="ref(svg,12906.733,-3298.2367)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新上五島町国民健康保険診療所榎津歯科出張診療所,長崎県南松浦郡新上五島町榎津郷４３-５,歯科,,,9" xlink:title="新上五島町国民健康保険診療所榎津歯科出張診療所" transform="ref(svg,12909.1945,-3299.4586)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新上五島歯科診療所,長崎県南松浦郡上五島町青方郷新町１１１０-３４,歯科　小児歯科,,,9" xlink:title="新上五島歯科診療所" transform="ref(svg,12906.6162,-3298.242)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新上五島町立若松歯科診療所,長崎県南松浦郡新上五島町若松郷１６０-３６,歯科,,,9" xlink:title="新上五島町立若松歯科診療所" transform="ref(svg,12902.2012,-3288.8906)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田坂歯科医院,長崎県南松浦郡新上五島町青方郷１５４４,歯科,,,9" xlink:title="田坂歯科医院" transform="ref(svg,12907.0853,-3298.3758)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奈良尾歯科診療所,長崎県南松浦郡新上五島町奈良尾郷３７９-３,矯正歯科　歯科,,,9" xlink:title="奈良尾歯科診療所" transform="ref(svg,12906.3211,-3283.9887)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山村歯科医院,長崎県南松浦郡新上五島町有川郷７２９,歯科,,,9" xlink:title="山村歯科医院" transform="ref(svg,12911.6765,-3298.289)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉村歯科,長崎県南松浦郡新上五島町青方郷２３３６-１,歯科　小児歯科,,,9" xlink:title="吉村歯科" transform="ref(svg,12906.8253,-3298.2651)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,久米歯科医院,長崎県佐世保市宇久町平２６５９,歯科　小児歯科,,,9" xlink:title="久米歯科医院" transform="ref(svg,12913.1271,-3326.4225)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,トカラ列島歯科,鹿児島県鹿児島郡十島村大字小宝島１０６-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="トカラ列島歯科" transform="ref(svg,12932.9826,-2922.4817)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ア歯科瀬戸内診療所,鹿児島県大島郡瀬戸内町古仁屋字大湊１０-９,歯科　矯正歯科　小児歯科,,,9" xlink:title="ア歯科瀬戸内診療所" transform="ref(svg,12930.988,-2814.8421)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せき歯科医院,鹿児島県大島郡瀬戸内町古仁屋春日４-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="せき歯科医院" transform="ref(svg,12931.1123,-2814.7437)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,登山歯科医院,鹿児島県大島郡瀬戸内町古仁屋春日６-５,歯科　矯正歯科,,,9" xlink:title="登山歯科医院" transform="ref(svg,12931.0633,-2814.7968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まちだ歯科,鹿児島県大島郡瀬戸内町古仁屋１０５２-１,歯科　矯正歯科　小児歯科,,,9" xlink:title="まちだ歯科" transform="ref(svg,12931.6525,-2814.5326)" x="0" y="0"/>
+</g>
+</svg>

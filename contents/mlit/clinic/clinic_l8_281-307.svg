@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13939.453125 -3603.515625 17.578125 17.578125" go:dataArea="13939.453125 -3603.515625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="2,（医）康清会大島皮ふ科・形成外科,埼玉県富士見市ふじみ野西１-２１-４斎藤ビル-U４階,形成外科　皮膚科,,,9" xlink:title="（医）康清会大島皮ふ科・形成外科" transform="ref(svg,13952.0681,-3586.0044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,オーク内科クリニック,埼玉県富士見市勝瀬３４１９-１ウィンベル１Ｆ,内科　小児科　循環器内科,,,9" xlink:title="オーク内科クリニック" transform="ref(svg,13952.2411,-3586.1124)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）萌草会草野整形外科,埼玉県富士見市ふじみ野西１-１-１アイムプラザ２階,外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）萌草会草野整形外科" transform="ref(svg,13952.271,-3586.0808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）浩心会くろだ女性クリニック,埼玉県富士見市ふじみ野東１-１２-１４プランタン２１　２階,産婦人科,,,9" xlink:title="（医）浩心会くろだ女性クリニック" transform="ref(svg,13952.646,-3586.2122)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こう内科循環器科クリニック,埼玉県富士見市ふじみ野東１-１６-４-１０１,内科　呼吸器科　循環器科　アレルギー科,,,9" xlink:title="こう内科循環器科クリニック" transform="ref(svg,13952.3539,-3586.1457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中耳鼻咽喉科医院,埼玉県富士見市ふじみ野西１-１-１アイムプラザ２Ｆ,アレルギー科　耳鼻いんこう科,,,9" xlink:title="田中耳鼻咽喉科医院" transform="ref(svg,13952.271,-3586.0808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）こぶしの里医務室,埼玉県富士見市上南畑２８３６,内科,,,9" xlink:title="（特養）こぶしの里医務室" transform="ref(svg,13955.1965,-3585.9536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にしじまクリニック,埼玉県富士見市勝瀬１０３４-１,産婦人科,,,9" xlink:title="にしじまクリニック" transform="ref(svg,13953.1136,-3586.4415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤倉眼科,埼玉県富士見市勝瀬３４５０-２-２Ｃ,眼科,,,9" xlink:title="藤倉眼科" transform="ref(svg,13952.3385,-3586.0526)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）白鴎会ふじみ野内科クリニック,埼玉県富士見市勝瀬３４３２アイムプラザ２Ｆ,内科　小児科,,,9" xlink:title="（医）白鴎会ふじみ野内科クリニック" transform="ref(svg,13952.3007,-3586.0489)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）かいしん会ますなが医院,埼玉県富士見市勝瀬７３９-１,内科　循環器科　小児科　アレルギー科　呼吸器内科,,,9" xlink:title="（医）かいしん会ますなが医院" transform="ref(svg,13953.5932,-3586.3684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）まつさき小児科医院,埼玉県富士見市勝瀬１４８６-１,内科　小児科　アレルギー科,,,9" xlink:title="（医）まつさき小児科医院" transform="ref(svg,13952.558,-3586.1284)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みよし野クリニック,埼玉県富士見市ふじみ野西１-２１-５,内科　小児科　産婦人科,,,9" xlink:title="みよし野クリニック" transform="ref(svg,13952.0531,-3585.9988)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フラワーふじみ野眼科診療所,埼玉県富士見市ふじみ野西１-２１-４,眼科,,,9" xlink:title="フラワーふじみ野眼科診療所" transform="ref(svg,13952.0681,-3586.0044)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）むさしの診察室,埼玉県富士見市南畑新田１６-１,内科　外科,,,9" xlink:title="（特養）むさしの診察室" transform="ref(svg,13956.4,-3587.1499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はるな苑医務室,埼玉県富士見市大字勝瀬５１２-１,内科　外科,,,9" xlink:title="（特養）はるな苑医務室" transform="ref(svg,13954.4788,-3586.3824)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,相原医院,埼玉県ふじみ野市上福岡３-３-４,内科　循環器科　小児科　アレルギー科　リウマチ科　皮膚科,,,9" xlink:title="相原医院" transform="ref(svg,13951.4962,-3587.1196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）医青会新井整形外科,埼玉県ふじみ野市上福岡１-５-２８,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）医青会新井整形外科" transform="ref(svg,13951.428,-3587.4254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）安藤医院,埼玉県ふじみ野市福岡中央１-７-１７,内科　消化器科　小児科　リウマチ科,,,9" xlink:title="（医）安藤医院" transform="ref(svg,13952.1991,-3587.2969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）啓守会飯田医院,埼玉県ふじみ野市駒林元町２-１-３７,内科　呼吸器科　消化器科　循環器科　小児科　外科　放射線科,,,9" xlink:title="（医）啓守会飯田医院" transform="ref(svg,13952.585,-3586.6801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科小児科石川医院,埼玉県ふじみ野市西２-１-１１,内科　小児科,,,9" xlink:title="内科小児科石川医院" transform="ref(svg,13950.7003,-3587.2614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あすなろ会板倉医院,埼玉県ふじみ野市亀久保３-１２-３６,内科　小児科,,,9" xlink:title="（医）あすなろ会板倉医院" transform="ref(svg,13951.0989,-3586.2375)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上クリニック,埼玉県ふじみ野市上福岡１-１５-１９,産婦人科,,,9" xlink:title="井上クリニック" transform="ref(svg,13951.5025,-3587.619)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大井協同診療所,埼玉県ふじみ野市ふじみ野１-１-１５,内科　小児科,,,9" xlink:title="大井協同診療所" transform="ref(svg,13951.316,-3585.9947)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康心会大熊医院,埼玉県ふじみ野市上福岡３-１-１７,内科　消化器科　小児科　外科,,,9" xlink:title="（医）康心会大熊医院" transform="ref(svg,13951.4316,-3587.2256)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かさはら内科クリニック,埼玉県ふじみ野市霞ヶ丘１-２-２７-２０４,内科　循環器科　アレルギー科,,,9" xlink:title="かさはら内科クリニック" transform="ref(svg,13951.1227,-3587.3178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）金井医院,埼玉県ふじみ野市福岡中央２-１０-６,内科　消化器科　外科　整形外科　リハビリテーション科,,,9" xlink:title="（医）金井医院" transform="ref(svg,13951.8358,-3587.0127)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）成和会叶澤医院,埼玉県ふじみ野市緑ヶ丘２-１１-１,内科　小児科　皮膚科,,,9" xlink:title="（医）成和会叶澤医院" transform="ref(svg,13950.0614,-3586.1113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上福岡駅前アイクリニック,埼玉県ふじみ野市上福岡６-４-５メディカルセンター上福岡２階ｃ,眼科,,,9" xlink:title="上福岡駅前アイクリニック" transform="ref(svg,13951.0126,-3587.1836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上福岡駅前クリニック,埼玉県ふじみ野市霞ヶ丘１-２-２７-２０３,外科　小児科　リハビリテーション科　肛門科　胃腸科　整形外科　呼吸器科　皮膚科,,,9" xlink:title="上福岡駅前クリニック" transform="ref(svg,13951.1206,-3587.3186)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上福岡眼科・形成外科,埼玉県ふじみ野市上福岡５-６-２１,形成外科　眼科,,,9" xlink:title="上福岡眼科・形成外科" transform="ref(svg,13951.1674,-3586.9545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）上福岡耳鼻咽喉科医院,埼玉県ふじみ野市福岡中央２-１-１０,耳鼻いんこう科,,,9" xlink:title="（医）上福岡耳鼻咽喉科医院" transform="ref(svg,13951.7856,-3587.2728)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）尚篤会上福岡腎クリニック,埼玉県ふじみ野市霞ヶ丘１-２-２７-２０４,内科,,,9" xlink:title="（医）尚篤会上福岡腎クリニック" transform="ref(svg,13951.1227,-3587.3178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上福岡皮膚科,埼玉県ふじみ野市上福岡１-１４-４６中商ビル２Ｆ,アレルギー科　皮膚科,,,9" xlink:title="上福岡皮膚科" transform="ref(svg,13951.5383,-3587.5319)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）二樹会清見ファミリークリニック,埼玉県ふじみ野市清見１-２-４,内科　小児科　アレルギー科　皮膚科,,,9" xlink:title="（医）二樹会清見ファミリークリニック" transform="ref(svg,13951.9008,-3588.1016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クリニック坂本,埼玉県ふじみ野市上福岡１-２-２５星野ビル４Ｆ,精神科　神経科　心療内科,,,9" xlink:title="クリニック坂本" transform="ref(svg,13951.2535,-3587.3793)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さくらペインクリニック,埼玉県ふじみ野市上福岡６-４-５メディカルセンター上福岡１Ｆ,麻酔科　整形外科　内科,,,9" xlink:title="さくらペインクリニック" transform="ref(svg,13951.0126,-3587.1836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤耳鼻咽喉科,埼玉県ふじみ野市大原１-１-１４,耳鼻いんこう科,,,9" xlink:title="佐藤耳鼻咽喉科" transform="ref(svg,13951.5973,-3587.6)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,設楽耳鼻科クリニック,埼玉県ふじみ野市西１-３-８,耳鼻いんこう科　気管食道科,,,9" xlink:title="設楽耳鼻科クリニック" transform="ref(svg,13950.7637,-3587.1016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しまだ医院,埼玉県ふじみ野市鶴ヶ舞１-３-９,内科　小児科,,,9" xlink:title="しまだ医院" transform="ref(svg,13951.1176,-3586.5516)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉下内科,埼玉県ふじみ野市清見３-１-２２,内科　外科　胃腸科　小児科,,,9" xlink:title="杉下内科" transform="ref(svg,13952.1117,-3588.3241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵光会高橋眼科,埼玉県ふじみ野市上福岡１-１２-１２,眼科,,,9" xlink:title="（医）恵光会高橋眼科" transform="ref(svg,13951.4169,-3587.5918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹下内科,埼玉県ふじみ野市新田１-１-２７,内科,,,9" xlink:title="竹下内科" transform="ref(svg,13952.0932,-3586.979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）恵養会武田クリニック,埼玉県ふじみ野市北野１-５-７,内科　小児科　呼吸器内科　アレルギー科　リウマチ科　リハビリテーション科,,,9" xlink:title="（医）恵養会武田クリニック" transform="ref(svg,13951.2115,-3587.7224)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立麻医院,埼玉県ふじみ野市大井中央４-１１-１４,内科　小児科,,,9" xlink:title="立麻医院" transform="ref(svg,13950.3172,-3585.9979)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正真会田中脳神経外科クリニック,埼玉県ふじみ野市清見１-２-１４,脳神経外科　循環器科　リハビリテーション科,,,9" xlink:title="（医）正真会田中脳神経外科クリニック" transform="ref(svg,13951.9261,-3588.1033)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）鶴ケ岡医院,埼玉県ふじみ野市鶴ヶ岡３-６-１１,整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）鶴ケ岡医院" transform="ref(svg,13950.3412,-3586.8644)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）光陵会中島胃腸科医院,埼玉県ふじみ野市上福岡１-１２-１０,内科　消化器科　小児科　外科　整形外科　皮膚科　泌尿器科　肛門科,,,9" xlink:title="（医）光陵会中島胃腸科医院" transform="ref(svg,13951.4129,-3587.5782)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかの小児科クリニック,埼玉県ふじみ野市上福岡６-４-５&#32;メディカルセンター上福岡１階Ａ,小児科　アレルギー科　小児神経内科,,,9" xlink:title="なかの小児科クリニック" transform="ref(svg,13951.0111,-3587.1859)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長澤外科胃腸科,埼玉県ふじみ野市苗間５７３-３,内科　消化器科　小児科　外科　肛門科,,,9" xlink:title="長澤外科胃腸科" transform="ref(svg,13953.1811,-3586.1241)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）清志会根岸内科代謝クリニック,埼玉県ふじみ野市上福岡６-４-５メディカルセンター上福岡２Ｆ,内科,,,9" xlink:title="（医）清志会根岸内科代謝クリニック" transform="ref(svg,13951.0112,-3587.1833)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ふじみ野中央クリニック,埼玉県ふじみ野市鶴ヶ岡４-１６-１５,内科　循環器科　呼吸器科　小児科,,,9" xlink:title="ふじみ野中央クリニック" transform="ref(svg,13950.1586,-3586.7768)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フマダ眼科医院,埼玉県ふじみ野市福岡武蔵野７-１,眼科,,,9" xlink:title="フマダ眼科医院" transform="ref(svg,13951.1765,-3586.7503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,前岡皮膚科,埼玉県ふじみ野市上福岡１-１２-２５,皮膚科,,,9" xlink:title="前岡皮膚科" transform="ref(svg,13951.4185,-3587.6073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松澤クリニック,埼玉県ふじみ野市ふじみ野３-９-２０,外科　胃腸科　呼吸器内科　整形外科　神経内科　泌尿器科　内科　肛門外科　循環器内科　放射線科　リウマチ科　リハビリテーション科,,,9" xlink:title="松澤クリニック" transform="ref(svg,13951.6782,-3586.0335)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ミューズレディスクリニック,埼玉県ふじみ野市霞ヶ丘１-２-３&#32;ココネ上福岡一番館Ａ２０２,産婦人科,,,9" xlink:title="ミューズレディスクリニック" transform="ref(svg,13951.0707,-3587.3634)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,安田眼科医院,埼玉県ふじみ野市上福岡１-５-１９,眼科,,,9" xlink:title="安田眼科医院" transform="ref(svg,13951.4692,-3587.4573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田こどもクリニック,埼玉県ふじみ野市上福岡１-５-２８武井ビル２Ｆ,小児科　アレルギー科,,,9" xlink:title="山田こどもクリニック" transform="ref(svg,13951.428,-3587.4254)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田整形外科医院,埼玉県ふじみ野市上福岡５-１-２３,整形外科　リハビリテーション科　歯科,,,9" xlink:title="山田整形外科医院" transform="ref(svg,13951.2901,-3587.2071)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,なかむら眼科,埼玉県ふじみ野市駒林元町３-１-１,眼科,,,9" xlink:title="なかむら眼科" transform="ref(svg,13952.4367,-3586.6516)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大日本印刷（健保）上福岡診療所,埼玉県ふじみ野市福岡２-２-１,内科　外科,,,9" xlink:title="大日本印刷（健保）上福岡診療所" transform="ref(svg,13952.2269,-3588.3182)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新日本無線（株）診療所,埼玉県ふじみ野市福岡２-１-１,内科,,,9" xlink:title="新日本無線（株）診療所" transform="ref(svg,13952.3472,-3588.1449)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東入間医師会休日急患診療所,埼玉県ふじみ野市駒林元町３-１-２０,内科　小児科　外科,,,9" xlink:title="東入間医師会休日急患診療所" transform="ref(svg,13952.4198,-3586.6332)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,秋桜の里かみふくおか,埼玉県ふじみ野市駒林１１４５-１,内科,,,9" xlink:title="秋桜の里かみふくおか" transform="ref(svg,13954.8351,-3587.0129)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あやめの里,埼玉県ふじみ野市中福岡２６３,内科,,,9" xlink:title="（特養）あやめの里" transform="ref(svg,13953.6021,-3587.4826)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）上野台の里医務室,埼玉県ふじみ野市上野台２-１５-２５,内科,,,9" xlink:title="（特養）上野台の里医務室" transform="ref(svg,13952.0172,-3587.7113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元気クリニック上福岡,埼玉県ふじみ野市上福岡１-１４-４６中商ビル１Ｆ,内科　消化器内科　呼吸器内科　循環器内科　糖尿病内科,,,9" xlink:title="元気クリニック上福岡" transform="ref(svg,13951.5383,-3587.5319)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上尾内科循環器科,埼玉県上尾市平方４１３８,内科　循環器科,,,9" xlink:title="上尾内科循環器科" transform="ref(svg,13955.482,-3595.5696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上尾キッズクリニック,埼玉県上尾市壱-４６６-４,小児科,,,9" xlink:title="上尾キッズクリニック" transform="ref(svg,13956.9669,-3596.1033)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上尾市立養護老人ホーム恵和園医務室,埼玉県上尾市領家３７１-１,内科,,,9" xlink:title="上尾市立養護老人ホーム恵和園医務室" transform="ref(svg,13953.8302,-3596.8098)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あげお第一診療所,埼玉県上尾市小敷谷８４５-１西上尾第一団地２-３８-１０２,内科　胃腸科　小児科　麻酔科,,,9" xlink:title="（医）あげお第一診療所" transform="ref(svg,13956.3432,-3596.465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）上尾の森診療所,埼玉県上尾市中分１-１７４-２,神経科　精神科　心療内科,,,9" xlink:title="（医）上尾の森診療所" transform="ref(svg,13955.805,-3596.9223)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上尾ほほえみの杜医務室,埼玉県上尾市畔吉字堀口１３４１-１,内科,,,9" xlink:title="上尾ほほえみの杜医務室" transform="ref(svg,13955.2787,-3597.1812)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鰺坂医院,埼玉県上尾市平方２６８５,内科　産婦人科　整形外科,,,9" xlink:title="鰺坂医院" transform="ref(svg,13954.6437,-3594.4557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健好会石橋内科クリニック,埼玉県上尾市中分１-１-６,内科　胃腸科　呼吸器科　循環器科　小児科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）健好会石橋内科クリニック" transform="ref(svg,13956.1064,-3596.7179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,牛山医院,埼玉県上尾市上野２３０-１,内科　糖尿病科　代謝内科　脂質代謝内科　内分泌内科　循環器内科　心臓内科　消化器内科,,,9" xlink:title="牛山医院" transform="ref(svg,13956.1773,-3594.9737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）淳真会榎本医院,埼玉県上尾市中分１-２８-７,内科　小児科　呼吸器内科,,,9" xlink:title="（医）淳真会榎本医院" transform="ref(svg,13955.8837,-3597.2792)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康裕会かとう泌尿器科クリニック,埼玉県上尾市中分１-２７-９,泌尿器科,,,9" xlink:title="（医）康裕会かとう泌尿器科クリニック" transform="ref(svg,13955.837,-3597.2436)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かわかみこどもクリニック,埼玉県上尾市藤波３-１８８,小児科　アレルギー科,,,9" xlink:title="かわかみこどもクリニック" transform="ref(svg,13954.6164,-3599.1669)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上林眼科医院,埼玉県上尾市今泉３６５-６８,眼科,,,9" xlink:title="上林眼科医院" transform="ref(svg,13956.5972,-3596.7037)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,木下産婦人科クリニック,埼玉県上尾市井戸木２-２７-１,産科　婦人科　内科　小児科,,,9" xlink:title="木下産婦人科クリニック" transform="ref(svg,13956.0324,-3599.4323)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こいずみクリニック,埼玉県上尾市小泉字寺東８４-３５,内科　消化器科　小児科,,,9" xlink:title="こいずみクリニック" transform="ref(svg,13956.9034,-3597.1219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）栗康会こしきや内科リウマチ科クリニック,埼玉県上尾市小敷谷３９-１,内科　リウマチ科　アレルギー科,,,9" xlink:title="（医）栗康会こしきや内科リウマチ科クリニック" transform="ref(svg,13956.6205,-3595.4499)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,斉藤外科胃腸科医院,埼玉県上尾市今泉西１０４-４,内科　外科　整形外科　皮膚科　泌尿器科　胃腸科,,,9" xlink:title="斉藤外科胃腸科医院" transform="ref(svg,13956.9145,-3596.6876)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関口医院,埼玉県上尾市平方４４２２-２,内科　小児科　整形外科　眼科　リハビリテーション科,,,9" xlink:title="関口医院" transform="ref(svg,13956.0148,-3595.2648)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）あけぼの診療所,埼玉県上尾市上野５６７,内科　整形外科,,,9" xlink:title="（特養）あけぼの診療所" transform="ref(svg,13956.2075,-3594.2461)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中妻クリニック,埼玉県上尾市中妻５-１２-５,内科　外科　整形外科,,,9" xlink:title="中妻クリニック" transform="ref(svg,13956.7034,-3598.6699)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西上尾第二団地診療所,埼玉県上尾市小敷谷７７-１,内科　小児科　リウマチ科,,,9" xlink:title="西上尾第二団地診療所" transform="ref(svg,13956.0704,-3595.523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,はぎむら眼科,埼玉県上尾市大字壱-３６７アリオ上尾２Ｆ,眼科,,,9" xlink:title="はぎむら眼科" transform="ref(svg,13956.5239,-3596.1398)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,波多野外科整形外科,埼玉県上尾市藤波３-３０３-２,外科　整形外科　胃腸科　循環器科　リハビリテーション科,,,9" xlink:title="波多野外科整形外科" transform="ref(svg,13955.0823,-3599.1465)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山崎耳鼻咽喉科医院,埼玉県上尾市小泉２６-３,耳鼻いんこう科　気管食道科　アレルギー科,,,9" xlink:title="山崎耳鼻咽喉科医院" transform="ref(svg,13956.7433,-3596.9279)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）順風会上尾の森診療所桶川分院,埼玉県桶川市若宮１-２-１６伸光ビル４Ｆ,精神科　神経科　心療内科,,,9" xlink:title="（医）順風会上尾の森診療所桶川分院" transform="ref(svg,13956.4722,-3599.7474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あさひアイクリニック,埼玉県桶川市朝日３-２２-２,眼科,,,9" xlink:title="あさひアイクリニック" transform="ref(svg,13956.5852,-3598.9176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,朝日内科歯科医院,埼玉県桶川市朝日３-１４-１０,内科　消化器科　小児科　歯科　小児歯科,,,9" xlink:title="朝日内科歯科医院" transform="ref(svg,13956.9159,-3598.8998)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）聖蹟会アベル内科クリニック,埼玉県桶川市若宮１-４-５２埼北ｓｓビル３階,内科（透析）,,,9" xlink:title="（医）聖蹟会アベル内科クリニック" transform="ref(svg,13956.281,-3599.7292)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,泉整形外科内科,埼玉県桶川市泉１-８-１７,内科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="泉整形外科内科" transform="ref(svg,13955.7079,-3600.0011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊藤医院,埼玉県桶川市寿１-１４-１２,内科　小児科　皮膚科　形成外科　美容外科,,,9" xlink:title="伊藤医院" transform="ref(svg,13956.5342,-3600.0934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ウラタクリニック,埼玉県桶川市若宮２-２１-１０,精神科　心療内科,,,9" xlink:title="ウラタクリニック" transform="ref(svg,13956.542,-3599.4569)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）大野整形外科,埼玉県桶川市坂田１５１４,整形外科,,,9" xlink:title="（医）大野整形外科" transform="ref(svg,13956.3476,-3601.2996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）岡田整形外科,埼玉県桶川市北２-２-１,整形外科　外科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）岡田整形外科" transform="ref(svg,13956.0272,-3600.6529)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）おかべ耳鼻科おかべ耳鼻咽喉科医院,埼玉県桶川市北１-２２-９,耳鼻いんこう科,,,9" xlink:title="（医）おかべ耳鼻科おかべ耳鼻咽喉科医院" transform="ref(svg,13956.5557,-3600.5829)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おかもと腎クリニック,埼玉県桶川市泉２-１９-５０東急桶川ビレッジ１Ｆ,内科　人工透析内科,,,9" xlink:title="おかもと腎クリニック" transform="ref(svg,13955.414,-3600.1982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桶川駅前こどもクリニック,埼玉県桶川市若宮１-１-７桶川駅前メデイカルビル３Ｆ-Ｄ,小児科,,,9" xlink:title="桶川駅前こどもクリニック" transform="ref(svg,13956.2883,-3599.9201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桶川腎クリニック,埼玉県桶川市上日出谷６４４-１,内科（透析）,,,9" xlink:title="桶川腎クリニック" transform="ref(svg,13953.7834,-3601.2103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桶川Ｋ．Ｎクリニック,埼玉県桶川市若宮１-１-７桶川駅前メディカルビル２Ｆ-Ｂ,脳神経外科　整形外科　リハビリテーション科　皮膚科　麻酔科　外科,,,9" xlink:title="桶川Ｋ．Ｎクリニック" transform="ref(svg,13956.2883,-3599.9201)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）豊和会桶川中央クリ二ック,埼玉県桶川市若宮２-２-２２,内科　外科　眼科,,,9" xlink:title="（医）豊和会桶川中央クリ二ック" transform="ref(svg,13956.4436,-3599.6526)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桶川西口クリニック,埼玉県桶川市若宮１-４-５２埼北ｓｓ,内科　外科　小児科,,,9" xlink:title="桶川西口クリニック" transform="ref(svg,13956.281,-3599.7292)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桶川日出谷診療所,埼玉県桶川市下日出谷西３-３-４,脳神経外科　外科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="桶川日出谷診療所" transform="ref(svg,13954.4245,-3599.5291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤医院,埼玉県桶川市西１-１-７,内科　循環器科,,,9" xlink:title="加藤医院" transform="ref(svg,13956.1019,-3600.1918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かばやま眼科医院,埼玉県桶川市下日出谷西１-３２-１,眼科,,,9" xlink:title="かばやま眼科医院" transform="ref(svg,13954.6498,-3599.485)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上日出谷楢原整形外科,埼玉県桶川市上日出谷１１６７-１,整形外科　リハビリテーション科,,,9" xlink:title="上日出谷楢原整形外科" transform="ref(svg,13954.5006,-3600.5737)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）徳治会川田谷クリニック,埼玉県桶川市川田谷滝ノ台３５６０-２,内科　外科　胃腸科　リハビリテーション科　皮膚科,,,9" xlink:title="（医）徳治会川田谷クリニック" transform="ref(svg,13953.8051,-3599.4325)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,神崎皮フ科クリニック,埼玉県桶川市南１-３-１４マルイチサウスマンション１Ｆ,皮膚科,,,9" xlink:title="神崎皮フ科クリニック" transform="ref(svg,13956.5999,-3599.7567)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,蔵田医院,埼玉県桶川市寿１-３-８,内科　小児科　皮膚科　糖尿病代謝内分泌科　循環器科,,,9" xlink:title="蔵田医院" transform="ref(svg,13956.2262,-3600.1424)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,栗原クリニック,埼玉県桶川市鴨川２-８-４,循環器科　内科　小児科,,,9" xlink:title="栗原クリニック" transform="ref(svg,13955.8222,-3599.2623)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,軽費老人ホーム安らぎの里診療所,埼玉県桶川市川田谷７１４１,内科,,,9" xlink:title="軽費老人ホーム安らぎの里診療所" transform="ref(svg,13950.9879,-3599.8834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小島医院,埼玉県桶川市東１-２-１７,内科　小児科,,,9" xlink:title="小島医院" transform="ref(svg,13956.793,-3599.9641)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林産婦人科クリニック,埼玉県桶川市北１-１５-２３,産婦人科　小児科　内科,,,9" xlink:title="小林産婦人科クリニック" transform="ref(svg,13956.3372,-3600.7653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂部医院,埼玉県桶川市東１-３-２６,内科　小児科　放射線科,,,9" xlink:title="坂部医院" transform="ref(svg,13956.8048,-3599.8701)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科医院,埼玉県桶川市川田谷５８２８-１,内科　小児科　皮膚科,,,9" xlink:title="鈴木内科医院" transform="ref(svg,13953.1221,-3600.3762)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）等洋会田中胃腸医院,埼玉県桶川市北１-１０-１３,胃腸科　外科　内科,,,9" xlink:title="（医）等洋会田中胃腸医院" transform="ref(svg,13956.4574,-3600.4722)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）花ノ木の郷医務室,埼玉県桶川市加納１８２４-１,内科,,,9" xlink:title="（特養）花ノ木の郷医務室" transform="ref(svg,13956.1656,-3603.1541)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はにわの里診療所,埼玉県桶川市川田谷７１４１,内科,,,9" xlink:title="（特養）はにわの里診療所" transform="ref(svg,13950.9879,-3599.8834)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,原田耳鼻咽喉科医院,埼玉県桶川市若宮１-７-１９パークサイド若宮１０１,耳鼻いんこう科,,,9" xlink:title="原田耳鼻咽喉科医院" transform="ref(svg,13955.9477,-3599.6822)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,府川医院,埼玉県桶川市若宮２-３-２１,内科　外科　婦人科　耳鼻いんこう科　小児科,,,9" xlink:title="府川医院" transform="ref(svg,13956.3038,-3599.6369)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,プラムの里診療所,埼玉県桶川市川田谷字本沢６２２２-３,眼科　内科　外科　リハビリテーション科,,,9" xlink:title="プラムの里診療所" transform="ref(svg,13953.2662,-3601.2133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）彩虹会ベニバナ眼科クリニック,埼玉県桶川市桶川都市計画事業下日出谷東特定土地区画整理事業地内４２街区１画地ベニバナウォーク桶川１Ｆ,眼科,,,9" xlink:title="（医）彩虹会ベニバナ眼科クリニック" transform="ref(svg,13955.063,-3599.7022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆげクリニック,埼玉県桶川市朝日１-２７-７,内科　循環器科,,,9" xlink:title="ゆげクリニック" transform="ref(svg,13956.5635,-3599.0405)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）慈誠会ようだ眼科医院,埼玉県桶川市西１-５-７,眼科,,,9" xlink:title="（医）慈誠会ようだ眼科医院" transform="ref(svg,13956.0653,-3600.2747)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,渡辺医院,埼玉県桶川市若宮１-６-３９,内科　小児科,,,9" xlink:title="渡辺医院" transform="ref(svg,13955.8699,-3599.8011)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,青木クリニック,埼玉県北本市中央２-５９平井ビル３階,内科　循環器科　呼吸器科　小児科　消化器科,,,9" xlink:title="青木クリニック" transform="ref(svg,13953.2958,-3603.1084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,あやめ診療所,埼玉県北本市北本４-２００アヴェニール１０３,内科　泌尿器科,,,9" xlink:title="あやめ診療所" transform="ref(svg,13954.0032,-3603.4659)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,天地クリニック,埼玉県北本市二ツ家４-４７-４,胃腸科　内科　小児科　リハビリテーション科,,,9" xlink:title="天地クリニック" transform="ref(svg,13955.1202,-3601.198)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いなぎｅｎｔクリニック,埼玉県北本市本町４-２０-１,耳鼻いんこう科　気管食道科　形成外科　放射線科　アレルギー科,,,9" xlink:title="いなぎｅｎｔクリニック" transform="ref(svg,13952.8739,-3602.1285)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上眼科医院,埼玉県北本市北本２-４７,眼科,,,9" xlink:title="井上眼科医院" transform="ref(svg,13953.6995,-3603.3141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）一葉会ひらお内科クリニック,埼玉県北本市中央３-７１-４,内科　神経内科　心療内科　精神科　リハビリテーション科,,,9" xlink:title="（医）一葉会ひらお内科クリニック" transform="ref(svg,13953.2628,-3603.1653)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）二柚会大友外科整形外科,埼玉県北本市本町６-２８４,整形外科　外科　皮膚科　リハビリテーション科,,,9" xlink:title="（医）二柚会大友外科整形外科" transform="ref(svg,13952.7394,-3602.5985)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大久保医院,埼玉県北本市山中１-５２,内科,,,9" xlink:title="大久保医院" transform="ref(svg,13954.3996,-3603.3605)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）共立医療会北本共立診療所,埼玉県北本市中丸５-６-８,内科　消化器科　放射線科　精神科　小児科　循環器科,,,9" xlink:title="（医）共立医療会北本共立診療所" transform="ref(svg,13954.5077,-3602.1625)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北本心ノ診療所,埼玉県北本市中央２-７８,心療内科　精神科,,,9" xlink:title="北本心ノ診療所" transform="ref(svg,13953.2713,-3603.0655)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）天徳会北本整形外科,埼玉県北本市北本１-３３コーポレート北本駅前１Ｆ,整形外科　リハビリテーション科　皮膚科,,,9" xlink:title="（医）天徳会北本整形外科" transform="ref(svg,13953.4324,-3603.3073)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）澤仁会北本第一クリニック,埼玉県北本市北本２-１８５,内科　胃腸科,,,9" xlink:title="（医）澤仁会北本第一クリニック" transform="ref(svg,13953.8274,-3603.1937)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）北寿会北本中央クリニック,埼玉県北本市本町６-２３２,内科　消化器科　循環器科　呼吸器科　小児科　放射線科,,,9" xlink:title="（医）北寿会北本中央クリニック" transform="ref(svg,13952.8184,-3602.7148)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北本皮フ科医院,埼玉県北本市北本１-８１ＡＳＡＭＩビル２Ｆ,皮膚科　麻酔科,,,9" xlink:title="北本皮フ科医院" transform="ref(svg,13953.3942,-3603.237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,けやきクリニック,埼玉県北本市中央２-８９むさしのビル,皮膚科　泌尿器科,,,9" xlink:title="けやきクリニック" transform="ref(svg,13953.3322,-3603.0887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）共立医療会さくらこどもとおとな診療所,埼玉県北本市栄７-１-２７-１０２,内科　小児科　循環器科　放射線科,,,9" xlink:title="（医）共立医療会さくらこどもとおとな診療所" transform="ref(svg,13953.7192,-3601.7633)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとうクリニック,埼玉県北本市二ツ家１-３７４-１２５Ａ,内科　消化器科　小児科,,,9" xlink:title="さとうクリニック" transform="ref(svg,13954.9654,-3601.3084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サニーホーム診療所,埼玉県北本市北本宿字下原１６２-１,内科,,,9" xlink:title="サニーホーム診療所" transform="ref(svg,13954.0462,-3602.113)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,サンアイ眼科クリニック,埼玉県北本市中央３-７０,眼科,,,9" xlink:title="サンアイ眼科クリニック" transform="ref(svg,13953.2691,-3603.1593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科岡田医院,埼玉県北本市中央３-７１-５,耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科岡田医院" transform="ref(svg,13953.2331,-3603.1498)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木医院,埼玉県北本市中丸８-２５７,内科　小児科,,,9" xlink:title="鈴木医院" transform="ref(svg,13956.0141,-3602.1708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）肇医会高橋皮膚科医院,埼玉県北本市二ツ家３-５-２,皮膚科,,,9" xlink:title="（医）肇医会高橋皮膚科医院" transform="ref(svg,13955.0025,-3601.5771)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,チェリーヒルズ北本医務室,埼玉県北本市石戸５-１４３-１,内科,,,9" xlink:title="チェリーヒルズ北本医務室" transform="ref(svg,13952.7317,-3601.8841)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠井医院,埼玉県北本市北本１-１４０,内科　循環器科　小児科　放射線科　麻酔科　呼吸器科　胃腸科　アレルギー科　リウマチ科,,,9" xlink:title="遠井医院" transform="ref(svg,13953.5544,-3603.0453)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）きたもと寿苑医務室,埼玉県北本市二ツ家３-１１３-２,内科,,,9" xlink:title="（特養）きたもと寿苑医務室" transform="ref(svg,13955.2268,-3601.4632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林田内科医院,埼玉県北本市本宿７-６７-３,内科　小児科　循環器科　消化器科　リハビリテーション科,,,9" xlink:title="林田内科医院" transform="ref(svg,13954.1321,-3602.6423)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）深井小児科内科医院,埼玉県北本市荒井１-９５,内科　小児科,,,9" xlink:title="（医）深井小児科内科医院" transform="ref(svg,13951.6544,-3602.017)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）群羊会福音診療所,埼玉県北本市下石土下１５４９-５,耳鼻いんこう科,,,9" xlink:title="（医）群羊会福音診療所" transform="ref(svg,13953.9428,-3602.0425)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）香心会二ツ家整形外科,埼玉県北本市二ツ家２-１０７,整形外科　内科　リハビリテーション科　リウマチ科,,,9" xlink:title="（医）香心会二ツ家整形外科" transform="ref(svg,13954.875,-3601.7355)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,万喜診療所,埼玉県北本市北本３-３９,眼科　女性内科　糖尿病内科　漢方内科,,,9" xlink:title="万喜診療所" transform="ref(svg,13953.6041,-3603.5012)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）群羊会南福音診療所,埼玉県北本市北本宿１６１-４,内科　小児科,,,9" xlink:title="（医）群羊会南福音診療所" transform="ref(svg,13954.0131,-3602.1006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本藤整形外科,埼玉県北本市山中１-１６７-１,整形外科　リハビリテーション科　皮膚科,,,9" xlink:title="本藤整形外科" transform="ref(svg,13954.5125,-3603.5089)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山-ｱ医院,埼玉県北本市西高尾５-２３５,内科　小児科,,,9" xlink:title="山-ｱ医院" transform="ref(svg,13952.5679,-3603.0987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田医院,埼玉県北本市北本宿字西後１９３,内科　小児科　呼吸器科　消化器科　循環器科　アレルギー科,,,9" xlink:title="山田医院" transform="ref(svg,13953.8303,-3602.3056)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山本内科医院,埼玉県北本市中央１-１５４,内科　小児科　放射線科　糖尿病内科,,,9" xlink:title="山本内科医院" transform="ref(svg,13953.2474,-3602.7245)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田医院,埼玉県北本市中央１-７０,内科　外科　産科　婦人科　消化器科,,,9" xlink:title="吉田医院" transform="ref(svg,13953.4225,-3602.9059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしだ整形外科内科,埼玉県北本市北本３-３４,整形外科　内科　リハビリテーション科　皮膚科　リウマチ科,,,9" xlink:title="よしだ整形外科内科" transform="ref(svg,13953.5725,-3603.4446)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,旭山眼科,埼玉県東松山市若松町２-１-１５,眼科,,,9" xlink:title="旭山眼科" transform="ref(svg,13940.9516,-3602.7049)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,笠原クリニック,埼玉県東松山市毛塚９１０-１,内科　小児科　外科　皮膚科　消化器・胃腸科　循環器科,,,9" xlink:title="笠原クリニック" transform="ref(svg,13939.5759,-3599.7429)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宏仁会高坂醫院,埼玉県東松山市西本宿１７５９-１,内科　循環器科　リハビリテーション科　人工透析科,,,9" xlink:title="宏仁会高坂醫院" transform="ref(svg,13939.528,-3599.7953)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さいわい内科クリニック,埼玉県東松山市幸町２-１３,内科　消化器・胃腸科,,,9" xlink:title="さいわい内科クリニック" transform="ref(svg,13939.7329,-3603.2188)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋内科胃腸科クリニック,埼玉県東松山市御茶山町１４-２４,内科　小児科　消化器・胃腸科　リハビリテーション科,,,9" xlink:title="高橋内科胃腸科クリニック" transform="ref(svg,13941.1845,-3603.4444)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,地域密着型（特養）ひがしまつやま寿苑医務室,埼玉県東松山市柏崎６２９-１,内科,,,9" xlink:title="地域密着型（特養）ひがしまつやま寿苑医務室" transform="ref(svg,13942.1618,-3602.6842)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中川医院,埼玉県東松山市柏崎７０３-４,内科　消化器・胃腸科　循環器科,,,9" xlink:title="中川医院" transform="ref(svg,13941.8105,-3602.4926)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にこにこハート内科クリニック,埼玉県東松山市五領町２-３３,内科　循環器・心臓内科　糖尿病・代謝内科,,,9" xlink:title="にこにこハート内科クリニック" transform="ref(svg,13941.2489,-3603.1391)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,フクサンビル眼科診療所,埼玉県東松山市元宿１-１８-４,眼科,,,9" xlink:title="フクサンビル眼科診療所" transform="ref(svg,13939.7316,-3600.1459)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本郷医院,埼玉県東松山市箭弓町１-１９-１７,内科　小児科,,,9" xlink:title="本郷医院" transform="ref(svg,13940.4371,-3603.3494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,医法社彩虹会東松山クリニック,埼玉県東松山市あずま町４-３ピオニウォーク１階,眼科,,,9" xlink:title="医法社彩虹会東松山クリニック" transform="ref(svg,13941.0706,-3600.5291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,医法社ほしこどもおとなクリニック,埼玉県東松山市上野本１２２６-１,内科　小児科　アレルギー科,,,9" xlink:title="医法社ほしこどもおとなクリニック" transform="ref(svg,13940.8106,-3602.5789)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ホームケアクリニック東松山,埼玉県東松山市若松町２-１０-４２-１０２,内科　精神科,,,9" xlink:title="ホームケアクリニック東松山" transform="ref(svg,13941.2663,-3602.8022)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東松山保健所,埼玉県東松山市若松町２-６-４５,不明,,,9" xlink:title="東松山保健所" transform="ref(svg,13941.1064,-3603.025)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石田医院,埼玉県比企郡川島町表４０６-１,内科,,,9" xlink:title="石田医院" transform="ref(svg,13949.9488,-3597.5766)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三井精機工業（株）本社工場診療所,埼玉県比企郡川島町八幡６-１３,内科,,,9" xlink:title="三井精機工業（株）本社工場診療所" transform="ref(svg,13944.6308,-3598.1976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）永楽園診療所,埼玉県比企郡川島町表１４７-１,内科,,,9" xlink:title="（特養）永楽園診療所" transform="ref(svg,13950.8023,-3598.0321)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,榎本医院,埼玉県比企郡川島町上伊草８３３-１,内科　外科　整形外科　消化器・胃腸科　リハビリテーション科,,,9" xlink:title="榎本医院" transform="ref(svg,13946.1368,-3597.5912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰恵会めぐみ台クリニック,埼玉県比企郡川島町吹塚９９８-３,内科　外科　消化器・胃腸科　循環器科　リハビリテーション科,,,9" xlink:title="（医）泰恵会めぐみ台クリニック" transform="ref(svg,13943.8922,-3598.9353)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,清水こどもクリニック,埼玉県比企郡川島町上八ッ林２０９,小児科,,,9" xlink:title="清水こどもクリニック" transform="ref(svg,13947.2079,-3599.5302)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）啓仁会川島クリニック,埼玉県比企郡川島町伊草９６-１,内科　外科　整形外科,,,9" xlink:title="（医）啓仁会川島クリニック" transform="ref(svg,13946.8914,-3596.3749)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,キヨミ整形外科クリニック,埼玉県比企郡川島町出丸中郷２７８２,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="キヨミ整形外科クリニック" transform="ref(svg,13951.0097,-3596.1293)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,上野診療所,埼玉県比企郡川島町八幡３-１-６,内科　循環器科,,,9" xlink:title="上野診療所" transform="ref(svg,13944.4901,-3598.7684)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,むらかみ眼科クリニック,埼玉県比企郡川島町伊草７４-１,眼科,,,9" xlink:title="むらかみ眼科クリニック" transform="ref(svg,13946.9944,-3596.5219)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ひまわり診療所,埼玉県比企郡川島町山ケ谷戸５１９-１,内科,,,9" xlink:title="（特養）ひまわり診療所" transform="ref(svg,13951.044,-3598.1854)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,イーグル工業（株）診療所,埼玉県坂戸市片柳１５００,内科,,,9" xlink:title="イーグル工業（株）診療所" transform="ref(svg,13940.8613,-3597.0984)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正仁会大野外科内科クリニック,埼玉県坂戸市関間４-１５-１５,内科　消化器科　外科　小児科　整形外科　皮膚科　肛門科　リハビリテーション科,,,9" xlink:title="（医）正仁会大野外科内科クリニック" transform="ref(svg,13940.7862,-3595.0124)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大野耳鼻咽喉科クリニック,埼玉県坂戸市八幡２-９-１０,耳鼻咽喉科　アレルギー科,,,9" xlink:title="大野耳鼻咽喉科クリニック" transform="ref(svg,13940.2709,-3596.1077)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大畑皮膚科医院,埼玉県坂戸市千代田１-２３-３,皮膚科,,,9" xlink:title="大畑皮膚科医院" transform="ref(svg,13940.4511,-3595.4864)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川医院,埼玉県坂戸市小沼８４６,内科　小児科,,,9" xlink:title="小川医院" transform="ref(svg,13944.4248,-3597.1306)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おがわこどもクリニック,埼玉県坂戸市千代田１-５-７,小児科　アレルギー科　内科,,,9" xlink:title="おがわこどもクリニック" transform="ref(svg,13940.5003,-3595.6291)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）善淳会小川産婦人科小児科,埼玉県坂戸市南町２４-１５,産婦人科　小児科,,,9" xlink:title="（医）善淳会小川産婦人科小児科" transform="ref(svg,13939.7266,-3595.392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北坂戸皮フ科,埼玉県坂戸市末広町３-２,皮膚科,,,9" xlink:title="北坂戸皮フ科" transform="ref(svg,13939.5466,-3597.3801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きもと内科・消化器内科クリニック,埼玉県坂戸市関間４-１２-１２ファーストレジデンス若葉１階,内科　消化器内科,,,9" xlink:title="きもと内科・消化器内科クリニック" transform="ref(svg,13940.7007,-3594.9614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小林内科医院,埼玉県坂戸市山田町９-２７,内科　小児科　胃腸科　リハビリテーション科　放射線科　アレルギー科,,,9" xlink:title="小林内科医院" transform="ref(svg,13940.1291,-3596.0023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,栄クリニック,埼玉県坂戸市日の出町１６-４５,消化器科　循環器科　呼吸器科　内科　外科　小児科,,,9" xlink:title="栄クリニック" transform="ref(svg,13939.5624,-3595.8013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂戸眼科医院,埼玉県坂戸市関間１-１-１５,眼科,,,9" xlink:title="坂戸眼科医院" transform="ref(svg,13939.9114,-3595.6825)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）坂戸サークルホーム,埼玉県坂戸市石井１６８４,内科　外科,,,9" xlink:title="（特養）坂戸サークルホーム" transform="ref(svg,13941.1324,-3597.4723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂戸市休日急患診療所,埼玉県坂戸市石井２３２７-３,内科　小児科,,,9" xlink:title="坂戸市休日急患診療所" transform="ref(svg,13940.8049,-3596.8046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂戸市立市民健康センター,埼玉県坂戸市石井２３２７-３,内科　小児科,,,9" xlink:title="坂戸市立市民健康センター" transform="ref(svg,13940.8049,-3596.8046)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂戸中央クリニック,埼玉県坂戸市千代田４-１３-３,内科　外科　整形外科　皮膚科　肛門外科　消化器科　内科　リハビリテーション科,,,9" xlink:title="坂戸中央クリニック" transform="ref(svg,13941.0983,-3595.4923)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂戸内科医院,埼玉県坂戸市薬師町１５-６,内科　小児科,,,9" xlink:title="坂戸内科医院" transform="ref(svg,13940.0231,-3596.9357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,埼玉県坂戸保健所,埼玉県坂戸市石井２３２７-１,内科　小児科　精神科,,,9" xlink:title="埼玉県坂戸保健所" transform="ref(svg,13940.7944,-3596.8437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さかど療護園診療所,埼玉県坂戸市中小坂８０-２,内科,,,9" xlink:title="さかど療護園診療所" transform="ref(svg,13945.2407,-3595.1176)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう耳鼻咽喉科クリニック,埼玉県坂戸市仲町１０-１,耳鼻咽喉科,,,9" xlink:title="さとう耳鼻咽喉科クリニック" transform="ref(svg,13939.6312,-3596.2686)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,女子栄養大学附属坂戸診療所,埼玉県坂戸市千代田３-９-２１,内科,,,9" xlink:title="女子栄養大学附属坂戸診療所" transform="ref(svg,13941.1174,-3595.2421)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）たかの眼科,埼玉県坂戸市南町１２-５,眼科,,,9" xlink:title="（医）たかの眼科" transform="ref(svg,13939.4759,-3595.5456)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田島内科小児科医院,埼玉県坂戸市関間１-１４-１３,内科　小児科　アレルギー科,,,9" xlink:title="田島内科小児科医院" transform="ref(svg,13940.0322,-3595.4228)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東郷医院,埼玉県坂戸市千代田２-８-５,産科　婦人科　内科　小児科,,,9" xlink:title="東郷医院" transform="ref(svg,13940.5631,-3595.9399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中澤産婦人科,埼玉県坂戸市南町８-４,産婦人科　内科　小児科,,,9" xlink:title="中澤産婦人科" transform="ref(svg,13939.4604,-3595.378)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,早川医院,埼玉県坂戸市中小坂８９９-５,内科　胃腸科　眼科　皮膚科,,,9" xlink:title="早川医院" transform="ref(svg,13943.6118,-3594.7509)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）秀人会原田内科クリニック,埼玉県坂戸市末広町５-１-１０５,内科　小児科　消化器内科,,,9" xlink:title="（医）秀人会原田内科クリニック" transform="ref(svg,13939.5648,-3597.4262)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博真会東坂戸クリニック,埼玉県坂戸市東坂戸２-６-１０３,内科　糖尿病科,,,9" xlink:title="（医）博真会東坂戸クリニック" transform="ref(svg,13944.5272,-3595.2958)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,日の出内科クリニック,埼玉県坂戸市日の出町１５-１,内科　神経内科,,,9" xlink:title="日の出内科クリニック" transform="ref(svg,13939.5802,-3595.7469)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広瀬内科クリニック,埼玉県坂戸市塚越１２４２-２,内科　小児科　耳鼻咽喉科,,,9" xlink:title="広瀬内科クリニック" transform="ref(svg,13942.0003,-3596.4734)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤井小児科医院,埼玉県坂戸市千代田４-１４-１２,小児科,,,9" xlink:title="藤井小児科医院" transform="ref(svg,13941.1362,-3595.468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）松野会松野記念クリニック,埼玉県坂戸市上吉田６３９,内科　リハビリテーション科　心療内科　精神科　漢方内科　漢方アレルギー科　歯科　小児歯科,,,9" xlink:title="（医）松野会松野記念クリニック" transform="ref(svg,13940.0033,-3598.3059)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）丸山内科クリニック,埼玉県坂戸市薬師町１１-２９,内科　小児科,,,9" xlink:title="（医）丸山内科クリニック" transform="ref(svg,13939.9282,-3597.0382)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,宮崎整形外科医院,埼玉県坂戸市薬師町１０-２３,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="宮崎整形外科医院" transform="ref(svg,13939.8756,-3597.0306)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やまだクリニック,埼玉県坂戸市清水町４６-４６,内科　消化器内科　外科,,,9" xlink:title="やまだクリニック" transform="ref(svg,13940.1205,-3596.1587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）凌光会吉川クリニック,埼玉県坂戸市薬師町１,内科　小児科　胃腸科,,,9" xlink:title="（医）凌光会吉川クリニック" transform="ref(svg,13939.8048,-3597.1628)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉クリニック,埼玉県坂戸市紺屋４０３,内科　小児科,,,9" xlink:title="若葉クリニック" transform="ref(svg,13944.8227,-3595.7417)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わかば台心療内科,埼玉県坂戸市千代田４-１０-１,心療内科,,,9" xlink:title="わかば台心療内科" transform="ref(svg,13940.8985,-3595.4527)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康史会井上医院,埼玉県鶴ヶ島市富士見２-２９-１,内科　外科　小児科　胃腸科　整形外科　皮膚科　肛門科,,,9" xlink:title="（医）康史会井上医院" transform="ref(svg,13941.5759,-3595.0836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浦田クリニック,埼玉県鶴ヶ島市藤金８７８-３,内科　胃腸科　小児科　外科,,,9" xlink:title="浦田クリニック" transform="ref(svg,13940.5907,-3594.5778)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大西内科,埼玉県鶴ヶ島市五味ヶ谷３０５,内科　消化器科,,,9" xlink:title="大西内科" transform="ref(svg,13941.6296,-3594.8115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護付有料老人ホーム鶴ヶ島ナーシングホーム医務室,埼玉県鶴ヶ島市上広谷６０-１３,内科,,,9" xlink:title="介護付有料老人ホーム鶴ヶ島ナーシングホーム医務室" transform="ref(svg,13942.345,-3593.9912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護付有料老人ホーム若葉ナーシングホーム医務室,埼玉県鶴ヶ島市上広谷７９３-１０,内科,,,9" xlink:title="介護付有料老人ホーム若葉ナーシングホーム医務室" transform="ref(svg,13940.8141,-3594.6697)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川野医院,埼玉県鶴ヶ島市上広谷１７-１４,内科　循環器科　小児科,,,9" xlink:title="川野医院" transform="ref(svg,13942.3351,-3593.8003)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,関越クリニック,埼玉県鶴ヶ島市松ヶ丘２-２-３１,内科　消化器科,,,9" xlink:title="関越クリニック" transform="ref(svg,13941.7312,-3592.928)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,厚友クリニック若葉,埼玉県鶴ヶ島市富士見１-９-３４,内科　小児科　外科　アレルギー科　皮膚科,,,9" xlink:title="厚友クリニック若葉" transform="ref(svg,13941.0905,-3594.7593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）充仁会相良胃腸科,埼玉県鶴ヶ島市鶴ヶ丘７１-８,外科　胃腸科　泌尿器科　肛門科,,,9" xlink:title="（医）充仁会相良胃腸科" transform="ref(svg,13942.1297,-3593.6055)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐藤眼科,埼玉県鶴ヶ島市上広谷６６９-１,眼科　内科,,,9" xlink:title="佐藤眼科" transform="ref(svg,13941.0235,-3594.4106)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たわらクリニック,埼玉県鶴ヶ島市藤金６５０-１,内科　消化器内科　外科　肛門外科,,,9" xlink:title="たわらクリニック" transform="ref(svg,13940.1741,-3593.6624)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鶴ヶ島耳鼻咽喉科診療所,埼玉県鶴ヶ島市上広谷８-１５,耳鼻咽喉科,,,9" xlink:title="鶴ヶ島耳鼻咽喉科診療所" transform="ref(svg,13942.5339,-3593.9343)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みどりの風鶴ヶ島診療所,埼玉県鶴ヶ島市上広谷５４３-１,内科,,,9" xlink:title="（特養）みどりの風鶴ヶ島診療所" transform="ref(svg,13941.4432,-3593.8393)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）冨田整形外科,埼玉県鶴ヶ島市藤金８３５-５９,整形外科　麻酔科,,,9" xlink:title="（医）冨田整形外科" transform="ref(svg,13940.5366,-3594.4902)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,にし内科眼科クリニック,埼玉県鶴ヶ島市富士見１-２-１　２Ｆ,内科　眼科　呼吸器科　アレルギー科,,,9" xlink:title="にし内科眼科クリニック" transform="ref(svg,13941.0833,-3594.9479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,富士見眼科診療所,埼玉県鶴ヶ島市富士見１-７-１,眼科（コンタクト）,,,9" xlink:title="富士見眼科診療所" transform="ref(svg,13940.9971,-3594.8569)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）つくし会みなくち小児科,埼玉県鶴ヶ島市鶴ヶ丘１１０-１,小児科　内科　アレルギー科,,,9" xlink:title="（医）つくし会みなくち小児科" transform="ref(svg,13941.7504,-3593.117)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山岡内科小児科,埼玉県鶴ヶ島市上広谷４１２-２８,内科　小児科,,,9" xlink:title="山岡内科小児科" transform="ref(svg,13942.2391,-3594.1987)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よしなみ耳鼻科クリニック,埼玉県鶴ヶ島市富士見１-２-１ワカバウォーク２Ｆ,耳鼻咽喉科,,,9" xlink:title="よしなみ耳鼻科クリニック" transform="ref(svg,13941.0833,-3594.9479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉駅前メンタルクリニック,埼玉県鶴ヶ島市藤金８４５-４,心療内科　神経内科　精神科,,,9" xlink:title="若葉駅前メンタルクリニック" transform="ref(svg,13940.7605,-3594.9016)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉こどもクリニック,埼玉県鶴ヶ島市藤金３３３-２,小児科　内科　アレルギー科,,,9" xlink:title="若葉こどもクリニック" transform="ref(svg,13940.6935,-3594.1253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉台耳鼻咽喉科,埼玉県鶴ヶ島市上広谷７２２-１,耳鼻咽喉科,,,9" xlink:title="若葉台耳鼻咽喉科" transform="ref(svg,13941.4998,-3594.4727)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉台皮膚科,埼玉県鶴ヶ島市上広谷７２２-１,皮膚科,,,9" xlink:title="若葉台皮膚科" transform="ref(svg,13941.5271,-3594.4442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉内科クリニック,埼玉県鶴ヶ島市上広谷６４５-１,内科　人工透析科,,,9" xlink:title="若葉内科クリニック" transform="ref(svg,13940.9924,-3594.4047)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,若葉病院附属ワカバ整形外科・リウマチ科クリニック,埼玉県鶴ヶ島市富士見１-２-１　２Ｆ,整形外科　リハビリテーション科　リウマチ科,,,9" xlink:title="若葉病院附属ワカバ整形外科・リウマチ科クリニック" transform="ref(svg,13941.0833,-3594.9479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）辰樹会馬島医院,埼玉県狭山市青柳１４９-８,内科　外科　消化器内科　内視鏡内科　小児科,,,9" xlink:title="（医）辰樹会馬島医院" transform="ref(svg,13944.8029,-3586.9448)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,遠藤医院,埼玉県狭山市狭山２１-４４,内科　小児科　外科　リハビリテーション科　皮膚科　放射線科　呼吸器科　胃腸科,,,9" xlink:title="遠藤医院" transform="ref(svg,13942.361,-3586.8237)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,太田マタニティクリニック,埼玉県狭山市広瀬東３-２７-３７,産婦人科　小児科　皮膚科,,,9" xlink:title="太田マタニティクリニック" transform="ref(svg,13939.858,-3586.2051)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,奥平産婦人科,埼玉県狭山市下奥富４９０-３,内科　小児科　産科　婦人科,,,9" xlink:title="奥平産婦人科" transform="ref(svg,13942.8392,-3587.6934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おさない眼科,埼玉県狭山市入間川２-５-７メディカルプラザ１０３,眼科,,,9" xlink:title="おさない眼科" transform="ref(svg,13941.1619,-3585.9901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,柏原診療所,埼玉県狭山市柏原３１６１-３５４狭山ニュータウン４４-１,内科　呼吸器科　消化器科　循環器科　小児科,,,9" xlink:title="柏原診療所" transform="ref(svg,13941.0319,-3588.0837)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,櫻澤医院,埼玉県狭山市新狭山３-１１-１０,内科　呼吸器内科　循環器内科　消化器内科　心臓内科　気管食道内科　胃腸内科　糖尿病内科　脂質代謝内科　内視鏡内科　小児科　整形外科,,,9" xlink:title="櫻澤医院" transform="ref(svg,13943.2977,-3587.3179)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,さとう内科,埼玉県狭山市入間川２-５-７メディカルプラザ２０２,糖尿病内科　内分泌内科　内科,,,9" xlink:title="さとう内科" transform="ref(svg,13941.1812,-3585.9912)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,狭山台胃腸科外科,埼玉県狭山市入間川１１６４-１,内科　消化器科　外科　肛門科,,,9" xlink:title="狭山台胃腸科外科" transform="ref(svg,13942.9347,-3586.0308)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（一財）国際博愛協会附属狭山博愛クリニック,埼玉県狭山市青柳２５７-１,内科　整形外科,,,9" xlink:title="（一財）国際博愛協会附属狭山博愛クリニック" transform="ref(svg,13944.5376,-3586.9982)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小児科林医院,埼玉県狭山市入間川２-５-７-１０１,内科　小児科,,,9" xlink:title="小児科林医院" transform="ref(svg,13941.1921,-3585.98)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新狭山セントラルクリニック,埼玉県狭山市新狭山２-２-１,内科　呼吸器内科　皮膚科　小児科　外科,,,9" xlink:title="新狭山セントラルクリニック" transform="ref(svg,13943.4644,-3587.5084)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,耳鼻咽喉科たんぽぽクリニック,埼玉県狭山市新狭山２-９-２１ワコー第１新狭山マンション１Ｆ,耳鼻いんこう科,,,9" xlink:title="耳鼻咽喉科たんぽぽクリニック" transform="ref(svg,13943.2641,-3587.4379)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村眼科,埼玉県狭山市新狭山２-１０-１５,眼科,,,9" xlink:title="中村眼科" transform="ref(svg,13943.0907,-3587.5776)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）蹊和会藤江医院,埼玉県狭山市東三ッ木６-１０,内科　外科　整形外科　皮膚科　小児科,,,9" xlink:title="（医）蹊和会藤江医院" transform="ref(svg,13943.3719,-3587.1468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ほりがね診療所,埼玉県狭山市掘兼１０４３,内科　小児科　外科　呼吸器科　胃腸科　耳鼻いんこう科　放射線科,,,9" xlink:title="ほりがね診療所" transform="ref(svg,13944.6677,-3586.3374)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,メンタルクリニックむさしのもり,埼玉県狭山市入間川２-５-７メディカルプラザ３０２,心療内科　精神科,,,9" xlink:title="メンタルクリニックむさしのもり" transform="ref(svg,13941.1619,-3585.9901)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もとい内科クリニック,埼玉県狭山市広瀬東１-１６-３９,内科　循環器科,,,9" xlink:title="もとい内科クリニック" transform="ref(svg,13939.9334,-3586.5174)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,森田クリニック,埼玉県狭山市狭山台１-８-１,内科　消化器科　小児科　外科　形成外科　皮膚科　肛門科　リハビリテーション科　放射線科　麻酔科　アレルギー科,,,9" xlink:title="森田クリニック" transform="ref(svg,13943.2914,-3586.2457)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,扇の森診療所,埼玉県さいたま市西区高木６０２-１,内科　外科,,,9" xlink:title="扇の森診療所" transform="ref(svg,13956.725,-3592.6836)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片平医院,埼玉県さいたま市西区指扇領別所３７７-４,内科　胃腸科　小児科　皮膚科,,,9" xlink:title="片平医院" transform="ref(svg,13956.5284,-3592.117)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博悠会桜整形外科内科,埼玉県さいたま市西区指扇領別所滝沼３６６-８１,整形外科　内科　皮膚科　リハビリテーション科　リウマチ科　アレルギー科,,,9" xlink:title="（医）博悠会桜整形外科内科" transform="ref(svg,13956.5444,-3592.0242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,湯澤医院,埼玉県さいたま市西区西遊馬１２６０-１,耳鼻いんこう科　内科　小児科　皮膚科　リハビリテーション科　精神科,,,9" xlink:title="湯澤医院" transform="ref(svg,13956.4441,-3591.4459)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）泰仁会さいたまファミリークリニック,埼玉県さいたま市西区大字西遊馬１２６７-６ウィズ・カーサ１,内科,,,9" xlink:title="（医）泰仁会さいたまファミリークリニック" transform="ref(svg,13956.4909,-3591.494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）扇の森ＷＥＳＴ医務室,埼玉県さいたま市西区中釘２３４５-１,内科,,,9" xlink:title="（特養）扇の森ＷＥＳＴ医務室" transform="ref(svg,13956.9156,-3592.4536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わかやま内科,埼玉県さいたま市西区中釘２３７２-１７,内科　呼吸器科　循環器科　胃腸科　アレルギー科　皮膚科,,,9" xlink:title="わかやま内科" transform="ref(svg,13957.0254,-3592.5015)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わかばやし耳鼻咽喉科,埼玉県さいたま市西区土屋５９４-１,耳鼻いんこう科,,,9" xlink:title="わかばやし耳鼻咽喉科" transform="ref(svg,13956.5732,-3591.6484)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）春陽苑診療室,埼玉県さいたま市西区飯田新田９１-１,内科,,,9" xlink:title="（特養）春陽苑診療室" transform="ref(svg,13955.994,-3588.8041)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）政芳会田中クリニック,埼玉県さいたま市西区宝来１５３８,内科　循環器科　小児科　リハビリテーション科　消化器科,,,9" xlink:title="（医）政芳会田中クリニック" transform="ref(svg,13956.4215,-3591.882)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂本皮膚科,埼玉県さいたま市西区宝来１７１０-１伊藤ビル２Ｆ,皮膚科,,,9" xlink:title="坂本皮膚科" transform="ref(svg,13956.5821,-3591.7043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,指扇駅前はやし眼科クリニック,埼玉県さいたま市西区宝来１７２２-３,眼科,,,9" xlink:title="指扇駅前はやし眼科クリニック" transform="ref(svg,13956.4978,-3591.6519)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）敬寿園宝来ホーム医務室,埼玉県さいたま市西区宝来８６-１,内科,,,9" xlink:title="（特養）敬寿園宝来ホーム医務室" transform="ref(svg,13955.4043,-3593.168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）宏仁会アーバンライフクリニック川越駅前,埼玉県川越市菅原町１７-１アーバンライフビルヂング２Ｆ,内科　心療内科　精神科,,,9" xlink:title="（医）宏仁会アーバンライフクリニック川越駅前" transform="ref(svg,13948.545,-3590.6164)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,アイリス（特養）医務室,埼玉県川越市大字府川字反町２４３-２,内科,,,9" xlink:title="アイリス（特養）医務室" transform="ref(svg,13948.2121,-3594.4438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,愛和レディスクリニック,埼玉県川越市新富町２-２２八十二銀行川越ビル２Ｆ,皮膚科　産婦人科,,,9" xlink:title="愛和レディスクリニック" transform="ref(svg,13948.2159,-3591.3756)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,赤坂ティアラクリニック川越院,埼玉県川越市菅原町２３-１１菅原町ビル４階,形成外科　美容外科　皮膚科,,,9" xlink:title="赤坂ティアラクリニック川越院" transform="ref(svg,13948.5025,-3590.9006)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅岡クリニック,埼玉県川越市脇田本町１０-１７伊勢原七番館１階,内科　アレルギー科　リウマチ科,,,9" xlink:title="浅岡クリニック" transform="ref(svg,13948.0019,-3590.5451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,浅野内科クリニック,埼玉県川越市氷川町１３５-１,内科　小児科　皮膚科　糖尿病内科,,,9" xlink:title="浅野内科クリニック" transform="ref(svg,13949.0692,-3592.9064)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あさひ会あさひクリニック,埼玉県川越市鯨井新田６-１第３今泉ビル３Ｆ,心療内科　精神科　神経科　神経内科,,,9" xlink:title="（医）あさひ会あさひクリニック" transform="ref(svg,13942.3043,-3593.5685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）旭町耳鼻咽喉科診療所,埼玉県川越市旭町２-７-１４,耳鼻咽喉科,,,9" xlink:title="（医）旭町耳鼻咽喉科診療所" transform="ref(svg,13947.5478,-3590.099)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新宿整形外科内科,埼玉県川越市新宿町６-２３-８９,内科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="新宿整形外科内科" transform="ref(svg,13947.4639,-3589.7976)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ありやまクリニック,埼玉県川越市四都野台１５-６,内科　小児科　皮膚科　消化器内科,,,9" xlink:title="ありやまクリニック" transform="ref(svg,13946.6342,-3589.3183)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠弘会池袋クリニック,埼玉県川越市笠幡３７３０-１笠幡駅前ビル１階,内科,,,9" xlink:title="（医）誠弘会池袋クリニック" transform="ref(svg,13940.6459,-3590.6951)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,伊佐沼クリニック耳鼻咽喉科診療所,埼玉県川越市古谷上２７-１,形成外科　耳鼻咽喉科,,,9" xlink:title="伊佐沼クリニック耳鼻咽喉科診療所" transform="ref(svg,13951.2065,-3591.996)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石井クリニック,埼玉県川越市今福４６７-３,内科　小児科　外科　婦人科　麻酔科,,,9" xlink:title="石井クリニック" transform="ref(svg,13946.9371,-3587.9512)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,石丸医院,埼玉県川越市的場北１-１２-１２,内科　皮膚科,,,9" xlink:title="石丸医院" transform="ref(svg,13943.959,-3592.5358)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,いせはらクリニック,埼玉県川越市伊勢原町２-２１-２,内科　消化器科（胃腸科）　外科,,,9" xlink:title="いせはらクリニック" transform="ref(svg,13942.8426,-3592.1914)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,犬竹医院,埼玉県川越市大手町４-３,内科　精神科　神経科　消化器科（胃腸科）　小児科　外科　整形外科　放射線科,,,9" xlink:title="犬竹医院" transform="ref(svg,13948.5748,-3592.3168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,井上医院,埼玉県川越市元町２-８-８,内科　循環器科　外科,,,9" xlink:title="井上医院" transform="ref(svg,13948.1035,-3592.5631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）英仁会井上外科医院,埼玉県川越市砂新田７４-８,外科　整形外科　脳神経外科　皮膚科　リハビリテーション科　胃腸内科,,,9" xlink:title="（医）英仁会井上外科医院" transform="ref(svg,13949.4606,-3588.8918)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,猪熊外科胃腸科医院,埼玉県川越市新宿町５-４-１２,消化器科（胃腸科）　外科　整形外科　泌尿器科　こう門科,,,9" xlink:title="猪熊外科胃腸科医院" transform="ref(svg,13947.9796,-3589.9094)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おおさこ整形外科クリニック,埼玉県川越市的場新町１９-１,リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="おおさこ整形外科クリニック" transform="ref(svg,13942.8534,-3591.8536)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大橋医院,埼玉県川越市旭町３-７-５,内科　小児科　皮膚科,,,9" xlink:title="大橋医院" transform="ref(svg,13947.089,-3589.7031)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大日向医院,埼玉県川越市藤間６-１０,内科　小児科,,,9" xlink:title="大日向医院" transform="ref(svg,13949.4669,-3588.4334)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）博光会おおひら耳鼻咽喉科,埼玉県川越市大字並木２４６-１リヴォーレ中田１階１,耳鼻咽喉科,,,9" xlink:title="（医）博光会おおひら耳鼻咽喉科" transform="ref(svg,13951.9967,-3590.1981)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小川医院,埼玉県川越市脇田本町６-１８,内科　循環器科　小児科,,,9" xlink:title="小川医院" transform="ref(svg,13948.167,-3590.6296)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おがわ内科クリニック,埼玉県川越市霞ヶ関東１-１０-２７,内科　アレルギー科　リウマチ科,,,9" xlink:title="おがわ内科クリニック" transform="ref(svg,13944.3224,-3592.4545)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,おぜきこどもクリニック,埼玉県川越市砂新田２-１９-８リバプールＮ．１階,アレルギー科　小児科,,,9" xlink:title="おぜきこどもクリニック" transform="ref(svg,13948.8538,-3589.0438)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,落合産婦人科医院,埼玉県川越市清水町２-２４,産婦人科,,,9" xlink:title="落合産婦人科医院" transform="ref(svg,13950.4445,-3587.8474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）久慈厚生会角栄診療所,埼玉県川越市的場北２-２３-５,内科,,,9" xlink:title="（医）久慈厚生会角栄診療所" transform="ref(svg,13943.7126,-3592.5571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）三信会和クリニック,埼玉県川越市上戸１００-１,精神科,,,9" xlink:title="（医）三信会和クリニック" transform="ref(svg,13944.4602,-3592.8618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,かすみクリニック,埼玉県川越市的場２８３６-３３,内科　呼吸器科　消化器科（胃腸科）　外科　こう門科,,,9" xlink:title="かすみクリニック" transform="ref(svg,13944.4422,-3592.566)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）霞ケ関眼科クリニック,埼玉県川越市霞ケ関東２-１１-１３,眼科,,,9" xlink:title="（医）霞ケ関眼科クリニック" transform="ref(svg,13944.4035,-3592.4723)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠弘会霞ヶ関腎クリニック,埼玉県川越市大字的場２２１８-４ベルアート１階,内科　人工透析内科,,,9" xlink:title="（医）誠弘会霞ヶ関腎クリニック" transform="ref(svg,13944.2738,-3592.6708)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）霞ケ関整形外科,埼玉県川越市的場２２１８-４ベルアート２０１,内科　リウマチ科　整形外科　リハビリテーション科,,,9" xlink:title="（医）霞ケ関整形外科" transform="ref(svg,13944.2907,-3592.67)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）真正会霞ヶ関中央クリニック,埼玉県川越市かすみ野１-１-５,内科,,,9" xlink:title="（医）真正会霞ヶ関中央クリニック" transform="ref(svg,13941.8453,-3590.4899)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,片岡耳鼻咽喉科気管食道科医院,埼玉県川越市的場北１-３-９,耳鼻咽喉科　気管食道科,,,9" xlink:title="片岡耳鼻咽喉科気管食道科医院" transform="ref(svg,13944.1558,-3592.5494)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,加藤耳鼻咽喉科医院,埼玉県川越市笠幡３０２５-１１,内科　小児科　耳鼻咽喉科,,,9" xlink:title="加藤耳鼻咽喉科医院" transform="ref(svg,13941.1999,-3590.8474)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）杏方会金森医院,埼玉県川越市砂新田２-６-１０,内科　小児科,,,9" xlink:title="（医）杏方会金森医院" transform="ref(svg,13949.1355,-3588.8023)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越少年刑務所医務部,埼玉県川越市南大塚６-４０-１,内科　心療内科　精神科　神経科　神経内科　呼吸器科　消化器科（胃腸科）　循環器科　アレルギー科　リウマチ科　外科　整形外科　形成外科　脳神経外科　呼吸器外科　心臓血管外科　皮膚科　泌尿器科　性病科　こう門科　眼科　耳鼻咽喉科　気管食道科,リハビリテーション科　放射線科　歯科　麻酔科,,9" xlink:title="川越少年刑務所医務部" transform="ref(svg,13945.6938,-3587.7487)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）石川記念会川越駅前クリニック,埼玉県川越市脇田本町１６-２３永和川越駅前ビル２Ｆ,内科　泌尿器科,,,9" xlink:title="（医）石川記念会川越駅前クリニック" transform="ref(svg,13948.1383,-3590.8413)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越江原耳鼻咽喉科,埼玉県川越市天沼新田２７６-１,耳鼻咽喉科,,,9" xlink:title="川越江原耳鼻咽喉科" transform="ref(svg,13943.0495,-3593.6451)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越整形外科内科医院,埼玉県川越市三光町２-４,内科　消化器科（胃腸科）　アレルギー科　リウマチ科　整形外科　形成外科　皮膚科　リハビリテーション科,,,9" xlink:title="川越整形外科内科医院" transform="ref(svg,13947.7653,-3591.8606)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越西口眼科,埼玉県川越市脇田本町１-７川越西口ビル５Ｆ,眼科,,,9" xlink:title="川越西口眼科" transform="ref(svg,13948.2874,-3590.6696)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越くりはら耳鼻咽喉科,埼玉県川越市新富町２-３０-２,耳鼻咽喉科,,,9" xlink:title="川越くりはら耳鼻咽喉科" transform="ref(svg,13948.0979,-3591.1704)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越南腎クリニック,埼玉県川越市新宿町３-８-７,外科　泌尿器科,,,9" xlink:title="川越南腎クリニック" transform="ref(svg,13948.2353,-3590.081)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越耳鼻咽喉科医院,埼玉県川越市脇田本町１１-２　М・ＴＥＣビル６階,耳鼻咽喉科,,,9" xlink:title="川越耳鼻咽喉科医院" transform="ref(svg,13948.0178,-3590.5934)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越西眼科,埼玉県川越市的場新町８-５,眼科,,,9" xlink:title="川越西眼科" transform="ref(svg,13942.9924,-3591.9196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越美容外科,埼玉県川越市脇田本町６-９川越プラザビル６Ｆ,形成外科　美容外科　皮膚科　美容皮膚科,,,9" xlink:title="川越美容外科" transform="ref(svg,13948.2078,-3590.6178)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越救急クリニック,埼玉県川越市大字古谷上１１１６-１,内科　小児科　外科　整形外科　麻酔科　救急科,,,9" xlink:title="川越救急クリニック" transform="ref(svg,13952.1865,-3591.6352)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越市医師会夜間休日診療所,埼玉県川越市小仙波町２-５３-１,内科　小児科,,,9" xlink:title="川越市医師会夜間休日診療所" transform="ref(svg,13949.6239,-3592.0075)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越市保健所・川越市総合保健センター,埼玉県川越市小ケ谷８１７-１,内科　婦人科　歯科,,,9" xlink:title="川越市保健所・川越市総合保健センター" transform="ref(svg,13945.8791,-3592.6523)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川越ヒフ形成外科クリニック,埼玉県川越市大袋新田８１５-１,形成外科　皮膚科　美容外科,,,9" xlink:title="川越ヒフ形成外科クリニック" transform="ref(svg,13945.0289,-3589.3415)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,川鶴クリニック,埼玉県川越市下広谷１１１３-２２,内科　呼吸器科　消化器科（胃腸科）　循環器科　泌尿器科,,,9" xlink:title="川鶴クリニック" transform="ref(svg,13942.9288,-3594.0724)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）眞栄会川鶴プラザクリニック,埼玉県川越市川鶴２-１１-１,内科　小児科　糖尿病内科　内分泌内科　消化器内科　呼吸器内科,,,9" xlink:title="（医）眞栄会川鶴プラザクリニック" transform="ref(svg,13941.0695,-3592.3365)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）河靖会河野医院,埼玉県川越市寺尾８８,内科　小児科,,,9" xlink:title="（医）河靖会河野医院" transform="ref(svg,13950.5659,-3588.9873)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岸眼科医院,埼玉県川越市石原町１-１０-３,眼科,,,9" xlink:title="岸眼科医院" transform="ref(svg,13947.783,-3592.7275)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,岸野胃腸科クリニック,埼玉県川越市新宿町１-１２-１９,内科　消化器科（胃腸科）　外科　こう門科,,,9" xlink:title="岸野胃腸科クリニック" transform="ref(svg,13948.0997,-3590.4631)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,北川越クリニック,埼玉県川越市下広谷５２７-１,内科　消化器科（胃腸科）　外科　皮膚科　リハビリテーション科,,,9" xlink:title="北川越クリニック" transform="ref(svg,13943.4057,-3595.2357)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,喜多町整形外科クリニック,埼玉県川越市喜多町１-２２,整形外科　リハビリテーション科,,,9" xlink:title="喜多町整形外科クリニック" transform="ref(svg,13948.2896,-3592.6739)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,きっかわ内科クリニック,埼玉県川越市大手町１３-５,内科　腎臓内科,,,9" xlink:title="きっかわ内科クリニック" transform="ref(svg,13948.4182,-3592.2159)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）キングスガーデン埼玉付属診療所,埼玉県川越市下小坂１１３０,内科　循環器科,,,9" xlink:title="（福）キングスガーデン埼玉付属診療所" transform="ref(svg,13945.6891,-3595.1783)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くが内科,埼玉県川越市新宿町６-２５-４０,内科,,,9" xlink:title="くが内科" transform="ref(svg,13947.4619,-3589.6801)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,熊谷クリニック,埼玉県川越市旭町２-８-３,内科　皮膚科　泌尿器科　性病科　放射線科　循環器内科,,,9" xlink:title="熊谷クリニック" transform="ref(svg,13947.475,-3590.154)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）蔵の町・川越医務室,埼玉県川越市末広町１-２-１,内科,,,9" xlink:title="（特養）蔵の町・川越医務室" transform="ref(svg,13947.9069,-3592.1437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,くりばやし眼科,埼玉県川越市旭町１-１-２３,眼科,,,9" xlink:title="くりばやし眼科" transform="ref(svg,13947.8134,-3590.4548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）緑裕会グリーンパーククリニック,埼玉県川越市古谷上６０８３-８,内科　小児科　歯科,,,9" xlink:title="（医）緑裕会グリーンパーククリニック" transform="ref(svg,13953.5078,-3591.6481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,クレアモール川越眼科診療所,埼玉県川越市新富町２-４-２,眼科,,,9" xlink:title="クレアモール川越眼科診療所" transform="ref(svg,13948.3084,-3591.315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正修会黒川医院,埼玉県川越市菅原町２０-２１,内科　小児科,,,9" xlink:title="（医）正修会黒川医院" transform="ref(svg,13948.4974,-3590.7649)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,黒森小児科クリニック,埼玉県川越市的場北１-６-３０,小児科,,,9" xlink:title="黒森小児科クリニック" transform="ref(svg,13944.0148,-3592.5138)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）康正会総合クリニック,埼玉県川越市大字山田３７５-１,内科　神経内科　外科　整形外科　形成外科　脳神経外科　呼吸器外科　心臓血管外科　皮膚科　泌尿器科　リハビリテーション科　歯科　呼吸器内科　循環器内科　消化器内科　消化器外科　腎臓内科　糖尿病内科　内視鏡内科　内視鏡外科　乳腺外科　肛門外科　人工透析内科,,,9" xlink:title="（医）康正会総合クリニック" transform="ref(svg,13947.786,-3593.587)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こうづま眼科クリニック,埼玉県川越市岸町３-１３-３,眼科,,,9" xlink:title="こうづま眼科クリニック" transform="ref(svg,13948.3344,-3589.583)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,介護老人福祉施設小江戸の庭医務室,埼玉県川越市大字小仙波８２３-１,内科,,,9" xlink:title="介護老人福祉施設小江戸の庭医務室" transform="ref(svg,13950.4114,-3591.6816)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,小島医院,埼玉県川越市大袋新田８０９,内科　小児科,,,9" xlink:title="小島医院" transform="ref(svg,13944.9897,-3589.3288)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）あいの会こばやしこどもクリニック,埼玉県川越市脇田本町２０-５,小児科,,,9" xlink:title="（医）あいの会こばやしこどもクリニック" transform="ref(svg,13947.9556,-3590.6611)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,こばやし皮フ科クリニック,埼玉県川越市脇田本町２３-３３Ｇ＆ＲＯＣＫビル２Ｆ,アレルギー科　皮膚科,,,9" xlink:title="こばやし皮フ科クリニック" transform="ref(svg,13948.0561,-3590.8832)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さい眼科医院,埼玉県川越市大字天沼新田３４０-６,眼科,,,9" xlink:title="（医）さい眼科医院" transform="ref(svg,13943.1907,-3593.9173)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,埼玉医科大学かわごえクリニック,埼玉県川越市脇田本町２１-７,内科　精神科　神経科　小児科　整形外科　形成外科　リハビリテーション科　麻酔科　神経小児科,,,9" xlink:title="埼玉医科大学かわごえクリニック" transform="ref(svg,13947.9676,-3590.7068)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,坂本クリニック,埼玉県川越市的場北１-１７-２６,内科　神経内科　放射線科　消化器内科,,,9" xlink:title="坂本クリニック" transform="ref(svg,13943.7178,-3592.6222)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,佐々木医院,埼玉県川越市連雀町３１-１０,心療内科　精神科,,,9" xlink:title="佐々木医院" transform="ref(svg,13948.0987,-3592.0074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）さとうクリニック,埼玉県川越市中原町２-１６-３第２武州ビル１Ｆ,内科　循環器科　小児科　皮膚科,,,9" xlink:title="（医）さとうクリニック" transform="ref(svg,13947.8364,-3591.3303)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,品田クリニック,埼玉県川越市砂新田４-１９-１,内科　小児科　産婦人科,,,9" xlink:title="品田クリニック" transform="ref(svg,13948.9803,-3588.6747)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）健優会柴野医院,埼玉県川越市大手町２-１,内科　小児科,,,9" xlink:title="（医）健優会柴野医院" transform="ref(svg,13948.5321,-3592.2126)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）渋谷整形外科,埼玉県川越市天沼新田１１７-３,整形外科　リハビリテーション科,,,9" xlink:title="（医）渋谷整形外科" transform="ref(svg,13942.0471,-3593.2513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,島田整形外科医院,埼玉県川越市中原町２-１-４,整形外科,,,9" xlink:title="島田整形外科医院" transform="ref(svg,13948.1483,-3591.5218)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新河岸診療所,埼玉県川越市砂９１５-１１,内科　小児科,,,9" xlink:title="新河岸診療所" transform="ref(svg,13949.6773,-3589.0557)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,しんがし耳鼻咽喉科クリニック,埼玉県川越市砂新田２-１１-２４,耳鼻咽喉科　気管食道科,,,9" xlink:title="しんがし耳鼻咽喉科クリニック" transform="ref(svg,13948.9789,-3588.9614)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新河岸腎クリニック,埼玉県川越市下新河岸３９-１,外科　泌尿器科,,,9" xlink:title="新河岸腎クリニック" transform="ref(svg,13950.2976,-3589.0851)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）真寿会診療所,埼玉県川越市安比奈新田２９２-１,内科,,,9" xlink:title="（福）真寿会診療所" transform="ref(svg,13941.8011,-3590.0761)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,新富医院,埼玉県川越市広栄町１-２１,内科　消化器内科,,,9" xlink:title="新富医院" transform="ref(svg,13947.0732,-3590.3459)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,杉本内科クリニック,埼玉県川越市南台２-１３-７　２１Ｂｌｄｇ・２Ｆ,内科,,,9" xlink:title="杉本内科クリニック" transform="ref(svg,13945.4082,-3589.0078)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）千清會鈴木脳神経外科,埼玉県川越市笠幡２０８２,内科　心療内科　神経科　神経内科　小児科　整形外科　脳神経外科　放射線科,,,9" xlink:title="（医）千清會鈴木脳神経外科" transform="ref(svg,13940.5302,-3591.4781)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,鈴木内科医院,埼玉県川越市的場２２１８-１８,内科　呼吸器科　循環器科,,,9" xlink:title="鈴木内科医院" transform="ref(svg,13944.3056,-3592.7103)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）すみれの里・川越医務室,埼玉県川越市古谷本郷１４８７-１,内科,,,9" xlink:title="（特養）すみれの里・川越医務室" transform="ref(svg,13955.2716,-3590.1503)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,巣山整形外科,埼玉県川越市下広谷３９７-３,整形外科　リハビリテーション科,,,9" xlink:title="巣山整形外科" transform="ref(svg,13942.8593,-3595.7974)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,西部診療所,埼玉県川越市天沼新田３０７-１,内科　消化器科（胃腸科）　循環器科　小児科,,,9" xlink:title="西部診療所" transform="ref(svg,13943.2981,-3593.769)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,誠和クリニック,埼玉県川越市天沼新田２０５-５,内科　消化器科（胃腸科）　循環器科　小児科,,,9" xlink:title="誠和クリニック" transform="ref(svg,13942.5869,-3593.6571)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,埼玉県赤十字血液センター川越出張所,埼玉県川越市脇田町４-２川越モディ４・５階,内科,,,9" xlink:title="埼玉県赤十字血液センター川越出張所" transform="ref(svg,13948.2947,-3590.9115)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）尚篤会赤心堂総合健診クリニック,埼玉県川越市脇田本町２３-１住友生命川越ビル西館４Ｆ・５Ｆ,内科,,,9" xlink:title="（医）尚篤会赤心堂総合健診クリニック" transform="ref(svg,13948.0471,-3590.8645)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）尚篤会赤心クリニック,埼玉県川越市脇田本町２５-１８,内科　循環器科　泌尿器科,,,9" xlink:title="（医）尚篤会赤心クリニック" transform="ref(svg,13948.0757,-3590.9299)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）正和会せきや眼科,埼玉県川越市脇田町５-２坂本屋ビル３Ｆ,眼科,,,9" xlink:title="（医）正和会せきや眼科" transform="ref(svg,13948.2429,-3590.9532)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,せと内科医院,埼玉県川越市岸町３-５-３３,内科　小児科　皮膚科　放射線科,,,9" xlink:title="せと内科医院" transform="ref(svg,13948.6444,-3589.468)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仙波こどもクリニック,埼玉県川越市仙波町３-１９-２５,内科　小児科,,,9" xlink:title="仙波こどもクリニック" transform="ref(svg,13949.5804,-3591.316)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,大東外科医院,埼玉県川越市南大塚２-１０-２,消化器科（胃腸科）　外科　皮膚科　泌尿器科　こう門科　放射線科,,,9" xlink:title="大東外科医院" transform="ref(svg,13945.4508,-3589.3949)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかしな整形外科内科,埼玉県川越市砂新田４-１-２３高階マンション１Ｆ,内科　整形外科　皮膚科　リハビリテーション科,,,9" xlink:title="たかしな整形外科内科" transform="ref(svg,13949.2889,-3588.6481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たかだクリニック,埼玉県川越市鯨井新田２２-９,内科　消化器科（胃腸科）　外科　こう門科,,,9" xlink:title="たかだクリニック" transform="ref(svg,13941.9618,-3593.2314)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高橋耳鼻咽喉科医院,埼玉県川越市月吉町３８-２,小児科　耳鼻咽喉科　気管食道科,,,9" xlink:title="高橋耳鼻咽喉科医院" transform="ref(svg,13947.4602,-3592.2264)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,高浜産婦人科医院,埼玉県川越市藤間７２-１,産婦人科,,,9" xlink:title="高浜産婦人科医院" transform="ref(svg,13950.0015,-3588.8097)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田口医院,埼玉県川越市元町２-４-７,内科　小児科　消化器内科　循環器内科,,,9" xlink:title="田口医院" transform="ref(svg,13948.2859,-3592.5379)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田口レディスクリニック,埼玉県川越市喜多町１-１牛村ビル１Ｆ,婦人科,,,9" xlink:title="田口レディスクリニック" transform="ref(svg,13948.292,-3592.5906)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,竹田クリニック,埼玉県川越市下新河岸３９-１,内科　循環器科,,,9" xlink:title="竹田クリニック" transform="ref(svg,13950.3625,-3589.0993)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,田中医院,埼玉県川越市宮下町１-２-１２,内科　小児科　外科　皮膚科　耳鼻咽喉科　胃腸内科　肛門外科　美容皮膚科　乳腺外科,,,9" xlink:title="田中医院" transform="ref(svg,13948.496,-3592.7068)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,たむら眼科,埼玉県川越市連雀町２６-２,眼科,,,9" xlink:title="たむら眼科" transform="ref(svg,13948.1785,-3591.8384)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ちあきメディカルクリニック,埼玉県川越市南通町２-３小野沢ビル２Ｆ,内科　外科　糖尿病内科,,,9" xlink:title="ちあきメディカルクリニック" transform="ref(svg,13948.6561,-3590.9481)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）俊裕会鶴ケ島眼科クリニック,埼玉県川越市鯨井新田６-１第３今泉ビル２Ｆ,眼科,,,9" xlink:title="（医）俊裕会鶴ケ島眼科クリニック" transform="ref(svg,13942.3043,-3593.5685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）誠弘会鶴ケ島駅前クリニック,埼玉県川越市鯨井新田６-１第３今泉ビル２Ｆ,内科　呼吸器科　消化器科（胃腸科）,,,9" xlink:title="（医）誠弘会鶴ケ島駅前クリニック" transform="ref(svg,13942.3043,-3593.5685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,東武鉄道診療所川越分院,埼玉県川越市中原町２-１６-７,内科,,,9" xlink:title="東武鉄道診療所川越分院" transform="ref(svg,13947.8514,-3591.2969)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（学）東洋大学川越校舎医務室,埼玉県川越市鯨井中野台２１００,内科,,,9" xlink:title="（学）東洋大学川越校舎医務室" transform="ref(svg,13943.3437,-3593.5786)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）幸常会得丸医院,埼玉県川越市脇田町７-１１,内科　精神科　神経科　神経内科,,,9" xlink:title="（医）幸常会得丸医院" transform="ref(svg,13948.1998,-3590.9997)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,トッパングループ（健保）若葉診療所,埼玉県川越市栄１,内科,,,9" xlink:title="トッパングループ（健保）若葉診療所" transform="ref(svg,13942.3407,-3595.6196)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,内科川越西口診療所,埼玉県川越市脇田本町１１-２３,内科　消化器科（胃腸科）,,,9" xlink:title="内科川越西口診療所" transform="ref(svg,13947.9602,-3590.6186)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,仲皮フ科クリニック,埼玉県川越市脇田本町１３-１０,皮膚科,,,9" xlink:title="仲皮フ科クリニック" transform="ref(svg,13948.0192,-3590.6593)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中内皮膚科,埼玉県川越市諏訪町２１-２８,皮膚科,,,9" xlink:title="中内皮膚科" transform="ref(svg,13950.116,-3587.905)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永倉外科胃腸科,埼玉県川越市小仙波町２-２１-２,内科　消化器科（胃腸科）　外科　整形外科　皮膚科　こう門科,,,9" xlink:title="永倉外科胃腸科" transform="ref(svg,13949.6004,-3591.8513)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）永倉耳鼻咽喉科,埼玉県川越市新宿町１-４-１７,耳鼻咽喉科,,,9" xlink:title="（医）永倉耳鼻咽喉科" transform="ref(svg,13948.2069,-3590.2547)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,長澤クリニック,埼玉県川越市通町５-５第２山田ビル１階,内科　リウマチ科　小児科　循環器内科,,,9" xlink:title="長澤クリニック" transform="ref(svg,13948.5442,-3591.3416)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）中嶋内科泌尿器科医院,埼玉県川越市東田町２２-１０,内科　小児科　泌尿器科,,,9" xlink:title="（医）中嶋内科泌尿器科医院" transform="ref(svg,13947.5393,-3590.9048)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,永田整形外科,埼玉県川越市通町２０-４,整形外科　リハビリテーション科,,,9" xlink:title="永田整形外科" transform="ref(svg,13948.4473,-3591.4152)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村外科,埼玉県川越市藤間９３７-３,内科　消化器科（胃腸科）　循環器科　外科,,,9" xlink:title="中村外科" transform="ref(svg,13949.921,-3587.1581)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,中村眼科,埼玉県川越市通町２２-２,眼科,,,9" xlink:title="中村眼科" transform="ref(svg,13948.4481,-3591.3322)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）フラテ会西内科クリニック,埼玉県川越市稲荷町１８-６プリミエール田辺１Ｆ,内科　小児科,,,9" xlink:title="（医）フラテ会西内科クリニック" transform="ref(svg,13950.3775,-3587.9779)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野澤クリニック,埼玉県川越市小ケ谷８１６-１,内科　小児科　呼吸器内科　循環器内科,,,9" xlink:title="野澤クリニック" transform="ref(svg,13945.941,-3592.5978)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野田医院,埼玉県川越市並木新町４-７,内科　小児科　皮膚科　産婦人科,,,9" xlink:title="野田医院" transform="ref(svg,13951.8045,-3590.1865)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,野村眼科医院,埼玉県川越市脇田町１０５アトレ１階１１８,眼科,,,9" xlink:title="野村眼科医院" transform="ref(svg,13948.3283,-3590.8315)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハートポートセンターともいき医務室,埼玉県川越市笠幡１６４６-１７,内科　整形外科,,,9" xlink:title="ハートポートセンターともいき医務室" transform="ref(svg,13940.566,-3591.7731)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）萩原オプティカル萩原眼科医院,埼玉県川越市砂新田５７-４,眼科,,,9" xlink:title="（医）萩原オプティカル萩原眼科医院" transform="ref(svg,13949.4809,-3588.769)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）はつかりの里医務室,埼玉県川越市石原町２-６８-５,内科,,,9" xlink:title="（特養）はつかりの里医務室" transform="ref(svg,13947.012,-3592.6392)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）和心会ハッピーバース・ライフクリニック,埼玉県川越市的場２-７-７,小児科　産婦人科　呼吸器内科,,,9" xlink:title="（医）和心会ハッピーバース・ライフクリニック" transform="ref(svg,13942.9179,-3591.5745)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）育美会軽費老人ホームＡ花の人の家診療所,埼玉県川越市今福１６４１,内科,,,9" xlink:title="（福）育美会軽費老人ホームＡ花の人の家診療所" transform="ref(svg,13947.7329,-3587.3399)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ハヤカワクリニック,埼玉県川越市東田町２３-２ドミ東田１０５,内科　整形外科　リハビリテーション科　麻酔科,,,9" xlink:title="ハヤカワクリニック" transform="ref(svg,13947.4771,-3590.8573)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林医院,埼玉県川越市小堤４９４-１,内科　循環器科　小児科,,,9" xlink:title="林医院" transform="ref(svg,13944.4161,-3594.2632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,林原皮膚科医院,埼玉県川越市鯨井新田６-１第３今泉ビル２Ｆ,皮膚科,,,9" xlink:title="林原皮膚科医院" transform="ref(svg,13942.3043,-3593.5685)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）原整形外科,埼玉県川越市的場北２-１３-１３,整形外科,,,9" xlink:title="（医）原整形外科" transform="ref(svg,13943.8989,-3592.4639)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（株）ビー・エム・エル川越診療所,埼玉県川越市的場１３６１-１,内科,,,9" xlink:title="（株）ビー・エム・エル川越診療所" transform="ref(svg,13943.977,-3591.5479)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひまわりアイクリニック川越,埼玉県川越市脇田町３-５ＭＡＹＡビル５Ｆ,眼科,,,9" xlink:title="ひまわりアイクリニック川越" transform="ref(svg,13948.2338,-3590.8887)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,広沢医院,埼玉県川越市新富町１-６-３,内科　小児科,,,9" xlink:title="広沢医院" transform="ref(svg,13948.2858,-3591.7242)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ひろせクリニック,埼玉県川越市新富町２-４-３木村屋ビル３階,内科　外科　乳腺外科　消化器内科　循環器内科　糖尿病内科　肛門外科,,,9" xlink:title="ひろせクリニック" transform="ref(svg,13948.3172,-3591.3043)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,深田クリニック,埼玉県川越市野田町２-１-７,内科　消化器科（胃腸科）　循環器科,,,9" xlink:title="深田クリニック" transform="ref(svg,13947.3495,-3590.8442)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,藤野整形外科,埼玉県川越市下新河岸３９-１,リウマチ科　外科　整形外科　リハビリテーション科,,,9" xlink:title="藤野整形外科" transform="ref(svg,13950.3417,-3589.0915)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,プレス工業（株）埼玉工場診療所,埼玉県川越市大字石田本郷１１００,内科,,,9" xlink:title="プレス工業（株）埼玉工場診療所" transform="ref(svg,13953.0503,-3593.9292)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）平成クリニック,埼玉県川越市松江町１-２０-５,内科　循環器科,,,9" xlink:title="（医）平成クリニック" transform="ref(svg,13948.5571,-3591.9945)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）ぽぷらの樹内医務室,埼玉県川越市牛子７０８-１,内科,,,9" xlink:title="（特養）ぽぷらの樹内医務室" transform="ref(svg,13951.4969,-3589.0552)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,本川越メンタルクリニック,埼玉県川越市新富町２-２５-８飯田ビル２階,心療内科　精神科　神経科,,,9" xlink:title="本川越メンタルクリニック" transform="ref(svg,13948.1496,-3591.2767)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,松本医院,埼玉県川越市藤間１１２３,内科　小児科　外科　皮膚科,,,9" xlink:title="松本医院" transform="ref(svg,13949.6918,-3587.7847)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,的場胃腸クリニック,埼玉県川越市的場８２６-１,消化器科（胃腸科）,,,9" xlink:title="的場胃腸クリニック" transform="ref(svg,13943.1199,-3591.4168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）薫肌会的場皮膚科クリニック,埼玉県川越市的場新町１７-５,皮膚科,,,9" xlink:title="（医）薫肌会的場皮膚科クリニック" transform="ref(svg,13942.8677,-3591.808)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みどりこどもクリニック,埼玉県川越市川鶴１-２１-６,小児科,,,9" xlink:title="みどりこどもクリニック" transform="ref(svg,13941.4933,-3592.3748)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,皆川医院,埼玉県川越市西小仙波町１-５-３,内科　心療内科　精神科　糖尿病内科,,,9" xlink:title="皆川医院" transform="ref(svg,13948.699,-3591.6688)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（特養）みなみかぜ,埼玉県川越市吉田２０４-２,内科,,,9" xlink:title="（特養）みなみかぜ" transform="ref(svg,13942.6019,-3592.8675)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）朋壮会南古谷クリニック,埼玉県川越市並木６０６-１,内科,,,9" xlink:title="（医）朋壮会南古谷クリニック" transform="ref(svg,13952.5097,-3589.9437)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,三森整形外科医院,埼玉県川越市三久保町６-４,整形外科,,,9" xlink:title="三森整形外科医院" transform="ref(svg,13948.7066,-3592.1107)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）孝佳会宮沢クリニック,埼玉県川越市今成１-１８-２,内科　小児科,,,9" xlink:title="（医）孝佳会宮沢クリニック" transform="ref(svg,13947.2706,-3592.5471)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,みよし胃腸クリニック,埼玉県川越市砂新田１０９-１,内科　消化器科（胃腸科）　外科　こう門科,,,9" xlink:title="みよし胃腸クリニック" transform="ref(svg,13949.2799,-3589.0489)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,元山クリニック,埼玉県川越市笠幡７９-１,内科　循環器科　小児科,,,9" xlink:title="元山クリニック" transform="ref(svg,13941.9361,-3590.9632)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,桃太郎クリニック,埼玉県川越市的場新町１９-３,内科　呼吸器科　消化器科（胃腸科）　循環器科　小児科,,,9" xlink:title="桃太郎クリニック" transform="ref(svg,13942.8388,-3591.892)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）森田耳鼻咽喉科医院,埼玉県川越市新富町２-２１-８,アレルギー科　耳鼻咽喉科　気管食道科,,,9" xlink:title="（医）森田耳鼻咽喉科医院" transform="ref(svg,13948.345,-3591.3253)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,もろ小児科医院,埼玉県川越市宮元町７６-３１,アレルギー科　小児科,,,9" xlink:title="もろ小児科医院" transform="ref(svg,13948.1698,-3593.4495)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,やしまクリニック,埼玉県川越市大字南大塚４-３-２１,内科　外科　呼吸器内科,,,9" xlink:title="やしまクリニック" transform="ref(svg,13945.5591,-3588.9866)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）芳清会（特養）八瀬の里医務室,埼玉県川越市増形１６４,内科,,,9" xlink:title="（福）芳清会（特養）八瀬の里医務室" transform="ref(svg,13943.6165,-3589.074)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山口内科医院,埼玉県川越市南通町７-１５,内科,,,9" xlink:title="山口内科医院" transform="ref(svg,13948.5305,-3591.171)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山田医院,埼玉県川越市元町１-１０-８,内科,,,9" xlink:title="山田医院" transform="ref(svg,13948.4478,-3592.5502)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）貴水会やまぶきクリニック,埼玉県川越市六軒町２-１０-３,内科　アレルギー科　皮膚科,,,9" xlink:title="（医）貴水会やまぶきクリニック" transform="ref(svg,13948.0075,-3591.9548)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,山辺クリニック,埼玉県川越市並木新町１７-１１,内科　呼吸器科　消化器科（胃腸科）　循環器科　小児科,,,9" xlink:title="山辺クリニック" transform="ref(svg,13951.6752,-3590.141)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆきさだクリニック,埼玉県川越市新宿町３-１７-３,内科　小児科,,,9" xlink:title="ゆきさだクリニック" transform="ref(svg,13948.479,-3590.0233)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ゆり皮膚科,埼玉県川越市菅原町１０-９サウスヒル川越２０１,皮膚科　美容皮膚科,,,9" xlink:title="ゆり皮膚科" transform="ref(svg,13948.6145,-3590.5829)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（福）誠仁会（特養）陽光園診療所,埼玉県川越市大字砂新田４５４,内科　眼科,,,9" xlink:title="（福）誠仁会（特養）陽光園診療所" transform="ref(svg,13949.6908,-3587.0561)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,よこやまこどもアレルギークリニック,埼玉県川越市小仙波６８７-１,アレルギー科　小児科,,,9" xlink:title="よこやまこどもアレルギークリニック" transform="ref(svg,13949.9659,-3591.9694)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉田クリニック,埼玉県川越市大字砂新田１２６-１,内科　整形外科　脳神経外科　皮膚科,,,9" xlink:title="吉田クリニック" transform="ref(svg,13949.1733,-3589.1525)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,吉武皮膚科クリニック,埼玉県川越市的場２２４４-２,皮膚科,,,9" xlink:title="吉武皮膚科クリニック" transform="ref(svg,13944.1963,-3592.6337)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,米山クリニック,埼玉県川越市脇田本町１５-１９ニューパレスビル新館２０２,内科　心療内科　精神科　麻酔科,,,9" xlink:title="米山クリニック" transform="ref(svg,13948.0967,-3590.8063)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,ライフクリニック,埼玉県川越市松江町２-９-１１,眼科,,,9" xlink:title="ライフクリニック" transform="ref(svg,13948.447,-3592.1032)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,立医院,埼玉県川越市今成３-１３-２１,内科　神経科　呼吸器科　消化器科（胃腸科）　循環器科　小児科　泌尿器科　糖尿病内科,,,9" xlink:title="立医院" transform="ref(svg,13946.7457,-3592.0817)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,レディースクリニック小川医院,埼玉県川越市上戸２９６-２,内科　小児科　産科　婦人科,,,9" xlink:title="レディースクリニック小川医院" transform="ref(svg,13944.2469,-3592.9618)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わかおクリニック,埼玉県川越市並木２４６-１-１階,内科,,,9" xlink:title="わかおクリニック" transform="ref(svg,13951.9908,-3590.2013)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,（医）和心会クリニック,埼玉県川越市的場８２６-１,内科　呼吸器科　循環器科　アレルギー科　小児科　婦人科,,,9" xlink:title="（医）和心会クリニック" transform="ref(svg,13943.1199,-3591.4168)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,和田眼科クリニック,埼玉県川越市南台２-１３-７　２１Ｂｌｄｇ３Ｆ,眼科,,,9" xlink:title="和田眼科クリニック" transform="ref(svg,13945.4002,-3589.0133)" x="0" y="0"/>
+<use xlink:href="#p0" content="2,わたり眼科,埼玉県川越市藤間１６４-１,眼科,,,9" xlink:title="わたり眼科" transform="ref(svg,13949.5068,-3588.256)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="医療機関分類,施設名称,所在地,診療科目１,診療科目２,診療科目３,開設者分類" viewBox="13359.375 -3656.25 140.625 140.625" go:dataArea="13359.375 -3656.25 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p6" >
+  <image xlink:href="mappin6.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p7" >
+  <image xlink:href="mappin7.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p8" >
+  <image xlink:href="mappin8.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p9" >
+  <image xlink:href="mappin9.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="3,沼倉歯科医院,京都府京丹後市久美浜町１４３２-２０,歯科,,,9" xlink:title="沼倉歯科医院" transform="ref(svg,13489.2778,-3560.5382)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科医院,京都府京丹後市久美浜町仲町２９９６-３,歯科,,,9" xlink:title="中村歯科医院" transform="ref(svg,13489.8535,-3560.617)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまだ歯科医院,京都府京丹後市久美浜町小字飯田７８１-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまだ歯科医院" transform="ref(svg,13489.4802,-3560.3302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,石原歯科医院,兵庫県養父市八鹿町八鹿１８０３,歯科,,,9" xlink:title="石原歯科医院" transform="ref(svg,13477.1513,-3540.5538)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西村歯科医院,兵庫県養父市八鹿町八鹿５３４-１,歯科,,,9" xlink:title="西村歯科医院" transform="ref(svg,13477.5236,-3540.8347)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,養父市国民健康保険大屋歯科診療所,兵庫県養父市大屋町加保６７８-１,歯科,,,9" xlink:title="養父市国民健康保険大屋歯科診療所" transform="ref(svg,13466.8193,-3533.4753)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,関宮歯科診療所,兵庫県養父市関宮５８４,歯科,,,9" xlink:title="関宮歯科診療所" transform="ref(svg,13464.3127,-3537.6525)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科,兵庫県養父市八鹿町八鹿１５７７,歯科,,,9" xlink:title="井上歯科" transform="ref(svg,13476.9882,-3540.232)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科医院,兵庫県養父市字上箇スワ田１６７-１６,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="橋本歯科医院" transform="ref(svg,13477.9651,-3538.3217)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,養父市立養父歯科診療所,兵庫県養父市上野３６０-１,歯科,,,9" xlink:title="養父市立養父歯科診療所" transform="ref(svg,13477.9556,-3537.7054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとし歯科医院,兵庫県養父市八鹿町八鹿１２６４-１１,歯科,,,9" xlink:title="さとし歯科医院" transform="ref(svg,13476.4338,-3540.2554)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上田歯科医院,兵庫県朝来市生野町口銀谷５９５-６,歯科　小児歯科,,,9" xlink:title="上田歯科医院" transform="ref(svg,13479.2119,-3516.7054)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,奥藤歯科医院,兵庫県朝来市和田山町東谷１８８-４,歯科,,,9" xlink:title="奥藤歯科医院" transform="ref(svg,13485.1009,-3534.0763)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,芦沢歯科医院,兵庫県朝来市和田山町和田山７０の１,歯科　矯正歯科　小児歯科,,,9" xlink:title="芦沢歯科医院" transform="ref(svg,13485.6633,-3533.9281)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,安逹歯科医院,兵庫県朝来市和田山町寺谷６９３,歯科,,,9" xlink:title="安逹歯科医院" transform="ref(svg,13485.4642,-3534.0314)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,杉野歯科医院,兵庫県朝来市新井１６８-７,歯科,,,9" xlink:title="杉野歯科医院" transform="ref(svg,13479.6487,-3524.4663)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,田中歯科医院,兵庫県朝来市和田山町和田山３８８-２,歯科,,,9" xlink:title="田中歯科医院" transform="ref(svg,13485.6273,-3533.6457)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,もりもと歯科クリニック,兵庫県朝来市和田山町林垣字若宮１６１-２,歯科　矯正歯科,,,9" xlink:title="もりもと歯科クリニック" transform="ref(svg,13484.1127,-3535.5968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おざき歯科,兵庫県朝来市和田山町土田４５３-３,歯科,,,9" xlink:title="おざき歯科" transform="ref(svg,13483.9937,-3534.4839)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,服部歯科クリニック,兵庫県朝来市和田山町寺谷４１６-４,歯科,,,9" xlink:title="服部歯科クリニック" transform="ref(svg,13484.6939,-3534.5344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえがき歯科医院,兵庫県朝来市和田山町玉置８３２-１,歯科　小児歯科,,,9" xlink:title="うえがき歯科医院" transform="ref(svg,13486.3106,-3533.3965)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）立志会あきた歯科医院,兵庫県朝来市石田７３０,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）立志会あきた歯科医院" transform="ref(svg,13480.9987,-3526.0153)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,岡歯科医院,兵庫県朝来市山東町楽音寺７１-１,歯科　歯科口腔外科,,,9" xlink:title="岡歯科医院" transform="ref(svg,13488.3601,-3531.1096)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河本歯科医院,兵庫県朝来市新井１２９,歯科,,,9" xlink:title="河本歯科医院" transform="ref(svg,13479.9969,-3524.583)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かみや歯科医院,兵庫県朝来市和田山町法興寺１３９-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かみや歯科医院" transform="ref(svg,13485.6795,-3532.6441)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,上田歯科クリニック,兵庫県朝来市山東町矢名瀬町８６９-２,歯科　小児歯科,,,9" xlink:title="上田歯科クリニック" transform="ref(svg,13488.2205,-3531.7422)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タキノ歯科医院,兵庫県朝来市山東町矢名瀬町６２９,歯科,,,9" xlink:title="タキノ歯科医院" transform="ref(svg,13488.4831,-3531.6872)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,武田歯科医院,兵庫県豊岡市中央町９-３７,歯科,,,9" xlink:title="武田歯科医院" transform="ref(svg,13482.1811,-3554.3221)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,澤田歯科医院,兵庫県豊岡市千代田町９-４１,歯科,,,9" xlink:title="澤田歯科医院" transform="ref(svg,13481.7844,-3554.414)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福田歯科医院,兵庫県豊岡市大手町２-４,歯科,,,9" xlink:title="福田歯科医院" transform="ref(svg,13481.5178,-3554.3377)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河原歯科,兵庫県豊岡市城崎町桃島１２９２-６,歯科　矯正歯科,,,9" xlink:title="河原歯科" transform="ref(svg,13481.6804,-3563.2101)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,蔵野歯科医院,兵庫県美方郡香美町香住区若松５３２,歯科,,,9" xlink:title="蔵野歯科医院" transform="ref(svg,13463.4431,-3564.3116)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金子歯科,兵庫県豊岡市日高町国分寺堂の前６６５-２,歯科,,,9" xlink:title="金子歯科" transform="ref(svg,13477.3072,-3547.1908)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,砂治歯科医院,兵庫県豊岡市出石町柳４６,歯科,,,9" xlink:title="砂治歯科医院" transform="ref(svg,13487.1516,-3546.3718)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,淀歯科診療所,兵庫県豊岡市出石町柳３１,歯科,,,9" xlink:title="淀歯科診療所" transform="ref(svg,13487.1557,-3546.302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中西歯科中山診療所,兵庫県豊岡市但東町中山字宮の上８３３-２,歯科,,,9" xlink:title="中西歯科中山診療所" transform="ref(svg,13499.4424,-3549.7313)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しのべ歯科医院,兵庫県豊岡市立野２００-７,歯科,,,9" xlink:title="しのべ歯科医院" transform="ref(svg,13483.1694,-3554.4476)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,砂治歯科医院,兵庫県豊岡市昭和町１-３５,歯科　矯正歯科　小児歯科,,,9" xlink:title="砂治歯科医院" transform="ref(svg,13482,-3553.4303)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きづき歯科医院,兵庫県豊岡市寿町１-３１,歯科,,,9" xlink:title="きづき歯科医院" transform="ref(svg,13481.8851,-3554.5528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,タケダ歯科,兵庫県豊岡市中陰字長谷１９０-６,歯科,,,9" xlink:title="タケダ歯科" transform="ref(svg,13480.5838,-3555.2439)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小幡歯科医院,兵庫県豊岡市竹野町竹野２４４６-４,歯科,,,9" xlink:title="小幡歯科医院" transform="ref(svg,13476.2728,-3565.386)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西村歯科医院,兵庫県美方郡香美町香住区七日市１２-３,歯科,,,9" xlink:title="西村歯科医院" transform="ref(svg,13462.3527,-3563.6541)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山科歯科医院,兵庫県豊岡市日高町国分寺８７８-８,歯科,,,9" xlink:title="山科歯科医院" transform="ref(svg,13477.3603,-3547.0213)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,古田歯科医院,兵庫県豊岡市日高町国分寺４００-１０,歯科　歯科口腔外科,,,9" xlink:title="古田歯科医院" transform="ref(svg,13477.5082,-3547.0086)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あかまつ歯科医院,兵庫県豊岡市日高町岩中字荒田６４３-６,歯科,,,9" xlink:title="あかまつ歯科医院" transform="ref(svg,13476.869,-3546.7378)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きんどう歯科医院,兵庫県豊岡市出石町田結庄９１,歯科,,,9" xlink:title="きんどう歯科医院" transform="ref(svg,13487.1969,-3546.3405)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やすふく歯科医院,兵庫県豊岡市塩津町２-１６,歯科　矯正歯科,,,9" xlink:title="やすふく歯科医院" transform="ref(svg,13482.6656,-3553.4223)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,まつもと歯科医院,兵庫県豊岡市江本５２３-１,歯科,,,9" xlink:title="まつもと歯科医院" transform="ref(svg,13483.3996,-3552.7858)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中澤歯科クリニック,兵庫県豊岡市出石町町分３９０-６,歯科,,,9" xlink:title="中澤歯科クリニック" transform="ref(svg,13487.1545,-3546.8322)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,どい歯科医院,兵庫県美方郡香美町香住区沖浦５１４-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="どい歯科医院" transform="ref(svg,13465.537,-3565.7979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,黒住歯科クリニック,兵庫県豊岡市京町５-４３,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="黒住歯科クリニック" transform="ref(svg,13482.1344,-3554.1034)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今井歯科医院,兵庫県豊岡市城南町４-１５,歯科,,,9" xlink:title="今井歯科医院" transform="ref(svg,13482.4613,-3553.8587)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かわばた歯科医院,兵庫県美方郡香美町香住区若松塩入５５７-１,歯科　歯科口腔外科,,,9" xlink:title="かわばた歯科医院" transform="ref(svg,13463.4686,-3564.5454)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,由良歯科医院,兵庫県豊岡市日高町夏栗４８８,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="由良歯科医院" transform="ref(svg,13474.9755,-3546.4456)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あだち歯科クリニック,兵庫県豊岡市大手町８-５,歯科　小児歯科,,,9" xlink:title="あだち歯科クリニック" transform="ref(svg,13481.4872,-3554.6092)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ともえ歯科,兵庫県豊岡市若松町７-１１,歯科　小児歯科,,,9" xlink:title="ともえ歯科" transform="ref(svg,13481.4393,-3554.9197)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うちやま歯科,兵庫県豊岡市竹野町竹野１５６９-１,歯科,,,9" xlink:title="うちやま歯科" transform="ref(svg,13475.8025,-3565.1607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あぼ歯科医院,兵庫県豊岡市高屋八坂通９６８,歯科,,,9" xlink:title="あぼ歯科医院" transform="ref(svg,13481.0773,-3554.4933)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,金下歯科医院,兵庫県豊岡市戸牧２９５-５,歯科　歯科口腔外科　矯正歯科,,,9" xlink:title="金下歯科医院" transform="ref(svg,13480.8803,-3553.5528)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中村歯科クリニック,兵庫県豊岡市小田井町１７-１０,歯科　小児歯科　矯正歯科,,,9" xlink:title="中村歯科クリニック" transform="ref(svg,13482.4566,-3554.9064)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おはら歯科クリニック,兵庫県豊岡市寿町１１-３,歯科　小児歯科,,,9" xlink:title="おはら歯科クリニック" transform="ref(svg,13481.7575,-3554.7293)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまだ歯科医院,兵庫県美方郡香美町香住区七日市字天神前１１５-３,歯科　小児歯科,,,9" xlink:title="やまだ歯科医院" transform="ref(svg,13461.9913,-3563.6682)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やすこ歯科医院,兵庫県美方郡新温泉町七釜字板関１０８-１,歯科,,,9" xlink:title="やすこ歯科医院" transform="ref(svg,13446.8163,-3561.3002)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かどの歯科医院,兵庫県豊岡市大手町４-５,歯科,,,9" xlink:title="かどの歯科医院" transform="ref(svg,13481.4921,-3554.4551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はっとり歯科クリニック,兵庫県豊岡市下陰５７５-１,歯科　歯科口腔外科　小児歯科　矯正歯科,,,9" xlink:title="はっとり歯科クリニック" transform="ref(svg,13480.4747,-3555.4521)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うおさき歯科クリニック,兵庫県豊岡市出石町町分３９１-８,歯科　歯科口腔外科　小児歯科,,,9" xlink:title="うおさき歯科クリニック" transform="ref(svg,13487.1723,-3546.7751)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松岡歯科医院,兵庫県美方郡新温泉町浜坂１９２０-１,歯科,,,9" xlink:title="松岡歯科医院" transform="ref(svg,13445.1521,-3562.2603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,兵庫県美方郡新温泉町浜坂１１８３-３,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13445.355,-3562.3736)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,香美町国民健康保険兎塚歯科診療所,兵庫県美方郡香美町村岡区福岡字鳥居ノ本１１１３,歯科,,,9" xlink:title="香美町国民健康保険兎塚歯科診療所" transform="ref(svg,13460.001,-3541.8289)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,香美町国民健康保険川会歯科診療所,兵庫県美方郡香美町村岡区入江７１７-３,歯科,,,9" xlink:title="香美町国民健康保険川会歯科診療所" transform="ref(svg,13457.3095,-3550.1776)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,新温泉町国民健康保険歯科診療所,兵庫県美方郡新温泉町湯９３０-１,歯科　歯科口腔外科,,,9" xlink:title="新温泉町国民健康保険歯科診療所" transform="ref(svg,13448.6524,-3555.3187)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,伊藤歯科医院,兵庫県美方郡新温泉町井土字米持前８,歯科,,,9" xlink:title="伊藤歯科医院" transform="ref(svg,13448.2604,-3556.6396)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さかい歯科医院,兵庫県美方郡新温泉町三谷１４４-１,歯科,,,9" xlink:title="さかい歯科医院" transform="ref(svg,13446.2097,-3562.0915)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森田歯科医院,兵庫県美方郡新温泉町湯９００-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="森田歯科医院" transform="ref(svg,13448.6863,-3554.9877)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,垣内歯科医院,兵庫県宍粟市波賀町上野８３１-９,歯科,,,9" xlink:title="垣内歯科医院" transform="ref(svg,13454.439,-3516.4979)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,きよゆきデンタルクリニック,兵庫県丹波市青垣町市原８７３,歯科　小児歯科,,,9" xlink:title="きよゆきデンタルクリニック" transform="ref(svg,13499.6842,-3524.8391)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ララ歯科クリニック,鳥取県東伯郡三朝町大瀬１０７６-４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ララ歯科クリニック" transform="ref(svg,13386.4758,-3540.7561)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（一社）鳥取県中部歯科医師会口腔衛生センター,鳥取県倉吉市東巌城町６８,歯科,,,9" xlink:title="（一社）鳥取県中部歯科医師会口腔衛生センター" transform="ref(svg,13384.4931,-3543.6643)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あけしま歯科,鳥取県倉吉市幸町５０７-２０,歯科,,,9" xlink:title="あけしま歯科" transform="ref(svg,13383.5852,-3543.5287)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大月歯科医院,鳥取県倉吉市上井３３３-１６,歯科,,,9" xlink:title="大月歯科医院" transform="ref(svg,13384.6756,-3545.502)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）岡本歯科医院福山診療所,鳥取県倉吉市福山１３５,歯科,,,9" xlink:title="（医）岡本歯科医院福山診療所" transform="ref(svg,13378.5232,-3539.4193)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かどわき歯科クリニック,鳥取県倉吉市上井３６４-５,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かどわき歯科クリニック" transform="ref(svg,13384.5156,-3545.113)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,河崎歯科医院,鳥取県倉吉市福庭町２-１３,歯科,,,9" xlink:title="河崎歯科医院" transform="ref(svg,13384.6538,-3546.3701)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,川西歯科医院,鳥取県倉吉市西倉吉町２１,歯科,,,9" xlink:title="川西歯科医院" transform="ref(svg,13380.3808,-3542.8612)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）木本歯科医院,鳥取県倉吉市昭和町１-１７４,歯科,,,9" xlink:title="（医）木本歯科医院" transform="ref(svg,13383.558,-3543.3184)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）くまの歯科医院,鳥取県倉吉市西町２７０２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）くまの歯科医院" transform="ref(svg,13382.0442,-3543.2161)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桑名歯科医院,鳥取県倉吉市宮川町１７７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="桑名歯科医院" transform="ref(svg,13383.143,-3543.2429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しばた歯科,鳥取県倉吉市清谷町１-８-１,歯科　小児歯科,,,9" xlink:title="しばた歯科" transform="ref(svg,13384.6981,-3547.1022)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷口歯科医院,鳥取県倉吉市昭和町１-２１,歯科,,,9" xlink:title="谷口歯科医院" transform="ref(svg,13383.7793,-3543.3521)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ちか歯科クリニック,鳥取県倉吉市西福守町５９２-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ちか歯科クリニック" transform="ref(svg,13380.4017,-3543.1271)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,花池デンタルクリニック,鳥取県倉吉市生田３５６-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="花池デンタルクリニック" transform="ref(svg,13380.5754,-3541.8292)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,樋口歯科医院,鳥取県倉吉市明治町２-４３-１,歯科,,,9" xlink:title="樋口歯科医院" transform="ref(svg,13382.3709,-3543.4876)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ひまわり歯科医院,鳥取県倉吉市井手畑６９-３,歯科,,,9" xlink:title="ひまわり歯科医院" transform="ref(svg,13383.3585,-3546.9087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）福島歯科医院,鳥取県倉吉市伊木２４１-１３,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）福島歯科医院" transform="ref(svg,13384.9554,-3544.4778)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松本歯科医院,鳥取県倉吉市住吉町５８,歯科,,,9" xlink:title="松本歯科医院" transform="ref(svg,13383.3458,-3543.1727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,三代歯科医院,鳥取県倉吉市上井町２-８-２１,歯科,,,9" xlink:title="三代歯科医院" transform="ref(svg,13384.7902,-3545.2968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）森本歯科医院,鳥取県倉吉市明治町１０３１-２６,歯科,,,9" xlink:title="（医）森本歯科医院" transform="ref(svg,13382.3888,-3543.348)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）山中歯科医院,鳥取県倉吉市東巌城町１７０,歯科,,,9" xlink:title="（医）山中歯科医院" transform="ref(svg,13384.3044,-3543.5738)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,やまもと歯科医院,鳥取県倉吉市東町３５１-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="やまもと歯科医院" transform="ref(svg,13382.8785,-3543.0832)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）吉井歯科医院,鳥取県倉吉市東巌城町１０１,歯科,,,9" xlink:title="（医）吉井歯科医院" transform="ref(svg,13384.4439,-3543.8271)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くらしげ歯科クリニック,鳥取県東伯郡湯梨浜町田後２２１-６,歯科　矯正歯科　小児歯科,,,9" xlink:title="くらしげ歯科クリニック" transform="ref(svg,13385.6854,-3548.3767)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷口歯科医院,鳥取県東伯郡湯梨浜町久留１８１,歯科,,,9" xlink:title="谷口歯科医院" transform="ref(svg,13387.3013,-3549.6247)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さくら歯科診療所,鳥取県東伯郡湯梨浜町泊１２０４-１,歯科,,,9" xlink:title="さくら歯科診療所" transform="ref(svg,13394.4929,-3551.4092)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,あだち歯科医院,鳥取県東伯郡湯梨浜町中興寺３５８-１,歯科,,,9" xlink:title="あだち歯科医院" transform="ref(svg,13390.5564,-3547.0113)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,音田歯科医院,鳥取県東伯郡湯梨浜町旭７７-２,歯科,,,9" xlink:title="音田歯科医院" transform="ref(svg,13389.9643,-3546.8275)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ヤチグチ歯科医院,鳥取県東伯郡三朝町大瀬１１９５-３,歯科,,,9" xlink:title="ヤチグチ歯科医院" transform="ref(svg,13386.2071,-3540.7681)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,小川歯科医院,鳥取県倉吉市関金町関金宿２４６-１,歯科,,,9" xlink:title="小川歯科医院" transform="ref(svg,13375.9007,-3536.6837)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,仲歯科医院,鳥取県東伯郡北栄町由良宿１１４４-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="仲歯科医院" transform="ref(svg,13375.5067,-3549.3379)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科医院,鳥取県東伯郡北栄町由良宿５５２,歯科,,,9" xlink:title="橋本歯科医院" transform="ref(svg,13375.6761,-3549.1615)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）石亀歯科医院,鳥取県東伯郡琴浦町徳万４９１-７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）石亀歯科医院" transform="ref(svg,13369.3148,-3550.1843)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）岡本歯科医院浦安診療所,鳥取県東伯郡琴浦町大字浦安１０２-２,歯科,,,9" xlink:title="（医）岡本歯科医院浦安診療所" transform="ref(svg,13369.4334,-3549.2551)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ながれ歯科クリニック,鳥取県東伯郡琴浦町赤碕１８００-４０,歯科　小児歯科,,,9" xlink:title="ながれ歯科クリニック" transform="ref(svg,13363.6884,-3550.7988)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,浜吉歯科クリニック,鳥取県倉吉市清谷町１-１９３-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="浜吉歯科クリニック" transform="ref(svg,13385.0942,-3547.5364)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くにたけ歯科クリニック,鳥取県東伯郡琴浦町八橋７９-９,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="くにたけ歯科クリニック" transform="ref(svg,13368.2551,-3550.2559)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,船木歯科クリニック,鳥取県東伯郡琴浦町赤碕１０８７-９,歯科　小児歯科,,,9" xlink:title="船木歯科クリニック" transform="ref(svg,13363.5059,-3551.3902)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うつぶき歯科クリニック,鳥取県倉吉市鍛冶町１-２９７１-５０,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="うつぶき歯科クリニック" transform="ref(svg,13381.5562,-3542.8607)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,たけ歯科医院,鳥取県倉吉市駄経寺町２-４０-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="たけ歯科医院" transform="ref(svg,13383.7935,-3542.9599)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,桑本歯科,鳥取県東伯郡琴浦町保５２,歯科,,,9" xlink:title="桑本歯科" transform="ref(svg,13369.0562,-3549.8006)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,藤井政雄記念病院附属歯科クリニック,鳥取県倉吉市山根４３-１,歯科　歯科口腔外科,,,9" xlink:title="藤井政雄記念病院附属歯科クリニック" transform="ref(svg,13385.6393,-3545.0722)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,パープル歯科クリニック,鳥取県倉吉市山根５４０-１パープルビル２階１号室,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="パープル歯科クリニック" transform="ref(svg,13384.8774,-3544.766)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,えりぃ歯科クリニック,鳥取県東伯郡北栄町弓原２９３-２,歯科　小児歯科,,,9" xlink:title="えりぃ歯科クリニック" transform="ref(svg,13381.2202,-3548.2533)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）秋山歯科・矯正歯科医院,鳥取県鳥取市南町４０１,歯科　矯正歯科,,,9" xlink:title="（医）秋山歯科・矯正歯科医院" transform="ref(svg,13422.6727,-3549.9929)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,アルファ矯正歯科,鳥取県鳥取市東品治町１１１-１シャミネ鳥取１Ｆ,矯正歯科,,,9" xlink:title="アルファ矯正歯科" transform="ref(svg,13422.4051,-3549.4236)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,池田歯科医院,鳥取県鳥取市湖山町西２-１１０,歯科,,,9" xlink:title="池田歯科医院" transform="ref(svg,13416.1811,-3552.2352)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）因幡会いしかわ歯科,鳥取県鳥取市千代水３-１,歯科,,,9" xlink:title="（医）因幡会いしかわ歯科" transform="ref(svg,13420.2011,-3551.6931)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井尻歯科医院,鳥取県鳥取市雲山１１０-３８,歯科,,,9" xlink:title="井尻歯科医院" transform="ref(svg,13423.8485,-3547.9652)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,イズモト歯科医院,鳥取県鳥取市職人町２５,歯科　矯正歯科,,,9" xlink:title="イズモト歯科医院" transform="ref(svg,13423.3043,-3549.9901)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いながき歯科医院,鳥取県鳥取市商栄町３９８-８,歯科,,,9" xlink:title="いながき歯科医院" transform="ref(svg,13420.6616,-3551.7305)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今田歯科医院,鳥取県鳥取市吉方温泉３-１６８,歯科,,,9" xlink:title="今田歯科医院" transform="ref(svg,13423.53,-3549.2527)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今田歯科岩倉医院,鳥取県鳥取市岩倉４５１-１,歯科,,,9" xlink:title="今田歯科岩倉医院" transform="ref(svg,13425.77,-3548.4609)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,今宮歯科クリニック,鳥取県鳥取市湖山町北６-３３０-１６,歯科,,,9" xlink:title="今宮歯科クリニック" transform="ref(svg,13418.3586,-3552.0036)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いわい歯科,鳥取県鳥取市朝月２１-４,歯科　小児歯科,,,9" xlink:title="いわい歯科" transform="ref(svg,13420.3225,-3546.3764)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,うえた歯科,鳥取県鳥取市江津３７５-４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="うえた歯科" transform="ref(svg,13421.5215,-3552.3738)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）上田歯科医院,鳥取県鳥取市西町１-４５４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）上田歯科医院" transform="ref(svg,13423.5969,-3550.4337)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,扇町中村歯科医院,鳥取県鳥取市扇町３４-１,歯科,,,9" xlink:title="扇町中村歯科医院" transform="ref(svg,13422.5644,-3549.0831)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大草歯科医院,鳥取県鳥取市桜谷７９-３,歯科,,,9" xlink:title="大草歯科医院" transform="ref(svg,13425.0466,-3547.2344)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,太田歯科医院,鳥取県鳥取市吉方温泉３-８５２-８,歯科,,,9" xlink:title="太田歯科医院" transform="ref(svg,13423.2933,-3549.2249)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,おおもり歯科クリニック,鳥取県鳥取市南隈５７１,歯科,,,9" xlink:title="おおもり歯科クリニック" transform="ref(svg,13419.9878,-3552.1799)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荻原歯科医院,鳥取県鳥取市元町２２７,歯科,,,9" xlink:title="荻原歯科医院" transform="ref(svg,13422.9262,-3549.9449)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,尾崎歯科クリニック,鳥取県鳥取市末広温泉町６０１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="尾崎歯科クリニック" transform="ref(svg,13423.0851,-3549.4438)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,筧歯科医院,鳥取県鳥取市吉方町２-５５１,歯科,,,9" xlink:title="筧歯科医院" transform="ref(svg,13423.9778,-3549.2046)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,カスヤ歯科医院,鳥取県鳥取市若桜町５１,歯科,,,9" xlink:title="カスヤ歯科医院" transform="ref(svg,13423.4052,-3549.9723)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,門下歯科医院,鳥取県鳥取市吉方温泉３-６６２,歯科,,,9" xlink:title="門下歯科医院" transform="ref(svg,13423.5722,-3549.0939)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,かのう歯科医院,鳥取県鳥取市湖山町東１-２５１-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="かのう歯科医院" transform="ref(svg,13418.4565,-3551.571)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）河原歯科クリニック,鳥取県鳥取市富安２-１５９久本ビル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）河原歯科クリニック" transform="ref(svg,13422.7206,-3549.2591)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,キシノ歯科医院,鳥取県鳥取市吉成７７９-４０,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="キシノ歯科医院" transform="ref(svg,13421.9038,-3548.0504)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,君野歯科医院,鳥取県鳥取市田園町３-１７３,歯科,,,9" xlink:title="君野歯科医院" transform="ref(svg,13422.5559,-3551.3511)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,休日急患歯科診療所,鳥取県鳥取市富安２-８４,歯科,,,9" xlink:title="休日急患歯科診療所" transform="ref(svg,13422.9166,-3549.0098)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,くすだ矯正歯科医院,鳥取県鳥取市秋里１２８４,矯正歯科　歯科　小児歯科,,,9" xlink:title="くすだ矯正歯科医院" transform="ref(svg,13421.494,-3552.0172)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,こはま歯科医院,鳥取県鳥取市宮長３-３,歯科,,,9" xlink:title="こはま歯科医院" transform="ref(svg,13422.5868,-3547.7397)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,後藤歯科医院,鳥取県鳥取市扇町５８ナカヤビル３Ｆ,歯科,,,9" xlink:title="後藤歯科医院" transform="ref(svg,13422.4476,-3549.1302)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂口歯科医院,鳥取県鳥取市元魚町２-１１９,歯科,,,9" xlink:title="坂口歯科医院" transform="ref(svg,13422.9256,-3550.1747)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,坂本歯科医院,鳥取県鳥取市今町１-１３４,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="坂本歯科医院" transform="ref(svg,13422.5201,-3549.6891)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）佐々木歯科医院,鳥取県鳥取市商栄町１５６-３,歯科,,,9" xlink:title="（医）佐々木歯科医院" transform="ref(svg,13420.8096,-3551.3382)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとう歯科クリニック,鳥取県鳥取市南吉方１-６３-１,歯科,,,9" xlink:title="さとう歯科クリニック" transform="ref(svg,13423.1494,-3549.0603)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,しみず歯科クリニック,鳥取県鳥取市叶２９３-２２,歯科　矯正歯科　小児歯科,,,9" xlink:title="しみず歯科クリニック" transform="ref(svg,13421.8604,-3547.4677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,潤歯科医院,鳥取県鳥取市栄町２０７日本観光センタービル２Ｆ,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="潤歯科医院" transform="ref(svg,13422.9798,-3549.772)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,せいきょう歯科クリニック,鳥取県鳥取市末広温泉町５６６,歯科　矯正歯科　小児歯科,,,9" xlink:title="せいきょう歯科クリニック" transform="ref(svg,13423.2439,-3549.4156)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,多名部歯科クリニック,鳥取県鳥取市永楽温泉町１６０日交駅前ビル,歯科,,,9" xlink:title="多名部歯科クリニック" transform="ref(svg,13422.7353,-3549.4744)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）谷本歯科,鳥取県鳥取市湖山町東５-５０４-１８,歯科　矯正歯科　歯科口腔外科,,,9" xlink:title="（医）谷本歯科" transform="ref(svg,13418.6805,-3551.4315)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）玉木歯科医院,鳥取県鳥取市若葉台南６-２３-３０,歯科,,,9" xlink:title="（医）玉木歯科医院" transform="ref(svg,13426.1097,-3544.4838)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,戸-ｱ歯科医院,鳥取県鳥取市桂木２４４,歯科　矯正歯科,,,9" xlink:title="戸-ｱ歯科医院" transform="ref(svg,13424.9228,-3546.0644)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鳥取県口腔総合保健センター,鳥取県鳥取市吉方温泉３-７５１-５,歯科,,,9" xlink:title="鳥取県口腔総合保健センター" transform="ref(svg,13423.3656,-3549.1639)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,豊川歯科医院,鳥取県鳥取市古海７１６-１,歯科,,,9" xlink:title="豊川歯科医院" transform="ref(svg,13420.8911,-3549.9923)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）恵聡会中尾歯科医院,鳥取県鳥取市青葉町２-１０５,歯科　歯科口腔外科,,,9" xlink:title="（医）恵聡会中尾歯科医院" transform="ref(svg,13422.6031,-3551.381)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ナカムラ歯科医院,鳥取県鳥取市大覚寺１７６-１２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="ナカムラ歯科医院" transform="ref(svg,13423.3201,-3548.0341)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）中村歯科クリニック,鳥取県鳥取市戎町４５３,歯科,,,9" xlink:title="（医）中村歯科クリニック" transform="ref(svg,13423.1909,-3549.8356)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,なわだ歯科医院,鳥取県鳥取市賀露町南１-１７-２１,歯科,,,9" xlink:title="なわだ歯科医院" transform="ref(svg,13418.6319,-3552.4413)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西尾歯科,鳥取県鳥取市富安１-５-２,歯科,,,9" xlink:title="西尾歯科" transform="ref(svg,13422.9032,-3548.8524)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ハヤシ歯科,鳥取県鳥取市片原２-１１８,歯科,,,9" xlink:title="ハヤシ歯科" transform="ref(svg,13423.2438,-3550.2771)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,はやし歯科クリニック,鳥取県鳥取市東品治町１１４,歯科,,,9" xlink:title="はやし歯科クリニック" transform="ref(svg,13422.5384,-3549.3685)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,平吾歯科クリニック,鳥取県鳥取市桜谷６６１,歯科,,,9" xlink:title="平吾歯科クリニック" transform="ref(svg,13424.5624,-3547.2327)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）ひろ歯科クリニック,鳥取県鳥取市覚寺４７-７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）ひろ歯科クリニック" transform="ref(svg,13422.8487,-3552.2261)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）広田歯科医院,鳥取県鳥取市湖山町南２-１４７-２０,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）広田歯科医院" transform="ref(svg,13418.2714,-3551.4056)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）福嶋歯科医院,鳥取県鳥取市栄町６０９加藤紙店ビル５Ｆ,歯科　矯正歯科,,,9" xlink:title="（医）福嶋歯科医院" transform="ref(svg,13422.7637,-3549.5761)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）堀内歯科医院,鳥取県鳥取市西品治８１７-５,歯科　小児歯科,,,9" xlink:title="（医）堀内歯科医院" transform="ref(svg,13422.2881,-3550.8113)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,本荘歯科医院,鳥取県鳥取市古海６７３-３,歯科,,,9" xlink:title="本荘歯科医院" transform="ref(svg,13420.8186,-3549.5717)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ますだ歯科医院,鳥取県鳥取市古海６５４-２,歯科　小児歯科,,,9" xlink:title="ますだ歯科医院" transform="ref(svg,13420.9221,-3549.7788)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松下歯科医院,鳥取県鳥取市栄町７６３メルヘンビル２Ｆ,歯科,,,9" xlink:title="松下歯科医院" transform="ref(svg,13422.8584,-3549.7148)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）松本歯科診療所,鳥取県鳥取市上魚町４９,歯科,,,9" xlink:title="（医）松本歯科診療所" transform="ref(svg,13423.458,-3550.0406)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,マブチ歯科医院,鳥取県鳥取市今町２-３０１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="マブチ歯科医院" transform="ref(svg,13422.4385,-3549.656)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,水口歯科クリニック,鳥取県鳥取市千代水４-１８丸信ビル２Ｆ,歯科,,,9" xlink:title="水口歯科クリニック" transform="ref(svg,13419.2287,-3551.4962)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みちだ歯科クリニック,鳥取県鳥取市田島７２２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="みちだ歯科クリニック" transform="ref(svg,13422.1678,-3551.0985)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,緑ヶ丘歯科クリニック,鳥取県鳥取市南安長３-２７-２,歯科　小児歯科,,,9" xlink:title="緑ヶ丘歯科クリニック" transform="ref(svg,13420.4075,-3550.7501)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）春陽会みなみ歯科医院,鳥取県鳥取市南吉方１-１０８-２,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）春陽会みなみ歯科医院" transform="ref(svg,13423.3134,-3548.8578)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,みはぎの歯科医院,鳥取県鳥取市美萩野１-１１８-１５,歯科,,,9" xlink:title="みはぎの歯科医院" transform="ref(svg,13413.9851,-3552.2514)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）宮-ｱ医院宮-ｱ歯科医院,鳥取県鳥取市吉成２-１４-３１,歯科,,,9" xlink:title="（医）宮-ｱ医院宮-ｱ歯科医院" transform="ref(svg,13422.6718,-3548.2856)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）向健会むかいね歯科医院,鳥取県鳥取市湖山町北２-１０７-２,歯科　小児歯科,,,9" xlink:title="（医）向健会むかいね歯科医院" transform="ref(svg,13417.4282,-3551.8451)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,森歯科医院,鳥取県鳥取市今町２-２２０,歯科,,,9" xlink:title="森歯科医院" transform="ref(svg,13422.5187,-3549.6385)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）八幡歯科医院,鳥取県鳥取市雲山２２５-２,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）八幡歯科医院" transform="ref(svg,13423.6514,-3547.7688)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山形歯科医院,鳥取県鳥取市松並町２-５２８-１,歯科,,,9" xlink:title="山形歯科医院" transform="ref(svg,13421.8448,-3551.8429)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山根歯科医院,鳥取県鳥取市東町３-２５８-１,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山根歯科医院" transform="ref(svg,13423.2877,-3550.7893)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,鳥取県鳥取市的場３-１３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13422.9199,-3547.5278)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山本歯科医院,鳥取県鳥取市扇町１２７,歯科,,,9" xlink:title="山本歯科医院" transform="ref(svg,13422.4457,-3549.2106)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,ゆむら歯科医院,鳥取県鳥取市湖山町南３-２１７,歯科,,,9" xlink:title="ゆむら歯科医院" transform="ref(svg,13418.1437,-3550.996)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしざわ歯科医院,鳥取県鳥取市南吉方３-５１８-１,歯科,,,9" xlink:title="よしざわ歯科医院" transform="ref(svg,13424.2031,-3548.7087)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,よしだ歯科医院,鳥取県鳥取市瓦町５０５,歯科　矯正歯科,,,9" xlink:title="よしだ歯科医院" transform="ref(svg,13422.7097,-3549.645)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）米沢歯科医院,鳥取県鳥取市大榎町１２-１１,歯科　小児歯科,,,9" xlink:title="（医）米沢歯科医院" transform="ref(svg,13423.8984,-3549.8813)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,涌島歯科湖山医院,鳥取県鳥取市湖山町北２-５６１,歯科,,,9" xlink:title="涌島歯科湖山医院" transform="ref(svg,13417.5053,-3552.2304)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,橋本歯科医院,鳥取県鳥取市国府町新通り３-３４８-１,歯科,,,9" xlink:title="橋本歯科医院" transform="ref(svg,13425.5458,-3548.0709)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）清水歯科医院,鳥取県岩美郡岩美町浦富１０３５-２,歯科,,,9" xlink:title="（医）清水歯科医院" transform="ref(svg,13433.413,-3557.4492)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,永美歯科医院,鳥取県岩美郡岩美町浦富１７１８-２,歯科,,,9" xlink:title="永美歯科医院" transform="ref(svg,13432.6645,-3558.5689)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井手野歯科医院,鳥取県鳥取市福部町海士３３５-１,歯科　矯正歯科,,,9" xlink:title="井手野歯科医院" transform="ref(svg,13427.7896,-3554.727)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,いなだ歯科医院,鳥取県鳥取市気高町新町３-８１,歯科,,,9" xlink:title="いなだ歯科医院" transform="ref(svg,13404.9982,-3551.2127)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）稲垣歯科医院,鳥取県鳥取市鹿野町鹿野１１８４-２,歯科,,,9" xlink:title="（医）稲垣歯科医院" transform="ref(svg,13406.487,-3546.3595)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,宮田歯科医院,鳥取県鳥取市青谷町青谷４０４３-１１,歯科,,,9" xlink:title="宮田歯科医院" transform="ref(svg,13399.5923,-3551.7405)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）吉田歯科医院,鳥取県鳥取市青谷町青谷３９３５,歯科,,,9" xlink:title="（医）吉田歯科医院" transform="ref(svg,13399.5041,-3552.0366)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,井上歯科医院,鳥取県八頭郡八頭町郡家６４７,歯科　矯正歯科　小児歯科,,,9" xlink:title="井上歯科医院" transform="ref(svg,13425.1731,-3541.2802)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,植田歯科医院,鳥取県八頭郡八頭町郡家２９-３,歯科　矯正歯科,,,9" xlink:title="植田歯科医院" transform="ref(svg,13425.5306,-3541.2968)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,谷尾歯科医院,鳥取県八頭郡八頭町郡家５９０-８,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="谷尾歯科医院" transform="ref(svg,13424.9209,-3540.8894)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）岸本歯科医院,鳥取県八頭郡八頭町福本２-１１,歯科,,,9" xlink:title="（医）岸本歯科医院" transform="ref(svg,13425.2247,-3541.6348)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,芦津歯科医院,鳥取県八頭郡八頭町船岡３８５,歯科,,,9" xlink:title="芦津歯科医院" transform="ref(svg,13424.8092,-3539.3545)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）前田歯科医院,鳥取県鳥取市河原町渡一木２６１-２,歯科,,,9" xlink:title="（医）前田歯科医院" transform="ref(svg,13420.1865,-3540.0008)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山田歯科医院,鳥取県鳥取市河原町佐貫７５６,歯科,,,9" xlink:title="山田歯科医院" transform="ref(svg,13419.9283,-3537.677)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,荻原歯科医院,鳥取県鳥取市河原町長瀬４３-３,歯科,,,9" xlink:title="荻原歯科医院" transform="ref(svg,13419.9626,-3540.9529)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）谷口歯科医院,鳥取県八頭郡八頭町大字北山字榎ヶ坪９６-３７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="（医）谷口歯科医院" transform="ref(svg,13435.5553,-3536.1016)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）友愛会入江歯科医院,鳥取県八頭郡八頭町安井宿１１０２-１,歯科,,,9" xlink:title="（医）友愛会入江歯科医院" transform="ref(svg,13429.9826,-3537.593)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,中尾歯科医院,鳥取県八頭郡若桜町若桜２７７,歯科　矯正歯科　小児歯科　歯科口腔外科,,,9" xlink:title="中尾歯科医院" transform="ref(svg,13439.8447,-3534.2638)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,福田歯科医院,鳥取県八頭郡若桜町若桜３９８-１,歯科,,,9" xlink:title="福田歯科医院" transform="ref(svg,13439.69,-3534.4538)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さとみ歯科クリニック,鳥取県鳥取市用瀬町鷹狩７６７-４,歯科　小児歯科,,,9" xlink:title="さとみ歯科クリニック" transform="ref(svg,13420.4826,-3535.3953)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鳥取市佐治町国民健康保健診療所・歯科,鳥取県鳥取市佐治町加瀬木２１７１-２,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="鳥取市佐治町国民健康保健診療所・歯科" transform="ref(svg,13411.85,-3533.0598)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（医）伊藤歯科医院智頭医院,鳥取県八頭郡智頭町智頭１７０８-３,歯科　矯正歯科　小児歯科,,,9" xlink:title="（医）伊藤歯科医院智頭医院" transform="ref(svg,13422.8342,-3526.7436)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,さわだ歯科医院,鳥取県鳥取市的場２-８６-１タウンアローズ８６-１０４,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="さわだ歯科医院" transform="ref(svg,13423.0962,-3547.3308)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,松岡歯科,鳥取県鳥取市国府町分上１-１０８-１,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="松岡歯科" transform="ref(svg,13426.0776,-3548.1735)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,瑞星歯科医院,鳥取県八頭郡智頭町智頭１８１１-４２,歯科,,,9" xlink:title="瑞星歯科医院" transform="ref(svg,13422.6109,-3526.565)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,すどう歯科医院,鳥取県鳥取市気高町北浜２-２５,歯科,,,9" xlink:title="すどう歯科医院" transform="ref(svg,13404.6161,-3551.3683)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,北浜歯科クリニック,鳥取県鳥取市気高町北浜３-３,歯科　小児歯科　歯科口腔外科,,,9" xlink:title="北浜歯科クリニック" transform="ref(svg,13404.9773,-3551.3699)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,大國歯科医院,岡山県真庭市蒜山上福田６９０-３,歯科,,,9" xlink:title="大國歯科医院" transform="ref(svg,13364.231,-3527.9303)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,西尾歯科医院,岡山県真庭市蒜山中福田２０５,歯科　矯正歯科　小児歯科,,,9" xlink:title="西尾歯科医院" transform="ref(svg,13365.4184,-3527.8079)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,吉田歯科医院,岡山県真庭市豊栄９９２-２,歯科,,,9" xlink:title="吉田歯科医院" transform="ref(svg,13372.8417,-3517.8088)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,加茂歯科医院,岡山県津山市加茂町桑原７０-１,歯科,,,9" xlink:title="加茂歯科医院" transform="ref(svg,13405.5662,-3517.2474)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鏡野町国民健康保険上齋原歯科診療所,岡山県苫田郡鏡野町上齋原４８０-１,歯科,,,9" xlink:title="鏡野町国民健康保険上齋原歯科診療所" transform="ref(svg,13392.5897,-3527.8836)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鏡野町国民健康保険富歯科診療所,岡山県苫田郡鏡野町富西谷１１９,歯科,,,9" xlink:title="鏡野町国民健康保険富歯科診療所" transform="ref(svg,13384.3431,-3515.9547)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,（独）日本原子力研究開発機構人形峠環境技術センター歯科診療室,岡山県苫田郡鏡野町上齋原１５５０,歯科,,,9" xlink:title="（独）日本原子力研究開発機構人形峠環境技術センター歯科診療室" transform="ref(svg,13393.2938,-3531.3853)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,鏡野町国民健康保険奥津歯科診療所,岡山県苫田郡鏡野町女原９０-１,歯科,,,9" xlink:title="鏡野町国民健康保険奥津歯科診療所" transform="ref(svg,13390.7459,-3517.8178)" x="0" y="0"/>
+</g>
+</svg>
