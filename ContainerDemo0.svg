@@ -41,7 +41,7 @@
 
 <!-- 国土数値情報 -->
 <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/ksj_heliport/N11-13.svg" title="Heliport" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
-<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/ksj_hinanjyo/P20-12_.svg" title="Place of Refuge" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
+<animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/hinanjyo/P20-12_.svg" title="Place of Refuge" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
 <animation xlink:href="./contents/mlit/busRoute/BusRoute.svg" x="-30000" y="-30000" width="60000" height="60000" title="Bus Route JA(QuadTreeCompositeTiling)" visibility="hidden" opacity="0.7" class="NationalLandInformationOfJapan clickable" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html#exec=appearOnLayerLoad" />
 <animation title="Land Price Guidelines 2017" xlink:href="./contents/mlit/landPrice2017/L01-29P-2K.svg" class="NationalLandInformationOfJapan" x="-30000" y="-30000" width="60000" height="60000"  visibility="hidden" opacity="0.5" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />
 <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/mlit/dentalClinic/dentalClinic.svg" title="DentalClinic" class="NationalLandInformationOfJapan" visibility="hidden" opacity="0.7" data-controller="/devinfo/devkddi/lvl0.1/demos/kokudosuchi.html" />

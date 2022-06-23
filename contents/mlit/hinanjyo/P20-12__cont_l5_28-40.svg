@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<image xlink:href="P20-12_/lvl9/tile56_80.png" preserveAspectRatio="none" x="12937.5" y="-3375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<image xlink:href="P20-12_/lvl9/tile57_80.png" preserveAspectRatio="none" x="13007.8125" y="-3375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<image xlink:href="P20-12_/lvl9/tile56_81.png" preserveAspectRatio="none" x="12937.5" y="-3304.6875" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<image xlink:href="P20-12_/lvl9/tile57_81.png" preserveAspectRatio="none" x="13007.8125" y="-3304.6875" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="P20-12__l7_112-160.svg" x="12937.5" y="-3375" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile112_160.png" preserveAspectRatio="none" x="12937.5" y="-3375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_113-160.svg" x="12972.6562" y="-3375" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile113_160.png" preserveAspectRatio="none" x="12972.6562" y="-3375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_112-161.svg" x="12937.5" y="-3339.8438" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile112_161.png" preserveAspectRatio="none" x="12937.5" y="-3339.8438" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_113-161.svg" x="12972.6562" y="-3339.8438" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile113_161.png" preserveAspectRatio="none" x="12972.6562" y="-3339.8438" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_112-162.svg" x="12937.5" y="-3304.6875" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile112_162.png" preserveAspectRatio="none" x="12937.5" y="-3304.6875" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_113-162.svg" x="12972.6562" y="-3304.6875" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile113_162.png" preserveAspectRatio="none" x="12972.6562" y="-3304.6875" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_113-163.svg" x="12972.6562" y="-3269.5312" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile113_163.png" preserveAspectRatio="none" x="12972.6562" y="-3269.5312" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_114-160.svg" x="13007.8125" y="-3375" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile114_160.png" preserveAspectRatio="none" x="13007.8125" y="-3375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile115_160.png" preserveAspectRatio="none" x="13042.9688" y="-3375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_114-161.svg" x="13007.8125" y="-3339.8438" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile114_161.png" preserveAspectRatio="none" x="13007.8125" y="-3339.8438" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_115-161.svg" x="13042.9688" y="-3339.8438" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile115_161.png" preserveAspectRatio="none" x="13042.9688" y="-3339.8438" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_114-162.svg" x="13007.8125" y="-3304.6875" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile114_162.png" preserveAspectRatio="none" x="13007.8125" y="-3304.6875" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_115-162.svg" x="13042.9688" y="-3304.6875" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile115_162.png" preserveAspectRatio="none" x="13042.9688" y="-3304.6875" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_114-163.svg" x="13007.8125" y="-3269.5312" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile114_163.png" preserveAspectRatio="none" x="13007.8125" y="-3269.5312" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l7_115-163.svg" x="13042.9688" y="-3269.5312" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="P20-12_/lvl10/tile115_163.png" preserveAspectRatio="none" x="13042.9688" y="-3269.5312" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="P20-12__l8_230-320.svg" x="13042.9688" y="-3375" width="17.5781" height="17.5781" visibleMinZoom="2275.55"/>
+<image xlink:href="P20-12_/lvl11/tile230_320.png" preserveAspectRatio="none" x="13042.9688" y="-3375" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<animation xlink:href="P20-12__l8_231-320.svg" x="13060.5469" y="-3375" width="17.5781" height="17.5781" visibleMinZoom="2275.55"/>
+<image xlink:href="P20-12_/lvl11/tile231_320.png" preserveAspectRatio="none" x="13060.5469" y="-3375" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<animation xlink:href="P20-12__l8_230-321.svg" x="13042.9688" y="-3357.4219" width="17.5781" height="17.5781" visibleMinZoom="2275.55"/>
+<image xlink:href="P20-12_/lvl11/tile230_321.png" preserveAspectRatio="none" x="13042.9688" y="-3357.4219" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<animation xlink:href="P20-12__l8_231-321.svg" x="13060.5469" y="-3357.4219" width="17.5781" height="17.5781" visibleMinZoom="2275.55"/>
+<image xlink:href="P20-12_/lvl11/tile231_321.png" preserveAspectRatio="none" x="13060.5469" y="-3357.4219" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+</svg>

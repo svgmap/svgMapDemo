@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13324.21875 -3585.9375 35.15625 35.15625" go:dataArea="13324.21875 -3585.9375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f89143" content="こども支援センター遊戯室,31204,鳥取県境港市竹内町550-2,収容避難所,2100,6350,0,0,0,0,0,1" xlink:title="こども支援センター遊戯室" transform="ref(svg,13324.4518,-3551.9769)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89144" content="しらぎく会館,31204,鳥取県境港市小篠津町450,収容避難所,80,243,0,0,0,0,0,1" xlink:title="しらぎく会館" transform="ref(svg,13324.883,-3550.8734)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89171" content="台場公園,31204,鳥取県境港市花町10,収容避難所,7900,23700,0,0,0,0,0,1" xlink:title="台場公園" transform="ref(svg,13324.2436,-3554.6786)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89172" content="台場保育所遊戯室,31204,鳥取県境港市岬町45-3,収容避難所,450,1485,0,0,0,0,0,1" xlink:title="台場保育所遊戯室" transform="ref(svg,13324.5116,-3554.5562)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89179" content="中浜小学校教室等,31204,鳥取県境港市麦垣町432,収容避難所、津波の一時避難所,3800,11453,0,0,0,0,0,1" xlink:title="中浜小学校教室等" transform="ref(svg,13324.9566,-3550.9047)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89180" content="中浜東保育所遊戯室,31204,鳥取県境港市小篠津町820,収容避難所,1030,3116,0,0,0,0,0,1" xlink:title="中浜東保育所遊戯室" transform="ref(svg,13324.4796,-3550.8007)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89188" content="夢みなと緑地,31204,鳥取県境港市竹内団地2外,収容避難所,16000,48000,0,0,0,0,0,1" xlink:title="夢みなと緑地" transform="ref(svg,13325.513,-3551.8254)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89197" content="老人福祉センター,31204,鳥取県境港市竹内町40,収容避難所,70,223,0,0,0,0,0,1" xlink:title="老人福祉センター" transform="ref(svg,13324.533,-3551.9756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89689" content="セミナーハウス,31386,鳥取県西伯郡大山町,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="セミナーハウス" transform="ref(svg,13358.0099,-3551.4572)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89690" content="下中山保育所,31386,鳥取県西伯郡大山町下甲874-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="下中山保育所" transform="ref(svg,13358.7316,-3552.5666)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89691" content="下田中児童館,31386,鳥取県西伯郡大山町田中693,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="下田中児童館" transform="ref(svg,13358.9677,-3552.2231)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89692" content="御来屋漁村センター,31386,鳥取県西伯郡大山町御来屋1012,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="御来屋漁村センター" transform="ref(svg,13349.6123,-3551.0779)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89693" content="御来屋保育所,31386,鳥取県西伯郡大山町御来屋116-9,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="御来屋保育所" transform="ref(svg,13349.8572,-3551.2997)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89709" content="中山ふれあいセンター,31386,鳥取県西伯郡大山町田中762-8,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中山ふれあいセンター" transform="ref(svg,13359.01,-3552.3658)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89711" content="中山公民館,31386,鳥取県西伯郡大山町塩津368,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中山公民館" transform="ref(svg,13357.061,-3552.0555)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89712" content="中山小学校,31386,鳥取県西伯郡大山町下甲1022,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中山小学校" transform="ref(svg,13357.3457,-3551.9221)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89713" content="中山中学校,31386,鳥取県西伯郡大山町下甲951-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中山中学校" transform="ref(svg,13357.7441,-3551.9324)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89714" content="中山農業者トレーニングセンター,31386,鳥取県西伯郡大山町下甲1022-5,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中山農業者トレーニングセンター" transform="ref(svg,13357.3268,-3551.9483)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89715" content="中山農村環境改善センター,31386,鳥取県西伯郡大山町下甲1120,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中山農村環境改善センター" transform="ref(svg,13358.4143,-3552.4281)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89716" content="福祉センターなかやま,31386,鳥取県西伯郡大山町赤坂766-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="福祉センターなかやま" transform="ref(svg,13358.0002,-3551.5251)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89721" content="名和小学校東校舎,31386,鳥取県西伯郡大山町東坪513,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="名和小学校東校舎" transform="ref(svg,13352.1451,-3551.8899)" x="0" y="0"/>
+<use xlink:href="#p0" id="f90704" content="旧美保関東小学校体育館,32201,島根県松江市美保関町美保関1661-1,避難施設,-1,-1,1,1,1,0,0,0" xlink:title="旧美保関東小学校体育館" transform="ref(svg,13330.2798,-3555.8286)" x="0" y="0"/>
+</g>
+</svg>

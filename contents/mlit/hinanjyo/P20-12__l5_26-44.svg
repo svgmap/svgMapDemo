@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="12656.25 -2812.5 140.625 140.625" go:dataArea="12656.25 -2812.5 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f125282" content="伊江島カントリークラブ,47315,沖縄県国頭郡伊江村字東江前364-1,一時避難場所、収容避難場所、地震津波緊急避難場所,50,-1,1,1,0,0,0,0" xlink:title="伊江島カントリークラブ" transform="ref(svg,12782.2258,-2672.5468)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125284" content="伊江島空港ターミナル,47315,沖縄県国頭郡伊江村字東江上3992-2,一時避難場所、地震津波緊急避難場所,1000,-1,1,1,0,0,0,0" xlink:title="伊江島空港ターミナル" transform="ref(svg,12778.708,-2672.5435)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125285" content="城山中腹広場,47315,沖縄県国頭郡伊江村字東江上552,一時避難場所、地震津波緊急避難場所,200,-1,1,1,0,0,0,0" xlink:title="城山中腹広場" transform="ref(svg,12780.6449,-2671.8883)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125286" content="真謝区公民館,47315,沖縄県国頭郡伊江村字西江上1724,一時避難場所、収容避難場所、地震津波緊急避難場所,30,-1,1,1,0,0,0,0" xlink:title="真謝区公民館" transform="ref(svg,12777.8318,-2672.54)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125287" content="西江上区公民館,47315,沖縄県国頭郡伊江村字西江上71,一時避難場所、収容避難場所、地震津波緊急避難場所,150,-1,1,1,0,0,0,0" xlink:title="西江上区公民館" transform="ref(svg,12779.8123,-2672.0698)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125623" content="伊是名区宿泊交流施設,47360,沖縄県島尻郡伊是名村字伊是名742,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊是名区宿泊交流施設" transform="ref(svg,12793.3313,-2691.6463)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125624" content="伊是名小学校,47360,沖縄県島尻郡伊是名村字仲田1162-2,大規模災害時,-1,-1,0,0,0,0,0,1" xlink:title="伊是名小学校" transform="ref(svg,12794.1552,-2692.9685)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125625" content="伊是名村産業支援センター,47360,沖縄県島尻郡伊是名村字仲田1344,大規模災害時,-1,-1,0,0,0,0,0,1" xlink:title="伊是名村産業支援センター" transform="ref(svg,12794.0652,-2692.4496)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125626" content="伊是名村立保育所,47360,沖縄県島尻郡伊是名村字仲田1687,災害弱者用,-1,-1,0,0,0,0,0,1" xlink:title="伊是名村立保育所" transform="ref(svg,12794.0926,-2692.4796)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125627" content="伊是名中学校,47360,沖縄県島尻郡伊是名村字仲田1385-1,大規模災害時,-1,-1,0,0,0,0,0,1" xlink:title="伊是名中学校" transform="ref(svg,12794.1567,-2692.6332)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125628" content="伊是名幼稚園,47360,沖縄県島尻郡伊是名村字仲田1162-2,災害弱者用,-1,-1,0,0,0,0,0,1" xlink:title="伊是名幼稚園" transform="ref(svg,12794.1936,-2693.018)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125629" content="諸見区交流促進センター,47360,沖縄県島尻郡伊是名村字諸見4947,避難所,-1,-1,0,0,0,0,0,1" xlink:title="諸見区交流促進センター" transform="ref(svg,12794.8323,-2693.271)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125630" content="勢理客区宿泊交流施設,47360,沖縄県島尻郡伊是名村字勢理客2621-12,避難所,-1,-1,0,0,0,0,0,1" xlink:title="勢理客区宿泊交流施設" transform="ref(svg,12792.4376,-2693.2281)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125631" content="仲田地区農村総合管理施設,47360,沖縄県島尻郡伊是名村字仲田143,避難所,-1,-1,0,0,0,0,0,1" xlink:title="仲田地区農村総合管理施設" transform="ref(svg,12794.9887,-2692.5134)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125632" content="特別養護老人ホーム・チヂン園,47360,沖縄県島尻郡伊是名村字仲田1687-51,災害弱者用,-1,-1,0,0,0,0,0,1" xlink:title="特別養護老人ホーム・チヂン園" transform="ref(svg,12794.3484,-2692.2027)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125633" content="内花公民館,47360,沖縄県島尻郡伊是名村字内花3051-56,避難所,-1,-1,0,0,0,0,0,1" xlink:title="内花公民館" transform="ref(svg,12794.1069,-2694.9209)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125808" content="伊平屋体育館・離島振興総合センター,47359,沖縄県島尻郡伊平屋村字我喜屋300,避難所,482,12000,0,0,0,0,0,1" xlink:title="伊平屋体育館・離島振興総合センター" transform="ref(svg,12796.5572,-2703.8749)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125809" content="伊平屋中学校,47359,沖縄県島尻郡伊平屋村字我喜屋241,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊平屋中学校" transform="ref(svg,12796.7366,-2703.871)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125810" content="イリシナダム,47359,沖縄県島尻郡伊平屋村字我喜屋1490,一時避難所,136,700,0,1,0,0,0,0" xlink:title="イリシナダム" transform="ref(svg,12795.5662,-2703.3984)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125811" content="伊平屋小学校,47359,沖縄県島尻郡伊平屋村字我喜屋2132,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊平屋小学校" transform="ref(svg,12796.2089,-2703.4627)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125812" content="我喜屋公民館,47359,沖縄県島尻郡伊平屋村字我喜屋1833,避難所,-1,-1,0,0,0,0,0,1" xlink:title="我喜屋公民館" transform="ref(svg,12796.0326,-2703.4106)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125813" content="上之川公園,47359,沖縄県島尻郡伊平屋村字島尻361,一時避難所,125,2000,0,1,0,0,0,0" xlink:title="上之川公園" transform="ref(svg,12794.2464,-2702.0238)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125814" content="阿波ダム,47359,沖縄県島尻郡伊平屋村,一時避難所,125,2000,0,1,0,0,0,0" xlink:title="阿波ダム" transform="ref(svg,12793.6148,-2701.6977)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125815" content="島尻公民館,47359,沖縄県島尻郡伊平屋村字島尻10-9,避難所,-1,-1,0,0,0,0,0,1" xlink:title="島尻公民館" transform="ref(svg,12794.3788,-2701.7785)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125816" content="野甫公民館,47359,沖縄県島尻郡伊平屋村字野甫194-7,避難所,-1,-1,0,0,0,0,0,1" xlink:title="野甫公民館" transform="ref(svg,12792.5485,-2699.6233)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125817" content="野甫展望台,47359,沖縄県島尻郡伊平屋村字野甫167-1,一時避難所,59,3000,0,1,0,0,0,0" xlink:title="野甫展望台" transform="ref(svg,12792.4656,-2699.7278)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125818" content="グンサナー森,47359,沖縄県島尻郡伊平屋村字野甫234,一時避難所,44,2000,0,1,0,0,0,0" xlink:title="グンサナー森" transform="ref(svg,12792.3717,-2699.5865)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125819" content="野甫小中学校,47359,沖縄県島尻郡伊平屋村字野甫402,避難所,-1,-1,0,0,0,0,0,1" xlink:title="野甫小中学校" transform="ref(svg,12792.3371,-2699.4381)" x="0" y="0"/>
+</g>
+</svg>

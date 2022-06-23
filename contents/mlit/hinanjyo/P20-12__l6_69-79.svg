@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13851.5625 -3445.3125 70.3125 70.3125" go:dataArea="13851.5625 -3445.3125 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f40041" content="開発総合センター,13363,東京都新島村式根島253,避難所,-1,-1,0,0,0,0,0,1" xlink:title="開発総合センター" transform="ref(svg,13921.5995,-3432.5707)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40043" content="式根島小学校,13363,東京都新島村式根島244,避難所,-1,-1,0,0,0,0,0,1" xlink:title="式根島小学校" transform="ref(svg,13921.6322,-3432.7299)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40044" content="式根島中学校,13363,東京都新島村式根島166,避難所,-1,-1,0,0,0,0,0,1" xlink:title="式根島中学校" transform="ref(svg,13921.7155,-3432.8549)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40045" content="式根島福祉センター,13363,東京都新島村式根島255-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="式根島福祉センター" transform="ref(svg,13921.804,-3432.4557)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40046" content="式根島保育園,13363,東京都新島村式根島246,避難所,-1,-1,0,0,0,0,0,1" xlink:title="式根島保育園" transform="ref(svg,13921.5905,-3432.6243)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40056" content="はまゆう保育園,13364,東京都神津島村902番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="はまゆう保育園" transform="ref(svg,13913.4305,-3420.5496)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40057" content="ヘリポート,13364,東京都神津島村字鴎穴157,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ヘリポート" transform="ref(svg,13912.6852,-3419.8907)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40058" content="開発総合センター,13364,東京都神津島村1761番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="開発総合センター" transform="ref(svg,13913.4515,-3420.0331)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40059" content="神津高等学校,13364,東京都神津島村1620番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="神津高等学校" transform="ref(svg,13913.4166,-3420.258)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40060" content="神津小学校,13364,東京都神津島村807番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="神津小学校" transform="ref(svg,13913.8832,-3420.608)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40061" content="神津中学校,13364,東京都神津島村1741番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="神津中学校" transform="ref(svg,13913.5138,-3420.1191)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40062" content="生きがい健康センター,13364,東京都神津島村903番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="生きがい健康センター" transform="ref(svg,13913.4567,-3420.5889)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40063" content="多目的広場,13364,東京都神津島村字榎木が沢,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多目的広場" transform="ref(svg,13915.1792,-3420.3267)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40064" content="物忌奈命神社境内,13364,東京都神津島村41,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="物忌奈命神社境内" transform="ref(svg,13913.4751,-3420.8476)" x="0" y="0"/>
+</g>
+</svg>

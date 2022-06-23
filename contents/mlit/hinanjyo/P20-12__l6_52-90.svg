@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="12656.25 -2671.875 70.3125 70.3125" go:dataArea="12656.25 -2671.875 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f125601" content="粟国小中学校,47355,沖縄県島尻郡粟国村東447番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="粟国小中学校" transform="ref(svg,12722.9581,-2658.2067)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125602" content="粟国村離島振興総合センター,47355,沖縄県島尻郡粟国村東1088番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="粟国村離島振興総合センター" transform="ref(svg,12723.3073,-2658.1528)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125634" content="イーフ情報プラザ,47361,沖縄県島尻郡久米島町比嘉160-57,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="イーフ情報プラザ" transform="ref(svg,12680.8307,-2633.1934)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125635" content="カニク原付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="カニク原付近" transform="ref(svg,12679.4786,-2632.8514)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125636" content="カラヤ原付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="カラヤ原付近" transform="ref(svg,12681.0337,-2634.3368)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125637" content="タカマス原付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="タカマス原付近" transform="ref(svg,12679.6414,-2630.6297)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125638" content="バイパス喜久里宅付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="バイパス喜久里宅付近" transform="ref(svg,12675.5373,-2634.43)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125639" content="マチョー原付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="マチョー原付近" transform="ref(svg,12681.1414,-2634.6222)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125640" content="宇江城公民館,47361,沖縄県島尻郡久米島町宇江城1173,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="宇江城公民館" transform="ref(svg,12677.3818,-2638.2332)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125641" content="宇根公民館,47361,沖縄県島尻郡久米島町宇根62-3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="宇根公民館" transform="ref(svg,12681.3492,-2634.9749)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125642" content="下阿嘉公民館,47361,沖縄県島尻郡久米島町阿嘉156-12,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="下阿嘉公民館" transform="ref(svg,12679.85,-2636.5222)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125643" content="嘉手苅公民館,47361,沖縄県島尻郡久米島町嘉手苅86,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="嘉手苅公民館" transform="ref(svg,12676.5218,-2633.5843)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125644" content="儀間公民館,47361,沖縄県島尻郡久米島町儀間170,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="儀間公民館" transform="ref(svg,12676.8492,-2633.2937)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125645" content="久間地公民館,47361,沖縄県島尻郡久米島町上江洲457-40,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="久間地公民館" transform="ref(svg,12674.427,-2635.7438)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125646" content="久米島ホタルドーム,47361,沖縄県島尻郡久米島町鳥島100,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="久米島ホタルドーム" transform="ref(svg,12673.2735,-2634.906)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125647" content="久米島自動車整備協業組合（車検場）付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="久米島自動車整備協業組合（車検場）付近" transform="ref(svg,12672.6641,-2635.9599)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125648" content="久米島小学校,47361,沖縄県島尻郡久米島町嘉手苅1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="久米島小学校" transform="ref(svg,12676.5905,-2633.394)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125649" content="久米島西中学校,47361,沖縄県島尻郡久米島町西銘1324,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="久米島西中学校" transform="ref(svg,12674.7072,-2635.1521)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125650" content="久米島中学校,47361,沖縄県島尻郡久米島町儀間5,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="久米島中学校" transform="ref(svg,12676.6016,-2633.3024)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125651" content="久米島保育所付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="久米島保育所付近" transform="ref(svg,12674.9847,-2635.0102)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125652" content="具志川公民館,47361,沖縄県島尻郡久米島町具志川647,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="具志川公民館" transform="ref(svg,12674.5655,-2637.326)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125653" content="具志川農村環境改善センター,47361,沖縄県島尻郡久米島町仲泊730,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="具志川農村環境改善センター" transform="ref(svg,12674.7459,-2634.9942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125654" content="兼城公民館,47361,沖縄県島尻郡久米島町兼城183-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="兼城公民館" transform="ref(svg,12675.4191,-2634.1316)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125655" content="公立久米島病院前公園,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="公立久米島病院前公園" transform="ref(svg,12676.4467,-2634.1277)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125656" content="山城公民館,47361,沖縄県島尻郡久米島町山城48,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="山城公民館" transform="ref(svg,12678.5887,-2633.4708)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125657" content="山里公民館,47361,沖縄県島尻郡久米島町山里244,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="山里公民館" transform="ref(svg,12674.7839,-2636.1186)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125658" content="謝名堂公民館,47361,沖縄県島尻郡久米島町謝名堂91,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="謝名堂公民館" transform="ref(svg,12681.0543,-2634.0935)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125659" content="上阿嘉公民館,47361,沖縄県島尻郡久米島町阿嘉2245-55,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="上阿嘉公民館" transform="ref(svg,12678.6827,-2636.9031)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125660" content="上江洲公民館,47361,沖縄県島尻郡久米島町上江洲229,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="上江洲公民館" transform="ref(svg,12674.7335,-2635.6707)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125661" content="真我里公民館,47361,沖縄県島尻郡久米島町真我里485,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="真我里公民館" transform="ref(svg,12679.6571,-2633.1003)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125662" content="真謝公民館,47361,沖縄県島尻郡久米島町真謝66,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="真謝公民館" transform="ref(svg,12680.7065,-2635.3651)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125663" content="真泊公民館,47361,沖縄県島尻郡久米島町真泊556,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="真泊公民館" transform="ref(svg,12681.8207,-2634.9856)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125664" content="西アケタ原付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西アケタ原付近" transform="ref(svg,12680.5522,-2635.6266)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125665" content="西銭田原付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西銭田原付近" transform="ref(svg,12679.7278,-2632.6925)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125666" content="西銘公民館,47361,沖縄県島尻郡久米島町西銘848,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="西銘公民館" transform="ref(svg,12674.6702,-2635.5161)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125667" content="赤平頂上付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="赤平頂上付近" transform="ref(svg,12681.4708,-2634.499)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125668" content="銭田公民館,47361,沖縄県島尻郡久米島町銭田947,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="銭田公民館" transform="ref(svg,12680.3642,-2632.4263)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125669" content="銭田森林公園,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="銭田森林公園" transform="ref(svg,12680.3102,-2632.5115)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125670" content="大岳小学校,47361,沖縄県島尻郡久米島町山里177,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="大岳小学校" transform="ref(svg,12674.9461,-2635.9715)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125671" content="大原公民館,47361,沖縄県島尻郡久米島町大原236,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大原公民館" transform="ref(svg,12672.3083,-2636.012)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125672" content="大田公民館,47361,沖縄県島尻郡久米島町大田363,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大田公民館" transform="ref(svg,12675.3022,-2634.5592)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125673" content="中華海鮮海皇付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中華海鮮海皇付近" transform="ref(svg,12675.1722,-2634.7565)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125674" content="仲村渠公民館,47361,沖縄県島尻郡久米島町仲村渠273-1,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="仲村渠公民館" transform="ref(svg,12675.1933,-2637.7076)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125675" content="仲地公民館,47361,沖縄県島尻郡久米島町仲地15,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="仲地公民館" transform="ref(svg,12674.7145,-2636.4722)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125676" content="仲泊公民館,47361,沖縄県島尻郡久米島町仲泊455,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="仲泊公民館" transform="ref(svg,12674.5651,-2634.7127)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125677" content="仲里高齢者コミュニティセンター,47361,沖縄県島尻郡久米島町銭田366,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="仲里高齢者コミュニティセンター" transform="ref(svg,12679.6793,-2632.9311)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125678" content="仲里小学校,47361,沖縄県島尻郡久米島町謝名堂970,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="仲里小学校" transform="ref(svg,12680.7068,-2633.9746)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125679" content="仲里中学校,47361,沖縄県島尻郡久米島町比嘉2856,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="仲里中学校" transform="ref(svg,12680.3763,-2633.9774)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125680" content="仲里農村環境改善センター,47361,沖縄県島尻郡久米島町比嘉97-4,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="仲里農村環境改善センター" transform="ref(svg,12680.2119,-2633.741)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125681" content="鳥島公民館,47361,沖縄県島尻郡久米島町鳥島370,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="鳥島公民館" transform="ref(svg,12674.4532,-2634.6496)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125682" content="登武那覇公園,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="登武那覇公園" transform="ref(svg,12680.0696,-2634.8753)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125683" content="島尻公民館,47361,沖縄県島尻郡久米島町島尻50,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="島尻公民館" transform="ref(svg,12680.1928,-2630.7206)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125684" content="セリ市場,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="セリ市場" transform="ref(svg,12678.9422,-2633.9228)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125685" content="日の出御願一本松付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="日の出御願一本松付近" transform="ref(svg,12677.7984,-2634.1036)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125686" content="泊公民館,47361,沖縄県島尻郡久米島町宇根1740,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="泊公民館" transform="ref(svg,12681.1011,-2634.0799)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125687" content="比屋定公民館,47361,沖縄県島尻郡久米島町比屋定99,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="比屋定公民館" transform="ref(svg,12677.9479,-2638.0806)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125688" content="比屋定小学校,47361,沖縄県島尻郡久米島町比屋定2220,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="比屋定小学校" transform="ref(svg,12677.6041,-2638.0546)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125689" content="比嘉公民館,47361,沖縄県島尻郡久米島町比嘉33,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="比嘉公民館" transform="ref(svg,12680.0725,-2633.775)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125690" content="美崎小学校,47361,沖縄県島尻郡久米島町真謝122,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="美崎小学校" transform="ref(svg,12680.7595,-2635.5438)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125691" content="北原公民館,47361,沖縄県島尻郡久米島町北原416,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="北原公民館" transform="ref(svg,12672.373,-2636.5783)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125692" content="涙石付近,47361,沖縄県島尻郡久米島町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="涙石付近" transform="ref(svg,12681.9562,-2634.7357)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125924" content="渡名喜村老人福祉センター,47356,沖縄県島尻郡渡名喜村1935番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡名喜村老人福祉センター" transform="ref(svg,12714.3955,-2637.0003)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125925" content="渡名喜小中学校,47356,沖縄県島尻郡渡名喜村878番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡名喜小中学校" transform="ref(svg,12714.2318,-2637.3075)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125926" content="渡名喜村防災支援センター,47356,沖縄県島尻郡渡名喜村445番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡名喜村防災支援センター" transform="ref(svg,12714.5109,-2637.533)" x="0" y="0"/>
+</g>
+</svg>

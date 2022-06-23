@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13464.84375 -3410.15625 35.15625 35.15625" go:dataArea="13464.84375 -3410.15625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f101356" content="Ｂ＆Ｇ海洋センター体育館,36204,徳島県阿南市津乃峰町長浜387,二次避難施設,365,-1,0,0,0,0,0,1" xlink:title="Ｂ＆Ｇ海洋センター体育館" transform="ref(svg,13465.4197,-3388.7726)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101358" content="スポーツ総合センター,36204,徳島県阿南市七見町下川田100-1,二次避難施設,965,-1,0,0,0,0,0,1" xlink:title="スポーツ総合センター" transform="ref(svg,13468.4194,-3391.9743)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101360" content="阿南ひまわり会館,36204,徳島県阿南市富岡町北通33-1,二次避難施設,350,-1,0,0,0,0,0,1" xlink:title="阿南ひまわり会館" transform="ref(svg,13466.2546,-3392.1365)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101362" content="阿南工業高等専門学校,36204,徳島県阿南市見能林町青木265,広域、一次避難所、二次避難施設,34725,68345,0,0,0,0,0,1" xlink:title="阿南工業高等専門学校" transform="ref(svg,13466.7223,-3389.7945)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101365" content="阿南市消防本部,36204,徳島県阿南市辰己町1-33,一次避難所,4050,8100,0,0,0,0,0,1" xlink:title="阿南市消防本部" transform="ref(svg,13467.9435,-3393.4314)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101366" content="阿南市武道館,36204,徳島県阿南市大潟町210-56,二次避難施設,275,-1,0,0,0,0,0,1" xlink:title="阿南市武道館" transform="ref(svg,13466.8488,-3388.4792)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101367" content="阿南社会福祉会館,36204,徳島県阿南市富岡町今福寺40-17,二次避難施設,100,-1,0,0,0,0,0,1" xlink:title="阿南社会福祉会館" transform="ref(svg,13466.2292,-3391.859)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101371" content="阿南中学校,36204,徳島県阿南市見能林町南勘高1,広域、一次避難所、二次避難施設,11880,23065,0,0,0,0,0,1" xlink:title="阿南中学校" transform="ref(svg,13466.4334,-3390.5444)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101373" content="伊島小学校,36204,徳島県阿南市伊島町瀬戸3-2,一次避難所,710,1426,0,0,0,0,0,1" xlink:title="伊島小学校" transform="ref(svg,13480.8952,-3384.4622)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101374" content="伊島中学校,36204,徳島県阿南市伊島町瀬戸3,一次避難所、二次避難施設,1005,1713,0,0,0,0,0,1" xlink:title="伊島中学校" transform="ref(svg,13480.9154,-3384.4563)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101380" content="横見小学校,36204,徳島県阿南市横見町前長岡67-1,一次避難所、二次避難施設,2800,5218,0,0,0,0,0,1" xlink:title="横見小学校" transform="ref(svg,13465.5807,-3392.8718)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101381" content="横見保育所,36204,徳島県阿南市横見町長岡東50-1,二次避難施設,23,-1,0,0,0,0,0,1" xlink:title="横見保育所" transform="ref(svg,13466.0751,-3392.9996)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101382" content="横見老人ルーム,36204,徳島県阿南市横見町願能地東52-2,二次避難施設,25,-1,0,0,0,0,0,1" xlink:title="横見老人ルーム" transform="ref(svg,13466.0628,-3392.4225)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101386" content="科学センター,36204,徳島県阿南市那賀川町上福井南川渕8-1,二次避難施設,135,-1,0,0,0,0,0,1" xlink:title="科学センター" transform="ref(svg,13468.194,-3394.8808)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101387" content="蒲生田小学校,36204,徳島県阿南市椿町蒲生田2,一次避難所、二次避難施設,530,750,0,0,0,0,0,1" xlink:title="蒲生田小学校" transform="ref(svg,13474.2016,-3383.86)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101395" content="牛岐城趾公園,36204,徳島県阿南市富岡町トノ町24-21地先,一次避難所,1200,2400,0,0,0,0,0,1" xlink:title="牛岐城趾公園" transform="ref(svg,13465.7544,-3392.0775)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101398" content="桑野川防災ステーション,36204,徳島県阿南市富岡町庄鏡,一次避難所,2500,5000,0,0,0,0,0,1" xlink:title="桑野川防災ステーション" transform="ref(svg,13464.8545,-3391.8985)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101399" content="見能林公民館,36204,徳島県阿南市見能林町念仏免4-1,二次避難施設,235,-1,0,0,0,0,0,1" xlink:title="見能林公民館" transform="ref(svg,13466.9437,-3390.1195)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101400" content="見能林小学校,36204,徳島県阿南市見能林町西内35,一次避難所、二次避難施設,3735,6854,0,0,0,0,0,1" xlink:title="見能林小学校" transform="ref(svg,13467.0778,-3390.0695)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101401" content="見能林幼稚園,36204,徳島県阿南市見能林町東野10-2,二次避難施設,55,-1,0,0,0,0,0,1" xlink:title="見能林幼稚園" transform="ref(svg,13467.3211,-3389.9356)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101403" content="今津こどもセンター,36204,徳島県阿南市那賀川町今津浦喜来65-1,二次避難施設,90,-1,0,0,0,0,0,1" xlink:title="今津こどもセンター" transform="ref(svg,13465.0514,-3396.1217)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101408" content="商工業振興センター,36204,徳島県阿南市富岡町今福寺34-4,二次避難施設,130,-1,0,0,0,0,0,1" xlink:title="商工業振興センター" transform="ref(svg,13466.332,-3391.8922)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101416" content="船瀬温泉保養センター,36204,徳島県阿南市椿町船瀬60-2,二次避難施設,30,-1,0,0,0,0,0,1" xlink:title="船瀬温泉保養センター" transform="ref(svg,13472.6636,-3383.1669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101426" content="津乃峰小学校,36204,徳島県阿南市津乃峰町戎山129-37,一次避難所、二次避難施設,5210,9864,0,0,0,0,0,1" xlink:title="津乃峰小学校" transform="ref(svg,13465.0114,-3388.4308)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101427" content="椿会館,36204,徳島県阿南市椿町浜14,二次避難施設,155,-1,0,0,0,0,0,1" xlink:title="椿会館" transform="ref(svg,13467.7601,-3383.1268)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101428" content="椿公民館椿泊分館,36204,徳島県阿南市椿泊町出島9,二次避難施設,38,-1,0,0,0,0,0,1" xlink:title="椿公民館椿泊分館" transform="ref(svg,13471.0886,-3384.2979)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101429" content="椿小学校,36204,徳島県阿南市椿町黒田47,一次避難所、二次避難施設,1840,3300,0,0,0,0,0,1" xlink:title="椿小学校" transform="ref(svg,13466.6446,-3382.8398)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101430" content="椿町中学校,36204,徳島県阿南市椿町宮ヶ谷23,一次避難所、二次避難施設,3085,5631,0,0,0,0,0,1" xlink:title="椿町中学校" transform="ref(svg,13468.175,-3383.4536)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101431" content="椿泊小学校,36204,徳島県阿南市椿泊町東127,一次避難所、二次避難施設,2080,1902,0,0,0,0,0,1" xlink:title="椿泊小学校" transform="ref(svg,13471.6164,-3384.4563)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101432" content="東部自然公園,36204,徳島県阿南市才見町米島裏4番地,一次避難所,3790,7570,0,0,0,0,0,1" xlink:title="東部自然公園" transform="ref(svg,13468.5512,-3391.3911)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101433" content="那賀川Ｂ＆Ｇ海洋センター,36204,徳島県阿南市那賀川町今津浦向新田20-5,広域、一次避難所,7070,14144,0,0,0,0,0,1" xlink:title="那賀川Ｂ＆Ｇ海洋センター" transform="ref(svg,13466.7397,-3396.2056)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101434" content="那賀川スポーツセンター,36204,徳島県阿南市那賀川町苅屋354-1,二次避難施設,600,-1,0,0,0,0,0,1" xlink:title="那賀川スポーツセンター" transform="ref(svg,13466.3068,-3394.8513)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101435" content="那賀川公民館,36204,徳島県阿南市那賀川町今津浦喜来31-1,二次避難施設,85,-1,0,0,0,0,0,1" xlink:title="那賀川公民館" transform="ref(svg,13465.1482,-3396.2084)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101436" content="那賀川公民館平島分館,36204,徳島県阿南市那賀川町赤池307,二次避難施設,90,-1,0,0,0,0,0,1" xlink:title="那賀川公民館平島分館" transform="ref(svg,13466.2976,-3394.2336)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101437" content="那賀川社会福祉会館,36204,徳島県阿南市那賀川町苅屋357-1,二次避難施設,250,-1,0,0,0,0,0,1" xlink:title="那賀川社会福祉会館" transform="ref(svg,13466.3353,-3394.9271)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101438" content="那賀川図書館,36204,徳島県阿南市那賀川町苅屋308-1,二次避難施設,100,-1,0,0,0,0,0,1" xlink:title="那賀川図書館" transform="ref(svg,13466.0718,-3395.118)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101439" content="那賀川中学校,36204,徳島県阿南市那賀川町苅屋370-1,広域、一次避難所、二次避難施設,8370,16226,0,0,0,0,0,1" xlink:title="那賀川中学校" transform="ref(svg,13466.2366,-3394.9247)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101442" content="富岡公民館,36204,徳島県阿南市富岡町西池田135-1,二次避難施設,160,-1,0,0,0,0,0,1" xlink:title="富岡公民館" transform="ref(svg,13465.658,-3391.5454)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101443" content="富岡小学校,36204,徳島県阿南市領家町浜田200,一次避難所、二次避難施設,5415,9993,0,0,0,0,0,1" xlink:title="富岡小学校" transform="ref(svg,13466.8445,-3392.3802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101444" content="富岡西高等学校,36204,徳島県阿南市富岡町小山18-3,広域、一次避難所、二次避難施設,10630,20315,0,0,0,0,0,1" xlink:title="富岡西高等学校" transform="ref(svg,13465.028,-3391.8998)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101446" content="富岡東高等学校,36204,徳島県阿南市領家町走寄102-2,広域、一次避難所、二次避難施設,9060,17000,0,0,0,0,0,1" xlink:title="富岡東高等学校" transform="ref(svg,13466.3806,-3392.1608)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101447" content="富岡保育所,36204,徳島県阿南市富岡町トノ町96-1,二次避難施設,60,-1,0,0,0,0,0,1" xlink:title="富岡保育所" transform="ref(svg,13465.6113,-3392.0553)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101448" content="富岡幼稚園,36204,徳島県阿南市領家町浜田182-1,二次避難施設,70,-1,0,0,0,0,0,1" xlink:title="富岡幼稚園" transform="ref(svg,13466.8639,-3392.2914)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101454" content="文化会館,36204,徳島県阿南市富岡町西池田135-1,二次避難施設,320,-1,0,0,0,0,0,1" xlink:title="文化会館" transform="ref(svg,13465.613,-3391.5598)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101455" content="平島こどもセンター,36204,徳島県阿南市那賀川町苅屋370-1,二次避難施設,90,-1,0,0,0,0,0,1" xlink:title="平島こどもセンター" transform="ref(svg,13466.124,-3394.9764)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101456" content="平島小学校,36204,徳島県阿南市那賀川町赤池131-2,一次避難所、二次避難施設,3900,7315,0,0,0,0,0,1" xlink:title="平島小学校" transform="ref(svg,13466.2464,-3394.2911)" x="0" y="0"/>
+<use xlink:href="#p0" id="f101460" content="老人ホーム福寿荘,36204,徳島県阿南市畭町亀崎93-7,二次避難施設,125,-1,0,0,0,0,0,1" xlink:title="老人ホーム福寿荘" transform="ref(svg,13469.7658,-3391.6601)" x="0" y="0"/>
+</g>
+</svg>

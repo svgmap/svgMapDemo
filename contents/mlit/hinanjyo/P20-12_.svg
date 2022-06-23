@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<!--  参考データです -->
+<!-- Tramsform:[100.0,0.0,0.0,-100.0,0.0,0.0] -->
+<!-- 基準緯線:0.0 -->
+<!-- Bounds:ReferencedEnvelope[122.943395628 : 145.81264813, 24.062803 : 45.5225938934] -->
+<!-- TypeName:P20-12_ -->
+<!-- Count:18 -->
+<!-- NS:http://www.opengis.net/gml:P20-12_ -->
+<!-- Geom:GeometryDescriptorImpl the_geom <Point:Point> nillable 0:1 -->
+<!-- attrNo:0 Name:the_geom type:Point -->
+<!-- attrNo:1 Name:P20_001 type:String -->
+<!-- attrNo:2 Name:P20_002 type:String -->
+<!-- attrNo:3 Name:P20_003 type:String -->
+<!-- attrNo:4 Name:P20_004 type:String -->
+<!-- attrNo:5 Name:P20_005 type:Integer -->
+<!-- attrNo:6 Name:P20_006 type:Integer -->
+<!-- attrNo:7 Name:P20_007 type:Integer -->
+<!-- attrNo:8 Name:P20_008 type:Integer -->
+<!-- attrNo:9 Name:P20_009 type:Integer -->
+<!-- attrNo:10 Name:P20_010 type:Integer -->
+<!-- attrNo:11 Name:P20_011 type:Integer -->
+<!-- attrNo:12 Name:P20_012 type:Integer -->
+<!-- attrNo:13 Name:レベル type:Integer -->
+<!-- attrNo:14 Name:備考 type:String -->
+<!-- attrNo:15 Name:緯度 type:Double -->
+<!-- attrNo:16 Name:経度 type:Double -->
+<!-- attrNo:17 Name:NO type:String -->
+<!-- OriginalDatum:JGD2000 -->
+<!-- OriginalCrd:LatLon -->
+<!-- defMainColor:green -->
+<!-- outlineColor: -->
+<!-- mainColorCol:-1 -->
+<!-- outLineColorCol:-1 -->
+<!-- captionCol:-1 -->
+<!-- dupCheckCol:-1 -->
+<!-- linkCol:-1 -->
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<!-- Total:125927 records. -->
+<!-- LEVEL: 0 -->
+<animation xlink:href="P20-12__1-0.svg" x="13500" y="-9000" width="4500" height="4500" visibleMinZoom="8.88"/>
+<image xlink:href="P20-12_/lvl3/tile1_0.png" preserveAspectRatio="none" x="13500" y="-9000" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<image xlink:href="P20-12_/lvl3/tile0_1.png" preserveAspectRatio="none" x="9000" y="-4500" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<image xlink:href="P20-12_/lvl3/tile1_1.png" preserveAspectRatio="none" x="13500" y="-4500" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<!-- LEVEL: 1 -->
+<image xlink:href="P20-12_/lvl4/tile1_2.png" preserveAspectRatio="none" x="11250" y="-4500" width="2250" height="2250" visibleMinZoom="8.885" visibleMaxZoom="17.77"/>
+<image xlink:href="P20-12_/lvl4/tile2_2.png" preserveAspectRatio="none" x="13500" y="-4500" width="2250" height="2250" visibleMinZoom="8.885" visibleMaxZoom="17.77"/>
+<!-- LEVEL: 2 -->
+<image xlink:href="P20-12_/lvl5/tile3_4.png" preserveAspectRatio="none" x="12375" y="-4500" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="P20-12__l2_2-5.svg" x="11250" y="-3375" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="P20-12_/lvl5/tile2_5.png" preserveAspectRatio="none" x="11250" y="-3375" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<image xlink:href="P20-12_/lvl5/tile3_5.png" preserveAspectRatio="none" x="12375" y="-3375" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<image xlink:href="P20-12_/lvl5/tile4_4.png" preserveAspectRatio="none" x="13500" y="-4500" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="P20-12__l2_4-5.svg" x="13500" y="-3375" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="P20-12_/lvl5/tile4_5.png" preserveAspectRatio="none" x="13500" y="-3375" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<!-- LEVEL: 3 -->
+<image xlink:href="P20-12_/lvl6/tile8_8.png" preserveAspectRatio="none" x="13500" y="-4500" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile9_8.png" preserveAspectRatio="none" x="14062.5" y="-4500" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile8_9.png" preserveAspectRatio="none" x="13500" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile9_9.png" preserveAspectRatio="none" x="14062.5" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<animation xlink:href="P20-12__l3_6-10.svg" x="12375" y="-3375" width="562.5" height="562.5" visibleMinZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile6_10.png" preserveAspectRatio="none" x="12375" y="-3375" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile7_10.png" preserveAspectRatio="none" x="12937.5" y="-3375" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile6_11.png" preserveAspectRatio="none" x="12375" y="-2812.5" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<animation xlink:href="P20-12__l3_7-11.svg" x="12937.5" y="-2812.5" width="562.5" height="562.5" visibleMinZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile7_11.png" preserveAspectRatio="none" x="12937.5" y="-2812.5" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<animation xlink:href="P20-12__l3_6-9.svg" x="12375" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile6_9.png" preserveAspectRatio="none" x="12375" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<image xlink:href="P20-12_/lvl6/tile7_9.png" preserveAspectRatio="none" x="12937.5" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<!-- LEVEL: 4 -->
+<image xlink:href="P20-12_/lvl7/tile14_19.png" preserveAspectRatio="none" x="12937.5" y="-3656.25" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile15_19.png" preserveAspectRatio="none" x="13218.75" y="-3656.25" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile14_20.png" preserveAspectRatio="none" x="12937.5" y="-3375" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile15_20.png" preserveAspectRatio="none" x="13218.75" y="-3375" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<animation xlink:href="P20-12__l4_14-21.svg" x="12937.5" y="-3093.75" width="281.25" height="281.25" visibleMinZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile14_21.png" preserveAspectRatio="none" x="12937.5" y="-3093.75" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile16_18.png" preserveAspectRatio="none" x="13500" y="-3937.5" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile17_18.png" preserveAspectRatio="none" x="13781.25" y="-3937.5" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile16_19.png" preserveAspectRatio="none" x="13500" y="-3656.25" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile17_19.png" preserveAspectRatio="none" x="13781.25" y="-3656.25" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<animation xlink:href="P20-12__l4_17-16.svg" x="13781.25" y="-4500" width="281.25" height="281.25" visibleMinZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile17_16.png" preserveAspectRatio="none" x="13781.25" y="-4500" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile17_17.png" preserveAspectRatio="none" x="13781.25" y="-4218.75" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile13_22.png" preserveAspectRatio="none" x="12656.25" y="-2812.5" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<animation xlink:href="P20-12__l4_12-23.svg" x="12375" y="-2531.25" width="281.25" height="281.25" visibleMinZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile12_23.png" preserveAspectRatio="none" x="12375" y="-2531.25" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile18_16.png" preserveAspectRatio="none" x="14062.5" y="-4500" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile19_16.png" preserveAspectRatio="none" x="14343.75" y="-4500" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile18_17.png" preserveAspectRatio="none" x="14062.5" y="-4218.75" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile18_18.png" preserveAspectRatio="none" x="14062.5" y="-3937.5" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<animation xlink:href="P20-12__l4_18-19.svg" x="14062.5" y="-3656.25" width="281.25" height="281.25" visibleMinZoom="142.22"/>
+<image xlink:href="P20-12_/lvl7/tile18_19.png" preserveAspectRatio="none" x="14062.5" y="-3656.25" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<!-- LEVEL: 5 -->
+<animation xlink:href="P20-12__cont_l5_34-38.svg" x="13781.25" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile34_38.png" preserveAspectRatio="none" x="13781.25" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_35-38.svg" x="13921.875" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile35_38.png" preserveAspectRatio="none" x="13921.875" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_34-39.svg" x="13781.25" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile34_39.png" preserveAspectRatio="none" x="13781.25" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_35-39.svg" x="13921.875" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile35_39.png" preserveAspectRatio="none" x="13921.875" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_34-36.svg" x="13781.25" y="-3937.5" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile34_36.png" preserveAspectRatio="none" x="13781.25" y="-3937.5" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_35-36.svg" x="13921.875" y="-3937.5" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile35_36.png" preserveAspectRatio="none" x="13921.875" y="-3937.5" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_34-37.svg" x="13781.25" y="-3796.875" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile34_37.png" preserveAspectRatio="none" x="13781.25" y="-3796.875" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_35-37.svg" x="13921.875" y="-3796.875" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile35_37.png" preserveAspectRatio="none" x="13921.875" y="-3796.875" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_28-39.svg" x="12937.5" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile28_39.png" preserveAspectRatio="none" x="12937.5" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_29-39.svg" x="13078.125" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile29_39.png" preserveAspectRatio="none" x="13078.125" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_35-34.svg" x="13921.875" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile35_34.png" preserveAspectRatio="none" x="13921.875" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_35-35.svg" x="13921.875" y="-4078.125" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile35_35.png" preserveAspectRatio="none" x="13921.875" y="-4078.125" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_28-40.svg" x="12937.5" y="-3375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile28_40.png" preserveAspectRatio="none" x="12937.5" y="-3375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_29-40.svg" x="13078.125" y="-3375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile29_40.png" preserveAspectRatio="none" x="13078.125" y="-3375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_28-41.svg" x="12937.5" y="-3234.375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile28_41.png" preserveAspectRatio="none" x="12937.5" y="-3234.375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_29-41.svg" x="13078.125" y="-3234.375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile29_41.png" preserveAspectRatio="none" x="13078.125" y="-3234.375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_26-44.svg" x="12656.25" y="-2812.5" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile26_44.png" preserveAspectRatio="none" x="12656.25" y="-2812.5" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_27-44.svg" x="12796.875" y="-2812.5" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile27_44.png" preserveAspectRatio="none" x="12796.875" y="-2812.5" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_26-45.svg" x="12656.25" y="-2671.875" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile26_45.png" preserveAspectRatio="none" x="12656.25" y="-2671.875" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_27-45.svg" x="12796.875" y="-2671.875" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile27_45.png" preserveAspectRatio="none" x="12796.875" y="-2671.875" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_33-37.svg" x="13640.625" y="-3796.875" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile33_37.png" preserveAspectRatio="none" x="13640.625" y="-3796.875" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_32-38.svg" x="13500" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile32_38.png" preserveAspectRatio="none" x="13500" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_33-38.svg" x="13640.625" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile33_38.png" preserveAspectRatio="none" x="13640.625" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_32-39.svg" x="13500" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile32_39.png" preserveAspectRatio="none" x="13500" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_33-39.svg" x="13640.625" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile33_39.png" preserveAspectRatio="none" x="13640.625" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_38-32.svg" x="14343.75" y="-4500" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile38_32.png" preserveAspectRatio="none" x="14343.75" y="-4500" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_39-32.svg" x="14484.375" y="-4500" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile39_32.png" preserveAspectRatio="none" x="14484.375" y="-4500" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_38-33.svg" x="14343.75" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile38_33.png" preserveAspectRatio="none" x="14343.75" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_39-33.svg" x="14484.375" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile39_33.png" preserveAspectRatio="none" x="14484.375" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_36-34.svg" x="14062.5" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile36_34.png" preserveAspectRatio="none" x="14062.5" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_37-34.svg" x="14203.125" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile37_34.png" preserveAspectRatio="none" x="14203.125" y="-4218.75" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_36-35.svg" x="14062.5" y="-4078.125" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile36_35.png" preserveAspectRatio="none" x="14062.5" y="-4078.125" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_37-35.svg" x="14203.125" y="-4078.125" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile37_35.png" preserveAspectRatio="none" x="14203.125" y="-4078.125" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_36-32.svg" x="14062.5" y="-4500" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile36_32.png" preserveAspectRatio="none" x="14062.5" y="-4500" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_37-32.svg" x="14203.125" y="-4500" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile37_32.png" preserveAspectRatio="none" x="14203.125" y="-4500" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_36-33.svg" x="14062.5" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile36_33.png" preserveAspectRatio="none" x="14062.5" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_37-33.svg" x="14203.125" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile37_33.png" preserveAspectRatio="none" x="14203.125" y="-4359.375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_36-36.svg" x="14062.5" y="-3937.5" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile36_36.png" preserveAspectRatio="none" x="14062.5" y="-3937.5" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_36-37.svg" x="14062.5" y="-3796.875" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile36_37.png" preserveAspectRatio="none" x="14062.5" y="-3796.875" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_30-38.svg" x="13218.75" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile30_38.png" preserveAspectRatio="none" x="13218.75" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_31-38.svg" x="13359.375" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile31_38.png" preserveAspectRatio="none" x="13359.375" y="-3656.25" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_30-39.svg" x="13218.75" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile30_39.png" preserveAspectRatio="none" x="13218.75" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_31-39.svg" x="13359.375" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile31_39.png" preserveAspectRatio="none" x="13359.375" y="-3515.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__cont_l5_30-40.svg" x="13218.75" y="-3375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile30_40.png" preserveAspectRatio="none" x="13218.75" y="-3375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="P20-12__l5_31-40.svg" x="13359.375" y="-3375" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="P20-12_/lvl8/tile31_40.png" preserveAspectRatio="none" x="13359.375" y="-3375" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<!-- LEVEL: 6 -->
+<!-- LEVEL: 7 -->
+<!-- LEVEL: 8 -->
+<!-- LEVEL: 9 -->
+</svg>

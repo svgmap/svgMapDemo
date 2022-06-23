@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13535.15625 -3585.9375 35.15625 35.15625" go:dataArea="13535.15625 -3585.9375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f51708" content="若狭高浜漁業協同組合音海支所,18481,福井県大飯郡高浜町音海33-39,地区別避難所,115,-1,0,0,0,0,0,1" xlink:title="若狭高浜漁業協同組合音海支所" transform="ref(svg,13550.7898,-3553.7778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51709" content="内浦公民館,18481,福井県大飯郡高浜町山中104-4-2,地区別避難所,272,-1,0,0,0,0,0,1" xlink:title="内浦公民館" transform="ref(svg,13546.387,-3551.7966)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51718" content="内浦小中学校,18481,福井県大飯郡高浜町山中107-30,地区別避難所,1116,-1,1,0,0,0,0,0" xlink:title="内浦小中学校" transform="ref(svg,13546.7067,-3551.9359)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51719" content="日引小学校（旧）,18481,福井県大飯郡高浜町日引21-61,地区別避難所,540,-1,1,0,0,0,0,0" xlink:title="日引小学校（旧）" transform="ref(svg,13546.9687,-3554.0662)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51720" content="音海小中学校（旧）,18481,福井県大飯郡高浜町音海30-13,地区別避難所,801,-1,1,0,0,0,0,0" xlink:title="音海小中学校（旧）" transform="ref(svg,13551.3199,-3553.6247)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51721" content="神野小学校（旧）,18481,福井県大飯郡高浜町神野4-1-1,地区別避難所,482,-1,1,0,0,0,0,0" xlink:title="神野小学校（旧）" transform="ref(svg,13549.7841,-3551.2528)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51728" content="大島小学校,18483,福井県大飯郡おおい町大島60-6,避難所,-1,1921,0,0,0,0,0,1" xlink:title="大島小学校" transform="ref(svg,13564.622,-3552.7723)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51729" content="はまかぜ交流センター,18483,福井県大飯郡おおい町大島90-27,避難所,-1,3506,0,0,0,0,0,1" xlink:title="はまかぜ交流センター" transform="ref(svg,13564.2621,-3552.4604)" x="0" y="0"/>
+<use xlink:href="#p0" id="f75176" content="河辺集会場,26202,京都府舞鶴市西屋,避難所,-1,-1,0,0,1,0,0,0" xlink:title="河辺集会場" transform="ref(svg,13541.1164,-3552.5778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f75192" content="室牛公民館,26202,京都府舞鶴市室牛,避難所,-1,-1,0,0,1,0,0,0" xlink:title="室牛公民館" transform="ref(svg,13541.8725,-3552.349)" x="0" y="0"/>
+<use xlink:href="#p0" id="f75207" content="大浦会館,26202,京都府舞鶴市字中田459,自主避難所,-1,-1,0,0,1,0,0,0" xlink:title="大浦会館" transform="ref(svg,13539.5902,-3551.7231)" x="0" y="0"/>
+<use xlink:href="#p0" id="f75208" content="大浦小学校,26202,京都府舞鶴市字平1583,避難所,-1,-1,0,0,1,0,0,0" xlink:title="大浦小学校" transform="ref(svg,13539.5934,-3551.783)" x="0" y="0"/>
+<use xlink:href="#p0" id="f75213" content="中田公民館,26202,京都府舞鶴市中田,避難所,-1,-1,0,0,1,0,0,0" xlink:title="中田公民館" transform="ref(svg,13540.3046,-3551.3363)" x="0" y="0"/>
+</g>
+</svg>

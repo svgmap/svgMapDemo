@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13640.625 -3796.875 70.3125 70.3125" go:dataArea="13640.625 -3796.875 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f48763" content="あすなろ公園,17204,石川県輪島市門前町浦上10-20-1,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="あすなろ公園" transform="ref(svg,13679.8236,-3730.5674)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48764" content="かやぶきの郷コミュニティ施設,17204,石川県輪島市三井町小泉漆原14番地2,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="かやぶきの郷コミュニティ施設" transform="ref(svg,13690.0854,-3730.6757)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48765" content="サン・アリーナ,17204,石川県輪島市,避難所,-1,-1,0,0,0,0,0,1" xlink:title="サン・アリーナ" transform="ref(svg,13691.3619,-3738.7377)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48766" content="ふれあいプラザ鵠巣,17204,石川県輪島市大野町菰沢39番地3,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ふれあいプラザ鵠巣" transform="ref(svg,13693.3863,-3739.7561)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48767" content="ふれあい健康センター,17204,石川県輪島市河井町2部287番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="ふれあい健康センター" transform="ref(svg,13690.1201,-3739.4119)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48768" content="ホテルルートイン輪島,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ホテルルートイン輪島" transform="ref(svg,13690.5059,-3739.6158)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48771" content="一本松ゲートボール場,17204,石川県輪島市河井町13部8-1他,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="一本松ゲートボール場" transform="ref(svg,13690.9984,-3739.1877)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48772" content="一本松総合運動公園,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="一本松総合運動公園" transform="ref(svg,13690.9425,-3739.1622)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48773" content="浦上健康増進広場,17204,石川県輪島市門前町浦上チの1の1,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="浦上健康増進広場" transform="ref(svg,13679.8602,-3730.7539)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48774" content="浦上公民館,17204,石川県輪島市門前町浦上8の58番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="浦上公民館" transform="ref(svg,13679.7878,-3730.6117)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48775" content="下本郷地区集会所,17204,石川県輪島市門前町谷口12の28番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="下本郷地区集会所" transform="ref(svg,13681.3256,-3728.7496)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48776" content="下本郷農村公園,17204,石川県輪島市門前町谷口12-28,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="下本郷農村公園" transform="ref(svg,13681.3268,-3728.7354)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48777" content="河井小学校（体育館）,17204,石川県輪島市河井町18部1-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="河井小学校（体育館）" transform="ref(svg,13690.3453,-3739.1959)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48778" content="河原田公民館,17204,石川県輪島市西脇町60番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="河原田公民館" transform="ref(svg,13690.8341,-3735.7283)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48779" content="河原田小学校（体育館）,17204,石川県輪島市横地町6字123,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="河原田小学校（体育館）" transform="ref(svg,13690.737,-3737.2489)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48781" content="旧二俣小学校（体育館）,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧二俣小学校（体育館）" transform="ref(svg,13686.579,-3735.5632)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48782" content="鵠巣公民館,17204,石川県輪島市深見町65部33番地1,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="鵠巣公民館" transform="ref(svg,13697.015,-3741.0532)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48783" content="鵠巣小学校（体育館）,17204,石川県輪島市大野町菰沢2-3,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="鵠巣小学校（体育館）" transform="ref(svg,13693.4576,-3739.7187)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48784" content="黒島公民館,17204,石川県輪島市門前町黒島町高池45番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="黒島公民館" transform="ref(svg,13673.563,-3727.8927)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48785" content="三井公民館,17204,石川県輪島市三井町長沢2字12番地1,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="三井公民館" transform="ref(svg,13690.266,-3731.5457)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48786" content="三井小学校（体育館）,17204,石川県輪島市三井町興徳寺10-字29,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="三井小学校（体育館）" transform="ref(svg,13689.8263,-3731.5495)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48787" content="三井地区運動広場,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="三井地区運動広場" transform="ref(svg,13690.1107,-3731.4942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48788" content="三井中学校（体育館）,17204,石川県輪島市三井町興徳寺10字29,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="三井中学校（体育館）" transform="ref(svg,13689.9622,-3731.6422)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48789" content="自然休養村センター,17204,石川県輪島市赤崎町ハ字50番地,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="自然休養村センター" transform="ref(svg,13681.4775,-3738.2104)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48790" content="七浦基幹集落センター,17204,石川県輪島市門前町餅田9-16-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="七浦基幹集落センター" transform="ref(svg,13675.5864,-3734.695)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48791" content="諸岡公民館,17204,石川県輪島市門前町道下7の175番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="諸岡公民館" transform="ref(svg,13674.5284,-3728.8391)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48792" content="松陵中学校（テニスコート）,17204,石川県輪島市河井町11部39-1,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="松陵中学校（テニスコート）" transform="ref(svg,13691.2074,-3739.07)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48793" content="松陵中学校（体育館）,17204,石川県輪島市河井町11部39-1,避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="松陵中学校（体育館）" transform="ref(svg,13691.1126,-3739.0032)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48794" content="上本郷地区集会所,17204,石川県輪島市門前町別所2の91番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上本郷地区集会所" transform="ref(svg,13683.9604,-3727.5107)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48795" content="上本郷農村公園,17204,石川県輪島市門前町別所2-91,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上本郷農村公園" transform="ref(svg,13683.9556,-3727.5183)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48796" content="上野台中学校（体育館）,17204,石川県輪島市宅田町25部36-1,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="上野台中学校（体育館）" transform="ref(svg,13689.7519,-3738.5599)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48797" content="西保小学校（体育館）,17204,石川県輪島市赤崎町ニ80,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="西保小学校（体育館）" transform="ref(svg,13681.364,-3738.3166)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48798" content="西保中学校（体育館）,17204,石川県輪島市大沢町ホサソ170,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西保中学校（体育館）" transform="ref(svg,13680.3685,-3737.4402)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48799" content="石川県奥能登土木総合事務所,17204,石川県輪島市河井町二二部-1-1,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="石川県奥能登土木総合事務所" transform="ref(svg,13690.1314,-3739.0793)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48800" content="大屋公民館,17204,石川県輪島市小伊勢町丸垣内22番地1,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大屋公民館" transform="ref(svg,13688.5942,-3738.1204)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48801" content="大屋小学校（体育館）,17204,石川県輪島市小伊勢町日隅7-3,避難所,-1,-1,0,0,0,0,0,1" xlink:title="大屋小学校（体育館）" transform="ref(svg,13688.9121,-3738.3182)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48802" content="町野グラウンドゴルフ場,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="町野グラウンドゴルフ場" transform="ref(svg,13707.776,-3743.8494)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48803" content="町野テニスコート,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="町野テニスコート" transform="ref(svg,13707.8497,-3744.0089)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48804" content="町野公民館,17204,石川県輪島市町野町粟蔵川原田22番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="町野公民館" transform="ref(svg,13708.8106,-3742.3297)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48805" content="町野小学校（体育館）,17204,石川県輪島市町野町粟蔵川原田42,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="町野小学校（体育館）" transform="ref(svg,13708.9054,-3742.2405)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48806" content="町野野球場,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="町野野球場" transform="ref(svg,13707.7095,-3743.9277)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48807" content="天神山広場,17204,石川県輪島市輪島崎地内,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="天神山広場" transform="ref(svg,13689.8194,-3740.4676)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48808" content="東陽中学校（体育館）,17204,石川県輪島市,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="東陽中学校（体育館）" transform="ref(svg,13708.738,-3742.2626)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48809" content="南志見小学校,17204,石川県輪島市里町3字16,避難所,-1,-1,0,0,0,0,0,1" xlink:title="南志見小学校" transform="ref(svg,13703.3719,-3743.2903)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48810" content="農村ふれあい広場,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="農村ふれあい広場" transform="ref(svg,13690.9306,-3735.6719)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48811" content="農村環境改善センター,17204,石川県輪島市里町32字36番地,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="農村環境改善センター" transform="ref(svg,13703.413,-3743.0293)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48813" content="文化会館（輪島公民館）,17204,石川県輪島市河井町20部1番地1,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="文化会館（輪島公民館）" transform="ref(svg,13690.5894,-3738.8594)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48814" content="鳳至公民館,17204,石川県輪島市鳳至町石浦町83番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="鳳至公民館" transform="ref(svg,13689.6849,-3739.8542)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48815" content="鳳至小学校（グラウンド）,17204,石川県輪島市鳳至町堂金田1番地,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="鳳至小学校（グラウンド）" transform="ref(svg,13689.5309,-3739.6253)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48816" content="鳳来山公園,17204,石川県輪島市鳳至町寺山4他,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="鳳来山公園" transform="ref(svg,13689.6336,-3740.081)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48817" content="本郷公民館,17204,石川県輪島市門前町二又川4の4番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="本郷公民館" transform="ref(svg,13682.662,-3728.4773)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48818" content="門前コミュニティセンター,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="門前コミュニティセンター" transform="ref(svg,13677.2001,-3729.0069)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48819" content="門前会館,17204,石川県輪島市門前町走出6の92番地2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="門前会館" transform="ref(svg,13676.7804,-3728.7803)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48820" content="門前健民体育館,17204,石川県輪島市門前町清水7の1番地,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="門前健民体育館" transform="ref(svg,13675.8909,-3729.1113)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48821" content="門前高等学校（体育館）,17204,石川県輪島市門前町広岡5-3,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="門前高等学校（体育館）" transform="ref(svg,13676.7799,-3728.6213)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48822" content="門前西小学校（体育館）,17204,石川県輪島市門前町道下1-123,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="門前西小学校（体育館）" transform="ref(svg,13674.0945,-3728.4997)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48823" content="門前総合運動公園（簡易グランド）,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="門前総合運動公園（簡易グランド）" transform="ref(svg,13675.9964,-3729.152)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48824" content="門前中学校（体育館）,17204,石川県輪島市門前町清水10-21,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="門前中学校（体育館）" transform="ref(svg,13676.4235,-3729.1854)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48825" content="門前東小学校（体育館）,17204,石川県輪島市門前町清水1-68,避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="門前東小学校（体育館）" transform="ref(svg,13676.6676,-3728.8079)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48826" content="緑の健康広場,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="緑の健康広場" transform="ref(svg,13690.8817,-3735.7136)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48827" content="輪島高等学校（体育館）,17204,石川県輪島市河井町18-42-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="輪島高等学校（体育館）" transform="ref(svg,13690.3719,-3739.0199)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48828" content="輪島高等学校稲舟校舎（体育館）,17204,石川県輪島市稲舟町上野50,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="輪島高等学校稲舟校舎（体育館）" transform="ref(svg,13692.0007,-3739.1876)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48829" content="輪島市空港交流センター,17204,石川県輪島市三井町洲衛9部27番地6,避難所,-1,-1,0,0,0,0,0,1" xlink:title="輪島市空港交流センター" transform="ref(svg,13696.3065,-3729.811)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48830" content="輪島地方合同庁舎,17204,石川県輪島市,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="輪島地方合同庁舎" transform="ref(svg,13689.5453,-3739.1876)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48867" content="真浦集会場,17205,石川県珠洲市真浦町ソ-9,津波来襲時緊急一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="真浦集会場" transform="ref(svg,13709.1573,-3747.036)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48892" content="白山神社,17205,石川県珠洲市真浦町,津波来襲時緊急一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="白山神社" transform="ref(svg,13709.5087,-3747.2882)" x="0" y="0"/>
+<use xlink:href="#p0" id="f48906" content="林道仁江線,17205,石川県珠洲市仁江町6-1-1,津波来襲時緊急一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="林道仁江線" transform="ref(svg,13710.9199,-3748.1746)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49495" content="伊久留集会所,17461,石川県鳳珠郡穴水町伊久留ヨの6番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="伊久留集会所" transform="ref(svg,13698.0973,-3727.3492)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49528" content="菅谷樟谷地区活性化施設,17461,石川県鳳珠郡穴水町菅谷い-56,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菅谷樟谷地区活性化施設" transform="ref(svg,13698.2385,-3729.2682)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49534" content="藤巻集会所,17461,石川県鳳珠郡穴水町木原,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="藤巻集会所" transform="ref(svg,13695.1404,-3727.3684)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49537" content="木原地区集会所,17461,石川県鳳珠郡穴水町木原ろの159番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="木原地区集会所" transform="ref(svg,13696.0204,-3728.2988)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49555" content="岩井戸公民館,17463,石川県鳳珠郡能登町字黒川26号11番地,準広域避難所,390,780,0,0,0,0,0,1" xlink:title="岩井戸公民館" transform="ref(svg,13703.9443,-3736.4911)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49561" content="旧瑞穂小中学校,17463,石川県鳳珠郡能登町字瑞穂10字120番地,準広域避難所,461,921,0,0,0,0,0,1" xlink:title="旧瑞穂小中学校" transform="ref(svg,13704.0818,-3728.1154)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49592" content="上町保育所,17463,石川県鳳珠郡能登町字天坂い部65番地,準広域避難所,234,467,0,0,0,0,0,1" xlink:title="上町保育所" transform="ref(svg,13710.5243,-3735.3747)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49594" content="新開農地周辺,17463,石川県鳳珠郡能登町,津波緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="新開農地周辺" transform="ref(svg,13709.5128,-3727.438)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49598" content="神野公民館,17463,石川県鳳珠郡能登町字鶴町11字13番地1,準広域避難所,402,803,0,0,0,0,0,1" xlink:title="神野公民館" transform="ref(svg,13708.3908,-3731.6003)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49600" content="瑞穂公民館,17463,石川県鳳珠郡能登町字瑞穂10字166番地,準広域避難所,362,723,0,0,0,0,0,1" xlink:title="瑞穂公民館" transform="ref(svg,13704.0486,-3728.0451)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49612" content="能登七見健康福祉の郷なごみ,17463,石川県鳳珠郡能登町字七見ツ字100番地,準広域避難所、津波緊急避難場所,50,-1,0,0,0,0,0,1" xlink:title="能登七見健康福祉の郷なごみ" transform="ref(svg,13709.411,-3726.6933)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49630" content="柳田山村開発センター,17463,石川県鳳珠郡能登町字柳田仁部54番地,準広域避難所,624,1248,0,0,0,0,0,1" xlink:title="柳田山村開発センター" transform="ref(svg,13709.5939,-3736.8943)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49631" content="柳田小学校,17463,石川県鳳珠郡能登町字礼部2番1地,広域避難所,663,1326,0,0,0,0,0,1" xlink:title="柳田小学校" transform="ref(svg,13709.5062,-3736.6206)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49632" content="柳田体育館,17463,石川県鳳珠郡能登町字柳田梅部55番地,広域避難所,698,1396,0,0,0,0,0,1" xlink:title="柳田体育館" transform="ref(svg,13709.2306,-3736.8733)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49633" content="柳田中学校,17463,石川県鳳珠郡能登町字礼部3番地,広域避難所,458,915,0,0,0,0,0,1" xlink:title="柳田中学校" transform="ref(svg,13709.1888,-3736.5425)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49634" content="柳田保育所,17463,石川県鳳珠郡能登町字ロ部245-1,準広域避難所,379,758,0,0,0,0,0,1" xlink:title="柳田保育所" transform="ref(svg,13708.7252,-3737.3363)" x="0" y="0"/>
+</g>
+</svg>

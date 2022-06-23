@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13561.5234375 -3471.6796875 8.7890625 8.7890625" go:dataArea="13561.5234375 -3471.6796875 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f79584" content="恩智川治水緑地,27212,大阪府八尾市福万寺町他,広域避難地,91000,182000,0,0,0,0,0,1" xlink:title="恩智川治水緑地" transform="ref(svg,13562.6435,-3464.8284)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79612" content="高安コミュニティセンター,27212,大阪府八尾市千塚3-180-2,第２避難所,123,409,0,0,0,0,0,1" xlink:title="高安コミュニティセンター" transform="ref(svg,13564.1613,-3463.1376)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79614" content="高安中学校,27212,大阪府八尾市水越2-117,指定避難所、一時避難地,6268,10971,0,0,0,0,0,1" xlink:title="高安中学校" transform="ref(svg,13563.7874,-3463.3985)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79621" content="山本小学校,27212,大阪府八尾市山本町北2-6-39,指定避難所、一時避難地,6190,10762,0,0,0,0,0,1" xlink:title="山本小学校" transform="ref(svg,13561.8375,-3463.5846)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79624" content="山本町北第１公園,27212,大阪府八尾市山本町北4-24-1,一時避難地,1750,3500,0,0,0,0,0,1" xlink:title="山本町北第１公園" transform="ref(svg,13561.8539,-3463.8781)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79625" content="山本町北第２公園,27212,大阪府八尾市山本町北7-2,一時避難地,4000,8000,0,0,0,0,0,1" xlink:title="山本町北第２公園" transform="ref(svg,13561.7443,-3464.5624)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79643" content="上之島小学校,27212,大阪府八尾市上之島町北3-22-1,指定避難所、一時避難地,5378,9276,0,0,0,0,0,1" xlink:title="上之島小学校" transform="ref(svg,13562.3458,-3463.9151)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79644" content="上之島中学校,27212,大阪府八尾市上之島町南6-5-1,指定避難所、一時避難地,6454,10786,0,0,0,0,0,1" xlink:title="上之島中学校" transform="ref(svg,13562.7013,-3463.5318)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79645" content="上尾公園,27212,大阪府八尾市上尾町3-22-2,一時避難地,600,1200,0,0,0,0,0,1" xlink:title="上尾公園" transform="ref(svg,13563.1732,-3463.5687)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79648" content="水越公園,27212,大阪府八尾市水越8-67､68,一時避難地,500,1000,0,0,0,0,0,1" xlink:title="水越公園" transform="ref(svg,13564.5229,-3463.4975)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79651" content="西山本公園,27212,大阪府八尾市西山本町5-67-3,一時避難地,500,1000,0,0,0,0,0,1" xlink:title="西山本公園" transform="ref(svg,13561.6548,-3463.0204)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79675" content="東山本公園,27212,大阪府八尾市東山本町4-70-2,一時避難地,650,1300,0,0,0,0,0,1" xlink:title="東山本公園" transform="ref(svg,13562.1947,-3463.1026)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79676" content="東山本小学校,27212,大阪府八尾市東山本町9-3-33,指定避難所、一時避難地,6995,12366,0,0,0,0,0,1" xlink:title="東山本小学校" transform="ref(svg,13562.8708,-3463.1347)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79678" content="東中学校,27212,大阪府八尾市東町3-8,指定避難所、一時避難地,6484,11360,0,0,0,0,0,1" xlink:title="東中学校" transform="ref(svg,13563.009,-3463.1041)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79699" content="府立山本高等学校,27212,大阪府八尾市山本町北1-1-44,指定避難所、一時避難地,8751,14613,0,0,0,0,0,1" xlink:title="府立山本高等学校" transform="ref(svg,13561.8209,-3463.4652)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79700" content="府立清友高等学校,27212,大阪府八尾市千塚2-96,一時避難地、指定避難所,8297,16095,0,0,0,0,0,1" xlink:title="府立清友高等学校" transform="ref(svg,13563.9596,-3463.2236)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79704" content="北高安小学校,27212,大阪府八尾市水越2-98,指定避難所、一時避難地,4344,7466,0,0,0,0,0,1" xlink:title="北高安小学校" transform="ref(svg,13563.8179,-3463.3902)" x="0" y="0"/>
+<use xlink:href="#p0" id="f79705" content="北山本小学校,27212,大阪府八尾市福万寺町2-1,指定避難所、一時避難地,6333,11314,0,0,0,0,0,1" xlink:title="北山本小学校" transform="ref(svg,13562.1097,-3464.3956)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80029" content="御供田公園,27218,大阪府大東市御供田二丁目20番,一時避難地,-1,11000,0,0,0,0,0,1" xlink:title="御供田公園" transform="ref(svg,13563.017,-3470.5154)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80030" content="四条小学校,27218,大阪府大東市野崎3丁目6-1,指定避難所,427,882,0,0,0,0,0,1" xlink:title="四条小学校" transform="ref(svg,13564.2427,-3471.6532)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80031" content="四条中学校,27218,大阪府大東市寺川2丁目7-1,指定避難所,366,756,0,0,0,0,0,1" xlink:title="四条中学校" transform="ref(svg,13564.5677,-3470.8949)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80032" content="四条南小学校,27218,大阪府大東市野崎4丁目6-1,指定避難所,442,912,0,0,0,0,0,1" xlink:title="四条南小学校" transform="ref(svg,13564.0816,-3471.381)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80035" content="市民会館,27218,大阪府大東市曙町4-6,指定避難所,1146,2364,0,0,0,0,0,1" xlink:title="市民会館" transform="ref(svg,13562.4854,-3471.0924)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80036" content="寺川住宅地域,27218,大阪府大東市寺川1丁目、中垣内4丁目、平野屋1丁目,広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="寺川住宅地域" transform="ref(svg,13564.3907,-3470.9186)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80037" content="住道北小学校,27218,大阪府大東市浜町2-12,指定避難所,442,912,0,0,0,0,0,1" xlink:title="住道北小学校" transform="ref(svg,13562.2457,-3470.856)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80044" content="泉小学校,27218,大阪府大東市泉町1丁目3-1,指定避難所,452,934,0,0,0,0,0,1" xlink:title="泉小学校" transform="ref(svg,13563.3206,-3470.756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80045" content="泉町公民館,27218,大阪府大東市泉町1丁目3-2,指定避難所,31,64,0,0,0,0,0,1" xlink:title="泉町公民館" transform="ref(svg,13563.2678,-3470.7301)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80046" content="大阪産業大学,27218,大阪府大東市寺川1丁目、中垣内4丁目、平野屋5丁目,広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="大阪産業大学" transform="ref(svg,13564.14,-3470.7477)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80047" content="大阪産業大学総合体育館,27218,大阪府大東市中垣内3丁目1-1,指定避難所,1395,2878,0,0,0,0,0,1" xlink:title="大阪産業大学総合体育館" transform="ref(svg,13564.6857,-3470.843)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80048" content="大東公園,27218,大阪府大東市谷川二丁目9番,一時避難地,-1,13000,0,0,0,0,0,1" xlink:title="大東公園" transform="ref(svg,13563.1592,-3471.1116)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80049" content="大東中央公園地域,27218,大阪府大東市深野1丁目、緑が丘1丁目,広域避難地,106000,106000,0,0,0,0,0,1" xlink:title="大東中央公園地域" transform="ref(svg,13562.5425,-3471.4314)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80050" content="谷川中学校,27218,大阪府大東市谷川2丁目6-1,指定避難所,477,984,0,0,0,0,0,1" xlink:title="谷川中学校" transform="ref(svg,13562.8512,-3471.2504)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80051" content="中垣内公民館,27218,大阪府大東市中垣内2丁目2-15,指定避難所,77,158,0,0,0,0,0,1" xlink:title="中垣内公民館" transform="ref(svg,13564.7213,-3470.5775)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80052" content="中垣内浜公園,27218,大阪府大東市中垣内四丁目4番,一時避難地,-1,15000,0,0,0,0,0,1" xlink:title="中垣内浜公園" transform="ref(svg,13564.3058,-3470.6652)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80055" content="府営寺川住宅,27218,大阪府大東市寺川1丁目、中垣内4丁目、平野屋2丁目,広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="府営寺川住宅" transform="ref(svg,13564.2607,-3470.9444)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80056" content="府立消防学校,27218,大阪府大東市寺川1丁目、中垣内4丁目、平野屋4丁目,広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="府立消防学校" transform="ref(svg,13563.6704,-3470.9963)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80057" content="府立野崎高校,27218,大阪府大東市寺川1丁目、中垣内4丁目、平野屋3丁目,広域避難地、指定避難所,737,1522,0,0,0,0,0,1" xlink:title="府立野崎高校" transform="ref(svg,13564.0955,-3470.8727)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80058" content="朋来住宅地域,27218,大阪府大東市朋来1丁目、2丁目,広域避難地,90000,90000,0,0,0,0,0,1" xlink:title="朋来住宅地域" transform="ref(svg,13561.6941,-3469.8787)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80066" content="末広公園,27218,大阪府大東市末広町6番,一時避難地,-1,14000,0,0,0,0,0,1" xlink:title="末広公園" transform="ref(svg,13562.193,-3470.5203)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80069" content="龍間公会堂,27218,大阪府大東市大字龍間1333,指定避難所,96,199,0,0,0,0,0,1" xlink:title="龍間公会堂" transform="ref(svg,13566.0575,-3471.0776)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80516" content="（旧）加納高等学校周辺,27227,大阪府東大阪市,広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="（旧）加納高等学校周辺" transform="ref(svg,13562.5082,-3469.4418)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80518" content="たまがわ高等支援学校,27227,大阪府東大阪市稲葉2-3-25,一時避難地、第２次避難所,-1,-1,0,0,0,0,0,1" xlink:title="たまがわ高等支援学校" transform="ref(svg,13561.7961,-3467.0558)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80519" content="ドリーム２１,27227,大阪府東大阪市,第２次避難所,-1,-1,0,0,0,0,0,1" xlink:title="ドリーム２１" transform="ref(svg,13563.0963,-3466.828)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80520" content="みどり清朋高校,27227,大阪府東大阪市,一時避難地、第２次避難所,-1,-1,0,0,0,0,0,1" xlink:title="みどり清朋高校" transform="ref(svg,13562.6654,-3464.5485)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80529" content="英田中学校,27227,大阪府東大阪市吉田本町1-6-10,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="英田中学校" transform="ref(svg,13562.2985,-3467.2508)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80530" content="英田南小学校,27227,大阪府東大阪市吉田5-15-16,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="英田南小学校" transform="ref(svg,13562.3458,-3466.6176)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80531" content="英田北小学校,27227,大阪府東大阪市松原1-1-27,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="英田北小学校" transform="ref(svg,13562.5819,-3467.3481)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80532" content="横小路公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="横小路公園" transform="ref(svg,13564.8293,-3464.8959)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80537" content="恩智川治水緑地周辺,27227,大阪府東大阪市,広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="恩智川治水緑地周辺" transform="ref(svg,13562.7731,-3464.7926)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80538" content="加納小学校,27227,大阪府東大阪市加納3-6-8,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="加納小学校" transform="ref(svg,13562.4707,-3469.5117)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80539" content="加納西公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="加納西公園" transform="ref(svg,13562.3085,-3469.4467)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80540" content="加納東公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="加納東公園" transform="ref(svg,13563.2985,-3469.3938)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80541" content="加納北公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="加納北公園" transform="ref(svg,13563.027,-3469.913)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80542" content="加納緑地,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="加納緑地" transform="ref(svg,13563.289,-3469.5145)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80543" content="花園公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="花園公園" transform="ref(svg,13561.955,-3465.9698)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80544" content="花園高校,27227,大阪府東大阪市花園東町3-1-25,一時避難地、第２次避難所,-1,-1,0,0,0,0,0,1" xlink:title="花園高校" transform="ref(svg,13562.268,-3465.8621)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80545" content="花園小学校,27227,大阪府東大阪市花園本町2-7-41,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="花園小学校" transform="ref(svg,13562.0153,-3465.7927)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80546" content="花園西町公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="花園西町公園" transform="ref(svg,13561.5372,-3466.1723)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80547" content="花園中央公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="花園中央公園" transform="ref(svg,13562.9221,-3466.9596)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80548" content="花園中央公園周辺,27227,大阪府東大阪市,広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="花園中央公園周辺" transform="ref(svg,13563.0952,-3466.9372)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80550" content="花園東町公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="花園東町公園" transform="ref(svg,13562.3039,-3465.9952)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80551" content="花園北小学校,27227,大阪府東大阪市花園本町1-3-29,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="花園北小学校" transform="ref(svg,13561.918,-3466.1149)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80557" content="吉原公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="吉原公園" transform="ref(svg,13562.2983,-3468.5447)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80558" content="吉原北公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="吉原北公園" transform="ref(svg,13562.2197,-3468.2845)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80559" content="吉田公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="吉田公園" transform="ref(svg,13561.8726,-3466.948)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80573" content="古箕輪公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="古箕輪公園" transform="ref(svg,13561.7481,-3468.7442)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80577" content="孔舎衙小学校,27227,大阪府東大阪市日下町6-3-6,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="孔舎衙小学校" transform="ref(svg,13564.5261,-3469.5895)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80578" content="孔舎衙中学校,27227,大阪府東大阪市善根寺町1-6-1,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="孔舎衙中学校" transform="ref(svg,13565.151,-3469.8228)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80579" content="孔舎衙東小学校,27227,大阪府東大阪市日下町7-1-7,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="孔舎衙東小学校" transform="ref(svg,13564.8927,-3469.4284)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80592" content="今米公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="今米公園" transform="ref(svg,13562.5519,-3468.0987)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80593" content="桜町公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="桜町公園" transform="ref(svg,13563.3976,-3466.2619)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80597" content="四条やまなみプラザ,27227,大阪府東大阪市南四条町1-7,第２次避難所,-1,-1,0,0,0,0,0,1" xlink:title="四条やまなみプラザ" transform="ref(svg,13564.0701,-3465.802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80600" content="若宮公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="若宮公園" transform="ref(svg,13564.9509,-3467.9025)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80609" content="盾津東中学校,27227,大阪府東大阪市川田3-2-26,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="盾津東中学校" transform="ref(svg,13562.4707,-3468.9673)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80612" content="松原公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="松原公園" transform="ref(svg,13562.8642,-3467.4365)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80615" content="上四条小学校,27227,大阪府東大阪市上四条町14-25,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="上四条小学校" transform="ref(svg,13564.8095,-3465.8316)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80620" content="新家第１公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="新家第１公園" transform="ref(svg,13562.6529,-3466.3851)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80621" content="新家第２公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="新家第２公園" transform="ref(svg,13562.8855,-3466.447)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80622" content="新家第３公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="新家第３公園" transform="ref(svg,13563.0985,-3466.4765)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80627" content="水走公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="水走公園" transform="ref(svg,13563.1515,-3468.3961)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80628" content="水走西公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="水走西公園" transform="ref(svg,13562.7491,-3467.8245)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80629" content="水走南公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="水走南公園" transform="ref(svg,13563.1519,-3467.4711)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80634" content="石切公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="石切公園" transform="ref(svg,13564.699,-3468.3867)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80635" content="石切小学校,27227,大阪府東大阪市中石切町1-6-50,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="石切小学校" transform="ref(svg,13564.4178,-3468.348)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80636" content="石切中学校,27227,大阪府東大阪市中石切町4-10-3,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="石切中学校" transform="ref(svg,13564.4983,-3468.9229)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80637" content="石切東小学校,27227,大阪府東大阪市上石切町2-1620-9,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="石切東小学校" transform="ref(svg,13565.7177,-3468.5424)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80638" content="川田公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="川田公園" transform="ref(svg,13562.196,-3469.0115)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80648" content="大池公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="大池公園" transform="ref(svg,13564.5976,-3465.7043)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80654" content="池島小学校,27227,大阪府東大阪市池島町3-6-30,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="池島小学校" transform="ref(svg,13563.2374,-3465.34)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80655" content="池島中学校,27227,大阪府東大阪市池島町3-10-1,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="池島中学校" transform="ref(svg,13562.9902,-3465.2622)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80658" content="中石切公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="中石切公園" transform="ref(svg,13563.8672,-3468.8681)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80659" content="中部緑地,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="中部緑地" transform="ref(svg,13562.7107,-3469.4828)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80675" content="島之内公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="島之内公園" transform="ref(svg,13561.9836,-3467.6766)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80676" content="東石切公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="東石切公園" transform="ref(svg,13565.0831,-3468.0514)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80682" content="縄手小学校,27227,大阪府東大阪市南四条町3-2,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="縄手小学校" transform="ref(svg,13563.9818,-3465.6622)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80683" content="縄手中学校,27227,大阪府東大阪市南四条町3-26,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="縄手中学校" transform="ref(svg,13564.0123,-3465.5955)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80684" content="縄手東小学校,27227,大阪府東大阪市河内町2-6,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="縄手東小学校" transform="ref(svg,13564.5207,-3466.6203)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80685" content="縄手南小学校,27227,大阪府東大阪市六万寺町2-3-17,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="縄手南小学校" transform="ref(svg,13564.1679,-3465.0456)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80686" content="縄手南中学校,27227,大阪府東大阪市横小路町3-12-5,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="縄手南中学校" transform="ref(svg,13564.1734,-3464.4484)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80687" content="縄手北小学校,27227,大阪府東大阪市旭町2-4,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="縄手北小学校" transform="ref(svg,13563.854,-3466.5926)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80688" content="縄手北中学校,27227,大阪府東大阪市河内町1-1,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="縄手北中学校" transform="ref(svg,13564.4125,-3466.5852)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80694" content="日下ゆうゆうプラザ,27227,大阪府東大阪市日下町3-1-7,第２次避難所,-1,-1,0,0,0,0,0,1" xlink:title="日下ゆうゆうプラザ" transform="ref(svg,13564.4572,-3469.0963)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80695" content="日下公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="日下公園" transform="ref(svg,13564.9813,-3469.1761)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80696" content="日新高校,27227,大阪府東大阪市日下町7-9-11,一時避難地、第２次避難所,-1,-1,0,0,0,0,0,1" xlink:title="日新高校" transform="ref(svg,13565.2343,-3469.484)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80708" content="菱江中公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="菱江中公園" transform="ref(svg,13561.5979,-3467.7021)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80709" content="菱江東公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="菱江東公園" transform="ref(svg,13561.6108,-3467.3587)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80711" content="菱江北公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="菱江北公園" transform="ref(svg,13561.7845,-3468.0602)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80717" content="柄池公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="柄池公園" transform="ref(svg,13564.5375,-3465.9614)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80718" content="宝町南公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="宝町南公園" transform="ref(svg,13563.9921,-3467.3921)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80719" content="北宮小学校,27227,大阪府東大阪市川田2-3-7,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="北宮小学校" transform="ref(svg,13562.068,-3468.8895)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80721" content="北池の端公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="北池の端公園" transform="ref(svg,13562.5544,-3467.7355)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80726" content="枚岡公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="枚岡公園" transform="ref(svg,13565.4573,-3467.4976)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80727" content="枚岡樟風高校,27227,大阪府東大阪市鷹殿町18-1,一時避難地、第２次避難所,-1,-1,0,0,0,0,0,1" xlink:title="枚岡樟風高校" transform="ref(svg,13563.6256,-3466.8789)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80728" content="枚岡西小学校,27227,大阪府東大阪市南荘町2-26,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="枚岡西小学校" transform="ref(svg,13564.1956,-3467.4453)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80729" content="枚岡中央公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="枚岡中央公園" transform="ref(svg,13564.6684,-3467.2382)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80730" content="枚岡中学校,27227,大阪府東大阪市箱殿町8-25,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="枚岡中学校" transform="ref(svg,13564.2928,-3467.0953)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80731" content="枚岡東小学校,27227,大阪府東大阪市立花町12-28,一時避難地、第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="枚岡東小学校" transform="ref(svg,13564.9983,-3467.4259)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80732" content="末広町公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="末広町公園" transform="ref(svg,13563.559,-3465.6248)" x="0" y="0"/>
+<use xlink:href="#p0" id="f80739" content="六万寺公園,27227,大阪府東大阪市,一時避難地,-1,-1,0,0,0,0,0,1" xlink:title="六万寺公園" transform="ref(svg,13563.7989,-3465.0466)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85887" content="コミュニティセンター,29209,奈良県生駒市元町1丁目6-12,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="コミュニティセンター" transform="ref(svg,13569.8806,-3469.2118)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85889" content="セラビーいこま,29209,奈良県生駒市東新町1-3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="セラビーいこま" transform="ref(svg,13569.8887,-3469.2678)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85890" content="たけまるホール,29209,奈良県生駒市北新町9-28,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="たけまるホール" transform="ref(svg,13569.6664,-3469.3823)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85891" content="むかいやま公園体育館,29209,奈良県生駒市萩原町673,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="むかいやま公園体育館" transform="ref(svg,13569.6447,-3466.3278)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85896" content="市民体育館,29209,奈良県生駒市門前町9-20,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="市民体育館" transform="ref(svg,13569.0329,-3468.7763)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85906" content="生駒市役所,29209,奈良県生駒市東新町8-38,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="生駒市役所" transform="ref(svg,13570.0422,-3469.1924)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85908" content="生駒台小学校,29209,奈良県生駒市新生駒台1-33,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="生駒台小学校" transform="ref(svg,13570.2366,-3470.9561)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85909" content="生駒中学校,29209,奈良県生駒市西松ヶ丘9-19,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="生駒中学校" transform="ref(svg,13569.3728,-3469.8756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85918" content="中央公民館,29209,奈良県生駒市北新町9-28,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中央公民館" transform="ref(svg,13569.6675,-3469.3935)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85920" content="俵口小学校,29209,奈良県生駒市俵口町614-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="俵口小学校" transform="ref(svg,13568.9311,-3470.5903)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85924" content="緑ヶ丘中学校,29209,奈良県生駒市緑ヶ丘2232,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="緑ヶ丘中学校" transform="ref(svg,13569.8895,-3468.3452)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86113" content="健民運動場,29342,奈良県生駒郡平群町,広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="健民運動場" transform="ref(svg,13569.5259,-3463.3887)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86119" content="中央公民館,29342,奈良県生駒郡平群町福貴1037-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中央公民館" transform="ref(svg,13569.9134,-3462.9484)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86120" content="中学校（体育館）,29342,奈良県生駒郡平群町福貴1301,避難所、広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="中学校（体育館）" transform="ref(svg,13569.4562,-3463.1929)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86122" content="東小学校（体育館）,29342,奈良県生駒郡平群町吉新2-2-13,避難所、広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="東小学校（体育館）" transform="ref(svg,13570.0062,-3463.1401)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86125" content="平群幼稚園,29342,奈良県生駒郡平群町吉新3-1-12,避難所,-1,-1,0,0,0,0,0,1" xlink:title="平群幼稚園" transform="ref(svg,13570.259,-3463.0734)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86127" content="北小学校（体育館）,29342,奈良県生駒郡平群町緑ヶ丘1-4-1,避難所、広域避難地,-1,-1,0,0,0,0,0,1" xlink:title="北小学校（体育館）" transform="ref(svg,13569.7562,-3464.4566)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86129" content="老人福祉センター「かしのき荘」,29342,奈良県生駒郡平群町梨本351-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="老人福祉センター「かしのき荘」" transform="ref(svg,13569.8838,-3463.2165)" x="0" y="0"/>
+</g>
+</svg>

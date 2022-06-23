@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13983.3984375 -3585.9375 8.7890625 8.7890625" go:dataArea="13983.3984375 -3585.9375 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f31903" content="やしお生涯楽習館,11234,埼玉県八潮市鶴ヶ曽根420番地2,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="やしお生涯楽習館" transform="ref(svg,13983.7647,-3582.7369)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31904" content="ゆまにて,11234,埼玉県八潮市南川崎523番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ゆまにて" transform="ref(svg,13985.7363,-3581.4768)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31905" content="下河原運動広場,11234,埼玉県八潮市鶴ヶ曽根2213番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="下河原運動広場" transform="ref(svg,13984.28,-3583.0769)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31906" content="県立八潮高校,11234,埼玉県八潮市鶴ヶ曽根650番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="県立八潮高校" transform="ref(svg,13983.4755,-3583.0665)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31907" content="県立八潮南高校,11234,埼玉県八潮市南川崎519番地1,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="県立八潮南高校" transform="ref(svg,13985.8619,-3581.4725)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31911" content="大原公園,11234,埼玉県八潮市八潮三丁目27番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大原公園" transform="ref(svg,13983.693,-3581.377)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31913" content="大原中学校,11234,埼玉県八潮市八潮五丁目9番地1,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大原中学校" transform="ref(svg,13983.7561,-3580.9418)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31914" content="大瀬運動公園,11234,埼玉県八潮市大瀬1304番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大瀬運動公園" transform="ref(svg,13985.7798,-3580.7553)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31915" content="大瀬小学校,11234,埼玉県八潮市大瀬530番地1,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大瀬小学校" transform="ref(svg,13984.9477,-3580.9335)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31916" content="大曽根小学校,11234,埼玉県八潮市垳527番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大曽根小学校" transform="ref(svg,13983.5422,-3580.3669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31917" content="中川フラワーパーク,11234,埼玉県八潮市木曽根1009番地1,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中川フラワーパーク" transform="ref(svg,13985.6788,-3582.2375)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31918" content="中川小学校,11234,埼玉県八潮市大瀬1516番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中川小学校" transform="ref(svg,13985.4588,-3579.8058)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31919" content="潮止小学校,11234,埼玉県八潮市南川崎822番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="潮止小学校" transform="ref(svg,13985.2504,-3581.5251)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31920" content="潮止中学校,11234,埼玉県八潮市古新田530番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="潮止中学校" transform="ref(svg,13984.5783,-3580.0475)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31921" content="八条親水公園,11234,埼玉県八潮市八條1620番地3,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="八条親水公園" transform="ref(svg,13983.4866,-3584.1706)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31922" content="八潮中央公園,11234,埼玉県八潮市中央一丁目9番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="八潮中央公園" transform="ref(svg,13983.8275,-3582.1516)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31923" content="八潮中学校,11234,埼玉県八潮市中央一丁目1番地2,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="八潮中学校" transform="ref(svg,13983.7338,-3582.2861)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31924" content="八潮南公園,11234,埼玉県八潮市大瀬1847番地8,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="八潮南公園" transform="ref(svg,13985.8066,-3579.4617)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31928" content="八條公民館,11234,埼玉県八潮市八條2753番地46,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="八條公民館" transform="ref(svg,13983.4752,-3583.7228)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31929" content="八條小学校,11234,埼玉県八潮市鶴ヶ曽根1番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="八條小学校" transform="ref(svg,13983.7977,-3583.5942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31932" content="文化スポーツセンター,11234,埼玉県八潮市八潮三丁目31番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="文化スポーツセンター" transform="ref(svg,13983.6465,-3581.2805)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31934" content="老人福祉センター寿楽荘,11234,埼玉県八潮市木曽根322番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="老人福祉センター寿楽荘" transform="ref(svg,13984.6519,-3581.1974)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31966" content="栄中学校,11237,埼玉県三郷市栄4-325,避難場所,2802,-1,1,0,0,0,0,0" xlink:title="栄中学校" transform="ref(svg,13987.7808,-3581.5778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31967" content="県営みさと公園,11237,埼玉県三郷市高州3丁目地内,広域避難場所,-1,162000,1,0,0,0,0,0" xlink:title="県営みさと公園" transform="ref(svg,13987.229,-3578.6378)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31968" content="県立三郷工業技術高等学校,11237,埼玉県三郷市彦成3-325,避難場所,2910,-1,1,0,0,0,0,0" xlink:title="県立三郷工業技術高等学校" transform="ref(svg,13985.8891,-3585.2718)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31969" content="県立三郷高等学校,11237,埼玉県三郷市花和田620-1,避難場所,3756,-1,1,0,0,0,0,0" xlink:title="県立三郷高等学校" transform="ref(svg,13987.0141,-3582.9804)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31970" content="県立三郷北高等学校,11237,埼玉県三郷市大広戸808,避難場所,4170,-1,1,0,0,0,0,0" xlink:title="県立三郷北高等学校" transform="ref(svg,13987.5335,-3584.3386)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31971" content="県立三郷養護学校,11237,埼玉県三郷市駒形56,避難場所,1836,-1,1,0,0,0,0,0" xlink:title="県立三郷養護学校" transform="ref(svg,13986.3863,-3584.7885)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31972" content="戸ヶ崎小学校,11237,埼玉県三郷市戸ヶ崎3-76-1,避難場所,1952,-1,1,0,0,0,0,0" xlink:title="戸ヶ崎小学校" transform="ref(svg,13986.9364,-3580.4974)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31974" content="幸房小学校,11237,埼玉県三郷市茂田井88,避難場所,1628,-1,1,0,0,0,0,0" xlink:title="幸房小学校" transform="ref(svg,13987.503,-3583.7025)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31975" content="江戸川河川敷,11237,埼玉県三郷市田中新田地先から高州4丁目地先,広域避難場所,-1,1420000,1,0,0,0,0,0" xlink:title="江戸川河川敷" transform="ref(svg,13989.4262,-3585.5653)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31976" content="高州小学校,11237,埼玉県三郷市高州2-275,避難場所,1849,-1,1,0,0,0,0,0" xlink:title="高州小学校" transform="ref(svg,13987.8642,-3578.8837)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31977" content="高州東小学校,11237,埼玉県三郷市高州2-409,避難場所,1856,-1,1,0,0,0,0,0" xlink:title="高州東小学校" transform="ref(svg,13988.3114,-3578.7893)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31978" content="桜小学校,11237,埼玉県三郷市彦成4-5-16,避難場所,1720,-1,1,0,0,0,0,0" xlink:title="桜小学校" transform="ref(svg,13986.6529,-3585.6467)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31979" content="新和小学校,11237,埼玉県三郷市栄2-112-2,避難場所,3042,-1,1,0,0,0,0,0" xlink:title="新和小学校" transform="ref(svg,13987.6879,-3581.9194)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31980" content="吹上小学校,11237,埼玉県三郷市寄巻921-1,避難場所,1856,-1,1,0,0,0,0,0" xlink:title="吹上小学校" transform="ref(svg,13986.5948,-3579.6309)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31981" content="瑞沼市民センター,11237,埼玉県三郷市上彦名870,避難場所,1848,-1,1,0,0,0,0,0" xlink:title="瑞沼市民センター" transform="ref(svg,13987.0222,-3585.1549)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31982" content="瑞穂中学校,11237,埼玉県三郷市大広戸1001,避難場所,2545,-1,1,0,0,0,0,0" xlink:title="瑞穂中学校" transform="ref(svg,13987.364,-3584.9829)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31983" content="瑞木小学校,11237,埼玉県三郷市さつき平1-6-1,避難場所,1920,-1,1,0,0,0,0,0" xlink:title="瑞木小学校" transform="ref(svg,13987.0002,-3584.9635)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31985" content="前川中学校,11237,埼玉県三郷市栄5-141,避難場所,2900,-1,1,0,0,0,0,0" xlink:title="前川中学校" transform="ref(svg,13987.3281,-3580.7168)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31986" content="前谷小学校,11237,埼玉県三郷市戸ヶ崎2-600,避難場所,1813,-1,1,0,0,0,0,0" xlink:title="前谷小学校" transform="ref(svg,13986.5337,-3580.0336)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31987" content="早稲田小学校,11237,埼玉県三郷市三郷3-2-1,避難場所,1804,-1,1,0,0,0,0,0" xlink:title="早稲田小学校" transform="ref(svg,13988.2279,-3584.4774)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31988" content="早稲田中学校,11237,埼玉県三郷市彦成5-56,避難場所,2965,-1,1,0,0,0,0,0" xlink:title="早稲田中学校" transform="ref(svg,13987.5306,-3585.7495)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31989" content="鷹野小学校,11237,埼玉県三郷市鷹野3-211,避難場所,2007,-1,1,0,0,0,0,0" xlink:title="鷹野小学校" transform="ref(svg,13987.9197,-3580.1558)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31990" content="丹後小学校,11237,埼玉県三郷市早稲田5-3,避難場所,2144,-1,1,0,0,0,0,0" xlink:title="丹後小学校" transform="ref(svg,13988.5083,-3585.4718)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31991" content="南中学校,11237,埼玉県三郷市鷹野3-356,避難場所,2822,-1,1,0,0,0,0,0" xlink:title="南中学校" transform="ref(svg,13987.9447,-3580.5696)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31992" content="八木郷小学校,11237,埼玉県三郷市鷹野1-35-1,避難場所,1860,-1,1,0,0,0,0,0" xlink:title="八木郷小学校" transform="ref(svg,13988.7474,-3580.2058)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31993" content="番匠免運動公園,11237,埼玉県三郷市番匠免3丁目地内,広域避難場所,-1,72000,1,0,0,0,0,0" xlink:title="番匠免運動公園" transform="ref(svg,13986.742,-3583.9739)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31994" content="彦郷小学校,11237,埼玉県三郷市彦成3-8-29,避難場所,2001,-1,1,0,0,0,0,0" xlink:title="彦郷小学校" transform="ref(svg,13985.3253,-3585.5939)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31997" content="彦成小学校,11237,埼玉県三郷市彦倉1-133,避難場所,2327,-1,1,0,0,0,0,0" xlink:title="彦成小学校" transform="ref(svg,13984.6532,-3583.9358)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31998" content="彦成中学校,11237,埼玉県三郷市彦成4-1-19,避難場所,2540,-1,1,0,0,0,0,0" xlink:title="彦成中学校" transform="ref(svg,13986.9057,-3585.5023)" x="0" y="0"/>
+<use xlink:href="#p0" id="f32000" content="北中学校,11237,埼玉県三郷市泉267-1,避難場所,2897,-1,1,0,0,0,0,0" xlink:title="北中学校" transform="ref(svg,13986.3336,-3584.2997)" x="0" y="0"/>
+<use xlink:href="#p0" id="f32001" content="立花小学校,11237,埼玉県三郷市彦成4-3-18,避難場所,2087,-1,1,0,0,0,0,0" xlink:title="立花小学校" transform="ref(svg,13986.0947,-3585.3301)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33782" content="（旧）古ケ崎南小学校,12207,千葉県松戸市古ヶ崎1丁目3073番地,避難場所,681,5508,0,0,1,0,0,0" xlink:title="（旧）古ケ崎南小学校" transform="ref(svg,13989.5385,-3579.4659)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33784" content="（旧）新松戸北小学校,12207,千葉県松戸市新松戸7丁目192番地,避難場所,1047,8465,0,0,1,0,0,0" xlink:title="（旧）新松戸北小学校" transform="ref(svg,13990.5443,-3583.0491)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33785" content="（旧）新松戸北中学校,12207,千葉県松戸市新松戸5丁目179番地,避難場所,638,5159,0,0,1,0,0,0" xlink:title="（旧）新松戸北中学校" transform="ref(svg,13990.8471,-3582.9582)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33788" content="旭町小学校,12207,千葉県松戸市旭町1-20-2,避難場所,1036,8372,0,0,1,0,0,0" xlink:title="旭町小学校" transform="ref(svg,13990.15,-3581.4639)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33789" content="旭町中学校,12207,千葉県松戸市旭町1-150,避難場所,752,6080,0,0,1,0,0,0" xlink:title="旭町中学校" transform="ref(svg,13990.1806,-3581.625)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33790" content="横須賀小学校,12207,千葉県松戸市新松戸北2-13-1,避難場所,869,7024,0,0,1,0,0,0" xlink:title="横須賀小学校" transform="ref(svg,13991.0165,-3583.3082)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33794" content="柿の木台公園体育館,12207,千葉県松戸市,避難場所、避難所,413,3344,0,0,1,0,0,0" xlink:title="柿の木台公園体育館" transform="ref(svg,13990.331,-3577.3045)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33795" content="柿ノ木台小学校,12207,千葉県松戸市二十世紀が丘柿の木町111,避難場所、避難所,860,6954,0,0,1,0,0,0" xlink:title="柿ノ木台小学校" transform="ref(svg,13990.476,-3577.1674)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33797" content="勤労会館,12207,千葉県松戸市根本8-11,避難場所,144,1165,0,0,1,0,0,0" xlink:title="勤労会館" transform="ref(svg,13989.9043,-3578.708)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33802" content="県立小金高校,12207,千葉県松戸市,避難場所,1378,11136,0,0,1,0,0,0" xlink:title="県立小金高校" transform="ref(svg,13991.2332,-3583.3054)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33808" content="県立馬橋高校,12207,千葉県松戸市,避難場所,1567,12667,0,0,1,0,0,0" xlink:title="県立馬橋高校" transform="ref(svg,13990.0111,-3581.4584)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33809" content="古ケ崎小学校,12207,千葉県松戸市,避難場所,948,7665,0,0,1,0,0,0" xlink:title="古ケ崎小学校" transform="ref(svg,13989.864,-3580.6529)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33810" content="古ケ崎中学校,12207,千葉県松戸市,避難場所,1070,8648,0,0,1,0,0,0" xlink:title="古ケ崎中学校" transform="ref(svg,13989.3835,-3580.4835)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33813" content="江戸川河川敷,12207,千葉県松戸市,広域避難場所,-1,1530000,0,0,1,0,0,0" xlink:title="江戸川河川敷" transform="ref(svg,13989.2311,-3580.2673)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33820" content="女性センター,12207,千葉県松戸市,避難場所,130,1052,0,0,1,0,0,0" xlink:title="女性センター" transform="ref(svg,13989.841,-3578.6145)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33823" content="小金高校等,12207,千葉県松戸市,広域避難場所,-1,222000,0,0,1,0,0,0" xlink:title="小金高校等" transform="ref(svg,13991.1968,-3583.249)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33826" content="小金中学校,12207,千葉県松戸市,避難場所,1153,9319,0,0,1,0,0,0" xlink:title="小金中学校" transform="ref(svg,13991.3249,-3583.2221)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33831" content="松ヶ丘小学校,12207,千葉県松戸市松戸新田159,避難場所、避難所,746,6034,0,0,1,0,0,0" xlink:title="松ヶ丘小学校" transform="ref(svg,13991.5611,-3578.5948)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33835" content="上本郷小学校,12207,千葉県松戸市上本郷3620,避難場所、避難所,817,6603,0,0,1,0,0,0" xlink:title="上本郷小学校" transform="ref(svg,13991.8055,-3579.8503)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33836" content="上本郷第二小学校,12207,千葉県松戸市,避難場所、避難所,697,5636,0,0,1,0,0,0" xlink:title="上本郷第二小学校" transform="ref(svg,13991.5583,-3579.2087)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33843" content="新松戸市民センター,12207,千葉県松戸市,避難場所,329,2661,0,0,1,0,0,0" xlink:title="新松戸市民センター" transform="ref(svg,13991.2821,-3582.6414)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33844" content="新松戸西小学校,12207,千葉県松戸市小金1180,避難場所,829,6699,0,0,1,0,0,0" xlink:title="新松戸西小学校" transform="ref(svg,13990.2833,-3582.5221)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33845" content="新松戸南小学校,12207,千葉県松戸市新松戸6-301,避難場所,872,7052,0,0,1,0,0,0" xlink:title="新松戸南小学校" transform="ref(svg,13990.5833,-3582.3638)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33846" content="新松戸南中学校,12207,千葉県松戸市新松戸南2-124,避難場所,986,7970,0,0,1,0,0,0" xlink:title="新松戸南中学校" transform="ref(svg,13990.9472,-3582.1416)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33847" content="青少年会館,12207,千葉県松戸市,避難場所,247,1997,0,0,1,0,0,0" xlink:title="青少年会館" transform="ref(svg,13991.201,-3582.1277)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33848" content="青少年会館樋野口分館,12207,千葉県松戸市,避難場所,49,404,0,0,1,0,0,0" xlink:title="青少年会館樋野口分館" transform="ref(svg,13989.556,-3579.1585)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33849" content="青松園,12207,千葉県松戸市,避難場所,9,79,0,0,1,0,0,0" xlink:title="青松園" transform="ref(svg,13989.4563,-3582.8917)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33850" content="千葉大学園芸学部,12207,千葉県松戸市,広域避難場所,-1,205000,0,0,1,0,0,0" xlink:title="千葉大学園芸学部" transform="ref(svg,13990.0641,-3577.6033)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33851" content="専修大学松戸高等学校,12207,千葉県松戸市,避難場所、避難所,551,4460,0,0,1,0,0,0" xlink:title="専修大学松戸高等学校" transform="ref(svg,13992.0527,-3579.9142)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33852" content="相模台小学校,12207,千葉県松戸市岩瀬434-2,避難場所、避難所,869,7023,0,0,1,0,0,0" xlink:title="相模台小学校" transform="ref(svg,13990.478,-3578.1004)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33855" content="第一中学校,12207,千葉県松戸市岩瀬587,避難場所、避難所,2078,16799,0,0,1,0,0,0" xlink:title="第一中学校" transform="ref(svg,13990.6696,-3578.2588)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33859" content="第二中学校,12207,千葉県松戸市小山685,避難場所、避難所,-1,-1,0,0,1,0,0,0" xlink:title="第二中学校" transform="ref(svg,13989.8003,-3577.1923)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33861" content="中部小学校,12207,千葉県松戸市,避難場所,778,6292,0,0,1,0,0,0" xlink:title="中部小学校" transform="ref(svg,13989.5585,-3578.5254)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33868" content="南部小学校,12207,千葉県松戸市小山148,避難場所,701,5672,0,0,1,0,0,0" xlink:title="南部小学校" transform="ref(svg,13989.4058,-3577.4728)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33869" content="二十世紀が丘市民センター,12207,千葉県松戸市,避難場所,85,690,0,0,1,0,0,0" xlink:title="二十世紀が丘市民センター" transform="ref(svg,13990.8355,-3577.1491)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33870" content="日本大学松戸歯学部,12207,千葉県松戸市,避難場所,163,1324,0,0,1,0,0,0" xlink:title="日本大学松戸歯学部" transform="ref(svg,13989.9445,-3581.0195)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33871" content="馬橋市民センター,12207,千葉県松戸市,避難場所,129,1050,0,0,1,0,0,0" xlink:title="馬橋市民センター" transform="ref(svg,13991.2341,-3581.4074)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33872" content="馬橋小学校,12207,千葉県松戸市西馬橋1-12-1,避難場所,856,6921,0,0,1,0,0,0" xlink:title="馬橋小学校" transform="ref(svg,13991.4749,-3581.5973)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33873" content="馬橋北小学校,12207,千葉県松戸市新松戸南2-1,避難場所,858,6934,0,0,1,0,0,0" xlink:title="馬橋北小学校" transform="ref(svg,13991.211,-3582.1666)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33879" content="北部小学校,12207,千葉県松戸市,避難場所,949,7675,0,0,1,0,0,0" xlink:title="北部小学校" transform="ref(svg,13990.2723,-3579.2059)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33885" content="明市民センター,12207,千葉県松戸市,避難場所、避難所,123,998,0,0,1,0,0,0" xlink:title="明市民センター" transform="ref(svg,13991.5997,-3579.0146)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33895" content="和名ケ谷スポーツセンター（アリーナ棟）,12207,千葉県松戸市,避難場所,326,2639,0,0,1,0,0,0" xlink:title="和名ケ谷スポーツセンター（アリーナ棟）" transform="ref(svg,13991.8926,-3577.7131)" x="0" y="0"/>
+<use xlink:href="#p0" id="f33897" content="和名ケ谷中学校,12207,千葉県松戸市,避難場所,960,7759,0,0,1,0,0,0" xlink:title="和名ケ谷中学校" transform="ref(svg,13991.7057,-3577.67)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34618" content="江戸川河川敷緑地,12220,千葉県流山市南流山7丁目,避難場所,71710,143420,0,0,0,0,0,1" xlink:title="江戸川河川敷緑地" transform="ref(svg,13989.1014,-3584.1513)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34624" content="市民総合体育館,12220,千葉県流山市野-下1丁目29番地の4,避難所,2208,4417,0,0,0,0,0,1" xlink:title="市民総合体育館" transform="ref(svg,13991.8861,-3585.8712)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34625" content="思井福祉会館,12220,千葉県流山市思井79番地の2,避難所,254,508,0,0,0,0,0,1" xlink:title="思井福祉会館" transform="ref(svg,13991.2805,-3584.62)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34632" content="生涯学習センター,12220,千葉県流山市中110番地,避難所,1071,2143,0,0,0,0,0,1" xlink:title="生涯学習センター" transform="ref(svg,13991.754,-3585.3618)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34637" content="赤城福祉会館,12220,千葉県流山市流山8丁目1071番地,避難所,269,538,0,0,0,0,0,1" xlink:title="赤城福祉会館" transform="ref(svg,13989.748,-3584.7548)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34650" content="東洋学園大学,12220,千葉県流山市大字鰭ヶ崎1660番地,避難所、避難場所,696,1392,0,0,0,0,0,1" xlink:title="東洋学園大学" transform="ref(svg,13991.6801,-3584.4112)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34654" content="南流山センター,12220,千葉県流山市南流山3丁目3番地の1,避難所,313,698,0,0,0,0,0,1" xlink:title="南流山センター" transform="ref(svg,13990.1728,-3583.8809)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34655" content="南流山小学校,12220,千葉県流山市大字木487番地,避難所、避難場所,5282,10566,0,0,0,0,0,1" xlink:title="南流山小学校" transform="ref(svg,13989.9111,-3583.4609)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34656" content="南流山中央公園,12220,千葉県流山市南流山3丁目14番地,避難場所,6077,12155,0,0,0,0,0,1" xlink:title="南流山中央公園" transform="ref(svg,13990.0493,-3583.8196)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34657" content="南流山中学校,12220,千葉県流山市大字流山2539番地の1,避難所、避難場所,8430,16861,0,0,0,0,0,1" xlink:title="南流山中学校" transform="ref(svg,13990.0889,-3583.447)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34658" content="南流山福祉会館,12220,千葉県流山市南流山3丁目3番地の1,避難所,470,940,0,0,0,0,0,1" xlink:title="南流山福祉会館" transform="ref(svg,13990.1992,-3583.8824)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34659" content="博物館,12220,千葉県流山市加一丁目1225番地の6,避難所,876,1752,0,0,0,0,0,1" xlink:title="博物館" transform="ref(svg,13990.2498,-3585.8662)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34666" content="鰭ヶ崎小学校,12220,千葉県流山市鰭ヶ崎7番地の1,避難所、避難場所,3523,7046,0,0,0,0,0,1" xlink:title="鰭ヶ崎小学校" transform="ref(svg,13990.8999,-3583.9359)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34668" content="平和台２号公園,12220,千葉県流山市平和台2丁目12番地,避難場所,2908,5816,0,0,0,0,0,1" xlink:title="平和台２号公園" transform="ref(svg,13990.381,-3585.352)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34669" content="平和台福祉会館,12220,千葉県流山市平和台5丁目45番地の3,避難所,119,238,0,0,0,0,0,1" xlink:title="平和台福祉会館" transform="ref(svg,13990.9412,-3585.4818)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34670" content="平和台保育所,12220,千葉県流山市平和台2丁目6番地の3,避難所,561,1122,0,0,0,0,0,1" xlink:title="平和台保育所" transform="ref(svg,13990.3859,-3585.4051)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34678" content="流山市総合運動公園,12220,千葉県流山市野-下1丁目40番地の1,広域避難場所,75174,150349,0,0,0,0,0,1" xlink:title="流山市総合運動公園" transform="ref(svg,13991.7918,-3585.6941)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34679" content="流山小学校,12220,千葉県流山市流山4丁目359番地,避難所、避難場所,4292,8585,0,0,0,0,0,1" xlink:title="流山小学校" transform="ref(svg,13990.0249,-3585.2579)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34682" content="流山南高等学校,12220,千葉県流山市流山9丁目800番地の1,避難所、避難場所,10003,20007,0,0,0,0,0,1" xlink:title="流山南高等学校" transform="ref(svg,13989.8832,-3584.7941)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34683" content="流山福祉会館,12220,千葉県流山市流山2丁目102番地,避難所,157,315,0,0,0,0,0,1" xlink:title="流山福祉会館" transform="ref(svg,13989.852,-3585.5485)" x="0" y="0"/>
+<use xlink:href="#p0" id="f34685" content="流山北小学校,12220,千葉県流山市加一丁目795番地の1,避難所、避難場所,5345,10692,0,0,0,0,0,1" xlink:title="流山北小学校" transform="ref(svg,13990.4317,-3585.925)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38159" content="蒲原中学校,13121,東京都足立区東和3-17-15,第一次避難所,1210,-1,0,0,0,0,0,1" xlink:title="蒲原中学校" transform="ref(svg,13983.6534,-3577.2701)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38192" content="佐野地域学習センター,13121,東京都足立区佐野2-43-5,第二次福祉避難所,135,-1,0,0,0,0,0,1" xlink:title="佐野地域学習センター" transform="ref(svg,13984.0206,-3578.8135)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38212" content="十二中学校,13121,東京都足立区大谷田1-37-1,第一次避難所,1230,-1,0,0,0,0,0,1" xlink:title="十二中学校" transform="ref(svg,13984.695,-3577.9978)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38259" content="足立東高校,13121,東京都足立区大谷田2-3-5,第一次避難所,504,-1,0,0,0,0,0,1" xlink:title="足立東高校" transform="ref(svg,13984.5339,-3578.1339)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38261" content="大谷田小学校,13121,東京都足立区中川4-41-27,第一次避難所,1616,-1,0,0,0,0,0,1" xlink:title="大谷田小学校" transform="ref(svg,13984.9061,-3577.1701)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38263" content="辰沼小学校,13121,東京都足立区谷中5-12-1,第一次避難所,1320,-1,0,0,0,0,0,1" xlink:title="辰沼小学校" transform="ref(svg,13983.5201,-3578.3811)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38264" content="辰沼小学校・都営辰沼町アパートー帯,13121,東京都足立区,広域避難場所,18400,27400,0,0,0,0,0,1" xlink:title="辰沼小学校・都営辰沼町アパートー帯" transform="ref(svg,13983.4794,-3578.3217)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38266" content="谷中中学校,13121,東京都足立区谷中3-14-1,第一次避難所,909,-1,0,0,0,0,0,1" xlink:title="谷中中学校" transform="ref(svg,13983.5284,-3578.0033)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38275" content="中川公園一帯・大谷田団地一帯,13121,東京都足立区,広域避難場所,33000,171900,0,0,0,0,0,1" xlink:title="中川公園一帯・大谷田団地一帯" transform="ref(svg,13984.6734,-3577.541)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38276" content="中川小学校,13121,東京都足立区大谷田3-17-20,第一次避難所,1484,-1,0,0,0,0,0,1" xlink:title="中川小学校" transform="ref(svg,13984.1728,-3578.0617)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38277" content="中川東小学校,13121,東京都足立区大谷田2-1-10,第一次避難所,1644,-1,0,0,0,0,0,1" xlink:title="中川東小学校" transform="ref(svg,13984.3867,-3578.1283)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38278" content="中川北小学校,13121,東京都足立区六木1-6-10,第一次避難所,1342,-1,0,0,0,0,0,1" xlink:title="中川北小学校" transform="ref(svg,13983.9284,-3579.0032)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38279" content="中川北小学校・都営六ツ木町アパー卜一帯,13121,東京都足立区,広域避難場所,19900,25900,0,0,0,0,0,1" xlink:title="中川北小学校・都営六ツ木町アパー卜一帯" transform="ref(svg,13983.9318,-3578.9542)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38304" content="東渕江小学校,13121,東京都足立区東和3-20-11,第一次避難所,1619,-1,0,0,0,0,0,1" xlink:title="東渕江小学校" transform="ref(svg,13983.8534,-3577.4173)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38305" content="特別養護老人ホームイーストピア東和,13121,東京都足立区東和4-7-23,第二次福祉避難所,228,-1,0,0,0,0,0,1" xlink:title="特別養護老人ホームイーストピア東和" transform="ref(svg,13984.4227,-3577.2496)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38306" content="特別養護老人ホームさの,13121,東京都足立区佐野2-30-12,第二次福祉避難所,126,-1,0,0,0,0,0,1" xlink:title="特別養護老人ホームさの" transform="ref(svg,13983.6117,-3578.8615)" x="0" y="0"/>
+<use xlink:href="#p0" id="f38335" content="六木小学校,13121,東京都足立区六木3-21-11,第一次避難所,687,-1,0,0,0,0,0,1" xlink:title="六木小学校" transform="ref(svg,13984.0922,-3579.7364)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40122" content="水元公園・江戸川緑地一帯,13122,東京都葛飾区東金町、水元公園,避難場所,81500,840800,0,0,0,0,0,1" xlink:title="水元公園・江戸川緑地一帯" transform="ref(svg,13987.0758,-3578.2439)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40184" content="金町中学校,13122,東京都葛飾区南水元3-1-1,避難所,1197,-1,0,0,0,0,0,1" xlink:title="金町中学校" transform="ref(svg,13986.5143,-3577.3645)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40185" content="半田小学校,13122,東京都葛飾区東金町5-16-1,避難所,1397,-1,0,0,0,0,0,1" xlink:title="半田小学校" transform="ref(svg,13987.7226,-3577.7367)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40186" content="原田小学校,13122,東京都葛飾区東金町2-16-1,避難所,1091,-1,0,0,0,0,0,1" xlink:title="原田小学校" transform="ref(svg,13986.8171,-3577.3173)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40187" content="水元中学校,13122,東京都葛飾区水元3-20-1,避難所,1241,-1,0,0,0,0,0,1" xlink:title="水元中学校" transform="ref(svg,13986.5337,-3578.2755)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40188" content="花の木小学校,13122,東京都葛飾区南水元3-2-1,避難所,1130,-1,0,0,0,0,0,1" xlink:title="花の木小学校" transform="ref(svg,13986.4282,-3577.4229)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40189" content="水元小学校,13122,東京都葛飾区水元4-21-1,避難所,1244,-1,0,0,0,0,0,1" xlink:title="水元小学校" transform="ref(svg,13986.3976,-3578.7977)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40195" content="飯塚小学校,13122,東京都葛飾区南水元1-13-1,避難所,1053,-1,0,0,0,0,0,1" xlink:title="飯塚小学校" transform="ref(svg,13985.8116,-3577.7089)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40200" content="幸田小学校,13122,東京都葛飾区西水元3-24-12,避難所,1359,-1,0,0,0,0,0,1" xlink:title="幸田小学校" transform="ref(svg,13984.9561,-3578.9004)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40202" content="東金町中学校,13122,東京都葛飾区東金町5-3-1,避難所,1032,-1,0,0,0,0,0,1" xlink:title="東金町中学校" transform="ref(svg,13987.4004,-3577.7811)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40203" content="東金町小学校,13122,東京都葛飾区東金町1-33-1,避難所,1261,-1,0,0,0,0,0,1" xlink:title="東金町小学校" transform="ref(svg,13987.0809,-3577.384)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40204" content="葛美中学校,13122,東京都葛飾区水元2-17-1,避難所,1392,-1,0,0,0,0,0,1" xlink:title="葛美中学校" transform="ref(svg,13985.8171,-3578.4783)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40206" content="東水元小学校,13122,東京都葛飾区東水元5-38-1,避難所,821,-1,0,0,0,0,0,1" xlink:title="東水元小学校" transform="ref(svg,13986.767,-3579.0809)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40211" content="葛飾総合高等学校,13122,東京都葛飾区南水元4-21-1,避難所,2700,-1,0,0,0,0,0,1" xlink:title="葛飾総合高等学校" transform="ref(svg,13986.5226,-3577.77)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40212" content="旧水元高等学校,13122,東京都葛飾区水元1-24-1,避難所,2700,-1,0,0,0,0,0,1" xlink:title="旧水元高等学校" transform="ref(svg,13985.9282,-3578.2588)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40217" content="水元体育館,13122,東京都葛飾区水元1-19-1,避難所,2310,-1,0,0,0,0,0,1" xlink:title="水元体育館" transform="ref(svg,13985.7794,-3578.2161)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40218" content="水元特別支援学校,13122,東京都葛飾区西水元5-2-1,避難所,276,-1,0,0,0,0,0,1" xlink:title="水元特別支援学校" transform="ref(svg,13985.3838,-3578.4359)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40222" content="水元そよかぜ園,13122,東京都葛飾区水元5-16-11,避難所,151,-1,0,0,0,0,0,1" xlink:title="水元そよかぜ園" transform="ref(svg,13986.2837,-3578.9171)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40227" content="西水元福祉館,13122,東京都葛飾区西水元3-11-1,避難所,197,-1,0,0,0,0,0,1" xlink:title="西水元福祉館" transform="ref(svg,13984.7005,-3578.8393)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40230" content="水元ふれあいの家,13122,東京都葛飾区水元1-26-20,避難所,176,-1,0,0,0,0,0,1" xlink:title="水元ふれあいの家" transform="ref(svg,13985.9865,-3578.3561)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40233" content="西水元あやめ園,13122,東京都葛飾区西水元2-2-8,避難所,149,-1,0,0,0,0,0,1" xlink:title="西水元あやめ園" transform="ref(svg,13984.9061,-3578.4949)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40241" content="東金町憩い交流館,13122,東京都葛飾区東金町5-22-18,避難所,21,-1,0,0,0,0,0,1" xlink:title="東金町憩い交流館" transform="ref(svg,13987.8048,-3577.9325)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40252" content="水元憩い交流館,13122,東京都葛飾区南水元4-6-15,避難所,20,-1,0,0,0,0,0,1" xlink:title="水元憩い交流館" transform="ref(svg,13986.0588,-3578.8115)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40253" content="いこいの家,13122,東京都葛飾区南水元2-13-1,避難所,70,-1,0,0,0,0,0,1" xlink:title="いこいの家" transform="ref(svg,13985.5672,-3577.9662)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40255" content="水元園,13122,東京都葛飾区西水元4-6-1,避難所,136,-1,0,0,0,0,0,1" xlink:title="水元園" transform="ref(svg,13984.6672,-3579.442)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40256" content="高砂園,13122,東京都葛飾区西水元4-5-1,避難所,66,-1,0,0,0,0,0,1" xlink:title="高砂園" transform="ref(svg,13984.5853,-3579.4447)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40257" content="中川園,13122,東京都葛飾区西水元4-5-1,避難所,256,-1,0,0,0,0,0,1" xlink:title="中川園" transform="ref(svg,13984.5886,-3579.4012)" x="0" y="0"/>
+<use xlink:href="#p0" id="f40259" content="西水元ナーシングホーム,13122,東京都葛飾区西水元6-12-2,避難所,60,-1,0,0,0,0,0,1" xlink:title="西水元ナーシングホーム" transform="ref(svg,13985.4366,-3579.031)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="14484.375 -4359.375 140.625 140.625" go:dataArea="14484.375 -4359.375 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f609" content="こうよう保育所,01223,北海道根室市光洋町3-88,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="こうよう保育所" transform="ref(svg,14560.2535,-4332.2027)" x="0" y="0"/>
+<use xlink:href="#p0" id="f610" content="ときわ台公園,01223,北海道根室市清隆町,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ときわ台公園" transform="ref(svg,14558.1554,-4332.9529)" x="0" y="0"/>
+<use xlink:href="#p0" id="f611" content="ほうりん保育所,01223,北海道根室市宝林町1-71,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ほうりん保育所" transform="ref(svg,14558.4315,-4332.461)" x="0" y="0"/>
+<use xlink:href="#p0" id="f612" content="まつもと保育所,01223,北海道根室市松本町1-14,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="まつもと保育所" transform="ref(svg,14557.4065,-4332.747)" x="0" y="0"/>
+<use xlink:href="#p0" id="f613" content="温根元小学校,01223,北海道根室市温根元118,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="温根元小学校" transform="ref(svg,14577.1267,-4338.6218)" x="0" y="0"/>
+<use xlink:href="#p0" id="f614" content="花咲港会館,01223,北海道根室市花咲港206番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="花咲港会館" transform="ref(svg,14558.5264,-4328.9483)" x="0" y="0"/>
+<use xlink:href="#p0" id="f615" content="花咲港金刀比羅神社高台,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="花咲港金刀比羅神社高台" transform="ref(svg,14558.5324,-4328.7433)" x="0" y="0"/>
+<use xlink:href="#p0" id="f616" content="花咲港小学校,01223,北海道根室市花咲港209,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="花咲港小学校" transform="ref(svg,14559.0213,-4328.8366)" x="0" y="0"/>
+<use xlink:href="#p0" id="f617" content="花咲小学校,01223,北海道根室市栄町1-1,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="花咲小学校" transform="ref(svg,14558.8953,-4333.6359)" x="0" y="0"/>
+<use xlink:href="#p0" id="f618" content="華岬小学校,01223,北海道根室市歯舞4-2,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="華岬小学校" transform="ref(svg,14574.9049,-4333.8973)" x="0" y="0"/>
+<use xlink:href="#p0" id="f619" content="海星小中学校,01223,北海道根室市西和田219,避難所,-1,-1,0,0,0,0,0,1" xlink:title="海星小中学校" transform="ref(svg,14551.8686,-4327.912)" x="0" y="0"/>
+<use xlink:href="#p0" id="f620" content="旧はなさき港保育所グランド,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧はなさき港保育所グランド" transform="ref(svg,14558.2344,-4328.8864)" x="0" y="0"/>
+<use xlink:href="#p0" id="f621" content="旧幌茂尻小学校グランド,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧幌茂尻小学校グランド" transform="ref(svg,14550.8354,-4327.9993)" x="0" y="0"/>
+<use xlink:href="#p0" id="f622" content="旧和田小学校グランド,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧和田小学校グランド" transform="ref(svg,14554.0052,-4327.0342)" x="0" y="0"/>
+<use xlink:href="#p0" id="f623" content="共和小学校,01223,北海道根室市友知388,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="共和小学校" transform="ref(svg,14568.2278,-4332.7778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f624" content="金刀比羅神社高台,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="金刀比羅神社高台" transform="ref(svg,14558.7332,-4334.3939)" x="0" y="0"/>
+<use xlink:href="#p0" id="f625" content="啓雲中学校,01223,北海道根室市駒場町2-12,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="啓雲中学校" transform="ref(svg,14559.4424,-4333.9608)" x="0" y="0"/>
+<use xlink:href="#p0" id="f626" content="個人干場（東后）,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="個人干場（東后）" transform="ref(svg,14552.5188,-4320.3105)" x="0" y="0"/>
+<use xlink:href="#p0" id="f627" content="個人干場（木村）,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="個人干場（木村）" transform="ref(svg,14554.9107,-4322.5456)" x="0" y="0"/>
+<use xlink:href="#p0" id="f628" content="光洋中学校,01223,北海道根室市光洋町2-12,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="光洋中学校" transform="ref(svg,14559.9619,-4332.4666)" x="0" y="0"/>
+<use xlink:href="#p0" id="f629" content="厚床会館,01223,北海道根室市厚床1丁目218番地5,避難所,-1,-1,0,0,0,0,0,1" xlink:title="厚床会館" transform="ref(svg,14525.7693,-4323.207)" x="0" y="0"/>
+<use xlink:href="#p0" id="f630" content="厚床小学校,01223,北海道根室市厚床2-193,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="厚床小学校" transform="ref(svg,14524.7278,-4322.8598)" x="0" y="0"/>
+<use xlink:href="#p0" id="f631" content="厚床中学校,01223,北海道根室市厚床1-218-1,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="厚床中学校" transform="ref(svg,14525.9181,-4323.2778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f632" content="昆布盛会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="昆布盛会館" transform="ref(svg,14554.7175,-4322.469)" x="0" y="0"/>
+<use xlink:href="#p0" id="f633" content="昆布盛小学校,01223,北海道根室市昆布盛168-68,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="昆布盛小学校" transform="ref(svg,14554.7571,-4322.051)" x="0" y="0"/>
+<use xlink:href="#p0" id="f634" content="根室高等学校,01223,北海道根室市牧の内146,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="根室高等学校" transform="ref(svg,14560.6861,-4333.0159)" x="0" y="0"/>
+<use xlink:href="#p0" id="f635" content="根室西高等学校,01223,北海道根室市西浜町4-1,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="根室西高等学校" transform="ref(svg,14556.7872,-4331.7916)" x="0" y="0"/>
+<use xlink:href="#p0" id="f636" content="歯舞会館,01223,北海道根室市歯舞3-35,避難所,-1,-1,0,0,0,0,0,1" xlink:title="歯舞会館" transform="ref(svg,14575.404,-4334.3128)" x="0" y="0"/>
+<use xlink:href="#p0" id="f637" content="歯舞中学校,01223,北海道根室市歯舞3-178,避難所,-1,-1,0,0,0,0,0,1" xlink:title="歯舞中学校" transform="ref(svg,14575.0687,-4334.6)" x="0" y="0"/>
+<use xlink:href="#p0" id="f638" content="初田牛会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="初田牛会館" transform="ref(svg,14532.4227,-4320.5921)" x="0" y="0"/>
+<use xlink:href="#p0" id="f639" content="昭和児童会館,01223,北海道根室市昭和町2の115,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="昭和児童会館" transform="ref(svg,14559.2926,-4332.3527)" x="0" y="0"/>
+<use xlink:href="#p0" id="f640" content="新和会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="新和会館" transform="ref(svg,14576.7517,-4334.9735)" x="0" y="0"/>
+<use xlink:href="#p0" id="f641" content="神社高台,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="神社高台" transform="ref(svg,14566.9813,-4332.0257)" x="0" y="0"/>
+<use xlink:href="#p0" id="f642" content="図書館,01223,北海道根室市弥生町2-5,避難所,-1,-1,0,0,0,0,0,1" xlink:title="図書館" transform="ref(svg,14557.8163,-4333.1538)" x="0" y="0"/>
+<use xlink:href="#p0" id="f643" content="図書館駐車場,01223,北海道根室市弥生町2-5,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="図書館駐車場" transform="ref(svg,14557.8336,-4333.1361)" x="0" y="0"/>
+<use xlink:href="#p0" id="f644" content="成央小学校,01223,北海道根室市光洋町1-25,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="成央小学校" transform="ref(svg,14559.5203,-4332.8388)" x="0" y="0"/>
+<use xlink:href="#p0" id="f645" content="西浜児童会館,01223,北海道根室市西浜町4丁目46番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西浜児童会館" transform="ref(svg,14556.3839,-4331.7235)" x="0" y="0"/>
+<use xlink:href="#p0" id="f646" content="青果市場駐車場,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="青果市場駐車場" transform="ref(svg,14556.7854,-4332.3107)" x="0" y="0"/>
+<use xlink:href="#p0" id="f647" content="青少年センター,01223,北海道根室市牧の内146番地16,避難所,-1,-1,0,0,0,0,0,1" xlink:title="青少年センター" transform="ref(svg,14560.8857,-4333.2135)" x="0" y="0"/>
+<use xlink:href="#p0" id="f648" content="総合文化会館,01223,北海道根室市曙町1-40,避難所,-1,-1,0,0,0,0,0,1" xlink:title="総合文化会館" transform="ref(svg,14559.197,-4333.2331)" x="0" y="0"/>
+<use xlink:href="#p0" id="f649" content="第２老人福祉センター,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="第２老人福祉センター" transform="ref(svg,14556.3813,-4331.7296)" x="0" y="0"/>
+<use xlink:href="#p0" id="f650" content="東梅会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="東梅会館" transform="ref(svg,14547.7996,-4326.928)" x="0" y="0"/>
+<use xlink:href="#p0" id="f651" content="納沙布会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="納沙布会館" transform="ref(svg,14581.2648,-4338.5584)" x="0" y="0"/>
+<use xlink:href="#p0" id="f652" content="柏陵中学校,01223,北海道根室市敷島町1-10,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="柏陵中学校" transform="ref(svg,14557.4815,-4332.4526)" x="0" y="0"/>
+<use xlink:href="#p0" id="f653" content="別当賀夢原館,01223,北海道根室市別当賀253番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="別当賀夢原館" transform="ref(svg,14542.5412,-4322.0137)" x="0" y="0"/>
+<use xlink:href="#p0" id="f654" content="法泉寺境内,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="法泉寺境内" transform="ref(svg,14576.7575,-4335.0045)" x="0" y="0"/>
+<use xlink:href="#p0" id="f655" content="豊里会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊里会館" transform="ref(svg,14571.8445,-4338.1621)" x="0" y="0"/>
+<use xlink:href="#p0" id="f656" content="北斗小学校,01223,北海道根室市北斗町3-5,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="北斗小学校" transform="ref(svg,14557.8343,-4332.7859)" x="0" y="0"/>
+<use xlink:href="#p0" id="f657" content="幌茂尻会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="幌茂尻会館" transform="ref(svg,14552.2167,-4329.7182)" x="0" y="0"/>
+<use xlink:href="#p0" id="f658" content="明治公園,01223,北海道根室市牧の内,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="明治公園" transform="ref(svg,14559.8054,-4333.5924)" x="0" y="0"/>
+<use xlink:href="#p0" id="f659" content="鳴海公園,01223,北海道根室市朝日町,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="鳴海公園" transform="ref(svg,14558.506,-4333.6025)" x="0" y="0"/>
+<use xlink:href="#p0" id="f660" content="落石会館,01223,北海道根室市落石東133番地3,避難所,-1,-1,0,0,0,0,0,1" xlink:title="落石会館" transform="ref(svg,14552.1257,-4319.6763)" x="0" y="0"/>
+<use xlink:href="#p0" id="f661" content="落石小学校,01223,北海道根室市落石東135-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="落石小学校" transform="ref(svg,14552.0713,-4319.5624)" x="0" y="0"/>
+<use xlink:href="#p0" id="f662" content="落石中学校,01223,北海道根室市落石東180,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="落石中学校" transform="ref(svg,14552.0102,-4319.3235)" x="0" y="0"/>
+<use xlink:href="#p0" id="f663" content="落石灯台高台,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="落石灯台高台" transform="ref(svg,14549.5787,-4315.9022)" x="0" y="0"/>
+<use xlink:href="#p0" id="f664" content="珸瑤瑁小学校,01223,北海道根室市珸瑤瑁1-122,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="珸瑤瑁小学校" transform="ref(svg,14580.1275,-4336.7485)" x="0" y="0"/>
+<use xlink:href="#p0" id="f665" content="珸瑤瑁第１町会会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="珸瑤瑁第１町会会館" transform="ref(svg,14578.7844,-4336.2818)" x="0" y="0"/>
+<use xlink:href="#p0" id="f666" content="珸瑤瑁第２町会会館,01223,北海道根室市,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="珸瑤瑁第２町会会館" transform="ref(svg,14579.3412,-4336.5779)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1271" content="旧貰人小学校,01663,北海道厚岸郡浜中町字恵茶人134,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="旧貰人小学校" transform="ref(svg,14523.693,-4315.3217)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1272" content="榊町憩いの広場,01663,北海道厚岸郡浜中町榊町,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="榊町憩いの広場" transform="ref(svg,14511.4872,-4312.7738)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1273" content="榊町高台,01663,北海道厚岸郡浜中町,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="榊町高台" transform="ref(svg,14511.1001,-4312.41)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1274" content="散布高台,01663,北海道厚岸郡浜中町,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="散布高台" transform="ref(svg,14512.9421,-4307.7291)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1275" content="湯沸山,01663,北海道厚岸郡浜中町,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="湯沸山" transform="ref(svg,14513.6783,-4307.6215)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1276" content="琵琶瀬山,01663,北海道厚岸郡浜中町,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="琵琶瀬山" transform="ref(svg,14508.3501,-4305.852)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1277" content="奔幌戸高台,01663,北海道厚岸郡浜中町,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="奔幌戸高台" transform="ref(svg,14516.3362,-4315.0166)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1278" content="霧多布温泉ゆうゆ,01663,北海道厚岸郡浜中町,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="霧多布温泉ゆうゆ" transform="ref(svg,14513.3846,-4307.7112)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1279" content="霧多布高等学校,01663,北海道厚岸郡浜中町新川東2-41,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="霧多布高等学校" transform="ref(svg,14510.6785,-4308.4404)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1280" content="貰人高台,01663,北海道厚岸郡浜中町,一時避難場所,-1,-1,0,1,0,0,0,0" xlink:title="貰人高台" transform="ref(svg,14512.9421,-4307.7187)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1429" content="シルバースポーツセンター,01692,北海道標津郡中標津町東20条北7丁目3番地,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="シルバースポーツセンター" transform="ref(svg,14498.3451,-4356.5482)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1430" content="しるべっと広場,01692,北海道標津郡中標津町東2条南3丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="しるべっと広場" transform="ref(svg,14497.7622,-4354.8418)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1431" content="まこと児童公園,01692,北海道標津郡中標津町東29条北7丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="まこと児童公園" transform="ref(svg,14499.2341,-4356.8742)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1432" content="皆川児童公園,01692,北海道標津郡中標津町西7条北5丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="皆川児童公園" transform="ref(svg,14496.2734,-4354.7239)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1434" content="丸山公園多目的広場,01692,北海道標津郡中標津町丸山2丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="丸山公園多目的広場" transform="ref(svg,14497.1486,-4355.3878)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1435" content="丸山小学校,01692,北海道標津郡中標津町丸山2-4,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="丸山小学校" transform="ref(svg,14496.3648,-4355.4806)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1436" content="協和部落会館,01692,北海道標津郡中標津町字協和4831番地2,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="協和部落会館" transform="ref(svg,14499.8449,-4351.1748)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1438" content="広陵中学校,01692,北海道標津郡中標津町東十条南7-1,避難施設,-1,-1,0,0,0,0,0,1" xlink:title="広陵中学校" transform="ref(svg,14498.6332,-4354.8924)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1442" content="西児童館,01692,北海道標津郡中標津町西5北3,避難施設,-1,-1,0,0,0,0,0,1" xlink:title="西児童館" transform="ref(svg,14496.6908,-4354.7243)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1444" content="西町地区コミュニティーセンター,01692,北海道標津郡中標津町西町5丁目1番地,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西町地区コミュニティーセンター" transform="ref(svg,14495.5234,-4355.2942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1445" content="川西町内会館広場,01692,北海道標津郡中標津町川西2丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="川西町内会館広場" transform="ref(svg,14494.6064,-4355.428)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1446" content="泉児童公園,01692,北海道標津郡中標津町西11条北8丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="泉児童公園" transform="ref(svg,14495.6943,-4354.6735)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1447" content="双葉児童公園,01692,北海道標津郡中標津町西3条南2丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="双葉児童公園" transform="ref(svg,14497.2066,-4354.5342)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1448" content="総合文化会館,01692,北海道標津郡中標津町東2条南3丁目1番地1,避難施設,-1,-1,0,0,0,0,0,1" xlink:title="総合文化会館" transform="ref(svg,14497.8514,-4354.8829)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1449" content="第二俣落会館,01692,北海道標津郡中標津町俣落2254番地1,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="第二俣落会館" transform="ref(svg,14489.2657,-4355.6601)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1451" content="中標津高等学校,01692,北海道標津郡中標津町西六条南5-1,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="中標津高等学校" transform="ref(svg,14497.1444,-4354.1452)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1452" content="中標津小学校,01692,北海道標津郡中標津町西九条北1-2,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="中標津小学校" transform="ref(svg,14496.4473,-4354.4257)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1455" content="中標津東小学校,01692,北海道標津郡中標津町東七条南7-15,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="中標津東小学校" transform="ref(svg,14498.4915,-4354.8202)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1456" content="中標津保育園,01692,北海道標津郡中標津町東3条北3丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中標津保育園" transform="ref(svg,14497.3226,-4355.0754)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1457" content="町営野球場,01692,北海道標津郡中標津町西2条北5丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="町営野球場" transform="ref(svg,14496.9021,-4354.9985)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1458" content="東７条緑地,01692,北海道標津郡中標津町東7条南1丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="東７条緑地" transform="ref(svg,14497.9978,-4355.1815)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1459" content="東児童公園,01692,北海道標津郡中標津町東17条南4丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="東児童公園" transform="ref(svg,14499.0459,-4355.5348)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1461" content="東中児童公園,01692,北海道標津郡中標津町東14条北4丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="東中児童公園" transform="ref(svg,14498.313,-4355.766)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1462" content="東中地区多目的集会所,01692,北海道標津郡中標津町東14条北4丁目4番地,避難施設,-1,-1,0,0,0,0,0,1" xlink:title="東中地区多目的集会所" transform="ref(svg,14498.2349,-4355.797)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1463" content="当幌研修館,01692,北海道標津郡中標津町東当幌20番地17,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="当幌研修館" transform="ref(svg,14491.2159,-4350.959)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1464" content="南中部落会館,01692,北海道標津郡中標津町南中16番3,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="南中部落会館" transform="ref(svg,14495.8699,-4351.7556)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1465" content="南町児童公園,01692,北海道標津郡中標津町西9条南9丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="南町児童公園" transform="ref(svg,14497.2468,-4353.7727)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1466" content="白樺児童公園,01692,北海道標津郡中標津町東14条南11丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="白樺児童公園" transform="ref(svg,14499.2893,-4354.898)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1467" content="俵橋小学校,01692,北海道標津郡中標津町字俵橋938-3,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="俵橋小学校" transform="ref(svg,14504.0131,-4358.592)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1469" content="武道館,01692,北海道標津郡中標津町丸山1丁目6番地,避難施設,-1,-1,0,0,0,0,0,1" xlink:title="武道館" transform="ref(svg,14496.3759,-4355.3252)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1470" content="豊岡部落会館,01692,北海道標津郡中標津町,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊岡部落会館" transform="ref(svg,14493.7526,-4346.636)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1471" content="睦児童公園,01692,北海道標津郡中標津町東27条南1丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="睦児童公園" transform="ref(svg,14499.839,-4356.1644)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1472" content="俣落小学校,01692,北海道標津郡中標津町字俣落405-1,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="俣落小学校" transform="ref(svg,14489.3728,-4355.6225)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1473" content="明生児童公園,01692,北海道標津郡中標津町東38条北3丁目,緊急避難場所,-1,-1,0,0,0,0,0,1" xlink:title="明生児童公園" transform="ref(svg,14500.5768,-4356.9482)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1491" content="茶志骨コミュニティーセンター,01693,北海道標津郡標津町字茶志骨804番地の9,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="茶志骨コミュニティーセンター" transform="ref(svg,14510.1513,-4358.0585)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1551" content="別海町役場本庁舎,01691,北海道野付郡別海町別海常盤町280番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海町役場本庁舎" transform="ref(svg,14511.7341,-4339.399)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1552" content="別海町民体育館,01691,北海道野付郡別海町別海141番地10,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海町民体育館" transform="ref(svg,14511.3275,-4338.3765)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1553" content="別海町交流館ぷらと,01691,北海道野付郡別海町別海旭町67番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海町交流館ぷらと" transform="ref(svg,14512.6926,-4339.2902)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1554" content="別海高等学校,01691,北海道野付郡別海町別海緑町70番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海高等学校" transform="ref(svg,14512.6159,-4338.631)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1555" content="別海中央中学校,01691,北海道野付郡別海町別海緑町116番地4,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海中央中学校" transform="ref(svg,14512.4909,-4338.331)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1556" content="別海中央小学校,01691,北海道野付郡別海町別海旭町431番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海中央小学校" transform="ref(svg,14513.4158,-4339.4615)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1557" content="中西別中学校,01691,北海道野付郡別海町中西別朝日町14番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中西別中学校" transform="ref(svg,14499.1172,-4336.6253)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1558" content="中西別小学校,01691,北海道野付郡別海町中西別光町48番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中西別小学校" transform="ref(svg,14498.8672,-4336.4781)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1559" content="中西別福祉館,01691,北海道野付郡別海町中西別光町39番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中西別福祉館" transform="ref(svg,14498.7727,-4336.5407)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1560" content="中春別中学校,01691,北海道野付郡別海町中春別南町17番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中春別中学校" transform="ref(svg,14505.8939,-4347.263)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1561" content="中春別小学校,01691,北海道野付郡別海町中春別西町34番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中春別小学校" transform="ref(svg,14505.6051,-4347.6463)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1562" content="中春別福祉館,01691,北海道野付郡別海町中春別東町103番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中春別福祉館" transform="ref(svg,14505.9706,-4347.8558)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1563" content="上春別中学校,01691,北海道野付郡別海町上春別旭町30番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上春別中学校" transform="ref(svg,14490.0872,-4343.1491)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1564" content="上春別小学校,01691,北海道野付郡別海町上春別123番地12,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上春別小学校" transform="ref(svg,14489.3738,-4343.2076)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1565" content="上春別地域センター,01691,北海道野付郡別海町上春別栄町44番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上春別地域センター" transform="ref(svg,14489.5848,-4343.0639)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1566" content="走古丹地域防災センター,01691,北海道野付郡別海町走古丹1番地44,避難所,-1,-1,0,0,0,0,0,1" xlink:title="走古丹地域防災センター" transform="ref(svg,14533.3928,-4332.1245)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1567" content="床丹地域防災センター,01691,北海道野付郡別海町床丹4番地46,避難所,-1,-1,0,0,0,0,0,1" xlink:title="床丹地域防災センター" transform="ref(svg,14525.6395,-4346.6512)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1568" content="野付中学校,01691,北海道野付郡別海町尾岱沼潮見町203番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="野付中学校" transform="ref(svg,14522.0617,-4356.0095)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1569" content="野付小学校,01691,北海道野付郡別海町尾岱沼潮見町217番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="野付小学校" transform="ref(svg,14522.1339,-4355.5929)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1570" content="別海町東公民館,01691,北海道野付郡別海町尾岱沼潮見町72番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海町東公民館" transform="ref(svg,14521.7061,-4356.96)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1571" content="尾岱沼地域センター,01691,北海道野付郡別海町尾岱沼潮見町213番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="尾岱沼地域センター" transform="ref(svg,14522.0509,-4355.6962)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1572" content="本別海地域防災センター,01691,北海道野付郡別海町本別海2番地155,避難所,-1,-1,0,0,0,0,0,1" xlink:title="本別海地域防災センター" transform="ref(svg,14528.5565,-4338.5443)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1573" content="別海中学校,01691,北海道野付郡別海町本別海3番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海中学校" transform="ref(svg,14528.5506,-4337.6816)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1574" content="別海小学校,01691,北海道野付郡別海町本別海3番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="別海小学校" transform="ref(svg,14528.5173,-4337.7649)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1582" content="上風連中学校,01691,北海道野付郡別海町上風連182番地3,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上風連中学校" transform="ref(svg,14510.2054,-4326.6326)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1583" content="上風連小学校,01691,北海道野付郡別海町上風連181番地4,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上風連小学校" transform="ref(svg,14509.7805,-4326.652)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1584" content="上風連地域センター,01691,北海道野付郡別海町上風連174番地17,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上風連地域センター" transform="ref(svg,14509.6429,-4326.8259)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1585" content="床丹墓地,01691,北海道野付郡別海町床丹4番地11,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="床丹墓地" transform="ref(svg,14525.1811,-4347.7552)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1586" content="水口宅裏町有林,01691,北海道野付郡別海町床丹4番地1,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="水口宅裏町有林" transform="ref(svg,14525.6083,-4346.8281)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1587" content="田口鉄工所裏,01691,北海道野付郡別海町床丹4番地29,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="田口鉄工所裏" transform="ref(svg,14525.6059,-4347.0679)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1588" content="北方展望塔前,01691,北海道野付郡別海町尾岱沼5番地27,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="北方展望塔前" transform="ref(svg,14523.6929,-4353.3402)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8943" content="若竹公園,01662,北海道厚岸郡厚岸町若竹4-42,広域避難場所,-1,1049,0,0,0,0,0,1" xlink:title="若竹公園" transform="ref(svg,14484.9024,-4304.3909)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8944" content="梅香児童公園,01662,北海道厚岸郡厚岸町梅香1-6,広域避難場所,-1,2396,0,0,0,0,0,1" xlink:title="梅香児童公園" transform="ref(svg,14484.9249,-4303.5622)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8945" content="奔渡公園,01662,北海道厚岸郡厚岸町奔渡6,広域避難場所,-1,1785,0,0,0,0,0,1" xlink:title="奔渡公園" transform="ref(svg,14485.627,-4303.0907)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8946" content="子野日公園,01662,北海道厚岸郡厚岸町奔渡6,広域避難場所,-1,155360,0,0,0,0,0,1" xlink:title="子野日公園" transform="ref(svg,14486.0164,-4302.9149)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8947" content="有明公住緑地,01662,北海道厚岸郡厚岸町有明2-1,広域避難場所,-1,5000,0,0,0,0,0,1" xlink:title="有明公住緑地" transform="ref(svg,14485.2755,-4302.6172)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8948" content="港町１号公園,01662,北海道厚岸郡厚岸町港町1-45,広域避難場所,-1,4727,0,0,0,0,0,1" xlink:title="港町１号公園" transform="ref(svg,14484.9115,-4305.4468)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8949" content="港町２号公園,01662,北海道厚岸郡厚岸町港町3-37,広域避難場所,-1,2134,0,0,0,0,0,1" xlink:title="港町２号公園" transform="ref(svg,14485.2288,-4305.2217)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8950" content="役場庁舎駐車場,01662,北海道厚岸郡厚岸町真栄3-1,広域避難場所,-1,2830,0,0,0,0,0,1" xlink:title="役場庁舎駐車場" transform="ref(svg,14484.8175,-4305.1733)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8951" content="町民広場,01662,北海道厚岸郡厚岸町真栄3-1,広域避難場所,-1,2015,0,0,0,0,0,1" xlink:title="町民広場" transform="ref(svg,14484.8825,-4305.1461)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8952" content="住の江公園,01662,北海道厚岸郡厚岸町住の江1-3,広域避難場所,-1,1475,0,0,0,0,0,1" xlink:title="住の江公園" transform="ref(svg,14484.7216,-4305.7237)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8955" content="公民館筑紫恋分館,01662,北海道厚岸郡厚岸町筑紫恋32-3,広域避難場所、指定避難所,47,578,0,0,0,0,0,1" xlink:title="公民館筑紫恋分館" transform="ref(svg,14485.2674,-4301.4058)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8956" content="公民館末広分館,01662,北海道厚岸郡厚岸町末広85,広域避難場所、指定避難所,100,1882,0,0,0,0,0,1" xlink:title="公民館末広分館" transform="ref(svg,14489.5013,-4299.083)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8964" content="旧糸魚沢小学校グランド,01662,北海道厚岸郡厚岸町糸魚沢322,広域避難場所,-1,6086,0,0,0,0,0,1" xlink:title="旧糸魚沢小学校グランド" transform="ref(svg,14492.512,-4310.7753)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8965" content="高知小中学校グランド,01662,北海道厚岸郡厚岸町若松307,広域避難場所,-1,4584,0,0,0,0,0,1" xlink:title="高知小中学校グランド" transform="ref(svg,14491.113,-4315.6808)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8966" content="トライベツ地区集会所周辺,01662,北海道厚岸郡厚岸町トライベツ170,広域避難場所,-1,7610,0,0,0,0,0,1" xlink:title="トライベツ地区集会所周辺" transform="ref(svg,14492.5176,-4321.4618)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8970" content="社会福祉センター,01662,北海道厚岸郡厚岸町梅香2-1,指定避難所,400,659,0,0,0,0,0,1" xlink:title="社会福祉センター" transform="ref(svg,14484.8324,-4303.744)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8971" content="厚岸小学校,01662,北海道厚岸郡厚岸町梅香2-3,広域避難場所、指定避難所,758,11528,0,0,0,0,0,1" xlink:title="厚岸小学校" transform="ref(svg,14484.9505,-4303.6344)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8972" content="厚岸中学校,01662,北海道厚岸郡厚岸町梅香1-5,広域避難場所、指定避難所,900,15214,0,0,0,0,0,1" xlink:title="厚岸中学校" transform="ref(svg,14485.0106,-4303.4381)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8973" content="有明地区集会所,01662,北海道厚岸郡厚岸町有明2-1,指定避難所,35,58,0,0,0,0,0,1" xlink:title="有明地区集会所" transform="ref(svg,14485.2453,-4302.7648)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8974" content="漁村センター,01662,北海道厚岸郡厚岸町奔渡6-1,指定避難所,220,370,0,0,0,0,0,1" xlink:title="漁村センター" transform="ref(svg,14485.6528,-4303.1224)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8975" content="厚岸漁業協同組合,01662,北海道厚岸郡厚岸町奔渡3-1,指定避難所,140,214,0,0,0,0,0,1" xlink:title="厚岸漁業協同組合" transform="ref(svg,14485.5844,-4304.0832)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8976" content="多機能共生型地域交流ｾﾝﾀｰ,01662,北海道厚岸郡厚岸町奔渡2-1,指定避難所,210,350,0,0,0,0,0,1" xlink:title="多機能共生型地域交流ｾﾝﾀｰ" transform="ref(svg,14485.4805,-4304.045)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8977" content="松葉地区集会所,01662,北海道厚岸郡厚岸町松葉3-1,指定避難所,250,410,0,0,0,0,0,1" xlink:title="松葉地区集会所" transform="ref(svg,14484.9108,-4303.9623)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8978" content="湖南地区集会所,01662,北海道厚岸郡厚岸町若竹4-1,指定避難所,165,271,0,0,0,0,0,1" xlink:title="湖南地区集会所" transform="ref(svg,14484.8627,-4304.478)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8979" content="生活改善センター,01662,北海道厚岸郡厚岸町港町2-1,指定避難所,280,465,0,0,0,0,0,1" xlink:title="生活改善センター" transform="ref(svg,14484.9975,-4305.3544)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8980" content="真竜保育所,01662,北海道厚岸郡厚岸町港町2-2,指定避難所,110,170,0,0,0,0,0,1" xlink:title="真竜保育所" transform="ref(svg,14484.9683,-4305.3336)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8981" content="真龍小学校,01662,北海道厚岸郡厚岸町真栄2-1,広域避難場所、指定避難所,787,8899,0,0,0,0,0,1" xlink:title="真龍小学校" transform="ref(svg,14484.6282,-4305.5009)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8983" content="住の江地区集会所,01662,北海道厚岸郡厚岸町住の江2-1,指定避難所,70,114,0,0,0,0,0,1" xlink:title="住の江地区集会所" transform="ref(svg,14484.549,-4305.8153)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8994" content="床潭漁村センター,01662,北海道厚岸郡厚岸町床潭133-1,指定避難所,140,234,0,0,0,0,0,1" xlink:title="床潭漁村センター" transform="ref(svg,14486.957,-4300.0054)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8995" content="旧床潭保育所,01662,北海道厚岸郡厚岸町床潭131,指定避難所,140,238,0,0,0,0,0,1" xlink:title="旧床潭保育所" transform="ref(svg,14486.9033,-4300.0433)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8996" content="床潭小学校,01662,北海道厚岸郡厚岸町床潭128,広域避難場所、指定避難所,410,6819,0,0,0,0,0,1" xlink:title="床潭小学校" transform="ref(svg,14486.6978,-4300.0322)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8997" content="旧小島小中学校,01662,北海道厚岸郡厚岸町小島5-8,広域避難場所、指定避難所,80,327,0,0,0,0,0,1" xlink:title="旧小島小中学校" transform="ref(svg,14487.9191,-4297.5024)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9001" content="糸魚沢地区集会所,01662,北海道厚岸郡厚岸町糸魚沢66,指定避難所,80,129,0,0,0,0,0,1" xlink:title="糸魚沢地区集会所" transform="ref(svg,14493.1008,-4310.4419)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9002" content="若松地区集会所,01662,北海道厚岸郡厚岸町若松103,指定避難所,81,134,0,0,0,0,0,1" xlink:title="若松地区集会所" transform="ref(svg,14491.1566,-4315.7184)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9003" content="トライべツ地区集会所,01662,北海道厚岸郡厚岸町トライベツ170,指定避難所,152,252,0,0,0,0,0,1" xlink:title="トライべツ地区集会所" transform="ref(svg,14492.5514,-4321.4332)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9006" content="味覚ターミナル（１Ｆロビー）,01662,北海道厚岸郡厚岸町住の江2丁目2番地,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="味覚ターミナル（１Ｆロビー）" transform="ref(svg,14484.4335,-4305.7772)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9013" content="住の江山の手高台（道路・空き地）,01662,北海道厚岸郡厚岸町山の手,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="住の江山の手高台（道路・空き地）" transform="ref(svg,14484.539,-4306.1477)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9014" content="住の江丘陵公園,01662,北海道厚岸郡厚岸町山の手,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="住の江丘陵公園" transform="ref(svg,14484.5619,-4306.3152)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9031" content="松葉地区集会所裏山,01662,北海道厚岸郡厚岸町御供1番7,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="松葉地区集会所裏山" transform="ref(svg,14484.9415,-4303.9407)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9032" content="お供山展望台,01662,北海道厚岸郡厚岸町御供51番,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="お供山展望台" transform="ref(svg,14485.0316,-4304.1136)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9033" content="桜通り頂上横高台,01662,北海道厚岸郡厚岸町梅香1丁目5番,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="桜通り頂上横高台" transform="ref(svg,14485.2633,-4303.251)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9034" content="コアぽんときらく（屋上）,01662,北海道厚岸郡厚岸町奔渡2丁目1番地,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="コアぽんときらく（屋上）" transform="ref(svg,14485.4891,-4304.0552)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9035" content="子野日公園高台,01662,北海道厚岸郡厚岸町奔渡6丁目10番,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="子野日公園高台" transform="ref(svg,14485.8982,-4302.7827)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9036" content="奔渡7丁目裏山,01662,北海道厚岸郡厚岸町奔渡7丁目165番,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="奔渡7丁目裏山" transform="ref(svg,14486.9052,-4302.8264)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9037" content="厚岸霊園駐車場,01662,北海道厚岸郡厚岸町有明2丁目4番,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="厚岸霊園駐車場" transform="ref(svg,14485.503,-4302.7953)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9038" content="（独）水産総合研究センターの周辺,01662,北海道厚岸郡厚岸町筑紫恋2番,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="（独）水産総合研究センターの周辺" transform="ref(svg,14484.7406,-4301.6614)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9039" content="海岸地域裏山,01662,北海道厚岸郡厚岸町筑紫恋,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="海岸地域裏山" transform="ref(svg,14485.2485,-4301.4286)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9040" content="床潭神社,01662,北海道厚岸郡厚岸町床潭,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="床潭神社" transform="ref(svg,14487.205,-4299.8245)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9041" content="床潭中央高台町有地裏,01662,北海道厚岸郡厚岸町床潭142番9,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="床潭中央高台町有地裏" transform="ref(svg,14487.0456,-4300.0741)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9042" content="ピリカウタ広場（多目的広場）,01662,北海道厚岸郡厚岸町床潭148番1,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="ピリカウタ広場（多目的広場）" transform="ref(svg,14487.7074,-4298.911)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9043" content="（有）高島食品裏山,01662,北海道厚岸郡厚岸町床潭53番1,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="（有）高島食品裏山" transform="ref(svg,14486.2957,-4300.1702)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9044" content="主要道道別海厚岸線付近,01662,北海道厚岸郡厚岸町末広,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="主要道道別海厚岸線付近" transform="ref(svg,14489.1628,-4299.8778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9045" content="主要道道別海厚岸線付近,01662,北海道厚岸郡厚岸町末広,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="主要道道別海厚岸線付近" transform="ref(svg,14489.3854,-4299.8767)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9046" content="小島神社裏山,01662,北海道厚岸郡厚岸町小島,高潮、津波時の緊急避難場所,-1,-1,0,1,0,0,0,0" xlink:title="小島神社裏山" transform="ref(svg,14487.9262,-4297.4919)" x="0" y="0"/>
+</g>
+</svg>

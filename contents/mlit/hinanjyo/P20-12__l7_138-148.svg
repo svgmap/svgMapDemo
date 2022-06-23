@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13851.5625 -3796.875 35.15625 35.15625" go:dataArea="13851.5625 -3796.875 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f42925" content="じょんのび館,15108,新潟県新潟市西蒲区福井4067番地,避難所,485,485,1,0,1,0,0,0" xlink:title="じょんのび館" transform="ref(svg,13883.157,-3776.0025)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42930" content="越前小学校,15108,新潟県新潟市西蒲区越前浜4670番地,避難所,1999,1999,1,0,1,0,0,0" xlink:title="越前小学校" transform="ref(svg,13884.3115,-3780.5136)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42935" content="角田山自然館,15108,新潟県新潟市西蒲区福井4067,避難所,302,302,1,0,1,0,0,0" xlink:title="角田山自然館" transform="ref(svg,13883.1781,-3775.9464)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42948" content="巻ふるさと会館,15108,新潟県新潟市西蒲区五ケ浜2237,避難所,333,333,1,0,1,0,0,0" xlink:title="巻ふるさと会館" transform="ref(svg,13881.4504,-3777.1225)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42956" content="巻農村環境改善センター,15108,新潟県新潟市西蒲区福井3975番地1,避難所,908,908,1,0,1,0,0,0" xlink:title="巻農村環境改善センター" transform="ref(svg,13882.8311,-3775.9346)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42960" content="間瀬公民館,15108,新潟県新潟市西蒲区間瀬4287-1,避難所,138,138,1,0,1,0,0,0" xlink:title="間瀬公民館" transform="ref(svg,13879.7003,-3773.8384)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42961" content="間瀬保育園,15108,新潟県新潟市西蒲区間瀬4290-1,避難所,159,159,1,0,1,0,0,0" xlink:title="間瀬保育園" transform="ref(svg,13879.5975,-3773.8003)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42962" content="丸小山公園,15108,新潟県新潟市西蒲区岩室温泉1661番地1,一時避難場所,3904,7809,0,0,0,0,0,1" xlink:title="丸小山公園" transform="ref(svg,13883.6467,-3773.2149)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42963" content="岩室すこやかセンター,15108,新潟県新潟市西蒲区間瀬4290番地1,避難所,552,552,1,0,1,0,0,0" xlink:title="岩室すこやかセンター" transform="ref(svg,13879.5718,-3773.8072)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42964" content="岩室健康増進センター「よりなれ」,15108,新潟県新潟市西蒲区石瀬3331番地1,避難所,247,247,1,0,1,0,0,0" xlink:title="岩室健康増進センター「よりなれ」" transform="ref(svg,13883.7177,-3773.0649)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42965" content="岩室小学校,15108,新潟県新潟市西蒲区西長島510番地,避難所,2647,2647,1,0,1,0,0,0" xlink:title="岩室小学校" transform="ref(svg,13885.1808,-3772.953)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42968" content="岩室中学校,15108,新潟県新潟市西蒲区西中1421番地,避難所,2955,2955,1,0,1,0,0,0" xlink:title="岩室中学校" transform="ref(svg,13886.0391,-3772.8808)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42970" content="岩室保育園,15108,新潟県新潟市西蒲区橋本101-1,避難所,296,593,1,0,0,0,0,0" xlink:title="岩室保育園" transform="ref(svg,13884.1116,-3773.2132)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42973" content="県立青少年研修センター,15108,新潟県新潟市西蒲区越前浜5597番地2,避難所,1050,1050,1,0,1,0,0,0" xlink:title="県立青少年研修センター" transform="ref(svg,13885.2147,-3780.7344)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42974" content="高屋ふれあいセンター,15108,新潟県新潟市西蒲区間瀬5165番地2,避難所,50,50,1,0,1,0,0,0" xlink:title="高屋ふれあいセンター" transform="ref(svg,13879.5244,-3773.2226)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42975" content="七浦保育園,15108,新潟県新潟市西蒲区大字越前浜6905-6,避難所,235,470,1,0,1,0,0,0" xlink:title="七浦保育園" transform="ref(svg,13884.1166,-3780.9132)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42986" content="上堰潟公園,15108,新潟県新潟市西蒲区松野尾1番地,広域避難場所,130384,260769,0,0,0,0,0,1" xlink:title="上堰潟公園" transform="ref(svg,13886.5127,-3778.9253)" x="0" y="0"/>
+<use xlink:href="#p0" id="f42987" content="城山運動公園,15108,新潟県新潟市西蒲区峰岡580番地,広域避難場所,72777,145555,0,0,0,0,0,1" xlink:title="城山運動公園" transform="ref(svg,13885.3879,-3776.3497)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43011" content="入徳館野外研修場,15108,新潟県新潟市西蒲区峰岡444番地2,避難所,392,392,1,0,1,0,0,0" xlink:title="入徳館野外研修場" transform="ref(svg,13884.5158,-3775.6569)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43012" content="峰岡公民館,15108,新潟県新潟市西蒲区鷲ノ木1633-9,避難所,238,238,1,0,1,0,0,0" xlink:title="峰岡公民館" transform="ref(svg,13886.4728,-3775.7061)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43027" content="愛宕神社（磯町）,15202,新潟県長岡市寺泊敷ノ川,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="愛宕神社（磯町）" transform="ref(svg,13877.6067,-3764.9405)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43029" content="伊勢崎市臨海学校,15202,新潟県長岡市寺泊松沢町603,指定避難所,868,1736,0,1,0,0,0,0" xlink:title="伊勢崎市臨海学校" transform="ref(svg,13876.1457,-3763.0706)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43030" content="稲荷神社（港町）,15202,新潟県長岡市寺泊小屋場,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="稲荷神社（港町）" transform="ref(svg,13878.0606,-3765.7644)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43063" content="旧寺泊中学校,15202,新潟県長岡市寺泊二ノ関2238,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="旧寺泊中学校" transform="ref(svg,13876.7508,-3763.9636)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43064" content="旧前崎市野積少年海の家,15202,新潟県長岡市寺泊野積11552,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="旧前崎市野積少年海の家" transform="ref(svg,13878.8498,-3769.9874)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43065" content="旧野積小学校,15202,新潟県長岡市寺泊野積3200,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="旧野積小学校" transform="ref(svg,13878.8956,-3768.0883)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43069" content="金山駐車場,15202,新潟県長岡市寺泊金山432,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="金山駐車場" transform="ref(svg,13876.0707,-3762.9305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43072" content="県道麓～野積線,15202,新潟県長岡市寺泊野積,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="県道麓～野積線" transform="ref(svg,13878.6512,-3768.2614)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43073" content="吾妻広域町村圏海の家,15202,新潟県長岡市寺泊金山217,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="吾妻広域町村圏海の家" transform="ref(svg,13875.7665,-3762.5272)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43090" content="山王神社（中浜）,15202,新潟県長岡市寺泊野積,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="山王神社（中浜）" transform="ref(svg,13878.8379,-3767.8897)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43105" content="市道寺泊１００号線（旧前坂線）,15202,新潟県長岡市寺泊白岩,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="市道寺泊１００号線（旧前坂線）" transform="ref(svg,13878.1561,-3766.0731)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43107" content="市道寺泊１号線（旧弥彦裏参道線）,15202,新潟県長岡市寺泊野積,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="市道寺泊１号線（旧弥彦裏参道線）" transform="ref(svg,13878.8407,-3768.5598)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43114" content="寺泊小学校,15202,新潟県長岡市寺泊一里塚3890,指定避難所,1686,1686,0,0,0,0,0,1" xlink:title="寺泊小学校" transform="ref(svg,13877.2793,-3764.4427)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43115" content="寺泊体育館,15202,新潟県長岡市寺泊上田町7695-1,指定避難所,852,1704,0,0,0,0,0,1" xlink:title="寺泊体育館" transform="ref(svg,13876.8299,-3764.5142)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43116" content="寺泊中学校,15202,新潟県長岡市寺泊吉1681,指定避難所,1356,2712,0,0,0,0,0,1" xlink:title="寺泊中学校" transform="ref(svg,13878.7221,-3762.92)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43117" content="寺泊文化センター,15202,新潟県長岡市寺伯磯町7411-14,指定避難所,1033,2067,0,0,0,0,0,1" xlink:title="寺泊文化センター" transform="ref(svg,13877.3999,-3765.2666)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43118" content="寺泊本山センター,15202,新潟県長岡市寺泊本山748-1,指定避難所,319,639,0,0,0,0,0,1" xlink:title="寺泊本山センター" transform="ref(svg,13879.9688,-3763.2207)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43123" content="十二神社（荒谷）,15202,新潟県長岡市寺泊野積,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="十二神社（荒谷）" transform="ref(svg,13878.5064,-3767.2936)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43191" content="大宮神社（大野積）,15202,新潟県長岡市寺泊野積,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="大宮神社（大野積）" transform="ref(svg,13878.9219,-3769.8116)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43223" content="長岡市寺泊支所,15202,新潟県長岡市寺泊鳥帽子平1977-8,指定避難所,736,1472,0,0,0,0,0,1" xlink:title="長岡市寺泊支所" transform="ref(svg,13877.4068,-3763.6751)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43257" content="白岩団地（寺泊産業団地）,15202,新潟県長岡市寺泊藪田,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="白岩団地（寺泊産業団地）" transform="ref(svg,13878.1513,-3766.2964)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43258" content="白岩保育園,15202,新潟県長岡市寺泊雨池6683,指定避難所,200,400,0,1,0,0,0,0" xlink:title="白岩保育園" transform="ref(svg,13877.9194,-3765.5527)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43259" content="白山神社（金沢）,15202,新潟県長岡市寺泊野積,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="白山神社（金沢）" transform="ref(svg,13878.7997,-3768.8126)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43261" content="八幡神社（小川町）,15202,新潟県長岡市寺泊香清水,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="八幡神社（小川町）" transform="ref(svg,13876.4764,-3763.6774)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43262" content="八幡神社（内川）,15202,新潟県長岡市寺泊野積,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="八幡神社（内川）" transform="ref(svg,13878.8064,-3768.3649)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43279" content="野積保育園,15202,新潟県長岡市寺泊野積2494,指定避難所,205,410,0,0,0,0,0,1" xlink:title="野積保育園" transform="ref(svg,13878.5431,-3768.0031)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43288" content="老人憩いの家夕映荘,15202,新潟県長岡市寺泊金山170-3,指定避難所,282,564,0,0,0,0,0,1" xlink:title="老人憩いの家夕映荘" transform="ref(svg,13875.7315,-3762.393)" x="0" y="0"/>
+<use xlink:href="#p0" id="f43298" content="聚感園,15202,新潟県長岡市寺泊二ノ関2728,指定避難所,-1,-1,0,1,0,0,0,0" xlink:title="聚感園" transform="ref(svg,13876.9179,-3764.3276)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44231" content="サンスポーツランド分水野球場,15213,新潟県燕市分水あけぼの1丁目1番地67号,避難場所,-1,12535,0,0,0,0,0,1" xlink:title="サンスポーツランド分水野球場" transform="ref(svg,13883.9065,-3763.948)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44252" content="燕市役所分水庁舎,15213,新潟県燕市分水桜町3丁目3番1号,避難施設,1000,2837,0,0,0,0,0,1" xlink:title="燕市役所分水庁舎" transform="ref(svg,13883.9521,-3762.6482)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44271" content="吉田寺,15213,新潟県燕市渡部1195番地,避難施設,300,500,0,0,0,0,0,1" xlink:title="吉田寺" transform="ref(svg,13879.7627,-3765.5014)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44289" content="笈ケ島保育園,15213,新潟県燕市笈ケ島169番地1,避難施設,-1,674,0,0,0,0,0,1" xlink:title="笈ケ島保育園" transform="ref(svg,13884.8506,-3762.0236)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44290" content="国上ビジターサービスセンター駐車場,15213,新潟県燕市国上1405番地15,避難場所,-1,13920,0,0,0,0,0,1" xlink:title="国上ビジターサービスセンター駐車場" transform="ref(svg,13881.3657,-3766.4769)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44291" content="国上勤労者体育センター,15213,新潟県燕市国上3492番地1,避難施設、避難場所,800,4155,0,0,0,0,0,1" xlink:title="国上勤労者体育センター" transform="ref(svg,13881.1856,-3765.3704)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44292" content="国上健康の森公園,15213,新潟県燕市国上5866番地1,避難場所,-1,13920,0,0,0,0,0,1" xlink:title="国上健康の森公園" transform="ref(svg,13882.5403,-3766.2941)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44293" content="国上農村環境改善センター,15213,新潟県燕市長辰7550番地2,避難施設,500,566,0,0,0,0,0,1" xlink:title="国上農村環境改善センター" transform="ref(svg,13882.3906,-3766.3179)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44324" content="地蔵堂保育園,15213,新潟県燕市上諏訪10番13号,避難施設,-1,1049,0,0,0,0,0,1" xlink:title="地蔵堂保育園" transform="ref(svg,13884.2991,-3762.9568)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44325" content="中央公民館駐車場,15213,新潟県燕市分水新町2丁目5番1号,避難場所,-1,4700,0,0,0,0,0,1" xlink:title="中央公民館駐車場" transform="ref(svg,13884.3838,-3762.2641)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44327" content="渡部菅原神社脇広場,15213,新潟県燕市渡部1686番地,避難場所,-1,1675,0,0,0,0,0,1" xlink:title="渡部菅原神社脇広場" transform="ref(svg,13880.2498,-3765.1731)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44337" content="分水公民館,15213,新潟県燕市分水新町2丁目5番1,避難施設,1700,2640,0,0,0,0,0,1" xlink:title="分水公民館" transform="ref(svg,13884.3768,-3762.2615)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44338" content="分水高等学校,15213,新潟県燕市笈ケ島104番地4,避難施設、避難場所,-1,29853,0,0,0,0,0,1" xlink:title="分水高等学校" transform="ref(svg,13884.7908,-3761.8657)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44339" content="分水小学校,15213,新潟県燕市分水学校町1丁目7番1号,避難施設、避難場所,2100,18023,0,0,0,0,0,1" xlink:title="分水小学校" transform="ref(svg,13884.7979,-3762.8015)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44340" content="分水総合体育館,15213,新潟県燕市分水向陽1番2号,避難施設,2000,3170,0,0,0,0,0,1" xlink:title="分水総合体育館" transform="ref(svg,13883.9929,-3763.4235)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44341" content="分水中学校,15213,新潟県燕市分水向陽1番1号,避難施設、避難場所,1200,32657,0,0,0,0,0,1" xlink:title="分水中学校" transform="ref(svg,13884.0486,-3763.5538)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44342" content="分水福祉会館,15213,新潟県燕市上諏訪10番16号,避難施設,-1,848,0,0,0,0,0,1" xlink:title="分水福祉会館" transform="ref(svg,13884.233,-3762.981)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44343" content="分水保健福祉センター,15213,新潟県燕市新堀1138番地1,避難施設,-1,315,0,0,0,0,0,1" xlink:title="分水保健福祉センター" transform="ref(svg,13883.7202,-3763.7985)" x="0" y="0"/>
+<use xlink:href="#p0" id="f44344" content="分水北小学校,15213,新潟県燕市中島1229番地1,避難施設、避難場所,1200,21022,0,0,0,0,0,1" xlink:title="分水北小学校" transform="ref(svg,13883.8479,-3764.8317)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46079" content="きらめきの丘駐車場,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="きらめきの丘駐車場" transform="ref(svg,13885.5446,-3769.8433)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46080" content="コミュニティセンター駐車場,15342,新潟県西蒲原郡弥彦村上泉1753,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="コミュニティセンター駐車場" transform="ref(svg,13883.0803,-3771.0371)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46081" content="サンビレッジ弥彦駐車場,15342,新潟県西蒲原郡弥彦村麓3134-3,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="サンビレッジ弥彦駐車場" transform="ref(svg,13882.7174,-3768.2688)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46083" content="荻野農村公園,15342,新潟県西蒲原郡弥彦村荻野,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="荻野農村公園" transform="ref(svg,13886.2788,-3769.8459)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46084" content="村山農村公園,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="村山農村公園" transform="ref(svg,13883.9334,-3768.0021)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46085" content="村民総合運動場,15342,新潟県西蒲原郡弥彦村大字矢作4877番地,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="村民総合運動場" transform="ref(svg,13885.3407,-3769.4138)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46086" content="大戸企業団地多目的広場,15342,新潟県西蒲原郡弥彦村大戸企業団地,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大戸企業団地多目的広場" transform="ref(svg,13886.2897,-3767.4195)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46088" content="二松保育園広場,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="二松保育園広場" transform="ref(svg,13885.5837,-3769.3368)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46090" content="弥彦けいりん会館駐車場,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦けいりん会館駐車場" transform="ref(svg,13883.2323,-3771.1547)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46091" content="弥彦駅前第１駐車場,15342,新潟県西蒲原郡弥彦村大字弥彦1075番地15他,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦駅前第１駐車場" transform="ref(svg,13883.0319,-3770.0648)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46092" content="弥彦公園（神苑テニスコート）,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦公園（神苑テニスコート）" transform="ref(svg,13883.0211,-3769.9159)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46093" content="弥彦小学校グラウンド,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦小学校グラウンド" transform="ref(svg,13884.5755,-3769.2812)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46094" content="弥彦総合文化会館駐車場,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦総合文化会館駐車場" transform="ref(svg,13883.2014,-3770.681)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46095" content="弥彦村営駐車場,15342,新潟県西蒲原郡弥彦村大字弥彦2582番地1他,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦村営駐車場" transform="ref(svg,13882.9833,-3770.6482)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46096" content="弥彦村商工会館脇広場,15342,新潟県西蒲原郡弥彦村大字弥彦2953,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦村商工会館脇広場" transform="ref(svg,13882.5922,-3770.3199)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46097" content="弥彦村保健センター駐車場,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦村保健センター駐車場" transform="ref(svg,13882.717,-3767.9563)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46098" content="弥彦中学校駐車場,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦中学校駐車場" transform="ref(svg,13885.2254,-3769.3895)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46099" content="弥彦保育園広場,15342,新潟県西蒲原郡弥彦村,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="弥彦保育園広場" transform="ref(svg,13883.3671,-3769.5842)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46100" content="麓多目的運動場,15342,新潟県西蒲原郡弥彦村大字麓7035番地,指定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="麓多目的運動場" transform="ref(svg,13882.1981,-3768.2926)" x="0" y="0"/>
+<use xlink:href="#p0" id="f46134" content="山王神社,15405,新潟県三島郡出雲崎町勝見,避難所,-1,-1,0,1,0,0,0,0" xlink:title="山王神社" transform="ref(svg,13878.7987,-3769.2794)" x="0" y="0"/>
+</g>
+</svg>

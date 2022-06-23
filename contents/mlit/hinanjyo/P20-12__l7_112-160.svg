@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="12937.5 -3375.0 35.15625 35.15625" go:dataArea="12937.5 -3375.0 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f113665" content="ながさき西海農協大島支店,42207,長崎県平戸市大島村188-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ながさき西海農協大島支店" transform="ref(svg,12955.6894,-3347.8223)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113678" content="漁協神浦支所,42207,長崎県平戸市大島村神浦10,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="漁協神浦支所" transform="ref(svg,12955.6938,-3347.599)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113679" content="漁村センター（大根坂地区）,42207,長崎県平戸市大島村大根坂2292-22,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="漁村センター（大根坂地区）" transform="ref(svg,12955.3476,-3349.3447)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113680" content="漁村センター（地区）,42207,長崎県平戸市大島村山川内330-3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="漁村センター（地区）" transform="ref(svg,12952.9331,-3348.406)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113681" content="金剛院,42207,長崎県平戸市大島村前平1372,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="金剛院" transform="ref(svg,12955.8054,-3347.8953)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113684" content="御崎公民館,42207,長崎県平戸市生月町壱部免292番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="御崎公民館" transform="ref(svg,12942.8754,-3343.332)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113694" content="真教寺,42207,長崎県平戸市大島村前平1426,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="真教寺" transform="ref(svg,12955.6207,-3347.8985)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113697" content="生月町多目的集会施設,42207,長崎県平戸市生月町壱部免4873番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="生月町多目的集会施設" transform="ref(svg,12943.1121,-3339.9799)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113699" content="西宇戸公民館,42207,長崎県平戸市大島村西宇戸1372番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西宇戸公民館" transform="ref(svg,12955.8012,-3348.5402)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113701" content="西光寺,42207,長崎県平戸市大島村山川内296,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西光寺" transform="ref(svg,12953.1386,-3348.3935)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113702" content="西神浦公民館,42207,長崎県平戸市大島村神浦104,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西神浦公民館" transform="ref(svg,12955.5076,-3347.8535)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113703" content="西福寺,42207,長崎県平戸市大島村前平1036番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西福寺" transform="ref(svg,12955.9461,-3347.7034)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113705" content="川内公民館,42207,長崎県平戸市大島村的山川内858番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="川内公民館" transform="ref(svg,12953.0006,-3349.0121)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113707" content="前平公民館,42207,長崎県平戸市大島村前平1806番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="前平公民館" transform="ref(svg,12955.4613,-3348.2081)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113710" content="大根坂公民館,42207,長崎県平戸市大島村大根坂2158番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大根坂公民館" transform="ref(svg,12955.2358,-3349.5696)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113712" content="大島村商工会,42207,長崎県平戸市大島村229,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大島村商工会" transform="ref(svg,12955.816,-3347.7689)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113713" content="大島地区活性化センター,42207,長崎県平戸市大島村的山川内790番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大島地区活性化センター" transform="ref(svg,12952.9579,-3348.7531)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113714" content="第一分団詰所,42207,長崎県平戸市大島村神浦53-2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="第一分団詰所" transform="ref(svg,12955.6597,-3347.7681)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113715" content="第三分団詰所,42207,長崎県平戸市大島村前平1725-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="第三分団詰所" transform="ref(svg,12955.4431,-3348.382)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113716" content="第四分団詰所,42207,長崎県平戸市大島村大根坂2314-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="第四分団詰所" transform="ref(svg,12955.1427,-3349.3456)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113726" content="的山公民館,42207,長崎県平戸市大島村山川内796-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="的山公民館" transform="ref(svg,12952.8908,-3348.7618)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113727" content="天降神社,42207,長崎県平戸市大島村前平1351,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="天降神社" transform="ref(svg,12955.7064,-3347.8741)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113733" content="度島町へき地保育所,42207,長崎県平戸市度島町1655番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="度島町へき地保育所" transform="ref(svg,12951.5579,-3343.2898)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113735" content="東神浦公民館,42207,長崎県平戸市大島村前平1049番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="東神浦公民館" transform="ref(svg,12955.9996,-3347.7537)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113742" content="板の浦集会所,42207,長崎県平戸市大島村的山戸田679番地5,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="板の浦集会所" transform="ref(svg,12951.1708,-3347.8124)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113755" content="平戸市役所大島支所,42207,長崎県平戸市大島村前平1840番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="平戸市役所大島支所" transform="ref(svg,12955.4682,-3347.9554)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113777" content="平戸市立度島小学校,42207,長崎県平戸市度島町1082番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="平戸市立度島小学校" transform="ref(svg,12952.3578,-3343.8287)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113778" content="平戸市立度島中学校,42207,長崎県平戸市度島町1082番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="平戸市立度島中学校" transform="ref(svg,12952.3526,-3343.7922)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113793" content="本山神社,42207,長崎県平戸市大島村的山戸田1658,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="本山神社" transform="ref(svg,12952.3403,-3348.2775)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113796" content="離島開発総合センター,42207,長崎県平戸市大島村前平1456番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="離島開発総合センター" transform="ref(svg,12955.4754,-3347.9942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113821" content="黒島地区多目的集会所,42208,長崎県松浦市鷹島町黒島免274番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="黒島地区多目的集会所" transform="ref(svg,12972.5115,-3345.6703)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113851" content="松浦市立青島小学校,42208,長崎県松浦市星鹿町青島免701番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="松浦市立青島小学校" transform="ref(svg,12968.5742,-3341.3411)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113852" content="松浦市立青島中学校,42208,長崎県松浦市星鹿町青島免701番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="松浦市立青島中学校" transform="ref(svg,12968.5873,-3341.3654)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113855" content="松浦市立鷹島小学校黒島分校,42208,長崎県松浦市鷹島町黒島免136番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="松浦市立鷹島小学校黒島分校" transform="ref(svg,12972.6005,-3345.7402)" x="0" y="0"/>
+<use xlink:href="#p0" id="f113879" content="船唐津地区漁民センター,42208,長崎県松浦市鷹島町船唐津免550番地5,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="船唐津地区漁民センター" transform="ref(svg,12972.5264,-3341.4831)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114199" content="壱岐市立盈科小学校,42210,長崎県壱岐市郷ノ浦町本村触589番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="壱岐市立盈科小学校" transform="ref(svg,12969.245,-3374.9742)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114202" content="壱岐市立三島小学校,42210,長崎県壱岐市郷ノ浦町大島815番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="壱岐市立三島小学校" transform="ref(svg,12963.4791,-3373.824)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114203" content="壱岐市立三島小学校原島分校,42210,長崎県壱岐市郷ノ浦町原島305番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="壱岐市立三島小学校原島分校" transform="ref(svg,12964.8608,-3372.6046)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114204" content="壱岐市立三島小学校長島分校,42210,長崎県壱岐市郷ノ浦町長島45番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="壱岐市立三島小学校長島分校" transform="ref(svg,12963.5914,-3372.7738)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114206" content="壱岐市立初山小学校,42210,長崎県壱岐市郷ノ浦町初山西触807番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="壱岐市立初山小学校" transform="ref(svg,12970.3193,-3371.8626)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114207" content="壱岐市立初山中学校,42210,長崎県壱岐市郷ノ浦町初山西触802番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="壱岐市立初山中学校" transform="ref(svg,12970.2851,-3371.9233)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114236" content="壱岐文化ホール,42210,長崎県壱岐市郷ノ浦町本村触445番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="壱岐文化ホール" transform="ref(svg,12968.714,-3374.909)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114238" content="原島老人憩いの家,42210,長崎県壱岐市郷ノ浦町原島487番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="原島老人憩いの家" transform="ref(svg,12964.8729,-3372.3038)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114249" content="長崎県立壱岐高等学校体育館,42210,長崎県壱岐市郷ノ浦町片原触88番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="長崎県立壱岐高等学校体育館" transform="ref(svg,12969.2889,-3374.6053)" x="0" y="0"/>
+<use xlink:href="#p0" id="f114251" content="長島老人憩いの家,42210,長崎県壱岐市郷ノ浦町長島672番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="長島老人憩いの家" transform="ref(svg,12963.4466,-3372.8161)" x="0" y="0"/>
+</g>
+</svg>

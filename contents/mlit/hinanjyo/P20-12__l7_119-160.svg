@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13183.59375 -3375.0 35.15625 35.15625" go:dataArea="13183.59375 -3375.0 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f100691" content="旧八島小学校グラウンド,35341,山口県熊毛郡上関町大字八島280,予定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧八島小学校グラウンド" transform="ref(svg,13213.8733,-3372.924)" x="0" y="0"/>
+<use xlink:href="#p0" id="f100711" content="中央公民館八島分館,35341,山口県熊毛郡上関町大字八島第688番の3地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中央公民館八島分館" transform="ref(svg,13214.0058,-3372.8796)" x="0" y="0"/>
+<use xlink:href="#p0" id="f100715" content="八島ふれあいセンター（八島地区館）,35341,山口県熊毛郡上関町大字八島688-3,予定避難場所,-1,-1,0,0,0,0,0,1" xlink:title="八島ふれあいセンター（八島地区館）" transform="ref(svg,13213.996,-3372.8746)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106137" content="駅迄寺,38442,愛媛県西宇和郡伊方町,避難収容施設,-1,-1,0,0,0,0,0,1" xlink:title="駅迄寺" transform="ref(svg,13215.9693,-3343.1366)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106145" content="釜木集会所,38442,愛媛県西宇和郡伊方町釜木796番地,避難収容施設、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="釜木集会所" transform="ref(svg,13215.567,-3340.5531)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106175" content="松集会所,38442,愛媛県西宇和郡伊方町松1番地1,避難収容施設、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="松集会所" transform="ref(svg,13211.837,-3341.1248)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106178" content="神崎集会所,38442,愛媛県西宇和郡伊方町神崎514番地,避難収容施設,-1,-1,0,0,0,0,0,1" xlink:title="神崎集会所" transform="ref(svg,13215.9978,-3343.1455)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106183" content="瀬戸ふるさと自然の家,38442,愛媛県西宇和郡伊方町神崎332番地,避難収容施設,-1,-1,0,0,0,0,0,1" xlink:title="瀬戸ふるさと自然の家" transform="ref(svg,13216.1456,-3343.3163)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106191" content="瀬戸農林漁家婦人活動センター,38442,愛媛県西宇和郡伊方町田部571番地,避難収容施設,-1,-1,0,0,0,0,0,1" xlink:title="瀬戸農林漁家婦人活動センター" transform="ref(svg,13217.8613,-3342.788)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106221" content="田部集会所,38442,愛媛県西宇和郡伊方町田部2137番地1,避難収容施設,-1,-1,0,0,0,0,0,1" xlink:title="田部集会所" transform="ref(svg,13217.6463,-3342.997)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106222" content="田部小学校グラウンド,38442,愛媛県西宇和郡伊方町,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="田部小学校グラウンド" transform="ref(svg,13217.8259,-3342.8047)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106225" content="二名津集会所,38442,愛媛県西宇和郡伊方町二名津123番地,避難収容施設,-1,-1,0,0,0,0,0,1" xlink:title="二名津集会所" transform="ref(svg,13213.6857,-3340.2485)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106226" content="二名津小学校,38442,愛媛県西宇和郡伊方町二名津365,一時避難場所、避難収容施設,-1,-1,0,0,0,0,0,1" xlink:title="二名津小学校" transform="ref(svg,13214.1778,-3340.2013)" x="0" y="0"/>
+<use xlink:href="#p0" id="f106231" content="明神集会所,38442,愛媛県西宇和郡伊方町明神70番地,避難収容施設,-1,-1,0,0,0,0,0,1" xlink:title="明神集会所" transform="ref(svg,13212.7576,-3340.632)" x="0" y="0"/>
+</g>
+</svg>

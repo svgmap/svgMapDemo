@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="14150.390625 -4324.21875 17.578125 17.578125" go:dataArea="14150.390625 -4324.21875 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f4494" content="ＪＡいわみざわ幌向支所,01210,北海道岩見沢市幌向南1条2丁目,避難所,90,382,0,0,0,0,0,1" xlink:title="ＪＡいわみざわ幌向支所" transform="ref(svg,14165.7783,-4315.1852)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4507" content="砂浜地区公民館,01210,北海道岩見沢市北村砂浜361番地12,避難所,170,694,0,0,0,0,0,1" xlink:title="砂浜地区公民館" transform="ref(svg,14163.6539,-4317.2629)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4524" content="美唄達布地区公民館,01210,北海道岩見沢市北村美唄達布4614番地,避難所,50,209,0,0,0,0,0,1" xlink:title="美唄達布地区公民館" transform="ref(svg,14167.4905,-4323.3339)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4531" content="豊中学校,01210,北海道岩見沢市幌向南2条1丁目59,避難所,1214,4856,0,0,0,0,0,1" xlink:title="豊中学校" transform="ref(svg,14166.22,-4315.205)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4539" content="幌向小学校,01210,北海道岩見沢市幌向南2条1丁目180,避難所,1360,5426,0,0,0,0,0,1" xlink:title="幌向小学校" transform="ref(svg,14166.4175,-4315.0404)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4540" content="幌達布地区公民館,01210,北海道岩見沢市北村幌達布5180番地,避難所,140,568,0,0,0,0,0,1" xlink:title="幌達布地区公民館" transform="ref(svg,14167.3321,-4320.9038)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4750" content="ＪＡ道央のっぽろ支所,01217,北海道江別市野幌町33-1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="ＪＡ道央のっぽろ支所" transform="ref(svg,14152.9655,-4309.2933)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4751" content="ＪＡ道央江別支所,01217,北海道江別市6条8丁目1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="ＪＡ道央江別支所" transform="ref(svg,14155.259,-4311.1561)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4752" content="あかげら公園,01217,北海道江別市緑ヶ丘35-1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="あかげら公園" transform="ref(svg,14153.4668,-4308.0461)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4753" content="あかしや公園,01217,北海道江別市大麻栄町35-1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="あかしや公園" transform="ref(svg,14150.7996,-4308.799)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4755" content="いきいきセンターわかくさ・保健センター,01217,北海道江別市若草町6-1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="いきいきセンターわかくさ・保健センター" transform="ref(svg,14154.563,-4311.248)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4756" content="いきいき公園,01217,北海道江別市見晴台100-7,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="いきいき公園" transform="ref(svg,14151.6444,-4311.5255)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4757" content="いずみ野小学校,01217,北海道江別市対雁113-1,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="いずみ野小学校" transform="ref(svg,14152.846,-4311.7195)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4758" content="えんじゅ公園,01217,北海道江別市野幌末広町22-8、9,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="えんじゅ公園" transform="ref(svg,14151.5315,-4309.0102)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4760" content="からまつ公園,01217,北海道江別市あけぼの町7,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="からまつ公園" transform="ref(svg,14157.6091,-4310.2107)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4761" content="さくら公園,01217,北海道江別市東野幌町28-1～5、10、25,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="さくら公園" transform="ref(svg,14153.903,-4309.5364)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4762" content="すぎのき公園,01217,北海道江別市元江別835-4、864-1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="すぎのき公園" transform="ref(svg,14152.297,-4311.7671)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4764" content="とちのき公園,01217,北海道江別市野幌若葉町32,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="とちのき公園" transform="ref(svg,14152.733,-4308.363)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4766" content="とわの森三愛高校第２校舎,01217,北海道江別市文京台緑町582,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="とわの森三愛高校第２校舎" transform="ref(svg,14151.3621,-4307.5032)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4769" content="ななかまど公園,01217,北海道江別市野幌若葉町57,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="ななかまど公園" transform="ref(svg,14152.2169,-4308.2228)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4772" content="のぎく公園・生協野幌店駐車場,01217,北海道江別市野幌松並町9-7～10,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="のぎく公園・生協野幌店駐車場" transform="ref(svg,14152.0635,-4308.9787)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4776" content="ふれあいワークセンター,01217,北海道江別市錦町3-5,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="ふれあいワークセンター" transform="ref(svg,14153.0643,-4310.2967)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4777" content="ほほじろ公園,01217,北海道江別市幸町16,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="ほほじろ公園" transform="ref(svg,14153.6558,-4310.0439)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4778" content="みづほ公園,01217,北海道江別市弥生町22,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="みづほ公園" transform="ref(svg,14154.547,-4310.7061)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4780" content="むつみ公園,01217,北海道江別市野幌東町39,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="むつみ公園" transform="ref(svg,14153.5574,-4309.1392)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4781" content="もみじ公園,01217,北海道江別市東野幌本町31,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="もみじ公園" transform="ref(svg,14153.152,-4308.646)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4782" content="やまぼうし公園,01217,北海道江別市あさひが丘25-4,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="やまぼうし公園" transform="ref(svg,14154.2509,-4308.7541)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4783" content="ゆりのき公園,01217,北海道江別市野幌住吉町29-13～15、48,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="ゆりのき公園" transform="ref(svg,14151.1198,-4309.1643)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4784" content="旭公園,01217,北海道江別市野幌町44,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="旭公園" transform="ref(svg,14152.8075,-4309.3478)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4786" content="旧下の月小学校グラウンド,01217,北海道江別市東野幌742-4,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧下の月小学校グラウンド" transform="ref(svg,14157.7118,-4308.1947)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4787" content="旧江別高校グラウンド,01217,北海道江別市向ヶ丘26,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧江別高校グラウンド" transform="ref(svg,14153.4555,-4310.3789)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4788" content="勤労者研修センター,01217,北海道江別市緑町西1丁目103,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="勤労者研修センター" transform="ref(svg,14154.7355,-4311.2406)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4789" content="元江別公園,01217,北海道江別市元町35-1、2,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="元江別公園" transform="ref(svg,14154.003,-4310.8208)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4790" content="光雲寺,01217,北海道江別市緑町西2丁目,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="光雲寺" transform="ref(svg,14154.6343,-4311.5883)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4791" content="江別河川防災ステーション,01217,北海道江別市大川通6,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別河川防災ステーション" transform="ref(svg,14156.2706,-4311.4413)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4792" content="江別元町地区センター,01217,北海道江別市元町1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別元町地区センター" transform="ref(svg,14153.7299,-4311.1277)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4793" content="江別工業会館,01217,北海道江別市工栄町15-1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別工業会館" transform="ref(svg,14151.6183,-4312.1642)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4794" content="江別高校,01217,北海道江別市上江別444-1,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別高校" transform="ref(svg,14154.7293,-4309.6892)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4795" content="江別市区画整理記念会館,01217,北海道江別市朝日町11-12,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別市区画整理記念会館" transform="ref(svg,14157.552,-4310.5259)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4796" content="江別小学校,01217,北海道江別市萩ヶ岡19,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別小学校" transform="ref(svg,14155.2458,-4311.028)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4797" content="江別太公園,01217,北海道江別市萌えぎ野東1-1、2,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別太公園" transform="ref(svg,14158.176,-4310.659)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4798" content="江別太小学校,01217,北海道江別市朝日町25-2,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別太小学校" transform="ref(svg,14157.7929,-4310.7642)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4799" content="江別第一中学校,01217,北海道江別市上江別西町40,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別第一中学校" transform="ref(svg,14154.8848,-4310.3058)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4800" content="江別第三小学校,01217,北海道江別市緑町西1丁目37,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別第三小学校" transform="ref(svg,14154.8625,-4311.4251)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4801" content="江別第三中学校,01217,北海道江別市牧場町21,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別第三中学校" transform="ref(svg,14153.5682,-4311.3668)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4802" content="江別第二小学校,01217,北海道江別市野幌代-木町39,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別第二小学校" transform="ref(svg,14151.8518,-4309.678)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4803" content="江別第二中学校,01217,北海道江別市野幌代-木町53,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江別第二中学校" transform="ref(svg,14152.2212,-4309.503)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4804" content="江北中学校,01217,北海道江別市美原1445,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江北中学校" transform="ref(svg,14154.9152,-4313.461)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4805" content="江陽中学校,01217,北海道江別市萌えぎ野中央10-2,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="江陽中学校" transform="ref(svg,14157.9395,-4310.9305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4807" content="札幌理工学院,01217,北海道江別市野幌若葉町85-1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="札幌理工学院" transform="ref(svg,14151.7058,-4308.255)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4808" content="市農村環境改善センター,01217,北海道江別市美原1441-13,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="市農村環境改善センター" transform="ref(svg,14154.7522,-4313.6191)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4809" content="市民会館,01217,北海道江別市高砂町6,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="市民会館" transform="ref(svg,14153.7286,-4310.3473)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4810" content="市民会館緑地,01217,北海道江別市高砂町6,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="市民会館緑地" transform="ref(svg,14153.6569,-4310.3212)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4811" content="市民体育館,01217,北海道江別市野幌町9,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="市民体育館" transform="ref(svg,14152.5925,-4309.618)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4812" content="若草公園,01217,北海道江別市野幌町6,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="若草公園" transform="ref(svg,14152.659,-4309.7115)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4813" content="若葉公園,01217,北海道江別市大麻新町10-12,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="若葉公園" transform="ref(svg,14150.6761,-4308.3336)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4814" content="上江別公園,01217,北海道江別市ゆめみ野東町21-2,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="上江別公園" transform="ref(svg,14156.6421,-4310.0835)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4815" content="上江別小学校,01217,北海道江別市ゆめみ野南町9-3,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="上江別小学校" transform="ref(svg,14156.0598,-4309.9713)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4816" content="上江別南町公園,01217,北海道江別市上江別南町3-5～12、4-5,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="上江別南町公園" transform="ref(svg,14155.635,-4310.51)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4817" content="青年センター,01217,北海道江別市緑町西2丁目11,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="青年センター" transform="ref(svg,14154.5715,-4311.3927)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4819" content="千古園,01217,北海道江別市東野幌375-1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="千古園" transform="ref(svg,14154.5174,-4307.4603)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4820" content="泉の沼公園,01217,北海道江別市東光町31-1、2,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="泉の沼公園" transform="ref(svg,14156.769,-4310.902)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4821" content="選教寺,01217,北海道江別市6条5丁目,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="選教寺" transform="ref(svg,14155.3908,-4311.3555)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4822" content="総合社会福祉センター,01217,北海道江別市錦町14-87,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="総合社会福祉センター" transform="ref(svg,14153.1204,-4310.1877)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4823" content="対雁小学校,01217,北海道江別市見晴台17-1,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="対雁小学校" transform="ref(svg,14152.3405,-4311.1778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4830" content="大麻泉小学校,01217,北海道江別市大麻泉町27,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="大麻泉小学校" transform="ref(svg,14151.1547,-4308.3726)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4838" content="中央公民館・コミュニティセンター,01217,北海道江別市3条5丁目11-1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="中央公民館・コミュニティセンター" transform="ref(svg,14155.6864,-4311.2238)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4839" content="中央小学校,01217,北海道江別市向ヶ丘54,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="中央小学校" transform="ref(svg,14153.0294,-4310.5335)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4840" content="中央中学校,01217,北海道江別市新栄台57,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="中央中学校" transform="ref(svg,14151.7212,-4310.5557)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4841" content="天徳寺,01217,北海道江別市野幌町49,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="天徳寺" transform="ref(svg,14152.7064,-4309.35)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4842" content="杜の台記念会館,01217,北海道江別市野幌屯田町23-6,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="杜の台記念会館" transform="ref(svg,14150.9819,-4309.6872)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4843" content="東光児童センター,01217,北海道江別市東光町27-7,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="東光児童センター" transform="ref(svg,14156.6152,-4311.0836)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4844" content="東光保育園,01217,北海道江別市東光町47-1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="東光保育園" transform="ref(svg,14157.2504,-4310.9942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4845" content="東野幌公共代替地,01217,北海道江別市東野幌本町5-10,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="東野幌公共代替地" transform="ref(svg,14152.9262,-4309.0931)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4846" content="東野幌小学校,01217,北海道江別市東野幌町48,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="東野幌小学校" transform="ref(svg,14154.1683,-4309.1087)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4847" content="東野幌青少年会館,01217,北海道江別市野幌東町62-3,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="東野幌青少年会館" transform="ref(svg,14153.5638,-4308.8354)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4848" content="東野幌体育館,01217,北海道江別市東野幌町28-23,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="東野幌体育館" transform="ref(svg,14153.925,-4309.4757)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4849" content="湯川公園,01217,北海道江別市野幌寿町19-1～9ほか,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="湯川公園" transform="ref(svg,14151.6847,-4310.0525)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4851" content="道立野幌総合運動公園,01217,北海道江別市西野幌481,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="道立野幌総合運動公園" transform="ref(svg,14153.4614,-4306.9337)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4852" content="白樺保育園,01217,北海道江別市野幌末広町14,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="白樺保育園" transform="ref(svg,14151.8037,-4309.0787)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4854" content="飛烏山公園,01217,北海道江別市緑町西2丁目11-1～4,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="飛烏山公園" transform="ref(svg,14154.48,-4311.524)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4857" content="豊幌研修センター,01217,北海道江別市豊幌353-9,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="豊幌研修センター" transform="ref(svg,14163.802,-4312.5456)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4858" content="豊幌公園,01217,北海道江別市豊幌花園町23-8、9,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="豊幌公園" transform="ref(svg,14162.064,-4313.068)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4859" content="豊幌小学校,01217,北海道江別市豊幌419,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="豊幌小学校" transform="ref(svg,14163.1034,-4313.2224)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4860" content="豊幌地区センター,01217,北海道江別市豊幌686-10,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="豊幌地区センター" transform="ref(svg,14163.0609,-4313.4603)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4861" content="北海道消防学校グラウンド,01217,北海道江別市中央町16,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="北海道消防学校グラウンド" transform="ref(svg,14152.1612,-4310.342)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4862" content="北海道情報大学,01217,北海道江別市西野幌59-2,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="北海道情報大学" transform="ref(svg,14153.7267,-4307.7949)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4863" content="北光小学校,01217,北海道江別市篠津805-3,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="北光小学校" transform="ref(svg,14154.4597,-4313.4277)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4865" content="野幌公民館,01217,北海道江別市野幌町13-6,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="野幌公民館" transform="ref(svg,14152.3512,-4309.4298)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4866" content="野幌高校,01217,北海道江別市元野幌740,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="野幌高校" transform="ref(svg,14150.4686,-4309.8002)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4867" content="野幌若葉小学校,01217,北海道江別市野幌若葉町5-3,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="野幌若葉小学校" transform="ref(svg,14152.3835,-4308.5304)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4869" content="野幌中学校,01217,北海道江別市西野幌92-3,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="野幌中学校" transform="ref(svg,14153.9851,-4307.6743)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4870" content="野幌鉄南地区センター,01217,北海道江別市東野幌本町62-1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="野幌鉄南地区センター" transform="ref(svg,14153.4345,-4308.5066)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4871" content="野幌屯田町公園,01217,北海道江別市野幌屯田町22-11～14,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="野幌屯田町公園" transform="ref(svg,14150.981,-4309.573)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4872" content="野幌南緑地,01217,北海道江別市緑ヶ丘57-1～4,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="野幌南緑地" transform="ref(svg,14154.2178,-4308.0682)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4874" content="野幌末広町公園,01217,北海道江別市野幌末広町3-1～5、12、42-1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="野幌末広町公園" transform="ref(svg,14151.84,-4309.24)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4875" content="弥生公園,01217,北海道江別市弥生町9,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="弥生公園" transform="ref(svg,14154.146,-4310.683)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4876" content="酪農学園大学,01217,北海道江別市文京台緑町582-1,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="酪農学園大学" transform="ref(svg,14151.0437,-4307.2699)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4877" content="酪農学園大学短期大学部,01217,北海道江別市文京台緑町582-1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="酪農学園大学短期大学部" transform="ref(svg,14150.9652,-4307.4178)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4878" content="緑ヶ丘緑地,01217,北海道江別市緑ヶ丘14-1～7,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="緑ヶ丘緑地" transform="ref(svg,14153.873,-4308.326)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4879" content="眞願寺,01217,北海道江別市7条8丁目,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="眞願寺" transform="ref(svg,14155.1326,-4311.1806)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5478" content="つつじ公園,01303,北海道石狩郡当別町北栄町20番地2,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="つつじ公園" transform="ref(svg,14151.3337,-4322.5991)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5481" content="もみじ公園,01303,北海道石狩郡当別町北栄町26番地1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="もみじ公園" transform="ref(svg,14151.4607,-4322.7993)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5482" content="ライラック公園,01303,北海道石狩郡当別町西町22番地1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="ライラック公園" transform="ref(svg,14150.8929,-4322.3518)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5483" content="阿蘇公園,01303,北海道石狩郡当別町元町1119番地1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="阿蘇公園" transform="ref(svg,14152.0062,-4321.7573)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5484" content="栄公園,01303,北海道石狩郡当別町栄町1119番地14,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="栄公園" transform="ref(svg,14152.0554,-4321.3969)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5485" content="樺戸子供遊び場,01303,北海道石狩郡当別町樺戸町106番地54先,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="樺戸子供遊び場" transform="ref(svg,14152.5383,-4321.7444)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5486" content="旧公民館前広場,01303,北海道石狩郡当別町末広118番地36,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧公民館前広場" transform="ref(svg,14151.3108,-4321.8523)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5490" content="旧東裏小学校グラウンド,01303,北海道石狩郡当別町東裏2554番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧東裏小学校グラウンド" transform="ref(svg,14155.0511,-4321.1463)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5492" content="幸町子供遊び場,01303,北海道石狩郡当別町幸町1119番地11,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="幸町子供遊び場" transform="ref(svg,14151.8423,-4321.5576)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5503" content="対雁会館前広場,01303,北海道石狩郡当別町対雁22番地17,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="対雁会館前広場" transform="ref(svg,14152.0515,-4319.9696)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5504" content="東裏地域会館,01303,北海道石狩郡当別町東裏2554番地,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="東裏地域会館" transform="ref(svg,14155.0012,-4321.0288)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5505" content="東蕨岱会館,01303,北海道石狩郡当別町蕨岱2746番地12,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="東蕨岱会館" transform="ref(svg,14156.0446,-4318.1986)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5506" content="当別高校,01303,北海道石狩郡当別町春日町84番地4,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="当別高校" transform="ref(svg,14152.2316,-4322.7793)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5507" content="当別小学校,01303,北海道石狩郡当別町元町102番地,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="当別小学校" transform="ref(svg,14151.9233,-4322.1377)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5509" content="当別中学校,01303,北海道石狩郡当別町下川町125番地,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="当別中学校" transform="ref(svg,14151.001,-4321.3848)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5510" content="当別町総合体育館,01303,北海道石狩郡当別町白樺町2792番地,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="当別町総合体育館" transform="ref(svg,14151.3288,-4322.3208)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5511" content="当別町白樺コミュニティセンター,01303,北海道石狩郡当別町白樺町2792番地1,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="当別町白樺コミュニティセンター" transform="ref(svg,14151.3215,-4322.3661)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5512" content="当別町役場前広場,01303,北海道石狩郡当別町白樺町58番地9,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="当別町役場前広場" transform="ref(svg,14151.7094,-4322.3821)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5513" content="南部地域会館,01303,北海道石狩郡当別町蕨岱1860番地6,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="南部地域会館" transform="ref(svg,14153.3424,-4318.1329)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5514" content="白樺公園,01303,北海道石狩郡当別町白樺町163番地1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="白樺公園" transform="ref(svg,14151.4422,-4322.355)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5515" content="白樺緑地,01303,北海道石狩郡当別町白樺町58番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="白樺緑地" transform="ref(svg,14151.891,-4322.4141)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5521" content="障がい者支援施設ふれあいの苑,01304,北海道石狩郡新篠津村第45線北14番地,避難所,190,-1,0,0,1,0,0,0" xlink:title="障がい者支援施設ふれあいの苑" transform="ref(svg,14163.9282,-4322.4431)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5522" content="新篠津高等養護学校,01304,北海道石狩郡新篠津村第46線北13番地,避難所,800,-1,0,0,1,0,0,0" xlink:title="新篠津高等養護学校" transform="ref(svg,14163.7139,-4322.4215)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5523" content="新篠津村Ｂ＆Ｇ海洋センター（体育館）,01304,北海道石狩郡新篠津村第46線北15番地,避難所,1150,-1,0,0,1,0,0,0" xlink:title="新篠津村Ｂ＆Ｇ海洋センター（体育館）" transform="ref(svg,14164.3586,-4322.654)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5524" content="新篠津村克雪管理センター及び体育館,01304,北海道石狩郡新篠津村第39線北36番地,避難所,800,-1,0,0,1,0,0,0" xlink:title="新篠津村克雪管理センター及び体育館" transform="ref(svg,14159.7255,-4324.077)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5525" content="新篠津村自治センター,01304,北海道石狩郡新篠津村第46線北12番地,避難所,740,-1,0,0,1,0,0,0" xlink:title="新篠津村自治センター" transform="ref(svg,14164.6958,-4322.351)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5526" content="新篠津村立小学校,01304,北海道石狩郡新篠津村第46線北10番地,避難所,700,-1,0,0,1,0,0,0" xlink:title="新篠津村立小学校" transform="ref(svg,14164.7449,-4322.2099)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5527" content="新篠津村立中学校,01304,北海道石狩郡新篠津村第47線北9番地,避難所,600,-1,0,0,1,0,0,0" xlink:title="新篠津村立中学校" transform="ref(svg,14165.1083,-4322.1216)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5528" content="第３地区集落センター,01304,北海道石狩郡新篠津村第42線北7番地,避難所,300,-1,0,0,1,0,0,0" xlink:title="第３地区集落センター" transform="ref(svg,14161.9729,-4320.6349)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5529" content="第４地区多目的研修集会施設及び体育館,01304,北海道石狩郡新篠津村第40線北47番地,避難所,620,-1,0,0,1,0,0,0" xlink:title="第４地区多目的研修集会施設及び体育館" transform="ref(svg,14160.9307,-4317.0779)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5534" content="南幌めぐみ学園,01423,北海道空知郡南幌町元町1丁目6-1,収容避難場所,-1,-1,0,0,0,0,0,1" xlink:title="南幌めぐみ学園" transform="ref(svg,14165.3618,-4307.1954)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5535" content="南幌高等学校,01423,北海道空知郡南幌町元町3丁目3-1,収容避難場所,-1,-1,0,0,0,0,0,1" xlink:title="南幌高等学校" transform="ref(svg,14164.8702,-4306.837)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5537" content="南幌中学校,01423,北海道空知郡南幌町栄町3丁目3-2,収容避難場所,-1,-1,0,0,0,0,0,1" xlink:title="南幌中学校" transform="ref(svg,14164.8507,-4306.6537)" x="0" y="0"/>
+</g>
+</svg>

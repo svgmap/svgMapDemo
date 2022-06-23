@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13921.875 -4078.125 70.3125 70.3125" go:dataArea="13921.875 -4078.125 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f10518" content="ラーメン１０１駐車場,02323,青森県西津軽郡深浦町大字月屋裸森24,避難所,484,1600,1,1,1,0,1,0" xlink:title="ラーメン１０１駐車場" transform="ref(svg,13987.2222,-4061.4115)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10519" content="横磯集落センター,02323,青森県西津軽郡深浦町大字横磯字下岡崎85-1,避難所,691,2281,1,1,1,0,1,0" xlink:title="横磯集落センター" transform="ref(svg,13988.8251,-4062.89)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10520" content="岡崎区域防災公園（夕陽ケ丘公園）,02323,青森県西津軽郡深浦町大字深浦字岡崎37外,避難所,1560,5151,1,1,1,0,1,0" xlink:title="岡崎区域防災公園（夕陽ケ丘公園）" transform="ref(svg,13992.0067,-4064.3008)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10521" content="岡崎駐車場,02323,青森県西津軽郡深浦町大字深浦字岡崎338-5,避難所,1515,5000,1,1,1,0,1,0" xlink:title="岡崎駐車場" transform="ref(svg,13991.6639,-4064.2257)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10532" content="漁業振興センター,02323,青森県西津軽郡深浦町大宇岩崎宇宝坂370-2,避難所,164,453,1,0,1,0,1,0" xlink:title="漁業振興センター" transform="ref(svg,13991.2716,-4058.6664)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10535" content="高齢者センター,02323,青森県西津軽郡深浦町大字岩崎字松原104-1,避難所,210,695,1,1,1,0,0,0" xlink:title="高齢者センター" transform="ref(svg,13992.1783,-4058.5324)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10551" content="人森山町民の森公園,02323,青森県西津軽郡深浦町大字深浦字岡崎338地内,避難所,4545,15000,1,1,1,0,1,0" xlink:title="人森山町民の森公園" transform="ref(svg,13991.3548,-4063.4087)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10558" content="沢辺地区コミュニティセンター,02323,青森県西津軽郡深浦町大字沢辺字吉花133,避難所,292,1371,1,1,1,0,1,0" xlink:title="沢辺地区コミュニティセンター" transform="ref(svg,13989.4194,-4058.5814)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10567" content="八森山ハイツ,02323,青森県西津軽郡深浦町大字深浦字岡崎338-209,避難所,142,469,1,1,1,0,1,0" xlink:title="八森山ハイツ" transform="ref(svg,13991.491,-4063.5295)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10574" content="炉作福祉センター,02323,青森県西津軽郡深浦町大字炉作字上滑滝7,避難所,271,897,1,1,1,0,0,0" xlink:title="炉作福祉センター" transform="ref(svg,13986.8194,-4060.9441)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13587.890625 -3462.890625 17.578125 17.578125" go:dataArea="13587.890625 -3462.890625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f85393" content="県立山辺高等学校,29201,奈良県奈良市都祁友田町937番地,第二次避難所,-1,-1,0,0,0,0,0,1" xlink:title="県立山辺高等学校" transform="ref(svg,13593.8069,-3459.6343)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85449" content="中畑町公民館,29201,奈良県奈良市中畑町1276,第一次避難所,40,80,0,0,0,0,0,1" xlink:title="中畑町公民館" transform="ref(svg,13588.8079,-3462.5785)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85457" content="吐山小学校体育館,29201,奈良県奈良市都祁吐山町3939番地,第一次避難所,420,850,0,0,0,0,0,1" xlink:title="吐山小学校体育館" transform="ref(svg,13596.4829,-3457.3759)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85464" content="都祁公民館,29201,奈良県奈良市針町2191番地,第一次避難所,90,185,0,0,0,0,0,1" xlink:title="都祁公民館" transform="ref(svg,13595.583,-3461.2634)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85465" content="都祁小学校体育館,29201,奈良県奈良市都祁白石町974番地,第一次避難所,410,826,0,0,0,0,0,1" xlink:title="都祁小学校体育館" transform="ref(svg,13595.8481,-3460.4833)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85466" content="都祁中学校体育館,29201,奈良県奈良市針町2554番地,第一次避難所,640,1296,0,0,0,0,0,1" xlink:title="都祁中学校体育館" transform="ref(svg,13595.4477,-3460.6829)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85521" content="並松小学校体育館,29201,奈良県奈良市藺生町1894番地,第一次避難所,420,857,0,0,0,0,0,1" xlink:title="並松小学校体育館" transform="ref(svg,13594.1832,-3459.3592)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85522" content="米谷町集会所,29201,奈良県奈良市米谷町566-1,第一次避難所,50,109,0,0,0,0,0,1" xlink:title="米谷町集会所" transform="ref(svg,13588.0563,-3461.8006)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85530" content="六郷小学校体育館,29201,奈良県奈良市針ヶ別所町812、820番地,第一次避難所,360,725,0,0,0,0,0,1" xlink:title="六郷小学校体育館" transform="ref(svg,13597.2053,-3462.4882)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85594" content="山田公民館,29204,奈良県天理市山田町1548,避難所,-1,-1,0,0,0,0,0,1" xlink:title="山田公民館" transform="ref(svg,13593.7271,-3462.7163)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85595" content="山田保育所,29204,奈良県天理市山田町1560,避難所,-1,-1,0,0,0,0,0,1" xlink:title="山田保育所" transform="ref(svg,13593.7848,-3462.7545)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85623" content="福祉センター,29204,奈良県天理市福住町4890,避難所,-1,-1,0,0,0,0,0,1" xlink:title="福祉センター" transform="ref(svg,13590.2585,-3460.5631)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85624" content="福住公民館,29204,奈良県天理市福住町2025,避難所,-1,-1,0,0,0,0,0,1" xlink:title="福住公民館" transform="ref(svg,13591.5623,-3461.148)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85625" content="福住小学校,29204,奈良県天理市福住町1954-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="福住小学校" transform="ref(svg,13591.7516,-3461.3185)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85626" content="福住中学校,29204,奈良県天理市福住町2105,避難所,-1,-1,0,0,0,0,0,1" xlink:title="福住中学校" transform="ref(svg,13591.4795,-3461.2963)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85627" content="福住幼稚園,29204,奈良県天理市福住町3902,避難所,-1,-1,0,0,0,0,0,1" xlink:title="福住幼稚園" transform="ref(svg,13591.1295,-3460.8824)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85688" content="吉隠公民館,29206,奈良県桜井市吉隠726,避難所,242,-1,0,0,0,0,0,1" xlink:title="吉隠公民館" transform="ref(svg,13593.3709,-3453.2435)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85702" content="桜井東人権ふれあいセンター,29206,奈良県桜井市初瀬2337,避難所,272,-1,0,0,0,0,0,1" xlink:title="桜井東人権ふれあいセンター" transform="ref(svg,13590.5228,-3452.6823)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85703" content="桜井東人権ふれあいセンター分館,29206,奈良県桜井市初瀬1626-1,避難所,606,-1,0,0,0,0,0,1" xlink:title="桜井東人権ふれあいセンター分館" transform="ref(svg,13589.878,-3452.6155)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85704" content="桜井東中学校,29206,奈良県桜井市初瀬1655,一次避難地、避難所,812,27216,0,0,0,0,0,1" xlink:title="桜井東中学校" transform="ref(svg,13589.6909,-3452.5722)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85710" content="初瀬観光センター,29206,奈良県桜井市初瀬1593-2,避難所,55,-1,0,0,0,0,0,1" xlink:title="初瀬観光センター" transform="ref(svg,13590.1384,-3452.734)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85711" content="初瀬集会所,29206,奈良県桜井市初瀬1035,避難所,29,-1,0,0,0,0,0,1" xlink:title="初瀬集会所" transform="ref(svg,13590.4619,-3453.0713)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85712" content="初瀬小学校,29206,奈良県桜井市初瀬1556,一次避難地、避難所,373,12528,0,0,0,0,0,1" xlink:title="初瀬小学校" transform="ref(svg,13589.9214,-3452.7444)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85713" content="上之郷公民館,29206,奈良県桜井市小夫3266,避難所,103,-1,0,0,0,0,0,1" xlink:title="上之郷公民館" transform="ref(svg,13591.5484,-3457.2361)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85714" content="上之郷体育館（旧上之郷小学校）,29206,奈良県桜井市笠82,一次避難地、避難所,247,6922,0,0,0,0,0,1" xlink:title="上之郷体育館（旧上之郷小学校）" transform="ref(svg,13590.8569,-3456.8091)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85728" content="長谷寺大講堂,29206,奈良県桜井市初瀬731-1,避難所,200,-1,0,0,0,0,0,1" xlink:title="長谷寺大講堂" transform="ref(svg,13590.7911,-3453.3547)" x="0" y="0"/>
+<use xlink:href="#p0" id="f85730" content="普門院,29206,奈良県桜井市初瀬731-1,避難所,40,-1,0,0,0,0,0,1" xlink:title="普門院" transform="ref(svg,13590.8085,-3453.4586)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86028" content="たかぎふるさと館,29212,奈良県宇陀市榛原高井612番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="たかぎふるさと館" transform="ref(svg,13599.2965,-3450.7435)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86030" content="のより農村ふれあいの館,29212,奈良県宇陀市大宇陀内原145番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="のより農村ふれあいの館" transform="ref(svg,13593.0751,-3449.8685)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86031" content="伊那佐文化センター,29212,奈良県宇陀市榛原石田147番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="伊那佐文化センター" transform="ref(svg,13595.5075,-3449.5888)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86032" content="宇賀志集落センター,29212,奈良県宇陀市菟田野宇賀志924番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="宇賀志集落センター" transform="ref(svg,13599.017,-3445.5141)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86033" content="宇賀志体育館,29212,奈良県宇陀市菟田野宇賀志177番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="宇賀志体育館" transform="ref(svg,13598.4955,-3445.9468)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86034" content="宇陀市文化会館,29212,奈良県宇陀市大宇陀拾生871番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="宇陀市文化会館" transform="ref(svg,13593.2488,-3447.5346)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86035" content="岩端地区集会所,29212,奈良県宇陀市菟田野岩端137番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="岩端地区集会所" transform="ref(svg,13602.9942,-3446.6513)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86036" content="旧伊那佐小学校,29212,奈良県宇陀市榛原山路491番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧伊那佐小学校" transform="ref(svg,13595.8411,-3449.5007)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86037" content="旧伊那佐幼稚園,29212,奈良県宇陀市榛原石田147番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧伊那佐幼稚園" transform="ref(svg,13595.5121,-3449.5085)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86038" content="旧笠間小学校,29212,奈良県宇陀市室生上笠間444番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧笠間小学校" transform="ref(svg,13602.9497,-3461.1493)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86039" content="旧多田小学校,29212,奈良県宇陀市室生多田415番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧多田小学校" transform="ref(svg,13598.275,-3459.4651)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86040" content="駒帰地区集落集会所,29212,奈良県宇陀市菟田野駒帰185番地5,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="駒帰地区集落集会所" transform="ref(svg,13598.0427,-3446.3709)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86041" content="向渕生活改善センター,29212,奈良県宇陀市室生向渕3649番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="向渕生活改善センター" transform="ref(svg,13599.5274,-3457.7332)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86042" content="室生高齢者等ふれあい館,29212,奈良県宇陀市室生上笠間444番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="室生高齢者等ふれあい館" transform="ref(svg,13602.9145,-3461.1892)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86043" content="室生人権交流センター・室生北児童館,29212,奈良県宇陀市室生無山727番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="室生人権交流センター・室生北児童館" transform="ref(svg,13597.3355,-3458.7534)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86044" content="室生西小学校,29212,奈良県宇陀市室生大野1912番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="室生西小学校" transform="ref(svg,13601.3372,-3456.383)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86045" content="室生地域文化伝習展示施設,29212,奈良県宇陀市室生892番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="室生地域文化伝習展示施設" transform="ref(svg,13603.7901,-3453.3956)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86046" content="室生中学校,29212,奈良県宇陀市室生大野1962番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="室生中学校" transform="ref(svg,13601.2434,-3456.3605)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86047" content="室生東小学校,29212,奈良県宇陀市室生三本松2138番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="室生東小学校" transform="ref(svg,13602.7288,-3457.2719)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86048" content="室生福祉保健交流センターぬく森の郷,29212,奈良県宇陀市室生大野3776番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="室生福祉保健交流センターぬく森の郷" transform="ref(svg,13600.1796,-3455.619)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86049" content="室生幼稚園,29212,奈良県宇陀市室生三本松1284番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="室生幼稚園" transform="ref(svg,13601.9928,-3456.9802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86050" content="若者自立塾室生館,29212,奈良県宇陀市室生西谷258番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="若者自立塾室生館" transform="ref(svg,13605.0286,-3456.8131)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86051" content="守道小学校,29212,奈良県宇陀市大宇陀守道857番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="守道小学校" transform="ref(svg,13595.3796,-3446.9431)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86052" content="上芳野区会館,29212,奈良県宇陀市菟田野上芳野720番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上芳野区会館" transform="ref(svg,13601.5125,-3446.2156)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86053" content="榛原ゲートボール場,29212,奈良県宇陀市榛原桧牧956番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原ゲートボール場" transform="ref(svg,13597.5825,-3452.2693)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86054" content="榛原小学校,29212,奈良県宇陀市榛原萩原2145番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原小学校" transform="ref(svg,13595.4919,-3453.1838)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86055" content="榛原西小学校,29212,奈良県宇陀市榛原下井足1061番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原西小学校" transform="ref(svg,13594.6717,-3452.1552)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86056" content="榛原西幼稚園,29212,奈良県宇陀市榛原下井足1061番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原西幼稚園" transform="ref(svg,13594.7637,-3452.2062)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86057" content="榛原総合センター,29212,奈良県宇陀市榛原萩原2610番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原総合センター" transform="ref(svg,13595.7397,-3453.2184)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86058" content="榛原体育センター,29212,奈良県宇陀市榛原長峯615番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原体育センター" transform="ref(svg,13597.2921,-3454.2633)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86059" content="榛原中学校,29212,奈良県宇陀市榛原福地761番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原中学校" transform="ref(svg,13596.1949,-3453.3964)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86060" content="榛原東小学校,29212,奈良県宇陀市榛原赤瀬190番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原東小学校" transform="ref(svg,13596.439,-3454.516)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86061" content="榛原東幼稚園,29212,奈良県宇陀市榛原天満台西2丁目5番,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原東幼稚園" transform="ref(svg,13596.7431,-3454.5221)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86062" content="榛原北保育所,29212,奈良県宇陀市榛原萩原2078番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原北保育所" transform="ref(svg,13595.2489,-3453.5111)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86063" content="榛原幼稚園,29212,奈良県宇陀市榛原萩原2254番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="榛原幼稚園" transform="ref(svg,13595.6294,-3453.1834)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86064" content="西榛原公民館,29212,奈良県宇陀市榛原笠間1460番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="西榛原公民館" transform="ref(svg,13591.8789,-3451.3169)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86065" content="大宇陀ふれあい交流ドーム,29212,奈良県宇陀市大宇陀拾生467番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大宇陀ふれあい交流ドーム" transform="ref(svg,13592.8685,-3447.4271)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86066" content="大宇陀小学校,29212,奈良県宇陀市大宇陀西山72番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大宇陀小学校" transform="ref(svg,13592.9042,-3448.3101)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86067" content="大宇陀人権交流センター,29212,奈良県宇陀市大宇陀小附1002番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大宇陀人権交流センター" transform="ref(svg,13592.9293,-3449.2791)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86068" content="大宇陀体育館,29212,奈良県宇陀市大宇陀拾生89番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大宇陀体育館" transform="ref(svg,13592.8244,-3447.6351)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86069" content="大宇陀中学校,29212,奈良県宇陀市大宇陀拾生651番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大宇陀中学校" transform="ref(svg,13593.1483,-3447.6809)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86070" content="大宇陀内原体育館,29212,奈良県宇陀市大宇陀内原75番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大宇陀内原体育館" transform="ref(svg,13593.11,-3449.5689)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86071" content="大宇陀南部地区公民館,29212,奈良県宇陀市大宇陀下宮奥293番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大宇陀南部地区公民館" transform="ref(svg,13592.2161,-3445.7901)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86072" content="大宇陀幼児園,29212,奈良県宇陀市大宇陀拾生806番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大宇陀幼児園" transform="ref(svg,13593.0252,-3447.3046)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86073" content="大沢地区集会所,29212,奈良県宇陀市菟田野大沢111番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大沢地区集会所" transform="ref(svg,13597.2586,-3448.0143)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86074" content="大和富士ホール,29212,奈良県宇陀市榛原天満台西2丁目45番4,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大和富士ホール" transform="ref(svg,13596.8677,-3454.4748)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86075" content="中央公民館榛原分館,29212,奈良県宇陀市榛原萩原2839番地3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中央公民館榛原分館" transform="ref(svg,13595.7465,-3452.8418)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86076" content="中央公民館大宇陀分館,29212,奈良県宇陀市大宇陀中庄202番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中央公民館大宇陀分館" transform="ref(svg,13592.8685,-3447.8837)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86078" content="田口地区公民館,29212,奈良県宇陀市室生田口元上田口2061番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="田口地区公民館" transform="ref(svg,13605.1326,-3451.0637)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86079" content="菟田野小学校,29212,奈良県宇陀市菟田野古市場672番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菟田野小学校" transform="ref(svg,13597.4056,-3446.9672)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86080" content="菟田野人権交流センター,29212,奈良県宇陀市菟田野古市場1401番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菟田野人権交流センター" transform="ref(svg,13596.4644,-3447.5519)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86081" content="菟田野中学校,29212,奈良県宇陀市菟田野古市場1220番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菟田野中学校" transform="ref(svg,13596.8493,-3447.2947)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86082" content="菟田野南部地区研修指導施設,29212,奈良県宇陀市菟田野稲戸615番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菟田野南部地区研修指導施設" transform="ref(svg,13596.8403,-3446.3542)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86084" content="菟田野農村環境改善センター,29212,奈良県宇陀市菟田野松井504番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菟田野農村環境改善センター" transform="ref(svg,13597.9216,-3447.3836)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86085" content="菟田野芳野地区体育館,29212,奈良県宇陀市菟田野下芳野789番地3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菟田野芳野地区体育館" transform="ref(svg,13600.1417,-3446.4911)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86086" content="菟田野北部地区研修指導施設,29212,奈良県宇陀市菟田野見田215番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菟田野北部地区研修指導施設" transform="ref(svg,13597.6896,-3448.3307)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86087" content="東郷地区集会所,29212,奈良県宇陀市菟田野東郷156番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="東郷地区集会所" transform="ref(svg,13598.7418,-3446.9065)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86088" content="農林会館,29212,奈良県宇陀市榛原下井足825番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="農林会館" transform="ref(svg,13594.8014,-3452.0882)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86089" content="文化芸術活動体験交流施設,29212,奈良県宇陀市室生下田口1112番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="文化芸術活動体験交流施設" transform="ref(svg,13604.6221,-3452.0363)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86090" content="平井地区集会所,29212,奈良県宇陀市菟田野平井319番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="平井地区集会所" transform="ref(svg,13597.6818,-3448.7318)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86091" content="別所地区集会所,29212,奈良県宇陀市菟田野別所216番地3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="別所地区集会所" transform="ref(svg,13596.6275,-3448.0353)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86092" content="野依小学校,29212,奈良県宇陀市大宇陀野依1240番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="野依小学校" transform="ref(svg,13593.1337,-3450.0764)" x="0" y="0"/>
+<use xlink:href="#p0" id="f86093" content="蕨集会所・室生東児童館,29212,奈良県宇陀市室生西谷152番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="蕨集会所・室生東児童館" transform="ref(svg,13604.9972,-3457.2612)" x="0" y="0"/>
+</g>
+</svg>

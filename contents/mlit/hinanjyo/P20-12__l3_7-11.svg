@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="12937.5 -2812.5 562.5 562.5" go:dataArea="12937.5 -2812.5 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f125603" content="旧東集会所,47357,沖縄県島尻郡南大東村字旧東189,避難所,-1,99,0,0,0,0,0,1" xlink:title="旧東集会所" transform="ref(svg,13125.3708,-2583.7928)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125604" content="高齢者生活福祉センター,47357,沖縄県島尻郡南大東村字南144-1,避難所,-1,700,0,0,0,0,0,1" xlink:title="高齢者生活福祉センター" transform="ref(svg,13123.2704,-2582.8529)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125605" content="在所集会所,47357,沖縄県島尻郡南大東村字在所238,避難所,-1,155,0,0,0,0,0,1" xlink:title="在所集会所" transform="ref(svg,13123.1153,-2583.1724)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125606" content="新東集会所,47357,沖縄県島尻郡南大東村字新東484,避難所,-1,110,0,0,0,0,0,1" xlink:title="新東集会所" transform="ref(svg,13125.2368,-2584.9715)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125607" content="池之沢集会所,47357,沖縄県島尻郡南大東村字池之沢332-3,避難所,-1,154,0,0,0,0,0,1" xlink:title="池之沢集会所" transform="ref(svg,13122.8042,-2583.6649)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125608" content="南集会所,47357,沖縄県島尻郡南大東村字南118,避難所,-1,200,0,0,0,0,0,1" xlink:title="南集会所" transform="ref(svg,13123.9054,-2582.884)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125609" content="南大東小中学校体育館,47357,沖縄県島尻郡南大東村字池之沢317-1,避難所,-1,797,0,0,0,0,0,1" xlink:title="南大東小中学校体育館" transform="ref(svg,13122.789,-2583.5399)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125610" content="南大東村スポーツセンター,47357,沖縄県島尻郡南大東村字在所317-8,避難所,-1,1728,0,0,0,0,0,1" xlink:title="南大東村スポーツセンター" transform="ref(svg,13123.0549,-2582.9065)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125611" content="南大東村保健センター,47357,沖縄県島尻郡南大東村字南144-1,避難所,-1,650,0,0,0,0,0,1" xlink:title="南大東村保健センター" transform="ref(svg,13123.2704,-2582.8603)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125612" content="南大東離島振興総合センター,47357,沖縄県島尻郡南大東村字在所307,避難所,-1,1255,0,0,0,0,0,1" xlink:title="南大東離島振興総合センター" transform="ref(svg,13122.9615,-2582.9682)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125613" content="北集会所,47357,沖縄県島尻郡南大東村字北496,避難所,-1,154,0,0,0,0,0,1" xlink:title="北集会所" transform="ref(svg,13123.7804,-2586.1264)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125614" content="江崎港,47358,沖縄県島尻郡北大東村字南213-24,避難所,-1,-1,0,0,0,0,0,1" xlink:title="江崎港" transform="ref(svg,13130.439,-2592.9399)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125615" content="港公民館,47358,沖縄県島尻郡北大東村字港18-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="港公民館" transform="ref(svg,13128.7698,-2595.4927)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125616" content="西港,47358,沖縄県島尻郡北大東村字港28-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="西港" transform="ref(svg,13128.4251,-2595.3954)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125617" content="総合センター,47358,沖縄県島尻郡北大東村字中野282-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="総合センター" transform="ref(svg,13130.1439,-2594.4628)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125618" content="中野公民館,47358,沖縄県島尻郡北大東村字中野226-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中野公民館" transform="ref(svg,13130.0205,-2594.6638)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125619" content="南公民館,47358,沖縄県島尻郡北大東村字南84-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="南公民館" transform="ref(svg,13131.1907,-2593.8058)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125620" content="北港,47358,沖縄県島尻郡北大東村字中野31-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="北港" transform="ref(svg,13131.1063,-2595.5399)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125621" content="北大東村小中学校,47358,沖縄県島尻郡北大東村字中野181,避難所,-1,-1,0,0,0,0,0,1" xlink:title="北大東村小中学校" transform="ref(svg,13129.7236,-2594.5198)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125622" content="北大東村地域スポーツセンター,47358,沖縄県島尻郡北大東村字中野282,避難所,-1,-1,0,0,0,0,0,1" xlink:title="北大東村地域スポーツセンター" transform="ref(svg,13130.1608,-2594.4593)" x="0" y="0"/>
+</g>
+</svg>
