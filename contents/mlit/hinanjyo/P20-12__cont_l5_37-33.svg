@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="P20-12__l6_74-66.svg" x="14203.125" y="-4359.375" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="P20-12_/lvl9/tile74_66.png" preserveAspectRatio="none" x="14203.125" y="-4359.375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="P20-12__l6_75-66.svg" x="14273.4375" y="-4359.375" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="P20-12_/lvl9/tile75_66.png" preserveAspectRatio="none" x="14273.4375" y="-4359.375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="P20-12__l6_74-67.svg" x="14203.125" y="-4289.0625" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="P20-12_/lvl9/tile74_67.png" preserveAspectRatio="none" x="14203.125" y="-4289.0625" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="P20-12__l6_75-67.svg" x="14273.4375" y="-4289.0625" width="70.3125" height="70.3125" visibleMinZoom="568.88"/>
+<image xlink:href="P20-12_/lvl9/tile75_67.png" preserveAspectRatio="none" x="14273.4375" y="-4289.0625" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+</svg>

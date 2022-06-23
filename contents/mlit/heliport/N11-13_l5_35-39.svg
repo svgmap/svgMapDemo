@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="13921.875 -3515.625 140.625 140.625" go:dataArea="13921.875 -3515.625 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f2794" content="第一中学校,3,ヘリコプター臨時離発着場適地,12,館山市那古954,市教育委員会,180×150" xlink:title="第一中学校" transform="ref(svg,13985.8122,-3502.1606)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2795" content="市営市民運動場　野球場,3,ヘリコプター臨時離発着場適地,12,館山市正木4304-2,市教育委員会,80×80" xlink:title="市営市民運動場　野球場" transform="ref(svg,13985.8895,-3501.1615)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2796" content="北条小学校,3,ヘリコプター臨時離発着場適地,12,館山市北条456,市教育委員会,80×130" xlink:title="北条小学校" transform="ref(svg,13987.3239,-3499.4531)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2901" content="勝浦市営野球場,3,ヘリコプター臨時離発着場適地,12,勝浦市沢倉523-1,市教育長,120×130" xlink:title="勝浦市営野球場" transform="ref(svg,14032.1898,-3515.3118)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2902" content="勝浦中学校,3,ヘリコプター臨時離発着場適地,12,勝浦市出水1145,学校長,160×110" xlink:title="勝浦中学校" transform="ref(svg,14031.7209,-3515.3618)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2942" content="鴨川市総合運動施設　陸上競技場,3,ヘリコプター臨時離発着場適地,12,鴨川市太尾866-1,市教育委員会,100×150" xlink:title="鴨川市総合運動施設　陸上競技場" transform="ref(svg,14007.8718,-3511.3669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2943" content="県立長狭高等学校,3,ヘリコプター臨時離発着場適地,12,鴨川市横渚100,千葉県教育庁,100×80" xlink:title="県立長狭高等学校" transform="ref(svg,14009.7043,-3510.8982)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2944" content="長狭学園,3,ヘリコプター臨時離発着場適地,12,鴨川市宮山176,市教育委員会,60×130" xlink:title="長狭学園" transform="ref(svg,14001.6963,-3513.0035)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2945" content="鴨川市大川面運動公園,3,ヘリコプター臨時離発着場適地,12,鴨川市大川面32,市教育委員会,50×100" xlink:title="鴨川市大川面運動公園" transform="ref(svg,14001.7403,-3513.7239)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2946" content="鴨川市総合運動施設　野球場,3,ヘリコプター臨時離発着場適地,12,鴨川市太尾866-1,市教育委員会,80×80" xlink:title="鴨川市総合運動施設　野球場" transform="ref(svg,14007.9973,-3511.266)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2947" content="天津小学校運動場,3,ヘリコプター臨時離発着場適地,12,鴨川市天津1166,市教育委員会,60×40" xlink:title="天津小学校運動場" transform="ref(svg,14015.4229,-3512.4393)" x="0" y="0"/>
+<use xlink:href="#p0" id="f2948" content="小湊小学校運動場,3,ヘリコプター臨時離発着場適地,12,鴨川市内浦1923,市教育委員会,75×70" xlink:title="小湊小学校運動場" transform="ref(svg,14019.3861,-3512.7802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3027" content="富浦小学校,3,ヘリコプター臨時離発着場適地,12,南房総市富浦町原岡931,市教育委員会,70×50" xlink:title="富浦小学校" transform="ref(svg,13983.3699,-3504.7495)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3028" content="富山中学校,3,ヘリコプター臨時離発着場適地,12,南房総市合戸22,市教育委員会,100×70" xlink:title="富山中学校" transform="ref(svg,13986.3154,-3509.6027)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3029" content="三芳中学校,3,ヘリコプター臨時離発着場適地,12,南房総市本織60-1,市教育委員会,100×75" xlink:title="三芳中学校" transform="ref(svg,13989.5802,-3502.3899)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3030" content="白浜スポーツ公園,3,ヘリコプター臨時離発着場適地,12,南房総市白浜町滝口5580-113,市教育委員会,130×55" xlink:title="白浜スポーツ公園" transform="ref(svg,13986.0665,-3490.6997)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3031" content="千倉総合運動公園,3,ヘリコプター臨時離発着場適地,12,南房総市千倉町川戸544-8,市教育委員会,50×100" xlink:title="千倉総合運動公園" transform="ref(svg,13994.4453,-3497.2226)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3032" content="丸山中学校,3,ヘリコプター臨時離発着場適地,12,南房総市沓見2705,市教育委員会,50×50" xlink:title="丸山中学校" transform="ref(svg,13995.6613,-3502.1544)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3033" content="和田中学校,3,ヘリコプター臨時離発着場適地,12,南房総市和田町海発1602,市教育委員会,120×60" xlink:title="和田中学校" transform="ref(svg,13998.8982,-3502.2212)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3174" content="鋸南中学校,3,ヘリコプター臨時離発着場適地,12,鋸南町大六165,町,100×65" xlink:title="鋸南中学校" transform="ref(svg,13983.6794,-3512.0865)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3175" content="岩井袋野球場,3,ヘリコプター臨時離発着場適地,12,鋸南町岩井袋207,町,100×100" xlink:title="岩井袋野球場" transform="ref(svg,13983.3843,-3510.2057)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3408" content="差木地ヘリコプター臨時着陸広場,3,災害時臨時離着陸場候補地（都総務局）,13,島嶼部大島町,," xlink:title="差木地ヘリコプター臨時着陸広場" transform="ref(svg,13939.9576,-3469.6781)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3409" content="トウシキヘリコプター臨時着陸広場,3,災害時臨時離着陸場候補地（都総務局）,13,島嶼部大島町,," xlink:title="トウシキヘリコプター臨時着陸広場" transform="ref(svg,13942.9983,-3468.0941)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3410" content="利島臨時ヘリポート,3,災害時臨時離着陸場候補地（都総務局）,13,島嶼部利島村,," xlink:title="利島臨時ヘリポート" transform="ref(svg,13927.3386,-3453.0672)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3413" content="御蔵島臨時ヘリポート,3,災害時臨時離着陸場候補地（都総務局）,13,島嶼部御蔵島村,," xlink:title="御蔵島臨時ヘリポート" transform="ref(svg,13959.4929,-3389.7746)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3607" content="三崎中学校運動場,3,ヘリコプター臨時離着陸場（市町村関係）,14,三浦市城山町5-1,三浦市教育委員会,70×90" xlink:title="三崎中学校運動場" transform="ref(svg,13962.1547,-3514.4354)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3609" content="上原中学校運動場,3,ヘリコプター臨時離着陸場（市町村関係）,14,三浦市三崎六合45,三浦市教育委員会,100×60" xlink:title="上原中学校運動場" transform="ref(svg,13964.0135,-3515.5201)" x="0" y="0"/>
+</g>
+</svg>

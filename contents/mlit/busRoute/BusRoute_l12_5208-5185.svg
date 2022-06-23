@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14110.83984375 -3901.79443359375 0.54931640625 0.54931640625" go:dataArea="14110.83984375 -3901.79443359375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,岩手県交通（株）,国道南線,31.0,29.0,29.0," xlink:title="1" d="M14110.9813,-3901.2451L14110.9793,-3901.2654L14110.975,-3901.3031L14110.975,-3901.311L14110.9736,-3901.3172L14110.9728,-3901.3324L14110.9714,-3901.3409L14110.9699,-3901.3577L14110.9635,-3901.4321L14110.9606,-3901.4484L14110.9613,-3901.4698L14110.9688,-3901.4895L14110.975,-3901.5003L14110.9828,-3901.5174L14110.9945,-3901.5256L14111.0111,-3901.5361L14111.0133,-3901.5374L14111.0321,-3901.5454L14111.0385,-3901.5481L14111.0689,-3901.5577L14111.0869,-3901.5628L14111.1143,-3901.5707L14111.1259,-3901.5752L14111.2146,-3901.6011L14111.2984,-3901.6264L14111.3049,-3901.6287L14111.315,-3901.6309L14111.3272,-3901.6349L14111.3655,-3901.645L14111.3792,-3901.6456L14111.3892,-3901.6439"/>
+<path content="1,岩手県交通（株）,盛岡・平泉線,0.6,0.6,0.6," xlink:title="1" d="M14111.1797,-3901.2451L14111.1873,-3901.253L14111.1966,-3901.2648L14111.2262,-3901.3026L14111.2608,-3901.3516L14111.2767,-3901.3763L14111.2861,-3901.3876L14111.3179,-3901.44L14111.3374,-3901.4749L14111.3475,-3901.4924L14111.3799,-3901.5481L14111.3892,-3901.5647"/>
+</g>
+</svg>

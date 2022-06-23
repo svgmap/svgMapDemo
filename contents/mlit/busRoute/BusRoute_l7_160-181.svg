@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14062.5 -3568.359375 17.578125 17.578125" go:dataArea="14062.5 -3568.359375 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,旭市,旭地区ルート,8.0,5.0,5.0," xlink:title="3" d="M14062.5,-3568.3507L14062.5919,-3568.3053L14062.7331,-3568.2388L14062.7803,-3568.2165L14062.8131,-3568.2004L14062.8383,-3568.1883L14062.8582,-3568.1764L14062.8708,-3568.1686L14062.8763,-3568.1646L14062.8943,-3568.1483L14062.9613,-3568.07L14062.975,-3568.0543L14062.9867,-3568.0382L14062.9961,-3568.0249L14063.0048,-3568.0131L14063.0359,-3567.9697L14063.0618,-3567.9784L14063.1518,-3568.0075L14063.2789,-3568.0486L14063.3108,-3568.059L14063.3731,-3568.0805L14063.3865,-3568.0856L14063.4385,-3568.1094L14063.5041,-3568.1427L14063.5127,-3568.1465L14063.5334,-3568.1588L14063.5506,-3568.1674L14063.5648,-3568.1759L14063.5773,-3568.1827L14063.6091,-3568.1991L14063.618,-3568.2047L14063.6816,-3568.2391L14063.7071,-3568.252L14063.7527,-3568.2774L14063.7727,-3568.2847L14063.7921,-3568.2903L14063.819,-3568.296L14063.8265,-3568.2964L14063.8901,-3568.3084L14063.9246,-3568.3146L14063.9896,-3568.3253L14064.0241,-3568.3349L14064.0496,-3568.345L14064.075,-3568.3594"/>
+</g>
+</svg>

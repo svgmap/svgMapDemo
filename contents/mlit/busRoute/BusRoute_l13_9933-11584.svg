@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13978.179931640625 -3568.359375 0.274658203125 0.274658203125" go:dataArea="13978.179931640625 -3568.359375 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,弘南バス（株）,アップル号,1.0,1.0,1.0," xlink:title="1" d="M13978.1799,-3568.2617L13978.2305,-3568.2857L13978.3176,-3568.3259L13978.3874,-3568.3571L13978.3917,-3568.3594"/>
+<path content="1,東京空港交通（株）,東京シティエアターミナル～羽田空港線,27.5,27.5,27.5," xlink:title="1" d="M13978.3917,-3568.3594L13978.3874,-3568.3571L13978.3176,-3568.3259L13978.2305,-3568.2857L13978.1799,-3568.2617M13978.1799,-3568.2521L13978.2176,-3568.2086L13978.2746,-3568.1409L13978.3224,-3568.0847M13978.3994,-3568.0847L13978.4322,-3568.1021"/>
+<path content="1,東京空港交通（株）,東京シティ・エアターミナル～成田空港,69.5,69.5,69.5," xlink:title="1" d="M13978.3994,-3568.0847L13978.4322,-3568.1021"/>
+<path content="2,都営バス,東20乙,2.0,0.0,0.0," xlink:title="2" d="M13978.1799,-3568.2617L13978.2305,-3568.2857L13978.3176,-3568.3259L13978.3874,-3568.3571L13978.3917,-3568.3594"/>
+<path content="2,都営バス,錦11,31.0,28.0,30.0," xlink:title="2" d="M13978.3917,-3568.3594L13978.3874,-3568.3571L13978.3176,-3568.3259L13978.2305,-3568.2857L13978.1799,-3568.2617"/>
+<path content="3,中央区,北循環,36.0,36.0,33.0," xlink:title="3" d="M13978.3917,-3568.3594L13978.3874,-3568.3571L13978.4256,-3568.3117L13978.4503,-3568.2825L13978.4174,-3568.2669L13978.3833,-3568.2492L13978.4129,-3568.2135L13978.4472,-3568.1715L13978.4546,-3568.1624"/>
+</g>
+</svg>

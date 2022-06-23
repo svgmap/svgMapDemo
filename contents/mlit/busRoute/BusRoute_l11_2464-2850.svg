@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13957.03125 -3618.896484375 1.0986328125 1.0986328125" go:dataArea="13957.03125 -3618.896484375 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,羽生市,井泉・村君,4.0,0.0,0.0," xlink:title="3" d="M13958.1299,-3618.4092L13958.0523,-3618.4125L13958.0356,-3618.4136L13958.0071,-3618.4153L13957.9268,-3618.4191L13957.8918,-3618.4204L13957.7905,-3618.4252L13957.7411,-3618.4278L13957.6674,-3618.4326L13957.6394,-3618.4358L13957.5201,-3618.4401L13957.5152,-3618.4401L13957.4291,-3618.4413L13957.3554,-3618.4407L13957.3019,-3618.4322L13957.2943,-3618.4305L13957.2713,-3618.4255L13957.2547,-3618.4232L13957.2248,-3618.4176L13957.2019,-3618.4148L13957.1525,-3618.4148L13957.1462,-3618.4148L13957.069,-3618.4196L13957.0313,-3618.4203"/>
+<path content="3,羽生市,手子林・三田ヶ谷,4.0,0.0,0.0," xlink:title="3" d="M13958.0872,-3617.7979L13958.0871,-3617.7979L13958.0719,-3617.8002L13958.0721,-3617.7979"/>
+</g>
+</svg>

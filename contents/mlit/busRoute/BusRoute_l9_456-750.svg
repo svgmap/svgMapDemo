@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13253.90625 -3454.1015625 4.39453125 4.39453125" go:dataArea="13253.90625 -3454.1015625 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,広島交通（株）,大林車庫・桐陽台～ひやま,5.4,5.9,5.5," xlink:title="1" d="M13253.9062,-3453.4453L13253.9403,-3453.4453L13254.0099,-3453.4496L13254.1547,-3453.4661L13254.4535,-3453.5029L13254.5112,-3453.5182L13254.5653,-3453.5395L13254.6354,-3453.5766L13254.6929,-3453.6223L13254.7243,-3453.6535L13254.7694,-3453.7017L13254.8774,-3453.8395L13254.8924,-3453.8544L13254.9723,-3453.953"/>
+<path content="1,広島交通（株）,桐原～上原線,6.0,5.0,5.0," xlink:title="1" d="M13254.0131,-3453.0747L13253.9502,-3453.0736L13253.9062,-3453.0751"/>
+<path content="1,広島交通（株）,桐陽台線,75.0,66.0,60.0," xlink:title="1" d="M13253.9062,-3453.4453L13253.9403,-3453.4453L13254.0099,-3453.4496L13254.1547,-3453.4661L13254.4535,-3453.5029L13254.5112,-3453.5182L13254.5653,-3453.5395L13254.6354,-3453.5766L13254.6929,-3453.6223L13254.7243,-3453.6535L13254.7694,-3453.7017L13254.8774,-3453.8395L13254.8924,-3453.8544L13254.9723,-3453.953"/>
+<path content="1,広島交通（株）,深川線,145.5,119.5,113.5," xlink:title="1" d="M13253.9062,-3453.4453L13253.9403,-3453.4453L13254.0099,-3453.4496L13254.1547,-3453.4661L13254.4535,-3453.5029L13254.5112,-3453.5182L13254.5653,-3453.5395L13254.6354,-3453.5766L13254.6929,-3453.6223L13254.7243,-3453.6535L13254.7694,-3453.7017L13254.8774,-3453.8395L13254.8924,-3453.8544L13254.9723,-3453.953"/>
+</g>
+</svg>

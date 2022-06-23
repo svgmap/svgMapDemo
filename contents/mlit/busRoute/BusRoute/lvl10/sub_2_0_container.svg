@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="12374.693694 -4552.224923 2206.5089170000006 2126.3241730000004" go:dataArea="12374.693694 -4552.224923 2206.5089170000006 2126.3241730000004" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile43_117.png" preserveAspectRatio="none" x="12761.71875" y="-2636.71875" width="35.15625" height="35.15625"/>
+<image xlink:href="tile43_116.png" preserveAspectRatio="none" x="12761.71875" y="-2671.875" width="35.15625" height="35.15625"/>
+<image xlink:href="tile44_117.png" preserveAspectRatio="none" x="12796.875" y="-2636.71875" width="35.15625" height="35.15625"/>
+<image xlink:href="tile44_116.png" preserveAspectRatio="none" x="12796.875" y="-2671.875" width="35.15625" height="35.15625"/>
+<image xlink:href="tile46_113.png" preserveAspectRatio="none" x="12867.1875" y="-2777.34375" width="35.15625" height="35.15625"/>
+<image xlink:href="tile46_112.png" preserveAspectRatio="none" x="12867.1875" y="-2812.5" width="35.15625" height="35.15625"/>
+<image xlink:href="tile47_113.png" preserveAspectRatio="none" x="12902.34375" y="-2777.34375" width="35.15625" height="35.15625"/>
+<image xlink:href="tile47_112.png" preserveAspectRatio="none" x="12902.34375" y="-2812.5" width="35.15625" height="35.15625"/>
+<image xlink:href="tile32_122.png" preserveAspectRatio="none" x="12375" y="-2460.9375" width="35.15625" height="35.15625"/>
+<image xlink:href="tile33_122.png" preserveAspectRatio="none" x="12410.15625" y="-2460.9375" width="35.15625" height="35.15625"/>
+</g>
+</svg>

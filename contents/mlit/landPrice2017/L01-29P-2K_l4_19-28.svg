@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13710.9375 -3656.25 70.3125 70.3125" go:dataArea="13710.9375 -3656.25 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,岐阜県　飛騨市古川町幸栄町１０?３０,10,20,2,57,1100,60,200,0,55500,55000,36700" xlink:title="岐阜県　飛騨市古川町幸栄町１０?３０" transform="ref(svg,13718.6916,-3622.8926)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岐阜県　飛騨市古川町殿町７?２３,10,30,2,45,300,80,200,0,0,90600,51300" xlink:title="岐阜県　飛騨市古川町殿町７?２３" transform="ref(svg,13718.7878,-3623.5036)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岐阜県　高山市新宮町３４７５番８,10,20,2,46,3500,60,200,0,0,62200,35900" xlink:title="岐阜県　高山市新宮町３４７５番８" transform="ref(svg,13721.7405,-3613.6392)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岐阜県　高山市中山町７１３番,10,20,2,60,2700,60,100,0,0,80500,52800" xlink:title="岐阜県　高山市中山町７１３番" transform="ref(svg,13723.3586,-3615.1955)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岐阜県　高山市岡本町１丁目２４０番１０,10,20,2,60,600,60,200,120000,152000,127000,90200" xlink:title="岐阜県　高山市岡本町１丁目２４０番１０" transform="ref(svg,13724.5715,-3614.1928)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岐阜県　高山市桐生町４丁目２０２番,10,20,2,60,1600,60,200,0,120000,99000,65100" xlink:title="岐阜県　高山市桐生町４丁目２０２番" transform="ref(svg,13725.0206,-3615.4475)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岐阜県　高山市花里町６丁目３５番,10,20,3,149,70,80,400,0,0,0,232000" xlink:title="岐阜県　高山市花里町６丁目３５番" transform="ref(svg,13725.2163,-3614.1576)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岐阜県　高山市上三之町４７番,10,60,2,35,750,80,300,0,0,0,272000" xlink:title="岐阜県　高山市上三之町４７番" transform="ref(svg,13725.8951,-3614.2727)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岐阜県　高山市森下町１丁目３２６番１,10,12,2,40,2000,60,200,86300,102000,96800,58200" xlink:title="岐阜県　高山市森下町１丁目３２６番１" transform="ref(svg,13726.1716,-3613.0517)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岐阜県　高山市三福寺町２４７番１外,12,10,2,130,2500,60,200,0,97600,87400,73500" xlink:title="岐阜県　高山市三福寺町２４７番１外" transform="ref(svg,13726.4321,-3615.0316)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岐阜県　飛騨市神岡町船津字大島２０４９番５,10,40,2,80,19000,70,300,0,0,0,28600" xlink:title="岐阜県　飛騨市神岡町船津字大島２０４９番５" transform="ref(svg,13729.6633,-3633.5401)" x="0" y="0"/>
+</g>
+</svg>

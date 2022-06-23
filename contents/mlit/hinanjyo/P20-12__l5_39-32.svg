@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="14484.375 -4500.0 140.625 140.625" go:dataArea="14484.375 -4500.0 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f751" content="ウトロ漁村センター,01545,北海道斜里郡斜里町ウトロ香川1番地,避難所、一時避難所　,-1,-1,0,0,0,0,0,1" xlink:title="ウトロ漁村センター" transform="ref(svg,14499.6792,-4406.9893)" x="0" y="0"/>
+<use xlink:href="#p0" id="f752" content="ウトロ小中学校,01545,北海道斜里郡斜里町ウトロ高原20番地,避難所、一時避難所　,-1,-1,0,0,0,0,0,1" xlink:title="ウトロ小中学校" transform="ref(svg,14499.2827,-4406.4642)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1433" content="開陽小学校,01692,北海道標津郡中標津町字開陽24線北88-2,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="開陽小学校" transform="ref(svg,14491.0642,-4359.8469)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1441" content="上武佐集会所,01692,北海道標津郡中標津町武佐,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="上武佐集会所" transform="ref(svg,14499.7081,-4361.7204)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1468" content="武佐小中学校,01692,北海道標津郡中標津町字武佐15線85-1,緊急避難場所、避難施設,-1,-1,0,0,0,0,0,1" xlink:title="武佐小中学校" transform="ref(svg,14496.1858,-4362.3496)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1477" content="ベキシリ山,01693,北海道標津郡標津町南2条西5丁目2番2号,一時避難所,-1,-1,0,1,0,0,0,0" xlink:title="ベキシリ山" transform="ref(svg,14513.2716,-4365.0854)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1478" content="伊茶仁ふ化場,01693,北海道標津郡標津町字川北2440番地地先,一時避難所,-1,-1,0,1,0,0,0,0" xlink:title="伊茶仁ふ化場" transform="ref(svg,14509.2702,-4369.2537)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1479" content="伊茶仁生活館,01693,北海道標津郡標津町字伊茶仁38番地の1,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="伊茶仁生活館" transform="ref(svg,14512.0829,-4368.356)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1480" content="薫別集落センター,01693,北海道標津郡標津町字薫別364番地,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="薫別集落センター" transform="ref(svg,14506.1375,-4379.3789)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1481" content="薫別小中学校,01693,北海道標津郡標津町字薫別26番地の3,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="薫別小中学校" transform="ref(svg,14505.7343,-4379.4006)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1482" content="薫別川左岸高台,01693,北海道標津郡標津町字薫別10番地の1,一時避難所,-1,-1,0,1,0,0,0,0" xlink:title="薫別川左岸高台" transform="ref(svg,14505.6254,-4379.4447)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1483" content="古多糠コミュニティーセンター,01693,北海道標津郡標津町字古多糠299番地の1、2、3、6,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="古多糠コミュニティーセンター" transform="ref(svg,14502.958,-4374.8247)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1484" content="古多糠小中学校,01693,北海道標津郡標津町字古多糠基線19番地の3,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="古多糠小中学校" transform="ref(svg,14502.9735,-4374.9788)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1485" content="崎無異神社裏,01693,北海道標津郡標津町字崎無異195番地,一時避難所,-1,-1,0,1,0,0,0,0" xlink:title="崎無異神社裏" transform="ref(svg,14508.2848,-4382.4038)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1486" content="川北小学校,01693,北海道標津郡標津町字川北基線13番地の1,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="川北小学校" transform="ref(svg,14502.3462,-4366.0105)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1487" content="川北生涯学習センター,01693,北海道標津郡標津町字川北基線12番地の1,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="川北生涯学習センター" transform="ref(svg,14502.4476,-4365.9099)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1488" content="川北体育館,01693,北海道標津郡標津町字川北基線13番地の1,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="川北体育館" transform="ref(svg,14502.4656,-4365.9416)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1489" content="川北地域交流センター,01693,北海道標津郡標津町字川北60番地13,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="川北地域交流センター" transform="ref(svg,14502.7022,-4365.6877)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1490" content="川北中学校,01693,北海道標津郡標津町字川北93番地の3,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="川北中学校" transform="ref(svg,14502.4573,-4366.0716)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1492" content="茶志骨神社,01693,北海道標津郡標津町字茶志骨521番地の1,一時避難所,-1,-1,0,1,0,0,0,0" xlink:title="茶志骨神社" transform="ref(svg,14516.3483,-4363.6562)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1493" content="茶志骨生活改善センター,01693,北海道標津郡標津町字茶志骨8番地の2,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="茶志骨生活改善センター" transform="ref(svg,14511.9398,-4361.9561)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1494" content="茶志骨生活館,01693,北海道標津郡標津町字茶志骨13番地の1,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="茶志骨生活館" transform="ref(svg,14515.2713,-4364.2426)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1495" content="忠類生活館,01693,北海道標津郡標津町字忠類50番地,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="忠類生活館" transform="ref(svg,14509.388,-4372.2729)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1496" content="忠類墓地,01693,北海道標津郡標津町字忠類12番地の2,一時避難所,-1,-1,0,1,0,0,0,0" xlink:title="忠類墓地" transform="ref(svg,14509.0531,-4372.0536)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1497" content="標津サーモン科学館,01693,北海道標津郡標津町北1条西6丁目1番1-1号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津サーモン科学館" transform="ref(svg,14511.535,-4365.9156)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1498" content="標津高等学校,01693,北海道標津郡標津町南2条西5丁目2番2号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津高等学校" transform="ref(svg,14512.481,-4365.4538)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1499" content="標津小学校,01693,北海道標津郡標津町南1条西3丁目1番4-1号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津小学校" transform="ref(svg,14512.9057,-4365.8705)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1500" content="標津中学校,01693,北海道標津郡標津町南1条西3丁目1番5号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津中学校" transform="ref(svg,14512.769,-4365.8661)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1501" content="標津町図書館,01693,北海道標津郡標津町南1条西2丁目1番1-2号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津町図書館" transform="ref(svg,14513.0447,-4365.8662)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1502" content="標津町生涯学習センター,01693,北海道標津郡標津町南1条西5丁目5番3号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津町生涯学習センター" transform="ref(svg,14512.0811,-4365.7809)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1503" content="標津町総合体育館,01693,北海道標津郡標津町南2条西4丁目1番1-1号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津町総合体育館" transform="ref(svg,14512.6572,-4365.5713)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1504" content="標津町鳩ヶ丘体育館,01693,北海道標津郡標津町南3条西4丁目1番1号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津町鳩ヶ丘体育館" transform="ref(svg,14512.6239,-4365.418)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1505" content="標津町文化ホール,01693,北海道標津郡標津町南1条西2丁目1番1-1号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津町文化ホール" transform="ref(svg,14513.0247,-4365.9137)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1506" content="標津町保健福祉センター,01693,北海道標津郡標津町北1条西5丁目6番1-2号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津町保健福祉センター" transform="ref(svg,14511.9786,-4365.9123)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1507" content="標津町役場,01693,北海道標津郡標津町北2条西1丁目1番3号,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="標津町役場" transform="ref(svg,14513.1313,-4366.1331)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1508" content="浜古多糠高台,01693,北海道標津郡標津町字古多糖37番地の1,一時避難所,-1,-1,0,1,0,0,0,0" xlink:title="浜古多糠高台" transform="ref(svg,14506.2154,-4376.3256)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1509" content="望ヶ丘公園,01693,北海道標津郡標津町南7条西2丁目1番7号,一時避難所,-1,-1,0,1,0,0,0,0" xlink:title="望ヶ丘公園" transform="ref(svg,14512.712,-4364.9072)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1510" content="北標津体育館,01693,北海道標津郡標津町字川北2227番地1,施設避難所,-1,-1,0,1,0,0,0,0" xlink:title="北標津体育館" transform="ref(svg,14501.9864,-4370.3621)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1511" content="しおかぜ公園,01694,北海道目梨郡羅臼町,１次避難場所,200,-1,0,1,0,0,0,0" xlink:title="しおかぜ公園" transform="ref(svg,14519.95,-4402.25)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1512" content="栄町高台町内会館,01694,北海道目梨郡羅臼町栄町104番地3,１次避難場所、２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="栄町高台町内会館" transform="ref(svg,14518.8036,-4402.47)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1513" content="栄町町内会館,01694,北海道目梨郡羅臼町栄町10番地1,１次避難場所、２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="栄町町内会館" transform="ref(svg,14518.0501,-4402.8705)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1514" content="海岸町南福祉会館,01694,北海道目梨郡羅臼町海岸町14番地の7,２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="海岸町南福祉会館" transform="ref(svg,14523.3335,-4405.3591)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1515" content="海岸町北福祉会館,01694,北海道目梨郡羅臼町海岸町11番地の6,２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="海岸町北福祉会館" transform="ref(svg,14524.2438,-4407.1631)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1516" content="岩見橋避難場所,01694,北海道目梨郡羅臼町岬町,広域避難場所,500,-1,0,0,0,0,0,1" xlink:title="岩見橋避難場所" transform="ref(svg,14525.3344,-4412.0228)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1517" content="旧植別小中学校,01694,北海道目梨郡羅臼町峯浜町307,２次避難場所,500,-1,0,0,0,0,0,1" xlink:title="旧植別小中学校" transform="ref(svg,14509.3671,-4388.0272)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1518" content="旧知円別小中学校,01694,北海道目梨郡羅臼町岬町33,１次避難場所、２次避難場所,400,-1,0,0,0,0,0,1" xlink:title="旧知円別小中学校" transform="ref(svg,14524.4683,-4410.6102)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1519" content="旧飛仁帯小学校,01694,北海道目梨郡羅臼町海岸町441,２次避難場所,500,-1,0,0,0,0,0,1" xlink:title="旧飛仁帯小学校" transform="ref(svg,14523.4796,-4405.5228)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1520" content="共栄町会館,01694,北海道目梨郡羅臼町共栄町105番地13,１次避難場所、２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="共栄町会館" transform="ref(svg,14520.0068,-4402.4618)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1521" content="国道３３５号線（ソスケ地区）,01694,北海道目梨郡羅臼町松法町,１次避難場所,500,-1,0,1,0,0,0,0" xlink:title="国道３３５号線（ソスケ地区）" transform="ref(svg,14516.2735,-4398.9541)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1522" content="春松小学校,01694,北海道目梨郡羅臼町八木浜町190,２次避難場所,1000,-1,0,0,0,0,0,1" xlink:title="春松小学校" transform="ref(svg,14515.0874,-4397.4897)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1523" content="春松中学校,01694,北海道目梨郡羅臼町八木浜町146,２次避難場所,1000,-1,0,0,0,0,0,1" xlink:title="春松中学校" transform="ref(svg,14515.1363,-4397.5808)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1524" content="春日町福祉館,01694,北海道目梨郡羅臼町春日町47番地2,２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="春日町福祉館" transform="ref(svg,14512.764,-4394.9005)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1525" content="植別１号線（野口宅付近道路）,01694,北海道目梨郡羅臼町峯浜町,１次避難場所,300,-1,0,1,0,0,0,0" xlink:title="植別１号線（野口宅付近道路）" transform="ref(svg,14509.2338,-4386.298)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1526" content="総合運動公園,01694,北海道目梨郡羅臼町幌萌町632番地2,１次避難場所,2000,-1,0,1,0,0,0,0" xlink:title="総合運動公園" transform="ref(svg,14511.6755,-4393.581)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1527" content="知松福祉館,01694,北海道目梨郡羅臼町知昭町40番地,２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="知松福祉館" transform="ref(svg,14515.944,-4398.6786)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1528" content="羅臼小学校,01694,北海道目梨郡羅臼町本町41,１次避難場所、２次避難場所,1000,-1,0,0,0,0,0,1" xlink:title="羅臼小学校" transform="ref(svg,14519.1272,-4401.8564)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1529" content="町道２号線（天狗岩）,01694,北海道目梨郡羅臼町海岸町,１次避難場所,300,-1,0,1,0,0,0,0" xlink:title="町道２号線（天狗岩）" transform="ref(svg,14524.2234,-4407.291)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1530" content="農林漁業体験実習館,01694,北海道目梨郡羅臼町幌萌町627番地1,１次避難場所、２次避難場所,1000,-1,0,0,0,0,0,1" xlink:title="農林漁業体験実習館" transform="ref(svg,14511.5638,-4393.2742)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1531" content="八木浜町水源地,01694,北海道目梨郡羅臼町八木浜町57番地,１次避難場所,100,-1,0,1,0,0,0,0" xlink:title="八木浜町水源地" transform="ref(svg,14513.872,-4397.004)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1532" content="八木浜町福祉館,01694,北海道目梨郡羅臼町八木浜町30番地,２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="八木浜町福祉館" transform="ref(svg,14515.0223,-4397.3623)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1533" content="峯浜町福祉館,01694,北海道目梨郡羅臼町峯浜町50番地,２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="峯浜町福祉館" transform="ref(svg,14509.544,-4387.9697)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1534" content="幌萌町１号線と国道３３５号交差付近,01694,北海道目梨郡羅臼町幌萌町,１次避難場所,300,-1,0,1,0,0,0,0" xlink:title="幌萌町１号線と国道３３５号交差付近" transform="ref(svg,14510.8139,-4391.4599)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1535" content="麻布町福祉館,01694,北海道目梨郡羅臼町麻布町10番地1,２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="麻布町福祉館" transform="ref(svg,14513.5948,-4396.0286)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1536" content="岬町福祉館,01694,北海道目梨郡羅臼町岬町24番地3,２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="岬町福祉館" transform="ref(svg,14524.7806,-4410.6549)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1537" content="羅臼漁業協同組合,01694,北海道目梨郡羅臼町船見町2番地の13,２次避難場所,300,-1,0,0,0,0,0,1" xlink:title="羅臼漁業協同組合" transform="ref(svg,14519.6947,-4402.0848)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1538" content="羅臼高校,01694,北海道目梨郡羅臼町礼文町9-3,１次避難場所、２次避難場所,1000,-1,0,0,0,0,0,1" xlink:title="羅臼高校" transform="ref(svg,14517.5829,-4400.3288)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1539" content="羅臼神社,01694,北海道目梨郡羅臼町栄町127番地,１次避難場所,500,-1,0,1,0,0,0,0" xlink:title="羅臼神社" transform="ref(svg,14519.1839,-4402.2984)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1540" content="羅臼中学校,01694,北海道目梨郡羅臼町栄町104-2,１次避難場所、２次避難場所,1000,-1,0,0,0,0,0,1" xlink:title="羅臼中学校" transform="ref(svg,14519.0994,-4402.4119)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1541" content="羅臼町コミュニティーセンター,01694,北海道目梨郡羅臼町船見町2番地6,２次避難場所,300,-1,0,0,0,0,0,1" xlink:title="羅臼町コミュニティーセンター" transform="ref(svg,14519.8541,-4402.1498)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1542" content="羅臼町公民館・体育館,01694,北海道目梨郡羅臼町栄町102番地,１次避難場所、２次避難場所,1800,-1,0,0,0,0,0,1" xlink:title="羅臼町公民館・体育館" transform="ref(svg,14519.1566,-4402.2452)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1543" content="羅臼町商工会館,01694,北海道目梨郡羅臼町船見町46番地1,１次避難場所、２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="羅臼町商工会館" transform="ref(svg,14519.4481,-4402.064)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1544" content="羅臼町老人福祉センター,01694,北海道目梨郡羅臼町湯の沢町14-3,１次避難場所、２次避難場所,300,-1,0,0,0,0,0,1" xlink:title="羅臼町老人福祉センター" transform="ref(svg,14517.2357,-4403.0396)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1545" content="羅臼幼稚園,01694,北海道目梨郡羅臼町緑町301番地,１次避難場所、２次避難場所,300,-1,0,0,0,0,0,1" xlink:title="羅臼幼稚園" transform="ref(svg,14518.9922,-4402.1786)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1546" content="陸志別１号線（伊藤宅付近道路）,01694,北海道目梨郡羅臼町,１次避難場所,300,-1,0,1,0,0,0,0" xlink:title="陸志別１号線（伊藤宅付近道路）" transform="ref(svg,14509.2369,-4388.0365)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1547" content="陸志別５号線（鳥谷宅付近道路）,01694,北海道目梨郡羅臼町峯浜町,１次避難場所,300,-1,0,1,0,0,0,0" xlink:title="陸志別５号線（鳥谷宅付近道路）" transform="ref(svg,14508.9438,-4387.4518)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1548" content="緑町町内会館,01694,北海道目梨郡羅臼町緑町299番地1,１次避難場所、２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="緑町町内会館" transform="ref(svg,14518.5792,-4402.1979)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1549" content="礼文町南町内会館,01694,北海道目梨郡羅臼町礼文町367番地,１次避難場所、２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="礼文町南町内会館" transform="ref(svg,14517.5861,-4400.5484)" x="0" y="0"/>
+<use xlink:href="#p0" id="f1550" content="礼文町北町内会館,01694,北海道目梨郡羅臼町礼文町64番地,１次避難場所、２次避難場所,100,-1,0,0,0,0,0,1" xlink:title="礼文町北町内会館" transform="ref(svg,14518.8381,-4401.377)" x="0" y="0"/>
+</g>
+</svg>

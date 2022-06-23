@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13987.79296875 -3682.6171875 2.197265625 2.197265625" go:dataArea="13987.79296875 -3682.6171875 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,しおや交通（株）,矢板駅～西船生,999.9,999.9,999.9," xlink:title="1" d="M13989.7225,-3680.4199L13989.7153,-3680.4276L13989.6995,-3680.4443L13989.6911,-3680.4539L13989.4684,-3680.7011L13989.4579,-3680.7101L13989.4489,-3680.7158L13989.4169,-3680.7224L13989.3943,-3680.725"/>
+<path content="2,矢板市,長井線,2.0,2.0,0.0," xlink:title="2" d="M13989.9902,-3682.4478L13989.9836,-3682.4508L13989.9731,-3682.4576L13989.9554,-3682.4693L13989.9409,-3682.4818L13989.9213,-3682.501L13989.8968,-3682.5314L13989.8703,-3682.5708L13989.8576,-3682.5928L13989.8568,-3682.5941L13989.8419,-3682.6172"/>
+</g>
+</svg>

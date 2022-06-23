@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14111.114501953125 -3902.069091796875 0.274658203125 0.274658203125" go:dataArea="14111.114501953125 -3902.069091796875 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,JRバス東北（株）,仙台～江刺・水沢線,2.0,2.0,2.0," xlink:title="1" d="M14111.1999,-3902.0691L14111.2654,-3902.0412L14111.2818,-3902.0342L14111.3301,-3902.006L14111.3892,-3901.9923"/>
+<path content="1,国際興業（株）,イーハトープ号,1.0,1.0,1.0," xlink:title="1" d="M14111.1999,-3902.0691L14111.2654,-3902.0412L14111.2818,-3902.0342L14111.3301,-3902.006L14111.3892,-3902.0057"/>
+<path content="1,岩手県交通（株）,イーハトーブ号,1.0,1.0,1.0," xlink:title="1" d="M14111.1999,-3902.0691L14111.2654,-3902.0412L14111.2818,-3902.0342L14111.3301,-3902.006L14111.3892,-3902.0057"/>
+<path content="1,岩手県交通（株）,江刺・仙台線,2.0,2.0,2.0," xlink:title="1" d="M14111.1999,-3902.0691L14111.2654,-3902.0412L14111.2818,-3902.0342L14111.3301,-3902.006L14111.3892,-3902.0057"/>
+<path content="1,岩手県交通（株）,盛岡・平泉線,0.6,0.6,0.6," xlink:title="1" d="M14111.3892,-3901.9766L14111.3875,-3901.9772L14111.3301,-3902.006L14111.2818,-3902.0342L14111.2654,-3902.0412L14111.1999,-3902.0691"/>
+</g>
+</svg>

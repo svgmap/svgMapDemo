@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13640.625 -3585.9375 35.15625 35.15625" go:dataArea="13640.625 -3585.9375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f57854" content="さくら苑,21201,岐阜県岐阜市奥2-28-1,福祉（二次）避難所,60,180,0,0,0,0,0,1" xlink:title="さくら苑" transform="ref(svg,13669.9027,-3552.468)" x="0" y="0"/>
+<use xlink:href="#p0" id="f57872" content="プラザ掛洞,21201,岐阜県岐阜市奥1丁目104,避難所,74,148,0,0,0,0,0,1" xlink:title="プラザ掛洞" transform="ref(svg,13669.5126,-3551.8724)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58096" content="佐野公園,21201,岐阜県岐阜市佐野字中野141,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="佐野公園" transform="ref(svg,13672.4074,-3551.5429)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58194" content="瑞光苑,21201,岐阜県岐阜市奥1-100,福祉（二次）避難所,104,314,0,0,0,0,0,1" xlink:title="瑞光苑" transform="ref(svg,13669.5778,-3551.8514)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60109" content="いわ桜小学校,21215,岐阜県山県市谷合1159,避難所,-1,-1,0,0,0,0,0,1" xlink:title="いわ桜小学校" transform="ref(svg,13673.8658,-3559.2451)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60112" content="ワークス伊自良,21215,岐阜県山県市大森145,避難所、福祉避難所,-1,-1,0,0,0,0,0,1" xlink:title="ワークス伊自良" transform="ref(svg,13673.6634,-3552.3437)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60113" content="伊自良苑,21215,岐阜県山県市藤倉84,避難所、福祉避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊自良苑" transform="ref(svg,13673.8568,-3553.2751)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60114" content="伊自良中央公民館,21215,岐阜県山県市大門912番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊自良中央公民館" transform="ref(svg,13672.6328,-3553.4022)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60115" content="伊自良中学校,21215,岐阜県山県市大門954,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊自良中学校" transform="ref(svg,13672.791,-3553.5645)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60116" content="伊自良南小学校,21215,岐阜県山県市大森540,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊自良南小学校" transform="ref(svg,13672.9607,-3552.582)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60117" content="伊自良保育園,21215,岐阜県山県市大門912-12,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊自良保育園" transform="ref(svg,13672.6579,-3553.3513)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60118" content="伊自良北小学校,21215,岐阜県山県市掛217,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊自良北小学校" transform="ref(svg,13672.0273,-3555.3039)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60119" content="伊自良老人福祉センター,21215,岐阜県山県市大門850-67,避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊自良老人福祉センター" transform="ref(svg,13672.5176,-3553.5677)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60121" content="葛原郷土研修室・葛原体育館,21215,岐阜県山県市葛原4493-3,避難所,-1,-1,0,0,0,0,0,1" xlink:title="葛原郷土研修室・葛原体育館" transform="ref(svg,13670.8687,-3560.1058)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60122" content="葛原公民館,21215,岐阜県山県市葛原4493-3,避難所,-1,-1,0,0,0,0,0,1" xlink:title="葛原公民館" transform="ref(svg,13670.9956,-3560.0322)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60137" content="山県グリーンビレッジ,21215,岐阜県山県市大門803,避難所、福祉避難所,-1,-1,0,0,0,0,0,1" xlink:title="山県グリーンビレッジ" transform="ref(svg,13672.5275,-3553.8997)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60138" content="山県グリーンポート,21215,岐阜県山県市大門773,避難所、福祉避難所,-1,-1,0,0,0,0,0,1" xlink:title="山県グリーンポート" transform="ref(svg,13672.544,-3553.996)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60139" content="山県市図書館・山県市美術館・山県市歴史民俗資料館,21215,岐阜県山県市大門850-65,避難所,-1,-1,0,0,0,0,0,1" xlink:title="山県市図書館・山県市美術館・山県市歴史民俗資料館" transform="ref(svg,13672.4856,-3553.5805)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60142" content="生活の家桜美寮,21215,岐阜県山県市藤倉105-1,避難所、福祉避難所,-1,-1,0,0,0,0,0,1" xlink:title="生活の家桜美寮" transform="ref(svg,13674.0944,-3553.3072)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60147" content="谷合公民館,21215,岐阜県山県市谷合1250番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="谷合公民館" transform="ref(svg,13673.9265,-3559.2821)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60149" content="梅原公民館,21215,岐阜県山県市梅原1522番地3,避難所,-1,-1,0,0,0,0,0,1" xlink:title="梅原公民館" transform="ref(svg,13675.4937,-3551.708)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60150" content="梅原小学校,21215,岐阜県山県市梅原1543,避難所,-1,-1,0,0,0,0,0,1" xlink:title="梅原小学校" transform="ref(svg,13675.5604,-3551.6793)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60151" content="梅原保育園,21215,岐阜県山県市梅原1537-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="梅原保育園" transform="ref(svg,13675.5937,-3551.7488)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60153" content="美山山村開発センター,21215,岐阜県山県市谷合1358-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="美山山村開発センター" transform="ref(svg,13674.1493,-3559.1215)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60155" content="美山荘,21215,岐阜県山県市笹賀901,避難所、福祉避難所,-1,-1,0,0,0,0,0,1" xlink:title="美山荘" transform="ref(svg,13675.0891,-3559.3305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60165" content="文化の里花咲きホール,21215,岐阜県山県市洞田127-135,避難所,-1,-1,0,0,0,0,0,1" xlink:title="文化の里花咲きホール" transform="ref(svg,13672.331,-3553.5905)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60167" content="北山交流センター,21215,岐阜県山県市神崎100,避難所,-1,-1,0,0,0,0,0,1" xlink:title="北山交流センター" transform="ref(svg,13671.7771,-3563.0292)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60168" content="北山公民館,21215,岐阜県山県市神崎114番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="北山公民館" transform="ref(svg,13671.7082,-3563.0819)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60409" content="ＮＥＯさわやかセンターたかお,21218,岐阜県本巣市根尾高尾775-1,避難所,150,1107,0,0,0,0,0,1" xlink:title="ＮＥＯさわやかセンターたかお" transform="ref(svg,13662.6594,-3559.7982)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60415" content="越卒集会所,21218,岐阜県本巣市根尾越卒347,避難場所,50,-1,0,0,0,0,0,1" xlink:title="越卒集会所" transform="ref(svg,13659.5159,-3565.203)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60416" content="越波集会所,21218,岐阜県本巣市根尾越波866,避難場所,50,-1,0,0,0,0,0,1" xlink:title="越波集会所" transform="ref(svg,13660.8073,-3573.8577)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60417" content="奥谷集会所,21218,岐阜県本巣市根尾奥谷134,避難場所,50,-1,0,0,0,0,0,1" xlink:title="奥谷集会所" transform="ref(svg,13665.1682,-3562.6899)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60419" content="下大須集会所,21218,岐阜県本巣市根尾下大須1312-9,避難場所,50,-1,0,0,0,0,0,1" xlink:title="下大須集会所" transform="ref(svg,13667.3038,-3570.8532)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60422" content="外山基幹集落センター,21218,岐阜県本巣市神海459-3,避難場所,50,-1,0,0,0,0,0,1" xlink:title="外山基幹集落センター" transform="ref(svg,13664.9866,-3553.7593)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60423" content="外山小学校,21218,岐阜県本巣市神海1328-3,避難所、避難場所,1300,2473,0,0,0,0,0,1" xlink:title="外山小学校" transform="ref(svg,13664.1783,-3554.4511)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60426" content="金原公民館,21218,岐阜県本巣市金原353-2,避難場所,30,-1,0,0,0,0,0,1" xlink:title="金原公民館" transform="ref(svg,13664.6137,-3557.1645)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60429" content="口谷集会所,21218,岐阜県本巣市根尾口谷81-3,避難場所,50,-1,0,0,0,0,0,1" xlink:title="口谷集会所" transform="ref(svg,13664.0509,-3563.5381)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60436" content="高尾集会所,21218,岐阜県本巣市根尾高尾790,避難場所,50,-1,0,0,0,0,0,1" xlink:title="高尾集会所" transform="ref(svg,13662.6446,-3559.8392)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60438" content="根尾小学校,21218,岐阜県本巣市根尾市場461,避難所,300,3383,0,0,0,0,0,1" xlink:title="根尾小学校" transform="ref(svg,13660.9672,-3563.611)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60439" content="根尾中学校,21218,岐阜県本巣市根尾神所550-6,避難所,300,3577,0,0,0,0,0,1" xlink:title="根尾中学校" transform="ref(svg,13660.3605,-3563.9884)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60440" content="根尾文化センター,21218,岐阜県本巣市根尾板所625-1,避難所,300,1341,0,0,0,0,0,1" xlink:title="根尾文化センター" transform="ref(svg,13661.5534,-3563.4667)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60441" content="佐原公民館,21218,岐阜県本巣市佐原178-9,避難場所,30,-1,0,0,0,0,0,1" xlink:title="佐原公民館" transform="ref(svg,13664.6031,-3555.5387)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60444" content="市場集会所,21218,岐阜県本巣市根尾市場215,避難場所,50,-1,0,0,0,0,0,1" xlink:title="市場集会所" transform="ref(svg,13661.0994,-3563.4566)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60456" content="小鹿集会所,21218,岐阜県本巣市根尾小鹿252-3,避難場所,50,-1,0,0,0,0,0,1" xlink:title="小鹿集会所" transform="ref(svg,13664.3699,-3565.2216)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60458" content="松田集会所,21218,岐阜県本巣市根尾松田531-1,避難場所,50,-1,0,0,0,0,0,1" xlink:title="松田集会所" transform="ref(svg,13665.4421,-3566.0532)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60461" content="上大須集会所,21218,岐阜県本巣市根尾上大須1779,避難場所,50,-1,0,0,0,0,0,1" xlink:title="上大須集会所" transform="ref(svg,13666.0715,-3572.4644)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60473" content="神海公民館,21218,岐阜県本巣市神海917-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="神海公民館" transform="ref(svg,13664.64,-3553.8098)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60474" content="神海保育園,21218,岐阜県本巣市神海459-1,避難所,100,612,0,0,0,0,0,1" xlink:title="神海保育園" transform="ref(svg,13664.9317,-3553.7861)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60475" content="神所集会所,21218,岐阜県本巣市根尾神所174,避難場所,50,-1,0,0,0,0,0,1" xlink:title="神所集会所" transform="ref(svg,13660.5022,-3564.1274)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60477" content="水鳥集会所,21218,岐阜県本巣市根尾水鳥333-13,避難場所,50,-1,0,0,0,0,0,1" xlink:title="水鳥集会所" transform="ref(svg,13661.9352,-3561.8806)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60487" content="川原集会所,21218,岐阜県本巣市根尾板所617-2,避難場所,50,-1,0,0,0,0,0,1" xlink:title="川原集会所" transform="ref(svg,13661.42,-3563.4234)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60489" content="川内公民館,21218,岐阜県本巣市外山1694-1,避難場所,40,-1,0,0,0,0,0,1" xlink:title="川内公民館" transform="ref(svg,13667.5114,-3554.8)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60493" content="大井集会所,21218,岐阜県本巣市根尾大井714-1-1,避難場所,50,-1,0,0,0,0,0,1" xlink:title="大井集会所" transform="ref(svg,13658.6885,-3565.3325)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60494" content="大河原集会所,21218,岐阜県本巣市根尾大河原123-1,避難場所,50,-1,0,0,0,0,0,1" xlink:title="大河原集会所" transform="ref(svg,13657.8318,-3575.1069)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60497" content="樽見集会所,21218,岐阜県本巣市根尾樽見104-2,避難場所,50,-1,0,0,0,0,0,1" xlink:title="樽見集会所" transform="ref(svg,13661.4588,-3563.7758)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60503" content="中集会所,21218,岐阜県本巣市根尾中92,避難場所,50,-1,0,0,0,0,0,1" xlink:title="中集会所" transform="ref(svg,13660.1005,-3564.7721)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60508" content="長島集会所,21218,岐阜県本巣市根尾長島233-1,避難場所,50,-1,0,0,0,0,0,1" xlink:title="長島集会所" transform="ref(svg,13657.2085,-3567.949)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60509" content="長嶺集会所,21218,岐阜県本巣市根尾長嶺157-6,避難場所,50,-1,0,0,0,0,0,1" xlink:title="長嶺集会所" transform="ref(svg,13657.9602,-3566.3121)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60513" content="天神堂集会所,21218,岐阜県本巣市根尾天神堂459,避難場所,50,-1,0,0,0,0,0,1" xlink:title="天神堂集会所" transform="ref(svg,13657.8049,-3566.9564)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60515" content="東外山ふれあい広場,21218,岐阜県本巣市外山1100-1,避難場所,650,-1,0,0,0,0,0,1" xlink:title="東外山ふれあい広場" transform="ref(svg,13666.9335,-3554.7483)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60525" content="日当公民館,21218,岐阜県本巣市日当1144,避難場所,40,-1,0,0,0,0,0,1" xlink:title="日当公民館" transform="ref(svg,13663.3832,-3558.5118)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60526" content="能郷集会所,21218,岐阜県本巣市根尾能郷266-1,避難場所,50,-1,0,0,0,0,0,1" xlink:title="能郷集会所" transform="ref(svg,13656.5342,-3568.4206)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60528" content="八谷集会所,21218,岐阜県本巣市根尾八谷1082,避難場所,50,-1,0,0,0,0,0,1" xlink:title="八谷集会所" transform="ref(svg,13656.1224,-3566.2573)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60529" content="板屋集会所,21218,岐阜県本巣市根尾東板屋676,避難場所,50,-1,0,0,0,0,0,1" xlink:title="板屋集会所" transform="ref(svg,13662.2889,-3564.8107)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60530" content="板所集会所,21218,岐阜県本巣市根尾板所356,避難場所,50,-1,0,0,0,0,0,1" xlink:title="板所集会所" transform="ref(svg,13661.7322,-3562.7806)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60535" content="平野集会所,21218,岐阜県本巣市根尾平野113-2,避難場所,50,-1,0,0,0,0,0,1" xlink:title="平野集会所" transform="ref(svg,13662.8638,-3559.3131)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60552" content="木倉公民館,21218,岐阜県本巣市外山448,避難場所,40,-1,0,0,0,0,0,1" xlink:title="木倉公民館" transform="ref(svg,13666.457,-3556.0957)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60553" content="木知原公民館,21218,岐阜県本巣市木知原807,避難場所,40,-1,0,0,0,0,0,1" xlink:title="木知原公民館" transform="ref(svg,13664.9653,-3552.0511)" x="0" y="0"/>
+<use xlink:href="#p0" id="f60554" content="門脇集会所,21218,岐阜県本巣市根尾門脇166,避難場所,50,-1,0,0,0,0,0,1" xlink:title="門脇集会所" transform="ref(svg,13658.6996,-3565.6192)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61397" content="やまびこの郷,21401,岐阜県揖斐郡揖斐川町,避難場所,100,-1,0,0,0,0,0,1" xlink:title="やまびこの郷" transform="ref(svg,13650.734,-3555.7084)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61399" content="外津汲集会場,21401,岐阜県揖斐郡揖斐川町外津汲1695,避難場所,30,-1,0,0,0,0,0,1" xlink:title="外津汲集会場" transform="ref(svg,13651.19,-3553.4166)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61400" content="樫原集会場,21401,岐阜県揖斐郡揖斐川町樫原485-1,避難場所,20,-1,0,0,0,0,0,1" xlink:title="樫原集会場" transform="ref(svg,13648.5603,-3557.1143)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61402" content="久瀬公民館,21401,岐阜県揖斐郡揖斐川町西津汲711番地,避難場所,350,-1,0,0,0,0,0,1" xlink:title="久瀬公民館" transform="ref(svg,13650.4289,-3555.4099)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61403" content="久瀬小学校,21401,岐阜県揖斐郡揖斐川町,避難場所,250,-1,0,0,0,0,0,1" xlink:title="久瀬小学校" transform="ref(svg,13650.5633,-3555.3202)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61404" content="久瀬振興事務所,21401,岐阜県揖斐郡揖斐川町東津汲875-1,避難場所,150,-1,0,0,0,0,0,1" xlink:title="久瀬振興事務所" transform="ref(svg,13650.6978,-3555.6707)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61405" content="久瀬中学校,21401,岐阜県揖斐郡揖斐川町,避難場所,120,-1,0,0,0,0,0,1" xlink:title="久瀬中学校" transform="ref(svg,13650.5606,-3555.3535)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61406" content="久瀬保育園,21401,岐阜県揖斐郡揖斐川町,避難場所,30,-1,0,0,0,0,0,1" xlink:title="久瀬保育園" transform="ref(svg,13650.4506,-3555.444)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61407" content="旧横蔵小学校体育館,21401,岐阜県揖斐郡揖斐川町,避難場所,200,-1,0,0,0,0,0,1" xlink:title="旧横蔵小学校体育館" transform="ref(svg,13655.4975,-3553.6836)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61408" content="旧長瀬小学校体育館,21401,岐阜県揖斐郡揖斐川町,避難場所,350,-1,0,0,0,0,0,1" xlink:title="旧長瀬小学校体育館" transform="ref(svg,13664.1427,-3553.3115)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61409" content="月夜谷ふれあいの里,21401,岐阜県揖斐郡揖斐川町小津987-1,避難場所,60,-1,0,0,0,0,0,1" xlink:title="月夜谷ふれあいの里" transform="ref(svg,13653.4235,-3557.9168)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61412" content="公正公民館・体育館,21401,岐阜県揖斐郡揖斐川町,避難場所,300,-1,0,0,0,0,0,1" xlink:title="公正公民館・体育館" transform="ref(svg,13653.0792,-3553.0742)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61416" content="坂西多目的集会場,21401,岐阜県揖斐郡揖斐川町坂内坂本165-1,避難場所,30,-1,0,0,0,0,0,1" xlink:title="坂西多目的集会場" transform="ref(svg,13642.1605,-3559.3858)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61418" content="坂内小中学校,21401,岐阜県揖斐郡揖斐川町坂内広瀬351,避難場所,300,-1,0,0,0,0,0,1" xlink:title="坂内小中学校" transform="ref(svg,13641.6667,-3559.9088)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61419" content="坂内生活改善センター,21401,岐阜県揖斐郡揖斐川町坂内坂本3256番地,避難場所,30,-1,0,0,0,0,0,1" xlink:title="坂内生活改善センター" transform="ref(svg,13642.4602,-3559.3905)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61420" content="三倉特産品加工・文化伝承施設,21401,岐阜県揖斐郡揖斐川町三倉193-1,避難場所,50,-1,0,0,0,0,0,1" xlink:title="三倉特産品加工・文化伝承施設" transform="ref(svg,13652.884,-3552.6627)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61424" content="諸家集会場,21401,岐阜県揖斐郡揖斐川町坂内坂本1236,避難場所,30,-1,0,0,0,0,0,1" xlink:title="諸家集会場" transform="ref(svg,13641.1602,-3555.1376)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61426" content="小津公民館,21401,岐阜県揖斐郡揖斐川町,避難場所,300,-1,0,0,0,0,0,1" xlink:title="小津公民館" transform="ref(svg,13652.2643,-3558.0047)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61430" content="水と森の学習館,21401,岐阜県揖斐郡揖斐川町,避難場所,100,-1,0,0,0,0,0,1" xlink:title="水と森の学習館" transform="ref(svg,13648.3803,-3563.6564)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61433" content="西部文化会館,21401,岐阜県揖斐郡揖斐川町谷汲木曽屋163-1,避難場所,100,-1,0,0,0,0,0,1" xlink:title="西部文化会館" transform="ref(svg,13655.5978,-3553.7531)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61439" content="谷汲スポーツセンター,21401,岐阜県揖斐郡揖斐川町谷汲名礼141,避難場所,750,-1,0,0,0,0,0,1" xlink:title="谷汲スポーツセンター" transform="ref(svg,13660.6888,-3551.9329)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61440" content="谷汲小学校体育館,21401,岐阜県揖斐郡揖斐川町,避難場所,400,-1,0,0,0,0,0,1" xlink:title="谷汲小学校体育館" transform="ref(svg,13660.0433,-3552.7098)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61441" content="谷汲中学校体育館,21401,岐阜県揖斐郡揖斐川町,避難場所,400,-1,0,0,0,0,0,1" xlink:title="谷汲中学校体育館" transform="ref(svg,13661.147,-3552.2494)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61442" content="谷汲文化会館,21401,岐阜県揖斐郡揖斐川町谷汲名礼265番地43,避難場所,300,-1,0,0,0,0,0,1" xlink:title="谷汲文化会館" transform="ref(svg,13660.9172,-3552.6721)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61445" content="東津汲コミュニティセンター,21401,岐阜県揖斐郡揖斐川町,避難場所,30,-1,0,0,0,0,0,1" xlink:title="東津汲コミュニティセンター" transform="ref(svg,13650.7288,-3555.5753)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61446" content="東部文化会館,21401,岐阜県揖斐郡揖斐川町谷汲長瀬423-7,避難場所,150,-1,0,0,0,0,0,1" xlink:title="東部文化会館" transform="ref(svg,13664.1748,-3553.2524)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61447" content="藤橋公民館,21401,岐阜県揖斐郡揖斐川町西横山408番地1,避難場所,80,-1,0,0,0,0,0,1" xlink:title="藤橋公民館" transform="ref(svg,13645.742,-3558.4967)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61448" content="藤橋高齢者コミュニティセンター,21401,岐阜県揖斐郡揖斐川町東横山942番地,避難場所,80,-1,0,0,0,0,0,1" xlink:title="藤橋高齢者コミュニティセンター" transform="ref(svg,13645.5745,-3558.8445)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61449" content="徳山民族資料収蔵庫,21401,岐阜県揖斐郡揖斐川町,避難場所,150,-1,0,0,0,0,0,1" xlink:title="徳山民族資料収蔵庫" transform="ref(svg,13646.3599,-3557.7617)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61450" content="栃の実荘,21401,岐阜県揖斐郡揖斐川町日坂1509-15,避難場所,50,-1,0,0,0,0,0,1" xlink:title="栃の実荘" transform="ref(svg,13643.0276,-3553.7582)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61451" content="日坂公民館,21401,岐阜県揖斐郡揖斐川町,避難場所,50,-1,0,0,0,0,0,1" xlink:title="日坂公民館" transform="ref(svg,13645.4179,-3555.2307)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61452" content="日坂体育館,21401,岐阜県揖斐郡揖斐川町日坂1267-2,避難場所,90,-1,0,0,0,0,0,1" xlink:title="日坂体育館" transform="ref(svg,13645.4198,-3555.2237)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61460" content="揖斐川町「ふじはし星の家」,21401,岐阜県揖斐郡揖斐川町鶴見639,避難場所,80,-1,0,0,0,0,0,1" xlink:title="揖斐川町「ふじはし星の家」" transform="ref(svg,13648.3945,-3563.6996)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61462" content="揖斐特別支援学校体育館,21401,岐阜県揖斐郡揖斐川町,避難場所,350,-1,0,0,0,0,0,1" xlink:title="揖斐特別支援学校体育館" transform="ref(svg,13660.767,-3551.4784)" x="0" y="0"/>
+</g>
+</svg>

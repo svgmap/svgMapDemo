@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13359.375 -3585.9375 35.15625 35.15625" go:dataArea="13359.375 -3585.9375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f89367" content="あさひ保育所,31370,鳥取県東伯郡湯梨浜町泊1175-7,一時避難所,266,-1,0,0,0,0,0,1" xlink:title="あさひ保育所" transform="ref(svg,13394.3816,-3551.4227)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89384" content="園公民館,31370,鳥取県東伯郡湯梨浜町園,一時避難所,22,-1,0,0,0,0,0,1" xlink:title="園公民館" transform="ref(svg,13393.5838,-3551.0765)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89385" content="園農村広場,31370,鳥取県東伯郡湯梨浜町園,一時避難所,625,-1,0,0,0,0,0,1" xlink:title="園農村広場" transform="ref(svg,13393.2358,-3551.0517)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89389" content="活性化センターはまなす,31370,鳥取県東伯郡湯梨浜町園2286-1,避難所,300,-1,0,0,0,0,0,1" xlink:title="活性化センターはまなす" transform="ref(svg,13392.8905,-3550.8831)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89394" content="漁村センター,31370,鳥取県東伯郡湯梨浜町泊1571-6,避難所,180,-1,0,0,0,0,0,1" xlink:title="漁村センター" transform="ref(svg,13394.0018,-3551.5925)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89415" content="青少年の家,31370,鳥取県東伯郡湯梨浜町泊1117-1,避難所,230,-1,0,0,0,0,0,1" xlink:title="青少年の家" transform="ref(svg,13394.2583,-3551.4207)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89421" content="中央公民館泊分館,31370,鳥取県東伯郡湯梨浜町泊1204-1,避難所,260,-1,0,0,0,0,0,1" xlink:title="中央公民館泊分館" transform="ref(svg,13394.5248,-3551.3964)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89441" content="泊１区公民館,31370,鳥取県東伯郡湯梨浜町泊,一時避難所,14,-1,0,0,0,0,0,1" xlink:title="泊１区公民館" transform="ref(svg,13393.804,-3551.3253)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89442" content="泊２区公民館,31370,鳥取県東伯郡湯梨浜町泊,一時避難所,19,-1,0,0,0,0,0,1" xlink:title="泊２区公民館" transform="ref(svg,13394.096,-3551.3846)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89443" content="泊海の子広場,31370,鳥取県東伯郡湯梨浜町泊,一時避難所,243,-1,0,0,0,0,0,1" xlink:title="泊海の子広場" transform="ref(svg,13394.2067,-3551.663)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89445" content="泊体育館,31370,鳥取県東伯郡湯梨浜町泊1258-1,避難所,470,-1,0,0,0,0,0,1" xlink:title="泊体育館" transform="ref(svg,13394.4671,-3551.3887)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89451" content="保健福祉センターつわぶき荘,31370,鳥取県東伯郡湯梨浜町泊1085-1,避難所,550,-1,0,0,0,0,0,1" xlink:title="保健福祉センターつわぶき荘" transform="ref(svg,13394.3098,-3551.4308)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89466" content="安田小学校体育館,31371,鳥取県東伯郡琴浦町箆津318,避難所,300,-1,0,0,0,0,0,1" xlink:title="安田小学校体育館" transform="ref(svg,13361.5925,-3551.2307)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89467" content="安田地区公民館,31371,鳥取県東伯郡琴浦町箆津437,避難所,100,-1,0,0,0,0,0,1" xlink:title="安田地区公民館" transform="ref(svg,13361.5967,-3551.2651)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89474" content="駅前通り公民館,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,100,-1,0,0,0,0,0,1" xlink:title="駅前通り公民館" transform="ref(svg,13363.3716,-3551.2555)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89478" content="下市公民館,31371,鳥取県東伯郡琴浦町八幡,一時避難所,50,-1,0,0,0,0,0,1" xlink:title="下市公民館" transform="ref(svg,13362.4958,-3551.2837)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89483" content="花見町公民館,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="花見町公民館" transform="ref(svg,13363.4793,-3551.66)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89487" content="亀崎町公民館,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,50,-1,0,0,0,0,0,1" xlink:title="亀崎町公民館" transform="ref(svg,13365.478,-3550.9355)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89489" content="漁村環境改善センター,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,100,-1,0,0,0,0,0,1" xlink:title="漁村環境改善センター" transform="ref(svg,13365.5259,-3551.1048)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89499" content="向原公民館,31371,鳥取県東伯郡琴浦町八幡,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="向原公民館" transform="ref(svg,13362.0929,-3550.9402)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89505" content="坂ノ上公民館,31371,鳥取県東伯郡琴浦町箆津坂ノ上,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="坂ノ上公民館" transform="ref(svg,13360.9123,-3551.8189)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89520" content="上野公民館,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,50,-1,0,0,0,0,0,1" xlink:title="上野公民館" transform="ref(svg,13363.372,-3550.8119)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89528" content="西地蔵町公民館,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,50,-1,0,0,0,0,0,1" xlink:title="西地蔵町公民館" transform="ref(svg,13363.7404,-3551.3238)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89529" content="西仲町公民館,31371,鳥取県東伯郡琴浦町赤碕仲町,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="西仲町公民館" transform="ref(svg,13364.4957,-3551.4276)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89530" content="西町公民館,31371,鳥取県東伯郡琴浦町赤碕西町,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="西町公民館" transform="ref(svg,13364.3825,-3551.434)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89533" content="赤碕小学校体育館,31371,鳥取県東伯郡琴浦町赤碕264-2,避難所,2000,-1,0,0,0,0,0,1" xlink:title="赤碕小学校体育館" transform="ref(svg,13364.9063,-3551.2639)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89534" content="赤碕地域コミュニティーセンター（役場分庁舎）,31371,鳥取県東伯郡琴浦町赤碕1140-1,避難所,700,-1,0,0,0,0,0,1" xlink:title="赤碕地域コミュニティーセンター（役場分庁舎）" transform="ref(svg,13363.8044,-3551.5334)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89535" content="赤碕地区公民館,31371,鳥取県東伯郡琴浦町赤碕1547-5,一時避難所,100,-1,0,0,0,0,0,1" xlink:title="赤碕地区公民館" transform="ref(svg,13364.9546,-3551.3436)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89536" content="赤碕中学校体育館,31371,鳥取県東伯郡琴浦町赤碕1922-1,避難所,6800,-1,0,0,0,0,0,1" xlink:title="赤碕中学校体育館" transform="ref(svg,13363.0369,-3551.4945)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89545" content="大山町公民館,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="大山町公民館" transform="ref(svg,13363.6858,-3551.1718)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89553" content="仲之町公民館,31371,鳥取県東伯郡琴浦町赤碕仲之町,一時避難所,50,-1,0,0,0,0,0,1" xlink:title="仲之町公民館" transform="ref(svg,13364.7195,-3551.4912)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89554" content="朝日ケ丘公民館,31371,鳥取県東伯郡琴浦町別所625-4,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="朝日ケ丘公民館" transform="ref(svg,13366.0627,-3550.8005)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89555" content="朝日町公民館,31371,鳥取県東伯郡琴浦町別所朝日町,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="朝日町公民館" transform="ref(svg,13366.0302,-3550.8298)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89566" content="湯坂公民館,31371,鳥取県東伯郡琴浦町湯坂,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="湯坂公民館" transform="ref(svg,13361.7869,-3551.0861)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89570" content="農業者トレーニングセンター,31371,鳥取県東伯郡琴浦町赤碕1938-1,避難所,300,-1,0,0,0,0,0,1" xlink:title="農業者トレーニングセンター" transform="ref(svg,13363.228,-3551.6559)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89571" content="梅田公民館,31371,鳥取県東伯郡琴浦町梅田,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="梅田公民館" transform="ref(svg,13360.6407,-3551.4158)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89577" content="八幡町公民館,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="八幡町公民館" transform="ref(svg,13364.1319,-3551.5111)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89588" content="箆津公民館,31371,鳥取県東伯郡琴浦町箆津,一時避難所,50,-1,0,0,0,0,0,1" xlink:title="箆津公民館" transform="ref(svg,13361.6705,-3551.5319)" x="0" y="0"/>
+<use xlink:href="#p0" id="f89590" content="本町公民館,31371,鳥取県東伯郡琴浦町赤碕,一時避難所,30,-1,0,0,0,0,0,1" xlink:title="本町公民館" transform="ref(svg,13364.5133,-3551.497)" x="0" y="0"/>
+</g>
+</svg>

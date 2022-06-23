@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="12796.875 -2812.5 70.3125 70.3125" go:dataArea="12796.875 -2812.5 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,沖永良部バス企業団,新空港線,6.0,6.0,6.0," xlink:title="1" d="M12867.0069,-2742.1875L12867.032,-2742.198L12867.0781,-2742.2171L12867.0989,-2742.2245L12867.1147,-2742.2313L12867.1628,-2742.2488L12867.1875,-2742.2565"/>
+<path content="1,沖永良部バス企業団,知名・国頭線,3.0,3.0,3.0," xlink:title="1" d="M12867.0069,-2742.1875L12867.032,-2742.198L12867.0781,-2742.2171L12867.0989,-2742.2245L12867.1147,-2742.2313L12867.1628,-2742.2488L12867.1875,-2742.2565"/>
+</g>
+</svg>

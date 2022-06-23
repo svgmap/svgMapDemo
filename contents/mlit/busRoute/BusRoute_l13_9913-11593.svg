@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13972.686767578125 -3565.887451171875 0.274658203125 0.274658203125" go:dataArea="13972.686767578125 -3565.887451171875 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,東京空港交通（株）,六本木エリア～羽田空港線,4.0,4.0,4.0," xlink:title="1" d="M13972.8941,-3565.6128L13972.878,-3565.6388L13972.856,-3565.6681L13972.8463,-3565.6777L13972.8229,-3565.6946L13972.8118,-3565.7013L13972.7815,-3565.7148L13972.7663,-3565.7193L13972.7387,-3565.7289L13972.7124,-3565.7363L13972.7158,-3565.7456L13972.7277,-3565.7779L13972.7497,-3565.8366L13972.7528,-3565.8462L13972.7657,-3565.8875"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13729.6142578125 -3485.9619140625 1.0986328125 1.0986328125" go:dataArea="13729.6142578125 -3485.9619140625 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,豊川市,萩・長沢線,6.0,6.0,6.0," xlink:title="3" d="M13730.7129,-3485.6757L13730.6965,-3485.6902L13730.6761,-3485.7061L13730.656,-3485.7204L13730.5755,-3485.7904L13730.5714,-3485.7927L13730.5393,-3485.8203L13730.5352,-3485.8242L13730.5065,-3485.8456L13730.5024,-3485.8496L13730.4833,-3485.871L13730.4614,-3485.8963L13730.456,-3485.9042L13730.4143,-3485.9566L13730.4116,-3485.9617L13730.4114,-3485.9619"/>
+<path content="3,豊川市,赤坂・赤坂台線,9.0,9.0,9.0," xlink:title="3" d="M13730.2229,-3485.3379L13730.2545,-3485.3443L13730.2886,-3485.3454L13730.3371,-3485.3314L13730.3706,-3485.3246L13730.3952,-3485.3246L13730.4075,-3485.3274L13730.4205,-3485.3331L13730.4765,-3485.3674L13730.4977,-3485.3764L13730.5551,-3485.3944L13730.5988,-3485.4063L13730.6302,-3485.413L13730.6657,-3485.4181L13730.7129,-3485.4228"/>
+</g>
+</svg>

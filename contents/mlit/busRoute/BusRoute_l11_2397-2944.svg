@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13883.4228515625 -3515.625 1.0986328125 1.0986328125" go:dataArea="13883.4228515625 -3515.625 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,富士急シティバス（株）,富士急シティバス_01_on,18.2,21.5,21.5," xlink:title="1" d="M13883.7351,-3514.5264L13883.7254,-3514.5396L13883.7213,-3514.5446L13883.722,-3514.5677L13883.7247,-3514.588L13883.7234,-3514.6009L13883.722,-3514.6088L13883.7069,-3514.6398L13883.6973,-3514.6646L13883.6973,-3514.6815L13883.7151,-3514.7434L13883.7192,-3514.7502L13883.7304,-3514.7621"/>
+</g>
+</svg>

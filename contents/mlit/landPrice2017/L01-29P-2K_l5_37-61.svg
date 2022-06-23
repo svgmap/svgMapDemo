@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13675.78125 -3480.46875 35.15625 35.15625" go:dataArea="13675.78125 -3480.46875 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,三重県　伊勢市二見町荘字東浦１６３２番２外,10,20,2,54,1000,70,200,0,0,31000,21200" xlink:title="三重県　伊勢市二見町荘字東浦１６３２番２外" transform="ref(svg,13677.0715,-3450.9135)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊勢市二見町茶屋字大多茂２６１番２外,10,10,2,95,350,80,300,0,0,0,33200" xlink:title="三重県　伊勢市二見町茶屋字大多茂２６１番２外" transform="ref(svg,13677.7881,-3450.6936)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　鳥羽市小浜町字新吾谷２７２番４６外,10,15,5,85,1100,80,400,0,0,45800,32300" xlink:title="三重県　鳥羽市小浜町字新吾谷２７２番４６外" transform="ref(svg,13683.4489,-3449.1975)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　鳥羽市小浜町字カウジ村３００番３３,10,10,2,70,850,60,200,47700,62500,45700,31800" xlink:title="三重県　鳥羽市小浜町字カウジ村３００番３３" transform="ref(svg,13683.5276,-3448.8228)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　鳥羽市鳥羽４?１１?６７,10,30,2,50,650,60,200,0,47600,36600,24500" xlink:title="三重県　鳥羽市鳥羽４?１１?６７" transform="ref(svg,13684.2873,-3447.5365)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　鳥羽市鳥羽１?４?５５,10,15,4,70,350,80,400,111000,147000,60200,42200" xlink:title="三重県　鳥羽市鳥羽１?４?５５" transform="ref(svg,13684.3456,-3448.4527)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町大字野間字須賀７１番３,10,20,2,32,1600,60,200,0,0,38000,23000" xlink:title="愛知県　知多郡美浜町大字野間字須賀７１番３" transform="ref(svg,13684.7523,-3476.8684)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町大字野間字大坪３４番２,10,15,2,25,500,60,200,0,0,0,21300" xlink:title="愛知県　知多郡美浜町大字野間字大坪３４番２" transform="ref(svg,13685.6413,-3477.3351)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町大字奥田字海道田１１３番,10,15,2,37,700,60,150,0,80600,39300,23700" xlink:title="愛知県　知多郡美浜町大字奥田字海道田１１３番" transform="ref(svg,13686.0565,-3478.8347)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字内海字長城１７番１０,10,20,2,60,960,60,200,0,115000,42000,30100" xlink:title="愛知県　知多郡南知多町大字内海字長城１７番１０" transform="ref(svg,13686.7506,-3474.2379)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,愛知県　知多郡南知多町大字内海字亥新田１１９番外,10,30,1,90,1000,60,200,0,0,53000,43500" xlink:title="愛知県　知多郡南知多町大字内海字亥新田１１９番外" transform="ref(svg,13686.9634,-3473.9059)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　鳥羽市安楽島町字浦西７５８番,10,15,2,30,3400,70,200,0,30500,23300,13500" xlink:title="三重県　鳥羽市安楽島町字浦西７５８番" transform="ref(svg,13687.1466,-3446.3135)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字内海字上浜田４８番１,10,10,2,40,1100,60,200,0,0,34100,23600" xlink:title="愛知県　知多郡南知多町大字内海字上浜田４８番１" transform="ref(svg,13687.5964,-3473.9165)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,愛知県　知多郡南知多町大字内海字小桝１０４番７,10,20,2,80,2200,80,300,0,196000,47000,31100" xlink:title="愛知県　知多郡南知多町大字内海字小桝１０４番７" transform="ref(svg,13687.7027,-3472.9466)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字山海字荒布越１２０番２,10,20,2,60,4800,60,200,0,0,35200,24400" xlink:title="愛知県　知多郡南知多町大字山海字荒布越１２０番２" transform="ref(svg,13689.8911,-3472.022)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町河和台３丁目５５番,10,20,2,60,1300,60,150,0,0,0,43000" xlink:title="愛知県　知多郡美浜町河和台３丁目５５番" transform="ref(svg,13690.5132,-3477.1373)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字山海字小山８９番,10,15,2,48,5900,60,200,0,0,0,13400" xlink:title="愛知県　知多郡南知多町大字山海字小山８９番" transform="ref(svg,13690.5647,-3472.6678)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町北方５丁目７９番,10,25,2,60,1200,60,150,0,0,0,35000" xlink:title="愛知県　知多郡美浜町北方５丁目７９番" transform="ref(svg,13690.6566,-3478.5045)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町大字古布字善切１９番２,12,10,2,75,3500,60,200,0,0,27500,18500" xlink:title="愛知県　知多郡美浜町大字古布字善切１９番２" transform="ref(svg,13690.7984,-3475.168)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町大字河和字北田面２９番８外,15,10,2,48,280,60,200,72300,98800,51000,40000" xlink:title="愛知県　知多郡美浜町大字河和字北田面２９番８外" transform="ref(svg,13691.0846,-3477.6621)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,愛知県　知多郡美浜町大字河和字北田面１８番５,10,20,0,120,80,80,400,0,0,0,60400" xlink:title="愛知県　知多郡美浜町大字河和字北田面１８番５" transform="ref(svg,13691.1621,-3477.7621)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町大字河和字上前田２３０番３７,10,15,2,35,1600,60,200,0,78400,40100,27700" xlink:title="愛知県　知多郡美浜町大字河和字上前田２３０番３７" transform="ref(svg,13691.2152,-3476.7019)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町大字布土字中平井１３４番３,10,20,2,35,500,60,150,0,69000,36100,23800" xlink:title="愛知県　知多郡美浜町大字布土字中平井１３４番３" transform="ref(svg,13691.8192,-3479.5369)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,愛知県　知多郡美浜町新浦戸２丁目１０番７外,10,12,2,120,1800,60,200,0,0,0,38000" xlink:title="愛知県　知多郡美浜町新浦戸２丁目１０番７外" transform="ref(svg,13691.9465,-3476.3569)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡美浜町新浦戸２丁目８番１４,10,20,2,60,1900,60,150,0,87000,45800,34500" xlink:title="愛知県　知多郡美浜町新浦戸２丁目８番１４" transform="ref(svg,13692.0624,-3476.438)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字豊浜字中町１３番８,10,15,2,60,8700,60,200,0,113000,45800,32400" xlink:title="愛知県　知多郡南知多町大字豊浜字中町１３番８" transform="ref(svg,13693.0818,-3471.2669)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字豊丘字仲島５番,10,10,2,30,6200,60,200,0,57500,26100,15700" xlink:title="愛知県　知多郡南知多町大字豊丘字仲島５番" transform="ref(svg,13693.3735,-3473.393)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,愛知県　知多郡南知多町大字大井字真向２番１,10,15,3,68,9300,80,200,0,0,45500,31800" xlink:title="愛知県　知多郡南知多町大字大井字真向２番１" transform="ref(svg,13696.1519,-3472.0281)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字片名字郷中９２番,10,12,1,23,10000,60,200,0,71000,31100,20000" xlink:title="愛知県　知多郡南知多町大字片名字郷中９２番" transform="ref(svg,13696.6679,-3471.2791)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字片名字新師崎２３番１１,10,15,2,48,11000,60,200,0,0,0,39900" xlink:title="愛知県　知多郡南知多町大字片名字新師崎２３番１１" transform="ref(svg,13696.8693,-3470.8294)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　知多郡南知多町大字師崎字神戸浦１７７番１,10,15,2,60,12000,60,200,0,0,44900,32200" xlink:title="愛知県　知多郡南知多町大字師崎字神戸浦１７７番１" transform="ref(svg,13697.1139,-3470.5271)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　西尾市一色町松木島中切２６番,10,20,2,80,2600,60,200,0,75900,48400,41200" xlink:title="愛知県　西尾市一色町松木島中切２６番" transform="ref(svg,13704.3993,-3479.7083)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,愛知県　西尾市吉良町吉田上浜２４番外,10,12,2,90,260,80,300,0,0,0,50400" xlink:title="愛知県　西尾市吉良町吉田上浜２４番外" transform="ref(svg,13706.9539,-3479.5106)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　西尾市吉良町吉田上浜８６番,12,10,2,84,110,60,200,0,92400,56500,48700" xlink:title="愛知県　西尾市吉良町吉田上浜８６番" transform="ref(svg,13707.0131,-3479.3759)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　西尾市吉良町吉田斉藤久５４番１外,10,10,2,53,770,60,200,0,0,0,47300" xlink:title="愛知県　西尾市吉良町吉田斉藤久５４番１外" transform="ref(svg,13707.1161,-3479.9801)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　田原市小塩津町出口１４番１外,10,10,1,40,21000,60,200,0,0,15600,12400" xlink:title="愛知県　田原市小塩津町出口１４番１外" transform="ref(svg,13709.0577,-3459.377)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　田原市保美町平城１１０番３,10,20,2,48,19000,60,200,31800,37400,31500,28200" xlink:title="愛知県　田原市保美町平城１１０番３" transform="ref(svg,13709.5511,-3462.4803)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　田原市保美町仲屋敷５０番１,15,10,1,50,20000,60,200,0,0,22300,19800" xlink:title="愛知県　田原市保美町仲屋敷５０番１" transform="ref(svg,13709.5936,-3462.1083)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,愛知県　田原市福江町浜田１番１,10,12,2,60,19000,80,200,35400,42000,35000,28800" xlink:title="愛知県　田原市福江町浜田１番１" transform="ref(svg,13709.8445,-3462.7344)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,愛知県　西尾市鳥羽町未新田６７番１,10,20,2,50,450,60,200,0,0,0,41700" xlink:title="愛知県　西尾市鳥羽町未新田６７番１" transform="ref(svg,13710.4533,-3479.0362)" x="0" y="0"/>
+</g>
+</svg>

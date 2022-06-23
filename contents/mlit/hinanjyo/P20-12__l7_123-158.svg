@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13324.21875 -3445.3125 35.15625 35.15625" go:dataArea="13324.21875 -3445.3125 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f94095" content="Ｂ＆Ｇ海洋センター,33205,岡山県笠岡市白石島2364-6,避難所,551,1102,0,0,0,0,0,1" xlink:title="Ｂ＆Ｇ海洋センター" transform="ref(svg,13351.8189,-3440.7347)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94096" content="ふるさとふれあい会館,33205,岡山県笠岡市真鍋島4006-2,避難所,93,185,0,0,0,0,0,1" xlink:title="ふるさとふれあい会館" transform="ref(svg,13357.7163,-3435.5532)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94098" content="笠岡諸島開発総合センター,33205,岡山県笠岡市北木島町3802-43,避難所,184,368,0,0,0,0,0,1" xlink:title="笠岡諸島開発総合センター" transform="ref(svg,13354.5643,-3437.6607)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94103" content="岩坪会館,33205,岡山県笠岡市真鍋島457-1,避難所,38,76,0,0,0,0,0,1" xlink:title="岩坪会館" transform="ref(svg,13358.4841,-3436.1991)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94107" content="高島公民館,33205,岡山県笠岡市高島4764-1,避難所,226,452,0,0,0,0,0,1" xlink:title="高島公民館" transform="ref(svg,13350.6212,-3443.1274)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94122" content="市立真鍋小学校,33205,岡山県笠岡市真鍋島4230,避難所,1587,3173,0,0,0,0,0,1" xlink:title="市立真鍋小学校" transform="ref(svg,13357.8302,-3435.3382)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94123" content="市立真鍋中学校,33205,岡山県笠岡市真鍋島4240,避難所,1052,2103,0,0,0,0,0,1" xlink:title="市立真鍋中学校" transform="ref(svg,13357.796,-3435.3017)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94124" content="市立神島外小学校,33205,岡山県笠岡市神島外浦1667-1,避難所,4529,9058,0,0,0,0,0,1" xlink:title="市立神島外小学校" transform="ref(svg,13351.413,-3445.0167)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94125" content="市立神島外中学校,33205,岡山県笠岡市神島外浦1555,避難所,3968,7936,0,0,0,0,0,1" xlink:title="市立神島外中学校" transform="ref(svg,13351.488,-3445.1112)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94133" content="市立白石小学校,33205,岡山県笠岡市白石島2482-1,避難所,2674,5347,0,0,0,0,0,1" xlink:title="市立白石小学校" transform="ref(svg,13351.9177,-3440.4688)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94134" content="市立白石中学校,33205,岡山県笠岡市白石島2482-1,避難所,3704,7408,0,0,0,0,0,1" xlink:title="市立白石中学校" transform="ref(svg,13351.9213,-3440.498)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94135" content="市立飛島小学校,33205,岡山県笠岡市飛島5922-1,避難所,1288,2575,0,0,0,0,0,1" xlink:title="市立飛島小学校" transform="ref(svg,13350.8855,-3434.2349)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94138" content="市立北木小学校,33205,岡山県笠岡市北木島町7886-13,避難所,6994,13988,0,0,0,0,0,1" xlink:title="市立北木小学校" transform="ref(svg,13352.7353,-3438.7843)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94139" content="市立六島小学校,33205,岡山県笠岡市六島5835,避難所,722,1444,0,0,0,0,0,1" xlink:title="市立六島小学校" transform="ref(svg,13353.6022,-3430.3409)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94142" content="神島外公民館,33205,岡山県笠岡市神島外浦1636-1,避難所,97,193,0,0,0,0,0,1" xlink:title="神島外公民館" transform="ref(svg,13351.3936,-3445.101)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94148" content="白石公民館,33205,岡山県笠岡市白石島604-1,避難所,100,200,0,0,0,0,0,1" xlink:title="白石公民館" transform="ref(svg,13351.7206,-3440.8071)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94149" content="飛島公民館,33205,岡山県笠岡市飛島5923-1,避難所,84,167,0,0,0,0,0,1" xlink:title="飛島公民館" transform="ref(svg,13350.9406,-3434.2361)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94152" content="豊浦ふれあい会館,33205,岡山県笠岡市北木島町9768-1,避難所,75,150,0,0,0,0,0,1" xlink:title="豊浦ふれあい会館" transform="ref(svg,13353.641,-3439.3963)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94154" content="北木西公民館,33205,岡山県笠岡市北木島町7887-46,避難所,94,188,0,0,0,0,0,1" xlink:title="北木西公民館" transform="ref(svg,13352.565,-3438.7917)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94155" content="本浦公会堂,33205,岡山県笠岡市真鍋島4093,避難所,48,96,0,0,0,0,0,1" xlink:title="本浦公会堂" transform="ref(svg,13357.8618,-3435.4522)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94157" content="六島公民館,33205,岡山県笠岡市六島5720,避難所,56,112,0,0,0,0,0,1" xlink:title="六島公民館" transform="ref(svg,13353.6764,-3430.4382)" x="0" y="0"/>
+<use xlink:href="#p0" id="f94158" content="六島北浦文化会館,33205,岡山県笠岡市六島5585-4,避難所,8,15,0,0,0,0,0,1" xlink:title="六島北浦文化会館" transform="ref(svg,13353.7725,-3430.8211)" x="0" y="0"/>
+<use xlink:href="#p0" id="f96897" content="いきいきサロン百島,34205,広島県尾道市百島町1081,避難所,-1,-1,0,0,0,0,0,1" xlink:title="いきいきサロン百島" transform="ref(svg,13327.1983,-3437.1275)" x="0" y="0"/>
+<use xlink:href="#p0" id="f96918" content="浦崎公民館及び人権文化会館,34205,広島県尾道市浦崎町2102-5,避難所,-1,-1,0,0,0,0,0,1" xlink:title="浦崎公民館及び人権文化会館" transform="ref(svg,13327.7034,-3440.4777)" x="0" y="0"/>
+<use xlink:href="#p0" id="f96919" content="浦崎小学校,34205,広島県尾道市浦崎町甲2246,避難所,-1,-1,0,0,0,0,0,1" xlink:title="浦崎小学校" transform="ref(svg,13327.5736,-3440.4393)" x="0" y="0"/>
+<use xlink:href="#p0" id="f96920" content="浦崎中学校,34205,広島県尾道市浦崎町2842,避難所,-1,-1,0,0,0,0,0,1" xlink:title="浦崎中学校" transform="ref(svg,13327.6014,-3440.0616)" x="0" y="0"/>
+<use xlink:href="#p0" id="f96938" content="旧百島中学校,34205,広島県尾道市百島町1440,避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧百島中学校" transform="ref(svg,13327.2542,-3437.6902)" x="0" y="0"/>
+<use xlink:href="#p0" id="f96949" content="戸崎区民会館,34205,広島県尾道市浦崎町1134-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="戸崎区民会館" transform="ref(svg,13325.0534,-3439.924)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97038" content="百島小・中学校,34205,広島県尾道市百島町489,避難所,-1,-1,0,0,0,0,0,1" xlink:title="百島小・中学校" transform="ref(svg,13327.4544,-3437.4813)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97052" content="あみよしコミュニティセンター,34207,広島県福山市内海町1543-5,避難所,84,168,0,0,0,0,0,1" xlink:title="あみよしコミュニティセンター" transform="ref(svg,13328.7496,-3434.987)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97054" content="やまわり会館,34207,広島県福山市内海町1102-1,避難所,205,410,0,0,0,0,0,1" xlink:title="やまわり会館" transform="ref(svg,13328.7199,-3435.1756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97078" content="沖集会所,34207,広島県福山市内海町イ349-1,避難所,69,137,0,0,0,0,0,1" xlink:title="沖集会所" transform="ref(svg,13331.9833,-3435.3281)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97080" content="下八日谷集会所,34207,広島県福山市沼隈町中山南577-1,避難所,68,136,0,0,0,0,0,1" xlink:title="下八日谷集会所" transform="ref(svg,13332.6963,-3442.0563)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97087" content="釜谷集会所,34207,広島県福山市内海町イ2653,避難所,62,123,0,0,0,0,0,1" xlink:title="釜谷集会所" transform="ref(svg,13332.0506,-3436.6772)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97096" content="金江公民館,34207,広島県福山市金江町藁江184-2,避難所,127,253,0,0,0,0,0,1" xlink:title="金江公民館" transform="ref(svg,13328.2404,-3443.3354)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97097" content="金江小学校,34207,広島県福山市金江町金見3552-1,避難所,1056,2111,0,0,0,0,0,1" xlink:title="金江小学校" transform="ref(svg,13328.304,-3443.2918)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97099" content="熊野公民館,34207,広島県福山市熊野町乙1097-7,避難所,181,361,0,0,0,0,0,1" xlink:title="熊野公民館" transform="ref(svg,13333.6291,-3443.5218)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97100" content="熊野小学校,34207,広島県福山市熊野町乙1132,避難所,1048,2096,0,0,0,0,0,1" xlink:title="熊野小学校" transform="ref(svg,13333.4896,-3443.4918)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97106" content="元金江コミュニティ館,34207,広島県福山市金江町藁江720,避難所,67,133,0,0,0,0,0,1" xlink:title="元金江コミュニティ館" transform="ref(svg,13328.5724,-3443.5982)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97107" content="元熊野コミュニティ館,34207,広島県福山市熊野町甲1900,避難所,68,136,0,0,0,0,0,1" xlink:title="元熊野コミュニティ館" transform="ref(svg,13334.0635,-3442.1673)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97121" content="向丘中学校,34207,広島県福山市水呑向丘107,避難所,1804,3608,0,0,0,0,0,1" xlink:title="向丘中学校" transform="ref(svg,13338.1448,-3443.9834)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97128" content="広島県立沼隅特別支援学校,34207,広島県福山市沼隈町上山南736-3,避難所,2469,4938,0,0,0,0,0,1" xlink:title="広島県立沼隅特別支援学校" transform="ref(svg,13332.1198,-3442.4222)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97129" content="広島県立沼南高等学校,34207,広島県福山市沼隈町下山南4,避難所,3375,6748,0,0,0,0,0,1" xlink:title="広島県立沼南高等学校" transform="ref(svg,13331.0241,-3441.1891)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97137" content="広島県立福山商業高等学校,34207,広島県福山市水呑町3535,避難所,2643,5286,0,0,0,0,0,1" xlink:title="広島県立福山商業高等学校" transform="ref(svg,13338.9476,-3444.0807)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97143" content="高島公民館,34207,広島県福山市田尻町2333-10,避難所,168,336,0,0,0,0,0,1" xlink:title="高島公民館" transform="ref(svg,13338.7921,-3442.2516)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97144" content="高島小学校,34207,広島県福山市田尻町2248,避難所,896,1792,0,0,0,0,0,1" xlink:title="高島小学校" transform="ref(svg,13338.6948,-3442.4254)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97145" content="今津公民館,34207,広島県福山市今津町6-2-38,避難所,248,495,0,0,0,0,0,1" xlink:title="今津公民館" transform="ref(svg,13324.8418,-3444.9672)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97150" content="桜集会所,34207,広島県福山市沼隈町能登原1973-1,避難所,80,159,0,0,0,0,0,1" xlink:title="桜集会所" transform="ref(svg,13333.8733,-3438.2734)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97156" content="山南小学校,34207,広島県福山市沼隈町中山南甲1254,避難所,1736,3471,0,0,0,0,0,1" xlink:title="山南小学校" transform="ref(svg,13332.3375,-3441.6751)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97162" content="至誠中学校,34207,広島県福山市沼隈町上山南484-2,避難所,1305,2609,0,0,0,0,0,1" xlink:title="至誠中学校" transform="ref(svg,13332.0786,-3442.8816)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97163" content="寺山集会所,34207,広島県福山市内海町イ1447-3,避難所,64,128,0,0,0,0,0,1" xlink:title="寺山集会所" transform="ref(svg,13333.4406,-3436.7486)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97173" content="松永コミュニティセンター,34207,広島県福山市松永町4-14-1,避難所,604,1208,0,0,0,0,0,1" xlink:title="松永コミュニティセンター" transform="ref(svg,13325.9557,-3444.7616)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97174" content="松永公民館,34207,広島県福山市松永町3-1-29,避難所,201,402,0,0,0,0,0,1" xlink:title="松永公民館" transform="ref(svg,13325.699,-3444.9647)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97175" content="松永小学校,34207,広島県福山市松永町6-7-11-8,避難所,1492,2983,0,0,0,0,0,1" xlink:title="松永小学校" transform="ref(svg,13325.5931,-3444.4222)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97176" content="松永中学校,34207,広島県福山市松永町2-24-16,避難所,1895,3790,0,0,0,0,0,1" xlink:title="松永中学校" transform="ref(svg,13324.7209,-3444.5914)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97177" content="沼隅サンパル,34207,広島県福山市沼隈町草深1890-4,避難所,715,1429,0,0,0,0,0,1" xlink:title="沼隅サンパル" transform="ref(svg,13331.9467,-3439.0038)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97178" content="沼隅体育センター,34207,広島県福山市沼隈町中山南18,避難所,191,382,0,0,0,0,0,1" xlink:title="沼隅体育センター" transform="ref(svg,13331.2955,-3441.3554)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97179" content="沼隅体育館,34207,広島県福山市沼隈町下山南1235,避難所,900,1801,0,0,0,0,0,1" xlink:title="沼隅体育館" transform="ref(svg,13330.6565,-3439.8731)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97187" content="常石小学校,34207,広島県福山市沼隈町常石984-1,避難所,842,1683,0,0,0,0,0,1" xlink:title="常石小学校" transform="ref(svg,13329.8037,-3438.7024)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97208" content="水呑公民館,34207,広島県福山市水呑町1562-1,避難所,226,452,0,0,0,0,0,1" xlink:title="水呑公民館" transform="ref(svg,13337.9152,-3444.6379)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97209" content="水呑小学校,34207,広島県福山市水呑町1919,避難所,1462,2924,0,0,0,0,0,1" xlink:title="水呑小学校" transform="ref(svg,13337.8615,-3444.55)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97210" content="菅田ふれあいプラザ,34207,広島県福山市沼隈町上山南550,避難所,89,177,0,0,0,0,0,1" xlink:title="菅田ふれあいプラザ" transform="ref(svg,13330.9846,-3443.6045)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97211" content="菅野集会所,34207,広島県福山市沼隈町下山南1736-1,避難所,69,137,0,0,0,0,0,1" xlink:title="菅野集会所" transform="ref(svg,13332.4529,-3440.3336)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97215" content="清神会館,34207,広島県福山市沼隈町中山南485,避難所,245,488,0,0,0,0,0,1" xlink:title="清神会館" transform="ref(svg,13332.3491,-3441.986)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97216" content="精華中学校,34207,広島県福山市金江町金見1921,避難所,1664,3327,0,0,0,0,0,1" xlink:title="精華中学校" transform="ref(svg,13328.3845,-3442.7529)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97221" content="西組集会所,34207,広島県福山市沼隈町常石702-1,避難所,88,175,0,0,0,0,0,1" xlink:title="西組集会所" transform="ref(svg,13329.2151,-3438.7802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97227" content="千年公民館,34207,広島県福山市沼隈町草深1889-6,避難所,81,161,0,0,0,0,0,1" xlink:title="千年公民館" transform="ref(svg,13331.8717,-3439.016)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97228" content="千年小学校,34207,広島県福山市沼隈町草深432-2,避難所,2193,4386,0,0,0,0,0,1" xlink:title="千年小学校" transform="ref(svg,13332.1618,-3439.2015)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97229" content="千年中学校,34207,広島県福山市沼隈町草深2058-2,避難所,2229,4457,0,0,0,0,0,1" xlink:title="千年中学校" transform="ref(svg,13332.0544,-3438.8196)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97237" content="走島公民館,34207,広島県福山市走島町43-3,避難所,100,200,0,0,0,0,0,1" xlink:title="走島公民館" transform="ref(svg,13343.386,-3434.6009)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97238" content="走島小学校,34207,広島県福山市走島町49,避難所,743,1486,0,0,0,0,0,1" xlink:title="走島小学校" transform="ref(svg,13343.4279,-3434.5293)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97239" content="走島中学校,34207,広島県福山市走島町58,避難所,743,1486,0,0,0,0,0,1" xlink:title="走島中学校" transform="ref(svg,13343.4724,-3434.5654)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97252" content="竹ヶ端運動公園,34207,広島県福山市水呑町4748,広域避難場所,-1,163000,0,0,0,0,0,1" xlink:title="竹ヶ端運動公園" transform="ref(svg,13339.2922,-3444.3451)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97260" content="中組集会所,34207,広島県福山市沼隈町常石271,避難所,34,68,0,0,0,0,0,1" xlink:title="中組集会所" transform="ref(svg,13329.4386,-3438.9328)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97276" content="藤江公民館,34207,広島県福山市藤江町2720-1,避難所,183,366,0,0,0,0,0,1" xlink:title="藤江公民館" transform="ref(svg,13327.95,-3441.9189)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97277" content="藤江小学校,34207,広島県福山市藤江町2894,避難所,1091,2182,0,0,0,0,0,1" xlink:title="藤江小学校" transform="ref(svg,13328.1207,-3442.1975)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97282" content="内浦公民館,34207,広島県福山市内海町イ1973-3,避難所,183,366,0,0,0,0,0,1" xlink:title="内浦公民館" transform="ref(svg,13332.3571,-3435.9833)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97283" content="内浦小学校,34207,広島県福山市内海町イ1973,避難所,799,1597,0,0,0,0,0,1" xlink:title="内浦小学校" transform="ref(svg,13332.4403,-3435.9815)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97284" content="内海ふれあいホール,34207,広島県福山市内海町ロ2424-8,避難所,398,796,0,0,0,0,0,1" xlink:title="内海ふれあいホール" transform="ref(svg,13329.1738,-3435.7891)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97285" content="内海公民館,34207,広島県福山市内海町460,避難所,490,980,0,0,0,0,0,1" xlink:title="内海公民館" transform="ref(svg,13328.2763,-3435.4591)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97286" content="内海高齢者コミュニティセンター,34207,広島県福山市内海町ロ2822-1,避難所,327,654,0,0,0,0,0,1" xlink:title="内海高齢者コミュニティセンター" transform="ref(svg,13329.4868,-3435.6816)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97287" content="内海小学校,34207,広島県福山市内海町73,避難所,857,1714,0,0,0,0,0,1" xlink:title="内海小学校" transform="ref(svg,13328.2854,-3435.5387)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97288" content="内海中学校,34207,広島県福山市内海町ロ933,避難所,1164,2328,0,0,0,0,0,1" xlink:title="内海中学校" transform="ref(svg,13330.5117,-3436.8624)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97291" content="南地区コミュニティセンター,34207,広島県福山市内海町ロ3326-1,避難所,75,150,0,0,0,0,0,1" xlink:title="南地区コミュニティセンター" transform="ref(svg,13329.5234,-3435.1305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97294" content="能登原小学校,34207,広島県福山市沼隈町能登原1141,避難所,1045,2089,0,0,0,0,0,1" xlink:title="能登原小学校" transform="ref(svg,13335.0424,-3437.674)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97296" content="箱崎集会所,34207,広島県福山市内海町イ1309,避難所,75,149,0,0,0,0,0,1" xlink:title="箱崎集会所" transform="ref(svg,13333.6341,-3435.712)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97298" content="浜組集会所,34207,広島県福山市沼隈町草深1533-3,避難所,60,120,0,0,0,0,0,1" xlink:title="浜組集会所" transform="ref(svg,13332.2932,-3439.1348)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97317" content="箕島公民館,34207,広島県福山市箕島町329,避難所,198,395,0,0,0,0,0,1" xlink:title="箕島公民館" transform="ref(svg,13340.2933,-3444.9662)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97318" content="箕島小学校,34207,広島県福山市箕島町325,避難所,720,1439,0,0,0,0,0,1" xlink:title="箕島小学校" transform="ref(svg,13340.2225,-3444.8945)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97325" content="柳津ふれあいプラザ,34207,広島県福山市柳津町2-11-12,避難所,132,264,0,0,0,0,0,1" xlink:title="柳津ふれあいプラザ" transform="ref(svg,13326.5467,-3443.9751)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97326" content="柳津公民館,34207,広島県福山市柳津町5-7-34,避難所,151,302,0,0,0,0,0,1" xlink:title="柳津公民館" transform="ref(svg,13326.8209,-3443.7959)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97327" content="柳津小学校,34207,広島県福山市柳津町5-2-25,避難所,1079,2157,0,0,0,0,0,1" xlink:title="柳津小学校" transform="ref(svg,13326.8069,-3443.725)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97328" content="柳津東会館,34207,広島県福山市柳津町629-1,避難所,97,194,0,0,0,0,0,1" xlink:title="柳津東会館" transform="ref(svg,13327.6353,-3443.6758)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97334" content="林崎集会所,34207,広島県福山市沼隈町草深342-1,避難所,93,187,0,0,0,0,0,1" xlink:title="林崎集会所" transform="ref(svg,13331.967,-3439.5825)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97335" content="鞆コミュニティセンター,34207,広島県福山市鞆町後地1208,避難所,493,985,0,0,0,0,0,1" xlink:title="鞆コミュニティセンター" transform="ref(svg,13338.0216,-3438.6354)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97336" content="鞆公民館,34207,広島県福山市鞆町鞆423-1,避難所,294,588,0,0,0,0,0,1" xlink:title="鞆公民館" transform="ref(svg,13338.425,-3438.4551)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97337" content="鞆小学校,34207,広島県福山市鞆町後地1240-1,避難所,1533,3065,0,0,0,0,0,1" xlink:title="鞆小学校" transform="ref(svg,13337.8754,-3438.5148)" x="0" y="0"/>
+<use xlink:href="#p0" id="f97338" content="鞆中学校,34207,広島県福山市鞆町後地371-1,避難所,1286,2571,0,0,0,0,0,1" xlink:title="鞆中学校" transform="ref(svg,13337.5372,-3439.423)" x="0" y="0"/>
+<use xlink:href="#p0" id="f102966" content="伊吹開発総合センター,37205,香川県観音寺市伊吹町,避難所,40,-1,0,0,0,0,0,1" xlink:title="伊吹開発総合センター" transform="ref(svg,13353.3035,-3412.8024)" x="0" y="0"/>
+<use xlink:href="#p0" id="f102967" content="伊吹公民館,37205,香川県観音寺市伊吹町263番地,避難所,60,-1,0,0,0,0,0,1" xlink:title="伊吹公民館" transform="ref(svg,13353.4729,-3412.8282)" x="0" y="0"/>
+<use xlink:href="#p0" id="f102968" content="伊吹中学校・小学校,37205,香川県観音寺市伊吹町,避難所,860,-1,0,0,0,0,0,1" xlink:title="伊吹中学校・小学校" transform="ref(svg,13353.9387,-3412.8819)" x="0" y="0"/>
+<use xlink:href="#p0" id="f102969" content="伊吹保育所,37205,香川県観音寺市伊吹町486-1,避難所,110,-1,0,0,0,0,0,1" xlink:title="伊吹保育所" transform="ref(svg,13353.7787,-3412.824)" x="0" y="0"/>
+<use xlink:href="#p0" id="f102983" content="旧伊吹小学校,37205,香川県観音寺市伊吹町309,避難所,780,-1,0,0,0,0,0,1" xlink:title="旧伊吹小学校" transform="ref(svg,13353.4795,-3412.7175)" x="0" y="0"/>
+<use xlink:href="#p0" id="f103162" content="箱浦小学校,37208,香川県三豊市詫間町箱551-1,避難所,259,-1,0,0,0,0,0,1" xlink:title="箱浦小学校" transform="ref(svg,13358.7076,-3425.5405)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105875" content="亀井八幡神社,38356,愛媛県越智郡上島町魚島1番耕地,一時避難場所,-1,-1,1,1,1,0,1,0" xlink:title="亀井八幡神社" transform="ref(svg,13332.0886,-3417.6481)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105890" content="魚島開発センター（２階～５階）,38356,愛媛県越智郡上島町魚島1番耕地1362番地第1,収容施設、一時避難場所,-1,-1,1,1,1,0,1,0" xlink:title="魚島開発センター（２階～５階）" transform="ref(svg,13332.2001,-3417.8482)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105891" content="魚島小、中学校,38356,愛媛県越智郡上島町魚島1番耕地819番地,収容施設、一時避難場所,-1,-1,1,1,1,0,1,0" xlink:title="魚島小、中学校" transform="ref(svg,13331.9868,-3417.7283)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105892" content="緊急避難用地,38356,愛媛県越智郡上島町,一時避難場所,-1,-1,1,0,0,0,1,0" xlink:title="緊急避難用地" transform="ref(svg,13332.0202,-3417.8953)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105899" content="高井神公民館,38356,愛媛県越智郡上島町魚島二番耕地436,収容施設,-1,-1,0,1,1,0,0,0" xlink:title="高井神公民館" transform="ref(svg,13327.3784,-3419.1953)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105900" content="高井神集会所,38356,愛媛県越智郡上島町魚島2番耕地130番地,一時避難場所,-1,-1,0,1,1,0,1,0" xlink:title="高井神集会所" transform="ref(svg,13327.3126,-3419.196)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105901" content="高井神小学校,38356,愛媛県越智郡上島町魚島二番耕地151,収容施設、一時避難場所,-1,-1,1,1,1,0,1,0" xlink:title="高井神小学校" transform="ref(svg,13327.2117,-3419.2038)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105933" content="西集会所,38356,愛媛県越智郡上島町岩城1480番地,収容施設,-1,-1,1,0,1,0,1,0" xlink:title="西集会所" transform="ref(svg,13332.0988,-3417.8851)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105967" content="道福寺,38356,愛媛県越智郡上島町,一時避難場所,-1,-1,0,1,1,0,0,0" xlink:title="道福寺" transform="ref(svg,13332.1141,-3417.7977)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105973" content="保健福祉センター,38356,愛媛県越智郡上島町,収容施設、一時避難場所,-1,-1,1,0,0,0,1,0" xlink:title="保健福祉センター" transform="ref(svg,13331.937,-3417.9363)" x="0" y="0"/>
+<use xlink:href="#p0" id="f105974" content="豊島コミュティセンター,38356,愛媛県越智郡上島町,一時避難場所,-1,-1,1,1,1,0,1,0" xlink:title="豊島コミュティセンター" transform="ref(svg,13325.7832,-3423.1203)" x="0" y="0"/>
+</g>
+</svg>

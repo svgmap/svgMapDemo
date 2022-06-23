@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14091.064453125 -3854.00390625 1.0986328125 1.0986328125" go:dataArea="14091.064453125 -3854.00390625 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,大崎市,高倉線,4.0,4.0,0.0," xlink:title="3" d="M14091.5723,-3854.0039L14091.5696,-3853.9707L14091.567,-3853.9513L14091.551,-3853.9294L14091.5309,-3853.9126L14091.5216,-3853.9122L14091.5094,-3853.9126L14091.485,-3853.9149L14091.4073,-3853.9215L14091.398,-3853.9198L14091.3863,-3853.8181L14091.3739,-3853.7127L14091.3618,-3853.6074L14091.3504,-3853.5069L14091.3489,-3853.4919L14091.3349,-3853.4017L14091.3199,-3853.3003L14091.3059,-3853.2013L14091.3037,-3853.1906L14091.2973,-3853.1551L14091.2894,-3853.1241L14091.2784,-3853.0921L14091.2686,-3853.0684L14091.2586,-3853.0447L14091.2177,-3852.9619L14091.1891,-3852.9053"/>
+</g>
+</svg>

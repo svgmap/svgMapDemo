@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14114.68505859375 -3969.90966796875 0.54931640625 0.54931640625" go:dataArea="14114.68505859375 -3969.90966796875 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,岩手県交通（株）,314,25.0,16.0,16.0," xlink:title="1" d="M14114.8873,-3969.9097L14114.8876,-3969.8841L14114.8817,-3969.8549L14114.8974,-3969.8535L14114.8992,-3969.85L14114.9189,-3969.7936L14114.9212,-3969.7902L14114.9794,-3969.7141L14114.9853,-3969.7101L14115.0224,-3969.6645L14115.0283,-3969.6589L14115.0531,-3969.6718L14115.1616,-3969.7226L14115.2343,-3969.7558L14115.2344,-3969.7559"/>
+<path content="1,岩手県交通（株）,盛岡大船渡線,4.0,4.0,4.0," xlink:title="1" d="M14114.9196,-3969.3604L14114.8563,-3969.3857L14114.7929,-3969.4111L14114.7382,-3969.4331L14114.7003,-3969.4483L14114.6851,-3969.4553"/>
+<path content="1,岩手県交通（株）,盛岡釜石線,2.0,2.0,2.0," xlink:title="1" d="M14114.9196,-3969.3604L14114.8563,-3969.3857L14114.7929,-3969.4111L14114.7382,-3969.4331L14114.7003,-3969.4483L14114.6851,-3969.4553"/>
+<path content="1,（株）ヒノヤタクシー,フリーダム（日詰号）,1.0,1.0,0.0," xlink:title="1" d="M14115.2344,-3969.6299L14115.2323,-3969.6324L14115.2294,-3969.6347L14115.1616,-3969.7226L14115.0531,-3969.6718L14115.0283,-3969.6589L14115.0224,-3969.6645L14114.9853,-3969.7101L14114.9794,-3969.7141L14114.9212,-3969.7902L14114.9189,-3969.7936L14114.8992,-3969.85L14114.8974,-3969.8535L14114.8817,-3969.8549L14114.8876,-3969.8841L14114.8873,-3969.9097"/>
+</g>
+</svg>

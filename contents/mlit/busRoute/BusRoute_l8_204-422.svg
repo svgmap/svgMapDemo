@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13042.96875 -3041.015625 8.7890625 8.7890625" go:dataArea="13042.96875 -3041.015625 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,種子島・屋久島交通（株）,永田～大川の滝,14.5,13.5,13.5," xlink:title="1" d="M13042.9688,-3040.4949L13042.9994,-3040.4993L13043.0735,-3040.5061L13043.0881,-3040.5062L13043.1034,-3040.5066L13043.1177,-3040.5077L13043.1314,-3040.5106L13043.149,-3040.5162L13043.1568,-3040.5201L13043.1704,-3040.528L13043.255,-3040.5901L13043.3025,-3040.6273L13043.4092,-3040.7079L13043.4306,-3040.7197L13043.4397,-3040.7231L13043.4599,-3040.726L13043.517,-3040.7384L13043.5418,-3040.751L13043.5672,-3040.7745L13043.5782,-3040.8092L13043.5844,-3040.8672L13043.5856,-3040.8967L13043.5906,-3040.9131L13043.6122,-3040.9469L13043.663,-3041.0073L13043.6697,-3041.0156"/>
+</g>
+</svg>

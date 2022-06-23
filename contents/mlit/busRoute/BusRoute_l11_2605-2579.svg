@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14111.9384765625 -3916.6259765625 1.0986328125 1.0986328125" go:dataArea="14111.9384765625 -3916.6259765625 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,奥州市,佐倉河線,4.0,4.0,0.0," xlink:title="3" d="M14113.0371,-3915.8543L14113.0331,-3915.8593L14113.0204,-3915.8791L14113.0146,-3915.8949L14113.0102,-3915.9213L14113.0102,-3915.9714L14113.0117,-3916.0002L14113.0098,-3916.0233L14113.0254,-3916.2243L14113.0254,-3916.226L14113.0287,-3916.3055L14113.0008,-3916.3696L14112.9777,-3916.4304L14112.8485,-3916.4153L14112.7248,-3916.4039L14112.5316,-3916.3859L14112.3642,-3916.3718L14112.1503,-3916.3563L14112.1257,-3916.3566L14112.1228,-3916.3791L14112.1204,-3916.413L14112.112,-3916.4473L14112.1092,-3916.4736L14112.096,-3916.5571L14112.0957,-3916.5596L14112.0863,-3916.626"/>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="12937.5 -2812.5 562.5 562.5" go:dataArea="12937.5 -2812.5 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f13739" content="南大東村国民運動場,3,災害応急対策計画（地震津波変）,47,南大東村字南163-3,南大東村教育長,8000m2" xlink:title="南大東村国民運動場" transform="ref(svg,13123.0884,-2582.8373)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13740" content="北大東小中学校,3,臨時ヘリポート,47,島尻郡北大東村中野181,北大東村小中学校校長,8000m2" xlink:title="北大東小中学校" transform="ref(svg,13129.7339,-2594.575)" x="0" y="0"/>
+</g>
+</svg>

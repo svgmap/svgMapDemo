@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14062.5 -3621.09375 17.578125 17.578125" go:dataArea="14062.5 -3621.09375 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,鹿嶋市,湖岸海岸線,7.0,7.0,0.0," xlink:title="3" d="M14062.5,-3604.466L14062.5083,-3604.4549L14062.5169,-3604.4434L14062.5655,-3604.3842L14062.5749,-3604.3737L14062.6168,-3604.3268L14062.6466,-3604.2907L14062.6536,-3604.2817L14062.6688,-3604.2558L14062.6762,-3604.2404L14062.691,-3604.2095L14062.6924,-3604.2056L14062.701,-3604.1841L14062.704,-3604.1739L14062.7174,-3604.1166L14062.7229,-3604.0963L14062.7381,-3604.0558L14062.7438,-3604.0399L14062.7602,-3603.9979L14062.784,-3603.943L14062.802,-3603.9036L14062.8277,-3603.8585L14062.8516,-3603.8171L14062.8825,-3603.7638L14062.8892,-3603.7504L14062.8977,-3603.7334L14062.9116,-3603.7029L14062.9387,-3603.6319L14062.9602,-3603.5728L14062.965,-3603.5575L14062.9806,-3603.5156"/>
+</g>
+</svg>

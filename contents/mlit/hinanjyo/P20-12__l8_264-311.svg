@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13640.625 -3533.203125 17.578125 17.578125" go:dataArea="13640.625 -3533.203125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f58497" content="えぼしふれあい会館,21202,岐阜県大垣市上石津町下山2860,地震時指定避難場所,-1,-1,1,0,0,0,0,0" xlink:title="えぼしふれあい会館" transform="ref(svg,13646.2517,-3524.8778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58520" content="一之瀬小学校,21202,岐阜県大垣市上石津町一之瀬1590,地震時指定避難場所,-1,-1,1,0,0,0,0,0" xlink:title="一之瀬小学校" transform="ref(svg,13648.2097,-3531.6441)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58540" content="時小学校,21202,岐阜県大垣市上石津町堂之上875,地震時指定避難場所,-1,-1,1,0,0,0,0,0" xlink:title="時小学校" transform="ref(svg,13645.8419,-3524.6917)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58543" content="上石津中学校,21202,岐阜県大垣市上石津一之瀬100,地震時指定避難場所,-1,-1,1,0,0,0,0,0" xlink:title="上石津中学校" transform="ref(svg,13647.9021,-3531.1233)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58544" content="上石津中学校第２体育館,21202,岐阜県大垣市上石津町一之瀬63-1,地震時指定避難場所,-1,-1,1,0,0,0,0,0" xlink:title="上石津中学校第２体育館" transform="ref(svg,13648.0028,-3531.1148)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58573" content="多良小学校,21202,岐阜県大垣市上石津町宮38,地震時指定避難場所,-1,-1,1,0,0,0,0,0" xlink:title="多良小学校" transform="ref(svg,13646.291,-3528.1418)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58609" content="農村環境改善サブセンタ,21202,岐阜県大垣市上石津町下山2864-2,地震時指定避難場所,-1,-1,1,0,0,0,0,0" xlink:title="農村環境改善サブセンタ" transform="ref(svg,13646.2762,-3524.8875)" x="0" y="0"/>
+<use xlink:href="#p0" id="f58610" content="農村環境改善センター,21202,岐阜県大垣市上石津町上原1195,地震時指定避難場所,-1,-1,1,0,0,0,0,0" xlink:title="農村環境改善センター" transform="ref(svg,13647.1951,-3528.2533)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61036" content="みかげの森「プラザしもたど」,21221,岐阜県海津市南濃町津屋2837-90,避難所,645,-1,1,0,1,0,0,0" xlink:title="みかげの森「プラザしもたど」" transform="ref(svg,13656.5401,-3524.8413)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61037" content="下多度小学校,21221,岐阜県海津市南濃町津屋1869,避難所,1861,-1,1,0,1,0,0,0" xlink:title="下多度小学校" transform="ref(svg,13656.4578,-3525.6823)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61055" content="南濃コミュニティセンター,21221,岐阜県海津市南濃町津屋2837-263,避難所,247,-1,1,0,1,0,0,0" xlink:title="南濃コミュニティセンター" transform="ref(svg,13656.4995,-3524.8333)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61066" content="養南グラウンド,21221,岐阜県海津市南濃町津屋1935-1,避難所,-1,-1,1,0,0,0,0,0" xlink:title="養南グラウンド" transform="ref(svg,13656.2029,-3525.7357)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61147" content="こばと保育園,21341,岐阜県養老郡養老町滝見町170-87,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="こばと保育園" transform="ref(svg,13654.7106,-3531.3342)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61148" content="スポーツプラザ養老,21341,岐阜県養老郡養老町高田2862,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="スポーツプラザ養老" transform="ref(svg,13657.8307,-3529.909)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61149" content="ふれあいセンター養老,21341,岐阜県養老郡養老町石畑1560-5,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ふれあいセンター養老" transform="ref(svg,13654.8758,-3529.5638)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61154" content="広幡公民館（自治会館）,21341,岐阜県養老郡養老町口ヶ島19-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="広幡公民館（自治会館）" transform="ref(svg,13656.9218,-3529.7854)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61155" content="広幡小学校,21341,岐阜県養老郡養老町口ヶ島196-2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="広幡小学校" transform="ref(svg,13657.1548,-3529.4846)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61156" content="広幡保育園,21341,岐阜県養老郡養老町口ヶ島191-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="広幡保育園" transform="ref(svg,13657.1687,-3529.5401)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61157" content="高田中学校,21341,岐阜県養老郡養老町高田3879-4,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="高田中学校" transform="ref(svg,13655.4078,-3531.1343)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61158" content="国際学習会館,21341,岐阜県養老郡養老町高田409-4,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="国際学習会館" transform="ref(svg,13655.9955,-3530.7439)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61159" content="山口会館,21341,岐阜県養老郡養老町高田18-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="山口会館" transform="ref(svg,13655.685,-3530.7947)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61160" content="産業文化会館,21341,岐阜県養老郡養老町高田3879-3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="産業文化会館" transform="ref(svg,13655.3169,-3531.0591)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61163" content="小畑公民館（自治会館）,21341,岐阜県養老郡養老町飯田366-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="小畑公民館（自治会館）" transform="ref(svg,13657.0676,-3532.433)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61164" content="上多度公民館,21341,岐阜県養老郡養老町小倉417,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上多度公民館" transform="ref(svg,13656.3842,-3527.4033)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61165" content="上多度自治会館,21341,岐阜県養老郡養老町小倉199-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上多度自治会館" transform="ref(svg,13656.5351,-3527.6464)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61166" content="上多度小学校,21341,岐阜県養老郡養老町小倉415,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上多度小学校" transform="ref(svg,13656.3495,-3527.4626)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61167" content="上多度幼稚園,21341,岐阜県養老郡養老町小倉419-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上多度幼稚園" transform="ref(svg,13656.3356,-3527.4182)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61169" content="総合体育館,21341,岐阜県養老郡養老町五日市400,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="総合体育館" transform="ref(svg,13654.6354,-3531.1018)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61170" content="多芸公民館（自治会館）,21341,岐阜県養老郡養老町直江396,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多芸公民館（自治会館）" transform="ref(svg,13656.2335,-3531.8629)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61172" content="大垣養老高校養老校舎,21341,岐阜県養老郡養老町押越17-6,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大垣養老高校養老校舎" transform="ref(svg,13655.0039,-3531.1392)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61173" content="地域福祉センター,21341,岐阜県養老郡養老町若宮353,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="地域福祉センター" transform="ref(svg,13655.6109,-3526.9725)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61178" content="中央公園,21341,岐阜県養老郡養老町,避難広場,-1,-1,0,0,0,0,0,1" xlink:title="中央公園" transform="ref(svg,13654.7292,-3531.1638)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61179" content="中央公民館,21341,岐阜県養老郡養老町石畑491,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中央公民館" transform="ref(svg,13654.9431,-3530.4747)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61182" content="日吉公民館（自治会館）,21341,岐阜県養老郡養老町宇田66-2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="日吉公民館（自治会館）" transform="ref(svg,13655.2675,-3532.5111)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61184" content="日吉小学校,21341,岐阜県養老郡養老町中138,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="日吉小学校" transform="ref(svg,13655.3181,-3532.5772)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61185" content="日吉保育園,21341,岐阜県養老郡養老町宇田73,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="日吉保育園" transform="ref(svg,13655.2383,-3532.6452)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61186" content="日吉幼稚園,21341,岐阜県養老郡養老町宇田66,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="日吉幼稚園" transform="ref(svg,13655.2717,-3532.5313)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61187" content="福祉センター,21341,岐阜県養老郡養老町三神町345,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="福祉センター" transform="ref(svg,13655.0722,-3531.4906)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61188" content="保健センター,21341,岐阜県養老郡養老町石畑523,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="保健センター" transform="ref(svg,13655.0538,-3530.4721)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61189" content="養北小学校,21341,岐阜県養老郡養老町飯田265,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="養北小学校" transform="ref(svg,13657.1392,-3532.3646)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61190" content="養北保育園,21341,岐阜県養老郡養老町飯田790,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="養北保育園" transform="ref(svg,13657.0715,-3532.3203)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61191" content="養北幼稚園,21341,岐阜県養老郡養老町飯田933-2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="養北幼稚園" transform="ref(svg,13657.3567,-3532.3834)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61192" content="養老公民館（自治会館）,21341,岐阜県養老郡養老町竜泉寺1125,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="養老公民館（自治会館）" transform="ref(svg,13654.4339,-3530.8958)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61193" content="養老小学校,21341,岐阜県養老郡養老町石畑660,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="養老小学校" transform="ref(svg,13655.0939,-3530.3954)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61194" content="養老町民会館,21341,岐阜県養老郡養老町石畑483-2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="養老町民会館" transform="ref(svg,13654.8859,-3530.513)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61195" content="養老幼稚園,21341,岐阜県養老郡養老町高田231-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="養老幼稚園" transform="ref(svg,13655.6189,-3531.0676)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61196" content="老人福祉センター,21341,岐阜県養老郡養老町高田79-2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="老人福祉センター" transform="ref(svg,13655.8927,-3530.7882)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61247" content="貝戸集落構造改善センター,21362,岐阜県不破郡関ヶ原町今須1045-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="貝戸集落構造改善センター" transform="ref(svg,13641.988,-3532.5808)" x="0" y="0"/>
+<use xlink:href="#p0" id="f61260" content="旧小林分校グランド,21362,岐阜県不破郡関ヶ原町今須新明,広域避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧小林分校グランド" transform="ref(svg,13641.8264,-3533.1366)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71553" content="十社小学校,24214,三重県いなべ市北勢町畑毛634,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="十社小学校" transform="ref(svg,13652.4867,-3518.3081)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71557" content="中里小学校,24214,三重県いなべ市藤原町上相場828,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中里小学校" transform="ref(svg,13649.3279,-3519.2932)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71558" content="東藤原小学校,24214,三重県いなべ市藤原町石川989,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="東藤原小学校" transform="ref(svg,13649.8259,-3515.804)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71559" content="藤原中学校,24214,三重県いなべ市藤原町市場491,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="藤原中学校" transform="ref(svg,13649.1717,-3517.2492)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71560" content="藤原文化センター,24214,三重県いなべ市藤原町市場493-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="藤原文化センター" transform="ref(svg,13648.6855,-3517.4412)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71561" content="白瀬小学校,24214,三重県いなべ市藤原町本郷303,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="白瀬小学校" transform="ref(svg,13647.8388,-3518.4903)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71563" content="立田小学校,24214,三重県いなべ市藤原町古田1618,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="立田小学校" transform="ref(svg,13645.8077,-3522.0402)" x="0" y="0"/>
+</g>
+</svg>

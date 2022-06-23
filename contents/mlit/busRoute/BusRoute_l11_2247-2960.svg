@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13718.6279296875 -3498.046875 1.0986328125 1.0986328125" go:dataArea="13718.6279296875 -3498.046875 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,名鉄バス（株）,岡崎市内線_10_on,61.0,48.0,46.5," xlink:title="1" d="M13719.696,-3498.0469L13719.6873,-3498.0411L13719.6736,-3498.0281L13719.6675,-3498.0186L13719.6654,-3498.0174L13719.6682,-3497.996L13719.688,-3497.9194L13719.6998,-3497.8855L13719.7126,-3497.8535L13719.7243,-3497.8445L13719.7266,-3497.8434"/>
+<path content="1,名鉄バス（株）,岡崎市内線_11_on,61.0,48.0,46.5," xlink:title="1" d="M13719.696,-3498.0469L13719.6873,-3498.0411L13719.6736,-3498.0281L13719.6675,-3498.0186L13719.6654,-3498.0174L13719.6682,-3497.996L13719.688,-3497.9194L13719.6998,-3497.8855L13719.7126,-3497.8535L13719.7243,-3497.8445L13719.7266,-3497.8434"/>
+<path content="1,名鉄バス（株）,岩中線,3.0,3.0,3.0," xlink:title="1" d="M13719.2841,-3496.9482L13719.3451,-3496.9863L13719.3529,-3496.9912L13719.4122,-3497.0289L13719.4279,-3497.0223L13719.4424,-3497.0171L13719.4937,-3497.0013L13719.5081,-3496.9996L13719.5416,-3497.0002L13719.5731,-3497.0052L13719.5792,-3497.0069L13719.6032,-3497.012L13719.6223,-3497.0154L13719.7266,-3497.0398"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13957.03125 -3560.6689453125 0.54931640625 0.54931640625" go:dataArea="13957.03125 -3560.6689453125 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,川崎市,登05,69.0,58.0,53.0," xlink:title="1" d="M13957.5169,-3560.6689L13957.5108,-3560.6522L13957.5057,-3560.6339L13957.5012,-3560.6111L13957.4998,-3560.5745L13957.5039,-3560.5492L13957.5071,-3560.5381L13957.5087,-3560.5323L13957.5111,-3560.5275L13957.5135,-3560.5226L13957.5212,-3560.5109L13957.5294,-3560.5007L13957.5322,-3560.4973L13957.5806,-3560.4582"/>
+<path content="1,川崎市,登06,9.5,9.0,10.0," xlink:title="1" d="M13957.5806,-3560.4582L13957.5322,-3560.4973L13957.5294,-3560.5007L13957.5212,-3560.5109L13957.5135,-3560.5226L13957.5111,-3560.5275L13957.5087,-3560.5323L13957.5071,-3560.5381L13957.5039,-3560.5492L13957.4998,-3560.5745L13957.5012,-3560.6111L13957.5057,-3560.6339L13957.5108,-3560.6522L13957.5169,-3560.6689"/>
+<path content="1,東急バス（株）,向01,50.0,46.0,46.0," xlink:title="1" d="M13957.5169,-3560.6689L13957.5109,-3560.6524L13957.506,-3560.634L13957.5014,-3560.6112L13957.4999,-3560.5745L13957.5041,-3560.5494L13957.5071,-3560.5381L13957.5087,-3560.5322L13957.5111,-3560.5275L13957.5136,-3560.5227L13957.5212,-3560.5108L13957.5296,-3560.5009L13957.5323,-3560.4975L13957.5806,-3560.4584"/>
+</g>
+</svg>

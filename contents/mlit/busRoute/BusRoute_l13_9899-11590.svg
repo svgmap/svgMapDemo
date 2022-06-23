@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13968.841552734375 -3566.71142578125 0.274658203125 0.274658203125" go:dataArea="13968.841552734375 -3566.71142578125 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,京王バス,渋61,35.0,29.0,29.0," xlink:title="1" d="M13969.1074,-3566.7114L13969.1162,-3566.7022"/>
+<path content="1,京王バス,渋66,49.0,49.0,39.0," xlink:title="1" d="M13969.1074,-3566.7114L13969.1162,-3566.7022"/>
+<path content="1,京王バス南（株）,渋谷～吉祥寺駅北口線,0.5,0.0,0.0," xlink:title="1" d="M13969.1162,-3566.7022L13969.1074,-3566.7114"/>
+<path content="2,都営バス,渋66,4.0,4.0,4.0," xlink:title="2" d="M13969.1074,-3566.7114L13969.1162,-3566.7022"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13965.27099609375 -3563.96484375 0.54931640625 0.54931640625" go:dataArea="13965.27099609375 -3563.96484375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,東急バス・東急トランセ,渋05,92.0,75.0,65.0," xlink:title="1" d="M13965.8203,-3563.7999L13965.8082,-3563.7946L13965.7854,-3563.7839L13965.7689,-3563.7749L13965.7626,-3563.772L13965.7578,-3563.7686L13965.7302,-3563.7551L13965.7158,-3563.7473L13965.6978,-3563.7377L13965.6159,-3563.6949L13965.6096,-3563.6926L13965.5571,-3563.6853L13965.5074,-3563.6808L13965.4261,-3563.6723L13965.3964,-3563.6695L13965.3564,-3563.665L13965.3211,-3563.6599L13965.2847,-3563.6576L13965.271,-3563.6563"/>
+<path content="1,東急バス・東急トランセ,等11,34.0,21.0,19.0," xlink:title="1" d="M13965.4771,-3563.4155L13965.473,-3563.4244L13965.4592,-3563.4526L13965.4302,-3563.4965L13965.4054,-3563.5399L13965.3805,-3563.5776L13965.3536,-3563.6171L13965.3511,-3563.6206L13965.3426,-3563.6329L13965.3302,-3563.6503L13965.3211,-3563.6599L13965.3061,-3563.6859L13965.2934,-3563.7045L13965.2854,-3563.7168L13965.271,-3563.7382"/>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13970.76416015625 -3566.162109375 0.274658203125 0.274658203125" go:dataArea="13970.76416015625 -3566.162109375 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,京王バス南（株）,新宿・渋谷～仙台・石巻線,1.0,1.0,1.0," xlink:title="1" d="M13970.7642,-3566.117L13970.7771,-3566.1252L13970.7889,-3566.1328L13970.8265,-3566.1554L13970.8376,-3566.1621"/>
+<path content="1,宮城交通（株）,広瀬ライナー,1.0,1.0,1.0," xlink:title="1" d="M13970.7642,-3566.117L13970.7771,-3566.1252L13970.7889,-3566.1328L13970.8265,-3566.1554L13970.8376,-3566.1621"/>
+<path content="2,都営バス,渋88,36.0,29.0,31.0," xlink:title="2" d="M13970.8376,-3566.1621L13970.8265,-3566.1554L13970.7889,-3566.1328L13970.7771,-3566.1252L13970.7642,-3566.117"/>
+<path content="3,渋谷区,夕やけこやけルート,41.0,42.0,42.0," xlink:title="3" d="M13970.875,-3565.8875L13970.8812,-3565.9041L13970.886,-3565.9222L13970.8886,-3565.9396L13970.8911,-3565.9678L13970.8887,-3566.0086L13970.8813,-3566.0371L13970.8757,-3566.0571L13970.8665,-3566.081L13970.855,-3566.1036L13970.8384,-3566.1358L13970.8265,-3566.1554L13970.7889,-3566.1328L13970.7771,-3566.1252L13970.7642,-3566.117"/>
+</g>
+</svg>

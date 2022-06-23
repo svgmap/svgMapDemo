@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13570.3125 -3621.09375 35.15625 35.15625" go:dataArea="13570.3125 -3621.09375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f49987" content="国見公民館,18201,福井県福井市鮎川町195-7,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="国見公民館" transform="ref(svg,13603.1048,-3608.9315)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49988" content="国見小学校,18201,福井県福井市鮎川町109-33,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="国見小学校" transform="ref(svg,13603.1051,-3608.5219)" x="0" y="0"/>
+<use xlink:href="#p0" id="f49989" content="国見中学校,18201,福井県福井市鮎川町109-9-2,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="国見中学校" transform="ref(svg,13603.1448,-3608.5323)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50004" content="殿下公民館,18201,福井県福井市風尾町1-13,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="殿下公民館" transform="ref(svg,13604.6308,-3603.8947)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50005" content="殿下小・中学校,18201,福井県福井市風尾町6-24,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="殿下小・中学校" transform="ref(svg,13604.6894,-3603.6467)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50026" content="長橋小学校,18201,福井県福井市長橋町18-48,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="長橋小学校" transform="ref(svg,13604.9363,-3611.0432)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50165" content="越廼公民館,18201,福井県福井市茱崎町1-68,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="越廼公民館" transform="ref(svg,13601.2322,-3603.9287)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50166" content="越廼小学校,18201,福井県福井市茱崎町3-25,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="越廼小学校" transform="ref(svg,13601.4014,-3604.03)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50167" content="越廼中学校,18201,福井県福井市大味町29-83,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="越廼中学校" transform="ref(svg,13601.9579,-3605.1194)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50168" content="越廼総合支所,18201,福井県福井市蒲生町1-88,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="越廼総合支所" transform="ref(svg,13601.2789,-3603.9036)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50169" content="水仙の里温泉波の華,18201,福井県福井市蒲生町1-94,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="水仙の里温泉波の華" transform="ref(svg,13601.0214,-3603.7608)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50170" content="水仙の里温泉水仙寮,18201,福井県福井市居倉町79-35,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="水仙の里温泉水仙寮" transform="ref(svg,13598.8592,-3600.917)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50965" content="白山神社下広場,18209,福井県越前市二階堂町,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="白山神社下広場" transform="ref(svg,13604.6408,-3588.5446)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50966" content="千合谷町ふれあい会館前広場,18209,福井県越前市千合谷町31-63,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="千合谷町ふれあい会館前広場" transform="ref(svg,13603.6679,-3588.875)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50967" content="菖蒲谷町集落センター,18209,福井県越前市菖蒲谷町10,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="菖蒲谷町集落センター" transform="ref(svg,13604.8885,-3588.1749)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50968" content="堀町ふれあい会館,18209,福井県越前市堀町15,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="堀町ふれあい会館" transform="ref(svg,13605.1979,-3588.4016)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50969" content="土山口バス停留所,18209,福井県越前市土山町13,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="土山口バス停留所" transform="ref(svg,13604.529,-3587.4088)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50970" content="願成寺,18209,福井県越前市土山町5-3,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="願成寺" transform="ref(svg,13604.5694,-3587.5498)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50971" content="旧土山小谷バス停留所,18209,福井県越前市安戸町,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧土山小谷バス停留所" transform="ref(svg,13604.3813,-3587.1483)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50982" content="粟野町集会所（旧粟野冬季分校）,18209,福井県越前市粟野町地係,第一次避難場所,-1,-1,0,0,1,0,0,0" xlink:title="粟野町集会所（旧粟野冬季分校）" transform="ref(svg,13605.2816,-3591.0586)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50983" content="粟野町集会所前（旧粟野冬季分校）,18209,福井県越前市粟野町地係,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="粟野町集会所前（旧粟野冬季分校）" transform="ref(svg,13605.2823,-3591.0461)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50984" content="小杉町生活改善センター,18209,福井県越前市小杉町,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="小杉町生活改善センター" transform="ref(svg,13605.407,-3590.5514)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50985" content="神社ポール付近,18209,福井県越前市牧町地係,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="神社ポール付近" transform="ref(svg,13605.0001,-3590.0475)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50986" content="若須町神社前,18209,福井県越前市若須町,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="若須町神社前" transform="ref(svg,13604.5528,-3589.6384)" x="0" y="0"/>
+<use xlink:href="#p0" id="f50987" content="中野集落センター,18209,福井県越前市中野町,第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中野集落センター" transform="ref(svg,13604.9343,-3589.4872)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51071" content="白山小学校,18209,福井県越前市都辺町15-4,広域避難場所・第一次避難場所,-1,-1,0,0,0,0,0,1" xlink:title="白山小学校" transform="ref(svg,13605.387,-3588.8236)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51517" content="西三区集落センター,18423,福井県丹生郡越前町熊谷35-36,避難所,-1,-1,0,0,0,0,0,1" xlink:title="西三区集落センター" transform="ref(svg,13604.5314,-3592.5229)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51518" content="熊谷ふれあい会館,18423,福井県丹生郡越前町熊谷15-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="熊谷ふれあい会館" transform="ref(svg,13604.2135,-3592.4194)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51534" content="左右地区集会施設,18423,福井県丹生郡越前町左右2-4-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="左右地区集会施設" transform="ref(svg,13596.2891,-3598.758)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51535" content="梨子ヶ平地区集会施設,18423,福井県丹生郡越前町梨子ヶ平53,避難所,-1,-1,0,0,0,0,0,1" xlink:title="梨子ヶ平地区集会施設" transform="ref(svg,13596.4914,-3599.7367)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51536" content="ふるさと文化交流施設,18423,福井県丹生郡越前町梨子ヶ平1-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="ふるさと文化交流施設" transform="ref(svg,13596.6342,-3599.1892)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51537" content="血ヶ平地区集会施設,18423,福井県丹生郡越前町血ヶ平108-11-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="血ヶ平地区集会施設" transform="ref(svg,13597.686,-3597.756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51538" content="玉川地区集会施設,18423,福井県丹生郡越前町玉川44-27-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="玉川地区集会施設" transform="ref(svg,13597.012,-3597.0102)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51539" content="梅浦地区集会施設,18423,福井県丹生郡越前町梅浦70-13-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="梅浦地区集会施設" transform="ref(svg,13598.3841,-3595.7472)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51540" content="上側地区集会施設,18423,福井県丹生郡越前町梅浦59-18-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上側地区集会施設" transform="ref(svg,13598.3889,-3595.3717)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51541" content="鷺崎地区集会施設,18423,福井県丹生郡越前町梅浦63-14-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="鷺崎地区集会施設" transform="ref(svg,13598.6219,-3595.2671)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51542" content="宿地区集会施設,18423,福井県丹生郡越前町宿1-4,避難所,-1,-1,0,0,0,0,0,1" xlink:title="宿地区集会施設" transform="ref(svg,13598.6436,-3595.1885)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51543" content="新保地区集会施設,18423,福井県丹生郡越前町新保12-35,避難所,-1,-1,0,0,0,0,0,1" xlink:title="新保地区集会施設" transform="ref(svg,13598.6771,-3594.9982)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51544" content="城ヶ谷地区集会施設,18423,福井県丹生郡越前町新保14-17-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="城ヶ谷地区集会施設" transform="ref(svg,13598.7452,-3594.663)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51545" content="小樟地区集会施設,18423,福井県丹生郡越前町小樟43-8-26,避難所,-1,-1,0,0,0,0,0,1" xlink:title="小樟地区集会施設" transform="ref(svg,13599.3082,-3594.033)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51546" content="大樟地区集会施設,18423,福井県丹生郡越前町大樟8-58-9,避難所,-1,-1,0,0,0,0,0,1" xlink:title="大樟地区集会施設" transform="ref(svg,13599.5734,-3593.7096)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51547" content="道口地区集会施設,18423,福井県丹生郡越前町道口9-34-8,避難所,-1,-1,0,0,0,0,0,1" xlink:title="道口地区集会施設" transform="ref(svg,13599.8046,-3593.2324)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51548" content="厨地区集会施設,18423,福井県丹生郡越前町厨16-17-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="厨地区集会施設" transform="ref(svg,13599.833,-3592.8323)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51549" content="越前町観光会館,18423,福井県丹生郡越前町厨71-327-4,避難所,-1,-1,0,0,0,0,0,1" xlink:title="越前町観光会館" transform="ref(svg,13599.7852,-3592.172)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51550" content="茂原地区集会施設,18423,福井県丹生郡越前町茂原12-11-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="茂原地区集会施設" transform="ref(svg,13599.7728,-3590.5829)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51551" content="白浜地区集会施設,18423,福井県丹生郡越前町高佐9-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="白浜地区集会施設" transform="ref(svg,13599.8329,-3590.383)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51552" content="高佐地区集会施設,18423,福井県丹生郡越前町高佐32-13-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="高佐地区集会施設" transform="ref(svg,13599.624,-3589.73)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51553" content="米ノ地区集会施設,18423,福井県丹生郡越前町米ノ52-49,避難所,-1,-1,0,0,0,0,0,1" xlink:title="米ノ地区集会施設" transform="ref(svg,13599.6176,-3588.7331)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51554" content="織田生涯学習センター,18423,福井県丹生郡越前町織田115-5,避難所,-1,-1,0,0,0,0,0,1" xlink:title="織田生涯学習センター" transform="ref(svg,13605.4165,-3595.5478)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51555" content="織田保健福祉センター,18423,福井県丹生郡越前町織田106-51-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="織田保健福祉センター" transform="ref(svg,13604.7732,-3595.7322)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51556" content="織田児童館,18423,福井県丹生郡越前町織田153-2-11,避難所,-1,-1,0,0,0,0,0,1" xlink:title="織田児童館" transform="ref(svg,13605.3229,-3595.8449)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51557" content="山中児童館,18423,福井県丹生郡越前町下山中6-3-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="山中児童館" transform="ref(svg,13602.9876,-3595.7229)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51559" content="旧笈松分校,18423,福井県丹生郡越前町笈松24-37,避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧笈松分校" transform="ref(svg,13604.2461,-3598.1725)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51571" content="四ヶ浦小学校,18423,福井県丹生郡越前町小樟42-175,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="四ヶ浦小学校" transform="ref(svg,13599.0125,-3594.592)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51572" content="城崎小学校,18423,福井県丹生郡越前町茂原4-8-1,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="城崎小学校" transform="ref(svg,13599.8903,-3591.2286)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51573" content="越前中学校,18423,福井県丹生郡越前町大樟14-19,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="越前中学校" transform="ref(svg,13599.7569,-3593.7783)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51574" content="越前サブコミュニティセンター（旧越前町生涯学習センター越前分館）,18423,福井県丹生郡越前町梅浦60-2-1,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="越前サブコミュニティセンター（旧越前町生涯学習センター越前分館）" transform="ref(svg,13598.4508,-3595.2906)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51575" content="越前町営越前体育館,18423,福井県丹生郡越前町梅浦60-2-1,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="越前町営越前体育館" transform="ref(svg,13598.4911,-3595.2699)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51576" content="越前地域福祉センター,18423,福井県丹生郡越前町梅浦60-15,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="越前地域福祉センター" transform="ref(svg,13598.3384,-3595.2876)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51577" content="アクティブランド体育館,18423,福井県丹生郡越前町厨71-326-1,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="アクティブランド体育館" transform="ref(svg,13599.7083,-3591.9939)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51578" content="城崎南保育所（健康交流ホール）,18423,福井県丹生郡越前町米ノ46-6,拠点避難所、避難所,-1,-1,0,0,0,0,0,1" xlink:title="城崎南保育所（健康交流ホール）" transform="ref(svg,13599.6382,-3589.1154)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51579" content="織田小学校,18423,福井県丹生郡越前町大王丸20-17,拠点避難所、避難所,-1,-1,0,0,0,0,0,1" xlink:title="織田小学校" transform="ref(svg,13604.5563,-3595.7171)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51581" content="織田中学校,18423,福井県丹生郡越前町下河原37-2-10,拠点避難所、避難所,-1,-1,0,0,0,0,0,1" xlink:title="織田中学校" transform="ref(svg,13605.4146,-3594.9089)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51584" content="織田農村環境改善センター,18423,福井県丹生郡越前町織田109-57,拠点避難所、避難所,-1,-1,0,0,0,0,0,1" xlink:title="織田農村環境改善センター" transform="ref(svg,13604.8393,-3595.6844)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51591" content="アクティブランド運動場,18423,福井県丹生郡越前町厨71-326-1,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="アクティブランド運動場" transform="ref(svg,13599.6669,-3591.8697)" x="0" y="0"/>
+<use xlink:href="#p0" id="f51592" content="高佐多目的運動場,18423,福井県丹生郡越前町高佐32-13-1,拠点避難所,-1,-1,0,0,0,0,0,1" xlink:title="高佐多目的運動場" transform="ref(svg,13599.5532,-3589.7632)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13975.15869140625 -3562.8662109375 0.54931640625 0.54931640625" go:dataArea="13975.15869140625 -3562.8662109375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,都営バス,品99,92.0,88.0,77.0," xlink:title="2" d="M13975.5999,-3562.8662L13975.6002,-3562.8599L13975.6004,-3562.8397L13975.6019,-3562.8267L13975.6019,-3562.7975L13975.6037,-3562.7682L13975.605,-3562.7443L13975.6063,-3562.6903L13975.6067,-3562.6732L13975.6067,-3562.6261L13975.6076,-3562.5996L13975.6091,-3562.5693L13975.6102,-3562.5203L13975.6113,-3562.4948L13975.6091,-3562.4604L13975.6129,-3562.4413L13975.6135,-3562.4263L13975.6147,-3562.4082L13975.6148,-3562.4056L13975.6159,-3562.3645L13975.6164,-3562.3438L13975.6171,-3562.3169M13975.4002,-3562.3169L13975.4024,-3562.3292L13975.4087,-3562.3889L13975.4106,-3562.4041L13975.4103,-3562.4224L13975.4188,-3562.5035L13975.4251,-3562.5903L13975.4284,-3562.7667L13975.437,-3562.8662"/>
+<path content="2,都営バス,品99折返,49.0,0.0,0.0," xlink:title="2" d="M13975.5999,-3562.8662L13975.6002,-3562.8599L13975.6004,-3562.8397L13975.6019,-3562.8267L13975.6019,-3562.7975L13975.6037,-3562.7682L13975.708,-3562.7711"/>
+</g>
+</svg>

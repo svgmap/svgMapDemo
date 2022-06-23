@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13104.4921875 -3407.958984375 2.197265625 2.197265625" go:dataArea="13104.4921875 -3407.958984375 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,サンデン交通（株）,国道線,3.0,0.0,0.0," xlink:title="1" d="M13104.4922,-3406.8447L13104.6045,-3406.7764L13104.6803,-3406.7261L13104.6994,-3406.7137"/>
+<path content="1,サンデン交通（株）,国道線（ゆめタウン長府経由）,21.0,0.0,0.0," xlink:title="1" d="M13104.4922,-3406.8447L13104.6045,-3406.7764L13104.6803,-3406.7261L13104.6994,-3406.7137"/>
+<path content="1,サンデン交通（株）,小月～中央病院線,6.0,1.5,1.5," xlink:title="1" d="M13104.4922,-3406.8447L13104.6045,-3406.7764L13104.6803,-3406.7261L13104.6994,-3406.7137"/>
+<path content="1,サンデン交通（株）,秋芳洞線,1.0,2.0,2.0," xlink:title="1" d="M13104.4922,-3406.8447L13104.6045,-3406.7764L13104.6803,-3406.7261L13104.6994,-3406.7137"/>
+<path content="1,サンデン交通（株）,秋芳洞線（ゆめタウン長府経由）,2.0,2.0,2.0," xlink:title="1" d="M13104.4922,-3406.8447L13104.6045,-3406.7764L13104.6803,-3406.7261L13104.6994,-3406.7137"/>
+<path content="1,サンデン交通（株）,長府～中央病院線,6.0,0.0,0.0," xlink:title="1" d="M13104.4922,-3406.8447L13104.6045,-3406.7764L13104.6803,-3406.7261L13104.6994,-3406.7137"/>
+</g>
+</svg>

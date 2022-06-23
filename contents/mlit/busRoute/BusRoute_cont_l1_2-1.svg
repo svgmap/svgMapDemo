@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="11250.0 -6750.0 4500.0 4500.0" go:dataArea="11250.0 -6750.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<image xlink:href="BusRoute/lvl6/tile5_3.png" preserveAspectRatio="none" x="14062.5" y="-5062.5" width="562.5" height="562.5" visibleMinZoom="35.555" visibleMaxZoom="71.11"/>
+<image xlink:href="BusRoute/lvl7/tile10_7.png" preserveAspectRatio="none" x="14062.5" y="-4781.25" width="281.25" height="281.25" visibleMinZoom="71.11" visibleMaxZoom="142.22"/>
+<animation xlink:href="BusRoute_cont_l4_20-15.svg" x="14062.5" y="-4640.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="BusRoute/lvl8/tile20_15.png" preserveAspectRatio="none" x="14062.5" y="-4640.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+<animation xlink:href="BusRoute_l4_21-15.svg" x="14203.125" y="-4640.625" width="140.625" height="140.625" visibleMinZoom="284.44"/>
+<image xlink:href="BusRoute/lvl8/tile21_15.png" preserveAspectRatio="none" x="14203.125" y="-4640.625" width="140.625" height="140.625" visibleMinZoom="142.22" visibleMaxZoom="284.44"/>
+</svg>

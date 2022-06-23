@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14037.2314453125 -3577.69775390625 0.54931640625 0.54931640625" go:dataArea="14037.2314453125 -3577.69775390625 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,成田空港交通,サークルバス,46.0,46.0,46.0," xlink:title="1" d="M14037.5185,-3577.6978L14037.4881,-3577.6569L14037.4694,-3577.6675L14037.4645,-3577.673L14037.4616,-3577.6809L14037.458,-3577.6978"/>
+<path content="3,成田市,津富浦ルート(大栄支所～奈土～前林小学校～保健福祉館),2.0,2.0,2.0," xlink:title="3" d="M14037.458,-3577.6978L14037.4616,-3577.6809L14037.4645,-3577.673L14037.4694,-3577.6675L14037.4881,-3577.6569L14037.5185,-3577.6978"/>
+<path content="3,成田市,津富浦ルート(成井回転場～津富浦～保健福祉館),2.0,2.0,2.0," xlink:title="3" d="M14037.5185,-3577.6978L14037.4881,-3577.6569L14037.4694,-3577.6675L14037.4645,-3577.673L14037.4616,-3577.6809L14037.458,-3577.6978"/>
+</g>
+</svg>

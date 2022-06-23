@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14088.31787109375 -3835.3271484375 0.54931640625 0.54931640625" go:dataArea="14088.31787109375 -3835.3271484375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,宮城交通（株）,N28,21.5,15.5,14.5," xlink:title="1" d="M14088.8672,-3834.9215L14088.8275,-3834.9417L14088.7461,-3834.9838L14088.7324,-3834.9883L14088.6753,-3835.0164L14088.5452,-3835.0693L14088.375,-3835.1262L14088.3648,-3835.1311L14088.3179,-3835.1463"/>
+<path content="1,宮城交通（株）,N29,19.0,14.0,14.0," xlink:title="1" d="M14088.6277,-3834.7778L14088.6292,-3834.8068L14088.633,-3834.8338L14088.6349,-3834.8438L14088.6379,-3834.8534L14088.6446,-3834.8688L14088.6568,-3834.8885L14088.661,-3834.893L14088.6839,-3834.9223L14088.7218,-3834.9685L14088.7324,-3834.9883L14088.6753,-3835.0164L14088.5452,-3835.0693L14088.375,-3835.1262L14088.3648,-3835.1311L14088.3179,-3835.1463"/>
+<path content="3,富谷町,南部循環線,6.0,0.0,0.0," xlink:title="3" d="M14088.8672,-3834.9215L14088.8275,-3834.9417L14088.7461,-3834.9838L14088.7324,-3834.9883L14088.8014,-3835.0621L14088.8315,-3835.1033L14088.8412,-3835.0992L14088.8672,-3835.0863"/>
+</g>
+</svg>

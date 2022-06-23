@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13078.125 -3234.375 35.15625 35.15625" go:dataArea="13078.125 -3234.375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f115947" content="うぐいす荘,43203,熊本県人吉市蟹作町西中通222-1,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="うぐいす荘" transform="ref(svg,13078.1483,-3219.3852)" x="0" y="0"/>
+<use xlink:href="#p0" id="f115995" content="赤池原町公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="赤池原町公民館" transform="ref(svg,13078.3782,-3219.0257)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117317" content="一武小学校体育館,43501,熊本県球磨郡錦町一武2658,第３次避難場所,500,-1,0,0,0,0,0,1" xlink:title="一武小学校体育館" transform="ref(svg,13084.2481,-3219.8099)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117318" content="錦勤労者保育センター,43501,熊本県球磨郡錦町,第３次避難場所,1000,-1,0,0,0,0,0,1" xlink:title="錦勤労者保育センター" transform="ref(svg,13083.9487,-3220.3469)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117319" content="錦中学校体育館,43501,熊本県球磨郡錦町一武1115,第３次避難場所,800,-1,0,0,0,0,0,1" xlink:title="錦中学校体育館" transform="ref(svg,13083.0287,-3220.1571)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117320" content="西コミュニティーセンター,43501,熊本県球磨郡錦町大字西266番地,第２次避難場所,200,-1,0,0,0,0,0,1" xlink:title="西コミュニティーセンター" transform="ref(svg,13082.3062,-3219.2524)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117321" content="西小学校体育館,43501,熊本県球磨郡錦町西1132,第３次避難場所,500,-1,0,0,0,0,0,1" xlink:title="西小学校体育館" transform="ref(svg,13081.9843,-3219.9098)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117322" content="福祉センター,43501,熊本県球磨郡錦町,第２次避難場所,200,-1,0,0,0,0,0,1" xlink:title="福祉センター" transform="ref(svg,13083.9962,-3220.134)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117323" content="木上コミュニティーセンター,43501,熊本県球磨郡錦町大字木上北2737番地,第２次避難場所,200,-1,0,0,0,0,0,1" xlink:title="木上コミュニティーセンター" transform="ref(svg,13084.1314,-3222.6444)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117324" content="木上小学校体育館,43501,熊本県球磨郡錦町木上2737,第３次避難場所,500,-1,0,0,0,0,0,1" xlink:title="木上小学校体育館" transform="ref(svg,13084.0373,-3222.7321)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117325" content="Ｂ＆Ｇ海洋センター,43506,熊本県球磨郡湯前町1693-2,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="Ｂ＆Ｇ海洋センター" transform="ref(svg,13099.926,-3227.2778)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117326" content="ゆのまえグリーンパレス,43506,熊本県球磨郡湯前町1588番地の1,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="ゆのまえグリーンパレス" transform="ref(svg,13099.9355,-3227.1817)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117327" content="下染田公民分館,43506,熊本県球磨郡湯前町下染田,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="下染田公民分館" transform="ref(svg,13098.2131,-3228.424)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117328" content="下村公民分館,43506,熊本県球磨郡湯前町下村,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="下村公民分館" transform="ref(svg,13097.7741,-3226.6604)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117329" content="下里公民分館,43506,熊本県球磨郡湯前町下里,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="下里公民分館" transform="ref(svg,13097.3906,-3228.3188)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117330" content="古城公民分館,43506,熊本県球磨郡湯前町古城,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="古城公民分館" transform="ref(svg,13099.2042,-3228.4891)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117331" content="高齢者生活福祉センター,43506,熊本県球磨郡湯前町,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="高齢者生活福祉センター" transform="ref(svg,13099.5674,-3227.2481)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117332" content="山ノ口公民分館,43506,熊本県球磨郡湯前町,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="山ノ口公民分館" transform="ref(svg,13098.4033,-3226.2256)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117333" content="上染田公民分館,43506,熊本県球磨郡湯前町上染田,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="上染田公民分館" transform="ref(svg,13098.5347,-3228.3966)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117334" content="上村公民分館,43506,熊本県球磨郡湯前町上村,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="上村公民分館" transform="ref(svg,13098.1056,-3226.8438)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117335" content="上里１公民分館,43506,熊本県球磨郡湯前町上里,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="上里１公民分館" transform="ref(svg,13098.0976,-3227.8225)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117336" content="上里２公民分館,43506,熊本県球磨郡湯前町上里,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="上里２公民分館" transform="ref(svg,13098.3027,-3228.0841)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117337" content="上里３公民分館,43506,熊本県球磨郡湯前町上里,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="上里３公民分館" transform="ref(svg,13098.4757,-3227.7365)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117338" content="植木公民分館,43506,熊本県球磨郡湯前町植木,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="植木公民分館" transform="ref(svg,13097.1189,-3227.8126)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117339" content="瀬戸口公民分館,43506,熊本県球磨郡湯前町瀬戸口,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="瀬戸口公民分館" transform="ref(svg,13097.1673,-3226.3413)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117340" content="浅鹿野公民分館,43506,熊本県球磨郡湯前町浅鹿野,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="浅鹿野公民分館" transform="ref(svg,13099.9299,-3227.9421)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117341" content="中央公民館農村環境改善センター,43506,熊本県球磨郡湯前町1834番地の1,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="中央公民館農村環境改善センター" transform="ref(svg,13098.1459,-3228.0362)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117342" content="中里２公民分館,43506,熊本県球磨郡湯前町中里,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="中里２公民分館" transform="ref(svg,13098.082,-3228.3137)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117343" content="辻公民分館,43506,熊本県球磨郡湯前町,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="辻公民分館" transform="ref(svg,13097.4009,-3225.4403)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117344" content="田上公民分館,43506,熊本県球磨郡湯前町田上,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="田上公民分館" transform="ref(svg,13099.1355,-3227.0713)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117345" content="湯前小学校,43506,熊本県球磨郡湯前町2120番地の1,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="湯前小学校" transform="ref(svg,13098.5142,-3227.5532)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117346" content="湯前中学校,43506,熊本県球磨郡湯前町2644番地の1,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="湯前中学校" transform="ref(svg,13098.6773,-3227.4595)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117347" content="湯前町役場,43506,熊本県球磨郡湯前町1989-1,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="湯前町役場" transform="ref(svg,13098.0987,-3227.6144)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117348" content="馬場公民分館,43506,熊本県球磨郡湯前町馬場,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="馬場公民分館" transform="ref(svg,13098.1249,-3225.7952)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117349" content="避難防災交流施設（湯～とぴあ）,43506,熊本県球磨郡湯前町1822番地の4,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="避難防災交流施設（湯～とぴあ）" transform="ref(svg,13098.0315,-3228.1515)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117350" content="浜川公民分館,43506,熊本県球磨郡湯前町浜川,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="浜川公民分館" transform="ref(svg,13099.5309,-3229.3133)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117351" content="保健センター,43506,熊本県球磨郡湯前町1984番地,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="保健センター" transform="ref(svg,13098.0837,-3227.67)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117352" content="野中田１公民分館,43506,熊本県球磨郡湯前町野中田,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="野中田１公民分館" transform="ref(svg,13099.4488,-3227.6288)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117353" content="野中田２公民分館,43506,熊本県球磨郡湯前町野中田,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="野中田２公民分館" transform="ref(svg,13099.1341,-3227.8084)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117354" content="野中田３公民分館,43506,熊本県球磨郡湯前町野中田,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="野中田３公民分館" transform="ref(svg,13098.6212,-3227.288)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117355" content="岩野公民館,43507,熊本県球磨郡水上村大字岩野2678,第１避難場所、福祉避難所、第２避難場所,200,-1,0,0,0,0,0,1" xlink:title="岩野公民館" transform="ref(svg,13098.704,-3229.4638)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117358" content="水上村役場,43507,熊本県球磨郡水上村岩野90,第１避難場所、福祉避難所、第２避難場所,150,-1,0,0,0,0,0,1" xlink:title="水上村役場" transform="ref(svg,13100.9505,-3231.4398)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117359" content="村民体育館,43507,熊本県球磨郡水上村岩野2693番地,第３避難場所,500,-1,0,0,0,0,0,1" xlink:title="村民体育館" transform="ref(svg,13098.6594,-3229.4113)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117360" content="湯山小学校体育館,43507,熊本県球磨郡水上村湯山412番地,第２避難場所,800,-1,0,0,0,0,0,1" xlink:title="湯山小学校体育館" transform="ref(svg,13104.4823,-3231.5787)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117361" content="湯山小学校地域交流センター,43507,熊本県球磨郡水上村湯山412番地,第１避難場所、福祉避難所,100,-1,0,0,0,0,0,1" xlink:title="湯山小学校地域交流センター" transform="ref(svg,13104.4769,-3231.561)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117362" content="湯山保育所,43507,熊本県球磨郡水上村,第３避難場所、福祉避難所,200,-1,0,0,0,0,0,1" xlink:title="湯山保育所" transform="ref(svg,13104.1373,-3231.9834)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117363" content="保健センター,43507,熊本県球磨郡水上村岩野2678番地,第２避難場所、福祉避難所、第３避難場所,100,-1,0,0,0,0,0,1" xlink:title="保健センター" transform="ref(svg,13098.6405,-3229.4602)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117408" content="せきれい館,43514,熊本県球磨郡あさぎり町深田西955番地1,避難施設場所,-1,-1,0,0,0,0,0,1" xlink:title="せきれい館" transform="ref(svg,13087.3052,-3224.3912)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117409" content="ふれあい福祉センター,43514,熊本県球磨郡あさぎり町岡原北929番地,避難施設場所,-1,-1,0,0,0,0,0,1" xlink:title="ふれあい福祉センター" transform="ref(svg,13092.9384,-3223.9973)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117410" content="須恵文化ホール,43514,熊本県球磨郡あさぎり町須恵1227番地,避難施設場所,-1,-1,0,0,0,0,0,1" xlink:title="須恵文化ホール" transform="ref(svg,13090.038,-3226.6538)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117411" content="総合福祉センター,43514,熊本県球磨郡あさぎり町免田東1190番地2,避難施設場所,-1,-1,0,0,0,0,0,1" xlink:title="総合福祉センター" transform="ref(svg,13089.7875,-3224.0916)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117412" content="白寿荘,43514,熊本県球磨郡あさぎり町上北1880番地,避難施設場所,-1,-1,0,0,0,0,0,1" xlink:title="白寿荘" transform="ref(svg,13090.2211,-3221.7062)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117448" content="多良木町立黒肥地小学校体育館,43505,熊本県球磨郡多良木町黒肥地1629,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町立黒肥地小学校体育館" transform="ref(svg,13094.2527,-3227.5566)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117449" content="多良木町祓川運動場,43505,熊本県球磨郡多良木町大字黒肥地4939番地1,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町祓川運動場" transform="ref(svg,13095.0958,-3229.5573)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117450" content="多良木町八日原運動公園,43505,熊本県球磨郡多良木町,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町八日原運動公園" transform="ref(svg,13091.9057,-3227.4959)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117451" content="多良木町研修センター,43505,熊本県球磨郡多良木町多良木1648,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町研修センター" transform="ref(svg,13093.5795,-3226.4039)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117452" content="多良木町保健センター,43505,熊本県球磨郡多良木町,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町保健センター" transform="ref(svg,13093.6292,-3226.4399)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117453" content="多良木町町民広場,43505,熊本県球磨郡多良木町大字多良木上迫田,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町町民広場" transform="ref(svg,13093.8993,-3226.2713)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117454" content="多良木町武道館,43505,熊本県球磨郡多良木町大字多良木1471番地1,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町武道館" transform="ref(svg,13093.1768,-3226.1377)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117455" content="多良木町多良木中学校運動場,43505,熊本県球磨郡多良木町多良木1736,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町多良木中学校運動場" transform="ref(svg,13093.3541,-3226.5694)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117456" content="多良木町小学校体育館,43505,熊本県球磨郡多良木町多良木876,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="多良木町小学校体育館" transform="ref(svg,13094.025,-3226.2289)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117457" content="夜狩尾生活改善センター,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="夜狩尾生活改善センター" transform="ref(svg,13087.2817,-3233.4056)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117458" content="上四浦改善センター,43510,熊本県球磨郡相良村四浦西4449番地の25,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上四浦改善センター" transform="ref(svg,13083.6668,-3234.1291)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117459" content="田代改善センター,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="田代改善センター" transform="ref(svg,13084.8049,-3230.6448)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117460" content="上下坂公民分館,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上下坂公民分館" transform="ref(svg,13084.3556,-3228.2545)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117461" content="松馬場集落センター,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="松馬場集落センター" transform="ref(svg,13081.8228,-3225.9491)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117462" content="和光幼児園,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="和光幼児園" transform="ref(svg,13081.7212,-3225.1669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117463" content="前田新村構造改善センター,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="前田新村構造改善センター" transform="ref(svg,13080.336,-3223.736)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117464" content="暁保育園,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="暁保育園" transform="ref(svg,13079.5999,-3221.429)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117465" content="十島公民館,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="十島公民館" transform="ref(svg,13078.4027,-3221.1228)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117466" content="井沢公民館,43510,熊本県球磨郡相良村,第１避難場所,-1,-1,0,0,0,0,0,1" xlink:title="井沢公民館" transform="ref(svg,13080.9506,-3221.0446)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117467" content="相良北小学校,43510,熊本県球磨郡相良村四浦東2449,第２避難場所,-1,-1,0,0,0,0,0,1" xlink:title="相良北小学校" transform="ref(svg,13084.3544,-3230.2199)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117468" content="相良中学校,43510,熊本県球磨郡相良村深水2130,第２避難場所,-1,-1,0,0,0,0,0,1" xlink:title="相良中学校" transform="ref(svg,13079.9155,-3223.832)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117469" content="相良村林業総合センター,43510,熊本県球磨郡相良村四浦東2076番地,第２避難場所、第３避難場所,-1,-1,0,0,0,0,0,1" xlink:title="相良村林業総合センター" transform="ref(svg,13084.3795,-3229.0543)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117470" content="川辺構造改善センター,43510,熊本県球磨郡相良村川辺2491番地,第２避難場所,-1,-1,0,0,0,0,0,1" xlink:title="川辺構造改善センター" transform="ref(svg,13082.6361,-3226.5817)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117471" content="上園公民館,43510,熊本県球磨郡相良村,第２避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上園公民館" transform="ref(svg,13081.7267,-3225.2419)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117472" content="相良村総合体育館,43510,熊本県球磨郡相良村深水2493番地1,第２避難場所、第３避難場所,-1,-1,0,0,0,0,0,1" xlink:title="相良村総合体育館" transform="ref(svg,13079.7189,-3223.5686)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117473" content="柳瀬構造改善センター,43510,熊本県球磨郡相良村柳瀬377番地,第２避難場所,-1,-1,0,0,0,0,0,1" xlink:title="柳瀬構造改善センター" transform="ref(svg,13079.7761,-3221.6663)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117501" content="東漆田町公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="東漆田町公民館" transform="ref(svg,13078.9882,-3218.3171)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117502" content="下漆田町公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="下漆田町公民館" transform="ref(svg,13079.1746,-3218.0831)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117503" content="上漆田町公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="上漆田町公民館" transform="ref(svg,13079.658,-3217.3669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117504" content="下田代町公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="下田代町公民館" transform="ref(svg,13080.7355,-3217.3083)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117505" content="上田代町公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="上田代町公民館" transform="ref(svg,13080.8176,-3216.7523)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117506" content="大畑町公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="大畑町公民館" transform="ref(svg,13080.2385,-3216.2827)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117507" content="大畑麓町公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="大畑麓町公民館" transform="ref(svg,13079.9643,-3216.2705)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117508" content="小川内公民館,43203,熊本県人吉市,第１次避難所,-1,-1,0,0,0,0,0,1" xlink:title="小川内公民館" transform="ref(svg,13079.9578,-3214.8108)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117511" content="大畑コミュニティセンター,43203,熊本県人吉市,第２次避難所、第３次避難所,-1,-1,0,0,0,0,0,1" xlink:title="大畑コミュニティセンター" transform="ref(svg,13080.2618,-3216.3301)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117512" content="第三中学校,43203,熊本県人吉市,第３次避難所,-1,-1,0,0,0,0,0,1" xlink:title="第三中学校" transform="ref(svg,13080.4012,-3216.7379)" x="0" y="0"/>
+<use xlink:href="#p0" id="f117513" content="大畑小学校,43203,熊本県人吉市,第３次避難所,-1,-1,0,0,0,0,0,1" xlink:title="大畑小学校" transform="ref(svg,13080.3209,-3216.3318)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120605" content="永久津小学校体育館,45205,宮崎県小林市北西方4440-8,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="永久津小学校体育館" transform="ref(svg,13097.167,-3202.2731)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120606" content="永久津地区体育館,45205,宮崎県小林市北西方4076,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="永久津地区体育館" transform="ref(svg,13097.5182,-3202.6032)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120607" content="永久津中学校体育館,45205,宮崎県小林市北西方4578,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="永久津中学校体育館" transform="ref(svg,13096.6226,-3202.0842)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120608" content="永田公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="永田公民館" transform="ref(svg,13107.4499,-3207.3027)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120609" content="下九瀬公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="下九瀬公民館" transform="ref(svg,13102.8591,-3208.8288)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120610" content="夏木公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="夏木公民館" transform="ref(svg,13104.4342,-3210.2151)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120612" content="原公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="原公民館" transform="ref(svg,13106.9542,-3208.0468)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120623" content="市民体育館,45205,宮崎県小林市細野38-1,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="市民体育館" transform="ref(svg,13098.3006,-3199.3854)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120624" content="市立図書館駐車場,45205,宮崎県小林市細野367-1,指定避難所,-1,-1,1,0,0,0,0,0" xlink:title="市立図書館駐車場" transform="ref(svg,13096.9654,-3199.9308)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120629" content="小林高校グラウンド,45205,宮崎県小林市真方124,指定避難所,-1,-1,1,0,0,0,0,0" xlink:title="小林高校グラウンド" transform="ref(svg,13097.4004,-3199.7956)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120631" content="小林小学校体育館・グラウンド,45205,宮崎県小林市細野184-1,指定避難所,-1,-1,1,0,1,0,0,0" xlink:title="小林小学校体育館・グラウンド" transform="ref(svg,13097.6948,-3199.5401)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120632" content="小林総合運動公園,45205,宮崎県小林市南西方2085,指定避難所,-1,-1,1,0,0,0,0,0" xlink:title="小林総合運動公園" transform="ref(svg,13095.2641,-3200.1258)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120633" content="小林中学校体育館・グラウンド,45205,宮崎県小林市細野565-1,指定避難所,-1,-1,1,0,1,0,0,0" xlink:title="小林中学校体育館・グラウンド" transform="ref(svg,13096.531,-3200.1122)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120634" content="上九瀬公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="上九瀬公民館" transform="ref(svg,13102.5953,-3207.5769)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120636" content="真方地区体育館,45205,宮崎県小林市真方4906-1,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="真方地区体育館" transform="ref(svg,13099.0928,-3200.2628)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120637" content="須木運動広場,45205,宮崎県小林市須木下田973,指定避難所,-1,-1,1,0,0,0,0,0" xlink:title="須木運動広場" transform="ref(svg,13108.8668,-3207.1652)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120638" content="須木小学校体育館・グラウンド,45205,宮崎県小林市須木下田1397-2,指定避難所,-1,-1,1,0,1,0,0,0" xlink:title="須木小学校体育館・グラウンド" transform="ref(svg,13107.3052,-3207.1246)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120639" content="須木地区体育館,45205,宮崎県小林市須木中原1738,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="須木地区体育館" transform="ref(svg,13107.1791,-3207.5582)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120640" content="須木中学校体育館・グラウンド,45205,宮崎県小林市須木中原1730,指定避難所,-1,-1,1,0,1,0,0,0" xlink:title="須木中学校体育館・グラウンド" transform="ref(svg,13106.978,-3207.615)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120641" content="西小林小学校体育館,45205,宮崎県小林市南西方6068-1,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="西小林小学校体育館" transform="ref(svg,13091.3258,-3200.8203)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120642" content="西小林地区体育館,45205,宮崎県小林市北西方6212-イ-3,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="西小林地区体育館" transform="ref(svg,13090.6831,-3201.35)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120643" content="西小林中学校体育館,45205,宮崎県小林市南西方6149,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="西小林中学校体育館" transform="ref(svg,13091.2147,-3201.0314)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120647" content="中央公民館,45205,宮崎県小林市細野38-1,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="中央公民館" transform="ref(svg,13098.3447,-3199.3463)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120649" content="中河間公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="中河間公民館" transform="ref(svg,13106.2815,-3208.3923)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120650" content="鳥田町小学校体育館・グラウンド,45205,宮崎県小林市須木鳥田町3138,指定避難所,-1,-1,1,0,1,0,0,0" xlink:title="鳥田町小学校体育館・グラウンド" transform="ref(svg,13103.4724,-3209.3986)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120651" content="東方小学校体育館,45205,宮崎県小林市東方3216,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="東方小学校体育館" transform="ref(svg,13100.7112,-3201.2371)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120652" content="東方中学校体育館,45205,宮崎県小林市東方3094-2,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="東方中学校体育館" transform="ref(svg,13100.9917,-3200.8927)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120653" content="堂屋敷公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="堂屋敷公民館" transform="ref(svg,13104.1329,-3214.1573)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120654" content="奈佐木公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="奈佐木公民館" transform="ref(svg,13106.2048,-3204.1419)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120655" content="内山小中学校体育館・グラウンド,45205,宮崎県小林市須木内山5052,指定避難所,-1,-1,1,0,1,0,0,0" xlink:title="内山小中学校体育館・グラウンド" transform="ref(svg,13111.4846,-3200.4934)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120656" content="内山地域福祉センター,45205,宮崎県小林市須木内山5203-1,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="内山地域福祉センター" transform="ref(svg,13111.6132,-3200.2683)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120657" content="南小学校体育館・グラウンド,45205,宮崎県小林市細野1265,指定避難所,-1,-1,1,0,1,0,0,0" xlink:title="南小学校体育館・グラウンド" transform="ref(svg,13096.8588,-3199.2901)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120664" content="麓公民館,45205,宮崎県小林市,指定避難所,-1,-1,0,0,1,0,0,0" xlink:title="麓公民館" transform="ref(svg,13107.9748,-3206.4854)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120954" content="えびの市国際交流センター,45209,宮崎県えびの市大字榎田388番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="えびの市国際交流センター" transform="ref(svg,13081.1034,-3205.6668)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120955" content="えびの市文化センター,45209,宮崎県えびの市大字大明司2146番地2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="えびの市文化センター" transform="ref(svg,13082.712,-3205.2286)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120956" content="えびの市民体育館,45209,宮崎県えびの市大字原田3056,避難所,-1,-1,0,0,0,0,0,1" xlink:title="えびの市民体育館" transform="ref(svg,13086.8719,-3204.4696)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120957" content="永山運動公園,45209,宮崎県えびの市大字永山785番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="永山運動公園" transform="ref(svg,13080.633,-3205.3386)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120959" content="岡元小学校体育館,45209,宮崎県えびの市大字浦371,避難所,-1,-1,0,0,0,0,0,1" xlink:title="岡元小学校体育館" transform="ref(svg,13078.5994,-3202.0979)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120960" content="加久藤小学校体育館,45209,宮崎県えびの市大字栗下151,避難所,-1,-1,0,0,0,0,0,1" xlink:title="加久藤小学校体育館" transform="ref(svg,13081.3046,-3204.5977)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120961" content="加久藤小学校尾八重野分校体育館,45209,宮崎県えびの市大字東長江浦1652-179,避難所,-1,-1,0,0,0,0,0,1" xlink:title="加久藤小学校尾八重野分校体育館" transform="ref(svg,13082.0437,-3199.3343)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120962" content="加久藤地区体育館,45209,宮崎県えびの市大字栗下1168番地3,避難所,-1,-1,0,0,0,0,0,1" xlink:title="加久藤地区体育館" transform="ref(svg,13080.9307,-3204.5663)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120963" content="加久藤中学校体育館,45209,宮崎県えびの市大字栗下1269-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="加久藤中学校体育館" transform="ref(svg,13081.1824,-3204.4366)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120964" content="旧上江小学校霧島分校グラウンド,45209,宮崎県えびの市,避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧上江小学校霧島分校グラウンド" transform="ref(svg,13086.3598,-3200.0891)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120966" content="高野畜産管理センター,45209,宮崎県えびの市大字坂元1666番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="高野畜産管理センター" transform="ref(svg,13084.7582,-3209.7596)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120967" content="上江小学校体育館,45209,宮崎県えびの市大字上江1580,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上江小学校体育館" transform="ref(svg,13084.8124,-3203.2449)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120968" content="上江地区体育館,45209,宮崎県えびの市大字上江1780番地1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上江地区体育館" transform="ref(svg,13084.3623,-3202.8701)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120969" content="上江中学校体育館,45209,宮崎県えびの市大字上江1735,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上江中学校体育館" transform="ref(svg,13084.4875,-3202.8756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120974" content="神社原運動公園,45209,宮崎県えびの市大字原田2000番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="神社原運動公園" transform="ref(svg,13086.9453,-3202.8862)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120975" content="大河平小学校体育館,45209,宮崎県えびの市大字大河平2410,避難所,-1,-1,0,0,0,0,0,1" xlink:title="大河平小学校体育館" transform="ref(svg,13091.5256,-3206.2614)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120976" content="飯野駅前地区体育館,45209,宮崎県えびの市大字原田2176番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="飯野駅前地区体育館" transform="ref(svg,13087.2886,-3203.3548)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120977" content="飯野小学校体育館,45209,宮崎県えびの市大字原田110,避難所,-1,-1,0,0,0,0,0,1" xlink:title="飯野小学校体育館" transform="ref(svg,13086.6955,-3204.6337)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120978" content="飯野地区公民館,45209,宮崎県えびの市大字原田112番地11,避難所,-1,-1,0,0,0,0,0,1" xlink:title="飯野地区公民館" transform="ref(svg,13086.6845,-3204.6146)" x="0" y="0"/>
+<use xlink:href="#p0" id="f120979" content="飯野中学校体育館,45209,宮崎県えびの市大字原田190,避難所,-1,-1,0,0,0,0,0,1" xlink:title="飯野中学校体育館" transform="ref(svg,13087.1955,-3204.542)" x="0" y="0"/>
+</g>
+</svg>

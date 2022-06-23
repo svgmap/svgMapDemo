@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14132.8125 -4359.375 35.15625 35.15625" go:dataArea="14132.8125 -4359.375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,北海道　石狩市横町２８番２,10,30,2,85,18000,60,200,17000,15000,10500,5400" xlink:title="北海道　石狩市横町２８番２" transform="ref(svg,14135.0986,-4324.5297)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　石狩市八幡４丁目１６６番１５,10,10,2,80,19000,60,200,0,0,0,6100" xlink:title="北海道　石狩市八幡４丁目１６６番１５" transform="ref(svg,14137.5187,-4324.4599)" x="0" y="0"/>
+</g>
+</svg>

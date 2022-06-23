@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14108.642578125 -3892.4560546875 1.0986328125 1.0986328125" go:dataArea="14108.642578125 -3892.4560546875 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,岩手県交通（株）,萩荘線,3.0,0.0,0.0," xlink:title="1" d="M14108.6426,-3891.7991L14108.6515,-3891.7991L14108.6847,-3891.7907L14108.748,-3891.7709L14108.7815,-3891.7614L14108.802,-3891.758L14108.8206,-3891.757L14108.847,-3891.7588L14108.9388,-3891.7715L14109.0512,-3891.7867L14109.1318,-3891.7986L14109.1818,-3891.808L14109.2319,-3891.8183L14109.2535,-3891.8228L14109.2903,-3891.8301L14109.3199,-3891.8375L14109.3479,-3891.8419L14109.4311,-3891.8585L14109.4868,-3891.8696L14109.5322,-3891.8791L14109.6316,-3891.8988L14109.7412,-3891.9209"/>
+<path content="2,一関市,なの花バス　長倉・霜後コース,0.8,0.0,0.0," xlink:title="2" d="M14109.222,-3892.4561L14109.2171,-3892.4549L14109.193,-3892.4502L14109.1375,-3892.4378L14109.02,-3892.4113L14108.9692,-3892.4001L14108.9364,-3892.3927L14108.9299,-3892.4553L14108.9298,-3892.4561"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14036.1328125 -3578.2470703125 1.0986328125 1.0986328125" go:dataArea="14036.1328125 -3578.2470703125 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,成田市,津富浦ルート(大栄支所～奈土～前林小学校～保健福祉館),2.0,2.0,2.0," xlink:title="3" d="M14036.1328,-3577.4734L14036.156,-3577.483L14036.1986,-3577.5042L14036.2249,-3577.5166L14036.245,-3577.5256L14036.274,-3577.5391L14036.2809,-3577.5419L14036.3666,-3577.5819L14036.4724,-3577.6304L14036.4821,-3577.6355L14036.546,-3577.6652L14036.716,-3577.7392L14036.8315,-3577.7943L14036.8715,-3577.8185L14036.9355,-3577.8451L14037.0862,-3577.9065L14037.0897,-3577.9088L14037.0987,-3577.911L14037.1519,-3577.9336L14037.1706,-3577.9404L14037.2314,-3577.964"/>
+<path content="3,成田市,津富浦ルート(成井回転場～津富浦～保健福祉館),2.0,2.0,2.0," xlink:title="3" d="M14037.2314,-3577.964L14037.1706,-3577.9404L14037.1519,-3577.9336L14037.0987,-3577.911L14037.0897,-3577.9088L14037.0862,-3577.9065L14036.9355,-3577.8451L14036.8715,-3577.8185L14036.8315,-3577.7943L14036.716,-3577.7392L14036.546,-3577.6652L14036.4821,-3577.6355L14036.4724,-3577.6304L14036.3666,-3577.5819L14036.2809,-3577.5419L14036.274,-3577.5391L14036.245,-3577.5256L14036.2249,-3577.5166L14036.1986,-3577.5042L14036.156,-3577.483L14036.1328,-3577.4734"/>
+</g>
+</svg>

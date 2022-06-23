@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14097.65625 -3832.03125 35.15625 35.15625" go:dataArea="14097.65625 -3832.03125 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,宮城県　多賀城市高橋２?２０?８,10,10,2,60,1100,60,200,59100,89000,59700,63300" xlink:title="宮城県　多賀城市高橋２?２０?８" transform="ref(svg,14097.7061,-3828.4281)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　仙台市宮城野区岡田字北在家５７番,10,15,2,140,3000,60,100,0,43000,27400,25600" xlink:title="宮城県　仙台市宮城野区岡田字北在家５７番" transform="ref(svg,14097.7354,-3825.6605)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　仙台市宮城野区出花１丁目１１番１５,10,12,2,62,550,60,200,0,109000,75800,87800" xlink:title="宮城県　仙台市宮城野区出花１丁目１１番１５" transform="ref(svg,14098.4021,-3827.7517)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　仙台市宮城野区栄４?１２?２１,10,15,2,60,150,60,200,0,112000,74500,88000" xlink:title="宮城県　仙台市宮城野区栄４?１２?２１" transform="ref(svg,14098.4551,-3828.1261)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市東田中１?１３?１３,10,15,2,60,900,60,200,63000,102000,73000,74100" xlink:title="宮城県　多賀城市東田中１?１３?１３" transform="ref(svg,14099.6567,-3829.1558)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　宮城郡利府町加瀬字十三本塚１６２番１６,15,10,2,60,2400,50,80,0,46900,36800,36100" xlink:title="宮城県　宮城郡利府町加瀬字十三本塚１６２番１６" transform="ref(svg,14099.7584,-3831.9513)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市八幡２?１４?９,15,10,2,62,1000,60,200,61800,93000,69000,67400" xlink:title="宮城県　多賀城市八幡２?１４?９" transform="ref(svg,14099.8438,-3828.7009)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　塩竈市母子沢町４?８,10,10,2,40,1300,60,200,49500,62500,45800,35700" xlink:title="宮城県　塩竈市母子沢町４?８" transform="ref(svg,14099.849,-3830.9823)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市高崎１?１０?１０,10,10,2,40,900,60,200,54600,68900,54200,50100" xlink:title="宮城県　多賀城市高崎１?１０?１０" transform="ref(svg,14100.0374,-3830.2057)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市浮島字高原７５番１２,15,10,2,60,1100,60,200,0,65000,45000,37300" xlink:title="宮城県　多賀城市浮島字高原７５番１２" transform="ref(svg,14100.0557,-3830.7094)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　塩竈市権現堂１７?３,10,15,2,55,1500,60,200,48600,60600,38000,33200" xlink:title="宮城県　塩竈市権現堂１７?３" transform="ref(svg,14100.5069,-3831.8469)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市中央２?１９?２,10,12,2,115,600,60,200,0,125000,80600,80400" xlink:title="宮城県　多賀城市中央２?１９?２" transform="ref(svg,14100.6172,-3829.6296)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市留ケ谷３?１２?１４,10,15,2,62,950,60,200,0,0,0,64800" xlink:title="宮城県　多賀城市留ケ谷３?１２?１４" transform="ref(svg,14100.832,-3830.1662)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,宮城県　仙台市宮城野区港４丁目１番２,10,20,3,300,2900,60,200,0,0,0,39200" xlink:title="宮城県　仙台市宮城野区港４丁目１番２" transform="ref(svg,14101.1088,-3827.5687)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,宮城県　塩竈市東玉川町８?２,10,25,3,180,130,80,400,0,172000,64800,51000" xlink:title="宮城県　塩竈市東玉川町８?２" transform="ref(svg,14101.1278,-3830.9696)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　塩竈市野田７?５,10,30,2,50,450,60,200,57300,75000,50500,45400" xlink:title="宮城県　塩竈市野田７?５" transform="ref(svg,14101.2267,-3830.7818)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　塩竈市石堂１１?３３,10,20,2,60,500,60,200,64000,84800,58000,51300" xlink:title="宮城県　塩竈市石堂１１?３３" transform="ref(svg,14101.3331,-3831.2038)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,宮城県　多賀城市下馬５?１?１２,15,10,2,220,550,80,400,112000,158000,59700,49400" xlink:title="宮城県　多賀城市下馬５?１?１２" transform="ref(svg,14101.5435,-3830.0841)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,宮城県　塩竈市南町５?１２,10,30,2,80,100,80,400,0,138000,54300,42500" xlink:title="宮城県　塩竈市南町５?１２" transform="ref(svg,14101.7977,-3831.2678)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,宮城県　塩竈市本町３?７,10,40,3,90,450,80,500,0,0,57200,43500" xlink:title="宮城県　塩竈市本町３?７" transform="ref(svg,14101.8204,-3831.6553)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市丸山１?６?７,10,15,2,68,1000,60,200,0,0,53100,57800" xlink:title="宮城県　多賀城市丸山１?６?７" transform="ref(svg,14101.9503,-3830.049)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,宮城県　多賀城市栄２?７?３６,10,10,2,400,2000,60,200,0,53300,21700,23500" xlink:title="宮城県　多賀城市栄２?７?３６" transform="ref(svg,14102.0058,-3828.3903)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,宮城県　塩竈市海岸通５?６,10,20,3,0,0,80,500,360000,367000,83800,56300" xlink:title="宮城県　塩竈市海岸通５?６" transform="ref(svg,14102.1882,-3831.7879)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　塩竈市花立町１０?８,10,15,2,40,700,60,200,72000,77500,46700,40300" xlink:title="宮城県　塩竈市花立町１０?８" transform="ref(svg,14102.2018,-3830.8453)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市下馬３?２５?１８,10,15,2,40,930,60,200,0,0,0,55200" xlink:title="宮城県　多賀城市下馬３?２５?１８" transform="ref(svg,14102.2035,-3830.5687)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,宮城県　塩竈市尾島町１６?１４,10,25,4,150,250,80,400,0,175000,55700,41500" xlink:title="宮城県　塩竈市尾島町１６?１４" transform="ref(svg,14102.4234,-3831.5926)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　塩竈市舟入２?１?１２?８,12,10,2,62,1400,60,200,0,70700,46300,36300" xlink:title="宮城県　塩竈市舟入２?１?１２?８" transform="ref(svg,14103.0713,-3831.1132)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　塩竈市港町２?１５?９,10,30,3,120,1200,60,200,55700,77700,39700,30100" xlink:title="宮城県　塩竈市港町２?１５?９" transform="ref(svg,14103.2716,-3831.6932)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　多賀城市大代４?１２?１０,10,10,2,50,3000,60,200,47300,61900,45100,42500" xlink:title="宮城県　多賀城市大代４?１２?１０" transform="ref(svg,14103.5614,-3829.6952)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　宮城郡七ケ浜町遠山２?７?３４,10,15,3,60,3500,60,200,0,57000,36200,36900" xlink:title="宮城県　宮城郡七ケ浜町遠山２?７?３４" transform="ref(svg,14104.1235,-3829.5123)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　宮城郡七ケ浜町境山１?２?３３,10,10,2,60,3200,50,80,0,0,0,36400" xlink:title="宮城県　宮城郡七ケ浜町境山１?２?３３" transform="ref(svg,14104.5693,-3830.1443)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　宮城郡七ケ浜町汐見台３丁目２番１１２,10,10,2,60,4000,50,80,45800,63700,38600,45300" xlink:title="宮城県　宮城郡七ケ浜町汐見台３丁目２番１１２" transform="ref(svg,14105.1084,-3829.826)" x="0" y="0"/>
+</g>
+</svg>

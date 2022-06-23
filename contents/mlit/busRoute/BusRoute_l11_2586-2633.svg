@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14091.064453125 -3857.2998046875 1.0986328125 1.0986328125" go:dataArea="14091.064453125 -3857.2998046875 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,大崎市,高倉線,4.0,4.0,0.0," xlink:title="3" d="M14092.1631,-3857.2369L14092.1161,-3857.2363L14092.0863,-3857.2287L14092.082,-3857.2176L14092.0512,-3857.1506L14092.0361,-3857.1202L14092.0155,-3857.0769L14091.9974,-3857.0391L14091.9802,-3857.0042L14091.9247,-3856.8888L14091.9057,-3856.8493L14091.8727,-3856.7839L14091.8684,-3856.7772L14091.8591,-3856.7648L14091.8347,-3856.74L14091.8261,-3856.7316L14091.8182,-3856.7248L14091.6921,-3856.6048L14091.6799,-3856.593L14091.6405,-3856.5569L14091.6121,-3856.5359L14091.5888,-3856.5074L14091.5084,-3856.4305L14091.4796,-3856.403L14091.4559,-3856.3803L14091.3687,-3856.297L14091.3179,-3856.2471L14091.296,-3856.2264L14091.2695,-3856.2012"/>
+<path content="3,色麻町,色麻線,4.0,0.0,0.0," xlink:title="3" d="M14091.0645,-3857.1594L14091.0818,-3857.1594L14091.1392,-3857.1632L14091.1591,-3857.1646L14091.3842,-3857.1802L14091.4593,-3857.1858L14091.515,-3857.1889L14091.6139,-3857.1962L14091.6671,-3857.2002L14091.6998,-3857.2023L14091.7343,-3857.2047L14091.8075,-3857.2092L14091.8719,-3857.2137L14091.9895,-3857.2221L14092.0634,-3857.2272L14092.0863,-3857.2287L14092.1161,-3857.2363L14092.1631,-3857.2369"/>
+</g>
+</svg>

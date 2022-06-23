@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="14132.8125 -4148.4375 70.3125 70.3125" go:dataArea="14132.8125 -4148.4375 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f9876" content="おおぞら小学校,02207,青森県三沢市庭構1084-33,第１次避難所、第２次避難所,9636,19253,0,0,0,0,0,1" xlink:title="おおぞら小学校" transform="ref(svg,14140.0132,-4078.1314)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9898" content="織笠団体活動センター,02207,青森県三沢市織笠四丁目2692-1,第１次避難所、第２次避難所,10925,21850,0,0,0,0,0,1" xlink:title="織笠団体活動センター" transform="ref(svg,14139.7895,-4079.4393)" x="0" y="0"/>
+<use xlink:href="#p0" id="f9909" content="天ヶ森庁舎,02207,青森県三沢市天ヶ森天ヶ森13-283,第１次避難所、第２次避難所,1451,2903,0,0,0,0,0,1" xlink:title="天ヶ森庁舎" transform="ref(svg,14138.9471,-4084.899)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10893" content="かけはし寮,02411,青森県上北郡六ヶ所村大字出戸字棚沢130-23,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="かけはし寮" transform="ref(svg,14136.7608,-4100.5394)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10894" content="とうほく天間農業協同組合,02411,青森県上北郡六ヶ所村大字平沼字久保68-23,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="とうほく天間農業協同組合" transform="ref(svg,14136.0375,-4087.0904)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10895" content="新城平集会所,02411,青森県上北郡六ヶ所村大字倉内字切揚場106-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="新城平集会所" transform="ref(svg,14133.5756,-4087.1673)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10896" content="大石総合運動公園,02411,青森県上北郡六ヶ所村大字尾駮字野附521-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大石総合運動公園" transform="ref(svg,14133.7503,-4098.1254)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10897" content="第一中学校,02411,青森県上北郡六ヶ所村大字尾駮字野附1054,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="第一中学校" transform="ref(svg,14136.6142,-4096.8224)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10898" content="第二中学校,02411,青森県上北郡六ヶ所村大字倉内字湯ノ沢112-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="第二中学校" transform="ref(svg,14134.1147,-4086.0737)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10899" content="泊小学校,02411,青森県上北郡六ヶ所村大字泊川原75-17,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="泊小学校" transform="ref(svg,14138.8798,-4108.8985)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10900" content="泊中学校,02411,青森県上北郡六ヶ所村大字泊字焼山611-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="泊中学校" transform="ref(svg,14138.9628,-4110.3047)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10983" content="桑原集会所,02424,青森県下北郡東通村大字砂子又字新田29-12,避難場所,-1,-1,0,0,1,0,0,0" xlink:title="桑原集会所" transform="ref(svg,14133.3447,-4129.4746)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10991" content="東通小学校,02424,青森県下北郡東通村大字砂子又字沢内9-4,避難場所,-1,-1,0,0,1,0,0,0" xlink:title="東通小学校" transform="ref(svg,14133.3667,-4127.6205)" x="0" y="0"/>
+<use xlink:href="#p0" id="f10992" content="東通村体育館,02424,青森県下北郡東通村大字砂子又字沢内5-34,避難場所,-1,-1,0,0,1,0,0,0" xlink:title="東通村体育館" transform="ref(svg,14132.9024,-4127.8591)" x="0" y="0"/>
+</g>
+</svg>

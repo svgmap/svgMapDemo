@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14100.9521484375 -3870.4833984375 1.0986328125 1.0986328125" go:dataArea="14100.9521484375 -3870.4833984375 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,大崎市,古川線,8.0,5.0,5.0," xlink:title="3" d="M14100.9521,-3870.297L14100.9639,-3870.3091L14101.0106,-3870.3575L14101.0737,-3870.4236L14101.0614,-3870.4364L14101.0597,-3870.4419L14101.0603,-3870.4495L14101.0618,-3870.457L14101.0664,-3870.4688L14101.0703,-3870.4747L14101.0777,-3870.4799L14101.0801,-3870.4834"/>
+<path content="3,栗原市,古川線,8.0,5.0,5.0," xlink:title="3" d="M14100.9521,-3870.297L14100.9639,-3870.3091L14101.0106,-3870.3575L14101.0737,-3870.4236L14101.0614,-3870.4364L14101.0597,-3870.4419L14101.0603,-3870.4495L14101.0618,-3870.457L14101.0664,-3870.4688L14101.0703,-3870.4747L14101.0777,-3870.4799L14101.0801,-3870.4834"/>
+</g>
+</svg>

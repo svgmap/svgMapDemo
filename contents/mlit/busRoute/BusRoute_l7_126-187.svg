@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13464.84375 -3462.890625 17.578125 17.578125" go:dataArea="13464.84375 -3462.890625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,淡路交通（株）,三ノ宮・西浦線,8.0,8.0,8.0," xlink:title="1" d="M13482.4219,-3446.465L13482.3896,-3446.4661L13482.2422,-3446.4351L13482.0676,-3446.4499L13481.994,-3446.4861L13481.9287,-3446.5391L13481.8298,-3446.5566L13481.8007,-3446.5501L13481.7315,-3446.4932L13481.6371,-3446.3077L13481.5499,-3446.1746L13481.4846,-3446.117L13481.4109,-3446.0757L13481.3462,-3446.0782L13481.2984,-3446.0873L13481.2512,-3446.0821L13481.1329,-3446.0136L13480.9927,-3445.8934L13480.8685,-3445.7427L13480.7819,-3445.6128L13480.6462,-3445.49L13480.61,-3445.3517L13480.5883,-3445.3125"/>
+<path content="1,神姫バス（株）,神戸空港・三ノ宮-五色,8.0,8.0,8.0," xlink:title="1" d="M13482.4219,-3446.465L13482.3896,-3446.4661L13482.2422,-3446.4351L13482.0676,-3446.4499L13481.994,-3446.4861L13481.9287,-3446.5391L13481.8298,-3446.5566L13481.8007,-3446.5501L13481.7315,-3446.4932L13481.6371,-3446.3077L13481.5499,-3446.1746L13481.4846,-3446.117L13481.4109,-3446.0757L13481.3462,-3446.0782L13481.2984,-3446.0873L13481.2512,-3446.0821L13481.1329,-3446.0136L13480.9927,-3445.8934L13480.8685,-3445.7427L13480.7819,-3445.6128L13480.6462,-3445.49L13480.61,-3445.3517L13480.5883,-3445.3125"/>
+</g>
+</svg>

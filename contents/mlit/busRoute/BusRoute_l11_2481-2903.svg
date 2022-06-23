@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13975.7080078125 -3560.6689453125 1.0986328125 1.0986328125" go:dataArea="13975.7080078125 -3560.6689453125 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,都営バス,井98,24.0,10.0,0.0," xlink:title="2" d="M13975.9194,-3560.6689L13975.9404,-3560.6353L13975.9702,-3560.5776L13976.0303,-3560.4799L13976.0495,-3560.4501L13976.0912,-3560.3777L13976.135,-3560.2605L13976.165,-3560.1474L13976.1686,-3560.1347L13976.1712,-3560.1195L13976.2158,-3559.9841L13976.235,-3559.9283L13976.2424,-3559.9124L13976.267,-3559.8697L13976.2973,-3559.826L13976.3132,-3559.8017L13976.3294,-3559.7824L13976.4845,-3559.5703"/>
+<path content="2,都営バス,品98甲,80.0,63.0,36.0," xlink:title="2" d="M13975.9194,-3560.6689L13975.9404,-3560.6353L13975.9702,-3560.5776L13976.0303,-3560.4799L13976.0495,-3560.4501L13976.0912,-3560.3777L13976.135,-3560.2605L13976.165,-3560.1474L13976.1686,-3560.1347L13976.1712,-3560.1195L13976.2158,-3559.9841L13976.235,-3559.9283L13976.2424,-3559.9124L13976.267,-3559.8697L13976.2973,-3559.826L13976.3132,-3559.8017L13976.3294,-3559.7824L13976.4845,-3559.5703"/>
+</g>
+</svg>

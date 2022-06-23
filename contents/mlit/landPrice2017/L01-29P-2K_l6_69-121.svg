@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13587.890625 -3498.046875 17.578125 17.578125" go:dataArea="13587.890625 -3498.046875 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,滋賀県　大津市国分２丁目字新田３６３番２１,10,12,2,40,3100,60,200,0,79900,43000,35700" xlink:title="滋賀県　大津市国分２丁目字新田３６３番２１" transform="ref(svg,13588.3405,-3496.2238)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市大平１?２７?２０,10,12,2,60,3700,60,200,0,142000,78000,61500" xlink:title="滋賀県　大津市大平１?２７?２０" transform="ref(svg,13589.1441,-3495.753)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市千町３丁目字坂口５７７番１,10,10,2,80,5400,60,200,41000,61500,34600,28400" xlink:title="滋賀県　大津市千町３丁目字坂口５７７番１" transform="ref(svg,13589.203,-3494.5144)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市国分１?１３?４０,10,12,2,64,1600,60,200,0,152000,91500,84000" xlink:title="滋賀県　大津市国分１?１３?４０" transform="ref(svg,13589.5451,-3496.763)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,滋賀県　大津市粟津町９?２３,10,25,4,100,100,80,600,480000,447000,164000,188000" xlink:title="滋賀県　大津市粟津町９?２３" transform="ref(svg,13590.0414,-3497.8813)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,滋賀県　大津市栄町４?７,10,15,3,110,450,80,500,0,0,0,143000" xlink:title="滋賀県　大津市栄町４?７" transform="ref(svg,13590.1867,-3497.6881)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市蛍谷６?３０,10,15,2,45,1300,60,200,0,0,0,74100" xlink:title="滋賀県　大津市蛍谷６?３０" transform="ref(svg,13590.3234,-3496.9021)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市千町１?１７?６,10,15,2,70,4900,60,200,104000,141000,76100,64200" xlink:title="滋賀県　大津市千町１?１７?６" transform="ref(svg,13590.3701,-3494.6915)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市南郷２?１９?３,12,10,2,60,4900,60,200,0,151000,85000,72400" xlink:title="滋賀県　大津市南郷２?１９?３" transform="ref(svg,13590.4044,-3494.1233)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市南郷４?２７?６,10,15,2,50,5800,60,200,0,0,50300,39800" xlink:title="滋賀県　大津市南郷４?２７?６" transform="ref(svg,13590.4144,-3493.3345)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,滋賀県　大津市松原町１０?１,10,10,4,150,440,80,400,0,0,125000,127000" xlink:title="滋賀県　大津市松原町１０?１" transform="ref(svg,13590.4652,-3497.9089)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市瀬田２?６?２１,15,10,2,60,1500,60,200,110000,144000,82500,81400" xlink:title="滋賀県　大津市瀬田２?６?２１" transform="ref(svg,13590.7779,-3497.0894)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,滋賀県　大津市瀬田１?１７?１６,10,25,2,120,1400,80,400,185000,223000,105000,93100" xlink:title="滋賀県　大津市瀬田１?１７?１６" transform="ref(svg,13590.8097,-3497.2931)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市瀬田１?７?５,10,12,2,58,2000,60,200,0,156000,94000,92900" xlink:title="滋賀県　大津市瀬田１?７?５" transform="ref(svg,13591.1101,-3497.5914)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市瀬田３?３１?１４,10,12,2,70,2500,60,200,120000,159000,93000,90700" xlink:title="滋賀県　大津市瀬田３?３１?１４" transform="ref(svg,13591.1373,-3496.6005)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市瀬田５?２０?１０,12,10,2,70,2900,60,200,0,148000,87000,78200" xlink:title="滋賀県　大津市瀬田５?２０?１０" transform="ref(svg,13591.1973,-3496.0117)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市神領３?１１?２３,10,15,3,70,2200,60,200,0,0,88500,85500" xlink:title="滋賀県　大津市神領３?１１?２３" transform="ref(svg,13591.5195,-3497.0134)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市黒津２?５?１６,12,10,2,60,5000,60,200,95000,140000,69000,57000" xlink:title="滋賀県　大津市黒津２?５?１６" transform="ref(svg,13591.6413,-3494.4162)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市野郷原１?１８?２９,10,15,2,60,2800,60,200,0,0,78400,71700" xlink:title="滋賀県　大津市野郷原１?１８?２９" transform="ref(svg,13591.8693,-3496.7441)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市関津１?３?８,10,20,2,48,7300,60,200,34800,57500,30500,26900" xlink:title="滋賀県　大津市関津１?３?８" transform="ref(svg,13592.315,-3493.1335)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,滋賀県　大津市関津４?５?１,10,10,0,85,7300,60,200,0,0,0,22800" xlink:title="滋賀県　大津市関津４?５?１" transform="ref(svg,13592.5923,-3493.175)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市里６?１６?１３,10,10,2,60,7500,50,80,0,133000,66000,52500" xlink:title="滋賀県　大津市里６?１６?１３" transform="ref(svg,13593.4085,-3493.4187)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　大津市平野１?１７?１５,10,20,2,44,6300,60,200,0,0,0,27400" xlink:title="滋賀県　大津市平野１?１７?１５" transform="ref(svg,13595.9201,-3496.022)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　甲賀市信楽町長野字広芝１３６９番５,10,20,2,40,1400,60,200,0,42000,26500,20400" xlink:title="滋賀県　甲賀市信楽町長野字広芝１３６９番５" transform="ref(svg,13605.0069,-3488.3435)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,滋賀県　甲賀市信楽町江田字小麦生５９７番外,10,12,2,70,1700,60,200,0,43000,24800,19100" xlink:title="滋賀県　甲賀市信楽町江田字小麦生５９７番外" transform="ref(svg,13605.1116,-3486.8935)" x="0" y="0"/>
+</g>
+</svg>

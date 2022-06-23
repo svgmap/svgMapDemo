@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13921.875 -3515.625 140.625 140.625" go:dataArea="13921.875 -3515.625 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,東京都　新島村本村１?３?５,12,10,1,50,1400,70,200,0,7700,7700,7400" xlink:title="東京都　新島村本村１?３?５" transform="ref(svg,13925.4251,-3437.6045)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,東京都　新島村本村１?７?１１,12,10,2,60,1600,70,200,0,9600,9600,9300" xlink:title="東京都　新島村本村１?７?１１" transform="ref(svg,13925.4889,-3437.7451)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　新島村若郷３?４,12,10,1,60,9100,70,200,0,0,6200,5900" xlink:title="東京都　新島村若郷３?４" transform="ref(svg,13928.2648,-3442.1828)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,東京都　大島町元町１丁目９番４,15,10,4,0,0,80,400,0,102000,84000,44900" xlink:title="東京都　大島町元町１丁目９番４" transform="ref(svg,13935.3363,-3475.1556)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　大島町元町４丁目４番９,10,12,2,60,400,60,200,0,0,20200,13600" xlink:title="東京都　大島町元町４丁目４番９" transform="ref(svg,13935.979,-3475.0218)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　大島町差木地字下原１０１３番４３,20,10,1,35,100,70,200,0,0,0,5900" xlink:title="東京都　大島町差木地字下原１０１３番４３" transform="ref(svg,13943.6207,-3468.2267)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　三宅村阿古２０５４番１外,12,10,1,52,60,70,200,0,0,9000,8100" xlink:title="東京都　三宅村阿古２０５４番１外" transform="ref(svg,13948.1878,-3407.0899)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,東京都　三宅村阿古６９１番１,20,10,2,97,130,70,200,0,0,12100,11000" xlink:title="東京都　三宅村阿古６９１番１" transform="ref(svg,13948.218,-3406.663)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　三宅村神着２１８番１,10,10,2,103,180,70,200,0,0,10900,9800" xlink:title="東京都　三宅村神着２１８番１" transform="ref(svg,13952.325,-3412.0386)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,神奈川県　三浦市三崎４?７?３,10,15,2,90,5500,80,400,0,0,147000,92500" xlink:title="神奈川県　三浦市三崎４?７?３" transform="ref(svg,13961.7935,-3514.2038)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,神奈川県　三浦市東岡町４?２７,10,10,2,42,4900,60,200,0,179000,109000,67000" xlink:title="神奈川県　三浦市東岡町４?２７" transform="ref(svg,13961.8866,-3514.4885)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,神奈川県　三浦市三崎町諸磯字白須１４００番４,10,20,1,65,4800,60,200,0,176000,103000,64500" xlink:title="神奈川県　三浦市三崎町諸磯字白須１４００番４" transform="ref(svg,13962.0314,-3515.0622)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,神奈川県　三浦市栄町１７?２４,10,15,2,80,4400,60,200,0,176000,107000,66000" xlink:title="神奈川県　三浦市栄町１７?２４" transform="ref(svg,13962.8773,-3514.6606)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,神奈川県　三浦市宮川町２４?２４,10,15,2,60,5000,60,200,0,0,0,60000" xlink:title="神奈川県　三浦市宮川町２４?２４" transform="ref(svg,13963.0142,-3514.4436)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,神奈川県　三浦市原町１１?２９,10,20,2,40,3800,60,200,0,0,0,64000" xlink:title="神奈川県　三浦市原町１１?２９" transform="ref(svg,13963.112,-3515.203)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　館山市宮城字寺下１１６３番１１,10,25,2,60,3100,60,200,0,0,0,21800" xlink:title="千葉県　館山市宮城字寺下１１６３番１１" transform="ref(svg,13983.8155,-3498.1352)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　館山市那古字溜１５３６番２８,10,15,2,40,1900,70,200,0,0,22800,21600" xlink:title="千葉県　館山市那古字溜１５３６番２８" transform="ref(svg,13985.9285,-3501.8135)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　館山市北条字浜通１８６６番５外,10,20,2,80,190,80,400,0,0,0,52600" xlink:title="千葉県　館山市北条字浜通１８６６番５外" transform="ref(svg,13986.3385,-3499.5461)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　館山市長須賀字塩焚８６番１２,12,10,2,50,1200,60,200,0,0,30500,29600" xlink:title="千葉県　館山市長須賀字塩焚８６番１２" transform="ref(svg,13986.4513,-3498.7707)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　館山市北条字鶴ケ谷２０９０番２外,10,10,2,36,750,60,200,57600,97200,39900,38800" xlink:title="千葉県　館山市北条字鶴ケ谷２０９０番２外" transform="ref(svg,13986.6112,-3499.9143)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　館山市北条字白山下１５２４番３０外,10,20,2,85,810,80,200,0,0,0,39100" xlink:title="千葉県　館山市北条字白山下１５２４番３０外" transform="ref(svg,13986.7678,-3499.182)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　鴨川市花房字安田７３番２外,12,10,2,120,1900,60,200,0,100000,31300,32400" xlink:title="千葉県　鴨川市花房字安田７３番２外" transform="ref(svg,14008.7863,-3511.9082)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　鴨川市花房字上貫３９４番２外,15,10,2,60,2500,70,200,0,0,0,21600" xlink:title="千葉県　鴨川市花房字上貫３９４番２外" transform="ref(svg,14009.2343,-3512.4092)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　鴨川市横渚字洲崎５５６番,10,10,2,40,800,60,200,43000,74000,29500,29900" xlink:title="千葉県　鴨川市横渚字洲崎５５６番" transform="ref(svg,14010.1477,-3510.1111)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　鴨川市横渚字沼里１１１２番１外,15,10,1,85,100,80,300,0,0,0,38700" xlink:title="千葉県　鴨川市横渚字沼里１１１２番１外" transform="ref(svg,14010.3438,-3510.6784)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　鴨川市貝渚字川口２９９８番２,10,20,2,40,1300,80,200,0,0,0,22000" xlink:title="千葉県　鴨川市貝渚字川口２９９８番２" transform="ref(svg,14010.3503,-3509.6864)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　鴨川市小湊字田町８８番,10,20,2,35,1500,70,200,0,49300,20000,18600" xlink:title="千葉県　鴨川市小湊字田町８８番" transform="ref(svg,14020.0349,-3512.3089)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　勝浦市興津字家名４８番１７,10,15,2,45,450,60,200,0,0,0,26700" xlink:title="千葉県　勝浦市興津字家名４８番１７" transform="ref(svg,14025.3077,-3513.5449)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　勝浦市墨名字加ケノ下７１９番１４,10,10,4,80,450,80,400,133000,190000,46500,42800" xlink:title="千葉県　勝浦市墨名字加ケノ下７１９番１４" transform="ref(svg,14031.3061,-3515.0233)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　勝浦市沢倉字梨木２０８番７,10,10,2,70,1600,60,200,0,0,0,21800" xlink:title="千葉県　勝浦市沢倉字梨木２０８番７" transform="ref(svg,14032.386,-3515.3776)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13781.25 -3937.5 140.625 140.625" go:dataArea="13781.25 -3937.5 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,新潟県　佐渡市相川下戸村３５８番４,10,15,2,50,200,70,300,0,35200,27200,15900" xlink:title="新潟県　佐渡市相川下戸村３５８番４" transform="ref(svg,13823.7717,-3802.5151)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市河原田諏訪町字海方１７７番３,10,40,2,70,150,60,200,0,64600,42800,25000" xlink:title="新潟県　佐渡市河原田諏訪町字海方１７７番３" transform="ref(svg,13831.6615,-3800.1664)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,新潟県　佐渡市河原田本町字中町山方１７番１,10,35,2,130,0,80,400,0,169000,67900,34500" xlink:title="新潟県　佐渡市河原田本町字中町山方１７番１" transform="ref(svg,13832.0513,-3800.1694)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市八幡町字西方８２番外,10,35,1,90,100,70,200,0,47300,31700,18100" xlink:title="新潟県　佐渡市八幡町字西方８２番外" transform="ref(svg,13832.9469,-3799.6768)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市四日町字川端３９２番１,10,20,2,80,200,70,200,0,24500,16600,9500" xlink:title="新潟県　佐渡市四日町字川端３９２番１" transform="ref(svg,13834.734,-3797.7646)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,新潟県　佐渡市千種字後田丙３１７番１外,10,30,2,130,0,80,300,0,80000,58000,34400" xlink:title="新潟県　佐渡市千種字後田丙３１７番１外" transform="ref(svg,13836.2595,-3801.9966)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市千種字花屋敷丙１２８番１,10,25,1,60,300,70,200,0,13000,12300,10600" xlink:title="新潟県　佐渡市千種字花屋敷丙１２８番１" transform="ref(svg,13836.3746,-3802.4584)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市宮川字西高野１２７０番１２外,10,12,2,60,600,70,200,0,14700,13700,10500" xlink:title="新潟県　佐渡市宮川字西高野１２７０番１２外" transform="ref(svg,13838.029,-3797.874)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市大和字村上４６７番２,10,12,2,100,250,70,200,0,23300,16200,10200" xlink:title="新潟県　佐渡市大和字村上４６７番２" transform="ref(svg,13838.6663,-3804.3951)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市畑野字何代甲３７２番８,12,10,2,110,300,70,200,0,35300,25700,15600" xlink:title="新潟県　佐渡市畑野字何代甲３７２番８" transform="ref(svg,13840.0443,-3799.4426)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市春日字大屋地１０２７番１０,10,10,2,80,150,70,200,63600,60300,40000,23400" xlink:title="新潟県　佐渡市春日字大屋地１０２７番１０" transform="ref(svg,13843.1673,-3809.1075)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,新潟県　佐渡市両津夷字海方６７番,10,40,2,125,0,70,400,0,0,0,31100" xlink:title="新潟県　佐渡市両津夷字海方６７番" transform="ref(svg,13843.2818,-3808.6728)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市新穂潟上１８２５番３外,15,10,2,60,1300,70,200,0,5500,4900,4060" xlink:title="新潟県　佐渡市新穂潟上１８２５番３外" transform="ref(svg,13843.3785,-3804.3858)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市両津湊字鴨崎３４８番１９外,10,15,2,55,100,70,400,52700,50600,35600,20200" xlink:title="新潟県　佐渡市両津湊字鴨崎３４８番１９外" transform="ref(svg,13843.9267,-3807.6681)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　佐渡市住吉字小松原７７８番８,10,10,2,60,650,70,200,0,41800,24400,13800" xlink:title="新潟県　佐渡市住吉字小松原７７８番８" transform="ref(svg,13845.0331,-3806.6529)" x="0" y="0"/>
+</g>
+</svg>

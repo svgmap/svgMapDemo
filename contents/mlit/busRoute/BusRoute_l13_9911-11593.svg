@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13972.137451171875 -3565.887451171875 0.274658203125 0.274658203125" go:dataArea="13972.137451171875 -3565.887451171875 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,都営バス,品97,52.0,45.0,43.0," xlink:title="2" d="M13972.3685,-3565.6128L13972.3752,-3565.6281L13972.3813,-3565.6471L13972.3849,-3565.6591L13972.388,-3565.6802L13972.3883,-3565.6821L13972.3883,-3565.7176L13972.3821,-3565.7824L13972.3807,-3565.7906L13972.3795,-3565.799L13972.3697,-3565.854L13972.369,-3565.8613L13972.3645,-3565.8875"/>
+<path content="2,都営バス,黒77,37.0,37.0,36.0," xlink:title="2" d="M13972.3645,-3565.8875L13972.369,-3565.8613L13972.3697,-3565.854L13972.3795,-3565.799L13972.3807,-3565.7906L13972.3821,-3565.7824L13972.3883,-3565.7176L13972.3883,-3565.6821L13972.388,-3565.6802L13972.3849,-3565.6591L13972.3813,-3565.6471L13972.3752,-3565.6281L13972.3685,-3565.6128"/>
+</g>
+</svg>

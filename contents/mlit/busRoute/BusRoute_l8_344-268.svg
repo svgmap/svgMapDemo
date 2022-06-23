@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14273.4375 -4394.53125 8.7890625 8.7890625" go:dataArea="14273.4375 -4394.53125 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="4,上川町,越路線,999.9,999.9,999.9," xlink:title="4" d="M14276.1677,-4385.7422L14276.11,-4385.7774L14276.0559,-4385.8102L14276.019,-4385.8345L14275.9498,-4385.8801L14275.9187,-4385.9003L14275.8511,-4385.9408L14275.7627,-4386.0102L14275.625,-4386.0871L14275.5542,-4386.1332L14275.5457,-4386.1377L14275.4532,-4386.1984L14275.4501,-4386.1996L14275.2014,-4386.3616L14275.1524,-4386.3891L14275.0786,-4386.4263L14274.9954,-4386.4611L14274.8318,-4386.5247L14274.8259,-4386.5264L14274.6962,-4386.577L14274.6176,-4386.6038L14274.6145,-4386.605L14273.9755,-4386.7663L14273.9508,-4386.7803L14273.4992,-4386.8974L14273.443,-4386.9111L14273.4375,-4386.9117"/>
+</g>
+</svg>

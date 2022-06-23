@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="14132.8125 -4359.375 35.15625 35.15625" go:dataArea="14132.8125 -4359.375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f4500" content="共栄地区公民館,01210,北海道岩見沢市北村中央197番地2,避難所,120,494,0,0,0,0,0,1" xlink:title="共栄地区公民館" transform="ref(svg,14167.5491,-4325.1914)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4532" content="豊里地区公民館,01210,北海道岩見沢市北村豊里789番地,避難所,120,498,0,0,0,0,0,1" xlink:title="豊里地区公民館" transform="ref(svg,14167.5324,-4328.6642)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5421" content="旧濃昼小中学校グラウンド,01235,北海道石狩市浜益区濃昼58-2,避難場所,-1,1201,0,0,0,0,0,1" xlink:title="旧濃昼小中学校グラウンド" transform="ref(svg,14139.5002,-4348.0715)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5425" content="古潭会館,01235,北海道石狩市厚田区古潭40-2,避難場所,200,-1,0,0,0,0,0,1" xlink:title="古潭会館" transform="ref(svg,14143.1497,-4335.5096)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5426" content="古潭神社前（高台）,01235,北海道石狩市厚田区古潭50-3,避難場所,-1,512,0,1,0,0,0,0" xlink:title="古潭神社前（高台）" transform="ref(svg,14142.8444,-4335.795)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5429" content="厚田支所別館,01235,北海道石狩市厚田区別狩98-1,避難場所,-1,3706,0,1,0,0,0,0" xlink:title="厚田支所別館" transform="ref(svg,14143.7035,-4339.506)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5430" content="厚田総合センター,01235,北海道石狩市厚田区厚田45-5,避難場所,450,-1,0,0,0,0,0,1" xlink:title="厚田総合センター" transform="ref(svg,14143.4318,-4339.937)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5436" content="高岡ふれあい研修センター,01235,北海道石狩市八幡町高岡28-5,避難場所,94,-1,0,0,0,0,0,1" xlink:title="高岡ふれあい研修センター" transform="ref(svg,14142.1249,-4325.4179)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5437" content="実田会館,01235,北海道石狩市浜益区実田129-2,避難場所,-1,2821,0,0,0,0,0,1" xlink:title="実田会館" transform="ref(svg,14143.9755,-4358.4651)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5441" content="正眼寺前（高台）,01235,北海道石狩市厚田区別狩17-7,避難場所,-1,6160,0,1,0,0,0,0" xlink:title="正眼寺前（高台）" transform="ref(svg,14143.4585,-4339.5825)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5446" content="石狩小学校,01235,北海道石狩市横町39,避難場所,576,11300,0,0,0,0,0,1" xlink:title="石狩小学校" transform="ref(svg,14134.8385,-4324.3703)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5451" content="送毛会館,01235,北海道石狩市浜益区送毛37-3,避難場所,-1,1105,0,0,0,0,0,1" xlink:title="送毛会館" transform="ref(svg,14137.0059,-4350.9738)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5453" content="田沢宅南東高台,01235,北海道石狩市厚田区濃昼（国道用地）,避難場所,-1,600,0,1,0,0,0,0" xlink:title="田沢宅南東高台" transform="ref(svg,14139.3874,-4347.8768)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5455" content="特別養護老人ホーム前庭,01235,北海道石狩市厚田区厚田189-1,避難場所,-1,18536,0,1,0,0,0,0" xlink:title="特別養護老人ホーム前庭" transform="ref(svg,14143.5674,-4340.206)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5457" content="濃昼会館,01235,北海道石狩市浜益区濃昼21-11,避難場所,-1,100,0,0,0,0,0,1" xlink:title="濃昼会館" transform="ref(svg,14139.4259,-4347.9333)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5458" content="八幡コミュニティセンター,01235,北海道石狩市八幡2丁目332-12,避難場所,160,-1,0,0,0,0,0,1" xlink:title="八幡コミュニティセンター" transform="ref(svg,14137.1137,-4324.5159)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5459" content="八幡小学校,01235,北海道石狩市八幡4丁目167,避難場所,425,14500,0,0,0,0,0,1" xlink:title="八幡小学校" transform="ref(svg,14137.6994,-4324.3759)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5460" content="発足会館,01235,北海道石狩市厚田区厚田292-25,避難場所,100,-1,0,0,0,0,0,1" xlink:title="発足会館" transform="ref(svg,14149.4181,-4342.2483)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5461" content="毘砂別会館,01235,北海道石狩市浜益区毘砂別35-4,避難場所,-1,1160,0,0,0,0,0,1" xlink:title="毘砂別会館" transform="ref(svg,14137.799,-4355.7034)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5465" content="浜益小学校,01235,北海道石狩市浜益区柏木1-17,避難場所,627,3459,0,0,0,0,0,1" xlink:title="浜益小学校" transform="ref(svg,14138.8026,-4357.8433)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5466" content="浜益中学校,01235,北海道石狩市浜益区川下162-2,避難場所,602,9688,0,0,0,0,0,1" xlink:title="浜益中学校" transform="ref(svg,14138.9978,-4359.1409)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5467" content="望来小学校,01235,北海道石狩市厚田区望来105-9,避難場所,325,6138,0,0,0,0,0,1" xlink:title="望来小学校" transform="ref(svg,14142.6955,-4331.8912)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5468" content="望来神社裏山（高台）,01235,北海道石狩市厚田区望来87-2,避難場所,-1,2927,0,1,0,0,0,0" xlink:title="望来神社裏山（高台）" transform="ref(svg,14141.6297,-4331.2044)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5471" content="緑ケ原会館,01235,北海道石狩市緑ケ原1丁目174,避難場所,95,-1,0,0,0,0,0,1" xlink:title="緑ケ原会館" transform="ref(svg,14138.7631,-4325.2643)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5473" content="嶺泊高台,01235,北海道石狩市厚田区嶺泊67-3,避難場所,-1,1786,0,1,0,0,0,0" xlink:title="嶺泊高台" transform="ref(svg,14142.3651,-4334.0337)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5474" content="聚富会館,01235,北海道石狩市厚田区聚富126-11,避難場所,-1,2033,0,1,0,0,0,0" xlink:title="聚富会館" transform="ref(svg,14140.6849,-4327.6305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5475" content="聚富小中学校,01235,北海道石狩市厚田区聚富256-8,避難場所,525,9620,0,0,0,0,0,1" xlink:title="聚富小中学校" transform="ref(svg,14141.8462,-4327.6425)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5480" content="みどり野会館前広場,01303,北海道石狩郡当別町茂平沢3692番地1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="みどり野会館前広場" transform="ref(svg,14154.2666,-4326.2641)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5488" content="旧中小屋小学校,01303,北海道石狩郡当別町中小屋213番地,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧中小屋小学校" transform="ref(svg,14159.9377,-4329.6199)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5489" content="旧中小屋中学校,01303,北海道石狩郡当別町中小屋579番地8,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧中小屋中学校" transform="ref(svg,14160.1843,-4329.6083)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5491" content="金沢会館前広場,01303,北海道石狩郡当別町金沢187番地4,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="金沢会館前広場" transform="ref(svg,14156.6668,-4324.5864)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5501" content="青山会館,01303,北海道石狩郡当別町青山85番地3,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="青山会館" transform="ref(svg,14155.1027,-4330.2661)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5516" content="弁華別会館前広場,01303,北海道石狩郡当別町弁華別58番地6,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="弁華別会館前広場" transform="ref(svg,14152.8301,-4326.4738)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5517" content="弁華別小学校グラウンド,01303,北海道石狩郡当別町弁華別243番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="弁華別小学校グラウンド" transform="ref(svg,14152.8869,-4326.3679)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5518" content="弁華別中学校,01303,北海道石狩郡当別町弁華別429番地,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="弁華別中学校" transform="ref(svg,14153.2868,-4326.3929)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5519" content="茂平沢会館前広場,01303,北海道石狩郡当別町茂平沢154番地1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="茂平沢会館前広場" transform="ref(svg,14153.2717,-4325.6928)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5520" content="コミュニティプラザ第１,01304,北海道石狩郡新篠津村第47線北65番地,避難所,200,-1,0,0,1,0,0,0" xlink:title="コミュニティプラザ第１" transform="ref(svg,14164.5155,-4326.8987)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5637" content="月形高等学校,01430,北海道樺戸郡月形町1056,避難施設,353,-1,0,0,0,0,0,1" xlink:title="月形高等学校" transform="ref(svg,14166.6827,-4333.8796)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5638" content="月形中学校,01430,北海道樺戸郡月形町1054-1,避難施設,291,-1,0,0,0,0,0,1" xlink:title="月形中学校" transform="ref(svg,14166.6876,-4333.9881)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5641" content="総合体育館,01430,北海道樺戸郡月形町字知来乙264番地2,避難施設,1157,-1,0,0,0,0,0,1" xlink:title="総合体育館" transform="ref(svg,14166.4794,-4333.0576)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5642" content="多目的研修センター,01430,北海道樺戸郡月形町麻生,避難施設,178,-1,0,0,0,0,0,1" xlink:title="多目的研修センター" transform="ref(svg,14166.2623,-4333.1919)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5643" content="南地区広域集落会館月ヶ岡ふれあいセンター,01430,北海道夕張郡栗山町字富士23番地5,避難施設,247,-1,0,0,0,0,0,1" xlink:title="南地区広域集落会館月ヶ岡ふれあいセンター" transform="ref(svg,14161.3223,-4332.1137)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13387.939453125 -3471.6796875 1.0986328125 1.0986328125" go:dataArea="13387.939453125 -3471.6796875 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,下津井電鉄（株）,JR児島駅～岡山空港,10.0,10.0,10.0," xlink:title="1" d="M13389.0381,-3471.2473L13388.9322,-3471.2727L13388.8352,-3471.3045L13388.7328,-3471.3494L13388.6816,-3471.3761L13388.5998,-3471.4247L13388.5457,-3471.4665L13388.5017,-3471.5071L13388.4713,-3471.5326L13388.4364,-3471.5718L13388.3815,-3471.6294L13388.3409,-3471.669L13388.3294,-3471.6797"/>
+<path content="1,岡山電気軌道（株）,岡山空港リムジンバス,12.5,12.5,12.5," xlink:title="1" d="M13389.0381,-3471.2473L13388.9322,-3471.2727L13388.8352,-3471.3045L13388.7328,-3471.3494L13388.6816,-3471.3761L13388.5998,-3471.4247L13388.5457,-3471.4665L13388.5017,-3471.5071L13388.4713,-3471.5326L13388.4364,-3471.5718L13388.3815,-3471.6294L13388.3409,-3471.669L13388.3294,-3471.6797"/>
+</g>
+</svg>

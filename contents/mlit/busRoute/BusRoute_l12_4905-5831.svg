@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13944.39697265625 -3546.93603515625 0.54931640625 0.54931640625" go:dataArea="13944.39697265625 -3546.93603515625 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,相鉄バス（株）,横浜駅西口～海老名駅線,2.0,0.0,0.0," xlink:title="1" d="M13944.9463,-3546.8948L13944.8902,-3546.9037L13944.8472,-3546.9121L13944.7858,-3546.9249L13944.7503,-3546.9249L13944.7126,-3546.9226L13944.6711,-3546.9204L13944.6379,-3546.9189L13944.5813,-3546.9121L13944.5308,-3546.9038L13944.4867,-3546.8966L13944.4743,-3546.8944L13944.4222,-3546.8907L13944.397,-3546.8922"/>
+<path content="1,相鉄バス（株）,綾72,18.0,15.5,13.5," xlink:title="1" d="M13944.397,-3546.8922L13944.4222,-3546.8907L13944.4743,-3546.8944L13944.4867,-3546.8966L13944.5308,-3546.9038L13944.5813,-3546.9121L13944.6379,-3546.9189L13944.6711,-3546.9204L13944.7126,-3546.9226L13944.7503,-3546.9249L13944.7858,-3546.9249L13944.8472,-3546.9121L13944.8902,-3546.9037L13944.9463,-3546.8948"/>
+</g>
+</svg>

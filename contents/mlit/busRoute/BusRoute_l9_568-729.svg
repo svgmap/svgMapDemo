@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13746.09375 -3546.38671875 4.39453125 4.39453125" go:dataArea="13746.09375 -3546.38671875 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,北恵那交通（株）,中津川公園線_01_on,2.0,0.0,0.0," xlink:title="1" d="M13746.7851,-3545.7155L13746.8838,-3545.783L13746.9744,-3545.8474L13747.0047,-3545.8688L13747.3177,-3546.1223L13747.2523,-3546.1769L13747.1966,-3546.2253L13747.1076,-3546.3032L13747.0092,-3546.3867"/>
+<path content="1,北恵那交通（株）,中津川公園線_02_on,2.0,0.0,0.0," xlink:title="1" d="M13746.7851,-3545.7155L13746.8838,-3545.783L13746.9744,-3545.8474L13747.0047,-3545.8688L13747.3177,-3546.1223L13747.2523,-3546.1769L13747.1966,-3546.2253L13747.1076,-3546.3032L13747.0092,-3546.3867"/>
+<path content="1,東濃鉄道（株）,小野川線_01_on,3.0,0.0,0.0," xlink:title="1" d="M13746.1494,-3542.8158L13746.1013,-3542.8242L13746.0938,-3542.8258"/>
+<path content="1,東濃鉄道（株）,小野川線_02_on,3.0,0.0,0.0," xlink:title="1" d="M13746.1494,-3542.8158L13746.1013,-3542.8242L13746.0938,-3542.8258"/>
+<path content="3,恵那市,小野川線_23_01_on,3.0,0.0,0.0," xlink:title="3" d="M13746.1494,-3542.8158L13746.1013,-3542.8242L13746.0938,-3542.8258"/>
+<path content="3,恵那市,小野川線_23_02_on,3.0,0.0,0.0," xlink:title="3" d="M13746.0938,-3542.8258L13746.1013,-3542.8242L13746.1494,-3542.8158"/>
+</g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="12937.5 -3093.75 281.25 281.25" go:dataArea="12937.5 -3093.75 281.25 281.25" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f13346" content="竹島運動広場臨時ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,三島村竹島,三島村長（総務課）、三島村,'4,900'" xlink:title="竹島運動広場臨時ヘリポート" transform="ref(svg,13041.5022,-3081.0819)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13347" content="黒島片泊ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,三島村黒島片泊,三島村長（総務課）、三島村,'2,500'" xlink:title="黒島片泊ヘリポート" transform="ref(svg,12990.6414,-3083.2364)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13348" content="黒島大里ヘリポート,3,場外離着陸場,46,三島村黒島148,三島村長（総務課）," xlink:title="黒島大里ヘリポート" transform="ref(svg,12995.1566,-3083.6473)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13349" content="西之表へリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,西之表市西之表2292-5,西之表市長（総務課）、西之表市,'4,900'" xlink:title="西之表へリポート" transform="ref(svg,13102.7089,-3075.2642)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13350" content="日ポみなと公園,3,場外離着陸場,46,西之表市西町49-6,西之表市長（建設課）," xlink:title="日ポみなと公園" transform="ref(svg,13098.7789,-3073.0779)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13351" content="中種子中央運動公園陸上競技場、町中央運動公園陸上競技場,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,中種子町野間5875,中種子町長（総務課消防交通係）、中種子町,349" xlink:title="中種子中央運動公園陸上競技場、町中央運動公園陸上競技場" transform="ref(svg,13096.8606,-3052.8711)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13352" content="南種子町緊急ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,南種子町中之下1866-1,南種子町長（総務課消防交通係）、南種子町,'1,935'" xlink:title="南種子町緊急ヘリポート" transform="ref(svg,13089.5388,-3040.6091)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13353" content="宮之浦運動場、町営グラウンド,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町宮之浦2482-1,屋久島町長（総務課消防交通係）、上屋久町," xlink:title="宮之浦運動場、町営グラウンド" transform="ref(svg,13057.6832,-3041.9757)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13354" content="口永良部ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町口永良部島868-64,屋久島町長（総務課消防交通係）、上屋久町,'8,000'" xlink:title="口永良部ヘリポート" transform="ref(svg,13020.0325,-3047.9986)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13355" content="原ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町原字浜道174-23,屋久島町長（総務課消防交通係）、屋久町,'3,010'" xlink:title="原ヘリポート" transform="ref(svg,13058.5829,-3024.369)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13356" content="尾之間運動場、町運動広場,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町尾之間字濱道90,屋久島町長（総務課消防交通係）、屋久町,'12,853'" xlink:title="尾之間運動場、町運動広場" transform="ref(svg,13055.5621,-3023.5174)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13357" content="口之島へリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,十島村口之島迫470,十島村長（総務課消防係）、十島村,'3,600'" xlink:title="口之島へリポート" transform="ref(svg,12992.5803,-2998.2214)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13358" content="中之島へリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,十島村中之島ケブシ99,十島村長（総務課消防係）、十島村,'3,600'" xlink:title="中之島へリポート" transform="ref(svg,12984.4744,-2984.4636)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13359" content="平島ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,十島村平宮ノ上348,十島村長（総務課消防係）、十島村,'3,600'" xlink:title="平島ヘリポート" transform="ref(svg,12952.9353,-2968.4597)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13360" content="諏訪之瀬島場外離着陸場,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,十島村諏訪之瀬島幣崎原106,十島村長（総務課消防係）、十島村,'1,400'" xlink:title="諏訪之瀬島場外離着陸場" transform="ref(svg,12970.1077,-2960.8193)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13361" content="悪石島ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,十島村悪石島河平66,十島村長（総務課消防係）、十島村,'3,600'" xlink:title="悪石島ヘリポート" transform="ref(svg,12960.186,-2944.814)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13364" content="喜界町総合グランド,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,喜界町湾字久代真1588,喜界町長（総務課消防防災係）、喜界町,'16,000'" xlink:title="喜界町総合グランド" transform="ref(svg,12993.3649,-2831.4648)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13365" content="あやまる観光公園多目的広場、あやまる国民運動場,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,奄美市笠利町須野684,奄美市長（産業振興課）、奄美市," xlink:title="あやまる観光公園多目的広場、あやまる国民運動場" transform="ref(svg,12971.7345,-2847.2643)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13366" content="名瀬ヘリポート、名瀬場外離着陸場,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,奄美市平田町田雲1430-1,奄美群島広域事務組合管理者（奄美群島広域事務組合）,'2,400'" xlink:title="名瀬ヘリポート、名瀬場外離着陸場" transform="ref(svg,12950.572,-2836.2062)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13367" content="佐大熊ヘリポート（名瀬港ヘリポート）,3,場外離着陸場,46,奄美市佐大熊町2459,奄美群島広域事務組合管理者（奄美群島広域事務組合）," xlink:title="佐大熊ヘリポート（名瀬港ヘリポート）" transform="ref(svg,12950.6351,-2839.545)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13368" content="住用村総合グランド、住用運動公園,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,奄美市住用町役勝27,奄美市長（地域教育課）、奄美市,'10,000'" xlink:title="住用村総合グランド、住用運動公園" transform="ref(svg,12939.9334,-2825.4073)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13369" content="龍郷町中央グランド,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,龍郷町瀬留964-5,龍郷町長（総務課）、龍郷町,'18,000'" xlink:title="龍郷町中央グランド" transform="ref(svg,12959.164,-2841.1686)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13370" content="思勝港湾施設用地、思勝港湾（津名久）,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,大和村津名久ｼｮｼﾞｷ653-5,大和村長（建設課管理係）、大和村,'9,000'" xlink:title="思勝港湾施設用地、思勝港湾（津名久）" transform="ref(svg,12940.4675,-2835.9494)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13412" content="硫黄島飛行場ヘリポート,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,三島村硫黄島,三島村,'30,000'" xlink:title="硫黄島飛行場ヘリポート" transform="ref(svg,13027.1407,-3078.4456)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13648" content="市営グラウンド,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,西之表市下西池野,西之表市,'19,000'" xlink:title="市営グラウンド" transform="ref(svg,13099.2257,-3072.163)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13649" content="種子島空港,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,中種子町増田2692-64,県," xlink:title="種子島空港" transform="ref(svg,13099.1362,-3060.8294)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13650" content="総合陸上競技場,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,南種子町中之上2206,南種子町,'20,000'" xlink:title="総合陸上競技場" transform="ref(svg,13090.4083,-3041.4177)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13651" content="屋久島空港,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町小瀬田,県," xlink:title="屋久島空港" transform="ref(svg,13065.9412,-3038.3829)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13652" content="一湊中学校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町一湊2030,上屋久町," xlink:title="一湊中学校" transform="ref(svg,13048.6206,-3044.9649)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13653" content="栗生ヘリポート,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町栗生,屋久町,900" xlink:title="栗生ヘリポート" transform="ref(svg,13041.7582,-3026.805)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13654" content="岳南中学校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町小島393-9,屋久町,'20,359'" xlink:title="岳南中学校" transform="ref(svg,13053.5714,-3023.6013)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13655" content="町営グラウンド,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,屋久島町安房2371-67,屋久町,'10,000'" xlink:title="町営グラウンド" transform="ref(svg,13065.3592,-3031.0806)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13656" content="奄美空港,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,奄美市笠利町和野,県," xlink:title="奄美空港" transform="ref(svg,12970.9457,-2843.0883)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13657" content="笠利中学校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,奄美市笠利町笠利1924,奄美市," xlink:title="笠利中学校" transform="ref(svg,12969.0481,-2848.9967)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13658" content="赤木名中学校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,奄美市笠利町里364,奄美市," xlink:title="赤木名中学校" transform="ref(svg,12967.9854,-2845.1944)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13659" content="大島北高校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,奄美市中金久356,県,'12,065'" xlink:title="大島北高校" transform="ref(svg,12967.5535,-2845.0765)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13660" content="大和小中学校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,大和村思勝370,大和村,'9,010'" xlink:title="大和小中学校" transform="ref(svg,12939.4477,-2835.6421)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13663" content="喜界空港,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,喜界町中里,県," xlink:title="喜界空港" transform="ref(svg,12992.7469,-2832.0155)" x="0" y="0"/>
+</g>
+</svg>

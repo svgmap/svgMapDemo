@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="12937.5 -3093.75 281.25 281.25" go:dataArea="12937.5 -3093.75 281.25 281.25" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,鹿児島県　奄美市名瀬長浜町２４?５,10,15,2,60,120,60,200,87800,89200,83200,70500" xlink:title="鹿児島県　奄美市名瀬長浜町２４?５" transform="ref(svg,12949.2971,-2839.5913)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,鹿児島県　奄美市名瀬幸町１７?２,10,15,4,60,130,80,300,0,174000,150000,115000" xlink:title="鹿児島県　奄美市名瀬幸町１７?２" transform="ref(svg,12949.353,-2837.818)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,鹿児島県　奄美市名瀬末広町１０?２６,10,15,4,60,150,80,400,580000,485000,264000,155000" xlink:title="鹿児島県　奄美市名瀬末広町１０?２６" transform="ref(svg,12949.5196,-2837.8213)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　奄美市名瀬伊津部町２２?７,10,15,2,60,180,60,200,0,0,0,109000" xlink:title="鹿児島県　奄美市名瀬伊津部町２２?７" transform="ref(svg,12949.8125,-2837.7476)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　奄美市名瀬浦上町３番１０外,10,20,2,60,130,60,200,0,0,0,60500" xlink:title="鹿児島県　奄美市名瀬浦上町３番１０外" transform="ref(svg,12952.9235,-2839.5354)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　大島郡龍郷町大勝字水ノ浦１１８２番２,20,10,2,60,0,70,400,0,11500,11000,9900" xlink:title="鹿児島県　大島郡龍郷町大勝字水ノ浦１１８２番２" transform="ref(svg,12958.3847,-2839.5478)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　大島郡龍郷町瀬留字玉里１５０１番,10,15,2,60,350,70,400,0,15500,15000,14000" xlink:title="鹿児島県　大島郡龍郷町瀬留字玉里１５０１番" transform="ref(svg,12958.9205,-2841.4939)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　大島郡喜界町大字湾字宮戸３９１番２,10,12,1,55,300,70,400,0,11800,11400,9310" xlink:title="鹿児島県　大島郡喜界町大字湾字宮戸３９１番２" transform="ref(svg,12993.2241,-2831.9382)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　大島郡喜界町大字赤連字出金久２８４６番２内,10,15,1,50,240,70,400,0,9300,9000,6940" xlink:title="鹿児島県　大島郡喜界町大字赤連字出金久２８４６番２内" transform="ref(svg,12994.4296,-2832.3597)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　熊毛郡屋久島町宮之浦字脇町１３５番,10,10,2,46,200,70,400,0,24000,21800,15300" xlink:title="鹿児島県　熊毛郡屋久島町宮之浦字脇町１３５番" transform="ref(svg,13057.0234,-3042.2643)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　熊毛郡屋久島町楠川字後町９２番,10,10,1,70,200,70,400,0,8900,8100,5550" xlink:title="鹿児島県　熊毛郡屋久島町楠川字後町９２番" transform="ref(svg,13059.5792,-3041.3913)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　熊毛郡屋久島町安房字山口２３５３番２１５,15,10,1,30,450,70,400,0,7550,6900,4630" xlink:title="鹿児島県　熊毛郡屋久島町安房字山口２３５３番２１５" transform="ref(svg,13064.4701,-3031.2497)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　熊毛郡屋久島町安房字里町２１番２,10,15,1,40,350,70,400,0,14900,13600,9300" xlink:title="鹿児島県　熊毛郡屋久島町安房字里町２１番２" transform="ref(svg,13065.3019,-3031.502)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,鹿児島県　熊毛郡屋久島町安房字浜町７８番,20,10,3,160,0,70,400,0,0,0,22200" xlink:title="鹿児島県　熊毛郡屋久島町安房字浜町７８番" transform="ref(svg,13065.51,-3031.4)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　熊毛郡南種子町中之上字橋口３０１９番１外内,12,10,1,130,100,70,400,0,25000,22800,14800" xlink:title="鹿児島県　熊毛郡南種子町中之上字橋口３０１９番１外内" transform="ref(svg,13089.8594,-3041.6827)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,鹿児島県　熊毛郡南種子町中之上字茶屋ノ元２２１０番４外,10,30,3,120,0,70,400,0,44000,38000,21800" xlink:title="鹿児島県　熊毛郡南種子町中之上字茶屋ノ元２２１０番４外" transform="ref(svg,13090.3304,-3041.6628)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　熊毛郡南種子町茎永字白木峯８０番３,12,10,1,120,350,70,400,0,10000,9350,6630" xlink:title="鹿児島県　熊毛郡南種子町茎永字白木峯８０番３" transform="ref(svg,13094.0056,-3039.3529)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,鹿児島県　熊毛郡中種子町野間字横町５１７２番５,10,25,3,73,200,80,400,0,66000,55300,28400" xlink:title="鹿児島県　熊毛郡中種子町野間字横町５１７２番５" transform="ref(svg,13096.0308,-3053.4388)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　熊毛郡中種子町野間字野別府５１０９番３０,10,15,1,120,290,60,200,0,0,0,15000" xlink:title="鹿児島県　熊毛郡中種子町野間字野別府５１０９番３０" transform="ref(svg,13096.2649,-3053.7516)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　熊毛郡中種子町野間字下ノ門８８９６番３,12,10,1,70,170,70,400,0,7300,6750,4820" xlink:title="鹿児島県　熊毛郡中種子町野間字下ノ門８８９６番３" transform="ref(svg,13096.5468,-3051.7889)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　西之表市西之表字川迎１５２４２番,10,10,1,80,300,60,200,0,0,17600,13200" xlink:title="鹿児島県　西之表市西之表字川迎１５２４２番" transform="ref(svg,13098.8789,-3071.998)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,鹿児島県　西之表市天神町３番１１,15,10,2,125,0,80,400,0,75000,59100,38800" xlink:title="鹿児島県　西之表市天神町３番１１" transform="ref(svg,13099.5874,-3072.738)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,鹿児島県　西之表市東町７０５９番１,10,15,4,84,0,80,400,165000,153000,100000,54800" xlink:title="鹿児島県　西之表市東町７０５９番１" transform="ref(svg,13099.5876,-3073.2302)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　西之表市西之表字下邑９９７９番２,15,10,1,35,270,60,200,0,29000,24500,19200" xlink:title="鹿児島県　西之表市西之表字下邑９９７９番２" transform="ref(svg,13099.6631,-3072.9326)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　西之表市西之表字榕園７２６４番４,10,25,2,50,360,60,200,0,26000,23100,17900" xlink:title="鹿児島県　西之表市西之表字榕園７２６４番４" transform="ref(svg,13099.7591,-3073.8469)" x="0" y="0"/>
+</g>
+</svg>

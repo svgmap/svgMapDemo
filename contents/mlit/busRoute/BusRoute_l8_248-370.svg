@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13429.6875 -3498.046875 8.7890625 8.7890625" go:dataArea="13429.6875 -3498.046875 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,神姫バス（株）,上郡～金出地～県立大附属高校前～粒子線医療センター　上郡～テクノ中央～県立大附属高校前,1.5,0.0,0.0," xlink:title="1" d="M13438.4766,-3489.3273L13438.46,-3489.3231L13438.4498,-3489.3147L13438.4306,-3489.2716L13438.4282,-3489.266L13438.4246,-3489.2594L13438.4238,-3489.2578"/>
+<path content="1,神姫バス（株）,上郡～金出地～粒子線医療センター,1.0,0.0,0.0," xlink:title="1" d="M13438.4766,-3489.3273L13438.46,-3489.3231L13438.4498,-3489.3147L13438.4306,-3489.2716L13438.4282,-3489.266L13438.4246,-3489.2594L13438.4238,-3489.2578"/>
+</g>
+</svg>

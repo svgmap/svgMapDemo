@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14027.34375 -3550.78125 35.15625 35.15625" go:dataArea="14027.34375 -3550.78125 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,千葉県　茂原市下太田字日ノ詰８０番１外,30,10,2,115,3100,60,200,0,0,0,11500" xlink:title="千葉県　茂原市下太田字日ノ詰８０番１外" transform="ref(svg,14028.1032,-3547.7862)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　茂原市道表２番１７,10,25,2,60,1700,60,200,0,114000,41000,38700" xlink:title="千葉県　茂原市道表２番１７" transform="ref(svg,14028.7944,-3542.9949)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　茂原市小林字南向田２００３番１外,12,10,1,220,2700,60,200,0,131000,51400,47200" xlink:title="千葉県　茂原市小林字南向田２００３番１外" transform="ref(svg,14029.0533,-3544.0512)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　茂原市長尾字田尻２３３３番１４,10,10,2,45,1200,50,100,0,0,32600,29200" xlink:title="千葉県　茂原市長尾字田尻２３３３番１４" transform="ref(svg,14029.2181,-3544.9757)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　長生郡長南町豊原字上ノ原２１５４番９,10,12,2,50,7200,60,200,0,41500,13200,11300" xlink:title="千葉県　長生郡長南町豊原字上ノ原２１５４番９" transform="ref(svg,14029.3148,-3537.3774)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　茂原市八千代２丁目１２番１０外,10,10,2,160,1200,80,200,0,0,50400,44200" xlink:title="千葉県　茂原市八千代２丁目１２番１０外" transform="ref(svg,14029.3727,-3542.3406)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　茂原市長清水１７番,10,10,2,50,1400,60,200,0,111000,37100,32000" xlink:title="千葉県　茂原市長清水１７番" transform="ref(svg,14029.4866,-3541.9902)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　茂原市萩原町１丁目３７番,10,15,2,40,1200,60,200,65000,96000,39600,36300" xlink:title="千葉県　茂原市萩原町１丁目３７番" transform="ref(svg,14029.9794,-3543.911)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　茂原市千代田町１丁目４番２,10,20,4,180,220,80,400,0,0,0,106000" xlink:title="千葉県　茂原市千代田町１丁目４番２" transform="ref(svg,14030.2685,-3542.5758)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　大網白里市永田字宿１８６番５,10,10,2,45,210,60,200,49100,89000,30700,28000" xlink:title="千葉県　大網白里市永田字宿１８６番５" transform="ref(svg,14030.9604,-3550.2729)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　茂原市木崎字仲道３０５番９外,15,10,2,100,1300,60,200,0,0,0,35000" xlink:title="千葉県　茂原市木崎字仲道３０５番９外" transform="ref(svg,14031.4706,-3542.7299)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　茂原市東茂原字古川１３番１０３,10,12,2,45,2300,60,200,0,0,25700,22900" xlink:title="千葉県　茂原市東茂原字古川１３番１０３" transform="ref(svg,14031.7381,-3541.5223)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　長生郡長生村七井土字扇子１８９８番９外,10,12,1,115,2800,60,200,0,0,18600,15900" xlink:title="千葉県　長生郡長生村七井土字扇子１８９８番９外" transform="ref(svg,14032.8591,-3539.5542)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　長生郡長生村岩沼字西新田畑１６９８番３,10,20,2,60,850,60,200,0,0,17200,15000" xlink:title="千葉県　長生郡長生村岩沼字西新田畑１６９８番３" transform="ref(svg,14034.4623,-3540.9505)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　夷隅郡御宿町久保字南側２１１８番,10,10,1,36,700,60,200,0,0,22900,20600" xlink:title="千葉県　夷隅郡御宿町久保字南側２１１８番" transform="ref(svg,14035.6158,-3519.0568)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　夷隅郡御宿町久保字太子堂面２５２番,15,10,1,40,1400,60,200,0,0,20900,18700" xlink:title="千葉県　夷隅郡御宿町久保字太子堂面２５２番" transform="ref(svg,14035.8767,-3519.6098)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　長生郡一宮町白山７番１１,10,12,2,50,1200,60,200,0,0,0,18800" xlink:title="千葉県　長生郡一宮町白山７番１１" transform="ref(svg,14036.1414,-3538.0314)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　長生郡一宮町一宮字通町５丁目３１０７番,10,20,2,110,600,80,300,0,0,0,30000" xlink:title="千葉県　長生郡一宮町一宮字通町５丁目３１０７番" transform="ref(svg,14036.2061,-3537.7329)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　いすみ市岬町椎木字畑中２５８７番６,10,20,2,60,1700,60,200,0,0,11000,10000" xlink:title="千葉県　いすみ市岬町椎木字畑中２５８７番６" transform="ref(svg,14036.5675,-3532.4461)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　長生郡一宮町一宮字神堀９３３番３,10,20,2,50,2400,60,200,0,52500,17400,16700" xlink:title="千葉県　長生郡一宮町一宮字神堀９３３番３" transform="ref(svg,14038.0291,-3536.4377)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　長生郡長生村一松字砂畑一乙１９８８番１５,10,12,2,45,5200,60,200,0,0,14000,12100" xlink:title="千葉県　長生郡長生村一松字砂畑一乙１９８８番１５" transform="ref(svg,14038.4588,-3539.1089)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　いすみ市岬町長者字南上宿６５番１,10,30,2,80,290,80,200,0,0,0,20800" xlink:title="千葉県　いすみ市岬町長者字南上宿６５番１" transform="ref(svg,14038.6657,-3529.8201)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　いすみ市大原字川田８０９０番１外,20,10,2,55,1000,60,200,0,0,0,19000" xlink:title="千葉県　いすみ市大原字川田８０９０番１外" transform="ref(svg,14038.8141,-3524.3605)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　いすみ市岬町長者字南下宿２１７番６,10,15,2,45,750,60,200,0,0,19300,17600" xlink:title="千葉県　いすみ市岬町長者字南下宿２１７番６" transform="ref(svg,14039.1059,-3529.3572)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　長生郡白子町幸治字塩濱添３０８９番２９外,10,20,2,60,6500,60,200,0,0,13200,11300" xlink:title="千葉県　長生郡白子町幸治字塩濱添３０８９番２９外" transform="ref(svg,14039.3143,-3542.4841)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　長生郡白子町中里字北濱芝４４８２番４外,10,20,1,78,7500,80,300,0,0,0,14000" xlink:title="千葉県　長生郡白子町中里字北濱芝４４８２番４外" transform="ref(svg,14039.4677,-3543.3245)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　いすみ市大原字初芝９９３１番,10,12,2,50,1100,60,200,0,80800,27300,24700" xlink:title="千葉県　いすみ市大原字初芝９９３１番" transform="ref(svg,14039.7479,-3525.1781)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　長生郡白子町古所字北川岸３２９３番２外,12,10,2,40,9100,60,200,0,0,15600,12900" xlink:title="千葉県　長生郡白子町古所字北川岸３２９３番２外" transform="ref(svg,14040.0449,-3544.7608)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　大網白里市北今泉字中浜芝３５５５番３,10,12,2,45,12000,60,200,0,0,13800,11700" xlink:title="千葉県　大網白里市北今泉字中浜芝３５５５番３" transform="ref(svg,14042.1941,-3549.3476)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　山武郡九十九里町真亀字南濱後４２１４番,10,20,1,35,10000,60,200,0,48500,10800,9100" xlink:title="千葉県　山武郡九十九里町真亀字南濱後４２１４番" transform="ref(svg,14042.5669,-3550.5588)" x="0" y="0"/>
+</g>
+</svg>

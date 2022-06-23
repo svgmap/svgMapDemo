@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13977.35595703125 -3555.72509765625 0.54931640625 0.54931640625" go:dataArea="13977.35595703125 -3555.72509765625 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,京浜急行バス・羽田京急バス,001,41.0,41.0,41.0," xlink:title="1" d="M13977.5728,-3555.1758L13977.7202,-3555.2465L13977.9053,-3555.3353"/>
+<path content="1,京浜急行バス・羽田京急バス,森21,41.5,41.5,41.5," xlink:title="1" d="M13977.5728,-3555.1758L13977.7202,-3555.2465L13977.9053,-3555.3353"/>
+<path content="1,京浜急行バス・羽田京急バス,空71,112.5,112.5,112.5," xlink:title="1" d="M13977.9053,-3555.3353L13977.7202,-3555.2465L13977.5728,-3555.1758"/>
+<path content="1,京浜急行バス・羽田京急バス,蒲31,66.0,64.0,64.0," xlink:title="1" d="M13977.9053,-3555.3353L13977.7202,-3555.2465L13977.5728,-3555.1758"/>
+<path content="1,京浜急行バス・羽田京急バス,蒲41,31.5,31.5,31.5," xlink:title="1" d="M13977.9053,-3555.3353L13977.7202,-3555.2465L13977.5728,-3555.1758"/>
+<path content="1,羽田京急バス,空51,34.0,34.0,34.0," xlink:title="1" d="M13977.5728,-3555.1758L13977.7202,-3555.2465L13977.9053,-3555.3353"/>
+</g>
+</svg>

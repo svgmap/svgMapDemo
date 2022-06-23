@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13833.984375 -3493.65234375 1.0986328125 1.0986328125" go:dataArea="13833.984375 -3493.65234375 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,しずてつジャストライン（株）,丸子小坂線_98_01_on,5.0,6.0,6.0," xlink:title="1" d="M13835.083,-3492.6006L13835.0623,-3492.5982L13835.0391,-3492.5993L13835.0364,-3492.5982L13835.0282,-3492.5959L13835.0152,-3492.5943L13834.9291,-3492.5948L13834.9127,-3492.5931L13834.8791,-3492.5856L13834.8422,-3492.5729L13834.8383,-3492.571L13834.8374,-3492.5706L13834.8258,-3492.5655L13834.8238,-3492.5644L13834.8099,-3492.5537"/>
+<path content="1,しずてつジャストライン（株）,丸子小坂線_98_02_on,1.0,0.0,0.0," xlink:title="1" d="M13835.083,-3492.6006L13835.0623,-3492.5982L13835.0391,-3492.5993L13835.0364,-3492.5982L13835.0282,-3492.5959L13835.0152,-3492.5943L13834.9291,-3492.5948L13834.9127,-3492.5931L13834.8791,-3492.5856L13834.8422,-3492.5729L13834.8383,-3492.571L13834.8374,-3492.5706L13834.8258,-3492.5655L13834.8238,-3492.5644L13834.8099,-3492.5537"/>
+</g>
+</svg>

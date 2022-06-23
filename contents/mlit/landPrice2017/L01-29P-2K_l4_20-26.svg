@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13781.25 -3796.875 70.3125 70.3125" go:dataArea="13781.25 -3796.875 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,新潟県　佐渡市真野新町字浜方１８１番２,10,40,2,50,250,70,200,0,32500,22500,13400" xlink:title="新潟県　佐渡市真野新町字浜方１８１番２" transform="ref(svg,13834.4816,-3796.6668)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,新潟県　上越市柿崎区柿崎字仲町６３６６番１,10,35,2,90,400,80,400,0,0,0,28900" xlink:title="新潟県　上越市柿崎区柿崎字仲町６３６６番１" transform="ref(svg,13838.9501,-3727.8617)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,新潟県　上越市柿崎区柿崎字小萱丁７１９３番外,10,55,2,80,800,60,200,0,34400,28300,23300" xlink:title="新潟県　上越市柿崎区柿崎字小萱丁７１９３番外" transform="ref(svg,13839.3262,-3728.1273)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="13781.25 -3937.5 140.625 140.625" go:dataArea="13781.25 -3937.5 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f3837" content="真野、真野陸上競技場,3,県内飛行場外離着陸場（下越地区）、ヘリポート適地、ランディングポイント,15,佐渡市名古屋146-1,教育長,200×100" xlink:title="真野、真野陸上競技場" transform="ref(svg,13834.982,-3797.1597)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3840" content="金井、金井中学校グラウンド,3,県内飛行場外離着陸場（下越地区）、複数駐機可能なヘリコプター離着陸場、ヘリポート適地、ヘリベース及びフォワードベース、ランディングポイント,15,佐渡市新保乙40,校長、佐渡市長,150×130" xlink:title="金井、金井中学校グラウンド" transform="ref(svg,13836.9314,-3802.3416)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3843" content="佐渡市消防本部,3,県内飛行場外離着陸場（下越地区）、ヘリポート適地,15,佐渡市八幡58,消防長,36×36" xlink:title="佐渡市消防本部" transform="ref(svg,13834.6928,-3799.032)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3844" content="相川、相川多目的運動広場,3,県内飛行場外離着陸場（下越地区）、複数駐機可能なヘリコプター離着陸場、ヘリベース及びフォワードベース、ランディングポイント、ヘリポート適地,15,佐渡市相川栄町1、2,教育長、佐渡市長,100×80" xlink:title="相川、相川多目的運動広場" transform="ref(svg,13823.7521,-3803.42)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3845" content="入川、高千小・中学校グラウンド,3,県内飛行場外離着陸場（下越地区）、ランディングポイント、ヘリポート適地,15,佐渡市入川1872-1、1872-4,校長,120×70" xlink:title="入川、高千小・中学校グラウンド" transform="ref(svg,13832.1013,-3818.3933)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3846" content="前浜、前浜中学校グラウンド,3,県内飛行場外離着陸場（下越地区）、ヘリポート適地、ランディングポイント,15,佐渡市水津858,校長,100×80" xlink:title="前浜、前浜中学校グラウンド" transform="ref(svg,13856.9638,-3807.7492)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3848" content="佐和田、佐和田多目的広場,3,県内飛行場外離着陸場（下越地区）、ランディングポイント、ヘリポート適地,15,佐渡市窪田75-1,教育長,90×90" xlink:title="佐和田、佐和田多目的広場" transform="ref(svg,13831.1444,-3800.9639)" x="0" y="0"/>
+<use xlink:href="#p0" id="f3851" content="佐渡空港,3,災害活動拠点病院付近のヘリコプター離着陸場、ヘリポート適地、災害拠点病院付近のヘリコプター離着陸場,15,佐渡市両津秋葉新屋1814-8,新潟県空港課,36×60" xlink:title="佐渡空港" transform="ref(svg,13841.3784,-3806.0594)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4404" content="両津高等学校グラウンド,3,ヘリポート適地,15,佐渡市梅津1750,校長,100×100" xlink:title="両津高等学校グラウンド" transform="ref(svg,13842.8527,-3809.8497)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4405" content="加茂小学校グラウンド,3,ヘリポート適地,15,佐渡市梅津2341-1,校長,100×50" xlink:title="加茂小学校グラウンド" transform="ref(svg,13842.8935,-3809.4283)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4406" content="南中学校グラウンド,3,ヘリポート適地,15,佐渡市加茂歌代1449,校長,110×90" xlink:title="南中学校グラウンド" transform="ref(svg,13842.7224,-3809.251)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4407" content="両津小学校グラウンド,3,ヘリポート適地,15,佐渡市湊200-1,校長,85×65" xlink:title="両津小学校グラウンド" transform="ref(svg,13843.431,-3807.9793)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4408" content="東中学校グラウンド,3,ヘリポート適地,15,佐渡市住吉280,校長,125×50" xlink:title="東中学校グラウンド" transform="ref(svg,13845.2516,-3807.0004)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4409" content="市民運動広場,3,ヘリポート適地,15,佐渡市城腰字開山363,教育長,180×120" xlink:title="市民運動広場" transform="ref(svg,13846.0026,-3805.7443)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4410" content="春日崎,3,ヘリポート適地,15,佐渡市相川鹿伏,市長,40×35" xlink:title="春日崎" transform="ref(svg,13822.3432,-3802.1872)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4411" content="相川小学校グラウンド,3,ヘリポート適地,15,佐渡市相川馬町2,校長,62×42" xlink:title="相川小学校グラウンド" transform="ref(svg,13824.1298,-3802.7304)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4412" content="相川中学校グラウンド,3,ヘリポート適地,15,佐渡市相川下戸村210,校長,120×120" xlink:title="相川中学校グラウンド" transform="ref(svg,13824.3905,-3802.334)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4413" content="相川高等学校グラウンド,3,ヘリポート適地,15,佐渡市下相川162,校長,120×70" xlink:title="相川高等学校グラウンド" transform="ref(svg,13823.8347,-3803.9735)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4414" content="金泉小学校グラウンド,3,ヘリポート適地,15,佐渡市達者1479,校長,70×40" xlink:title="金泉小学校グラウンド" transform="ref(svg,13824.8572,-3808.3205)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4415" content="休暇村佐渡駐車場,3,ヘリポート適地,15,佐渡市関,市長,40×40" xlink:title="休暇村佐渡駐車場" transform="ref(svg,13840.135,-3824.857)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4416" content="佐和田球場,3,ヘリポート適地,15,佐渡市窪田60,教育長,100×150" xlink:title="佐和田球場" transform="ref(svg,13831.0112,-3801.0577)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4417" content="沢根小学校グラウンド,3,ヘリポート適地,15,佐渡市沢根79,校長,40×100" xlink:title="沢根小学校グラウンド" transform="ref(svg,13827.8162,-3800.6621)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4418" content="二宮小学校グラウンド,3,ヘリポート適地,15,佐渡市石田489,校長,40×100" xlink:title="二宮小学校グラウンド" transform="ref(svg,13832.244,-3801.1042)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4419" content="八幡小学校グラウンド,3,ヘリポート適地,15,佐渡市八幡2001,校長,40×80" xlink:title="八幡小学校グラウンド" transform="ref(svg,13833.7868,-3799.0582)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4420" content="河原田小学校グラウンド,3,ヘリポート適地,15,佐渡市河原田本町262,校長,40×100" xlink:title="河原田小学校グラウンド" transform="ref(svg,13832.0144,-3799.9857)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4421" content="佐和田中学校グラウンド,3,ヘリポート適地,15,佐渡市窪田60,校長,40×100" xlink:title="佐和田中学校グラウンド" transform="ref(svg,13831.2215,-3800.9098)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4422" content="佐渡高等学校グラウンド,3,ヘリポート適地,15,佐渡市石田569,校長,100×130" xlink:title="佐渡高等学校グラウンド" transform="ref(svg,13832.1592,-3800.6993)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4423" content="金井吉井小学校グラウンド,3,ヘリポート適地,15,佐渡市本郷519,校長,100×75" xlink:title="金井吉井小学校グラウンド" transform="ref(svg,13839.3862,-3805.1715)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4424" content="新穂小学校グラウンド,3,ヘリポート適地,15,佐渡市上新穂630,校長,70×70" xlink:title="新穂小学校グラウンド" transform="ref(svg,13841.7257,-3801.5061)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4425" content="行谷小学校グラウンド,3,ヘリポート適地,15,佐渡市新穂正明寺99,校長,70×60" xlink:title="行谷小学校グラウンド" transform="ref(svg,13843.3868,-3802.7437)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4426" content="新穂中学校グラウンド,3,ヘリポート適地,15,佐渡市新穂瓜生屋719,校長,100×60" xlink:title="新穂中学校グラウンド" transform="ref(svg,13843.1199,-3801.7762)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4427" content="畑野小学校グラウンド,3,ヘリポート適地,15,佐渡市畑野271の2,校長,118×48" xlink:title="畑野小学校グラウンド" transform="ref(svg,13839.9119,-3798.8976)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4429" content="真野小学校グラウンド,3,ヘリポート適地,15,佐渡市吉岡1695,校長,100×50" xlink:title="真野小学校グラウンド" transform="ref(svg,13834.8286,-3796.9753)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4430" content="真野野球場,3,ヘリポート適地,15,佐渡市長石,教育長,90×90" xlink:title="真野野球場" transform="ref(svg,13835.041,-3797.2959)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4515" content="鷲崎,3,ランディングポイント,15,佐渡市鷲崎,," xlink:title="鷲崎" transform="ref(svg,13851.4831,-3831.6958)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4516" content="平松,3,ランディングポイント,15,佐渡市平松60,," xlink:title="平松" transform="ref(svg,13847.8566,-3818.8326)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4517" content="二見,3,ランディングポイント,15,佐渡市橘42,," xlink:title="二見" transform="ref(svg,13823.3181,-3797.7388)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4518" content="北狄,3,ランディングポイント,15,佐渡市北狄1520,," xlink:title="北狄" transform="ref(svg,13825.2284,-3809.2434)" x="0" y="0"/>
+</g>
+</svg>

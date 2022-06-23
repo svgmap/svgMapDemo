@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13676.33056640625 -3541.44287109375 0.54931640625 0.54931640625" go:dataArea="13676.33056640625 -3541.44287109375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,岐阜乗合自動車（株）,大洞団地線_01_on,50.5,31.0,31.0," xlink:title="1" d="M13676.3306,-3541.193L13676.4037,-3541.1913L13676.5704,-3541.1846L13676.7275,-3541.1788L13676.8173,-3541.1761L13676.8592,-3541.175L13676.8757,-3541.1744L13676.8799,-3541.1742"/>
+<path content="1,岐阜乗合自動車（株）,岩戸入舟線_02_on,12.0,10.5,10.5," xlink:title="1" d="M13676.3306,-3541.193L13676.4037,-3541.1913L13676.5704,-3541.1846L13676.7275,-3541.1788L13676.8173,-3541.1761L13676.8592,-3541.175L13676.8757,-3541.1744L13676.8799,-3541.1742"/>
+<path content="1,岐阜乗合自動車（株）,岩戸入舟線_03_on,12.0,10.5,10.5," xlink:title="1" d="M13676.3306,-3541.193L13676.4037,-3541.1913L13676.5704,-3541.1846L13676.7275,-3541.1788L13676.8173,-3541.1761L13676.8592,-3541.175L13676.8757,-3541.1744L13676.8799,-3541.1742"/>
+</g>
+</svg>

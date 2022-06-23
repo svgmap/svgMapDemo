@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13640.625 -3515.625 17.578125 17.578125" go:dataArea="13640.625 -3515.625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f69682" content="あがたが丘集会所,24202,三重県四日市市あがたが丘一丁目18-5,緊急避難所,195,-1,0,0,0,0,0,1" xlink:title="あがたが丘集会所" transform="ref(svg,13656.9317,-3502.2782)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69687" content="あこず団地（ふれあいはうす）,24202,三重県四日市市赤水町1245-9,緊急避難所,30,-1,0,0,0,0,0,1" xlink:title="あこず団地（ふれあいはうす）" transform="ref(svg,13656.0685,-3500.9223)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69688" content="あさけが丘中央集会所,24202,三重県四日市市あさけが丘三丁目1-59,緊急避難所,50,-1,0,0,0,0,0,1" xlink:title="あさけが丘中央集会所" transform="ref(svg,13657.6088,-3503.3843)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69692" content="エビノ園,24202,三重県四日市市智積町2896-1,二次避難所,-1,-1,0,0,0,0,0,1" xlink:title="エビノ園" transform="ref(svg,13654.8585,-3498.0825)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69695" content="かんざき在宅介護サービスセンター,24202,三重県四日市市寺方町986-4,二次避難所,-1,-1,0,0,0,0,0,1" xlink:title="かんざき在宅介護サービスセンター" transform="ref(svg,13656.9584,-3498.9381)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69697" content="くぬぎの木在宅介護サービスセンター,24202,三重県四日市市赤水町1274-14,二次避難所,-1,-1,0,0,0,0,0,1" xlink:title="くぬぎの木在宅介護サービスセンター" transform="ref(svg,13656.1723,-3500.924)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69698" content="くぬぎの木特別養護老人ホーム,24202,三重県四日市市赤水町1245-7,二次避難所,-1,-1,0,0,0,0,0,1" xlink:title="くぬぎの木特別養護老人ホーム" transform="ref(svg,13656.0256,-3500.9442)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69712" content="まきの木台集会所,24202,三重県四日市市まきの木台三丁目10,緊急避難所,50,-1,0,0,0,0,0,1" xlink:title="まきの木台集会所" transform="ref(svg,13657.0231,-3503.9031)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69723" content="一色公会所,24202,三重県四日市市桜町字久保8737,緊急避難所,45,-1,0,0,0,0,0,1" xlink:title="一色公会所" transform="ref(svg,13653.8625,-3499.902)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69731" content="英水苑在宅介護サービスセンター,24202,三重県四日市市智積町34-1,二次避難所,-1,-1,0,0,0,0,0,1" xlink:title="英水苑在宅介護サービスセンター" transform="ref(svg,13654.3002,-3499.9657)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69736" content="下海老町公民館,24202,三重県四日市市下海老町1704,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="下海老町公民館" transform="ref(svg,13656.8931,-3501.2305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69750" content="宮妻町公民館,24202,三重県四日市市水沢町282-4,緊急避難所,50,-1,0,0,0,0,0,1" xlink:title="宮妻町公民館" transform="ref(svg,13646.1877,-3498.2846)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69756" content="県小学校,24202,三重県四日市市赤水町1002,指定避難所,575,-1,0,0,0,0,0,1" xlink:title="県小学校" transform="ref(svg,13655.6279,-3501.1017)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69757" content="県地区市民センター,24202,三重県四日市市赤水町957,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="県地区市民センター" transform="ref(svg,13655.5557,-3500.9721)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69758" content="県立学校北勢きらら学園,24202,三重県四日市市下海老町字高松161,指定避難所,600,-1,0,0,0,0,0,1" xlink:title="県立学校北勢きらら学園" transform="ref(svg,13657.4777,-3502.1655)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69763" content="県立四日市西高校,24202,三重県四日市市桜町6100,指定避難所,1005,-1,0,0,0,0,0,1" xlink:title="県立四日市西高校" transform="ref(svg,13653.2586,-3499.1519)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69764" content="県立四日市中央工業高校,24202,三重県四日市市菅原町678,指定避難所,850,-1,0,0,0,0,0,1" xlink:title="県立四日市中央工業高校" transform="ref(svg,13655.8279,-3499.6019)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69767" content="県立朝明高校,24202,三重県四日市市中野町2216,指定避難所,1195,-1,0,0,0,0,0,1" xlink:title="県立朝明高校" transform="ref(svg,13654.6862,-3504.0207)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69769" content="御館構造改善センター,24202,三重県四日市市西坂部町2296-1,緊急避難所,130,-1,0,0,0,0,0,1" xlink:title="御館構造改善センター" transform="ref(svg,13657.8384,-3500.154)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69772" content="江村町集落センター,24202,三重県四日市市江村町861-3,緊急避難所,35,-1,0,0,0,0,0,1" xlink:title="江村町集落センター" transform="ref(svg,13654.5439,-3500.9629)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69776" content="高見ハイツ会館,24202,三重県四日市市高見台一丁目22-4,緊急避難所,50,-1,0,0,0,0,0,1" xlink:title="高見ハイツ会館" transform="ref(svg,13656.1057,-3506.2057)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69778" content="黒田町公民館,24202,三重県四日市市黒田町473-5,緊急避難所,30,-1,0,0,0,0,0,1" xlink:title="黒田町公民館" transform="ref(svg,13654.0622,-3501.2051)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69782" content="桜ヶ丘集会所,24202,三重県四日市市桜町6617-1,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="桜ヶ丘集会所" transform="ref(svg,13653.0807,-3498.825)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69783" content="桜花台コミュニティーセンター,24202,三重県四日市市桜花台二丁目39,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="桜花台コミュニティーセンター" transform="ref(svg,13652.5998,-3498.8224)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69784" content="桜小学校,24202,三重県四日市市桜町1257,指定避難所,680,-1,0,0,0,0,0,1" xlink:title="桜小学校" transform="ref(svg,13653.2224,-3499.4491)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69785" content="桜新町集会所,24202,三重県四日市市桜新町二丁目62,緊急避難所,30,-1,0,0,0,0,0,1" xlink:title="桜新町集会所" transform="ref(svg,13652.512,-3498.2332)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69786" content="桜台小学校,24202,三重県四日市市桜台一丁目32,指定避難所,580,-1,0,0,0,0,0,1" xlink:title="桜台小学校" transform="ref(svg,13653.2669,-3498.6075)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69787" content="桜台第２会館,24202,三重県四日市市桜台三丁目6-2,緊急避難所,30,-1,0,0,0,0,0,1" xlink:title="桜台第２会館" transform="ref(svg,13653.464,-3498.1612)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69788" content="桜台第一会館,24202,三重県四日市市桜台一丁目31-2,緊急避難所,70,-1,0,0,0,0,0,1" xlink:title="桜台第一会館" transform="ref(svg,13653.3861,-3498.6383)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69789" content="桜台第三会館,24202,三重県四日市市桜台一丁目35-27,緊急避難所,130,-1,0,0,0,0,0,1" xlink:title="桜台第三会館" transform="ref(svg,13653.2742,-3498.7187)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69790" content="桜地区市民センター,24202,三重県四日市市桜町1399,指定避難所,50,-1,0,0,0,0,0,1" xlink:title="桜地区市民センター" transform="ref(svg,13652.9662,-3499.363)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69791" content="桜中学校,24202,三重県四日市市桜町1604,指定避難所,710,-1,0,0,0,0,0,1" xlink:title="桜中学校" transform="ref(svg,13652.4447,-3499.2157)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69792" content="桜町乾谷公会所,24202,三重県四日市市桜町3060,緊急避難所,60,-1,0,0,0,0,0,1" xlink:title="桜町乾谷公会所" transform="ref(svg,13651.1559,-3499.3918)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69793" content="桜町山上公会所,24202,三重県四日市市桜町979,緊急避難所,160,-1,0,0,0,0,0,1" xlink:title="桜町山上公会所" transform="ref(svg,13653.3715,-3499.6833)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69794" content="桜町西中央公会所,24202,三重県四日市市桜町2940-2,緊急避難所,45,-1,0,0,0,0,0,1" xlink:title="桜町西中央公会所" transform="ref(svg,13651.4598,-3499.2764)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69795" content="桜町南区公民館,24202,三重県四日市市桜町64-2,緊急避難所,50,-1,0,0,0,0,0,1" xlink:title="桜町南区公民館" transform="ref(svg,13653.8623,-3499.3238)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69796" content="桜町南山公会所,24202,三重県四日市市桜町5649,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="桜町南山公会所" transform="ref(svg,13652.1017,-3498.8485)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69797" content="桜町南谷公会所,24202,三重県四日市市桜町4287,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="桜町南谷公会所" transform="ref(svg,13650.8691,-3499.0833)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69798" content="桜町斧研公会所,24202,三重県四日市市桜町2559-2,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="桜町斧研公会所" transform="ref(svg,13651.8546,-3499.2301)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69799" content="桜町野畑公会所,24202,三重県四日市市桜町7485-1,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="桜町野畑公会所" transform="ref(svg,13650.7314,-3498.1472)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69803" content="札場町公民館,24202,三重県四日市市朝明町2496,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="札場町公民館" transform="ref(svg,13657.4398,-3503.7215)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69812" content="三滝中学校,24202,三重県四日市市高角町2068-2,指定避難所,775,-1,0,0,0,0,0,1" xlink:title="三滝中学校" transform="ref(svg,13654.9363,-3498.4297)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69834" content="市場町公会所,24202,三重県四日市市市場町2125,緊急避難所,80,-1,0,0,0,0,0,1" xlink:title="市場町公会所" transform="ref(svg,13656.2115,-3505.7671)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69860" content="小牧町西第二公会所,24202,三重県四日市市小牧町882-7,緊急避難所,110,-1,0,0,0,0,0,1" xlink:title="小牧町西第二公会所" transform="ref(svg,13657.0342,-3505.3802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69861" content="小牧町南公会所,24202,三重県四日市市小牧町2630-1,緊急避難所,20,-1,0,0,0,0,0,1" xlink:title="小牧町南公会所" transform="ref(svg,13656.8074,-3503.9882)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69862" content="小牧町北公会所,24202,三重県四日市市小牧町792-1,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="小牧町北公会所" transform="ref(svg,13657.2634,-3505.1399)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69868" content="上海老町構造改善センター,24202,三重県四日市市上海老町719,緊急避難所,35,-1,0,0,0,0,0,1" xlink:title="上海老町構造改善センター" transform="ref(svg,13656.0266,-3502.0869)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69869" content="上海老町大沢集会所,24202,三重県四日市市上海老町大沢1648-60,緊急避難所,25,-1,0,0,0,0,0,1" xlink:title="上海老町大沢集会所" transform="ref(svg,13656.9458,-3503.0715)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69877" content="神前小学校,24202,三重県四日市市曽井町493-1,指定避難所,455,-1,0,0,0,0,0,1" xlink:title="神前小学校" transform="ref(svg,13656.8251,-3498.5131)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69878" content="神前地区市民センター,24202,三重県四日市市高角町2977,指定避難所,30,-1,0,0,0,0,0,1" xlink:title="神前地区市民センター" transform="ref(svg,13656.7309,-3498.5926)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69879" content="人権プラザ小牧,24202,三重県四日市市市場町1041-24,緊急避難所,50,-1,0,0,0,0,0,1" xlink:title="人権プラザ小牧" transform="ref(svg,13656.6205,-3505.3332)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69880" content="人権プラザ神前,24202,三重県四日市市寺方町2281,緊急避難所,45,-1,0,0,0,0,0,1" xlink:title="人権プラザ神前" transform="ref(svg,13656.7497,-3498.8126)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69887" content="水沢谷町集会所,24202,三重県四日市市水沢谷町1216,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="水沢谷町集会所" transform="ref(svg,13647.708,-3498.3549)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69894" content="菅原町公会所,24202,三重県四日市市菅原町437-2,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="菅原町公会所" transform="ref(svg,13655.5041,-3499.3642)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69898" content="聖十字保々在宅介護サービスセンター,24202,三重県四日市市中野町2492,二次避難所,-1,-1,0,0,0,0,0,1" xlink:title="聖十字保々在宅介護サービスセンター" transform="ref(svg,13656.0555,-3505.0345)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69905" content="西村町営農センター,24202,三重県四日市市西村町551-2,緊急避難所,150,-1,0,0,0,0,0,1" xlink:title="西村町営農センター" transform="ref(svg,13654.987,-3506.2577)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69906" content="西村町上条公会所,24202,三重県四日市市西村町上条3894-6,緊急避難所,45,-1,0,0,0,0,0,1" xlink:title="西村町上条公会所" transform="ref(svg,13653.9527,-3505.0226)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69907" content="西村町新田公会所,24202,三重県四日市市西村町新田2743,緊急避難所,50,-1,0,0,0,0,0,1" xlink:title="西村町新田公会所" transform="ref(svg,13655.1557,-3505.2231)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69928" content="曽井町公会所,24202,三重県四日市市曽井町740,緊急避難所,100,-1,0,0,0,0,0,1" xlink:title="曽井町公会所" transform="ref(svg,13657.3306,-3498.4747)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69934" content="大池中学校,24202,三重県四日市市下海老町2662-1,指定避難所,855,-1,0,0,0,0,0,1" xlink:title="大池中学校" transform="ref(svg,13657.1361,-3500.4574)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69940" content="智積町公会所,24202,三重県四日市市智積町685,緊急避難所,60,-1,0,0,0,0,0,1" xlink:title="智積町公会所" transform="ref(svg,13654.1841,-3499.3064)" x="0" y="0"/>
+<use xlink:href="#p0" id="f69948" content="中野町公会所,24202,三重県四日市市中野町664,緊急避難所,70,-1,0,0,0,0,0,1" xlink:title="中野町公会所" transform="ref(svg,13655.7211,-3504.337)" x="0" y="0"/>
+<use xlink:href="#p0" id="f70020" content="平尾町栄公会所,24202,三重県四日市市平尾町栄3248-1,緊急避難所,30,-1,0,0,0,0,0,1" xlink:title="平尾町栄公会所" transform="ref(svg,13656.1318,-3500.4501)" x="0" y="0"/>
+<use xlink:href="#p0" id="f70021" content="平尾町公会所,24202,三重県四日市市平尾町146-2,緊急避難所,30,-1,0,0,0,0,0,1" xlink:title="平尾町公会所" transform="ref(svg,13655.2848,-3500.0996)" x="0" y="0"/>
+<use xlink:href="#p0" id="f70022" content="保々ふれあい会館,24202,三重県四日市市市場町3117-2,緊急避難所,800,-1,0,0,0,0,0,1" xlink:title="保々ふれあい会館" transform="ref(svg,13656.1484,-3505.0183)" x="0" y="0"/>
+<use xlink:href="#p0" id="f70023" content="保々小学校,24202,三重県四日市市西村町2741,指定避難所,460,-1,0,0,0,0,0,1" xlink:title="保々小学校" transform="ref(svg,13655.9889,-3505.1678)" x="0" y="0"/>
+<use xlink:href="#p0" id="f70024" content="保々地区市民センター,24202,三重県四日市市市場町3039-5,指定避難所,40,-1,0,0,0,0,0,1" xlink:title="保々地区市民センター" transform="ref(svg,13656.0864,-3504.9876)" x="0" y="0"/>
+<use xlink:href="#p0" id="f70025" content="保々中学校,24202,三重県四日市市西村町2787-2,指定避難所,485,-1,0,0,0,0,0,1" xlink:title="保々中学校" transform="ref(svg,13656.0777,-3505.2456)" x="0" y="0"/>
+<use xlink:href="#p0" id="f70032" content="北谷町集会所,24202,三重県四日市市水沢町1575-1,緊急避難所,40,-1,0,0,0,0,0,1" xlink:title="北谷町集会所" transform="ref(svg,13648.6142,-3498.4662)" x="0" y="0"/>
+<use xlink:href="#p0" id="f70033" content="北野町集落センター,24202,三重県四日市市北野町1-5,緊急避難所,30,-1,0,0,0,0,0,1" xlink:title="北野町集落センター" transform="ref(svg,13654.167,-3501.3887)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71544" content="員弁運動公園体育館,24214,三重県いなべ市員弁町楚原936,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="員弁運動公園体育館" transform="ref(svg,13656.4477,-3511.7359)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71545" content="員弁西小学校,24214,三重県いなべ市員弁町笠田新田607,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="員弁西小学校" transform="ref(svg,13655.4638,-3511.5145)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71546" content="員弁中学校,24214,三重県いなべ市員弁町大泉新田1739,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="員弁中学校" transform="ref(svg,13656.5588,-3510.8438)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71547" content="員弁東小学校,24214,三重県いなべ市員弁町大泉1201,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="員弁東小学校" transform="ref(svg,13656.8082,-3509.9091)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71548" content="笠間小学校,24214,三重県いなべ市大安町門前561,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="笠間小学校" transform="ref(svg,13655.2601,-3508.2918)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71549" content="三里小学校,24214,三重県いなべ市大安町平塚1247,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="三里小学校" transform="ref(svg,13653.5073,-3510.2621)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71550" content="山郷小学校,24214,三重県いなべ市北勢町大辻新田276,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="山郷小学校" transform="ref(svg,13654.1809,-3514.9665)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71551" content="市之原公民館,24214,三重県いなべ市員弁町市之原1178,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="市之原公民館" transform="ref(svg,13656.1096,-3514.5272)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71552" content="治田小学校,24214,三重県いなべ市北勢町東村30-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="治田小学校" transform="ref(svg,13651.1588,-3513.2001)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71554" content="石榑小学校,24214,三重県いなべ市大安町石榑南611,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="石榑小学校" transform="ref(svg,13650.3923,-3510.5354)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71555" content="大安中学校,24214,三重県いなべ市大安町石榑東2977,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大安中学校" transform="ref(svg,13653.7367,-3509.9496)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71556" content="丹生川小学校,24214,三重県いなべ市大安町丹生川中1189,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="丹生川小学校" transform="ref(svg,13652.0816,-3512.3018)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71562" content="北勢中学校,24214,三重県いなべ市北勢町阿下喜2480,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="北勢中学校" transform="ref(svg,13652.599,-3515.4742)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71802" content="稲部小学校,24324,三重県員弁郡東員町大木944番地,避難所、避難場所,-1,-1,0,0,0,0,1,0" xlink:title="稲部小学校" transform="ref(svg,13657.447,-3508.3231)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71806" content="三和小学校,24324,三重県員弁郡東員町長深700番地,避難所、避難場所,-1,-1,0,0,0,0,1,1" xlink:title="三和小学校" transform="ref(svg,13657.7237,-3506.456)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71812" content="東員町中部公園,24324,三重県員弁郡東員町大字北大社1634番地,避難場所,-1,-1,0,0,0,0,1,0" xlink:title="東員町中部公園" transform="ref(svg,13658.1192,-3507.3895)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71813" content="Ｂ＆Ｇ海洋センター,24341,三重県三重郡菰野町,避難所,300,-1,0,0,0,0,0,1" xlink:title="Ｂ＆Ｇ海洋センター" transform="ref(svg,13648.752,-3501.569)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71814" content="グリーンホテル,24341,三重県三重郡菰野町,避難所,280,-1,0,0,0,0,0,1" xlink:title="グリーンホテル" transform="ref(svg,13647.0434,-3501.3389)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71815" content="一本木公会所,24341,三重県三重郡菰野町大字杉谷字一本木,避難所,30,-1,0,0,0,0,0,1" xlink:title="一本木公会所" transform="ref(svg,13649.8545,-3504.9817)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71816" content="鵜川原小学校,24341,三重県三重郡菰野町大強原913,避難所,220,-1,0,0,0,0,0,1" xlink:title="鵜川原小学校" transform="ref(svg,13653.8002,-3502.7292)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71817" content="鵜川原小学校・鵜川原保育園,24341,三重県三重郡菰野町,大規模避難所,270,-1,0,0,0,0,0,1" xlink:title="鵜川原小学校・鵜川原保育園" transform="ref(svg,13653.6946,-3502.6487)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71818" content="永井集落センター,24341,三重県三重郡菰野町,避難所,50,-1,0,0,0,0,0,1" xlink:title="永井集落センター" transform="ref(svg,13652.9035,-3505.0629)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71819" content="奥郷構造改善センター,24341,三重県三重郡菰野町,避難所,60,-1,0,0,0,0,0,1" xlink:title="奥郷構造改善センター" transform="ref(svg,13650.0919,-3504.149)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71820" content="岡公民館,24341,三重県三重郡菰野町,避難所,60,-1,0,0,0,0,0,1" xlink:title="岡公民館" transform="ref(svg,13650.8099,-3503.1154)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71821" content="音羽公会所,24341,三重県三重郡菰野町,避難所,40,-1,0,0,0,0,0,1" xlink:title="音羽公会所" transform="ref(svg,13649.8638,-3502.971)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71822" content="下村公会所,24341,三重県三重郡菰野町,避難所,80,-1,0,0,0,0,0,1" xlink:title="下村公会所" transform="ref(svg,13654.2499,-3502.0174)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71823" content="吉沢集落センター,24341,三重県三重郡菰野町,避難所,70,-1,0,0,0,0,0,1" xlink:title="吉沢集落センター" transform="ref(svg,13652.7363,-3501.6185)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71824" content="菰野高等学校,24341,三重県三重郡菰野町,避難所,370,-1,0,0,0,0,0,1" xlink:title="菰野高等学校" transform="ref(svg,13651.9253,-3501.5043)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71825" content="菰野小学校,24341,三重県三重郡菰野町菰野1490,避難所,380,-1,0,0,0,0,0,1" xlink:title="菰野小学校" transform="ref(svg,13650.9338,-3501.2321)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71826" content="菰野小学校・菰野保育園,24341,三重県三重郡菰野町,大規模避難所,440,-1,0,0,0,0,0,1" xlink:title="菰野小学校・菰野保育園" transform="ref(svg,13650.756,-3501.3599)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71827" content="菰野小学校・菰野幼稚園,24341,三重県三重郡菰野町,大規模避難所,240,-1,0,0,0,0,0,1" xlink:title="菰野小学校・菰野幼稚園" transform="ref(svg,13651.0254,-3501.271)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71828" content="菰野中学校,24341,三重県三重郡菰野町菰野1192,避難所,660,-1,0,0,0,0,0,1" xlink:title="菰野中学校" transform="ref(svg,13651.6726,-3501.5626)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71829" content="江野公会所,24341,三重県三重郡菰野町,避難所,60,-1,0,0,0,0,0,1" xlink:title="江野公会所" transform="ref(svg,13648.016,-3502.0382)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71830" content="根の平公会所,24341,三重県三重郡菰野町根の平,避難所,15,-1,0,0,0,0,0,1" xlink:title="根の平公会所" transform="ref(svg,13648.4133,-3506.3047)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71831" content="榊公会所,24341,三重県三重郡菰野町榊,避難所,20,-1,0,0,0,0,0,1" xlink:title="榊公会所" transform="ref(svg,13650.7447,-3505.5114)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71832" content="三滝園公会所,24341,三重県三重郡菰野町潤田,避難所,40,-1,0,0,0,0,0,1" xlink:title="三滝園公会所" transform="ref(svg,13651.2378,-3501.9531)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71833" content="宿野公会所,24341,三重県三重郡菰野町,避難所,80,-1,0,0,0,0,0,1" xlink:title="宿野公会所" transform="ref(svg,13652.6123,-3500.6934)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71834" content="潤田集落研修センター,24341,三重県三重郡菰野町,避難所,120,-1,0,0,0,0,0,1" xlink:title="潤田集落研修センター" transform="ref(svg,13651.3703,-3502.5318)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71835" content="小島集落センター,24341,三重県三重郡菰野町,避難所,50,-1,0,0,0,0,0,1" xlink:title="小島集落センター" transform="ref(svg,13652.6166,-3506.7998)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71836" content="松涛園公会所,24341,三重県三重郡菰野町,避難所,40,-1,0,0,0,0,0,1" xlink:title="松涛園公会所" transform="ref(svg,13651.6518,-3505.9355)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71837" content="神森集落センター,24341,三重県三重郡菰野町,避難所,50,-1,0,0,0,0,0,1" xlink:title="神森集落センター" transform="ref(svg,13653.717,-3500.4293)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71838" content="神明公会所,24341,三重県三重郡菰野町,避難所,50,-1,0,0,0,0,0,1" xlink:title="神明公会所" transform="ref(svg,13651.5701,-3501.2726)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71839" content="諏訪公会所,24341,三重県三重郡菰野町,避難所,100,-1,0,0,0,0,0,1" xlink:title="諏訪公会所" transform="ref(svg,13653.7902,-3503.1678)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71840" content="杉谷公会所,24341,三重県三重郡菰野町,避難所,60,-1,0,0,0,0,0,1" xlink:title="杉谷公会所" transform="ref(svg,13649.7363,-3505.9479)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71841" content="西菰野公会所,24341,三重県三重郡菰野町,避難所,80,-1,0,0,0,0,0,1" xlink:title="西菰野公会所" transform="ref(svg,13649.4587,-3500.818)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71842" content="青葉台公会所,24341,三重県三重郡菰野町,避難所,40,-1,0,0,0,0,0,1" xlink:title="青葉台公会所" transform="ref(svg,13650.0011,-3504.8886)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71843" content="切畑公会所,24341,三重県三重郡菰野町,避難所,15,-1,0,0,0,0,0,1" xlink:title="切畑公会所" transform="ref(svg,13647.8058,-3507.3148)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71844" content="千種小学校,24341,三重県三重郡菰野町千草3861,避難所,380,-1,0,0,0,0,0,1" xlink:title="千種小学校" transform="ref(svg,13650.2588,-3502.9791)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71845" content="千種小学校・千種保育園,24341,三重県三重郡菰野町,大規模避難所,420,-1,0,0,0,0,0,1" xlink:title="千種小学校・千種保育園" transform="ref(svg,13650.356,-3502.8291)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71846" content="千種小学校・千種幼稚園,24341,三重県三重郡菰野町,大規模避難所,170,-1,0,0,0,0,0,1" xlink:title="千種小学校・千種幼稚園" transform="ref(svg,13650.3671,-3503.0263)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71847" content="千草区民センター,24341,三重県三重郡菰野町,避難所,20,-1,0,0,0,0,0,1" xlink:title="千草区民センター" transform="ref(svg,13648.9188,-3503.4247)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71848" content="千草公会所,24341,三重県三重郡菰野町,避難所,70,-1,0,0,0,0,0,1" xlink:title="千草公会所" transform="ref(svg,13648.9851,-3503.357)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71849" content="川北公会所,24341,三重県三重郡菰野町,避難所,110,-1,0,0,0,0,0,1" xlink:title="川北公会所" transform="ref(svg,13654.7606,-3502.8216)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71850" content="大羽根園公会所,24341,三重県三重郡菰野町,避難所,80,-1,0,0,0,0,0,1" xlink:title="大羽根園公会所" transform="ref(svg,13649.3677,-3501.6954)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71851" content="大強原公会所,24341,三重県三重郡菰野町,避難所,60,-1,0,0,0,0,0,1" xlink:title="大強原公会所" transform="ref(svg,13652.9494,-3502.7634)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71852" content="池底集落センター,24341,三重県三重郡菰野町,避難所,80,-1,0,0,0,0,0,1" xlink:title="池底集落センター" transform="ref(svg,13652.2865,-3503.3555)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71853" content="竹永小学校,24341,三重県三重郡菰野町竹成2593-5,避難所,250,-1,0,0,0,0,0,1" xlink:title="竹永小学校" transform="ref(svg,13652.1256,-3505.0933)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71854" content="竹永小学校・竹永保育園,24341,三重県三重郡菰野町,大規模避難所,120,-1,0,0,0,0,0,1" xlink:title="竹永小学校・竹永保育園" transform="ref(svg,13652.5141,-3505.1761)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71855" content="竹成公会堂,24341,三重県三重郡菰野町,避難所,50,-1,0,0,0,0,0,1" xlink:title="竹成公会堂" transform="ref(svg,13651.5044,-3504.9604)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71856" content="茶屋の上公会所,24341,三重県三重郡菰野町,避難所,20,-1,0,0,0,0,0,1" xlink:title="茶屋の上公会所" transform="ref(svg,13648.0815,-3500.5938)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71857" content="中菰野第２区公民館,24341,三重県三重郡菰野町,避難所,100,-1,0,0,0,0,0,1" xlink:title="中菰野第２区公民館" transform="ref(svg,13650.344,-3501.2804)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71858" content="朝上小学校,24341,三重県三重郡菰野町田光66,避難所,300,-1,0,0,0,0,0,1" xlink:title="朝上小学校" transform="ref(svg,13650.8004,-3506.9314)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71859" content="朝上小学校・朝上保育園,24341,三重県三重郡菰野町,大規模避難所,410,-1,0,0,0,0,0,1" xlink:title="朝上小学校・朝上保育園" transform="ref(svg,13651.1642,-3506.987)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71860" content="朝上小学校・朝上幼稚園,24341,三重県三重郡菰野町,大規模避難所,270,-1,0,0,0,0,0,1" xlink:title="朝上小学校・朝上幼稚園" transform="ref(svg,13651.0031,-3506.8009)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71861" content="田光公会堂,24341,三重県三重郡菰野町,避難所,90,-1,0,0,0,0,0,1" xlink:title="田光公会堂" transform="ref(svg,13650.4936,-3507.287)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71862" content="田口公会所,24341,三重県三重郡菰野町,避難所,40,-1,0,0,0,0,0,1" xlink:title="田口公会所" transform="ref(svg,13650.1297,-3508.2513)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71863" content="田口新田公会所,24341,三重県三重郡菰野町,避難所,80,-1,0,0,0,0,0,1" xlink:title="田口新田公会所" transform="ref(svg,13651.8527,-3508.4203)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71864" content="南部公民館,24341,三重県三重郡菰野町,避難所,180,-1,0,0,0,0,0,1" xlink:title="南部公民館" transform="ref(svg,13651.8119,-3501.3733)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71865" content="日丘公会所,24341,三重県三重郡菰野町,避難所,15,-1,0,0,0,0,0,1" xlink:title="日丘公会所" transform="ref(svg,13650.6623,-3508.6602)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71866" content="八風中学校,24341,三重県三重郡菰野町田光3808-18,避難所,570,-1,0,0,0,0,0,1" xlink:title="八風中学校" transform="ref(svg,13651.092,-3506.8981)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71867" content="美山公会所,24341,三重県三重郡菰野町,避難所,30,-1,0,0,0,0,0,1" xlink:title="美山公会所" transform="ref(svg,13651.2207,-3508.2695)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71868" content="福松構造改善センター,24341,三重県三重郡菰野町,避難所,60,-1,0,0,0,0,0,1" xlink:title="福松構造改善センター" transform="ref(svg,13650.0344,-3503.8462)" x="0" y="0"/>
+<use xlink:href="#p0" id="f71869" content="福村公会所,24341,三重県三重郡菰野町,避難所,70,-1,0,0,0,0,0,1" xlink:title="福村公会所" transform="ref(svg,13652.4943,-3501.0761)" x="0" y="0"/>
+</g>
+</svg>

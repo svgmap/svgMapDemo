@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="12726.5625 -2636.71875 35.15625 35.15625" go:dataArea="12726.5625 -2636.71875 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f125564" content="阿波連漁港,47353,沖縄県島尻郡渡嘉敷村字阿波連地先,避難所,-1,-1,0,0,0,0,0,1" xlink:title="阿波連漁港" transform="ref(svg,12734.7837,-2616.7233)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125565" content="阿波連小学校,47353,沖縄県島尻郡渡嘉敷村字阿波連160番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="阿波連小学校" transform="ref(svg,12734.6458,-2617.0669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125566" content="阿波連生活館,47353,沖縄県島尻郡渡嘉敷村字阿波連129番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="阿波連生活館" transform="ref(svg,12734.6506,-2617.1407)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125567" content="国立沖縄青少年交流の家（本館）,47353,沖縄県島尻郡渡嘉敷村字渡嘉敷2760番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="国立沖縄青少年交流の家（本館）" transform="ref(svg,12736.6305,-2620.8828)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125568" content="村道阿波連線,47353,沖縄県島尻郡渡嘉敷村,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="村道阿波連線" transform="ref(svg,12734.6799,-2617.3592)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125569" content="村道青年の家線,47353,沖縄県島尻郡渡嘉敷村,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="村道青年の家線" transform="ref(svg,12736.8243,-2620.2275)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125570" content="村道前岳線,47353,沖縄県島尻郡渡嘉敷村,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="村道前岳線" transform="ref(svg,12734.8546,-2616.8863)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125571" content="村道大谷線,47353,沖縄県島尻郡渡嘉敷村,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="村道大谷線" transform="ref(svg,12735.7025,-2619.702)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125572" content="村道渡嘉志久線,47353,沖縄県島尻郡渡嘉敷村,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="村道渡嘉志久線" transform="ref(svg,12735.2545,-2618.6732)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125573" content="渡嘉敷港,47353,沖縄県島尻郡渡嘉敷村字渡嘉敷地先,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡嘉敷港" transform="ref(svg,12736.8103,-2619.8471)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125574" content="渡嘉敷小中学校,47353,沖縄県島尻郡渡嘉敷村字渡嘉敷355番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡嘉敷小中学校" transform="ref(svg,12736.636,-2619.8801)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125575" content="渡嘉敷村高齢者生活福祉センター,47353,沖縄県島尻郡渡嘉敷村字渡嘉敷747番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡嘉敷村高齢者生活福祉センター" transform="ref(svg,12736.1294,-2619.7405)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125576" content="渡嘉敷村青少年旅行村（阿波連）,47353,沖縄県島尻郡渡嘉敷村字阿波連地先,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡嘉敷村青少年旅行村（阿波連）" transform="ref(svg,12734.5653,-2617.1455)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125577" content="渡嘉敷村中央公民館,47353,沖縄県島尻郡渡嘉敷村字渡嘉敷209番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡嘉敷村中央公民館" transform="ref(svg,12736.4719,-2619.7027)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125578" content="渡嘉敷幼稚園,47353,沖縄県島尻郡渡嘉敷村字渡嘉敷355番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="渡嘉敷幼稚園" transform="ref(svg,12736.6864,-2620.032)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125579" content="林道照岳線,47353,沖縄県島尻郡渡嘉敷村,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="林道照岳線" transform="ref(svg,12734.8243,-2618.2911)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125580" content="林道渡嘉敷線,47353,沖縄県島尻郡渡嘉敷村,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="林道渡嘉敷線" transform="ref(svg,12736.3121,-2619.473)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125581" content="うなじノ崎,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="うなじノ崎" transform="ref(svg,12728.2485,-2623.3956)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125582" content="お宮,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,0,0,0,0" xlink:title="お宮" transform="ref(svg,12729.2583,-2617.8957)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125583" content="チシ展望台,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="チシ展望台" transform="ref(svg,12731.2675,-2624.506)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125584" content="阿嘉小中学校,47354,沖縄県島尻郡座間味村字阿嘉316,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="阿嘉小中学校" transform="ref(svg,12728.2264,-2619.2226)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125585" content="阿嘉総合センター,47354,沖縄県島尻郡座間味村字阿嘉50,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="阿嘉総合センター" transform="ref(svg,12728.3467,-2619.0387)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125586" content="阿佐公民館,47354,沖縄県島尻郡座間味村字阿佐1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="阿佐公民館" transform="ref(svg,12731.1577,-2623.4238)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125587" content="阿真チジ,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="阿真チジ" transform="ref(svg,12729.7857,-2622.9031)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125588" content="阿真公民館,47354,沖縄県島尻郡座間味村字阿真512-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="阿真公民館" transform="ref(svg,12729.4613,-2622.6464)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125589" content="稲崎展望台,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="稲崎展望台" transform="ref(svg,12729.5472,-2624.1777)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125590" content="外地展望台,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="外地展望台" transform="ref(svg,12728.9375,-2617.0301)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125591" content="慶留間公民館,47354,沖縄県島尻郡座間味村字慶留間50,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="慶留間公民館" transform="ref(svg,12729.2084,-2617.6814)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125592" content="慶留間小中学校,47354,沖縄県島尻郡座間味村字慶留間82,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="慶留間小中学校" transform="ref(svg,12729.2644,-2617.6664)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125593" content="慶良間空港,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="慶良間空港" transform="ref(svg,12729.3374,-2617.0797)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125594" content="高月山展望台,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="高月山展望台" transform="ref(svg,12730.9016,-2623.0575)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125595" content="座間味小中学校,47354,沖縄県島尻郡座間味村字座間味943,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="座間味小中学校" transform="ref(svg,12730.4392,-2622.9741)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125596" content="座間味総合センター,47354,沖縄県島尻郡座間味村字座間味95,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="座間味総合センター" transform="ref(svg,12730.2101,-2622.792)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125597" content="神の浜展望台,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="神の浜展望台" transform="ref(svg,12728.2054,-2622.8713)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125598" content="中岳展望台,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="中岳展望台" transform="ref(svg,12728.2229,-2619.8023)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125599" content="天城展望台,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="天城展望台" transform="ref(svg,12727.6739,-2618.8137)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125600" content="平和の塔,47354,沖縄県島尻郡座間味村,避難場所,-1,-1,0,1,1,0,0,0" xlink:title="平和の塔" transform="ref(svg,12730.4666,-2623.0427)" x="0" y="0"/>
+</g>
+</svg>

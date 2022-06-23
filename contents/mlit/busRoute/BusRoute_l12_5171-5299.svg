@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14090.51513671875 -3839.17236328125 0.54931640625 0.54931640625" go:dataArea="14090.51513671875 -3839.17236328125 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,富谷町,大亀山森林公園線,4.0,0.0,0.0," xlink:title="3" d="M14090.9951,-3839.1724L14090.9964,-3839.1709L14091.0003,-3839.1724"/>
+<path content="3,富谷町,大亀成田線,2.0,0.0,0.0," xlink:title="3" d="M14090.9637,-3838.623L14090.9799,-3838.6293"/>
+<path content="3,富谷町,大亀成田線,2.0,0.0,0.0," xlink:title="3" d="M14090.9792,-3838.623L14090.9799,-3838.6293"/>
+<path content="3,富谷町,大亀成田線,2.0,0.0,0.0," xlink:title="3" d="M14090.9964,-3839.1709L14091.0011,-3839.1565L14091.0047,-3839.1407L14091.0065,-3839.1227L14091.0072,-3839.1086L14091.0065,-3839.0934L14090.9943,-3839.0139L14090.9893,-3838.9599L14090.9864,-3838.8123L14090.9845,-3838.7474L14090.9843,-3838.7414L14090.9799,-3838.6293"/>
+<path content="3,富谷町,大亀成田線,2.0,0.0,0.0," xlink:title="3" d="M14090.9964,-3839.1709L14091.0003,-3839.1724"/>
+<path content="3,富谷町,大亀成田線,2.0,0.0,0.0," xlink:title="3" d="M14090.9951,-3839.1724L14090.9964,-3839.1709"/>
+<path content="3,富谷町,東部循環線,4.0,0.0,0.0," xlink:title="3" d="M14090.9637,-3838.623L14090.9799,-3838.6293L14090.9843,-3838.7414L14090.9845,-3838.7474L14090.9864,-3838.8123L14090.9893,-3838.9599L14090.9943,-3839.0139L14091.0065,-3839.0934L14091.0072,-3839.1086L14091.0065,-3839.1227L14091.0047,-3839.1407L14091.0011,-3839.1565L14090.9964,-3839.1709L14090.9951,-3839.1724"/>
+</g>
+</svg>

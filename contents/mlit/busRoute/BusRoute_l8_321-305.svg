@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14071.2890625 -4069.3359375 8.7890625 8.7890625" go:dataArea="14071.2890625 -4069.3359375 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,弘南バス（株）,大川原・大川原～弘前線　12・13・85,4.5,4.5,4.5," xlink:title="1" d="M14071.4869,-4063.3311L14071.4705,-4063.3264L14071.4646,-4063.3262L14071.4557,-4063.3258L14071.4417,-4063.3286L14071.4313,-4063.3292L14071.4301,-4063.3136L14071.4309,-4063.287L14071.4298,-4063.281L14071.4233,-4063.2616L14071.4144,-4063.2447L14071.4018,-4063.2301L14071.3871,-4063.2149L14071.3671,-4063.1986L14071.3619,-4063.1935L14071.3361,-4063.1732L14071.3294,-4063.1653L14071.3221,-4063.1496L14071.3147,-4063.1395L14071.2918,-4063.1231L14071.2891,-4063.1218"/>
+<path content="1,弘南バス（株）,弘前～黒石～大川原線　11・12・13,12.0,12.0,12.0," xlink:title="1" d="M14071.2891,-4063.1218L14071.2918,-4063.1231L14071.3147,-4063.1395L14071.3221,-4063.1496L14071.3294,-4063.1653L14071.3361,-4063.1732L14071.3619,-4063.1935L14071.3671,-4063.1986L14071.3871,-4063.2149L14071.4018,-4063.2301L14071.4144,-4063.2447L14071.4233,-4063.2616L14071.4298,-4063.281L14071.4309,-4063.287L14071.4301,-4063.3136L14071.4313,-4063.3292L14071.4417,-4063.3286L14071.4557,-4063.3258L14071.4646,-4063.3262L14071.4705,-4063.3264L14071.4869,-4063.3311"/>
+</g>
+</svg>

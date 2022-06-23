@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14071.2890625 -4201.171875 8.7890625 8.7890625" go:dataArea="14071.2890625 -4201.171875 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,函館バス（株）,郊外4,5.0,5.0,5.0," xlink:title="1" d="M14071.2891,-4198.2672L14071.3636,-4198.3405L14071.3884,-4198.3636L14071.4404,-4198.4159L14071.5173,-4198.4902L14071.6394,-4198.6101L14071.6809,-4198.6513L14071.7509,-4198.721L14071.8443,-4198.8156L14071.8782,-4198.8494L14071.9815,-4198.9507L14072.1059,-4199.0757L14072.1398,-4199.11L14072.1827,-4199.1528L14072.2475,-4199.2186L14072.2683,-4199.2434L14072.2754,-4199.2519L14072.3741,-4199.3982L14072.3832,-4199.4128L14072.4201,-4199.4658L14072.4435,-4199.5007L14072.4465,-4199.5035L14072.497,-4199.5761L14072.5075,-4199.589L14072.6477,-4199.7163L14072.6575,-4199.7264L14072.6876,-4199.7534L14072.7095,-4199.7618L14072.7487,-4199.7714L14072.7879,-4199.7821L14072.812,-4199.7968L14072.8248,-4199.8046L14072.8369,-4199.8249L14072.8542,-4199.8609L14072.8931,-4199.935L14072.9536,-4200.0687L14072.9883,-4200.139L14073.0437,-4200.2544L14073.0678,-4200.3062L14073.1776,-4200.5317L14073.2247,-4200.6751L14073.2529,-4200.7692L14073.3021,-4200.9115L14073.3282,-4200.9952L14073.3506,-4201.0656L14073.3859,-4201.1719"/>
+</g>
+</svg>

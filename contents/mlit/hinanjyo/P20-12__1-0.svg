@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13500.0 -9000.0 4500.0 4500.0" go:dataArea="13500.0 -9000.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f4601" content="ウロンナイ神社裏山,01214,北海道稚内市西浜1丁目,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="ウロンナイ神社裏山" transform="ref(svg,14163.8588,-4540.6463)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4602" content="マタルナイ地区裏山,01214,北海道稚内市西浜3丁目,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="マタルナイ地区裏山" transform="ref(svg,14164.9917,-4538.0966)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4603" content="下勇知小中学校,01214,北海道稚内市勇知5線35,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="下勇知小中学校" transform="ref(svg,14163.3269,-4525.2513)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4604" content="旧樺岡小中学校,01214,北海道稚内市樺岡,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧樺岡小中学校" transform="ref(svg,14181.5634,-4529.7713)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4605" content="旧曲淵小中学校,01214,北海道稚内市曲淵,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧曲淵小中学校" transform="ref(svg,14189.9601,-4526.0834)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4606" content="旧更喜苫内小学校,01214,北海道稚内市サラキトマナイ,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧更喜苫内小学校" transform="ref(svg,14171.9313,-4531.7544)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4607" content="旧曙小学校,01214,北海道稚内市曙,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧曙小学校" transform="ref(svg,14180.3844,-4522.8405)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4608" content="旧上修徳小中学校,01214,北海道稚内市天興,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧上修徳小中学校" transform="ref(svg,14188.3204,-4518.4394)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4609" content="旧東浦小中学校,01214,北海道稚内市東浦89,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧東浦小中学校" transform="ref(svg,14203.9528,-4541.0065)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4610" content="旧抜海小中学校,01214,北海道稚内市抜海,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧抜海小中学校" transform="ref(svg,14162.6462,-4531.1202)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4611" content="旧豊別小中学校,01214,北海道稚内市豊別,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧豊別小中学校" transform="ref(svg,14188.1174,-4523.0234)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4612" content="曲淵コミュニティセンター,01214,北海道稚内市曲淵,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="曲淵コミュニティセンター" transform="ref(svg,14190.137,-4526.083)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4613" content="航空自衛隊稚内分頓基地高台,01214,北海道稚内市ノシャップ,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="航空自衛隊稚内分頓基地高台" transform="ref(svg,14164.9671,-4543.9509)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4614" content="宗谷経済センター,01214,北海道稚内市中央2丁目4番8号,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="宗谷経済センター" transform="ref(svg,14167.3178,-4541.8946)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4615" content="宗谷小学校,01214,北海道稚内市宗谷,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="宗谷小学校" transform="ref(svg,14187.9399,-4548.8579)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4616" content="宗谷中学校,01214,北海道稚内市清浜,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="宗谷中学校" transform="ref(svg,14188.2037,-4549.4606)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4617" content="宗谷岬平和公園,01214,北海道稚内市宗谷岬,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="宗谷岬平和公園" transform="ref(svg,14193.6759,-4552.2594)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4618" content="沼川コミュニティセンター,01214,北海道稚内市沼川,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="沼川コミュニティセンター" transform="ref(svg,14185.2993,-4525.0394)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4619" content="上勇知小中学校,01214,北海道稚内市勇知5線35,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上勇知小中学校" transform="ref(svg,14168.8348,-4525.6739)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4620" content="声問コミュニティセンター,01214,北海道稚内市声問3丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="声問コミュニティセンター" transform="ref(svg,14175.7555,-4540.3658)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4621" content="声問小学校,01214,北海道稚内市声問5丁目7番21号,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="声問小学校" transform="ref(svg,14175.732,-4540.0938)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4622" content="泉宅裏山,01214,北海道稚内市西浜2丁目,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="泉宅裏山" transform="ref(svg,14164.2784,-4538.8802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4623" content="増幌コミュニティセンター,01214,北海道稚内市増幌,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="増幌コミュニティセンター" transform="ref(svg,14183.0145,-4537.1126)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4624" content="増幌小中学校,01214,北海道稚内市恵北,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="増幌小中学校" transform="ref(svg,14181.4967,-4537.2729)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4625" content="大岬小学校,01214,北海道稚内市宗谷岬,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大岬小学校" transform="ref(svg,14195.4902,-4551.3865)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4626" content="稚内港小学校,01214,北海道稚内市港4丁目94,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内港小学校" transform="ref(svg,14167.3813,-4539.8749)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4627" content="稚内高等学校,01214,北海道稚内市栄1丁目4-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内高等学校" transform="ref(svg,14169.7423,-4539.0751)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4628" content="稚内市スポーツセンター,01214,北海道稚内市ノシャップ,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市スポーツセンター" transform="ref(svg,14164.6228,-4544.1813)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4629" content="稚内市勤労青少年体育センター,01214,北海道稚内市大黒3丁目4番32号,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市勤労青少年体育センター" transform="ref(svg,14169.0671,-4539.7865)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4630" content="稚内市自然体験施設,01214,北海道稚内市上声問,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市自然体験施設" transform="ref(svg,14185.9967,-4529.0907)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4631" content="稚内市社会教育センター,01214,北海道稚内市緑2丁目4番5号,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市社会教育センター" transform="ref(svg,14168.522,-4539.2961)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4632" content="稚内市青少年会館,01214,北海道稚内市恵比須2丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市青少年会館" transform="ref(svg,14166.2772,-4543.4873)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4633" content="稚内市総合勤労者会館,01214,北海道稚内市大黒3丁目4番30号,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市総合勤労者会館" transform="ref(svg,14169.0932,-4539.7721)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4634" content="稚内市総合体育館,01214,北海道稚内市富士見4丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市総合体育館" transform="ref(svg,14163.9535,-4542.2249)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4635" content="稚内市総合体育館裏山,01214,北海道稚内市富士見4丁目,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="稚内市総合体育館裏山" transform="ref(svg,14164.1202,-4542.3068)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4636" content="稚内市体育館,01214,北海道稚内市宝来4丁目1番39号,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市体育館" transform="ref(svg,14166.9704,-4542.6267)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4637" content="稚内市保健福祉センター,01214,北海道稚内市中央4丁目16番2号,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内市保健福祉センター" transform="ref(svg,14167.6256,-4541.1859)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4638" content="稚内商工高等学校,01214,北海道稚内市富岡1丁目1-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内商工高等学校" transform="ref(svg,14171.381,-4539.0279)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4639" content="稚内西小中学校,01214,北海道稚内市西浜2丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内西小中学校" transform="ref(svg,14163.8532,-4539.7288)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4640" content="稚内西小中学校裏山,01214,北海道稚内市西浜2丁目,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="稚内西小中学校裏山" transform="ref(svg,14164.0095,-4539.6928)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4641" content="稚内総合文化センター,01214,北海道稚内市中央3丁目13番23号,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内総合文化センター" transform="ref(svg,14167.3241,-4541.475)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4642" content="稚内大谷高等学校,01214,北海道稚内市緑3丁目14-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内大谷高等学校" transform="ref(svg,14168.1951,-4538.9333)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4643" content="稚内中央小学校,01214,北海道稚内市宝来4丁目1-35,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内中央小学校" transform="ref(svg,14166.885,-4542.706)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4644" content="稚内中学校,01214,北海道稚内市宝来5丁目7-31,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内中学校" transform="ref(svg,14166.6784,-4543.0828)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4645" content="稚内東小学校,01214,北海道稚内市潮見5丁目1-5,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内東小学校" transform="ref(svg,14170.7366,-4539.3445)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4646" content="稚内東中学校,01214,北海道稚内市潮見5丁目1-29,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内東中学校" transform="ref(svg,14171.0616,-4539.314)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4647" content="稚内南小学校,01214,北海道稚内市緑1丁目11-8,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内南小学校" transform="ref(svg,14168.4395,-4539.5055)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4648" content="稚内南中学校,01214,北海道稚内市緑1丁目2561,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内南中学校" transform="ref(svg,14167.7785,-4539.6055)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4649" content="稚内北星学園大学,01214,北海道稚内市若葉台1丁目2290-28,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内北星学園大学" transform="ref(svg,14171.8751,-4538.2796)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4650" content="稚内鈴蘭幼稚園,01214,北海道稚内市港3丁目6-12,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚内鈴蘭幼稚園" transform="ref(svg,14167.5785,-4540.1999)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4651" content="潮見が丘小学校,01214,北海道稚内市富岡4丁目3-3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="潮見が丘小学校" transform="ref(svg,14171.8143,-4538.9002)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4652" content="潮見が丘中学校,01214,北海道稚内市若葉台1丁目2290,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="潮見が丘中学校" transform="ref(svg,14171.6407,-4538.3447)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4653" content="天北小中学校,01214,北海道稚内市沼川,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="天北小中学校" transform="ref(svg,14185.4027,-4525.28)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4654" content="道々稚内天塩線,01214,北海道稚内市西浜4丁目,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="道々稚内天塩線" transform="ref(svg,14165.5582,-4537.459)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4655" content="抜海神社裏山,01214,北海道稚内市抜海,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="抜海神社裏山" transform="ref(svg,14162.0559,-4530.8867)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4656" content="抜海配水池,01214,北海道稚内市抜海,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="抜海配水池" transform="ref(svg,14161.8321,-4531.0049)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4657" content="富磯小学校,01214,北海道稚内市富磯,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="富磯小学校" transform="ref(svg,14187.5624,-4545.1417)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4658" content="富士見１丁目バス停裏山,01214,北海道稚内市富士見1丁目,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="富士見１丁目バス停裏山" transform="ref(svg,14164.4495,-4543.3818)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4659" content="富士見団地裏山,01214,北海道稚内市富士見5丁目,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="富士見団地裏山" transform="ref(svg,14164.0861,-4541.946)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5985" content="芦野小学校,01511,北海道宗谷郡猿払村芦野175-246,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="芦野小学校" transform="ref(svg,14218.2094,-4529.9704)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5986" content="猿払村スポーツセンター,01511,北海道宗谷郡猿払村鬼志別北町142番地,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="猿払村スポーツセンター" transform="ref(svg,14211.8039,-4533.4929)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5987" content="猿払村生活改善センター,01511,北海道宗谷郡猿払村鬼志別東町1番地,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="猿払村生活改善センター" transform="ref(svg,14211.5977,-4533.0725)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5988" content="猿払村農村環境改善センター,01511,北海道宗谷郡猿払村鬼志別北町142番地,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="猿払村農村環境改善センター" transform="ref(svg,14211.7502,-4533.3588)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5989" content="猿払村老人憩いの家,01511,北海道宗谷郡猿払村鬼志別北町142,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="猿払村老人憩いの家" transform="ref(svg,14211.7027,-4533.3021)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5990" content="猿払地域集会所,01511,北海道宗谷郡猿払村猿払127番地81,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="猿払地域集会所" transform="ref(svg,14219.6863,-4526.4449)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5991" content="鬼志別小学校,01511,北海道宗谷郡猿払村鬼志別北町,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="鬼志別小学校" transform="ref(svg,14211.3493,-4533.4811)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5992" content="旧猿払小学校グランド,01511,北海道宗谷郡猿払村浜猿払,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧猿払小学校グランド" transform="ref(svg,14223.048,-4527.4708)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5993" content="狩別地域集会所,01511,北海道宗谷郡猿払村狩別2904番地1,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="狩別地域集会所" transform="ref(svg,14212.4863,-4524.6341)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5994" content="小石交流センター,01511,北海道宗谷郡猿払村小石291番地13,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="小石交流センター" transform="ref(svg,14205.6056,-4531.1364)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5995" content="浅茅野小学校,01511,北海道宗谷郡猿払村浅茅野336番地1,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="浅茅野小学校" transform="ref(svg,14223.2288,-4520.8356)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5996" content="浅茅野台地農業研修施設,01511,北海道宗谷郡猿払村浅茅野台地342番地301,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="浅茅野台地農業研修施設" transform="ref(svg,14225.7395,-4519.1273)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5997" content="拓心中学校,01511,北海道宗谷郡猿払村鬼志別北町184番地,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="拓心中学校" transform="ref(svg,14211.6471,-4533.5809)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5998" content="知来別簡易水道配水池敷地,01511,北海道宗谷郡猿払村,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="知来別簡易水道配水池敷地" transform="ref(svg,14209.2678,-4537.8137)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5999" content="知来別小学校,01511,北海道宗谷郡猿払村知来別1081番地,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="知来別小学校" transform="ref(svg,14208.5465,-4538.0291)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6000" content="知来別小学校裏山,01511,北海道宗谷郡猿払村,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="知来別小学校裏山" transform="ref(svg,14208.4237,-4538.1016)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6001" content="浜猿払交流センター,01511,北海道宗谷郡猿払村浜猿払1075番地52,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="浜猿払交流センター" transform="ref(svg,14223.3274,-4527.3389)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6002" content="浜鬼志別小学校,01511,北海道宗谷郡猿払村浜鬼志別278番地1,収容避難所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="浜鬼志別小学校" transform="ref(svg,14216.4808,-4533.9803)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6003" content="役場前広場,01511,北海道宗谷郡猿払村,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="役場前広場" transform="ref(svg,14210.9227,-4533.0084)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6004" content="宇曽丹小学校屋内運動場,01512,北海道枝幸郡浜頓別町宇曽丹,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="宇曽丹小学校屋内運動場" transform="ref(svg,14234.38,-4506.781)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6005" content="下頓別健康センター,01512,北海道枝幸郡浜頓別町,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="下頓別健康センター" transform="ref(svg,14231.1142,-4504.9152)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6006" content="下頓別小学校屋内運動場,01512,北海道枝幸郡浜頓別町下頓別,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="下頓別小学校屋内運動場" transform="ref(svg,14231.1359,-4504.9729)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6007" content="下頓別中学校屋内運動場,01512,北海道枝幸郡浜頓別町字高砂,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="下頓別中学校屋内運動場" transform="ref(svg,14231.1804,-4503.9175)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6008" content="開明コミュニティセンター,01512,北海道枝幸郡浜頓別町字ヤシベツ383番52,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="開明コミュニティセンター" transform="ref(svg,14225.0175,-4515.8501)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6009" content="旧斜内小学校屋内運動場,01512,北海道枝幸郡浜頓別町斜内,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧斜内小学校屋内運動場" transform="ref(svg,14246.7621,-4507.1229)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6010" content="旧豊寒別小学校屋内運動場,01512,北海道枝幸郡浜頓別町豊寒別,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="旧豊寒別小学校屋内運動場" transform="ref(svg,14242.2263,-4509.1114)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6011" content="斜内生活改善センター,01512,北海道枝幸郡浜頓別町字斜内,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="斜内生活改善センター" transform="ref(svg,14246.8488,-4507.1048)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6012" content="仁達内コミュニティセンター,01512,北海道枝幸郡浜頓別町字ニタチナイ4381番13,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="仁達内コミュニティセンター" transform="ref(svg,14231.6643,-4511.2802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6013" content="頓別コミュニティセンター,01512,北海道枝幸郡浜頓別町字頓別3187番11,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="頓別コミュニティセンター" transform="ref(svg,14239.1593,-4512.6621)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6014" content="頓別小学校屋内運動場,01512,北海道枝幸郡浜頓別町頓別,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="頓別小学校屋内運動場" transform="ref(svg,14239.4241,-4512.7022)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6015" content="浜頓別運動広場,01512,北海道枝幸郡浜頓別町クッチャロ湖畔53、54番,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別運動広場" transform="ref(svg,14235.0685,-4512.6049)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6016" content="浜頓別勤労者体育センター,01512,北海道枝幸郡浜頓別町クッチャロ湖畔,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別勤労者体育センター" transform="ref(svg,14235.0149,-4512.3195)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6017" content="浜頓別高等学校屋内運動場,01512,北海道枝幸郡浜頓別町緑ヶ丘5-15,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別高等学校屋内運動場" transform="ref(svg,14236.0407,-4511.7223)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6018" content="浜頓別山村広場,01512,北海道枝幸郡浜頓別町クッチャロ湖畔55番,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別山村広場" transform="ref(svg,14235.2895,-4512.6058)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6019" content="浜頓別小学校屋内運動場,01512,北海道枝幸郡浜頓別町旭ヶ丘3-15,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別小学校屋内運動場" transform="ref(svg,14236.7878,-4511.6659)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6020" content="浜頓別中学校屋内運動場,01512,北海道枝幸郡浜頓別町北4条1丁目1,収容避難所、一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別中学校屋内運動場" transform="ref(svg,14236.0895,-4512.8463)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6021" content="浜頓別町営野球場,01512,北海道枝幸郡浜頓別町,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別町営野球場" transform="ref(svg,14235.1815,-4512.4482)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6022" content="浜頓別町青少年会館,01512,北海道枝幸郡浜頓別町クッチャロ湖畔19番,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別町青少年会館" transform="ref(svg,14235.0146,-4512.3091)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6023" content="浜頓別町多目的アリーナ,01512,北海道枝幸郡浜頓別町中央北,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別町多目的アリーナ" transform="ref(svg,14235.8615,-4512.4863)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6024" content="浜頓別町福祉センター,01512,北海道枝幸郡浜頓別町南2条3丁目4,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別町福祉センター" transform="ref(svg,14236.5797,-4512.3803)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6025" content="浜頓別幼稚園グラウンド,01512,北海道枝幸郡浜頓別町北4条2丁目28,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="浜頓別幼稚園グラウンド" transform="ref(svg,14236.3854,-4512.8718)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6026" content="母と子の家,01512,北海道枝幸郡浜頓別町緑ヶ丘1丁目,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="母と子の家" transform="ref(svg,14235.661,-4512.2753)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6027" content="豊牛生活館,01512,北海道枝幸郡浜頓別町字豊寒別,収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="豊牛生活館" transform="ref(svg,14242.1545,-4509.2476)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6045" content="弥生会館,01513,北海道枝幸郡中頓別町弥生,避難所,-1,-1,0,0,0,0,0,1" xlink:title="弥生会館" transform="ref(svg,14229.9554,-4500.6752)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6098" content="目梨泊コミュニティセンター,01514,北海道枝幸郡枝幸町目梨泊5431番地1,避難所,-1,-1,0,1,0,0,0,0" xlink:title="目梨泊コミュニティセンター" transform="ref(svg,14250.9586,-4503.6203)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6099" content="目梨泊小学校,01514,北海道枝幸郡枝幸町目梨泊,避難所、避難場所,-1,-1,0,1,0,0,0,0" xlink:title="目梨泊小学校" transform="ref(svg,14251.57,-4503.2653)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6101" content="問牧小学校,01514,北海道枝幸郡枝幸町問牧950番地1,避難所、避難場所,-1,-1,0,1,0,0,0,0" xlink:title="問牧小学校" transform="ref(svg,14253.5298,-4500.2096)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6103" content="スポーツセンター,01516,北海道天塩郡豊富町西豊富,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="スポーツセンター" transform="ref(svg,14176.8629,-4510.5554)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6104" content="兜沼小中学校,01516,北海道天塩郡豊富町兜沼,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="兜沼小中学校" transform="ref(svg,14169.6155,-4522.6909)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6105" content="自然公園駐車場,01516,北海道天塩郡豊富町東4条3丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="自然公園駐車場" transform="ref(svg,14178.8458,-4509.9484)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6106" content="庄内小中学校,01516,北海道天塩郡豊富町豊栄,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="庄内小中学校" transform="ref(svg,14165.8747,-4515.8527)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6107" content="稚咲内小学校,01516,北海道天塩郡豊富町稚咲内,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="稚咲内小学校" transform="ref(svg,14164.0587,-4508.4008)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6108" content="豊富温泉小学校,01516,北海道天塩郡豊富町温泉,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊富温泉小学校" transform="ref(svg,14183.5897,-4507.2377)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6109" content="豊富高等学校,01516,北海道天塩郡豊富町東6条1丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊富高等学校" transform="ref(svg,14178.6437,-4509.6808)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6110" content="豊富小学校,01516,北海道天塩郡豊富町大通り1丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊富小学校" transform="ref(svg,14178.0578,-4509.568)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6111" content="豊富中学校,01516,北海道天塩郡豊富町西豊富,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊富中学校" transform="ref(svg,14176.4368,-4510.8134)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6112" content="豊富町サロベツ少年自然の家,01516,北海道天塩郡豊富町豊徳,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊富町サロベツ少年自然の家" transform="ref(svg,14166.161,-4510.1961)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6113" content="豊富町共同福祉施設,01516,北海道天塩郡豊富町東4条3丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊富町共同福祉施設" transform="ref(svg,14178.6469,-4510.073)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6114" content="豊富町福祉センター,01516,北海道天塩郡豊富町西1条8丁目,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊富町福祉センター" transform="ref(svg,14177.55,-4510.4287)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6115" content="豊富町民センター,01516,北海道天塩郡豊富町西豊富,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="豊富町民センター" transform="ref(svg,14176.8877,-4510.3966)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6116" content="沓形小学校,01518,北海道利尻郡利尻町沓形字日出町63,避難所,-1,-1,0,0,0,0,0,1" xlink:title="沓形小学校" transform="ref(svg,14114.2735,-4518.6949)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6117" content="沓形中学校,01518,北海道利尻郡利尻町沓形日出町55,避難所,-1,-1,0,0,0,0,0,1" xlink:title="沓形中学校" transform="ref(svg,14114.3068,-4518.9226)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6118" content="泉公園,01518,北海道利尻郡利尻町沓形字泉町,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="泉公園" transform="ref(svg,14114.1567,-4518.4532)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6119" content="新湊小学校,01518,北海道利尻郡利尻町沓形新湊179,避難所,-1,-1,0,0,0,0,0,1" xlink:title="新湊小学校" transform="ref(svg,14114.1177,-4520.8186)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6120" content="仙法志パークゴルフ場,01518,北海道利尻郡利尻町仙法志字政泊,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="仙法志パークゴルフ場" transform="ref(svg,14120.6886,-4511.5736)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6121" content="仙法志小学校,01518,北海道利尻郡利尻町仙法志字本町,避難所,-1,-1,0,0,0,0,0,1" xlink:title="仙法志小学校" transform="ref(svg,14121.9793,-4511.1671)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6122" content="仙法志中学校,01518,北海道利尻郡利尻町仙法志本町,避難所,-1,-1,0,0,0,0,0,1" xlink:title="仙法志中学校" transform="ref(svg,14121.7449,-4511.2409)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6123" content="仙法志保育所,01518,北海道利尻郡利尻町仙法志字政泊90-4,避難所,-1,-1,0,0,0,0,0,1" xlink:title="仙法志保育所" transform="ref(svg,14121.2135,-4511.292)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6124" content="富野公園,01518,北海道利尻郡利尻町沓形字富野,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="富野公園" transform="ref(svg,14114.3532,-4519.1151)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6125" content="利尻高等学校,01518,北海道利尻郡利尻町沓形字神居189-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="利尻高等学校" transform="ref(svg,14114.2319,-4517.1422)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6126" content="利尻総合体育館,01518,北海道利尻郡利尻町沓形字神居205番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="利尻総合体育館" transform="ref(svg,14114.295,-4516.9467)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6127" content="利尻大志館,01518,北海道利尻郡利尻町沓形字緑町,避難所,-1,-1,0,0,0,0,0,1" xlink:title="利尻大志館" transform="ref(svg,14114.0377,-4518.6552)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6128" content="利尻町ヘリポート,01518,北海道利尻郡利尻町沓形字蘭泊,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="利尻町ヘリポート" transform="ref(svg,14114.8481,-4516.1801)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6129" content="利尻町交流促進施設,01518,北海道利尻郡利尻町沓形字富士見町2番地2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="利尻町交流促進施設" transform="ref(svg,14113.4569,-4518.5477)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6130" content="利尻町自然の家,01518,北海道利尻郡利尻町仙法志字久連,避難所,-1,-1,0,0,0,0,0,1" xlink:title="利尻町自然の家" transform="ref(svg,14116.6735,-4513.8108)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6131" content="利尻町森林公園キャンプ場,01518,北海道利尻郡利尻町沓形字泉町,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="利尻町森林公園キャンプ場" transform="ref(svg,14114.272,-4518.0114)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6132" content="利尻町立博物館駐車場,01518,北海道利尻郡利尻町仙法志字政泊,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="利尻町立博物館駐車場" transform="ref(svg,14121.6014,-4511.3098)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6133" content="老人福祉センター,01518,北海道利尻郡利尻町沓形字緑町21,避難所,-1,-1,0,0,0,0,0,1" xlink:title="老人福祉センター" transform="ref(svg,14114.0263,-4518.6504)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6134" content="鴛泊小学校,01519,北海道利尻郡利尻富士町鴛泊字本町92,避難所,-1,-1,0,1,0,0,0,0" xlink:title="鴛泊小学校" transform="ref(svg,14122.3059,-4524.2001)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6135" content="鴛泊中学校,01519,北海道利尻郡利尻富士町鴛泊字栄町225,避難所,-1,-1,0,1,0,0,0,0" xlink:title="鴛泊中学校" transform="ref(svg,14121.8893,-4524.3029)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6136" content="鬼脇中学校,01519,北海道利尻郡利尻富士町鬼脇字鬼脇191,避難所,-1,-1,0,1,0,0,0,0" xlink:title="鬼脇中学校" transform="ref(svg,14131.0948,-4513.9851)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6137" content="本泊小学校,01519,北海道利尻郡利尻富士町鴛泊字本泊155,避難所,-1,-1,0,1,0,0,0,0" xlink:title="本泊小学校" transform="ref(svg,14118.9617,-4524.9277)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6138" content="野中自治会館,01519,北海道利尻郡利尻富士町鬼脇字野中,避難所,-1,-1,0,1,0,0,0,0" xlink:title="野中自治会館" transform="ref(svg,14124.6504,-4510.2852)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6139" content="野塚自治会館,01519,北海道利尻郡利尻富士町鴛泊字野塚,避難所,-1,-1,0,1,0,0,0,0" xlink:title="野塚自治会館" transform="ref(svg,14127.2807,-4523.3111)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6140" content="利尻小学校,01519,北海道利尻郡利尻富士町鬼脇字鬼脇318,避難所,-1,-1,0,1,0,0,0,0" xlink:title="利尻小学校" transform="ref(svg,14130.5818,-4514.0059)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6141" content="鰊泊自治会館,01519,北海道利尻郡利尻富士町鬼脇字鰊泊,避難所,-1,-1,0,1,0,0,0,0" xlink:title="鰊泊自治会館" transform="ref(svg,14131.1994,-4519.8935)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6143" content="下沼寿の家,01520,北海道天塩郡幌延町下沼270番地の1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="下沼寿の家" transform="ref(svg,14177.1096,-4502.1217)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6144" content="下沼生活改善センター,01520,北海道天塩郡幌延町下沼52番地の3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="下沼生活改善センター" transform="ref(svg,14174.9376,-4504.9913)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6145" content="下沼地区グランド,01520,北海道天塩郡幌延町下沼270番地,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="下沼地区グランド" transform="ref(svg,14177.1208,-4502.1916)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6150" content="上問寒生活改善センター,01520,北海道天塩郡幌延町上問寒227番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上問寒生活改善センター" transform="ref(svg,14207.9013,-4501.6508)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6151" content="上問寒地区グランド,01520,北海道天塩郡幌延町上問寒22番地,一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上問寒地区グランド" transform="ref(svg,14207.9275,-4501.6164)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6155" content="幌延小学校,01520,北海道天塩郡幌延町東町25番地,避難場所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="幌延小学校" transform="ref(svg,14185.4764,-4501.4495)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6156" content="幌延深地層研究センター国際交流施設,01520,北海道天塩郡幌延町宮園町1番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="幌延深地層研究センター国際交流施設" transform="ref(svg,14184.6875,-4501.7873)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6157" content="幌延西集会所,01520,北海道天塩郡幌延町幌延278番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="幌延西集会所" transform="ref(svg,14182.0652,-4501.8617)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6159" content="幌延中学校,01520,北海道天塩郡幌延町幌延102番地,避難場所、一時避難場所,-1,-1,0,0,0,0,0,1" xlink:title="幌延中学校" transform="ref(svg,14184.4709,-4502.2382)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6160" content="幌延町生涯学習センター,01520,北海道天塩郡幌延町宮園町1番地,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="幌延町生涯学習センター" transform="ref(svg,14184.8975,-4501.7086)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6161" content="幌延町総合体育館,01520,北海道天塩郡幌延町栄町5番地の1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="幌延町総合体育館" transform="ref(svg,14184.9063,-4501.9016)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6178" content="旧内路小学校,01517,北海道礼文郡礼文町大字香深村字内路,避難所、避難場所,-1,2691,0,0,0,0,0,1" xlink:title="旧内路小学校" transform="ref(svg,14105.2147,-4539.1212)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6179" content="香深井小学校,01517,北海道礼文郡礼文町大字香深村字香深井,避難所,-1,1769,0,0,0,0,0,1" xlink:title="香深井小学校" transform="ref(svg,14104.5083,-4533.9982)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6180" content="潮騒ドーム,01517,北海道礼文郡礼文町大字香深村字香深井,避難所,-1,3750,0,0,0,0,0,1" xlink:title="潮騒ドーム" transform="ref(svg,14104.9445,-4533.6079)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6181" content="礼文小学校,01517,北海道礼文郡礼文町大字香深村字会所前,避難所、避難場所,-1,2424,0,0,0,0,0,1" xlink:title="礼文小学校" transform="ref(svg,14104.7233,-4530.5134)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6182" content="香深中学校,01517,北海道礼文郡礼文町大字香深村字会所前,避難所,-1,3266,0,0,0,0,0,1" xlink:title="香深中学校" transform="ref(svg,14104.6257,-4530.4006)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6183" content="旧尺忍小学校,01517,北海道礼文郡礼文町大字香深村字知床,避難所、避難場所,-1,9398,0,0,0,0,0,1" xlink:title="旧尺忍小学校" transform="ref(svg,14103.529,-4527.7103)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6184" content="元地自治会館,01517,北海道礼文郡礼文町大字香深村字元地,避難所,-1,137,0,0,0,0,0,1" xlink:title="元地自治会館" transform="ref(svg,14102.2626,-4530.5312)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6185" content="礼文高校,01517,北海道礼文郡礼文町大字船泊村字赤岩,避難所、避難場所,-1,25478,0,0,0,0,0,1" xlink:title="礼文高校" transform="ref(svg,14105.6845,-4539.5663)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6186" content="旧上泊小学校,01517,北海道礼文郡礼文町大字船泊村字上泊,避難所、避難場所,-1,3667,0,0,0,0,0,1" xlink:title="旧上泊小学校" transform="ref(svg,14106.0782,-4542.135)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6187" content="船泊小学校,01517,北海道礼文郡礼文町大字船泊村字大備,避難所、避難場所,-1,12080,0,0,0,0,0,1" xlink:title="船泊小学校" transform="ref(svg,14103.3796,-4543.5329)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6188" content="船泊中学校,01517,北海道礼文郡礼文町大字船泊村字大備,避難所、避難場所,-1,2451,0,0,0,0,0,1" xlink:title="船泊中学校" transform="ref(svg,14103.4504,-4543.6253)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6189" content="神崎小学校,01517,北海道礼文郡礼文町大字船泊村字浜中,避難所、避難場所,-1,4596,0,0,0,0,0,1" xlink:title="神崎小学校" transform="ref(svg,14101.0839,-4543.0669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6190" content="旧須古頓小学校,01517,北海道礼文郡礼文町大字船泊村字須古頓,避難所、避難場所,-1,4647,0,0,0,0,0,1" xlink:title="旧須古頓小学校" transform="ref(svg,14097.0014,-4545.7309)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6191" content="山内正三宅,01517,北海道礼文郡礼文町大字船泊村字召国,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="山内正三宅" transform="ref(svg,14099.0909,-4538.5836)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6192" content="小笠原洋悦宅,01517,北海道礼文郡礼文町大字船泊村字宇遠内,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="小笠原洋悦宅" transform="ref(svg,14100.4439,-4533.5268)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6193" content="緑ヶ丘スポーツ公園グランド,01517,北海道礼文郡礼文町大字香深村字香深井,避難場所,-1,16705,0,0,0,0,0,1" xlink:title="緑ヶ丘スポーツ公園グランド" transform="ref(svg,14104.5868,-4534.2634)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6194" content="富士見ヶ丘グランド,01517,北海道礼文郡礼文町大字香深村字会所前,避難場所,-1,9994,0,0,0,0,0,1" xlink:title="富士見ヶ丘グランド" transform="ref(svg,14104.5448,-4530.4669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6195" content="旧元地小学校グランド,01517,北海道礼文郡礼文町大字香深村字元地,避難場所,-1,1800,0,0,0,0,0,1" xlink:title="旧元地小学校グランド" transform="ref(svg,14102.3223,-4530.7759)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6196" content="礼文空港,01517,北海道礼文郡礼文町大字船泊村字幌泊,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="礼文空港" transform="ref(svg,14103.8961,-4545.5073)" x="0" y="0"/>
+<use xlink:href="#p0" id="f6197" content="礼文町総合公園,01517,北海道礼文郡礼文町大字船泊村字大備,避難場所,-1,34000,0,0,0,0,0,1" xlink:title="礼文町総合公園" transform="ref(svg,14103.317,-4543.7693)" x="0" y="0"/>
+</g>
+</svg>

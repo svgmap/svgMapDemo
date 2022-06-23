@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14089.9658203125 -3839.7216796875 0.274658203125 0.274658203125" go:dataArea="14089.9658203125 -3839.7216796875 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,富谷町,大亀山森林公園線,4.0,0.0,0.0," xlink:title="3" d="M14089.9658,-3839.5093L14089.9984,-3839.5038L14090.0695,-3839.4929L14090.1025,-3839.4882L14090.1476,-3839.4831L14090.168,-3839.4807L14090.2405,-3839.4742"/>
+<path content="3,富谷町,大亀成田線,2.0,0.0,0.0," xlink:title="3" d="M14089.9658,-3839.5093L14089.9984,-3839.5038L14090.0695,-3839.4929L14090.1025,-3839.4882L14090.1476,-3839.4831L14090.168,-3839.4807L14090.2405,-3839.4742"/>
+<path content="3,富谷町,東部循環線,4.0,0.0,0.0," xlink:title="3" d="M14090.2405,-3839.4742L14090.168,-3839.4807L14090.1476,-3839.4831L14090.1025,-3839.4882L14090.0695,-3839.4929L14089.9984,-3839.5038L14089.9658,-3839.5093"/>
+</g>
+</svg>

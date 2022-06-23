@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14089.9658203125 -3845.76416015625 0.54931640625 0.54931640625" go:dataArea="14089.9658203125 -3845.76416015625 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,宮城交通（株）,N46,2.5,0.0,0.0," xlink:title="1" d="M14089.9658,-3845.53L14089.9696,-3845.5306L14090.0032,-3845.534L14090.0395,-3845.5358L14090.073,-3845.536L14090.1256,-3845.5387L14090.1614,-3845.5396L14090.1808,-3845.5413L14090.1965,-3845.5447L14090.2117,-3845.5502L14090.2259,-3845.5576L14090.2366,-3845.5655L14090.2495,-3845.5785L14090.2645,-3845.5999L14090.334,-3845.7249L14090.3559,-3845.7642"/>
+<path content="3,大衡村,大森・中学校線,1.5,0.0,0.0," xlink:title="3" d="M14089.9658,-3845.53L14089.9696,-3845.5306L14090.0032,-3845.534L14090.0395,-3845.5358L14090.073,-3845.536L14090.1256,-3845.5387L14090.1614,-3845.5396L14090.1808,-3845.5413L14090.1965,-3845.5447L14090.2117,-3845.5502L14090.2259,-3845.5576L14090.2366,-3845.5655L14090.2495,-3845.5785L14090.2645,-3845.5999L14090.334,-3845.7249L14090.3559,-3845.7642"/>
+<path content="3,大衡村,大森線,0.8,0.0,0.0," xlink:title="3" d="M14089.9658,-3845.53L14089.9696,-3845.5306L14090.0032,-3845.534L14090.0395,-3845.5358L14090.073,-3845.536L14090.1256,-3845.5387L14090.1614,-3845.5396L14090.1808,-3845.5413L14090.1965,-3845.5447L14090.2117,-3845.5502L14090.2259,-3845.5576L14090.2366,-3845.5655L14090.2495,-3845.5785L14090.2645,-3845.5999L14090.334,-3845.7249L14090.3559,-3845.7642"/>
+</g>
+</svg>

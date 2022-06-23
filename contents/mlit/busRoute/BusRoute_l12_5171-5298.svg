@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14090.51513671875 -3839.7216796875 0.54931640625 0.54931640625" go:dataArea="14090.51513671875 -3839.7216796875 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,富谷町,大亀山森林公園線,4.0,0.0,0.0," xlink:title="3" d="M14090.5151,-3839.4635L14090.5287,-3839.4589L14090.7426,-3839.3806L14090.7648,-3839.3716L14090.8019,-3839.3587L14090.8155,-3839.3525L14090.8277,-3839.3452L14090.8498,-3839.3254L14090.9114,-3839.2607L14090.9593,-3839.2111L14090.9951,-3839.1724M14091.0003,-3839.1724L14091.0645,-3839.1957"/>
+<path content="3,富谷町,大亀成田線,2.0,0.0,0.0," xlink:title="3" d="M14091.0003,-3839.1724L14091.0645,-3839.1957"/>
+<path content="3,富谷町,大亀成田線,2.0,0.0,0.0," xlink:title="3" d="M14090.5151,-3839.4635L14090.5287,-3839.4589L14090.7426,-3839.3806L14090.7648,-3839.3716L14090.8019,-3839.3587L14090.8155,-3839.3525L14090.8277,-3839.3452L14090.8498,-3839.3254L14090.9114,-3839.2607L14090.9593,-3839.2111L14090.9951,-3839.1724"/>
+<path content="3,富谷町,東部循環線,4.0,0.0,0.0," xlink:title="3" d="M14090.9951,-3839.1724L14090.9593,-3839.2111L14090.9114,-3839.2607L14090.8498,-3839.3254L14090.8277,-3839.3452L14090.8155,-3839.3525L14090.8019,-3839.3587L14090.7648,-3839.3716L14090.7426,-3839.3806L14090.5287,-3839.4589L14090.5151,-3839.4635"/>
+</g>
+</svg>

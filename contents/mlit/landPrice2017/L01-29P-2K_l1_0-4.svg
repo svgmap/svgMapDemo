@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="12375.0 -3375.0 562.5 562.5" go:dataArea="12375.0 -3375.0 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,長崎県　五島市大荒町３７５番,10,30,2,35,550,60,200,62000,64000,35900,20900" xlink:title="長崎県　五島市大荒町３７５番" transform="ref(svg,12883.8949,-3269.728)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,長崎県　五島市福江町６?１１,10,20,2,80,250,80,400,0,121000,55800,29600" xlink:title="長崎県　五島市福江町６?１１" transform="ref(svg,12884.11,-3269.6364)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,長崎県　五島市栄町３番５,10,25,2,160,0,80,400,0,280000,105000,49700" xlink:title="長崎県　五島市栄町３番５" transform="ref(svg,12884.5033,-3269.5887)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,長崎県　五島市上大津町６８２番１,12,10,1,40,400,60,200,43400,44400,25600,14900" xlink:title="長崎県　五島市上大津町６８２番１" transform="ref(svg,12884.8875,-3268.517)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,長崎県　南松浦郡新上五島町相河郷字中町２５５番２,12,10,2,63,100,70,200,0,20000,18200,11900" xlink:title="長崎県　南松浦郡新上五島町相河郷字中町２５５番２" transform="ref(svg,12906.0089,-3297.461)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,長崎県　南松浦郡新上五島町青方郷字新町２２９９番,10,15,3,110,70,70,300,0,98300,53700,30300" xlink:title="長崎県　南松浦郡新上五島町青方郷字新町２２９９番" transform="ref(svg,12906.7316,-3298.2379)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,長崎県　南松浦郡新上五島町青方郷字濱１３７８番７,10,12,2,70,90,70,200,0,42800,33700,19600" xlink:title="長崎県　南松浦郡新上五島町青方郷字濱１３７８番７" transform="ref(svg,12906.8854,-3298.4772)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,長崎県　南松浦郡新上五島町有川郷字中筋６５４番１,10,25,2,55,260,70,200,0,91300,46300,22400" xlink:title="長崎県　南松浦郡新上五島町有川郷字中筋６５４番１" transform="ref(svg,12911.5721,-3298.4088)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,長崎県　南松浦郡新上五島町有川郷字浜村３５９番２３,15,10,2,60,450,70,200,0,30300,25000,15600" xlink:title="長崎県　南松浦郡新上五島町有川郷字浜村３５９番２３" transform="ref(svg,12911.7858,-3298.5491)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,長崎県　佐世保市宇久町平２５２４番３,10,12,1,30,90,70,300,0,29500,25900,13700" xlink:title="長崎県　佐世保市宇久町平２５２４番３" transform="ref(svg,12913.0584,-3326.2979)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,鹿児島県　大島郡瀬戸内町大字古仁屋字大湊８番４,10,20,4,120,80,80,400,0,156000,110000,62500" xlink:title="鹿児島県　大島郡瀬戸内町大字古仁屋字大湊８番４" transform="ref(svg,12931.0334,-2814.7857)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　大島郡瀬戸内町大字古仁屋字春日１０番３,10,15,2,40,100,60,200,0,66300,59500,42500" xlink:title="鹿児島県　大島郡瀬戸内町大字古仁屋字春日１０番３" transform="ref(svg,12931.136,-2814.8623)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,鹿児島県　大島郡瀬戸内町大字古仁屋字大当原２４１番３,10,15,1,44,150,60,200,0,38600,36200,25100" xlink:title="鹿児島県　大島郡瀬戸内町大字古仁屋字大当原２４１番３" transform="ref(svg,12931.1734,-2815.3352)" x="0" y="0"/>
+</g>
+</svg>

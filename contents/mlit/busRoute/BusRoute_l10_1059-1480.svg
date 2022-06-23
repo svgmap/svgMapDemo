@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13576.904296875 -3498.046875 2.197265625 2.197265625" go:dataArea="13576.904296875 -3498.046875 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,京都市,南5号系統,22.0,16.5,16.5," xlink:title="2" d="M13576.9043,-3497.8173L13576.908,-3497.823L13576.915,-3497.8339L13576.9219,-3497.8574L13576.9267,-3497.8999L13576.9293,-3497.9225L13576.9293,-3497.9415L13576.927,-3497.9845L13576.9271,-3498.0288L13576.9051,-3498.0469"/>
+<path content="2,京都市,臨南5号系統,17.0,17.0,12.0," xlink:title="2" d="M13576.9043,-3495.918L13576.9972,-3495.9193L13577.0038,-3495.9194L13577.0319,-3495.9198L13577.0373,-3495.9198L13577.075,-3495.9206L13577.1298,-3495.9206L13577.1672,-3495.9122L13577.17,-3495.9571L13577.1828,-3495.9569L13577.2596,-3495.9529L13577.3197,-3495.9479L13577.4447,-3495.9334L13577.4638,-3495.9321L13577.5705,-3495.9223L13577.5896,-3495.8691L13577.5937,-3495.8496"/>
+</g>
+</svg>

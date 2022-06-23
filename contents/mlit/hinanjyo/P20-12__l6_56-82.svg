@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="12937.5 -3234.375 70.3125 70.3125" go:dataArea="12937.5 -3234.375 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f116480" content="うしぶか公園,43215,熊本県天草市,地震、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="うしぶか公園" transform="ref(svg,13001.9772,-3219.9484)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116483" content="くたまふれあいセンター,43215,熊本県天草市,第１次避難所（自主避難所）,75,-1,0,0,0,0,0,1" xlink:title="くたまふれあいセンター" transform="ref(svg,13003.3197,-3221.784)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116484" content="チャペルの鐘展望公園高台,43215,熊本県天草市,地震、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="チャペルの鐘展望公園高台" transform="ref(svg,13002.4222,-3231.1915)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116486" content="もみじ保育園,43215,熊本県天草市大江6297-2,第２次避難所,50,-1,0,0,0,0,0,1" xlink:title="もみじ保育園" transform="ref(svg,12999.4853,-3233.4688)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116511" content="加世浦区公民館,43215,熊本県天草市牛深町,第２次避難所,50,-1,0,0,0,0,0,1" xlink:title="加世浦区公民館" transform="ref(svg,13002.0588,-3219.2877)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116513" content="河浦小学校,43215,熊本県天草市,第２次避難所,170,-1,0,0,0,0,0,1" xlink:title="河浦小学校" transform="ref(svg,13007.7905,-3233.246)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116515" content="河浦中学校,43215,熊本県天草市河浦町河浦35-24,第２次避難所,370,-1,0,0,0,0,0,1" xlink:title="河浦中学校" transform="ref(svg,13007.1414,-3232.0461)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116523" content="久玉小学校,43215,熊本県天草市久玉町1963,第２次避難所,1000,-1,0,0,0,0,0,1" xlink:title="久玉小学校" transform="ref(svg,13003.4267,-3222.094)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116538" content="旧富津小学校,43215,熊本県天草市河浦町崎津,第２次避難所,150,-1,0,0,0,0,0,1" xlink:title="旧富津小学校" transform="ref(svg,13002.3223,-3231.8897)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116539" content="牛深勤労青少年ホーム,43215,熊本県天草市久玉町5716-4,第２次避難所,50,-1,0,0,0,0,0,1" xlink:title="牛深勤労青少年ホーム" transform="ref(svg,13002.8417,-3221.3679)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116540" content="牛深市民病院駐車場,43215,熊本県天草市,地震、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="牛深市民病院駐車場" transform="ref(svg,13001.708,-3219.5027)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116541" content="牛深小学校,43215,熊本県天草市牛深町1985,第２次避難所,1000,-1,0,0,0,0,0,1" xlink:title="牛深小学校" transform="ref(svg,13001.8157,-3219.7413)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116542" content="牛深総合センター,43215,熊本県天草市,第１次避難所（自主避難所）,1000,-1,0,0,0,0,0,1" xlink:title="牛深総合センター" transform="ref(svg,13002.5203,-3219.5895)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116543" content="牛深総合体育館,43215,熊本県天草市久玉町5716-16,第２次避難所,1000,-1,0,0,0,0,0,1" xlink:title="牛深総合体育館" transform="ref(svg,13002.8431,-3221.2887)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116544" content="牛深中学校,43215,熊本県天草市牛深町1211-25,第２次避難所,1000,-1,0,0,0,0,0,1" xlink:title="牛深中学校" transform="ref(svg,13001.4185,-3220.0385)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116545" content="牛深東中学校,43215,熊本県天草市久玉町2364,地震、津波避難所、第２次避難所,1000,-1,0,0,0,0,0,1" xlink:title="牛深東中学校" transform="ref(svg,13003.5239,-3222.455)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116546" content="牛深幼稚園,43215,熊本県天草市牛深町2065-9,第１次避難所（自主避難所）,50,-1,0,0,0,0,0,1" xlink:title="牛深幼稚園" transform="ref(svg,13001.7213,-3219.7024)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116547" content="牛深老人福祉センター,43215,熊本県天草市牛深町1522-4,第２次避難所,100,-1,0,0,0,0,0,1" xlink:title="牛深老人福祉センター" transform="ref(svg,13003.0501,-3220.2083)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116548" content="魚浦グラウンド,43215,熊本県天草市二浦町,地震、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="魚浦グラウンド" transform="ref(svg,13002.6887,-3225.434)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116549" content="魚貫町交流促進センター,43215,熊本県天草市魚貫町,第２次避難所,100,-1,0,0,0,0,0,1" xlink:title="魚貫町交流促進センター" transform="ref(svg,13000.9473,-3224.5799)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116550" content="魚貫町多目的集会施設,43215,熊本県天草市魚貫町,第１次避難所（自主避難所）,50,-1,0,0,0,0,0,1" xlink:title="魚貫町多目的集会施設" transform="ref(svg,13001.2645,-3223.7319)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116551" content="魚貫町池田いきいきふれあい館,43215,熊本県天草市魚貫町5187番地,地震、津波避難所,125,-1,0,0,0,0,0,1" xlink:title="魚貫町池田いきいきふれあい館" transform="ref(svg,12998.536,-3225.008)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116576" content="向辺田公民館,43215,熊本県天草市天草町大江向向辺田,第１次避難所（自主避難所）、地震、津波避難所,30,-1,0,0,0,0,0,1" xlink:title="向辺田公民館" transform="ref(svg,12998.819,-3226.9756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116578" content="江月院,43215,熊本県天草市,第２次避難所,100,-1,0,0,0,0,0,1" xlink:title="江月院" transform="ref(svg,12999.2531,-3232.6601)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116588" content="山の浦生活改善センター,43215,熊本県天草市久玉町,第２次避難所,50,-1,0,0,0,0,0,1" xlink:title="山の浦生活改善センター" transform="ref(svg,13007.2081,-3222.6066)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116589" content="山の浦体育館,43215,熊本県天草市久玉町4600番地3,第２次避難所,500,-1,0,0,0,0,0,1" xlink:title="山の浦体育館" transform="ref(svg,13007.3725,-3222.3767)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116618" content="真浦区公民館,43215,熊本県天草市牛深町,第２次避難所,30,-1,0,0,0,0,0,1" xlink:title="真浦区公民館" transform="ref(svg,13002.1049,-3219.4016)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116619" content="須口地区健康管理増進施設,43215,熊本県天草市牛深町,第２次避難所,50,-1,0,0,0,0,0,1" xlink:title="須口地区健康管理増進施設" transform="ref(svg,13000.8606,-3220.1464)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116642" content="早浦生活改善センター,43215,熊本県天草市二浦町早浦,第２次避難所,70,-1,0,0,0,0,0,1" xlink:title="早浦生活改善センター" transform="ref(svg,13004.5934,-3227.3161)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116653" content="大江シルバーコミュニティセンター,43215,熊本県天草市天草町大江,第１次避難所（自主避難所）,70,-1,0,0,0,0,0,1" xlink:title="大江シルバーコミュニティセンター" transform="ref(svg,12999.2426,-3234.039)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116654" content="大江漁村センター,43215,熊本県天草町大江7480番地5,第１次避難所（自主避難所）,100,-1,0,0,0,0,0,1" xlink:title="大江漁村センター" transform="ref(svg,12999.4068,-3232.2771)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116655" content="大江農村広場,43215,熊本県天草町大江1003番地,地震、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="大江農村広場" transform="ref(svg,12998.7419,-3232.4045)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116667" content="池田公民館,43215,熊本県天草市魚貫町,第１次避難所（自主避難所）,25,-1,0,0,0,0,0,1" xlink:title="池田公民館" transform="ref(svg,12998.3747,-3224.642)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116675" content="通天公園,43215,熊本県天草市牛深町天附,地震、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="通天公園" transform="ref(svg,13002.2314,-3218.7527)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116677" content="天草交流センター体育館,43215,熊本県天草市,第２次避難所,150,-1,0,0,0,0,0,1" xlink:title="天草交流センター体育館" transform="ref(svg,12999.2648,-3232.4602)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116688" content="天附公民分館,43215,熊本県天草市牛深町,第２次避難所,20,-1,0,0,0,0,0,1" xlink:title="天附公民分館" transform="ref(svg,13002.4521,-3218.8165)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116689" content="天附小学校,43215,熊本県天草市牛深町3509,第２次避難所,1000,-1,0,0,0,0,0,1" xlink:title="天附小学校" transform="ref(svg,13002.8907,-3218.8137)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116690" content="天附体育館,43215,熊本県天草市牛深町3509番地,第１次避難所（自主避難所）,500,-1,0,0,0,0,0,1" xlink:title="天附体育館" transform="ref(svg,13002.7168,-3218.8497)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116699" content="内の原体育館,43215,熊本県天草市久玉町334番地,地震、津波避難所、第２次避難所,700,-1,0,0,0,0,0,1" xlink:title="内の原体育館" transform="ref(svg,13005.1052,-3224.4123)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116705" content="二浦小学校,43215,熊本県天草市二浦町亀浦4407-1,第２次避難所,1000,-1,0,0,0,0,0,1" xlink:title="二浦小学校" transform="ref(svg,13003.7375,-3227.7462)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116706" content="二浦地区多目的研修集会施設,43215,熊本県天草市二浦町,第１次避難所（自主避難所）,50,-1,0,0,0,0,0,1" xlink:title="二浦地区多目的研修集会施設" transform="ref(svg,13002.9652,-3227.4715)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116711" content="姫の河内集会所,43215,熊本県天草市二浦町亀浦姫の河内,第２次避難所,30,-1,0,0,0,0,0,1" xlink:title="姫の河内集会所" transform="ref(svg,13002.5475,-3225.7092)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116713" content="富津公民館,43215,熊本県天草市河浦町﨑津1117番地2,第１次避難所（自主避難所）,250,-1,0,0,0,0,0,1" xlink:title="富津公民館" transform="ref(svg,13002.616,-3231.7195)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116714" content="富津体育館,43215,熊本県天草市河浦町崎津1117-10,第２次避難所,240,-1,0,0,0,0,0,1" xlink:title="富津体育館" transform="ref(svg,13002.5586,-3231.6603)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116715" content="福津生活改善センター,43215,熊本県天草市魚貫町福津,地震、津波避難所,25,-1,0,0,0,0,0,1" xlink:title="福津生活改善センター" transform="ref(svg,13001.0559,-3225.7806)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116733" content="茂串区普門院付近高台,43215,熊本県天草市牛深町,地震、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="茂串区普門院付近高台" transform="ref(svg,13000.9515,-3221.4394)" x="0" y="0"/>
+<use xlink:href="#p0" id="f116734" content="茂串体育館及び白浜いきいき館,43215,熊本県天草市,第２次避難所,1000,-1,0,0,0,0,0,1" xlink:title="茂串体育館及び白浜いきいき館" transform="ref(svg,13000.9542,-3221.8027)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122564" content="芦浜地区緊急避難施設,46215,鹿児島県薩摩川内市長浜1503,避難所,-1,-1,0,0,0,0,0,1" xlink:title="芦浜地区緊急避難施設" transform="ref(svg,12975.5208,-3172.0197)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122572" content="薗下集会所,46215,鹿児島県薩摩川内市里3583-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="薗下集会所" transform="ref(svg,12991.9269,-3184.8289)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122586" content="旧浦内小学校,46215,鹿児島県薩摩川内市瀬上888,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧浦内小学校" transform="ref(svg,12986.6274,-3185.9694)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122589" content="旧子岳小学校,46215,鹿児島県薩摩川内市片野浦103,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧子岳小学校" transform="ref(svg,12968.9976,-3166.2312)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122590" content="旧青瀬小学校,46215,鹿児島県薩摩川内市青瀬382,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧青瀬小学校" transform="ref(svg,12972.3371,-3167.429)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122592" content="旧平良小学校,46215,鹿児島県薩摩川内市平良377-2,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="旧平良小学校" transform="ref(svg,12983.9471,-3179.9457)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122608" content="江石地区集会所,46215,鹿児島県薩摩川内市江石258,避難所,-1,-1,0,0,0,0,0,1" xlink:title="江石地区集会所" transform="ref(svg,12987.1683,-3182.3885)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122616" content="砂石公民館,46215,鹿児島県薩摩川内市藺牟田2294-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="砂石公民館" transform="ref(svg,12978.9806,-3177.7639)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122619" content="子岳地区コミュニティセンター,46215,鹿児島県薩摩川内市片野浦391,避難所,-1,-1,0,0,0,0,0,1" xlink:title="子岳地区コミュニティセンター" transform="ref(svg,12968.9688,-3166.2355)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122626" content="鹿島公民館,46215,鹿児島県薩摩川内市藺牟田1530-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="鹿島公民館" transform="ref(svg,12979.0915,-3177.6225)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122627" content="鹿島支所,46215,鹿児島県薩摩川内市藺牟田1457-10,避難所,-1,-1,0,0,0,0,0,1" xlink:title="鹿島支所" transform="ref(svg,12979.0342,-3177.7411)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122628" content="鹿島小学校,46215,鹿児島県薩摩川内市藺牟田69,避難所,-1,-1,0,0,0,0,0,1" xlink:title="鹿島小学校" transform="ref(svg,12979.05,-3177.6323)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122629" content="鹿島中学校屋外運動場,46215,鹿児島県薩摩川内市藺牟田1397,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="鹿島中学校屋外運動場" transform="ref(svg,12978.8547,-3177.8103)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122637" content="小牟田集会所,46215,鹿児島県薩摩川内市藺牟田3124-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="小牟田集会所" transform="ref(svg,12979.5651,-3177.1981)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122638" content="上甑住民センター,46215,鹿児島県薩摩川内市桑之浦149,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上甑住民センター" transform="ref(svg,12983.7475,-3186.3975)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122639" content="上甑生活館,46215,鹿児島県薩摩川内市平良217,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上甑生活館" transform="ref(svg,12984.1441,-3180.1651)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122640" content="上甑体育館,46215,鹿児島県薩摩川内市江石491-3,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上甑体育館" transform="ref(svg,12987.2242,-3182.3332)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122641" content="上甑地区コミュニティセンター,46215,鹿児島県薩摩川内市中甑1296,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上甑地区コミュニティセンター" transform="ref(svg,12985.7907,-3183.9826)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122642" content="上甑中学校,46215,鹿児島県薩摩川内市中甑191-1,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="上甑中学校" transform="ref(svg,12986.8716,-3183.3352)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122643" content="上甑保健福祉館,46215,鹿児島県薩摩川内市小島1-2,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上甑保健福祉館" transform="ref(svg,12986.1947,-3185.5546)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122644" content="上甑老人福祉センター,46215,鹿児島県薩摩川内市中甑481-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="上甑老人福祉センター" transform="ref(svg,12986.6552,-3183.4938)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122654" content="瀬上地区集会所,46215,鹿児島県薩摩川内市瀬上827,避難所,-1,-1,0,0,0,0,0,1" xlink:title="瀬上地区集会所" transform="ref(svg,12986.4029,-3186.3383)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122655" content="瀬々野浦地区緊急避難施設,46215,鹿児島県薩摩川内市瀬々野浦292,避難所,-1,-1,0,0,0,0,0,1" xlink:title="瀬々野浦地区緊急避難施設" transform="ref(svg,12969.4786,-3168.8587)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122656" content="瀬尾地区緊急避難施設,46215,鹿児島県薩摩川内市青瀬22,避難所,-1,-1,0,0,0,0,0,1" xlink:title="瀬尾地区緊急避難施設" transform="ref(svg,12972.6272,-3166.0682)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122659" content="西山小学校,46215,鹿児島県薩摩川内市瀬々野浦270,避難所,-1,-1,0,0,0,0,0,1" xlink:title="西山小学校" transform="ref(svg,12969.4906,-3168.974)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122660" content="西山地区コミュニティセンター,46215,鹿児島県薩摩川内市瀬々野浦1194,避難所,-1,-1,0,0,0,0,0,1" xlink:title="西山地区コミュニティセンター" transform="ref(svg,12969.4146,-3169.053)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122665" content="青瀬地区コミュニティセンター,46215,鹿児島県薩摩川内市青瀬642,避難所,-1,-1,0,0,0,0,0,1" xlink:title="青瀬地区コミュニティセンター" transform="ref(svg,12972.593,-3167.4285)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122678" content="村西集会所,46215,鹿児島県薩摩川内市里1567,避難所,-1,-1,0,0,0,0,0,1" xlink:title="村西集会所" transform="ref(svg,12992.1491,-3183.8263)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122685" content="中津小学校,46215,鹿児島県薩摩川内市中甑254,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="中津小学校" transform="ref(svg,12986.5445,-3183.4437)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122686" content="中野地区集会所,46215,鹿児島県薩摩川内市中野911-5,避難所,-1,-1,0,0,0,0,0,1" xlink:title="中野地区集会所" transform="ref(svg,12988.0849,-3183.8109)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122689" content="長浜小学校,46215,鹿児島県薩摩川内市長浜660,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="長浜小学校" transform="ref(svg,12973.3916,-3170.1024)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122690" content="長浜地区コミュニティセンター,46215,鹿児島県薩摩川内市長浜1502,避難所,-1,-1,0,0,0,0,0,1" xlink:title="長浜地区コミュニティセンター" transform="ref(svg,12973.8336,-3170.5149)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122691" content="長浜地区緊急避難施設,46215,鹿児島県薩摩川内市長浜962-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="長浜地区緊急避難施設" transform="ref(svg,12973.7673,-3170.5578)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122711" content="内川内地区緊急避難施設,46215,鹿児島県薩摩川内市瀬々野浦1684,避難所,-1,-1,0,0,0,0,0,1" xlink:title="内川内地区緊急避難施設" transform="ref(svg,12969.4147,-3169.053)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122741" content="片野浦地区緊急避難施設,46215,鹿児島県薩摩川内市片野浦454-1,避難所,-1,-1,0,0,0,0,0,1" xlink:title="片野浦地区緊急避難施設" transform="ref(svg,12968.2912,-3166.1375)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122749" content="里交流センター甑島館,46215,鹿児島県薩摩川内市里1619-15,避難所,-1,-1,0,0,0,0,0,1" xlink:title="里交流センター甑島館" transform="ref(svg,12992.0113,-3184.2487)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122750" content="里小学校,46215,鹿児島県薩摩川内市里3583,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="里小学校" transform="ref(svg,12991.9201,-3183.995)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122751" content="里地区コミュニティセンター,46215,鹿児島県薩摩川内市里1910,避難所,-1,-1,0,0,0,0,0,1" xlink:title="里地区コミュニティセンター" transform="ref(svg,12991.7864,-3184.3267)" x="0" y="0"/>
+<use xlink:href="#p0" id="f122752" content="里中学校,46215,鹿児島県薩摩川内市里3377,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="里中学校" transform="ref(svg,12991.8468,-3184.4376)" x="0" y="0"/>
+</g>
+</svg>

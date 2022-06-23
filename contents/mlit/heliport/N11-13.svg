@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="9000.0 -9000.0 9000.0 9000.0" go:dataArea="9000.0 -9000.0 9000.0 9000.0" >
+<!--  参考データです -->
+<!-- Tramsform:[100.0,0.0,0.0,-100.0,0.0,0.0] -->
+<!-- 基準緯線:0.0 -->
+<!-- Bounds:ReferencedEnvelope[123.76973 : 145.603635, 24.059967 : 45.457013] -->
+<!-- TypeName:N11-13 -->
+<!-- Count:8 -->
+<!-- NS:http://www.opengis.net/gml:N11-13 -->
+<!-- Geom:GeometryDescriptorImpl the_geom <Point:Point> nillable 0:1 -->
+<!-- attrNo:0 Name:the_geom type:Point -->
+<!-- attrNo:1 Name:N11_001 type:String -->
+<!-- attrNo:2 Name:N11_002 type:Long -->
+<!-- attrNo:3 Name:N11_003 type:String -->
+<!-- attrNo:4 Name:N11_004 type:Long -->
+<!-- attrNo:5 Name:N11_005 type:String -->
+<!-- attrNo:6 Name:N11_006 type:String -->
+<!-- attrNo:7 Name:N11_007 type:String -->
+<!-- OriginalDatum:JGD2000 -->
+<!-- OriginalCrd:LatLon -->
+<!-- defMainColor:green -->
+<!-- outlineColor: -->
+<!-- mainColorCol:-1 -->
+<!-- outLineColorCol:-1 -->
+<!-- captionCol:-1 -->
+<!-- dupCheckCol:-1 -->
+<!-- linkCol:-1 -->
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<!-- Total:13759 records. -->
+<!-- LEVEL: 0 -->
+<animation xlink:href="N11-13_1-0.svg" x="13500" y="-9000" width="4500" height="4500" visibleMinZoom="8.88"/>
+<image xlink:href="N11-13/lvl3/tile1_0.png" preserveAspectRatio="none" x="13500" y="-9000" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<image xlink:href="N11-13/lvl3/tile0_1.png" preserveAspectRatio="none" x="9000" y="-4500" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<image xlink:href="N11-13/lvl3/tile1_1.png" preserveAspectRatio="none" x="13500" y="-4500" width="4500" height="4500" visibleMaxZoom="8.88"/>
+<!-- LEVEL: 1 -->
+<image xlink:href="N11-13/lvl4/tile1_2.png" preserveAspectRatio="none" x="11250" y="-4500" width="2250" height="2250" visibleMinZoom="8.885" visibleMaxZoom="17.77"/>
+<image xlink:href="N11-13/lvl4/tile2_2.png" preserveAspectRatio="none" x="13500" y="-4500" width="2250" height="2250" visibleMinZoom="8.885" visibleMaxZoom="17.77"/>
+<!-- LEVEL: 2 -->
+<animation xlink:href="N11-13_cont_l2_4-4.svg" x="13500" y="-4500" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="N11-13/lvl5/tile4_4.png" preserveAspectRatio="none" x="13500" y="-4500" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="N11-13_l2_4-5.svg" x="13500" y="-3375" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="N11-13/lvl5/tile4_5.png" preserveAspectRatio="none" x="13500" y="-3375" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="N11-13_cont_l2_3-4.svg" x="12375" y="-4500" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="N11-13/lvl5/tile3_4.png" preserveAspectRatio="none" x="12375" y="-4500" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="N11-13_cont_l2_3-5.svg" x="12375" y="-3375" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="N11-13/lvl5/tile3_5.png" preserveAspectRatio="none" x="12375" y="-3375" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<!-- LEVEL: 3 -->
+<!-- LEVEL: 4 -->
+<!-- LEVEL: 5 -->
+<!-- LEVEL: 6 -->
+</svg>

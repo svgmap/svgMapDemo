@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="11250.0 -6750.0 4500.0 4500.0" go:dataArea="11250.0 -6750.0 4500.0 4500.0" >
+<!--  参考データです -->
+<!-- Tramsform:[100.0,0.0,0.0,-100.0,0.0,0.0] -->
+<!-- 基準緯線:0.0 -->
+<!-- Bounds:ReferencedEnvelope[123.74693694 : 145.81202611, 24.259007499999996 : 45.52224923] -->
+<!-- TypeName:N07-11-jgd -->
+<!-- Count:8 -->
+<!-- NS:http://www.opengis.net/gml:N07-11-jgd -->
+<!-- Geom:GeometryDescriptorImpl the_geom <MultiLineString:MultiLineString> nillable 0:1 -->
+<!-- attrNo:0 Name:the_geom type:MultiLineString -->
+<!-- attrNo:1 Name:N07_001 type:Integer -->
+<!-- attrNo:2 Name:N07_002 type:String -->
+<!-- attrNo:3 Name:N07_003 type:String -->
+<!-- attrNo:4 Name:N07_004 type:Double -->
+<!-- attrNo:5 Name:N07_005 type:Double -->
+<!-- attrNo:6 Name:N07_006 type:Double -->
+<!-- attrNo:7 Name:N07_007 type:String -->
+<!-- OriginalDatum:JGD2000 -->
+<!-- OriginalCrd:LatLon -->
+<!-- defMainColor:#FF00FF -->
+<!-- outlineColor: -->
+<!-- mainColorCol:-1 -->
+<!-- outLineColorCol:-1 -->
+<!-- POIsizeCol:-1 -->
+<!-- captionCol:-1 -->
+<!-- dupCheckCol:-1 -->
+<!-- linkCol:-1 -->
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<!-- Total:26715 records. -->
+<!-- LEVEL: 0 -->
+<image xlink:href="BusRoute/lvl4/tile1_0.png" preserveAspectRatio="none" x="13500" y="-6750" width="2250" height="2250" visibleMaxZoom="17.77"/>
+<image xlink:href="BusRoute/lvl4/tile0_1.png" preserveAspectRatio="none" x="11250" y="-4500" width="2250" height="2250" visibleMaxZoom="17.77"/>
+<image xlink:href="BusRoute/lvl4/tile1_1.png" preserveAspectRatio="none" x="13500" y="-4500" width="2250" height="2250" visibleMaxZoom="17.77"/>
+<!-- LEVEL: 1 -->
+<animation xlink:href="BusRoute_cont_l1_1-2.svg" x="12375" y="-4500" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="BusRoute/lvl5/tile1_2.png" preserveAspectRatio="none" x="12375" y="-4500" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="BusRoute_l1_0-3.svg" x="11250" y="-3375" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="BusRoute/lvl5/tile0_3.png" preserveAspectRatio="none" x="11250" y="-3375" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="BusRoute_cont_l1_1-3.svg" x="12375" y="-3375" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="BusRoute/lvl5/tile1_3.png" preserveAspectRatio="none" x="12375" y="-3375" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="BusRoute_cont_l1_2-2.svg" x="13500" y="-4500" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="BusRoute/lvl5/tile2_2.png" preserveAspectRatio="none" x="13500" y="-4500" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="BusRoute_cont_l1_2-3.svg" x="13500" y="-3375" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="BusRoute/lvl5/tile2_3.png" preserveAspectRatio="none" x="13500" y="-3375" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<animation xlink:href="BusRoute_cont_l1_2-1.svg" x="13500" y="-5625" width="1125" height="1125" visibleMinZoom="35.55"/>
+<image xlink:href="BusRoute/lvl5/tile2_1.png" preserveAspectRatio="none" x="13500" y="-5625" width="1125" height="1125" visibleMinZoom="17.775" visibleMaxZoom="35.55"/>
+<!-- LEVEL: 2 -->
+<!-- LEVEL: 3 -->
+<!-- LEVEL: 4 -->
+<!-- LEVEL: 5 -->
+<!-- LEVEL: 6 -->
+<!-- LEVEL: 7 -->
+<!-- LEVEL: 8 -->
+<!-- LEVEL: 9 -->
+<!-- LEVEL: 10 -->
+<!-- LEVEL: 11 -->
+<!-- LEVEL: 12 -->
+<!-- LEVEL: 13 -->
+<!-- LEVEL: 14 -->
+<!-- LEVEL: 15 -->
+<!-- LEVEL: 16 -->
+</svg>

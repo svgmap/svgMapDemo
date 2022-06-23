@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13381.34765625 -3454.1015625 4.39453125 4.39453125" go:dataArea="13381.34765625 -3454.1015625 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,下津井電鉄（株）,天城線,36.5,29.5,29.5," xlink:title="1" d="M13381.5225,-3454.1016L13381.4474,-3454.0226L13381.3477,-3453.9275"/>
+<path content="1,下津井電鉄（株）,王子ヶ岳線,18.0,15.0,15.0," xlink:title="1" d="M13385.1571,-3450.286L13385.1719,-3450.2875L13385.1781,-3450.2847L13385.1865,-3450.2721L13385.1924,-3450.2563L13385.1949,-3450.231L13385.198,-3450.2043L13385.2001,-3450.1703L13385.1933,-3450.1583L13385.1762,-3450.1395L13385.1512,-3450.1091L13385.1509,-3450.1016L13385.1571,-3450.0968L13385.1984,-3450.0758L13385.2062,-3450.0646L13385.2087,-3450.0528L13385.2051,-3450.0348L13385.1986,-3450.0227L13385.1834,-3450.0089L13385.1567,-3449.9974L13385.1387,-3449.9895L13385.1346,-3449.9831L13385.1346,-3449.9729L13385.1355,-3449.9653L13385.1463,-3449.9425L13385.2028,-3449.9466L13385.2183,-3449.9438L13385.2447,-3449.94L13385.2723,-3449.9349L13385.3226,-3449.9349L13385.3291,-3449.9313L13385.3338,-3449.9239L13385.3367,-3449.8677L13385.3395,-3449.8475L13385.3442,-3449.8304L13385.3466,-3449.8214L13385.346,-3449.8076L13385.3404,-3449.7951L13385.3279,-3449.7643L13385.3229,-3449.7451L13385.3186,-3449.7249L13385.3174,-3449.707"/>
+<path content="1,下津井電鉄（株）,興除線,25.0,18.5,18.5," xlink:title="1" d="M13381.5225,-3454.1016L13381.4474,-3454.0226L13381.3477,-3453.9275"/>
+</g>
+</svg>

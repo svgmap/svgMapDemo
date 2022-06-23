@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14110.83984375 -3914.4287109375 1.0986328125 1.0986328125" go:dataArea="14110.83984375 -3914.4287109375 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,岩手県交通（株）,広岡線,4.0,0.0,0.0," xlink:title="1" d="M14111.9385,-3913.4483L14111.9015,-3913.4416L14111.8911,-3913.4391L14111.8563,-3913.4312L14111.7761,-3913.4137L14111.7197,-3913.4024L14111.5983,-3913.3771L14111.5975,-3913.3769L14111.4813,-3913.3518L14111.3837,-3913.3332L14111.3671,-3913.3301"/>
+<path content="1,岩手県交通（株）,馬留線,10.0,5.5,5.5," xlink:title="1" d="M14110.8398,-3914.2909L14110.8727,-3914.2929L14110.9031,-3914.2946L14110.9276,-3914.2974L14110.9399,-3914.2994L14110.9479,-3914.3008L14110.9674,-3914.3053L14111.0332,-3914.3234L14111.1054,-3914.3447L14111.1271,-3914.3504L14111.3239,-3914.4074L14111.3612,-3914.4179L14111.3971,-3914.4284L14111.398,-3914.4287"/>
+</g>
+</svg>

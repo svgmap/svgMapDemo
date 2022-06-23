@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="12375.0 -3375.0 562.5 562.5" go:dataArea="12375.0 -3375.0 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f11844" content="有川ヘリポート,3,離着陸場,42,新上五島町有川郷字川尻ﾉ上18-1外,," xlink:title="有川ヘリポート" transform="ref(svg,12912.2936,-3298.6296)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11845" content="若松ヘリポート,3,離着陸場,42,新上五島町若松郷462-52,," xlink:title="若松ヘリポート" transform="ref(svg,12902.6634,-3288.5491)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11846" content="奈留ヘリポート,3,離着陸場,42,五島市奈留町浦952-1,," xlink:title="奈留ヘリポート" transform="ref(svg,12891.282,-3284.6351)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11847" content="三井楽ヘリポート,3,離着陸場,42,五島市三井楽町嵯峨島郷字京塚,," xlink:title="三井楽ヘリポート" transform="ref(svg,12859.713,-3272.6181)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11848" content="新魚目ヘリポート,3,離着陸場,42,新上五島町小串郷字宮尾1400-1,," xlink:title="新魚目ヘリポート" transform="ref(svg,12909.7621,-3305.4739)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11849" content="奈良尾ヘリポート,3,離着陸場,42,新上五島町奈良尾郷931-153,," xlink:title="奈良尾ヘリポート" transform="ref(svg,12907.0813,-3286.3825)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11850" content="上五島ヘリポート,3,離着陸場,42,新上五島町青方郷1919外,," xlink:title="上五島ヘリポート" transform="ref(svg,12905.2528,-3298.4719)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11851" content="福江空港,3,離着陸場,42,五島市上大津町,," xlink:title="福江空港" transform="ref(svg,12883.6559,-3266.8479)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11852" content="上五島空港,3,離着陸場,42,新上五島町友住郷,," xlink:title="上五島空港" transform="ref(svg,12919.1992,-3301.1273)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11856" content="宇久ヘリポート,3,離着陸場,42,佐世保市宇久町平,," xlink:title="宇久ヘリポート" transform="ref(svg,12913.0046,-3326.9506)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11859" content="平島ヘリポート,3,離着陸場,42,西海市崎戸町平島,," xlink:title="平島ヘリポート" transform="ref(svg,12923.0021,-3300.2435)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11860" content="江ノ島ヘリポート,3,離着陸場,42,西海市崎戸町江ノ島,," xlink:title="江ノ島ヘリポート" transform="ref(svg,12934.7021,-3300.1029)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11863" content="小値賀空港,3,離着陸場,42,北松浦郡小値賀町,," xlink:title="小値賀空港" transform="ref(svg,12908.9419,-3319.054)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11935" content="野子小中学校,3,離着陸適地,42,平戸市野子町1955,平戸市長,'70×80（5,600m2）'" xlink:title="野子小中学校" transform="ref(svg,12936.6142,-3318.9283)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11966" content="福江中学校,3,離着陸適地,42,五島市松山町75-4,五島市長,'100×90（21,877m2）'" xlink:title="福江中学校" transform="ref(svg,12883.9179,-3270.0608)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11967" content="崎山中学校,3,離着陸適地,42,五島市下崎山町381-1,五島市長,'80×120（18,793m2）'" xlink:title="崎山中学校" transform="ref(svg,12887.968,-3265.98)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11968" content="翁頭中学校,3,離着陸適地,42,五島市堤町1765,五島市長,'90×140（18,166m2）'" xlink:title="翁頭中学校" transform="ref(svg,12881.6594,-3267.1478)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11969" content="椛島小学校,3,離着陸適地,42,五島市伊福貴町930,五島市長,'80×50（5,966m2）'" xlink:title="椛島小学校" transform="ref(svg,12898.92,-3275.764)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11970" content="久賀小学校,3,離着陸適地,42,五島市久賀町205-2,五島市長,'60×80（7,189m2）'" xlink:title="久賀小学校" transform="ref(svg,12886.9172,-3279.2271)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11971" content="奥浦小学校,3,離着陸適地,42,五島市奥浦町1316,五島市長,'7,774m2'" xlink:title="奥浦小学校" transform="ref(svg,12882.8773,-3273.6556)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11972" content="戸岐小学校,3,離着陸適地,42,五島市戸岐町270,五島市長,'2,347m2'" xlink:title="戸岐小学校" transform="ref(svg,12882.208,-3275.7712)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11973" content="富江中学校,3,離着陸適地,42,五島市富江町狩立464,五島市長,'130×67（16,536m2）'" xlink:title="富江中学校" transform="ref(svg,12876.3836,-3261.468)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11974" content="富江小繁敷分校跡地,3,離着陸適地,42,五島市富江町繁敷750,太宰府神社,'40×70（2,807m2）'" xlink:title="富江小繁敷分校跡地" transform="ref(svg,12874.1868,-3265.2538)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11975" content="玉之浦小学校,3,離着陸適地,42,五島市玉之浦町玉之浦797-4,五島市長,'50×40（6,566m2）'" xlink:title="玉之浦小学校" transform="ref(svg,12861.9829,-3263.338)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11976" content="玉之浦カントリーパーク,3,離着陸適地,42,五島市玉之浦町玉之浦1237,五島市長,'150×100（15,950m2）'" xlink:title="玉之浦カントリーパーク" transform="ref(svg,12861.4721,-3261.8494)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11977" content="玉之浦中学校,3,離着陸適地,42,五島市玉之浦町小川1130,五島市長,'100×100（10,180m2）'" xlink:title="玉之浦中学校" transform="ref(svg,12867.0023,-3262.9373)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11978" content="三井楽中学校,3,離着陸適地,42,五島市三井楽町浜の畔1258,五島市長,'70×93（5,468m2）'" xlink:title="三井楽中学校" transform="ref(svg,12868.8509,-3274.3564)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11979" content="旧山内中学校,3,離着陸適地,42,五島市岐宿町中嶽1258,五島市長,'40×80（6,023m2）'" xlink:title="旧山内中学校" transform="ref(svg,12873.4187,-3268.3949)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11980" content="岐宿小学校,3,離着陸適地,42,五島市岐宿町岐宿2404,五島市長,'3,000m2'" xlink:title="岐宿小学校" transform="ref(svg,12876.0505,-3275.3386)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11981" content="岐宿運動場,3,離着陸適地,42,五島市岐宿町楠原1204,五島市長,'19,166m2'" xlink:title="岐宿運動場" transform="ref(svg,12874.3283,-3273.139)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11982" content="川原小学校,3,離着陸適地,42,五島市岐宿町川原2370,五島市長,'2,400m2'" xlink:title="川原小学校" transform="ref(svg,12872.643,-3273.7328)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11983" content="奈留中学校,3,離着陸適地,42,五島市奈留町浦1225,五島市長,'130×70（19,001m2）'" xlink:title="奈留中学校" transform="ref(svg,12893.0536,-3283.0788)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12023" content="若松中学校,3,離着陸適地,42,新上五島町若松郷462-13,新上五島町長,'115×73（8,251m2）'" xlink:title="若松中学校" transform="ref(svg,12902.7674,-3288.6038)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12024" content="北魚目中学校,3,離着陸適地,42,新上五島町小串郷770,新上五島町長,'100×90（11,033m2）'" xlink:title="北魚目中学校" transform="ref(svg,12909.7353,-3305.2208)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12025" content="魚目中学校,3,離着陸適地,42,新上五島町丸尾郷412,新上五島町長,'133×81（10,822m2）'" xlink:title="魚目中学校" transform="ref(svg,12908.96,-3300.3355)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12026" content="運動公園陸上競技場,3,離着陸適地,42,新上五島町有川郷2555-3,新上五島町長,'110×105（16,130m2）'" xlink:title="運動公園陸上競技場" transform="ref(svg,12910.3323,-3298.1002)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12027" content="岩瀬浦小学校,3,離着陸適地,42,新上五島町岩瀬浦郷551-1,新上五島町長,'90×80（7,930m2）'" xlink:title="岩瀬浦小学校" transform="ref(svg,12907.6469,-3287.6515)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12028" content="町民総合グランド,3,離着陸適地,42,新上五島町奈良尾郷字金山,新上五島町長,'130×70（12,200m2）'" xlink:title="町民総合グランド" transform="ref(svg,12906.2377,-3284.1596)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12029" content="若松総合運動公園（多目的広場）,3,離着陸適地,42,新上五島町若松郷無番地,新上五島町長,'100×150（18,000m2）'" xlink:title="若松総合運動公園（多目的広場）" transform="ref(svg,12900.2815,-3287.8182)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13362" content="小宝島ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,十島村小宝島西原92,十島村長（総務課消防係）、十島村,'3,600'" xlink:title="小宝島ヘリポート" transform="ref(svg,12932.121,-2922.3169)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13363" content="宝島ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,十島村宝島折立1843,十島村長（総務課消防係）、十島村,'3,600'" xlink:title="宝島ヘリポート" transform="ref(svg,12921.9554,-2915.5286)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13371" content="宇検村陸上競技場、村総合運動公園陸上競技場,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,宇検村湯湾字大潟浜2928,宇検村（総務企画課）," xlink:title="宇検村陸上競技場、村総合運動公園陸上競技場" transform="ref(svg,12929.7494,-2827.499)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13372" content="手安ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,瀬戸内町手安田之下原692-3,奄美群島広域事務組合管理者（奄美群島広域事務組合）、瀬戸内町,'1,918'" xlink:title="手安ヘリポート" transform="ref(svg,12929.2919,-2815.3952)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13373" content="三浦ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,瀬戸内町三浦平勝原388-2,奄美群島広域事務組合管理者（奄美群島広域事務組合）、瀬戸内町,'3,200'" xlink:title="三浦ヘリポート" transform="ref(svg,12925.2344,-2815.5945)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13661" content="西部グラウンド,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,大和村今里字前都838-2,大和村,'6,280'" xlink:title="西部グラウンド" transform="ref(svg,12927.3547,-2832.5292)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13662" content="田検中学校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,宇検村田検191,宇検村," xlink:title="田検中学校" transform="ref(svg,12928.9866,-2828.5525)" x="0" y="0"/>
+</g>
+</svg>

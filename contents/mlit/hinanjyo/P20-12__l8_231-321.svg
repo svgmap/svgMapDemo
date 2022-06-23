@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="13060.546875 -3357.421875 17.578125 17.578125" go:dataArea="13060.546875 -3357.421875 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f109661" content="上穂波小学校,40205,福岡県飯塚市筑穂元吉403,広域避難地、指定避難所,3520,7072,0,0,0,0,0,1" xlink:title="上穂波小学校" transform="ref(svg,13064.2377,-3357.0441)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109664" content="筑穂グラウンド,40205,福岡県飯塚市長尾1340,広域避難地,4430,8878,0,0,0,0,0,1" xlink:title="筑穂グラウンド" transform="ref(svg,13064.7704,-3357.1903)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109665" content="筑穂公民館,40205,福岡県飯塚市長尾1340,指定避難所,880,2435,0,0,0,0,0,1" xlink:title="筑穂公民館" transform="ref(svg,13064.7431,-3357.1292)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109666" content="筑穂高齢者生活福祉センター,40205,福岡県飯塚市内野3540-1,指定避難所,210,587,0,0,0,0,0,1" xlink:title="筑穂高齢者生活福祉センター" transform="ref(svg,13063.9266,-3354.019)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109667" content="筑穂支所,40205,福岡県飯塚市長尾1242-1,指定避難所,2090,5764,0,0,0,0,0,1" xlink:title="筑穂支所" transform="ref(svg,13064.7201,-3356.9892)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109670" content="筑穂体育館,40205,福岡県飯塚市長尾1340,指定避難所,1050,2172,0,0,0,0,0,1" xlink:title="筑穂体育館" transform="ref(svg,13064.6989,-3357.083)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109671" content="筑穂中学校,40205,福岡県飯塚市長尾903-1,広域避難地、指定避難所,16530,33111,0,0,0,0,0,1" xlink:title="筑穂中学校" transform="ref(svg,13064.254,-3357.3852)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109672" content="筑穂保健福祉総合センター,40205,福岡県飯塚市長尾911-1,指定避難所,1320,3655,0,0,0,0,0,1" xlink:title="筑穂保健福祉総合センター" transform="ref(svg,13064.4262,-3357.3352)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109673" content="筑穂老人福祉センター,40205,福岡県飯塚市長尾1340,指定避難所,330,924,0,0,0,0,0,1" xlink:title="筑穂老人福祉センター" transform="ref(svg,13064.7567,-3357.113)" x="0" y="0"/>
+<use xlink:href="#p0" id="f109678" content="内野小学校,40205,福岡県飯塚市内野3537-1,広域避難地、指定避難所,2450,4948,0,0,0,0,0,1" xlink:title="内野小学校" transform="ref(svg,13063.8652,-3353.9133)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110506" content="碓井小学校,40227,福岡県嘉麻市上臼井868,指定避難所,450,938,0,0,0,0,0,1" xlink:title="碓井小学校" transform="ref(svg,13070.7007,-3355.7799)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110507" content="碓井中学校,40227,福岡県嘉麻市平山440,指定避難所,510,1064,0,0,0,0,0,1" xlink:title="碓井中学校" transform="ref(svg,13070.0758,-3355.9743)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110509" content="上山田小学校,40227,福岡県嘉麻市上山田502-36,指定避難所,510,1053,0,0,0,0,0,1" xlink:title="上山田小学校" transform="ref(svg,13076.9669,-3356.0551)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110511" content="山田中学校,40227,福岡県嘉麻市下山田2,指定避難所,840,1737,0,0,0,0,0,1" xlink:title="山田中学校" transform="ref(svg,13076.0086,-3356.5216)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110518" content="牛隈小学校,40227,福岡県嘉麻市牛隈2470-8,指定避難所,320,680,0,0,0,0,0,1" xlink:title="牛隈小学校" transform="ref(svg,13072.4949,-3357.2048)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110519" content="大隈小学校,40227,福岡県嘉麻市大隈町731,指定避難所,650,1347,0,0,0,0,0,1" xlink:title="大隈小学校" transform="ref(svg,13074.3542,-3354.9698)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110520" content="千手小学校,40227,福岡県嘉麻市千手1253-1,指定避難所,320,680,0,0,0,0,0,1" xlink:title="千手小学校" transform="ref(svg,13071.373,-3352.6802)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110521" content="泉河内小学校,40227,福岡県嘉麻市泉河内617,指定避難所,320,680,0,0,0,0,0,1" xlink:title="泉河内小学校" transform="ref(svg,13067.951,-3353.8273)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110522" content="足白小学校,40227,福岡県嘉麻市馬見587,指定避難所,320,680,0,0,0,0,0,1" xlink:title="足白小学校" transform="ref(svg,13075.1144,-3352.2748)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110523" content="宮野小学校,40227,福岡県嘉麻市宮吉533,指定避難所,310,653,0,0,0,0,0,1" xlink:title="宮野小学校" transform="ref(svg,13077.0976,-3352.1582)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110524" content="嘉穂中学校,40227,福岡県嘉麻市上西郷376,指定避難所,660,1377,0,0,0,0,0,1" xlink:title="嘉穂中学校" transform="ref(svg,13073.5672,-3354.369)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110525" content="碓井庁舎（文化ホール）,40227,福岡県嘉麻市上臼井446-1,指定避難所,140,400,0,0,0,0,0,1" xlink:title="碓井庁舎（文化ホール）" transform="ref(svg,13071.151,-3356.3283)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110530" content="上山田住民ホール,40227,福岡県嘉麻市上山田1515,指定避難所,50,156,0,0,0,0,0,1" xlink:title="上山田住民ホール" transform="ref(svg,13076.752,-3355.6804)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110531" content="神幸集会所,40227,福岡県嘉麻市上山田1463-11,指定避難所,30,104,0,0,0,0,0,1" xlink:title="神幸集会所" transform="ref(svg,13076.9484,-3355.5361)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110532" content="サルビアパーク,40227,福岡県嘉麻市上山田352,指定避難所,420,1172,0,0,0,0,0,1" xlink:title="サルビアパーク" transform="ref(svg,13076.9036,-3355.8143)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110533" content="防災センター,40227,福岡県嘉麻市上山田1403-11,指定避難所,10,34,0,0,0,0,0,1" xlink:title="防災センター" transform="ref(svg,13076.6287,-3355.7158)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110534" content="下宮集会所,40227,福岡県嘉麻市上山田1347-2,指定避難所,30,102,0,0,0,0,0,1" xlink:title="下宮集会所" transform="ref(svg,13076.5224,-3355.824)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110535" content="山田百々谷集会所,40227,福岡県嘉麻市上山田1610-4,指定避難所,30,104,0,0,0,0,0,1" xlink:title="山田百々谷集会所" transform="ref(svg,13076.8326,-3354.8241)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110536" content="尾浦第１集会所,40227,福岡県嘉麻市上山田244-1,指定避難所,30,104,0,0,0,0,0,1" xlink:title="尾浦第１集会所" transform="ref(svg,13077.4668,-3355.4275)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110537" content="尾浦第２集会所,40227,福岡県嘉麻市上山田150-1,指定避難所,30,104,0,0,0,0,0,1" xlink:title="尾浦第２集会所" transform="ref(svg,13077.6662,-3355.383)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110538" content="木城集会所,40227,福岡県嘉麻市上山田829-5,指定避難所,30,91,0,0,0,0,0,1" xlink:title="木城集会所" transform="ref(svg,13077.3273,-3356.1881)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110539" content="西川集会所,40227,福岡県嘉麻市上山田1683-361,指定避難所,30,94,0,0,0,0,0,1" xlink:title="西川集会所" transform="ref(svg,13076.2828,-3355.9721)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110541" content="大橋・蛭子集会所,40227,福岡県嘉麻市上山田443-1,指定避難所,40,125,0,0,0,0,0,1" xlink:title="大橋・蛭子集会所" transform="ref(svg,13076.533,-3356.312)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110542" content="原町集会所,40227,福岡県嘉麻市上山田1279-2,指定避難所,-1,-1,0,0,0,0,0,1" xlink:title="原町集会所" transform="ref(svg,13075.3102,-3355.8397)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110543" content="昭和集会所,40227,福岡県嘉麻市上山田1176,指定避難所,30,102,0,0,0,0,0,1" xlink:title="昭和集会所" transform="ref(svg,13076.3334,-3356.6135)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110545" content="山田市民センター,40227,福岡県嘉麻市上山田451-3,指定避難所,150,432,0,0,0,0,0,1" xlink:title="山田市民センター" transform="ref(svg,13076.5706,-3356.2826)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110546" content="猪之鼻集会所,40227,福岡県嘉麻市上山田1049,指定避難所,20,68,0,0,0,0,0,1" xlink:title="猪之鼻集会所" transform="ref(svg,13076.7771,-3356.7216)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110547" content="下山田公民館,40227,福岡県嘉麻市下山田376,指定避難所,30,89,0,0,0,0,0,1" xlink:title="下山田公民館" transform="ref(svg,13075.5444,-3357.3927)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110548" content="石ヶ崎集会所,40227,福岡県嘉麻市下山田58-1,指定避難所,30,104,0,0,0,0,0,1" xlink:title="石ヶ崎集会所" transform="ref(svg,13075.7089,-3356.7619)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110549" content="日吉集会所,40227,福岡県嘉麻市下山田844-1,指定避難所,30,104,0,0,0,0,0,1" xlink:title="日吉集会所" transform="ref(svg,13074.2962,-3357.1622)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110551" content="長野集会所,40227,福岡県嘉麻市下山田187-10,指定避難所,30,94,0,0,0,0,0,1" xlink:title="長野集会所" transform="ref(svg,13075.8231,-3357.1128)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110553" content="中山田上集会所,40227,福岡県嘉麻市下山田280-1,指定避難所,30,105,0,0,0,0,0,1" xlink:title="中山田上集会所" transform="ref(svg,13075.8945,-3357.4159)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110554" content="山田ふれあいハウス,40227,福岡県嘉麻市上山田502-6,福祉避難所,280,770,0,0,0,0,0,1" xlink:title="山田ふれあいハウス" transform="ref(svg,13076.9194,-3356.2306)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110565" content="嘉穂百谷公民館,40227,福岡県嘉麻市大隈9-17,指定避難所,40,126,0,0,0,0,0,1" xlink:title="嘉穂百谷公民館" transform="ref(svg,13076.4876,-3354.5717)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110566" content="嘉穂隣保館,40227,福岡県嘉麻市大隈町722,指定避難所,200,553,0,0,0,0,0,1" xlink:title="嘉穂隣保館" transform="ref(svg,13074.3113,-3355.0438)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110567" content="嘉穂生涯学習センター「夢サイトかほ」,40227,福岡県嘉麻市大隈町1228-1,福祉避難所,800,2200,0,0,0,0,0,1" xlink:title="嘉穂生涯学習センター「夢サイトかほ」" transform="ref(svg,13074.1953,-3354.3527)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110568" content="嘉穂老人福祉センター,40227,福岡県嘉麻市大隈町1183-1,指定避難所,450,1239,0,0,0,0,0,1" xlink:title="嘉穂老人福祉センター" transform="ref(svg,13074.2694,-3354.4496)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110569" content="嘉穂母子健康センター「下牛隈公民館」,40227,福岡県嘉麻市牛隈2058-1,指定避難所,130,365,0,0,0,0,0,1" xlink:title="嘉穂母子健康センター「下牛隈公民館」" transform="ref(svg,13072.5838,-3356.901)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110570" content="嘉穂総合体育館,40227,福岡県嘉麻市上西郷1482-1,指定避難所,2060,4262,0,0,0,0,0,1" xlink:title="嘉穂総合体育館" transform="ref(svg,13072.7136,-3354.2417)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110571" content="千手いこいの家,40227,福岡県嘉麻市千手1776-1,指定避難所,80,237,0,0,0,0,0,1" xlink:title="千手いこいの家" transform="ref(svg,13071.2708,-3352.8461)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110572" content="足白公民館,40227,福岡県嘉麻市馬見584-4,指定避難所,140,402,0,0,0,0,0,1" xlink:title="足白公民館" transform="ref(svg,13075.1668,-3352.2356)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110573" content="宮野公民館,40227,福岡県嘉麻市宮吉538-1,指定避難所,130,370,0,0,0,0,0,1" xlink:title="宮野公民館" transform="ref(svg,13076.9993,-3352.3224)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110574" content="嘉穂上山集会所,40227,福岡県嘉麻市大隈1-4,指定避難所,40,119,0,0,0,0,0,1" xlink:title="嘉穂上山集会所" transform="ref(svg,13076.9517,-3354.5498)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110576" content="甘木・朝倉消防署,40228,福岡県朝倉市一木18-20,避難所,80,-1,0,0,0,0,0,1" xlink:title="甘木・朝倉消防署" transform="ref(svg,13066.4626,-3340.6619)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110577" content="甘木小学校,40228,福岡県朝倉市甘木1945,避難所,410,-1,0,0,0,0,0,1" xlink:title="甘木小学校" transform="ref(svg,13065.7176,-3342.497)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110578" content="甘木総合隣保館,40228,福岡県朝倉市甘木1373-2,避難所,20,-1,0,0,0,0,0,1" xlink:title="甘木総合隣保館" transform="ref(svg,13065.3824,-3342.2526)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110581" content="三奈木公民館,40228,福岡県朝倉市三奈木4260,避難所,20,-1,0,0,0,0,0,1" xlink:title="三奈木公民館" transform="ref(svg,13071.1141,-3341.5753)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110583" content="秋月小学校,40228,福岡県朝倉市長谷山50,避難所,270,-1,0,0,0,0,0,1" xlink:title="秋月小学校" transform="ref(svg,13068.7178,-3346.353)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110584" content="十文字中学校,40228,福岡県朝倉市三奈木3710,避難所,340,-1,0,0,0,0,0,1" xlink:title="十文字中学校" transform="ref(svg,13070.0984,-3340.6815)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110586" content="総合市民センター（ピーポート甘木）,40228,福岡県朝倉市甘木198-1,避難所,220,-1,0,0,0,0,0,1" xlink:title="総合市民センター（ピーポート甘木）" transform="ref(svg,13065.9857,-3341.5319)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110594" content="馬田公民館,40228,福岡県朝倉市馬田1286,避難所,110,-1,0,0,0,0,0,1" xlink:title="馬田公民館" transform="ref(svg,13064.1811,-3340.5333)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110596" content="美奈宜の杜コミュニティセンター,40228,福岡県朝倉市美奈宜の杜5-12-20,避難所,20,-1,0,0,0,0,0,1" xlink:title="美奈宜の杜コミュニティセンター" transform="ref(svg,13071.8129,-3343.6195)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110598" content="立石公民館,40228,福岡県朝倉市頓田205-1,避難所,50,-1,0,0,0,0,0,1" xlink:title="立石公民館" transform="ref(svg,13067.3392,-3341.2847)" x="0" y="0"/>
+<use xlink:href="#p0" id="f110599" content="立石小学校,40228,福岡県朝倉市頓田380-1,避難所,360,-1,0,0,0,0,0,1" xlink:title="立石小学校" transform="ref(svg,13066.8063,-3341.2992)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111086" content="町立土師保育所,40421,福岡県嘉穂郡桂川町土師2464-1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="町立土師保育所" transform="ref(svg,13068.5676,-3356.5159)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111088" content="ちくぜん少年大使館,40447,福岡県朝倉郡筑前町高田2317番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="ちくぜん少年大使館" transform="ref(svg,13061.9338,-3341.4468)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111089" content="めくばーる「めくばり館」,40447,福岡県朝倉郡筑前町久光951番地1,避難所、自主避難所,-1,-1,0,0,0,0,0,1" xlink:title="めくばーる「めくばり館」" transform="ref(svg,13063.4361,-3343.4504)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111090" content="三並小学校体育館,40447,福岡県朝倉郡筑前町三並1354番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="三並小学校体育館" transform="ref(svg,13061.614,-3347.2435)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111091" content="三輪小学校体育館,40447,福岡県朝倉郡筑前町新町400番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="三輪小学校体育館" transform="ref(svg,13063.6898,-3343.5159)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111092" content="三輪中学校体育館,40447,福岡県朝倉郡筑前町久光1600番地,避難所、避難場所,-1,-1,0,0,0,0,0,1" xlink:title="三輪中学校体育館" transform="ref(svg,13062.734,-3343.7581)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111093" content="第２野の花学園グラウンド,40447,福岡県朝倉郡筑前町三箇山1147番地2,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="第２野の花学園グラウンド" transform="ref(svg,13065.3379,-3349.0549)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111096" content="町営三輪グラウンド,40447,福岡県朝倉郡筑前町高上597番地1,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="町営三輪グラウンド" transform="ref(svg,13061.9395,-3342.6811)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111098" content="夜須高原青少年自然の家,40447,福岡県朝倉郡筑前町三箇山1103番地,避難所,-1,-1,0,0,0,0,0,1" xlink:title="夜須高原青少年自然の家" transform="ref(svg,13064.6542,-3349.3054)" x="0" y="0"/>
+<use xlink:href="#p0" id="f111138" content="大刀洗町就業改善センター,40503,福岡県三井郡大刀洗町大字山隈1711-3,避難場所,-1,-1,0,0,0,0,0,1" xlink:title="大刀洗町就業改善センター" transform="ref(svg,13060.7447,-3340.6582)" x="0" y="0"/>
+</g>
+</svg>

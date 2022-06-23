@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14167.96875 -4324.21875 35.15625 35.15625" go:dataArea="14167.96875 -4324.21875 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,北海道　夕張郡長沼町栄町１?９?３,10,15,3,90,8800,40,60,0,15100,12200,9900" xlink:title="北海道　夕張郡長沼町栄町１?９?３" transform="ref(svg,14168.922,-4300.7889)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　夕張郡長沼町中央南１?７?２,10,25,2,180,8400,80,400,0,40000,25900,15700" xlink:title="北海道　夕張郡長沼町中央南１?７?２" transform="ref(svg,14169.4184,-4300.9505)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　夕張郡長沼町宮下１?３?１７,10,15,2,90,7500,60,200,0,16000,12900,10400" xlink:title="北海道　夕張郡長沼町宮下１?３?１７" transform="ref(svg,14169.9923,-4301.0526)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　岩見沢市栗沢町南本町１８番６２,10,12,2,90,600,60,200,0,0,0,7700" xlink:title="北海道　岩見沢市栗沢町南本町１８番６２" transform="ref(svg,14174.1027,-4311.6797)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　岩見沢市栗沢町本町７１番,10,35,2,180,270,80,200,0,36000,20000,10200" xlink:title="北海道　岩見沢市栗沢町本町７１番" transform="ref(svg,14174.1041,-4311.9006)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　岩見沢市栗沢町最上２番２２,10,10,2,80,1000,60,200,0,15300,11000,6500" xlink:title="北海道　岩見沢市栗沢町最上２番２２" transform="ref(svg,14174.9403,-4312.2632)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　岩見沢市４条西６丁目２番１外,10,10,2,180,350,80,400,0,0,0,39000" xlink:title="北海道　岩見沢市４条西６丁目２番１外" transform="ref(svg,14176.1614,-4320.127)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　岩見沢市６条西７丁目２番３０,10,20,2,90,650,60,200,0,0,30000,20300" xlink:title="北海道　岩見沢市６条西７丁目２番３０" transform="ref(svg,14176.287,-4319.8734)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　岩見沢市７条西１丁目６番３,10,20,3,180,1100,80,300,0,0,40500,22400" xlink:title="北海道　岩見沢市７条西１丁目６番３" transform="ref(svg,14176.8924,-4320.0948)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　岩見沢市２条東７丁目７番２,10,15,2,120,1200,60,200,0,0,22500,16000" xlink:title="北海道　岩見沢市２条東７丁目７番２" transform="ref(svg,14177.1353,-4320.846)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　岩見沢市緑が丘３丁目１９６番１７,10,15,2,72,2700,40,60,0,0,17800,12300" xlink:title="北海道　岩見沢市緑が丘３丁目１９６番１７" transform="ref(svg,14177.6469,-4318.3699)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　夕張郡栗山町中央１丁目９７番,10,20,2,60,600,60,200,0,17600,13200,10300" xlink:title="北海道　夕張郡栗山町中央１丁目９７番" transform="ref(svg,14177.8516,-4306.1163)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　岩見沢市春日町４?４?１３,10,15,2,80,2600,40,60,0,27500,20300,13600" xlink:title="北海道　岩見沢市春日町４?４?１３" transform="ref(svg,14177.8792,-4319.0517)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　夕張郡栗山町中央２丁目９５番１,10,30,2,200,320,80,400,0,64000,42800,20900" xlink:title="北海道　夕張郡栗山町中央２丁目９５番１" transform="ref(svg,14178.001,-4305.8886)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　夕張郡栗山町中央４丁目２９１番,10,20,2,80,1200,60,200,0,16300,12800,10500" xlink:title="北海道　夕張郡栗山町中央４丁目２９１番" transform="ref(svg,14178.2976,-4305.2153)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　岩見沢市日の出町２４番１,10,20,1,250,2900,80,200,0,108000,45500,24000" xlink:title="北海道　岩見沢市日の出町２４番１" transform="ref(svg,14178.4988,-4320.534)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　岩見沢市日の出北３?９?１３,10,10,2,80,3400,40,60,0,24700,17500,10800" xlink:title="北海道　岩見沢市日の出北３?９?１３" transform="ref(svg,14179.0348,-4320.9336)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　夕張郡栗山町朝日３丁目１０１番,15,10,2,140,1700,60,200,0,25000,18200,11400" xlink:title="北海道　夕張郡栗山町朝日３丁目１０１番" transform="ref(svg,14179.4608,-4305.738)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　三笠市岡山５２番２７,10,12,2,80,7000,60,200,0,15100,11700,6700" xlink:title="北海道　三笠市岡山５２番２７" transform="ref(svg,14181.8959,-4323.7406)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　夕張市本町２丁目２１７番,10,25,2,140,1300,80,400,0,17800,13400,5800" xlink:title="北海道　夕張市本町２丁目２１７番" transform="ref(svg,14197.6927,-4305.9121)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　夕張市清水沢１丁目１１８番１２,10,15,2,150,150,60,200,0,0,6600,3500" xlink:title="北海道　夕張市清水沢１丁目１１８番１２" transform="ref(svg,14200.6571,-4299.821)" x="0" y="0"/>
+</g>
+</svg>

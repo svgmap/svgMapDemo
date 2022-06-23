@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="12779.296875 -2619.140625 17.578125 17.578125" go:dataArea="12779.296875 -2619.140625 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f124887" content="安座真公民館,47215,沖縄県南城市安座真151番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="安座真公民館" transform="ref(svg,12782.1992,-2617.7414)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124888" content="伊原公民館,47215,沖縄県南城市伊原287番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊原公民館" transform="ref(svg,12780.6872,-2617.4011)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124889" content="伊原農村広場,47215,沖縄県南城市伊原409番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="伊原農村広場" transform="ref(svg,12780.8986,-2617.4882)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124896" content="屋比久公民館,47215,沖縄県南城市屋比久14番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="屋比久公民館" transform="ref(svg,12780.2752,-2617.5601)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124897" content="屋比久児童公園,47215,沖縄県南城市屋比久66番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="屋比久児童公園" transform="ref(svg,12780.2293,-2617.6092)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124898" content="海野公民館,47215,沖縄県南城市海野242番地2,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="海野公民館" transform="ref(svg,12781.1193,-2618.8236)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124899" content="外間公民館,47215,沖縄県南城市屋比久189番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="外間公民館" transform="ref(svg,12779.7946,-2617.7305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124900" content="外間農村広場,47215,沖縄県南城市屋比久159番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="外間農村広場" transform="ref(svg,12779.9551,-2617.6696)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124901" content="垣花公民館,47215,沖縄県南城市垣花137番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="垣花公民館" transform="ref(svg,12779.3236,-2614.8762)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124904" content="吉富公民館,47215,沖縄県南城市吉富106番地2,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="吉富公民館" transform="ref(svg,12782.0933,-2616.8417)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124905" content="久原公民館,47215,沖縄県南城市久原42番地1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="久原公民館" transform="ref(svg,12780.4891,-2618.7698)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124906" content="久高小中学校,47215,沖縄県南城市久高46番地,一時避難所、広域避難所、収容避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="久高小中学校" transform="ref(svg,12788.6507,-2615.7057)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124907" content="久高島離島振興総合センター,47215,沖縄県南城市久高231番地2,一時避難所、収容避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="久高島離島振興総合センター" transform="ref(svg,12788.6943,-2615.5453)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124908" content="久手堅公民館,47215,沖縄県南城市久手堅103番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="久手堅公民館" transform="ref(svg,12782.3078,-2616.9841)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124915" content="具志堅公民館,47215,沖縄県南城市具志堅22番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="具志堅公民館" transform="ref(svg,12780.9179,-2615.5849)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124929" content="山里公民館,47215,沖縄県南城市山里22番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="山里公民館" transform="ref(svg,12780.6102,-2615.6629)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124930" content="志喜屋漁港多目的広場,47215,沖縄県南城市志喜屋漁港内,一時避難所、広域避難所,-1,-1,0,0,0,0,0,1" xlink:title="志喜屋漁港多目的広場" transform="ref(svg,12780.8283,-2614.9884)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124931" content="志喜屋公民館,47215,沖縄県南城市志喜屋428番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="志喜屋公民館" transform="ref(svg,12780.0407,-2615.1322)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124935" content="守札カントリークラブ,47215,沖縄県南城市知名1029番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="守札カントリークラブ" transform="ref(svg,12781.154,-2617.926)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124936" content="手登根公民館,47215,沖縄県南城市手登根52番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="手登根公民館" transform="ref(svg,12780.0929,-2617.096)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124937" content="手登根農村広場,47215,沖縄県南城市手登根1番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="手登根農村広場" transform="ref(svg,12780.1256,-2617.113)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124972" content="知念屋外運動場,47215,沖縄県南城市久手堅819番地6,一時避難所、広域避難所、収容避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="知念屋外運動場" transform="ref(svg,12781.6271,-2617.3115)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124973" content="知念漁民研修センター,47215,沖縄県南城市海野漁港内,一時避難所、広域避難所、収容避難所,-1,-1,0,0,0,0,0,1" xlink:title="知念漁民研修センター" transform="ref(svg,12781.153,-2619.0052)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124974" content="知念公民館,47215,沖縄県南城市知念536番地,一時避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="知念公民館" transform="ref(svg,12781.3552,-2615.9466)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124975" content="知念小学校,47215,沖縄県南城市久手堅679番地,一時避難所、広域避難所、収容避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="知念小学校" transform="ref(svg,12781.9569,-2617.0942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124976" content="知念体育館,47215,沖縄県南城市久手堅532番地,一時避難所、広域避難所、収容避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="知念体育館" transform="ref(svg,12782.8647,-2616.7387)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124977" content="知念中央公民館,47215,沖縄県南城市久手堅22番地,一時避難所、広域避難所、収容避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="知念中央公民館" transform="ref(svg,12782.1103,-2616.9976)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124978" content="知念中学校,47215,沖縄県南城市久手堅700番地,一時避難所、広域避難所、収容避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="知念中学校" transform="ref(svg,12781.9618,-2617.2418)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124979" content="知名公民館,47215,沖縄県南城市知名107番地,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="知名公民館" transform="ref(svg,12781.811,-2618.4558)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124982" content="仲伊保公民館,47215,沖縄県南城市仲伊保388番地2,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="仲伊保公民館" transform="ref(svg,12779.4663,-2618.1152)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124983" content="仲伊保団地集会所,47215,沖縄県南城市仲伊保488番地1,一時避難所,-1,-1,0,0,0,0,0,1" xlink:title="仲伊保団地集会所" transform="ref(svg,12779.9788,-2617.9944)" x="0" y="0"/>
+<use xlink:href="#p0" id="f124995" content="南城市知念社会福祉センター,47215,沖縄県南城市久手堅453番地,一時避難所、広域避難所、収容避難所、津波避難所,-1,-1,0,0,0,0,0,1" xlink:title="南城市知念社会福祉センター" transform="ref(svg,12782.658,-2616.8757)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125009" content="岬公園,47215,沖縄県南城市久手堅523番地,一時避難所、広域避難所,-1,-1,0,0,0,0,0,1" xlink:title="岬公園" transform="ref(svg,12782.9834,-2616.6691)" x="0" y="0"/>
+</g>
+</svg>

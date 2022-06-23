@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14132.8125 -3867.1875 70.3125 70.3125" go:dataArea="14132.8125 -3867.1875 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,宮城県　石巻市井内字二番８５番１,20,10,2,95,140,60,200,0,0,0,18100" xlink:title="宮城県　石巻市井内字二番８５番１" transform="ref(svg,14133.4133,-3844.509)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　石巻市新栄１丁目１４番３,10,10,2,60,500,60,80,0,0,23000,30100" xlink:title="宮城県　石巻市新栄１丁目１４番３" transform="ref(svg,14133.4152,-3844.676)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　石巻市鹿妻北３?５?１１,10,15,2,60,3200,60,200,44000,42700,35700,32600" xlink:title="宮城県　石巻市鹿妻北３?５?１１" transform="ref(svg,14134.3763,-3842.5821)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　石巻市渡波字根岸前５８番２２,12,10,2,65,1700,60,200,0,0,0,28000" xlink:title="宮城県　石巻市渡波字根岸前５８番２２" transform="ref(svg,14134.8688,-3842.1455)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　石巻市渡波町２?１０?３５,10,20,1,62,450,60,200,0,50000,27800,18500" xlink:title="宮城県　石巻市渡波町２?１０?３５" transform="ref(svg,14136.7815,-3841.7188)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　石巻市垂水町３丁目７番１２,10,15,2,60,300,60,200,0,0,30400,27100" xlink:title="宮城県　石巻市垂水町３丁目７番１２" transform="ref(svg,14137.1487,-3842.8773)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　牡鹿郡女川町浦宿浜字浦宿２４番３,10,12,2,40,140,60,200,0,0,0,14800" xlink:title="宮城県　牡鹿郡女川町浦宿浜字浦宿２４番３" transform="ref(svg,14142.1538,-3843.7719)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　牡鹿郡女川町針浜字針浜１４１番,10,30,2,62,1500,70,200,0,0,0,5650" xlink:title="宮城県　牡鹿郡女川町針浜字針浜１４１番" transform="ref(svg,14142.5027,-3842.6478)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　牡鹿郡女川町浦宿浜字石ノ田１７番１５,10,15,2,60,700,60,200,0,0,0,18500" xlink:title="宮城県　牡鹿郡女川町浦宿浜字石ノ田１７番１５" transform="ref(svg,14142.8043,-3843.9073)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　牡鹿郡女川町旭が丘２丁目１０番２,12,10,2,60,1200,60,80,0,0,19300,22000" xlink:title="宮城県　牡鹿郡女川町旭が丘２丁目１０番２" transform="ref(svg,14143.0942,-3843.4728)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　牡鹿郡女川町桜ケ丘８番５,10,15,2,60,1300,60,200,0,0,0,21700" xlink:title="宮城県　牡鹿郡女川町桜ケ丘８番５" transform="ref(svg,14144.1663,-3843.8837)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,宮城県　牡鹿郡女川町女川浜字大原４８０番１７,10,10,2,190,200,80,400,0,0,0,29000" xlink:title="宮城県　牡鹿郡女川町女川浜字大原４８０番１７" transform="ref(svg,14144.4186,-3844.52)" x="0" y="0"/>
+</g>
+</svg>

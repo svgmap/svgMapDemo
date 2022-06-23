@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,行政区域,住所,施設の種類,収容人数,施設規模,災害分類:地震災害,災害分類:津波災害,災害分類:水害,災害分類:火山災害,災害分類:その他,災害分類:指定なし" viewBox="11250.0 -3375.0 1125.0 1125.0" go:dataArea="11250.0 -3375.0 1125.0 1125.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f125775" content="共栄山・トオバル山・ティ－チ,47381,沖縄県八重山郡竹富町舟浮,津波避難場所,-1,-1,0,1,0,0,0,0" xlink:title="共栄山・トオバル山・ティ－チ" transform="ref(svg,12372.7555,-2434.0666)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125791" content="久部良公園,47382,沖縄県八重山郡与那国町字与那国4022番地520,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="久部良公園" transform="ref(svg,12294.3396,-2445.2573)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125792" content="久部良小学校,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="久部良小学校" transform="ref(svg,12294.4736,-2445.4486)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125793" content="久部良多目的集会施設,47382,沖縄県八重山郡与那国町字与那国4022番地223,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="久部良多目的集会施設" transform="ref(svg,12294.3719,-2445.2436)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125794" content="久部良中学校,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="久部良中学校" transform="ref(svg,12294.3542,-2445.5069)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125795" content="構造改善センター,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="構造改善センター" transform="ref(svg,12300.4975,-2446.5355)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125796" content="児童交流センター,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="児童交流センター" transform="ref(svg,12301.0906,-2445.603)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125797" content="中央公民館,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="中央公民館" transform="ref(svg,12300.3784,-2446.8163)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125798" content="比川小学校,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="比川小学校" transform="ref(svg,12298.2233,-2444.282)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125799" content="比川多目的集会施設,47382,沖縄県八重山郡与那国町字与那国3464番地1,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="比川多目的集会施設" transform="ref(svg,12297.9531,-2444.2943)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125800" content="保健センター,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="保健センター" transform="ref(svg,12300.5192,-2447.0784)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125801" content="与那国小学校,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="与那国小学校" transform="ref(svg,12300.8147,-2446.7457)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125802" content="与那国中学校,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="与那国中学校" transform="ref(svg,12300.849,-2446.8518)" x="0" y="0"/>
+<use xlink:href="#p0" id="f125803" content="離島振興総合センター,47382,沖縄県八重山郡与那国町,避難予定場所,-1,-1,0,0,0,0,0,1" xlink:title="離島振興総合センター" transform="ref(svg,12297.8955,-2444.2431)" x="0" y="0"/>
+</g>
+</svg>
