@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13218.75 -3410.15625 35.15625 35.15625" go:dataArea="13218.75 -3410.15625 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,山口県　岩国市由宇町字新田原４６２７番３,10,15,1,55,2200,70,200,0,0,0,14400" xlink:title="山口県　岩国市由宇町字新田原４６２７番３" transform="ref(svg,13219.2329,-3404.4051)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,山口県　岩国市青木町４?９?２３,15,10,1,20,2500,60,100,14600,17900,15700,11800" xlink:title="山口県　岩国市青木町４?９?２３" transform="ref(svg,13219.4055,-3409.6675)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,山口県　大島郡周防大島町大字西屋代字国木田２６１９番３,10,25,1,50,5400,70,200,0,21900,21000,19200" xlink:title="山口県　大島郡周防大島町大字西屋代字国木田２６１９番３" transform="ref(svg,13219.8031,-3392.708)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,山口県　大島郡周防大島町大字戸田字浜１７８８番,10,30,2,45,12000,70,200,0,13200,12600,11200" xlink:title="山口県　大島郡周防大島町大字戸田字浜１７８８番" transform="ref(svg,13219.8127,-3388.3842)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,山口県　岩国市青木町３丁目１３２１番４,10,35,0,25,2600,50,80,0,0,0,9350" xlink:title="山口県　岩国市青木町３丁目１３２１番４" transform="ref(svg,13220.1396,-3409.2489)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,山口県　岩国市保津町２?１１?３４,10,12,2,60,2000,60,200,41700,63100,43600,32400" xlink:title="山口県　岩国市保津町２?１１?３４" transform="ref(svg,13220.5653,-3408.2203)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,山口県　岩国市通津字中町２６０８番,10,15,2,40,350,80,200,0,0,0,40900" xlink:title="山口県　岩国市通津字中町２６０８番" transform="ref(svg,13220.6047,-3407.0785)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,山口県　大島郡周防大島町大字西三蒲字山下１６９８番４,25,10,1,130,4500,70,200,0,0,0,21600" xlink:title="山口県　大島郡周防大島町大字西三蒲字山下１６９８番４" transform="ref(svg,13220.9209,-3394.7625)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,山口県　岩国市長野字長野尻１８１５番２外,10,20,0,115,1800,60,200,19800,23500,20600,15100" xlink:title="山口県　岩国市長野字長野尻１８１５番２外" transform="ref(svg,13221.0707,-3405.4397)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,山口県　岩国市由宇町千鳥ヶ丘２?４?１５,10,12,2,65,1300,60,200,0,48300,37100,28700" xlink:title="山口県　岩国市由宇町千鳥ヶ丘２?４?１５" transform="ref(svg,13221.3341,-3403.3014)" x="0" y="0"/>
+</g>
+</svg>

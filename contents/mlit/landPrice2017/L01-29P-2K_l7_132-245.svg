@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13535.15625 -3471.6796875 8.7890625 8.7890625" go:dataArea="13535.15625 -3471.6796875 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,兵庫県　西宮市浜甲子園２?１１?２１,10,20,2,45,1700,60,200,0,280000,210000,211000" xlink:title="兵庫県　西宮市浜甲子園２?１１?２１" transform="ref(svg,13535.464,-3471.4717)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,兵庫県　西宮市鳴尾浜３丁目１１番４,15,10,0,160,3700,60,200,100000,218000,104000,105000" xlink:title="兵庫県　西宮市鳴尾浜３丁目１１番４" transform="ref(svg,13536.0642,-3469.4377)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,兵庫県　西宮市鳴尾町４?１４?７,10,12,2,80,700,60,200,313000,322000,238000,257000" xlink:title="兵庫県　西宮市鳴尾町４?１４?７" transform="ref(svg,13536.758,-3471.5572)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,兵庫県　西宮市上田西町２?５,10,12,2,270,900,60,200,0,0,0,275000" xlink:title="兵庫県　西宮市上田西町２?５" transform="ref(svg,13537.1559,-3471.2796)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,兵庫県　西宮市上田中町５?６,10,30,2,80,560,60,200,0,302000,205000,197000" xlink:title="兵庫県　西宮市上田中町５?６" transform="ref(svg,13537.238,-3470.9888)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,兵庫県　西宮市東鳴尾町１?８?２１,10,20,2,80,200,60,200,0,306000,219000,219000" xlink:title="兵庫県　西宮市東鳴尾町１?８?２１" transform="ref(svg,13537.7291,-3471.2848)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,兵庫県　尼崎市元浜町２丁目６５番５,10,15,2,60,620,60,200,238000,270000,186000,168000" xlink:title="兵庫県　尼崎市元浜町２丁目６５番５" transform="ref(svg,13538.5114,-3471.3376)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,兵庫県　尼崎市大浜町２丁目５０番外,12,10,0,160,2400,60,200,0,0,0,93000" xlink:title="兵庫県　尼崎市大浜町２丁目５０番外" transform="ref(svg,13538.5889,-3469.9923)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,兵庫県　尼崎市西向島町８１番２,10,15,0,500,600,60,200,0,299000,115000,103000" xlink:title="兵庫県　尼崎市西向島町８１番２" transform="ref(svg,13540.144,-3471.665)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,兵庫県　尼崎市東海岸町１番６０,10,30,0,100,3100,60,200,0,213000,82000,79000" xlink:title="兵庫県　尼崎市東海岸町１番６０" transform="ref(svg,13540.3955,-3469.7039)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,大阪府　大阪市此花区北港白津１?６?１０,20,10,4,200,3500,60,300,0,0,0,77700" xlink:title="大阪府　大阪市此花区北港白津１?６?１０" transform="ref(svg,13540.4338,-3466.2873)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,兵庫県　尼崎市西向島町１４５番１,10,12,3,180,670,60,200,0,0,0,114000" xlink:title="兵庫県　尼崎市西向島町１４５番１" transform="ref(svg,13540.4397,-3471.2805)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,兵庫県　尼崎市西本町北通５丁目１７０番外,10,10,2,60,750,60,200,0,0,0,166000" xlink:title="兵庫県　尼崎市西本町北通５丁目１７０番外" transform="ref(svg,13541.1636,-3471.6482)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,兵庫県　尼崎市西本町１丁目２８番２,10,15,2,58,450,60,200,0,0,182000,164000" xlink:title="兵庫県　尼崎市西本町１丁目２８番２" transform="ref(svg,13541.6245,-3471.5097)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,兵庫県　尼崎市北初島町１６番９,10,25,0,150,1600,60,200,0,215000,109000,98500" xlink:title="兵庫県　尼崎市北初島町１６番９" transform="ref(svg,13541.7836,-3470.6445)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,兵庫県　尼崎市大物町１?７?１６,10,15,2,60,260,60,200,0,0,0,160000" xlink:title="兵庫県　尼崎市大物町１?７?１６" transform="ref(svg,13542.6394,-3471.4712)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,大阪府　大阪市西淀川区中島１?１３?１０,10,15,2,40,1100,80,200,0,228000,163000,135000" xlink:title="大阪府　大阪市西淀川区中島１?１３?１０" transform="ref(svg,13542.9039,-3470.3905)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,大阪府　大阪市港区築港２?６?１０,10,20,3,80,360,80,300,0,0,0,183000" xlink:title="大阪府　大阪市港区築港２?６?１０" transform="ref(svg,13543.2681,-3465.1416)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,大阪府　大阪市此花区酉島６?１２?６,10,20,2,50,2000,80,200,180000,249000,175000,146000" xlink:title="大阪府　大阪市此花区酉島６?１２?６" transform="ref(svg,13543.3651,-3468.2119)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,大阪府　大阪市西淀川区佃５?９?１１,10,20,0,80,1000,60,200,0,257000,145000,121000" xlink:title="大阪府　大阪市西淀川区佃５?９?１１" transform="ref(svg,13543.6331,-3471.2402)" x="0" y="0"/>
+</g>
+</svg>

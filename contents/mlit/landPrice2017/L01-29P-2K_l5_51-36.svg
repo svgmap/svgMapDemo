@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14167.96875 -4359.375 35.15625 35.15625" go:dataArea="14167.96875 -4359.375 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,北海道　美唄市西３条北２?２?３１,10,20,2,60,1000,60,200,19600,20400,14900,7400" xlink:title="北海道　美唄市西３条北２?２?３１" transform="ref(svg,14185.4537,-4333.5131)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　美唄市大通西１条南１?３?６,10,12,2,270,150,80,400,0,0,0,20200" xlink:title="北海道　美唄市大通西１条南１?３?６" transform="ref(svg,14185.9875,-4333.1417)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　美唄市東３条北６?４?６,10,15,2,80,1600,60,150,0,14500,11000,6100" xlink:title="北海道　美唄市東３条北６?４?６" transform="ref(svg,14186.9112,-4333.9129)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　樺戸郡新十津川町字中央５番７３,10,10,2,110,750,40,60,0,13500,10500,6500" xlink:title="北海道　樺戸郡新十津川町字中央５番７３" transform="ref(svg,14187.3543,-4355.0867)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　三笠市幸町６番１１,10,15,2,250,12000,80,400,22200,21600,17000,8800" xlink:title="北海道　三笠市幸町６番１１" transform="ref(svg,14187.5145,-4324.628)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　美唄市東６条南２?１?２５,10,10,2,63,1600,40,60,12600,12700,10500,5600" xlink:title="北海道　美唄市東６条南２?１?２５" transform="ref(svg,14187.6561,-4332.8393)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　樺戸郡新十津川町字中央１８番１０,10,25,2,220,350,80,400,0,0,14100,8000" xlink:title="北海道　樺戸郡新十津川町字中央１８番１０" transform="ref(svg,14187.6794,-4354.7633)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　三笠市幸町１８番９,10,20,2,90,12000,60,200,13800,14200,12600,7200" xlink:title="北海道　三笠市幸町１８番９" transform="ref(svg,14187.8483,-4324.7938)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　樺戸郡新十津川町字中央１２番１０８,10,15,2,100,1100,60,200,0,14000,10600,6800" xlink:title="北海道　樺戸郡新十津川町字中央１２番１０８" transform="ref(svg,14188.3417,-4354.4693)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　空知郡奈井江町字奈井江町１９３番４１,12,10,2,55,400,60,200,0,17200,13600,8200" xlink:title="北海道　空知郡奈井江町字奈井江町１９３番４１" transform="ref(svg,14188.5544,-4342.5179)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　空知郡奈井江町字奈井江町４２番１,10,35,3,270,150,80,400,0,33000,21000,9900" xlink:title="北海道　空知郡奈井江町字奈井江町４２番１" transform="ref(svg,14188.7438,-4342.3423)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　空知郡奈井江町字奈井江５７５番８３,10,12,2,80,700,60,150,0,11600,8800,5000" xlink:title="北海道　空知郡奈井江町字奈井江５７５番８３" transform="ref(svg,14189.1256,-4341.9968)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　三笠市美園町７０番３８,10,12,2,180,14000,60,200,0,10000,9600,5200" xlink:title="北海道　三笠市美園町７０番３８" transform="ref(svg,14189.3939,-4325.3353)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　砂川市西１条南１３?４?１１,10,10,2,110,1200,60,200,0,15700,13400,8900" xlink:title="北海道　砂川市西１条南１３?４?１１" transform="ref(svg,14190.1229,-4347.4426)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　滝川市中島町５?６?２０,12,10,2,105,1900,60,200,0,18000,14300,8100" xlink:title="北海道　滝川市中島町５?６?２０" transform="ref(svg,14190.3645,-4354.311)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　砂川市西１条南１?１?６,10,20,3,270,450,80,400,0,73000,36900,19000" xlink:title="北海道　砂川市西１条南１?１?６" transform="ref(svg,14190.6601,-4349.0688)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　滝川市本町１?２?１,10,15,7,220,650,80,400,185000,171000,48000,17400" xlink:title="北海道　滝川市本町１?２?１" transform="ref(svg,14190.7539,-4355.8235)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　滝川市明神町４?５?２５,10,12,2,200,1200,60,200,40200,36500,23000,12100" xlink:title="北海道　滝川市明神町４?５?２５" transform="ref(svg,14191.2192,-4355.4042)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　砂川市吉野１条北１?６?９,10,20,2,80,1100,60,200,0,12600,10000,7200" xlink:title="北海道　砂川市吉野１条北１?６?９" transform="ref(svg,14191.6919,-4349.0499)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　砂川市吉野３条南８?３?７,10,10,3,110,2300,50,80,0,13700,11100,7700" xlink:title="北海道　砂川市吉野３条南８?３?７" transform="ref(svg,14191.9563,-4348.0178)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　滝川市東町５?９?３２,20,10,1,330,2800,60,200,0,0,0,27400" xlink:title="北海道　滝川市東町５?９?３２" transform="ref(svg,14192.8119,-4355.9461)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　歌志内市字文珠１２６番１,10,20,2,160,9000,60,200,3900,3700,3500,2600" xlink:title="北海道　歌志内市字文珠１２６番１" transform="ref(svg,14200.1314,-4350.0779)" x="0" y="0"/>
+</g>
+</svg>

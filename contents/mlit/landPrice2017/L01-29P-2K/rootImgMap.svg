@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="12414.9335 -4542.191889 2145.1253899999997 2108.480445" go:dataArea="12414.9335 -4542.191889 2145.1253899999997 2108.480445" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="lvl5/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibleMaxZoom="26.66"/>
+<animation xlink:href="lvl6/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="lvl7/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibleMinZoom="53.33" visibleMaxZoom="106.66"/>
+<animation xlink:href="lvl8/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibleMinZoom="106.665" visibleMaxZoom="213.33"/>
+<animation xlink:href="lvl9/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibleMinZoom="213.33" visibleMaxZoom="426.66"/>
+<animation xlink:href="lvl10/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibleMinZoom="426.665" visibleMaxZoom="853.33"/>
+<animation xlink:href="lvl11/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibleMinZoom="853.33" visibleMaxZoom="1706.66"/>
+<animation xlink:href="lvl12/container.svg" x="-30000" y="-30000" width="60000" height="60000" visibleMinZoom="1706.665" visibleMaxZoom="3413.33"/>
+</svg>

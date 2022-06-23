@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14062.5 -3656.25 281.25 281.25" go:dataArea="14062.5 -3656.25 281.25 281.25" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="5,茨城県　鹿嶋市宮中３?１?２０,10,15,3,89,900,80,400,0,135000,37700,27300" xlink:title="茨城県　鹿嶋市宮中３?１?２０" transform="ref(svg,14062.6505,-3596.4615)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　日立市大みか町４?２６?２４,10,20,2,60,900,60,200,0,0,55200,40200" xlink:title="茨城県　日立市大みか町４?２６?２４" transform="ref(svg,14062.6684,-3650.9136)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　鹿嶋市宮中３?４?２５,12,10,2,60,1000,60,200,0,62500,31300,28000" xlink:title="茨城県　鹿嶋市宮中３?４?２５" transform="ref(svg,14062.7055,-3596.3646)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　日立市東金沢町５?９?２３,12,10,2,50,1800,60,200,0,82800,53700,38100" xlink:title="茨城県　日立市東金沢町５?９?２３" transform="ref(svg,14062.7729,-3653.7973)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　日立市桜川町２?２５?２,10,30,2,120,1000,60,200,0,133000,67600,49800" xlink:title="茨城県　日立市桜川町２?２５?２" transform="ref(svg,14062.7923,-3655.9007)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,茨城県　鹿嶋市宮中１?９?３０,10,35,2,120,730,80,400,0,0,33500,25500" xlink:title="茨城県　鹿嶋市宮中１?９?３０" transform="ref(svg,14062.8418,-3596.6191)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　日立市東金沢町３?２１?８,10,20,2,44,1500,60,200,0,86400,48900,34800" xlink:title="茨城県　日立市東金沢町３?２１?８" transform="ref(svg,14062.8979,-3654.1791)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,茨城県　日立市多賀町２?１?４,10,20,4,240,400,80,400,259000,295000,93600,60800" xlink:title="茨城県　日立市多賀町２?１?４" transform="ref(svg,14062.9598,-3655.4891)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　日立市水木町１?９?１２,15,10,2,60,1900,60,200,0,83600,48200,33800" xlink:title="茨城県　日立市水木町１?９?１２" transform="ref(svg,14062.9952,-3652.104)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,茨城県　日立市桜川町１?３?１６,10,15,3,240,900,80,400,0,0,0,52600" xlink:title="茨城県　日立市桜川町１?３?１６" transform="ref(svg,14062.9973,-3655.8033)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　日立市東多賀町４?４?６,10,10,1,55,1100,60,200,0,0,0,38900" xlink:title="茨城県　日立市東多賀町４?４?６" transform="ref(svg,14063.3529,-3654.6406)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　鹿嶋市大字宮中字三笠山５１７０番１,10,20,2,36,1700,60,200,0,51600,27900,23600" xlink:title="茨城県　鹿嶋市大字宮中字三笠山５１７０番１" transform="ref(svg,14063.5641,-3596.5693)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　日立市東多賀町２?４?１８,10,10,1,60,720,60,200,0,0,0,36700" xlink:title="茨城県　日立市東多賀町２?４?１８" transform="ref(svg,14063.7378,-3654.8176)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,茨城県　神栖市堀割１?２?３１,10,25,1,400,6100,60,200,0,63800,35600,28100" xlink:title="茨城県　神栖市堀割１?２?３１" transform="ref(svg,14063.7944,-3592.1561)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　鹿嶋市大字宮中字東山３４２番２外,10,15,2,40,2200,60,200,0,51100,27400,23400" xlink:title="茨城県　鹿嶋市大字宮中字東山３４２番２外" transform="ref(svg,14063.8974,-3596.2103)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　鹿嶋市大字佐田字久保山４７９番２外,10,10,2,60,3000,60,200,0,47800,23500,18600" xlink:title="茨城県　鹿嶋市大字佐田字久保山４７９番２外" transform="ref(svg,14064.0902,-3595.4916)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市平泉東１丁目５６番３２,10,10,0,40,8700,60,200,0,51000,25200,18600" xlink:title="茨城県　神栖市平泉東１丁目５６番３２" transform="ref(svg,14064.1146,-3590.2795)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,茨城県　神栖市大野原３?１０?１,10,20,4,400,8400,80,400,0,164000,53900,44500" xlink:title="茨城県　神栖市大野原３?１０?１" transform="ref(svg,14064.3419,-3589.7651)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,茨城県　日立市国分町１?１?１,10,25,0,150,900,60,200,0,45000,28000,19000" xlink:title="茨城県　日立市国分町１?１?１" transform="ref(svg,14064.3561,-3655.7912)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市神栖２?１４?２４,10,15,2,100,8000,60,200,0,54000,28600,21700" xlink:title="茨城県　神栖市神栖２?１４?２４" transform="ref(svg,14064.6101,-3590.1878)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市神栖３?１２?２３,10,15,2,80,9400,60,200,0,46300,26700,20800" xlink:title="茨城県　神栖市神栖３?１２?２３" transform="ref(svg,14064.8931,-3590.4896)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　鹿嶋市大字下津字新田畑６６０番４,10,15,2,40,3600,60,200,0,0,0,14000" xlink:title="茨城県　鹿嶋市大字下津字新田畑６６０番４" transform="ref(svg,14065.0768,-3598.9379)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市大野原１?４?４８,10,20,2,80,8800,60,200,0,0,0,21200" xlink:title="茨城県　神栖市大野原１?４?４８" transform="ref(svg,14065.1197,-3588.9841)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　旭市ニ字井戸尻５７８番４外,15,10,2,160,710,80,200,0,165000,74000,64000" xlink:title="千葉県　旭市ニ字井戸尻５７８番４外" transform="ref(svg,14065.1858,-3572.5289)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　旭市ロ字田町８３２番６,10,25,2,110,490,80,400,160000,119000,49000,43000" xlink:title="千葉県　旭市ロ字田町８３２番６" transform="ref(svg,14065.22,-3571.9284)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　旭市ハ字田町４９番３外,10,20,1,54,600,60,200,0,67200,40800,38400" xlink:title="千葉県　旭市ハ字田町４９番３外" transform="ref(svg,14065.3614,-3571.755)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　香取郡東庄町笹川い字宮後５５６１番３７,10,12,2,120,190,80,200,0,69800,26300,22400" xlink:title="千葉県　香取郡東庄町笹川い字宮後５５６１番３７" transform="ref(svg,14065.6842,-3584.1201)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　香取郡東庄町笹川い字西ノ内５５２２番３,10,15,2,40,530,60,200,0,37000,15800,14000" xlink:title="千葉県　香取郡東庄町笹川い字西ノ内５５２２番３" transform="ref(svg,14065.7553,-3584.3858)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　鹿嶋市港ケ丘１?１４?１５,10,10,2,80,4500,60,200,0,52600,27600,23500" xlink:title="茨城県　鹿嶋市港ケ丘１?１４?１５" transform="ref(svg,14065.788,-3597.0648)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　鹿嶋市大字平井字新押合２０番２１８,10,12,2,50,5200,60,200,0,43100,22100,14000" xlink:title="茨城県　鹿嶋市大字平井字新押合２０番２１８" transform="ref(svg,14066.9863,-3596.8063)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,茨城県　神栖市奥野谷字根岸８０８９番,10,10,0,85,9000,60,200,0,34600,21600,15000" xlink:title="茨城県　神栖市奥野谷字根岸８０８９番" transform="ref(svg,14067.7363,-3588.4887)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市知手字和手２９７５番２８,10,15,2,80,7800,60,200,0,0,0,12300" xlink:title="茨城県　神栖市知手字和手２９７５番２８" transform="ref(svg,14068.9716,-3586.9125)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　香取郡東庄町新宿字天王田７９３番５,10,20,2,60,780,60,200,0,0,0,12300" xlink:title="千葉県　香取郡東庄町新宿字天王田７９３番５" transform="ref(svg,14070.0578,-3582.4619)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,茨城県　神栖市奥野谷字浜野６２２３番６５外,15,10,2,120,13000,60,200,0,0,0,17100" xlink:title="茨城県　神栖市奥野谷字浜野６２２３番６５外" transform="ref(svg,14070.3047,-3590.9649)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市知手中央５?３?２１,10,10,2,60,8000,60,200,0,39400,25300,20400" xlink:title="茨城県　神栖市知手中央５?３?２１" transform="ref(svg,14071.1126,-3587.3543)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市矢田部字中２９２６番３,10,15,2,80,10000,60,200,0,15500,13900,10200" xlink:title="茨城県　神栖市矢田部字中２９２６番３" transform="ref(svg,14075.5527,-3578.8141)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　銚子市三崎町３丁目４番８,12,10,2,45,4500,60,200,0,0,21200,20200" xlink:title="千葉県　銚子市三崎町３丁目４番８" transform="ref(svg,14078.0615,-3571.0114)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　銚子市松岸町３丁目２２０番１０外,10,20,2,52,480,60,200,48800,72000,38800,36500" xlink:title="千葉県　銚子市松岸町３丁目２２０番１０外" transform="ref(svg,14079.5235,-3574.3243)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市波崎字後口１８１７番外,10,25,2,45,6000,60,200,8500,9250,8950,6750" xlink:title="茨城県　神栖市波崎字後口１８１７番外" transform="ref(svg,14080.9321,-3577.1064)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市波崎字田端７１７２番,10,10,2,60,3500,60,200,0,0,0,15300" xlink:title="茨城県　神栖市波崎字田端７１７２番" transform="ref(svg,14081.1557,-3575.0293)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市波崎字小玉台６８６４番１１,10,20,2,50,4300,60,200,0,0,27600,19700" xlink:title="茨城県　神栖市波崎字小玉台６８６４番１１" transform="ref(svg,14081.3453,-3575.6073)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　銚子市清川町２丁目２番１４外,10,15,2,60,760,60,200,0,0,0,51400" xlink:title="千葉県　銚子市清川町２丁目２番１４外" transform="ref(svg,14082.0777,-3572.9065)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　銚子市清川町１丁目９番１０,10,12,4,119,600,80,200,0,151000,54500,51100" xlink:title="千葉県　銚子市清川町１丁目９番１０" transform="ref(svg,14082.2596,-3572.8574)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市波崎字本郷新田８４７０番１,12,10,1,80,2700,60,200,0,42100,25900,19400" xlink:title="茨城県　神栖市波崎字本郷新田８４７０番１" transform="ref(svg,14082.2791,-3574.9883)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　銚子市栄町４丁目１５３８番２,10,20,2,35,510,60,200,0,91500,44400,40100" xlink:title="千葉県　銚子市栄町４丁目１５３８番２" transform="ref(svg,14082.8212,-3572.6082)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　銚子市末広町１番１０,12,10,3,201,590,80,400,0,298000,87500,74000" xlink:title="千葉県　銚子市末広町１番１０" transform="ref(svg,14083.0931,-3573.2411)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　神栖市波崎字豊ケ崎９１７８番３,10,12,2,60,3200,60,200,0,37200,23100,15700" xlink:title="茨城県　神栖市波崎字豊ケ崎９１７８番３" transform="ref(svg,14083.1072,-3574.7722)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　銚子市和田町１１番４,10,20,3,150,1800,80,400,0,0,51300,41800" xlink:title="千葉県　銚子市和田町１１番４" transform="ref(svg,14084.3435,-3573.2954)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　銚子市橋本町２２４５番２外,10,15,2,50,2200,60,200,0,0,37000,31600" xlink:title="千葉県　銚子市橋本町２２４５番２外" transform="ref(svg,14084.8024,-3573.4048)" x="0" y="0"/>
+</g>
+</svg>

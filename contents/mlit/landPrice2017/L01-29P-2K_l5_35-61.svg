@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13605.46875 -3480.46875 35.15625 35.15625" go:dataArea="13605.46875 -3480.46875 35.15625 35.15625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,三重県　名張市新町１２８番１,10,35,2,53,980,80,300,0,0,0,38000" xlink:title="三重県　名張市新町１２８番１" transform="ref(svg,13608.707,-3461.8572)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　名張市丸之内３７番２,10,40,6,120,150,80,400,0,260000,111000,75500" xlink:title="三重県　名張市丸之内３７番２" transform="ref(svg,13609.4146,-3462.1386)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　名張市平尾３２５８番,10,15,2,40,380,60,200,0,0,45300,32000" xlink:title="三重県　名張市平尾３２５８番" transform="ref(svg,13609.526,-3461.9126)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　名張市緑が丘東１２５番,10,15,2,60,1100,60,100,0,59000,31200,25500" xlink:title="三重県　名張市緑が丘東１２５番" transform="ref(svg,13610.4803,-3464.2221)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市長田字樋口１０１８番,10,12,2,52,1600,60,200,0,0,13700,10200" xlink:title="三重県　伊賀市長田字樋口１０１８番" transform="ref(svg,13610.7206,-3476.6503)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市東高倉字田中寺１２４４番外,10,20,2,40,600,60,200,0,0,22000,15200" xlink:title="三重県　伊賀市東高倉字田中寺１２４４番外" transform="ref(svg,13611.0709,-3478.5677)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,三重県　伊賀市小田町字西出１６５７番外,20,10,0,55,1000,60,200,0,34500,20000,14000" xlink:title="三重県　伊賀市小田町字西出１６５７番外" transform="ref(svg,13611.5786,-3476.981)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市小田町字南出１４９９番７,10,20,2,60,800,60,200,0,67000,44500,35200" xlink:title="三重県　伊賀市小田町字南出１４９９番７" transform="ref(svg,13611.9465,-3477.0539)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　名張市桔梗が丘３番町４街区６番,10,15,2,60,960,50,100,0,0,56500,45800" xlink:title="三重県　名張市桔梗が丘３番町４街区６番" transform="ref(svg,13611.9812,-3464.5102)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　名張市西原町字愛宕２２８０番,10,15,2,110,2200,60,200,0,44000,29400,19900" xlink:title="三重県　名張市西原町字愛宕２２８０番" transform="ref(svg,13612.1419,-3465.8234)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　名張市桔梗が丘２番町５街区６６番,10,10,2,200,950,60,200,0,0,0,58000" xlink:title="三重県　名張市桔梗が丘２番町５街区６６番" transform="ref(svg,13612.1683,-3464.0839)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市上野福居町１２６３番６,12,10,2,46,560,60,200,0,0,35500,28200" xlink:title="三重県　伊賀市上野福居町１２６３番６" transform="ref(svg,13612.185,-3476.4976)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊賀市小田町字稲久保２３８番１外,10,15,1,210,990,60,200,0,0,79000,62600" xlink:title="三重県　伊賀市小田町字稲久保２３８番１外" transform="ref(svg,13612.4463,-3477.4439)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市三田字出口１０８６番外,10,40,2,80,300,60,200,0,0,35300,25500" xlink:title="三重県　伊賀市三田字出口１０８６番外" transform="ref(svg,13612.6366,-3478.9054)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市上野万町２２５２番,10,55,2,40,1000,60,200,44600,59500,47700,33900" xlink:title="三重県　伊賀市上野万町２２５２番" transform="ref(svg,13612.7028,-3475.9723)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊賀市上野東町２９６８番,10,50,3,77,200,80,400,0,0,86000,56100" xlink:title="三重県　伊賀市上野東町２９６８番" transform="ref(svg,13613.0156,-3476.5998)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊賀市上野東町２９６１番,10,10,2,180,250,80,400,0,0,110000,77400" xlink:title="三重県　伊賀市上野東町２９６１番" transform="ref(svg,13613.0952,-3476.6129)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,三重県　伊賀市三田字東大町４１０番３外,20,10,0,120,1000,60,200,0,35700,19800,14400" xlink:title="三重県　伊賀市三田字東大町４１０番３外" transform="ref(svg,13613.1123,-3479.0042)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市上野丸之内１３１番３,10,40,2,63,330,60,200,0,0,0,47100" xlink:title="三重県　伊賀市上野丸之内１３１番３" transform="ref(svg,13613.1271,-3476.9264)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市上野池町１２８２番,10,20,2,45,300,60,200,0,0,58300,40200" xlink:title="三重県　伊賀市上野池町１２８２番" transform="ref(svg,13613.3481,-3476.233)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊賀市平野西町６１番外,10,15,1,160,1200,60,200,0,0,0,75500" xlink:title="三重県　伊賀市平野西町６１番外" transform="ref(svg,13613.4566,-3477.2969)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊賀市上野農人町４２８番６,10,25,2,67,0,80,300,102000,104000,53900,40300" xlink:title="三重県　伊賀市上野農人町４２８番６" transform="ref(svg,13613.4818,-3476.6539)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市上野桑町１４１１番外,10,45,2,60,320,60,200,0,74500,50500,35700" xlink:title="三重県　伊賀市上野桑町１４１１番外" transform="ref(svg,13613.506,-3475.6708)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市猪田字横枕２６１２番１外,15,10,2,40,1600,60,200,0,15000,12700,9600" xlink:title="三重県　伊賀市猪田字横枕２６１２番１外" transform="ref(svg,13613.5614,-3472.3733)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市上野田端町９２０番２５,10,15,2,53,900,60,200,0,0,45900,33400" xlink:title="三重県　伊賀市上野田端町９２０番２５" transform="ref(svg,13614.1415,-3476.6292)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊賀市問屋町２０番外,10,10,2,150,740,80,200,0,0,39800,28400" xlink:title="三重県　伊賀市問屋町２０番外" transform="ref(svg,13614.256,-3475.2619)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市服部町字中之坊１１１６番２２,10,10,2,52,2000,60,200,0,0,0,29600" xlink:title="三重県　伊賀市服部町字中之坊１１１６番２２" transform="ref(svg,13614.2712,-3478.0161)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市緑ヶ丘南町３９６８番１２,10,10,2,50,1600,60,200,0,0,51200,42000" xlink:title="三重県　伊賀市緑ヶ丘南町３９６８番１２" transform="ref(svg,13614.8618,-3475.8021)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊賀市下友生字廣川原２６７８番４外,10,25,2,210,1700,60,200,0,0,0,25400" xlink:title="三重県　伊賀市下友生字廣川原２６７８番４外" transform="ref(svg,13615.0477,-3475.1338)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,三重県　伊賀市西明寺２８０６番１,10,35,2,76,1800,60,200,0,43000,32600,23500" xlink:title="三重県　伊賀市西明寺２８０６番１" transform="ref(svg,13615.1294,-3475.6633)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　伊賀市阿保字楳ケ森４０番４外,10,20,2,60,100,60,200,0,72500,45300,31400" xlink:title="三重県　伊賀市阿保字楳ケ森４０番４外" transform="ref(svg,13617.8238,-3467.176)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　伊賀市桐ケ丘５丁目１３７番,10,15,2,65,2100,60,100,0,43500,22500,15600" xlink:title="三重県　伊賀市桐ケ丘５丁目１３７番" transform="ref(svg,13619.3136,-3466.1835)" x="0" y="0"/>
+</g>
+</svg>

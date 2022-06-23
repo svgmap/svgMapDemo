@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13500.0 -3375.0 1125.0 1125.0" go:dataArea="13500.0 -3375.0 1125.0 1125.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="5,和歌山県　西牟婁郡白浜町字浜通リ３７４２番２４外,10,15,2,120,4700,80,400,0,0,95500,65100" xlink:title="和歌山県　西牟婁郡白浜町字浜通リ３７４２番２４外" transform="ref(svg,13534.3142,-3367.8584)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　西牟婁郡白浜町字ダイ田奥１０８８番１０,10,20,2,40,4900,60,200,0,104000,64000,39500" xlink:title="和歌山県　西牟婁郡白浜町字ダイ田奥１０８８番１０" transform="ref(svg,13534.8803,-3368.7306)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　田辺市古尾８?３,10,20,2,42,1800,60,200,0,79000,55300,31400" xlink:title="和歌山県　田辺市古尾８?３" transform="ref(svg,13537.2593,-3373.6193)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　田辺市下屋敷町２１番６外,10,30,3,90,440,80,400,402000,412000,130000,69800" xlink:title="和歌山県　田辺市下屋敷町２１番６外" transform="ref(svg,13538.2092,-3373.0226)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　田辺市湊１５?５,10,30,4,150,160,80,400,0,590000,171000,89900" xlink:title="和歌山県　田辺市湊１５?５" transform="ref(svg,13538.2802,-3373.2226)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　田辺市磯間２３?１３,10,15,2,60,1700,60,200,0,0,72000,45300" xlink:title="和歌山県　田辺市磯間２３?１３" transform="ref(svg,13538.4135,-3372.1083)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　西牟婁郡白浜町堅田字坂巻２７６０番４４,10,15,2,52,1800,60,200,0,66000,43300,34200" xlink:title="和歌山県　西牟婁郡白浜町堅田字坂巻２７６０番４４" transform="ref(svg,13538.7648,-3366.4697)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　田辺市南新万２?６,10,15,2,60,1300,60,200,0,115000,94000,105000" xlink:title="和歌山県　田辺市南新万２?６" transform="ref(svg,13539.2942,-3373.0982)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　田辺市神島台１９?５,12,10,2,60,4400,60,200,0,97000,70800,65400" xlink:title="和歌山県　田辺市神島台１９?５" transform="ref(svg,13540.2374,-3370.6674)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　西牟婁郡上富田町南紀の台１９?２８,10,15,2,48,2700,60,200,0,0,41000,31100" xlink:title="和歌山県　西牟婁郡上富田町南紀の台１９?２８" transform="ref(svg,13540.3546,-3370.0263)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　西牟婁郡上富田町朝来字里田１４００番１,10,15,3,75,180,60,200,0,0,67500,42000" xlink:title="和歌山県　西牟婁郡上富田町朝来字里田１４００番１" transform="ref(svg,13541.83,-3369.5049)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　西牟婁郡上富田町朝来字沖之芝７９３番１,10,10,2,48,1400,60,200,0,0,43500,34700" xlink:title="和歌山県　西牟婁郡上富田町朝来字沖之芝７９３番１" transform="ref(svg,13542.7694,-3369.4783)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　西牟婁郡白浜町日置字蛇原２０３９番６２,12,10,2,100,4200,70,200,0,0,0,25800" xlink:title="和歌山県　西牟婁郡白浜町日置字蛇原２０３９番６２" transform="ref(svg,13543.1962,-3357.0445)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　西牟婁郡白浜町日置字海蔵寺前１６９番６,15,10,1,37,3200,70,200,0,0,0,14800" xlink:title="和歌山県　西牟婁郡白浜町日置字海蔵寺前１６９番６" transform="ref(svg,13544.5021,-3356.9263)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　西牟婁郡すさみ町周参見字山本１８２４番１,10,25,2,50,1400,70,200,0,0,16000,11500" xlink:title="和歌山県　西牟婁郡すさみ町周参見字山本１８２４番１" transform="ref(svg,13549.0819,-3355.7181)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　西牟婁郡すさみ町周参見字中之町４２３２番,10,30,2,45,270,70,200,0,0,31000,20600" xlink:title="和歌山県　西牟婁郡すさみ町周参見字中之町４２３２番" transform="ref(svg,13549.407,-3354.8051)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　西牟婁郡すさみ町周参見字後ロ地４２７２番４,10,20,2,46,120,70,200,0,0,48000,29500" xlink:title="和歌山県　西牟婁郡すさみ町周参見字後ロ地４２７２番４" transform="ref(svg,13549.5426,-3354.7838)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　東牟婁郡串本町串本字沖之芝生２４５番１,10,12,1,35,500,70,300,0,0,49500,25100" xlink:title="和歌山県　東牟婁郡串本町串本字沖之芝生２４５番１" transform="ref(svg,13577.9549,-3347.2664)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　東牟婁郡串本町串本字小森生４２番２４外,10,20,3,65,110,70,300,0,150000,76000,38100" xlink:title="和歌山県　東牟婁郡串本町串本字小森生４２番２４外" transform="ref(svg,13578.1525,-3347.471)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　東牟婁郡串本町サンゴ台１１８４番２８,10,15,2,60,1500,70,300,0,0,0,49300" xlink:title="和歌山県　東牟婁郡串本町サンゴ台１１８４番２８" transform="ref(svg,13578.5865,-3348.334)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　東牟婁郡串本町西向字横畑９４６番外,10,12,1,30,1300,70,200,0,40000,28900,15400" xlink:title="和歌山県　東牟婁郡串本町西向字横畑９４６番外" transform="ref(svg,13581.7152,-3350.9887)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　東牟婁郡太地町大字森浦字汐入５５１番３９,10,15,2,55,800,70,200,0,40000,29700,16600" xlink:title="和歌山県　東牟婁郡太地町大字森浦字汐入５５１番３９" transform="ref(svg,13593.3388,-3359.1566)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　東牟婁郡那智勝浦町大字天満字須崎７４９番５,10,20,2,40,500,70,300,0,65000,45300,27500" xlink:title="和歌山県　東牟婁郡那智勝浦町大字天満字須崎７４９番５" transform="ref(svg,13593.7032,-3363.4003)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　東牟婁郡那智勝浦町築地４?２?９,10,20,2,140,0,70,300,0,0,0,45900" xlink:title="和歌山県　東牟婁郡那智勝浦町築地４?２?９" transform="ref(svg,13594.2381,-3362.8294)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　東牟婁郡太地町大字太地字丹甫３５６９番４,10,10,2,95,2700,70,200,0,59500,39900,22200" xlink:title="和歌山県　東牟婁郡太地町大字太地字丹甫３５６９番４" transform="ref(svg,13594.4862,-3358.8629)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　東牟婁郡那智勝浦町大字宇久井字鍛治谷口１７３０番１５１,10,15,2,60,1600,70,200,0,0,0,24500" xlink:title="和歌山県　東牟婁郡那智勝浦町大字宇久井字鍛治谷口１７３０番１５１" transform="ref(svg,13596.081,-3365.9509)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　新宮市三輪崎字岡崎１２２０番１０,10,15,2,47,800,60,150,0,0,0,31000" xlink:title="和歌山県　新宮市三輪崎字岡崎１２２０番１０" transform="ref(svg,13597.8266,-3368.8719)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　新宮市磐盾１９３４番４,10,10,0,50,1600,60,200,0,88500,69000,44300" xlink:title="和歌山県　新宮市磐盾１９３４番４" transform="ref(svg,13598.2309,-3372.0222)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　新宮市馬町２丁目３番２,10,25,3,79,1100,80,400,0,0,0,65200" xlink:title="和歌山県　新宮市馬町２丁目３番２" transform="ref(svg,13598.7498,-3372.8437)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,和歌山県　新宮市井の沢３?５,10,20,3,160,450,80,300,0,224000,124000,79000" xlink:title="和歌山県　新宮市井の沢３?５" transform="ref(svg,13599.1709,-3372.3342)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,和歌山県　新宮市熊野地２?８?１０,10,25,2,40,950,60,200,0,72000,58000,32900" xlink:title="和歌山県　新宮市熊野地２?８?１０" transform="ref(svg,13600.3548,-3372.241)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　八丈町大賀郷２２８４番,10,12,1,50,270,70,200,0,16800,16500,12200" xlink:title="東京都　八丈町大賀郷２２８４番" transform="ref(svg,13978.9179,-3310.6773)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,東京都　八丈町三根３４９番１,10,12,3,135,0,70,200,0,0,0,31100" xlink:title="東京都　八丈町三根３４９番１" transform="ref(svg,13980.2404,-3311.9229)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　八丈町中之郷１６８２番,10,10,1,60,120,70,200,0,8400,8300,6000" xlink:title="東京都　八丈町中之郷１６８２番" transform="ref(svg,13981.2594,-3306.518)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　小笠原村父島字西町２６番４,10,15,2,58,600,70,200,0,0,55000,58000" xlink:title="東京都　小笠原村父島字西町２６番４" transform="ref(svg,14219.084,-2709.4612)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,東京都　小笠原村父島字東町２０番８,10,30,3,170,230,70,200,0,0,0,75000" xlink:title="東京都　小笠原村父島字東町２０番８" transform="ref(svg,14219.4011,-2709.4935)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,東京都　小笠原村父島字奥村２３番６,10,15,2,60,1000,70,200,0,23600,23600,23600" xlink:title="東京都　小笠原村父島字奥村２３番６" transform="ref(svg,14220.3304,-2709.782)" x="0" y="0"/>
+</g>
+</svg>

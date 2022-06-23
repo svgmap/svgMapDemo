@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14132.8125 -3937.5 70.3125 70.3125" go:dataArea="14132.8125 -3937.5 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,岩手県　一関市千厩町千厩字北方８２番１,10,12,2,60,1700,60,200,0,52500,43600,24500" xlink:title="岩手県　一関市千厩町千厩字北方８２番１" transform="ref(svg,14132.997,-3891.9207)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岩手県　一関市千厩町千厩字町１７番２,10,80,3,90,1200,80,400,0,0,0,30200" xlink:title="岩手県　一関市千厩町千厩字町１７番２" transform="ref(svg,14133.4773,-3891.9646)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岩手県　一関市千厩町千厩字舘山６番１,15,10,1,160,1600,60,200,0,0,0,35100" xlink:title="岩手県　一関市千厩町千厩字舘山６番１" transform="ref(svg,14133.5613,-3891.7447)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　一関市千厩町千厩字石堂１５番２０,10,15,2,50,600,60,200,0,35500,32100,19100" xlink:title="岩手県　一関市千厩町千厩字石堂１５番２０" transform="ref(svg,14134.2683,-3892.1857)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　本吉郡南三陸町志津川字廻館１５番１４９,10,15,2,60,700,50,60,0,0,0,19000" xlink:title="宮城県　本吉郡南三陸町志津川字廻館１５番１４９" transform="ref(svg,14143.7385,-3868.4936)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　本吉郡南三陸町志津川字沼田１００番３９,10,12,2,60,420,70,200,0,0,0,22600" xlink:title="宮城県　本吉郡南三陸町志津川字沼田１００番３９" transform="ref(svg,14146.2211,-3868.3415)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,宮城県　本吉郡南三陸町志津川字沼田１５０番７９,10,20,2,115,1000,70,200,0,0,0,16600" xlink:title="宮城県　本吉郡南三陸町志津川字沼田１５０番７９" transform="ref(svg,14146.403,-3868.8654)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　遠野市下組町４?５,10,15,2,45,1600,40,80,22800,22800,19600,15300" xlink:title="岩手県　遠野市下組町４?５" transform="ref(svg,14151.9806,-3932.5608)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　遠野市早瀬町４?３?３,10,20,2,70,850,40,80,0,0,22100,19900" xlink:title="岩手県　遠野市早瀬町４?３?３" transform="ref(svg,14152.9622,-3933.8219)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岩手県　遠野市中央通り５?３２,10,25,2,120,340,80,400,108000,101000,68500,37400" xlink:title="岩手県　遠野市中央通り５?３２" transform="ref(svg,14152.9924,-3932.9673)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　遠野市東穀町８?３４,10,12,2,60,800,60,200,0,38200,33200,24700" xlink:title="岩手県　遠野市東穀町８?３４" transform="ref(svg,14153.7149,-3932.9227)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　気仙沼市東新城１丁目５番４,10,15,2,80,1400,60,200,0,0,34700,47500" xlink:title="宮城県　気仙沼市東新城１丁目５番４" transform="ref(svg,14155.148,-3890.7849)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　気仙沼市上田中１丁目６番３,10,15,2,80,3600,60,200,0,0,0,50100" xlink:title="宮城県　気仙沼市上田中１丁目６番３" transform="ref(svg,14155.4058,-3888.885)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　気仙沼市岩月長平８１番２１,10,12,2,50,8000,70,200,0,0,0,22200" xlink:title="宮城県　気仙沼市岩月長平８１番２１" transform="ref(svg,14156.4744,-3886.0283)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　気仙沼市松崎萱１０２番２３,10,15,2,60,4400,60,200,0,0,0,29000" xlink:title="宮城県　気仙沼市松崎萱１０２番２３" transform="ref(svg,14156.8566,-3887.9111)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,宮城県　気仙沼市八日町２?２?１,10,35,2,120,1200,80,400,0,0,0,38000" xlink:title="宮城県　気仙沼市八日町２?２?１" transform="ref(svg,14157.0304,-3890.7229)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,宮城県　気仙沼市南郷１１番１７,10,15,2,60,2500,60,200,0,70700,46600,34600" xlink:title="宮城県　気仙沼市南郷１１番１７" transform="ref(svg,14157.0816,-3889.2861)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　陸前高田市高田町字鳴石５１番９６,10,12,2,60,900,60,200,0,0,0,23200" xlink:title="岩手県　陸前高田市高田町字鳴石５１番９６" transform="ref(svg,14163.1486,-3902.5236)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　陸前高田市高田町字西和野１３４番６外,15,10,2,45,850,60,200,0,0,22500,22400" xlink:title="岩手県　陸前高田市高田町字西和野１３４番６外" transform="ref(svg,14163.4087,-3902.1261)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　陸前高田市高田町字中田７７番４,10,20,2,60,1800,70,200,0,0,0,14700" xlink:title="岩手県　陸前高田市高田町字中田７７番４" transform="ref(svg,14164.929,-3901.6512)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岩手県　大船渡市盛町字木町３番４,10,20,2,100,650,80,400,0,0,0,46000" xlink:title="岩手県　大船渡市盛町字木町３番４" transform="ref(svg,14170.7144,-3909.0199)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　大船渡市大船渡町字明神前１１番１４,10,20,2,110,700,60,200,39600,41000,37200,40100" xlink:title="岩手県　大船渡市大船渡町字明神前１１番１４" transform="ref(svg,14171.4883,-3906.1137)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　大船渡市立根町字中野２５番２内,10,10,2,50,3300,60,200,26100,27800,27000,33100" xlink:title="岩手県　大船渡市立根町字中野２５番２内" transform="ref(svg,14171.5799,-3911.1241)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　大船渡市大船渡町字下平１９番６,10,15,1,60,800,60,200,0,25300,24000,24800" xlink:title="岩手県　大船渡市大船渡町字下平１９番６" transform="ref(svg,14171.9283,-3904.2644)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岩手県　大船渡市赤崎町字沢田１０４番１５外,12,10,1,120,1300,60,200,0,0,0,32700" xlink:title="岩手県　大船渡市赤崎町字沢田１０４番１５外" transform="ref(svg,14171.9991,-3908.5188)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岩手県　釜石市野田町２?１４?３３,15,10,1,160,1500,80,200,0,84500,67000,53100" xlink:title="岩手県　釜石市野田町２?１４?３３" transform="ref(svg,14182.2627,-3925.7348)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　釜石市定内町２?４?３,12,10,2,40,600,60,200,0,44000,38400,39300" xlink:title="岩手県　釜石市定内町２?４?３" transform="ref(svg,14183.7301,-3926.0189)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　釜石市中妻町２?７?４,10,12,2,60,1500,60,200,0,70500,59500,55000" xlink:title="岩手県　釜石市中妻町２?７?４" transform="ref(svg,14185.7529,-3927.1387)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,岩手県　釜石市鈴子町４?７,10,20,2,200,220,80,400,0,0,0,56900" xlink:title="岩手県　釜石市鈴子町４?７" transform="ref(svg,14187.0601,-3927.3057)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　釜石市大平町１?１２?５,10,15,2,57,2700,60,200,0,0,0,28200" xlink:title="岩手県　釜石市大平町１?１２?５" transform="ref(svg,14189.0988,-3926.0208)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　上閉伊郡大槌町大槌第１６地割字大石前２０番４９,10,12,2,60,170,60,200,0,0,0,28300" xlink:title="岩手県　上閉伊郡大槌町大槌第１６地割字大石前２０番４９" transform="ref(svg,14189.8233,-3936.7584)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　上閉伊郡大槌町赤浜３?１?２５,10,12,2,60,650,60,200,0,0,0,18500" xlink:title="岩手県　上閉伊郡大槌町赤浜３?１?２５" transform="ref(svg,14193.6074,-3935.394)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,岩手県　上閉伊郡大槌町吉里吉里２?９?２６,10,12,2,135,160,60,200,0,0,0,23400" xlink:title="岩手県　上閉伊郡大槌町吉里吉里２?９?２６" transform="ref(svg,14193.6853,-3936.6735)" x="0" y="0"/>
+</g>
+</svg>

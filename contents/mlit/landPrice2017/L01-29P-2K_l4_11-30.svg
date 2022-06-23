@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13148.4375 -3515.625 70.3125 70.3125" go:dataArea="13148.4375 -3515.625 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="5,島根県　鹿足郡津和野町後田ロ２１０番,10,80,2,63,550,70,200,0,89200,71700,42000" xlink:title="島根県　鹿足郡津和野町後田ロ２１０番" transform="ref(svg,13177.4269,-3446.8686)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　鹿足郡津和野町後田ロ１３７番２０外,10,12,2,62,200,70,200,0,52500,44800,33000" xlink:title="島根県　鹿足郡津和野町後田ロ１３７番２０外" transform="ref(svg,13177.5391,-3447.2262)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,島根県　益田市高津５?３４?９,25,10,2,165,3100,80,200,0,0,0,63800" xlink:title="島根県　益田市高津５?３４?９" transform="ref(svg,13181.6008,-3468.9568)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　益田市高津５?３２?１９,10,12,2,42,3000,60,200,0,0,0,36600" xlink:title="島根県　益田市高津５?３２?１９" transform="ref(svg,13181.7744,-3468.8978)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,島根県　益田市駅前町２６?２,10,30,4,0,0,80,400,215000,221000,151000,79000" xlink:title="島根県　益田市駅前町２６?２" transform="ref(svg,13183.8713,-3467.7885)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,島根県　益田市乙吉町イ１０３番４,10,20,2,120,1400,80,400,0,158000,109000,56200" xlink:title="島根県　益田市乙吉町イ１０３番４" transform="ref(svg,13184.2234,-3468.3752)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　益田市常盤町９?３２,10,30,2,40,900,60,200,0,0,0,37200" xlink:title="島根県　益田市常盤町９?３２" transform="ref(svg,13184.4397,-3467.3391)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　益田市幸町１?４０,10,15,2,120,1600,60,200,0,0,0,40200" xlink:title="島根県　益田市幸町１?４０" transform="ref(svg,13185.4059,-3467.1889)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　益田市三宅町９?１４,10,20,2,42,2100,60,200,0,46000,47300,38500" xlink:title="島根県　益田市三宅町９?１４" transform="ref(svg,13185.5511,-3467.7787)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　浜田市三隅町古市場１２５０番１０外,10,25,2,45,2900,60,200,0,14400,14200,11200" xlink:title="島根県　浜田市三隅町古市場１２５０番１０外" transform="ref(svg,13193.4285,-3478.5867)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,島根県　浜田市三隅町西河内４７１番２,10,35,3,105,80,70,200,0,0,0,20800" xlink:title="島根県　浜田市三隅町西河内４７１番２" transform="ref(svg,13195.6953,-3479.5507)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　浜田市三隅町三隅１１８４番,10,30,2,70,2500,60,200,0,36400,36300,27200" xlink:title="島根県　浜田市三隅町三隅１１８４番" transform="ref(svg,13196.3424,-3477.7348)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　益田市匹見町匹見イ６７６番１,10,15,2,43,30000,70,200,0,4250,4400,3600" xlink:title="島根県　益田市匹見町匹見イ６７６番１" transform="ref(svg,13202.2359,-3456.8559)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　浜田市笠柄町１０８番,10,10,2,60,4300,60,200,0,48100,49200,38700" xlink:title="島根県　浜田市笠柄町１０８番" transform="ref(svg,13206.2886,-3488.0577)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,島根県　浜田市片庭町２５４番４,10,25,2,160,2000,80,300,0,0,0,50100" xlink:title="島根県　浜田市片庭町２５４番４" transform="ref(svg,13207.2097,-3489.7248)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,島根県　浜田市黒川町４１８９番,10,25,5,200,150,80,500,231000,287000,164000,92400" xlink:title="島根県　浜田市黒川町４１８９番" transform="ref(svg,13208.9939,-3490.1421)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　浜田市相生町３９６４番,10,15,2,80,1100,60,200,73500,78100,69200,50000" xlink:title="島根県　浜田市相生町３９６４番" transform="ref(svg,13209.3556,-3489.4312)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,島根県　浜田市国分町７６２番,12,10,2,40,1800,60,200,31500,32400,30300,23900" xlink:title="島根県　浜田市国分町７６２番" transform="ref(svg,13211.2072,-3494.1427)" x="0" y="0"/>
+</g>
+</svg>

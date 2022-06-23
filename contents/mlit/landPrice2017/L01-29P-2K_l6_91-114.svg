@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13974.609375 -3621.09375 17.578125 17.578125" go:dataArea="13974.609375 -3621.09375 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,茨城県　古河市東牛谷字新田前４５６番４,10,15,2,70,4200,60,200,0,0,35300,30400" xlink:title="茨城県　古河市東牛谷字新田前４５６番４" transform="ref(svg,13974.8543,-3620.4807)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　古河市関戸字稲荷前１６３０番１０,10,15,2,40,4200,40,80,0,71400,34100,29100" xlink:title="茨城県　古河市関戸字稲荷前１６３０番１０" transform="ref(svg,13975.2863,-3619.2396)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　古河市小堤字上中新田２９３番６,10,15,2,60,5800,60,200,0,0,14900,13200" xlink:title="茨城県　古河市小堤字上中新田２９３番６" transform="ref(svg,13976.4344,-3621.0294)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　古河市下大野字原山８８１番４,10,12,2,40,6700,60,200,0,15000,13900,12000" xlink:title="茨城県　古河市下大野字原山８８１番４" transform="ref(svg,13976.7616,-3617.1928)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　古河市久能字三番割１１２３番６,10,15,2,40,7100,60,200,0,57600,31900,29000" xlink:title="茨城県　古河市久能字三番割１１２３番６" transform="ref(svg,13976.9031,-3616.2974)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,埼玉県　北葛飾郡杉戸町大字並塚１８３６番２,12,10,2,46,4900,60,100,0,0,0,15300" xlink:title="埼玉県　北葛飾郡杉戸町大字並塚１８３６番２" transform="ref(svg,13976.9192,-3604.0956)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　野田市関宿台町字東十一２５４６番１,10,12,2,60,11000,50,100,0,0,0,19400" xlink:title="千葉県　野田市関宿台町字東十一２５４６番１" transform="ref(svg,13978.8709,-3608.9858)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　猿島郡境町字宮後１８１１番４,10,20,2,60,13000,60,200,0,54100,30900,26300" xlink:title="茨城県　猿島郡境町字宮後１８１１番４" transform="ref(svg,13979.252,-3610.9839)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　猿島郡境町字中通３８３番５,10,12,2,42,13000,60,200,0,70300,34000,27500" xlink:title="茨城県　猿島郡境町字中通３８３番５" transform="ref(svg,13979.5567,-3610.8692)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　猿島郡境町大字長井戸字志辺９９６番４,10,12,1,46,16000,60,200,0,0,0,11600" xlink:title="茨城県　猿島郡境町大字長井戸字志辺９９６番４" transform="ref(svg,13979.5897,-3613.2238)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　猿島郡境町字松ノ岡２１８９番４５,10,12,2,45,14000,60,200,0,61800,29900,25900" xlink:title="茨城県　猿島郡境町字松ノ岡２１８９番４５" transform="ref(svg,13979.6471,-3611.8191)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,茨城県　猿島郡境町字向地７８９番１,10,10,1,160,12000,60,200,0,102000,50100,35500" xlink:title="茨城県　猿島郡境町字向地７８９番１" transform="ref(svg,13979.7648,-3610.7026)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　猿島郡境町字下田６５０番５,10,15,2,50,13000,40,80,0,60200,29900,25100" xlink:title="茨城県　猿島郡境町字下田６５０番５" transform="ref(svg,13980.177,-3610.7269)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　古河市諸川字十日山１７９５番１６,10,20,2,45,11000,40,80,0,55800,29000,21900" xlink:title="茨城県　古河市諸川字十日山１７９５番１６" transform="ref(svg,13981.0249,-3620.2192)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　古河市諸川字海道西１２０９番７,10,10,2,55,11000,40,80,0,59200,31500,24400" xlink:title="茨城県　古河市諸川字海道西１２０９番７" transform="ref(svg,13981.2433,-3619.9209)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,茨城県　古河市諸川字中町谷６４５番２,10,20,2,100,11000,60,200,0,95000,49200,32100" xlink:title="茨城県　古河市諸川字中町谷６４５番２" transform="ref(svg,13981.7971,-3620.0845)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　野田市なみき２丁目３３番２,12,10,2,46,7900,60,150,48000,86800,39000,28800" xlink:title="千葉県　野田市なみき２丁目３３番２" transform="ref(svg,13982.1254,-3603.816)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　猿島郡境町大字伏木字関根３５３２番１,10,20,2,60,15000,60,200,0,0,0,11000" xlink:title="茨城県　猿島郡境町大字伏木字関根３５３２番１" transform="ref(svg,13982.9602,-3609.9282)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　古河市尾崎字殿山４３１４番１２,12,10,2,60,13000,60,200,0,0,0,11800" xlink:title="茨城県　古河市尾崎字殿山４３１４番１２" transform="ref(svg,13984.1429,-3618.4953)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市生子字宿坪２１８２番,10,20,2,36,24000,60,200,0,12500,11800,10200" xlink:title="茨城県　坂東市生子字宿坪２１８２番" transform="ref(svg,13985.5017,-3610.2591)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市長須字新久裏３６９１番１,10,20,2,67,9600,60,200,0,14500,12100,10700" xlink:title="茨城県　坂東市長須字新久裏３６９１番１" transform="ref(svg,13985.6679,-3605.4348)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　結城郡八千代町大字西大山字瓦ケ台５２４番３,15,10,2,50,10000,60,200,0,0,0,9350" xlink:title="茨城県　結城郡八千代町大字西大山字瓦ケ台５２４番３" transform="ref(svg,13986.6879,-3620.3594)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市岩井字篠山４８９９番６,10,15,2,78,18000,60,200,0,0,0,27800" xlink:title="茨城県　坂東市岩井字篠山４８９９番６" transform="ref(svg,13988.3631,-3604.5288)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,茨城県　坂東市岩井字新町東側４４４８番１,10,30,4,160,17000,80,400,0,0,66300,42000" xlink:title="茨城県　坂東市岩井字新町東側４４４８番１" transform="ref(svg,13988.6848,-3604.7636)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市岩井字旧境内２２５５番６,12,10,2,36,18000,60,200,0,52800,31400,25300" xlink:title="茨城県　坂東市岩井字旧境内２２５５番６" transform="ref(svg,13988.6912,-3605.4728)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市辺田字原新１１１１番２８,10,12,2,60,17000,60,200,0,0,40400,31300" xlink:title="茨城県　坂東市辺田字原新１１１１番２８" transform="ref(svg,13988.8538,-3604.0381)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　結城郡八千代町大字菅谷字宿１５番６外,12,10,0,53,7500,60,200,0,0,0,15200" xlink:title="茨城県　結城郡八千代町大字菅谷字宿１５番６外" transform="ref(svg,13988.8675,-3619.1027)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市辺田字御林１５１７番６９,10,20,2,40,17000,60,200,0,69000,33900,28100" xlink:title="茨城県　坂東市辺田字御林１５１７番６９" transform="ref(svg,13989.0209,-3604.3191)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市辺田字外手山１０８５番４５,10,10,1,40,16000,60,200,0,61600,32500,27300" xlink:title="茨城県　坂東市辺田字外手山１０８５番４５" transform="ref(svg,13989.4345,-3603.9479)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市岩井字大山４１５２番１１外,10,10,2,40,16000,40,80,0,59000,31200,25400" xlink:title="茨城県　坂東市岩井字大山４１５２番１１外" transform="ref(svg,13989.5436,-3604.6464)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市沓掛字神明７７４番,10,12,2,55,23000,60,200,0,41300,22100,17900" xlink:title="茨城県　坂東市沓掛字神明７７４番" transform="ref(svg,13989.6985,-3609.7946)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市沓掛字西郷１６７７番２,10,20,2,77,24000,60,200,0,41000,22500,18000" xlink:title="茨城県　坂東市沓掛字西郷１６７７番２" transform="ref(svg,13989.8648,-3610.5295)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,茨城県　坂東市辺田字向地５５１番１０,10,12,2,51,15000,40,80,0,0,0,21100" xlink:title="茨城県　坂東市辺田字向地５５１番１０" transform="ref(svg,13990.2069,-3603.5176)" x="0" y="0"/>
+</g>
+</svg>

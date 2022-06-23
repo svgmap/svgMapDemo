@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13500.0 -5625.0 1125.0 1125.0" go:dataArea="13500.0 -5625.0 1125.0 1125.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,北海道　稚内市宝来２?２?２,12,10,2,90,830,60,200,23200,21500,15600,11000" xlink:title="北海道　稚内市宝来２?２?２" transform="ref(svg,14167.1866,-4542.1919)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　稚内市中央３?８?２３,10,30,3,145,220,80,400,0,0,0,31500" xlink:title="北海道　稚内市中央３?８?２３" transform="ref(svg,14167.5546,-4541.6057)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　稚内市こまどり４?５?８,10,15,2,80,1800,60,200,13500,13200,13200,12300" xlink:title="北海道　稚内市こまどり４?５?８" transform="ref(svg,14168.4172,-4538.9236)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　稚内市萩見５?１３?８,10,20,2,80,3000,60,200,0,0,0,14800" xlink:title="北海道　稚内市萩見５?１３?８" transform="ref(svg,14171.0325,-4538.7604)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　枝幸郡浜頓別町北２条２丁目２５番,10,15,2,140,65000,60,200,0,9100,8200,5100" xlink:title="北海道　枝幸郡浜頓別町北２条２丁目２５番" transform="ref(svg,14236.3018,-4512.6733)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　枝幸郡浜頓別町旭ヶ丘２丁目６番,10,15,2,110,65000,60,200,0,5100,5100,3900" xlink:title="北海道　枝幸郡浜頓別町旭ヶ丘２丁目６番" transform="ref(svg,14236.5247,-4511.9775)" x="0" y="0"/>
+</g>
+</svg>

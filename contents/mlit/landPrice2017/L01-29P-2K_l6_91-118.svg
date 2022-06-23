@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13974.609375 -3550.78125 17.578125 17.578125" go:dataArea="13974.609375 -3550.78125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="9,神奈川県　川崎市川崎区東扇島１７番３,10,20,4,250,9000,80,400,0,0,0,200000" xlink:title="神奈川県　川崎市川崎区東扇島１７番３" transform="ref(svg,13975.7752,-3549.984)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市大堀２丁目１２番１７,10,20,2,60,600,60,200,49000,80500,26200,24800" xlink:title="千葉県　富津市大堀２丁目１２番１７" transform="ref(svg,13985.432,-3533.2086)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　富津市大堀字根岸４３番５,10,25,2,78,280,80,400,78500,117000,29500,26400" xlink:title="千葉県　富津市大堀字根岸４３番５" transform="ref(svg,13985.9412,-3533.223)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市人見字韮塚１３９７番５,15,10,1,50,1300,60,200,0,0,0,18700" xlink:title="千葉県　君津市人見字韮塚１３９７番５" transform="ref(svg,13986.1941,-3533.8794)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市大堀字東１４９９番２,10,15,2,45,850,60,200,0,64000,19800,18000" xlink:title="千葉県　富津市大堀字東１４９９番２" transform="ref(svg,13986.2924,-3533.5968)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,千葉県　君津市人見字高山１０２０番３,12,10,2,90,2100,60,200,0,72500,21000,19400" xlink:title="千葉県　君津市人見字高山１０２０番３" transform="ref(svg,13987.1222,-3534.3097)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市大和田３丁目４番１３,10,20,2,60,1600,60,200,49300,87700,31000,37600" xlink:title="千葉県　君津市大和田３丁目４番１３" transform="ref(svg,13987.9394,-3533.6647)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市西坂田２?９?５,10,12,2,60,1300,60,200,0,98500,34800,43600" xlink:title="千葉県　君津市西坂田２?９?５" transform="ref(svg,13988.3997,-3533.6904)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市西坂田３?５?１８,10,10,2,60,1300,60,200,0,0,0,32900" xlink:title="千葉県　君津市西坂田３?５?１８" transform="ref(svg,13988.5445,-3534.0041)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市中野５?１４?２６,10,20,2,60,1000,60,200,61300,98000,33500,42800" xlink:title="千葉県　君津市中野５?１４?２６" transform="ref(svg,13988.5902,-3533.5031)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　君津市東坂田３?１?２４,10,15,4,60,500,80,200,0,169000,37500,45000" xlink:title="千葉県　君津市東坂田３?１?２４" transform="ref(svg,13989.0875,-3533.5838)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　君津市中野４?４?２９,10,20,2,120,300,80,200,0,257000,51000,62100" xlink:title="千葉県　君津市中野４?４?２９" transform="ref(svg,13989.2783,-3533.2353)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,千葉県　君津市坂田字吉ケ作１番７外,10,30,0,110,2000,60,200,0,0,0,25800" xlink:title="千葉県　君津市坂田字吉ケ作１番７外" transform="ref(svg,13989.3619,-3534.8083)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　君津市東坂田２?５?６,10,20,3,120,230,80,400,400000,345000,61000,72000" xlink:title="千葉県　君津市東坂田２?５?６" transform="ref(svg,13989.3949,-3533.4743)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市君津台１?１６?６,12,10,2,60,840,50,100,0,101000,34000,42200" xlink:title="千葉県　君津市君津台１?１６?６" transform="ref(svg,13989.8013,-3534.0589)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市陽光台１?１１?３,10,20,2,60,1000,50,100,55500,92500,28500,35700" xlink:title="千葉県　君津市陽光台１?１１?３" transform="ref(svg,13990.1988,-3533.5203)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市畑沢南５?４?２３,10,20,2,60,1400,50,100,45500,79000,25200,29000" xlink:title="千葉県　木更津市畑沢南５?４?２３" transform="ref(svg,13990.4103,-3533.9359)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市畑沢２?８?５,10,10,2,60,2500,50,100,42200,76000,23600,27400" xlink:title="千葉県　木更津市畑沢２?８?５" transform="ref(svg,13990.4465,-3534.7904)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市畔戸字山中後６０５番,10,10,1,60,3700,60,200,0,0,0,13100" xlink:title="千葉県　木更津市畔戸字山中後６０５番" transform="ref(svg,13990.5503,-3542.3578)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市北子安３?５?２３,10,20,2,60,1200,60,200,53400,91000,32400,40800" xlink:title="千葉県　君津市北子安３?５?２３" transform="ref(svg,13990.791,-3533.2419)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市小浜字浜ノ谷３１３番,10,30,2,40,4000,60,200,0,71000,19700,19200" xlink:title="千葉県　木更津市小浜字浜ノ谷３１３番" transform="ref(svg,13990.9193,-3535.4981)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,千葉県　木更津市潮見７丁目７番,10,10,2,120,3500,60,200,0,82900,23000,21800" xlink:title="千葉県　木更津市潮見７丁目７番" transform="ref(svg,13991.1839,-3536.0924)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,千葉県　木更津市潮浜１丁目１７番１１４,12,10,2,140,2000,60,200,0,90000,24500,23800" xlink:title="千葉県　木更津市潮浜１丁目１７番１１４" transform="ref(svg,13991.2589,-3537.6613)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市港南台５丁目５番１８,10,15,2,60,3100,50,100,0,0,24200,30500" xlink:title="千葉県　木更津市港南台５丁目５番１８" transform="ref(svg,13991.2681,-3534.8907)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市桜井字南町７０４番６５,10,15,2,60,3100,60,200,0,0,0,26800" xlink:title="千葉県　木更津市桜井字南町７０４番６５" transform="ref(svg,13991.3762,-3536.1489)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,千葉県　木更津市潮見５丁目１番３８外,10,15,2,160,2500,60,200,0,0,25200,24800" xlink:title="千葉県　木更津市潮見５丁目１番３８外" transform="ref(svg,13991.5542,-3536.7211)" x="0" y="0"/>
+<use xlink:href="#p0" content="9,千葉県　木更津市潮見２丁目１０番２外,10,10,2,160,2000,60,200,0,103000,30000,29000" xlink:title="千葉県　木更津市潮見２丁目１０番２外" transform="ref(svg,13991.5647,-3537.3421)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市江川字新川田１５５７番３９,10,10,2,60,2600,60,200,0,0,0,29300" xlink:title="千葉県　木更津市江川字新川田１５５７番３９" transform="ref(svg,13991.5824,-3540.2039)" x="0" y="0"/>
+<use xlink:href="#p0" content="3,千葉県　木更津市桜井字山王谷７１８番１外,10,15,0,30,3100,50,100,0,0,0,8150" xlink:title="千葉県　木更津市桜井字山王谷７１８番１外" transform="ref(svg,13991.589,-3536.1031)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　木更津市中央３?１５?７,10,25,2,140,1000,80,200,0,205000,40700,41400" xlink:title="千葉県　木更津市中央３?１５?７" transform="ref(svg,13991.8228,-3538.505)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市桜井新町５丁目７番３,10,20,2,60,2300,60,200,45500,91000,29700,32000" xlink:title="千葉県　木更津市桜井新町５丁目７番３" transform="ref(svg,13991.9256,-3536.4289)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　木更津市中央２?５?１３,10,20,3,120,600,80,400,86800,163000,35300,35900" xlink:title="千葉県　木更津市中央２?５?１３" transform="ref(svg,13992.1349,-3538.4107)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　木更津市中里１?４?５,10,12,2,45,1500,60,200,57000,100000,31200,31800" xlink:title="千葉県　木更津市中里１?４?５" transform="ref(svg,13992.17,-3539.3112)" x="0" y="0"/>
+</g>
+</svg>

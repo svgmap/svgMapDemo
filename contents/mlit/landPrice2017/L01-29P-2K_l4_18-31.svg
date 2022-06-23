@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13640.625 -3445.3125 70.3125 70.3125" go:dataArea="13640.625 -3445.3125 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,三重県　度会郡南伊勢町五ケ所浦字明神８３９番,10,15,2,52,12000,70,200,0,0,20500,14000" xlink:title="三重県　度会郡南伊勢町五ケ所浦字明神８３９番" transform="ref(svg,13669.76,-3435.0195)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　度会郡南伊勢町五ケ所浦字中之間３９１８番１,10,25,1,160,11000,60,200,0,75000,48500,31500" xlink:title="三重県　度会郡南伊勢町五ケ所浦字中之間３９１８番１" transform="ref(svg,13670.2522,-3434.9289)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　度会郡南伊勢町五ケ所浦字岡本４１３０番３,10,20,2,50,11000,60,200,0,37800,30700,21200" xlink:title="三重県　度会郡南伊勢町五ケ所浦字岡本４１３０番３" transform="ref(svg,13670.5614,-3435.0488)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　志摩市浜島町浜島字目戸２８４６番,10,25,2,65,10000,70,200,0,105000,44500,26400" xlink:title="三重県　志摩市浜島町浜島字目戸２８４６番" transform="ref(svg,13675.0076,-3429.6199)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　志摩市浜島町浜島字汐見成３３５４番,10,15,2,60,9000,70,200,0,45000,26200,17600" xlink:title="三重県　志摩市浜島町浜島字汐見成３３５４番" transform="ref(svg,13675.6057,-3430.6506)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　志摩市浜島町迫子字宝地２５２０番２９,10,10,2,75,5500,60,200,0,35000,12000,7100" xlink:title="三重県　志摩市浜島町迫子字宝地２５２０番２９" transform="ref(svg,13678.9424,-3430.7405)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　志摩市志摩町和具字川辺９００番１外,15,10,2,65,18000,70,200,0,89400,51900,29000" xlink:title="三重県　志摩市志摩町和具字川辺９００番１外" transform="ref(svg,13680.8772,-3425.6176)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　志摩市磯部町上之郷字上ノ里３７６番,10,15,2,70,150,60,200,0,22000,19500,14200" xlink:title="三重県　志摩市磯部町上之郷字上ノ里３７６番" transform="ref(svg,13681.0222,-3437.9977)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　志摩市阿児町鵜方字小向井５１０６番,10,10,1,130,1000,60,200,0,0,0,31000" xlink:title="三重県　志摩市阿児町鵜方字小向井５１０６番" transform="ref(svg,13681.6375,-3432.6922)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,三重県　志摩市阿児町鵜方字屋敷垣内４０６４番,10,15,3,150,100,70,400,0,240000,72700,49000" xlink:title="三重県　志摩市阿児町鵜方字屋敷垣内４０６４番" transform="ref(svg,13682.5413,-3432.8571)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　志摩市阿児町神明字中田９９２番７０,10,10,1,60,1400,60,200,0,56500,38700,27000" xlink:title="三重県　志摩市阿児町神明字中田９９２番７０" transform="ref(svg,13682.605,-3432.085)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　志摩市志摩町布施田字根中３７７番,10,12,1,25,16000,70,200,0,27000,21200,12900" xlink:title="三重県　志摩市志摩町布施田字根中３７７番" transform="ref(svg,13682.7541,-3425.504)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　志摩市阿児町鵜方字川向井３１４６番２９,10,12,2,38,500,60,200,0,57500,43000,29000" xlink:title="三重県　志摩市阿児町鵜方字川向井３１４６番２９" transform="ref(svg,13682.9506,-3432.693)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　志摩市志摩町片田字乙部２６７８番２,10,25,2,30,14000,70,200,0,0,0,9500" xlink:title="三重県　志摩市志摩町片田字乙部２６７８番２" transform="ref(svg,13684.5718,-3425.0554)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,三重県　志摩市大王町畔名字渕８５５番,10,25,2,130,8500,60,200,0,20500,17100,11500" xlink:title="三重県　志摩市大王町畔名字渕８５５番" transform="ref(svg,13688.3458,-3429.6477)" x="0" y="0"/>
+</g>
+</svg>

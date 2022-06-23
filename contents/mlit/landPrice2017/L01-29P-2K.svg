@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="12375.0 -5625.0 2250.0 3375.0" go:dataArea="12375.0 -5625.0 2250.0 3375.0" >
+<!--  参考データです -->
+<!-- Tramsform:[100.0,0.0,0.0,-100.0,0.0,0.0] -->
+<!-- 基準緯線:0.0 -->
+<!-- Bounds:ReferencedEnvelope[124.149335 : 145.6005889, 24.33711444 : 45.42191889] -->
+<!-- TypeName:L01-29P-2K -->
+<!-- Count:14 -->
+<!-- NS:L01-29P-2K -->
+<!-- Geom:GeometryDescriptorImpl the_geom <the_geom:Point> nillable 0:1 -->
+<!-- attrNo:0 Name:the_geom type:Point -->
+<!-- attrNo:1 Name:用途 type:String -->
+<!-- attrNo:2 Name:住居表示 type:String -->
+<!-- attrNo:3 Name:間口（比率） type:String -->
+<!-- attrNo:4 Name:奥行（比率） type:String -->
+<!-- attrNo:5 Name:Floors type:String -->
+<!-- attrNo:6 Name:前面道路の幅員 type:String -->
+<!-- attrNo:7 Name:駅距離 type:String -->
+<!-- attrNo:8 Name:建ぺい率 type:String -->
+<!-- attrNo:9 Name:容積率 type:String -->
+<!-- attrNo:10 Name:Ｓ６２価格 type:String -->
+<!-- attrNo:11 Name:Ｈ９価格 type:String -->
+<!-- attrNo:12 Name:Ｈ１９価格 type:String -->
+<!-- attrNo:13 Name:H29 type:String -->
+<!-- OriginalDatum:JGD2000 -->
+<!-- OriginalCrd:LatLon -->
+<!-- defMainColor:green -->
+<!-- outlineColor: -->
+<!-- mainColorCol:-1 -->
+<!-- outLineColorCol:-1 -->
+<!-- POIsizeCol:-1 -->
+<!-- captionCol:-1 -->
+<!-- dupCheckCol:-1 -->
+<!-- linkCol:2 -->
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<!-- Total:25988 records. -->
+<!-- LEVEL: 0 -->
+<animation xlink:href="L01-29P-2K_1-0.svg" x="13500" y="-5625" width="1125" height="1125" visibleMinZoom="26.66"/>
+<image xlink:href="L01-29P-2K/lvl5/tile1_0.png" preserveAspectRatio="none" x="13500" y="-5625" width="1125" height="1125" visibleMaxZoom="26.66"/>
+<image xlink:href="L01-29P-2K/lvl5/tile0_1.png" preserveAspectRatio="none" x="12375" y="-4500" width="1125" height="1125" visibleMaxZoom="26.66"/>
+<image xlink:href="L01-29P-2K/lvl5/tile1_1.png" preserveAspectRatio="none" x="13500" y="-4500" width="1125" height="1125" visibleMaxZoom="26.66"/>
+<image xlink:href="L01-29P-2K/lvl5/tile0_2.png" preserveAspectRatio="none" x="12375" y="-3375" width="1125" height="1125" visibleMaxZoom="26.66"/>
+<animation xlink:href="L01-29P-2K_1-2.svg" x="13500" y="-3375" width="1125" height="1125" visibleMinZoom="26.66"/>
+<image xlink:href="L01-29P-2K/lvl5/tile1_2.png" preserveAspectRatio="none" x="13500" y="-3375" width="1125" height="1125" visibleMaxZoom="26.66"/>
+<!-- LEVEL: 1 -->
+<animation xlink:href="L01-29P-2K_l1_0-3.svg" x="12375" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile0_3.png" preserveAspectRatio="none" x="12375" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="L01-29P-2K_cont_l1_1-3.svg" x="12937.5" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile1_3.png" preserveAspectRatio="none" x="12937.5" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="L01-29P-2K_l1_0-4.svg" x="12375" y="-3375" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile0_4.png" preserveAspectRatio="none" x="12375" y="-3375" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="L01-29P-2K_cont_l1_1-4.svg" x="12937.5" y="-3375" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile1_4.png" preserveAspectRatio="none" x="12937.5" y="-3375" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="L01-29P-2K_l1_0-5.svg" x="12375" y="-2812.5" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile0_5.png" preserveAspectRatio="none" x="12375" y="-2812.5" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="L01-29P-2K_l1_2-2.svg" x="13500" y="-4500" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile2_2.png" preserveAspectRatio="none" x="13500" y="-4500" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="L01-29P-2K_cont_l1_3-2.svg" x="14062.5" y="-4500" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile3_2.png" preserveAspectRatio="none" x="14062.5" y="-4500" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="L01-29P-2K_cont_l1_2-3.svg" x="13500" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile2_3.png" preserveAspectRatio="none" x="13500" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<animation xlink:href="L01-29P-2K_cont_l1_3-3.svg" x="14062.5" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="53.33"/>
+<image xlink:href="L01-29P-2K/lvl6/tile3_3.png" preserveAspectRatio="none" x="14062.5" y="-3937.5" width="562.5" height="562.5" visibleMinZoom="26.665" visibleMaxZoom="53.33"/>
+<!-- LEVEL: 2 -->
+<!-- LEVEL: 3 -->
+<!-- LEVEL: 4 -->
+<!-- LEVEL: 5 -->
+<!-- LEVEL: 6 -->
+<!-- LEVEL: 7 -->
+</svg>

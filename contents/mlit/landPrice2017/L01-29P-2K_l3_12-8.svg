@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="14062.5 -4500.0 140.625 140.625" go:dataArea="14062.5 -4500.0 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,北海道　増毛郡増毛町暑寒町３丁目１１２番,10,20,1,155,18000,60,200,0,13900,12500,7600" xlink:title="北海道　増毛郡増毛町暑寒町３丁目１１２番" transform="ref(svg,14151.5379,-4385.4493)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　増毛郡増毛町南畠中町４丁目１６３番２,10,20,2,130,17000,60,200,0,13500,12400,7300" xlink:title="北海道　増毛郡増毛町南畠中町４丁目１６３番２" transform="ref(svg,14152.1142,-4385.1716)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　増毛郡増毛町弁天町１丁目２２番,10,25,2,160,17000,60,200,0,0,0,9300" xlink:title="北海道　増毛郡増毛町弁天町１丁目２２番" transform="ref(svg,14152.5723,-4385.7412)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　留萌市錦町３?１?６,10,20,2,180,900,80,400,0,0,0,18300" xlink:title="北海道　留萌市錦町３?１?６" transform="ref(svg,14164.5047,-4393.8564)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　留萌市見晴町２丁目６番４外,10,12,2,110,1100,60,200,31700,33400,26000,10500" xlink:title="北海道　留萌市見晴町２丁目６番４外" transform="ref(svg,14164.7066,-4393.4753)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　留萌市花園町４?３?２５,10,30,3,80,850,60,200,0,0,0,14900" xlink:title="北海道　留萌市花園町４?３?２５" transform="ref(svg,14165.4861,-4393.6452)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　留萌市潮静２丁目７番１０,10,10,2,80,3600,60,200,0,19200,18700,11500" xlink:title="北海道　留萌市潮静２丁目７番１０" transform="ref(svg,14167.8049,-4392.1397)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　苫前郡羽幌町栄町１０１番１４,10,15,2,70,52000,60,200,0,10100,8600,4900" xlink:title="北海道　苫前郡羽幌町栄町１０１番１４" transform="ref(svg,14169.8053,-4435.471)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,北海道　苫前郡羽幌町南３条３丁目１番４外,12,10,2,140,53000,80,300,0,0,0,9300" xlink:title="北海道　苫前郡羽幌町南３条３丁目１番４外" transform="ref(svg,14170.2246,-4436.4707)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　苫前郡羽幌町南５条３丁目３番１,10,15,2,140,53000,60,200,0,15900,12800,7200" xlink:title="北海道　苫前郡羽幌町南５条３丁目３番１" transform="ref(svg,14170.4299,-4436.3151)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,北海道　滝川市江部乙町西１１?５?４１,10,25,2,115,900,60,200,9200,8800,5000,2800" xlink:title="北海道　滝川市江部乙町西１１?５?４１" transform="ref(svg,14193.8293,-4362.1759)" x="0" y="0"/>
+</g>
+</svg>

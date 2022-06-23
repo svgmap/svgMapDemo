@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="用途,住居表示,間口（比率）,奥行（比率）,Floors,前面道路の幅員,駅距離,建ぺい率,容積率,Ｓ６２価格,Ｈ９価格,Ｈ１９価格,H29" viewBox="13974.609375 -3533.203125 17.578125 17.578125" go:dataArea="13974.609375 -3533.203125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" content="0,千葉県　富津市富津字水主町１２８９番外,10,20,1,47,4400,60,150,29700,59500,17200,15200" xlink:title="千葉県　富津市富津字水主町１２８９番外" transform="ref(svg,13981.8111,-3531.1825)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市富津字東下洲原２４０５番３１,10,15,2,40,4300,60,150,0,56500,16800,15000" xlink:title="千葉県　富津市富津字東下洲原２４０５番３１" transform="ref(svg,13982.3554,-3530.7037)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市青木３丁目２０番２８,10,20,2,60,1900,50,100,0,0,0,18800" xlink:title="千葉県　富津市青木３丁目２０番２８" transform="ref(svg,13984.2629,-3532.44)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市青木字下亀塚１５３６番６,10,20,2,40,1500,60,200,0,63000,18900,17000" xlink:title="千葉県　富津市青木字下亀塚１５３６番６" transform="ref(svg,13984.9021,-3532.3898)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市大堀３丁目１９番１９,10,20,2,60,1000,60,200,0,0,25100,23800" xlink:title="千葉県　富津市大堀３丁目１９番１９" transform="ref(svg,13985.0623,-3532.9562)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市下飯野字西飛附１６３６番,10,20,1,40,2800,60,200,0,34500,11200,9600" xlink:title="千葉県　富津市下飯野字西飛附１６３６番" transform="ref(svg,13985.421,-3531.2649)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市千種新田字水越３０５番１１,12,10,1,40,460,60,200,0,0,18700,16700" xlink:title="千葉県　富津市千種新田字水越３０５番１１" transform="ref(svg,13985.7346,-3529.371)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　富津市下飯野字内小平田１０１３番,20,10,1,36,1500,60,200,23500,52100,16800,15200" xlink:title="千葉県　富津市下飯野字内小平田１０１３番" transform="ref(svg,13986.0905,-3532.145)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市人見４?１２?９,10,20,2,60,2200,60,200,0,81200,26900,30400" xlink:title="千葉県　君津市人見４?１２?９" transform="ref(svg,13987.2978,-3533.1073)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市下湯江字中谷方１２５２番２外,15,10,1,45,2800,60,200,18500,44700,15400,14000" xlink:title="千葉県　君津市下湯江字中谷方１２５２番２外" transform="ref(svg,13988.5469,-3531.6915)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市中野３?１３?２２,10,20,2,60,890,60,200,0,0,0,44900" xlink:title="千葉県　君津市中野３?１３?２２" transform="ref(svg,13988.8848,-3533.0551)" x="0" y="0"/>
+<use xlink:href="#p0" content="5,千葉県　君津市久保２?９?１５,10,15,2,120,580,80,400,0,0,43800,52500" xlink:title="千葉県　君津市久保２?９?１５" transform="ref(svg,13990.0362,-3533.1596)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市南久保２?１５?２３,10,12,2,60,1600,60,200,52500,90700,33000,42100" xlink:title="千葉県　君津市南久保２?１５?２３" transform="ref(svg,13990.5682,-3532.6152)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市北子安１?３?１７,10,15,2,60,1600,60,200,0,92800,32900,42300" xlink:title="千葉県　君津市北子安１?３?１７" transform="ref(svg,13990.9769,-3532.8221)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市郡１?２１?３,12,10,2,60,4100,50,100,0,0,0,25400" xlink:title="千葉県　君津市郡１?２１?３" transform="ref(svg,13991.6032,-3530.7489)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市杢師４?２１?１８,10,15,2,60,3000,60,200,0,85000,29000,37000" xlink:title="千葉県　君津市杢師４?２１?１８" transform="ref(svg,13991.8483,-3531.9426)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市南子安５?１８?５,10,15,2,60,2800,50,100,44000,86000,31600,40500" xlink:title="千葉県　君津市南子安５?１８?５" transform="ref(svg,13991.921,-3532.5429)" x="0" y="0"/>
+<use xlink:href="#p0" content="0,千葉県　君津市外箕輪１?１８?２５,10,10,2,60,3700,50,100,41400,85500,28600,34200" xlink:title="千葉県　君津市外箕輪１?１８?２５" transform="ref(svg,13991.9223,-3531.4419)" x="0" y="0"/>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="12375.0 -5625.0 2250.0 3375.0" go:dataArea="12375.0 -5625.0 2250.0 3375.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="L01-29P-2K_l5_32-60.svg" x="13500" y="-3515.625" width="35.1562" height="35.1562" visibleMinZoom="853.33"/>
+<image xlink:href="L01-29P-2K/lvl10/tile32_60.png" preserveAspectRatio="none" x="13500" y="-3515.625" width="35.1562" height="35.1562" visibleMinZoom="426.665" visibleMaxZoom="853.33"/>
+<animation xlink:href="L01-29P-2K_l5_33-60.svg" x="13535.1562" y="-3515.625" width="35.1562" height="35.1562" visibleMinZoom="853.33"/>
+<image xlink:href="L01-29P-2K/lvl10/tile33_60.png" preserveAspectRatio="none" x="13535.1562" y="-3515.625" width="35.1562" height="35.1562" visibleMinZoom="426.665" visibleMaxZoom="853.33"/>
+<animation xlink:href="L01-29P-2K_l5_32-61.svg" x="13500" y="-3480.4688" width="35.1562" height="35.1562" visibleMinZoom="853.33"/>
+<image xlink:href="L01-29P-2K/lvl10/tile32_61.png" preserveAspectRatio="none" x="13500" y="-3480.4688" width="35.1562" height="35.1562" visibleMinZoom="426.665" visibleMaxZoom="853.33"/>
+<image xlink:href="L01-29P-2K/lvl10/tile33_61.png" preserveAspectRatio="none" x="13535.1562" y="-3480.4688" width="35.1562" height="35.1562" visibleMinZoom="426.665" visibleMaxZoom="853.33"/>
+<image xlink:href="L01-29P-2K/lvl11/tile66_122.png" preserveAspectRatio="none" x="13535.1562" y="-3480.4688" width="17.5781" height="17.5781" visibleMinZoom="853.33" visibleMaxZoom="1706.66"/>
+<animation xlink:href="L01-29P-2K_l6_67-122.svg" x="13552.7344" y="-3480.4688" width="17.5781" height="17.5781" visibleMinZoom="1706.66"/>
+<image xlink:href="L01-29P-2K/lvl11/tile67_122.png" preserveAspectRatio="none" x="13552.7344" y="-3480.4688" width="17.5781" height="17.5781" visibleMinZoom="853.33" visibleMaxZoom="1706.66"/>
+<animation xlink:href="L01-29P-2K_l6_66-123.svg" x="13535.1562" y="-3462.8906" width="17.5781" height="17.5781" visibleMinZoom="1706.66"/>
+<image xlink:href="L01-29P-2K/lvl11/tile66_123.png" preserveAspectRatio="none" x="13535.1562" y="-3462.8906" width="17.5781" height="17.5781" visibleMinZoom="853.33" visibleMaxZoom="1706.66"/>
+<animation xlink:href="L01-29P-2K_l6_67-123.svg" x="13552.7344" y="-3462.8906" width="17.5781" height="17.5781" visibleMinZoom="1706.66"/>
+<image xlink:href="L01-29P-2K/lvl11/tile67_123.png" preserveAspectRatio="none" x="13552.7344" y="-3462.8906" width="17.5781" height="17.5781" visibleMinZoom="853.33" visibleMaxZoom="1706.66"/>
+<animation xlink:href="L01-29P-2K_l7_132-244.svg" x="13535.1562" y="-3480.4688" width="8.7891" height="8.7891" visibleMinZoom="3413.33"/>
+<image xlink:href="L01-29P-2K/lvl12/tile132_244.png" preserveAspectRatio="none" x="13535.1562" y="-3480.4688" width="8.7891" height="8.7891" visibleMinZoom="1706.665" visibleMaxZoom="3413.33"/>
+<animation xlink:href="L01-29P-2K_l7_133-244.svg" x="13543.9453" y="-3480.4688" width="8.7891" height="8.7891" visibleMinZoom="3413.33"/>
+<image xlink:href="L01-29P-2K/lvl12/tile133_244.png" preserveAspectRatio="none" x="13543.9453" y="-3480.4688" width="8.7891" height="8.7891" visibleMinZoom="1706.665" visibleMaxZoom="3413.33"/>
+<animation xlink:href="L01-29P-2K_l7_132-245.svg" x="13535.1562" y="-3471.6797" width="8.7891" height="8.7891" visibleMinZoom="3413.33"/>
+<image xlink:href="L01-29P-2K/lvl12/tile132_245.png" preserveAspectRatio="none" x="13535.1562" y="-3471.6797" width="8.7891" height="8.7891" visibleMinZoom="1706.665" visibleMaxZoom="3413.33"/>
+<animation xlink:href="L01-29P-2K_l7_133-245.svg" x="13543.9453" y="-3471.6797" width="8.7891" height="8.7891" visibleMinZoom="3413.33"/>
+<image xlink:href="L01-29P-2K/lvl12/tile133_245.png" preserveAspectRatio="none" x="13543.9453" y="-3471.6797" width="8.7891" height="8.7891" visibleMinZoom="1706.665" visibleMaxZoom="3413.33"/>
+</svg>
