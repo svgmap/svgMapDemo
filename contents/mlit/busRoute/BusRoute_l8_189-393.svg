@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="12911.1328125 -3295.8984375 8.7890625 8.7890625" go:dataArea="12911.1328125 -3295.8984375 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,西肥自動車（株）,有川港ターミナル～太田線,7.5,7.0,7.0," xlink:title="1" d="M12914.7,-3295.8984L12914.7085,-3295.8926L12914.7448,-3295.8631L12914.8523,-3295.7647L12914.8564,-3295.7607L12914.8732,-3295.7346L12914.8711,-3295.7117L12914.8619,-3295.6925L12914.8436,-3295.6456"/>
+</g>
+</svg>

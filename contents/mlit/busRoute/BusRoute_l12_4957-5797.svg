@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13972.96142578125 -3565.61279296875 0.54931640625 0.54931640625" go:dataArea="13972.96142578125 -3565.61279296875 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,東京空港交通（株）,六本木エリア～羽田空港線,4.0,4.0,4.0," xlink:title="1" d="M13973.268,-3565.6128L13973.2526,-3565.596L13973.2333,-3565.5689L13973.2271,-3565.5554L13973.2195,-3565.5295L13973.2181,-3565.5132L13973.1967,-3565.5177L13973.176,-3565.5233L13973.1622,-3565.5272L13973.1353,-3565.5334L13973.1229,-3565.5374L13973.0994,-3565.5441L13973.0732,-3565.5548L13973.0332,-3565.5712L13973.0104,-3565.5695L13972.9808,-3565.565L13972.9732,-3565.565L13972.9636,-3565.5627L13972.9614,-3565.5624"/>
+<path content="2,都営バス,橋86,33.0,33.0,31.0," xlink:title="2" d="M13972.9614,-3565.2143L13973.0036,-3565.2021L13973.0215,-3565.1982L13973.0457,-3565.1942L13973.0498,-3565.1942L13973.059,-3565.199L13973.0746,-3565.1942L13973.1333,-3565.2055L13973.1498,-3565.2095L13973.1657,-3565.2123L13973.1905,-3565.2179L13973.2181,-3565.2243L13973.245,-3565.2309L13973.2802,-3565.2399L13973.2933,-3565.2422L13973.3249,-3565.2455L13973.3349,-3565.2466L13973.3409,-3565.2472L13973.3823,-3565.2517L13973.3939,-3565.2523L13973.4038,-3565.253L13973.4209,-3565.254L13973.4961,-3565.2568L13973.5107,-3565.2572"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="11250.0 -6750.0 4500.0 4500.0" go:dataArea="11250.0 -6750.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<image xlink:href="BusRoute/lvl9/tile16_61.png" preserveAspectRatio="none" x="12375" y="-2460.9375" width="70.3125" height="70.3125" visibleMinZoom="284.44" visibleMaxZoom="568.88"/>
+<animation xlink:href="BusRoute_l6_32-122.svg" x="12375" y="-2460.9375" width="35.1562" height="35.1562" visibleMinZoom="1137.77"/>
+<image xlink:href="BusRoute/lvl10/tile32_122.png" preserveAspectRatio="none" x="12375" y="-2460.9375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<image xlink:href="BusRoute/lvl10/tile33_122.png" preserveAspectRatio="none" x="12410.1562" y="-2460.9375" width="35.1562" height="35.1562" visibleMinZoom="568.885" visibleMaxZoom="1137.77"/>
+<animation xlink:href="BusRoute_l7_66-244.svg" x="12410.1562" y="-2460.9375" width="17.5781" height="17.5781" visibleMinZoom="2275.55"/>
+<image xlink:href="BusRoute/lvl11/tile66_244.png" preserveAspectRatio="none" x="12410.1562" y="-2460.9375" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<animation xlink:href="BusRoute_l7_67-244.svg" x="12427.7344" y="-2460.9375" width="17.5781" height="17.5781" visibleMinZoom="2275.55"/>
+<image xlink:href="BusRoute/lvl11/tile67_244.png" preserveAspectRatio="none" x="12427.7344" y="-2460.9375" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+<animation xlink:href="BusRoute_l7_66-245.svg" x="12410.1562" y="-2443.3594" width="17.5781" height="17.5781" visibleMinZoom="2275.55"/>
+<image xlink:href="BusRoute/lvl11/tile66_245.png" preserveAspectRatio="none" x="12410.1562" y="-2443.3594" width="17.5781" height="17.5781" visibleMinZoom="1137.775" visibleMaxZoom="2275.55"/>
+</svg>

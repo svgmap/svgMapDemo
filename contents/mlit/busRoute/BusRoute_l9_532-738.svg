@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13587.890625 -3506.8359375 4.39453125 4.39453125" go:dataArea="13587.890625 -3506.8359375 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,江若交通（株）,浜大津線（堅田～県庁・大津）,34.0,30.0,30.0," xlink:title="1" d="M13587.8906,-3506.1384L13587.9006,-3506.1585L13588.0954,-3506.4193L13588.15,-3506.4919L13588.1849,-3506.5392L13588.201,-3506.5598L13588.2547,-3506.6281L13588.3111,-3506.7008L13588.3653,-3506.7732L13588.3839,-3506.7981L13588.4135,-3506.8359"/>
+<path content="1,江若交通（株）,浜大津線（県庁・大津～堅田駅）,36.0,30.0,30.0," xlink:title="1" d="M13587.8906,-3506.1384L13587.9006,-3506.1585L13588.0954,-3506.4193L13588.15,-3506.4919L13588.1849,-3506.5392L13588.201,-3506.5598L13588.2547,-3506.6281L13588.3111,-3506.7008L13588.3653,-3506.7732L13588.3839,-3506.7981L13588.4135,-3506.8359"/>
+<path content="1,近江鉄道（株）,草津山田線,2.0,2.0,2.0," xlink:title="1" d="M13592.2852,-3502.9702L13592.2569,-3502.9667L13592.2366,-3502.9667L13592.1719,-3502.9667L13592.1082,-3502.9666L13592.1018,-3502.9649L13592.0894,-3502.9516L13592.0825,-3502.9469L13592.0762,-3502.946L13592.0037,-3502.9566L13591.8765,-3502.9783L13591.8107,-3502.9877L13591.7126,-3503.0012L13591.7063,-3503.0107L13591.697,-3503.015L13591.6863,-3503.0156L13591.665,-3503.0151L13591.6406,-3503.0139L13591.6477,-3502.9976"/>
+</g>
+</svg>

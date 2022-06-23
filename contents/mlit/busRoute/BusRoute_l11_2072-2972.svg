@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13526.3671875 -3484.86328125 1.0986328125 1.0986328125" go:dataArea="13526.3671875 -3484.86328125 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,阪急バス（株）,名塩さくら台線180,34.5,23.0,23.5," xlink:title="1" d="M13527.3624,-3483.7646L13527.3635,-3483.7699L13527.3669,-3483.7807L13527.3718,-3483.7903L13527.382,-3483.7993L13527.3957,-3483.8055L13527.4134,-3483.8083L13527.4658,-3483.8079"/>
+</g>
+</svg>

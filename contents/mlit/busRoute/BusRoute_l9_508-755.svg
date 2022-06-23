@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13482.421875 -3432.12890625 4.39453125 4.39453125" go:dataArea="13482.421875 -3432.12890625 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,淡路交通（株）,縦貫線,34.0,28.5,28.5," xlink:title="1" d="M13482.4219,-3431.4553L13482.4851,-3431.4978L13482.549,-3431.5457L13482.5903,-3431.5858L13482.6236,-3431.6213L13482.6426,-3431.6438L13482.6806,-3431.6991L13482.6862,-3431.7084L13482.688,-3431.7114L13482.7315,-3431.7859L13482.7546,-3431.8242L13482.7688,-3431.8472L13482.7811,-3431.8682L13482.8068,-3431.911L13482.8076,-3431.9138L13482.8232,-3431.9386L13482.8293,-3431.9493L13482.8625,-3432.0057L13482.8971,-3432.0649L13482.8994,-3432.0686L13482.9324,-3432.1235L13482.9356,-3432.1289"/>
+</g>
+</svg>

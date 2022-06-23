@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13967.46826171875 -3564.51416015625 0.54931640625 0.54931640625" go:dataArea="13967.46826171875 -3564.51416015625 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,東急バス・東急トランセ,渋31,80.0,79.0,81.0," xlink:title="1" d="M13967.9066,-3564.5142L13967.916,-3564.4961L13967.9374,-3564.4504L13967.9491,-3564.4222L13967.9657,-3564.3913L13967.9892,-3564.3518L13967.9974,-3564.3406L13968.0151,-3564.315L13968.0176,-3564.3114"/>
+<path content="1,東急バス・東急トランセ,渋32,131.0,104.0,90.0," xlink:title="1" d="M13968.0176,-3564.3114L13968.0151,-3564.315L13967.9974,-3564.3406L13967.9892,-3564.3518L13967.9657,-3564.3913L13967.9491,-3564.4222L13967.9374,-3564.4504L13967.916,-3564.4961L13967.9066,-3564.5142"/>
+<path content="1,東急バス・東急トランセ,渋33,3.5,0.0,0.0," xlink:title="1" d="M13968.0176,-3564.3114L13968.0151,-3564.315L13967.9974,-3564.3406L13967.9892,-3564.3518L13967.9657,-3564.3913L13967.9491,-3564.4222L13967.9374,-3564.4504L13967.916,-3564.4961L13967.9066,-3564.5142"/>
+<path content="1,東急バス・東急トランセ,渋34,34.0,35.5,36.0," xlink:title="1" d="M13968.0176,-3564.3114L13968.0151,-3564.315L13967.9974,-3564.3406L13967.9892,-3564.3518L13967.9657,-3564.3913L13967.9491,-3564.4222L13967.9374,-3564.4504L13967.916,-3564.4961L13967.9066,-3564.5142"/>
+<path content="1,東急バス・東急トランセ,黒06,111.0,87.0,76.0," xlink:title="1" d="M13967.4996,-3563.9648L13967.5098,-3563.9833L13967.5144,-3563.9887L13967.5174,-3563.9918L13967.5125,-3563.9969L13967.4958,-3564.0238L13967.4897,-3564.0318L13967.4773,-3564.0459L13967.4683,-3564.0543"/>
+</g>
+</svg>

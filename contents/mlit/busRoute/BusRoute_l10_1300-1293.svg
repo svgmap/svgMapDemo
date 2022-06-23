@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14106.4453125 -3908.935546875 2.197265625 2.197265625" go:dataArea="14106.4453125 -3908.935546875 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,岩手県交通（株）,小山線,3.0,0.0,0.0," xlink:title="1" d="M14106.9519,-3908.9355L14106.9294,-3908.8857L14106.894,-3908.7911L14106.8909,-3908.772L14106.8752,-3908.737L14106.8672,-3908.7145L14106.7921,-3908.7303L14106.7502,-3908.7376L14106.7191,-3908.7415L14106.6729,-3908.7449L14106.5847,-3908.7499L14106.5197,-3908.7499L14106.481,-3908.7484L14106.462,-3908.734L14106.4453,-3908.7174"/>
+</g>
+</svg>

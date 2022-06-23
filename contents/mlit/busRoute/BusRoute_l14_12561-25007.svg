@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="12974.990844726562 -3315.8111572265625 0.1373291015625 0.1373291015625" go:dataArea="12974.990844726562 -3315.8111572265625 0.1373291015625 0.1373291015625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,西肥自動車（株）,ハウステンボス～佐世保～（池野経由）～柚木～潜木線,39.5,36.0,35.0," xlink:title="1" d="M12975.1025,-3315.6738L12975.0595,-3315.7319L12975.0266,-3315.7804L12974.9938,-3315.8112"/>
+<path content="1,西肥自動車（株）,佐世保東翔高校線,19.1,9.0,9.0," xlink:title="1" d="M12974.9938,-3315.8112L12975.0266,-3315.7804L12975.0595,-3315.7319L12975.1025,-3315.6738"/>
+<path content="1,西肥自動車（株）,佐世保～大宮町～重尾線,15.0,13.0,12.0," xlink:title="1" d="M12975.1025,-3315.6738L12975.0595,-3315.7319L12975.0266,-3315.7804L12974.9938,-3315.8112"/>
+<path content="1,西肥自動車（株）,佐世保～（大野経由）～美崎ヶ丘団地～大崎町線,10.5,8.0,7.5," xlink:title="1" d="M12974.9938,-3315.8112L12975.0266,-3315.7804L12975.0595,-3315.7319L12975.1025,-3315.6738"/>
+<path content="1,西肥自動車（株）,佐世保～（日野経由）～相浦ニュータウン～真申～小浦～佐々線,22.5,21.0,18.5," xlink:title="1" d="M12975.1025,-3315.6738L12975.0595,-3315.7319L12975.0266,-3315.7804L12974.9938,-3315.8112"/>
+<path content="1,西肥自動車（株）,佐世保～（日野経由）～相浦線,88.5,82.5,73.5," xlink:title="1" d="M12975.1025,-3315.6738L12975.0595,-3315.7319L12975.0266,-3315.7804L12974.9938,-3315.8112"/>
+<path content="1,西肥自動車（株）,佐世保～（矢峰経由）～柚木線,104.6,85.0,83.0," xlink:title="1" d="M12974.9938,-3315.8112L12975.0266,-3315.7804L12975.0595,-3315.7319L12975.1025,-3315.6738"/>
+</g>
+</svg>

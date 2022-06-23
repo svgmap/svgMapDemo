@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14093.81103515625 -3861.6943359375 0.54931640625 0.54931640625" go:dataArea="14093.81103515625 -3861.6943359375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,大崎市,宮沢真山線,4.0,0.0,0.0," xlink:title="3" d="M14094.3604,-3861.3152L14094.3497,-3861.3282L14094.3411,-3861.3417L14094.3361,-3861.3552L14094.3311,-3861.3777L14094.3243,-3861.4084L14094.3174,-3861.4301L14094.3124,-3861.4439L14094.307,-3861.4586L14094.2865,-3861.5124L14094.2736,-3861.5467L14094.2636,-3861.5721L14094.2449,-3861.6149L14094.2227,-3861.6656L14094.2155,-3861.6802L14094.2111,-3861.6882L14094.2085,-3861.6943"/>
+<path content="3,大崎市,清滝線,0.6,0.0,0.0," xlink:title="3" d="M14094.3604,-3861.3152L14094.3497,-3861.3282L14094.3411,-3861.3417L14094.3361,-3861.3552L14094.3311,-3861.3777L14094.3243,-3861.4084L14094.3174,-3861.4301L14094.3124,-3861.4439L14094.307,-3861.4586L14094.2865,-3861.5124L14094.2736,-3861.5467L14094.2636,-3861.5721L14094.2449,-3861.6149L14094.2227,-3861.6656L14094.2155,-3861.6802L14094.2111,-3861.6882L14094.2085,-3861.6943"/>
+</g>
+</svg>

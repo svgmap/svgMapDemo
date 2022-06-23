@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13975.982666015625 -3569.4580078125 0.274658203125 0.274658203125" go:dataArea="13975.982666015625 -3569.4580078125 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,都営バス,東43,98.0,80.0,68.0," xlink:title="2" d="M13976.2573,-3569.2748L13976.2158,-3569.2796L13976.1529,-3569.2874L13976.1066,-3569.2872"/>
+<path content="2,都営バス,東43,98.0,80.0,68.0," xlink:title="2" d="M13976.1066,-3569.2872L13976.1,-3569.2455L13976.0965,-3569.2042L13976.0943,-3569.1833"/>
+<path content="2,都営バス,東43,98.0,80.0,68.0," xlink:title="2" d="M13976.1066,-3569.2872L13976.1151,-3569.3835L13976.1216,-3569.4451L13976.1229,-3569.458"/>
+<path content="3,千代田区,内神田・富士見便,10.0,10.0,9.0," xlink:title="3" d="M13976.2414,-3569.1833L13976.2418,-3569.1853L13976.2478,-3569.2253L13976.2573,-3569.2686"/>
+<path content="3,千代田区,秋葉原・麹町便,8.0,8.0,8.0," xlink:title="3" d="M13976.2573,-3569.2748L13976.2158,-3569.2796L13976.1529,-3569.2874L13976.1066,-3569.2872L13975.9827,-3569.2857"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14013.0615234375 -3567.2607421875 1.0986328125 1.0986328125" go:dataArea="14013.0615234375 -3567.2607421875 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,京成バス（株）,稲31,90.0,62.0,62.0," xlink:title="1" d="M14013.0615,-3566.3288L14013.0805,-3566.3436L14013.0916,-3566.3474L14013.2244,-3566.4593L14013.2441,-3566.4798L14013.2624,-3566.5011L14013.3197,-3566.5724L14013.3006,-3566.5898L14013.2819,-3566.6031L14013.2288,-3566.6472L14013.3312,-3566.7624L14013.3927,-3566.8254L14013.4031,-3566.843L14013.4366,-3566.8814L14013.4824,-3566.9316L14013.5309,-3566.9771L14013.5444,-3566.9911L14013.5561,-3567.0021L14013.5861,-3567.0546L14013.7794,-3566.9911L14013.7918,-3566.9867L14013.8439,-3566.9658L14013.9022,-3566.9477L14014.0382,-3566.9024L14014.0921,-3566.8897L14014.1003,-3566.8888L14014.098,-3566.752L14014.098,-3566.748L14014.0999,-3566.7043L14014.0983,-3566.6005L14014.0964,-3566.4164L14014.096,-3566.4081"/>
+<path content="1,千葉内陸バス,寺山線,35.0,27.0,27.0," xlink:title="1" d="M14014.0961,-3566.1621L14014.0949,-3566.255L14014.096,-3566.4081"/>
+<path content="3,四街道市,市内循環,20.0,20.0,20.0," xlink:title="3" d="M14014.1602,-3566.8897L14014.1387,-3566.8883L14014.1267,-3566.8902L14014.1003,-3566.8888L14014.1032,-3566.8939L14014.104,-3566.9046L14014.11,-3566.9911L14014.1202,-3567.1099L14014.1217,-3567.1286L14014.1267,-3567.181L14014.1292,-3567.2075L14014.1343,-3567.2607"/>
+</g>
+</svg>

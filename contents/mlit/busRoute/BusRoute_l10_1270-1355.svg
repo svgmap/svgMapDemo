@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14040.52734375 -3772.705078125 2.197265625 2.197265625" go:dataArea="14040.52734375 -3772.705078125 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,福島交通（株）,209,10.0,8.0,8.0," xlink:title="1" d="M14040.5273,-3771.9934L14040.5424,-3771.9815L14040.5799,-3771.9494L14040.626,-3771.9099L14040.6317,-3771.9049L14040.7294,-3771.8254L14040.7514,-3771.8418L14040.7655,-3771.8506L14040.8216,-3771.8942L14040.8538,-3771.9195L14040.9144,-3771.9635L14040.9229,-3771.9708L14040.9806,-3772.0133L14040.9686,-3772.0241L14040.8903,-3772.0879L14040.8825,-3772.0953L14040.84,-3772.1296L14040.796,-3772.1668L14040.7875,-3772.1747L14040.7139,-3772.2395L14040.6317,-3772.3099L14040.6196,-3772.3194L14040.6033,-3772.3336L14040.5998,-3772.3397L14040.6019,-3772.3544L14040.6203,-3772.4265L14040.6274,-3772.4552L14040.5983,-3772.4958L14040.5735,-3772.5267L14040.545,-3772.5595L14040.5778,-3772.582L14040.587,-3772.5859L14040.5955,-3772.591L14040.6125,-3772.5989L14040.6437,-3772.6152L14040.6599,-3772.6236L14040.7152,-3772.6512L14040.8201,-3772.7051"/>
+<path content="1,福島交通（株）,210,11.0,10.0,10.0," xlink:title="1" d="M14042.7246,-3770.6019L14042.6975,-3770.5688L14042.6684,-3770.5384L14042.6421,-3770.5078"/>
+</g>
+</svg>

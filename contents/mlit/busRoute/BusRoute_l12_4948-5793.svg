@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13968.017578125 -3567.81005859375 0.54931640625 0.54931640625" go:dataArea="13968.017578125 -3567.81005859375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,渋谷区,春の小川ルート,22.0,22.0,22.0," xlink:title="3" d="M13968.5669,-3567.4331L13968.553,-3567.4383L13968.5313,-3567.4447L13968.4729,-3567.4749L13968.446,-3567.4912L13968.4329,-3567.5008L13968.4204,-3567.5132L13968.3314,-3567.6147L13968.33,-3567.6163L13968.3285,-3567.6181L13968.3023,-3567.649"/>
+<path content="3,渋谷区,春の小川ルート,22.0,22.0,22.0," xlink:title="3" d="M13968.3023,-3567.649L13968.2899,-3567.6411L13968.281,-3567.6366L13968.2736,-3567.6321L13968.2687,-3567.6276L13968.2662,-3567.6163L13968.2694,-3567.594L13968.2732,-3567.5747L13968.2746,-3567.5534L13968.2763,-3567.5353"/>
+<path content="3,渋谷区,春の小川ルート,22.0,22.0,22.0," xlink:title="3" d="M13968.3023,-3567.649L13968.252,-3567.7076L13968.2396,-3567.7211L13968.2064,-3567.7617L13968.1686,-3567.8101"/>
+</g>
+</svg>

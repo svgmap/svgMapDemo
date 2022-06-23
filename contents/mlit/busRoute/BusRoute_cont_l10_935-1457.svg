@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="11250.0 -6750.0 4500.0 4500.0" go:dataArea="11250.0 -6750.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="BusRoute_l11_1870-2914.svg" x="13304.4434" y="-3548.584" width="1.0986" height="1.0986" visibleMinZoom="36408.88"/>
+<image xlink:href="BusRoute/lvl15/tile1870_2914.png" preserveAspectRatio="none" x="13304.4434" y="-3548.584" width="1.0986" height="1.0986" visibleMinZoom="18204.44" visibleMaxZoom="36408.88"/>
+<animation xlink:href="BusRoute_l11_1871-2914.svg" x="13305.542" y="-3548.584" width="1.0986" height="1.0986" visibleMinZoom="36408.88"/>
+<image xlink:href="BusRoute/lvl15/tile1871_2914.png" preserveAspectRatio="none" x="13305.542" y="-3548.584" width="1.0986" height="1.0986" visibleMinZoom="18204.44" visibleMaxZoom="36408.88"/>
+<animation xlink:href="BusRoute_l11_1870-2915.svg" x="13304.4434" y="-3547.4854" width="1.0986" height="1.0986" visibleMinZoom="36408.88"/>
+<image xlink:href="BusRoute/lvl15/tile1870_2915.png" preserveAspectRatio="none" x="13304.4434" y="-3547.4854" width="1.0986" height="1.0986" visibleMinZoom="18204.44" visibleMaxZoom="36408.88"/>
+<animation xlink:href="BusRoute_l11_1871-2915.svg" x="13305.542" y="-3547.4854" width="1.0986" height="1.0986" visibleMinZoom="36408.88"/>
+<image xlink:href="BusRoute/lvl15/tile1871_2915.png" preserveAspectRatio="none" x="13305.542" y="-3547.4854" width="1.0986" height="1.0986" visibleMinZoom="18204.44" visibleMaxZoom="36408.88"/>
+</svg>

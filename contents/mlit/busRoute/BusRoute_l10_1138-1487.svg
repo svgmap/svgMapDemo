@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13750.48828125 -3482.666015625 2.197265625 2.197265625" go:dataArea="13750.48828125 -3482.666015625 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,浜松市北区,三ヶ日町自主運行バス,4.5,4.5,4.5," xlink:title="3" d="M13752.5854,-3480.4688L13752.5824,-3480.4716L13752.5708,-3480.479L13752.5578,-3480.4835L13752.5148,-3480.4959L13752.4554,-3480.5099L13752.3319,-3480.5386L13752.3005,-3480.546L13752.1907,-3480.5707L13752.147,-3480.5843L13752.1148,-3480.5972L13752.0806,-3480.6054L13752.0419,-3480.6265L13752.0173,-3480.6372L13751.9798,-3480.6479L13751.9361,-3480.6507L13751.9293,-3480.6501L13751.8713,-3480.6473L13751.8542,-3480.6445L13751.8461,-3480.6417L13751.8071,-3480.6282L13751.7471,-3480.6084L13751.67,-3480.5831L13751.6475,-3480.5713L13751.5492,-3480.4975L13751.5171,-3480.4727L13751.5113,-3480.4688"/>
+</g>
+</svg>

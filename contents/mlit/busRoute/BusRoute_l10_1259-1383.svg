@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14016.357421875 -3711.181640625 2.197265625 2.197265625" go:dataArea="14016.357421875 -3711.181640625 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,福島交通（株）,080,2.0,4.0,4.0," xlink:title="1" d="M14018.5547,-3709.4027L14018.5262,-3709.4125L14018.4834,-3709.4283L14018.4592,-3709.4376"/>
+<path content="1,福島交通（株）,090,2.0,4.0,4.0," xlink:title="1" d="M14018.4592,-3709.4376L14018.4834,-3709.4283L14018.5262,-3709.4125L14018.5547,-3709.4027"/>
+<path content="1,福島交通（株）,093,1.0,0.0,0.0," xlink:title="1" d="M14016.9664,-3711.1816L14016.904,-3711.1301L14016.8913,-3711.1166L14016.8681,-3711.0828L14016.8534,-3711.0484L14016.8463,-3711.0208L14016.8407,-3710.9904L14016.8387,-3710.9804L14016.8216,-3710.8812L14016.8165,-3710.8384L14016.8062,-3710.7944L14016.8027,-3710.7758L14016.7978,-3710.7442L14016.7957,-3710.7358L14016.7929,-3710.7296L14016.7824,-3710.7149L14016.7735,-3710.7067L14016.6804,-3710.6203L14016.6663,-3710.6287L14016.6291,-3710.6434L14016.6157,-3710.6467L14016.5819,-3710.6541L14016.4989,-3710.6642L14016.4891,-3710.6648L14016.3978,-3710.6767L14016.3766,-3710.6851L14016.3576,-3710.6975L14016.3574,-3710.6976"/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="12996.826171875 -3280.517578125 2.197265625 2.197265625" go:dataArea="12996.826171875 -3280.517578125 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,長崎県,郊外線,3.0,3.0,3.0," xlink:title="2" d="M12996.8262,-3279.9508L12996.8657,-3279.9304L12997.0346,-3279.8398L12997.0481,-3279.845L12997.1039,-3279.8722L12997.1311,-3279.8785L12997.1508,-3279.878L12997.1775,-3279.8654L12997.2047,-3279.8623L12997.2362,-3279.8654L12997.2714,-3279.8803L12997.3012,-3279.8929L12997.3407,-3279.8978L12997.41,-3279.9219L12997.5093,-3279.9619L12997.5562,-3279.9777L12997.5994,-3279.9825"/>
+</g>
+</svg>

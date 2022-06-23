@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14092.1630859375 -3847.412109375 1.0986328125 1.0986328125" go:dataArea="14092.1630859375 -3847.412109375 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,大衡村,大森・中学校線,1.5,0.0,0.0," xlink:title="3" d="M14092.1631,-3847.0667L14092.2515,-3847.1349L14092.2842,-3847.1601L14092.3238,-3847.1965L14092.3592,-3847.2362L14092.3851,-3847.2682L14092.394,-3847.2828L14092.3966,-3847.2889L14092.4001,-3847.2975L14092.4209,-3847.3567L14092.4309,-3847.3781L14092.4402,-3847.3927L14092.4543,-3847.4121"/>
+<path content="3,大衡村,大森・楳田線,0.4,0.0,0.0," xlink:title="3" d="M14092.1631,-3847.0667L14092.2515,-3847.1349L14092.2842,-3847.1601L14092.3238,-3847.1965L14092.3592,-3847.2362L14092.3851,-3847.2682L14092.394,-3847.2828L14092.3966,-3847.2889L14092.4001,-3847.2975L14092.4209,-3847.3567L14092.4309,-3847.3781L14092.4402,-3847.3927L14092.4543,-3847.4121"/>
+<path content="3,大衡村,大森線,0.8,0.0,0.0," xlink:title="3" d="M14092.1631,-3847.0667L14092.2515,-3847.1349L14092.2842,-3847.1601L14092.3238,-3847.1965L14092.3592,-3847.2362L14092.3851,-3847.2682L14092.394,-3847.2828L14092.3966,-3847.2889L14092.4001,-3847.2975L14092.4209,-3847.3567L14092.4309,-3847.3781L14092.4402,-3847.3927L14092.4543,-3847.4121"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14000.9765625 -3726.5625 8.7890625 8.7890625" go:dataArea="14000.9765625 -3726.5625 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,福島交通（株）,112,2.0,2.0,2.0," xlink:title="1" d="M14009.7656,-3726.5174L14009.7376,-3726.5215L14009.7024,-3726.5249L14009.6643,-3726.526L14009.646,-3726.5238L14009.6018,-3726.5118L14009.5915,-3726.5095L14009.5798,-3726.5091L14009.5699,-3726.5115L14009.5586,-3726.5181L14009.5516,-3726.5243L14009.5431,-3726.5322L14009.5397,-3726.5383L14009.538,-3726.5443L14009.538,-3726.5552L14009.5403,-3726.561L14009.5422,-3726.5625"/>
+<path content="1,（資）広田タクシー,猿遊号3号,0.7,0.7,0.7," xlink:title="1" d="M14001.7665,-3717.7734L14001.7807,-3717.7793L14001.789,-3717.781L14001.7989,-3717.7787L14001.8061,-3717.7734"/>
+<path content="1,（資）広田タクシー,猿遊号4号,0.7,0.7,0.7," xlink:title="1" d="M14001.7665,-3717.7734L14001.7807,-3717.7793L14001.789,-3717.781L14001.7989,-3717.7787L14001.8061,-3717.7734"/>
+</g>
+</svg>

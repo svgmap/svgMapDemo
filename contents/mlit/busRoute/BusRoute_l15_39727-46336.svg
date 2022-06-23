@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13977.836608886719 -3568.359375 0.06866455078125 0.06866455078125" go:dataArea="13977.836608886719 -3568.359375 0.06866455078125 0.06866455078125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,JRバス東北（株）,ドリームふくしま・横浜号,1.0,1.0,1.0," xlink:title="1" d="M13977.8366,-3568.3486L13977.8488,-3568.3589L13977.8505,-3568.3594"/>
+<path content="1,JRバス東北（株）,ドリームササニシキ号,1.0,1.0,1.0," xlink:title="1" d="M13977.8505,-3568.3594L13977.8488,-3568.3589L13977.8366,-3568.3486"/>
+<path content="1,JRバス東北（株）,ドリーム秋田・横浜号,1.0,1.0,1.0," xlink:title="1" d="M13977.8366,-3568.3486L13977.8488,-3568.3589L13977.8505,-3568.3594"/>
+<path content="1,弘南バス（株）,アップル号,1.0,1.0,1.0," xlink:title="1" d="M13977.8366,-3568.335L13977.8408,-3568.3331L13977.8879,-3568.3115L13977.9016,-3568.2988L13977.9053,-3568.2924"/>
+<path content="1,東北急行バス（株）,エススター号,0.1,0.5,0.0," xlink:title="1" d="M13977.8505,-3568.3594L13977.8488,-3568.3589L13977.8366,-3568.3486"/>
+<path content="1,東北急行バス（株）,スイート号,0.2,1.0,1.0," xlink:title="1" d="M13977.8366,-3568.3486L13977.8488,-3568.3589L13977.8505,-3568.3594"/>
+<path content="1,東北急行バス（株）,スーパーレインボー号,0.1,0.0,0.0," xlink:title="1" d="M13977.8366,-3568.3486L13977.8488,-3568.3589L13977.8505,-3568.3594"/>
+<path content="1,東北急行バス（株）,ニュースター号,2.0,2.0,2.0," xlink:title="1" d="M13977.8366,-3568.3486L13977.8488,-3568.3589L13977.8505,-3568.3594"/>
+<path content="1,東北急行バス（株）,ホリデースター号,0.2,1.0,1.0," xlink:title="1" d="M13977.8366,-3568.3486L13977.8488,-3568.3589L13977.8505,-3568.3594"/>
+<path content="1,羽後交通（株）,ドリーム鳥海号,1.0,1.0,1.0," xlink:title="1" d="M13977.8366,-3568.3486L13977.8488,-3568.3589L13977.8505,-3568.3594"/>
+<path content="1,羽後交通（株）,レーク＆ポート号,1.0,1.0,1.0," xlink:title="1" d="M13977.8505,-3568.3594L13977.8488,-3568.3589L13977.8366,-3568.3486"/>
+</g>
+</svg>

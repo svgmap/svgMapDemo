@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14105.3466796875 -3874.8779296875 1.0986328125 1.0986328125" go:dataArea="14105.3466796875 -3874.8779296875 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,栗原市,志波姫地区市民バス（北部コース）,999.9,0.0,0.0," xlink:title="3" d="M14105.5435,-3874.8779L14105.5429,-3874.7823L14105.6881,-3874.7823L14105.8504,-3874.7817L14106.0774,-3874.7812L14106.1838,-3874.7812L14106.4453,-3874.7812"/>
+<path content="3,栗原市,志波姫地区市民バス（南部コース）,999.9,0.0,0.0," xlink:title="3" d="M14106.4453,-3873.811L14106.3883,-3873.8113L14106.3843,-3873.8113L14106.3189,-3873.8113L14106.2988,-3873.8113L14106.2399,-3873.8124L14106.107,-3873.8147L14106.0851,-3873.8184L14106.0782,-3873.8158L14106.0401,-3873.8169L14105.9827,-3873.8242L14105.9647,-3873.8271L14105.8721,-3873.8395L14105.8232,-3873.8468L14105.8203,-3873.8473L14105.6307,-3873.8738L14105.5997,-3873.8783L14105.5976,-3873.9194L14105.5904,-3873.9318L14105.5581,-3873.9589L14105.5502,-3873.969L14105.5466,-3873.9774L14105.5437,-3873.9915L14105.5437,-3874.018L14105.5433,-3874.212L14105.543,-3874.3982L14105.5429,-3874.593L14105.5429,-3874.7823"/>
+<path content="3,栗原市,志波姫地区市民バス（南部コース）,999.9,0.0,0.0," xlink:title="3" d="M14105.5429,-3874.7823L14105.5435,-3874.8779"/>
+<path content="3,栗原市,志波姫地区市民バス（南部コース）,999.9,0.0,0.0," xlink:title="3" d="M14105.5429,-3874.7823L14105.6881,-3874.7823L14105.8504,-3874.7817L14106.0774,-3874.7812L14106.1838,-3874.7812L14106.4453,-3874.7812"/>
+</g>
+</svg>

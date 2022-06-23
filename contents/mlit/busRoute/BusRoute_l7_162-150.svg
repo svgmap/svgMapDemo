@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14097.65625 -4113.28125 17.578125 17.578125" go:dataArea="14097.65625 -4113.28125 17.578125 17.578125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,平内町,東田沢線,6.5,6.5,6.0," xlink:title="3" d="M14098.1232,-4095.7031L14098.1069,-4095.7418L14098.1054,-4095.7616L14098.1077,-4095.7768L14098.1118,-4095.7864L14098.1225,-4095.8117L14098.1239,-4095.8376L14098.1213,-4095.846L14098.1262,-4095.8533L14098.1277,-4095.8798L14098.1321,-4095.9113L14098.1388,-4095.9384L14098.1477,-4095.9845L14098.1477,-4096.0414L14098.1425,-4096.0662L14098.1336,-4096.0825L14098.1277,-4096.0892L14098.1151,-4096.0999L14098.0913,-4096.1146L14098.0341,-4096.1382L14097.9451,-4096.1714L14097.8567,-4096.203L14097.8159,-4096.2216L14097.7595,-4096.2525L14097.7165,-4096.279L14097.6562,-4096.3206"/>
+</g>
+</svg>

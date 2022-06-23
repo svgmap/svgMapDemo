@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14085.296630859375 -3833.67919921875 0.1373291015625 0.1373291015625" go:dataArea="14085.296630859375 -3833.67919921875 0.1373291015625 0.1373291015625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,宮城交通（株）,N13,23.0,9.0,9.5," xlink:title="1" d="M14085.3265,-3833.6792L14085.3237,-3833.6676L14085.3204,-3833.65L14085.3176,-3833.6294L14085.3163,-3833.6122L14085.3146,-3833.5801L14085.3148,-3833.5563L14085.3162,-3833.5419"/>
+<path content="1,宮城交通（株）,N14,27.0,20.0,17.5," xlink:title="1" d="M14085.3265,-3833.6792L14085.3237,-3833.6676L14085.3204,-3833.65L14085.3176,-3833.6294L14085.3163,-3833.6122L14085.3146,-3833.5801L14085.3148,-3833.5563L14085.3162,-3833.5419"/>
+<path content="1,宮城交通（株）,N18,2.0,0.0,0.0," xlink:title="1" d="M14085.3265,-3833.6792L14085.3237,-3833.6676L14085.3204,-3833.65L14085.3176,-3833.6294L14085.3163,-3833.6122L14085.3146,-3833.5801L14085.3148,-3833.5563L14085.3162,-3833.5419"/>
+</g>
+</svg>

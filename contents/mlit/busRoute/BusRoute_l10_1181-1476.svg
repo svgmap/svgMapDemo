@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13844.970703125 -3506.8359375 2.197265625 2.197265625" go:dataArea="13844.970703125 -3506.8359375 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,しずてつジャストライン（株）,庵原線_241,5.0,5.0,5.0," xlink:title="1" d="M13847.168,-3506.0979L13847.1644,-3506.1105L13847.1596,-3506.1358L13847.1589,-3506.146L13847.1586,-3506.1623L13847.1542,-3506.1839L13847.1498,-3506.1959L13847.111,-3506.2586L13847.1052,-3506.2769L13847.0768,-3506.3369L13847.033,-3506.4411L13847.0275,-3506.4512L13847.0153,-3506.4667L13847.0032,-3506.4823L13846.9693,-3506.5256L13846.9618,-3506.5396L13846.951,-3506.5947L13846.9336,-3506.6679L13846.9246,-3506.6977L13846.9026,-3506.7476L13846.8934,-3506.7745L13846.8779,-3506.8359"/>
+</g>
+</svg>

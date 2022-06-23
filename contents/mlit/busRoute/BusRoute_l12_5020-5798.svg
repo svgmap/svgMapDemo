@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14007.568359375 -3565.0634765625 0.54931640625 0.54931640625" go:dataArea="14007.568359375 -3565.0634765625 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,平和交通,検見川15,11.0,0.0,0.0," xlink:title="1" d="M14007.5684,-3564.733L14007.5894,-3564.7284L14007.6294,-3564.7233L14007.6815,-3564.7156L14007.6897,-3564.7136L14007.8289,-3564.6944L14007.8736,-3564.6876L14007.8918,-3564.6861L14007.9171,-3564.6877L14007.9209,-3564.688L14007.9363,-3564.6921L14007.9469,-3564.695L14007.9934,-3564.7156L14008.0306,-3564.7354L14008.0725,-3564.7574L14008.1177,-3564.7817"/>
+<path content="1,平和交通,検見川16,5.0,0.0,0.0," xlink:title="1" d="M14007.5684,-3564.733L14007.5894,-3564.7284L14007.6294,-3564.7233L14007.6815,-3564.7156L14007.6897,-3564.7136L14007.8289,-3564.6944L14007.8736,-3564.6876L14007.8918,-3564.6861L14007.9171,-3564.6877L14007.9209,-3564.688L14007.9363,-3564.6921L14007.9469,-3564.695L14007.9934,-3564.7156L14008.0306,-3564.7354L14008.0725,-3564.7574L14008.1177,-3564.7817"/>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14087.493896484375 -3835.052490234375 0.1373291015625 0.1373291015625" go:dataArea="14087.493896484375 -3835.052490234375 0.1373291015625 0.1373291015625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,JRバス東北（株）,ドリームササニシキ号,1.0,1.0,1.0," xlink:title="1" d="M14087.4939,-3834.9914L14087.4955,-3834.99L14087.5001,-3834.9865L14087.5367,-3834.9551L14087.5687,-3834.9247L14087.5713,-3834.9218L14087.5771,-3834.9152"/>
+<path content="1,宮城交通（株）,N22,11.0,12.0,12.0," xlink:title="1" d="M14087.5771,-3834.9152L14087.5713,-3834.9218L14087.5687,-3834.9247L14087.5367,-3834.9551L14087.5001,-3834.9865L14087.4955,-3834.99L14087.4939,-3834.9914"/>
+<path content="1,宮城交通（株）,N23,35.0,29.5,28.0," xlink:title="1" d="M14087.5771,-3834.9152L14087.5713,-3834.9218L14087.5687,-3834.9247L14087.5367,-3834.9551L14087.5001,-3834.9865L14087.4955,-3834.99L14087.4939,-3834.9914"/>
+<path content="1,宮城交通（株）,N24,19.5,12.5,12.5," xlink:title="1" d="M14087.5771,-3834.9152L14087.5713,-3834.9218L14087.5687,-3834.9247L14087.5367,-3834.9551L14087.5001,-3834.9865L14087.4955,-3834.99L14087.4939,-3834.9914"/>
+<path content="1,宮城交通（株）,N41,0.9,0.0,0.0," xlink:title="1" d="M14087.4939,-3834.9914L14087.4955,-3834.99L14087.5001,-3834.9865L14087.5367,-3834.9551L14087.5687,-3834.9247L14087.5713,-3834.9218L14087.5771,-3834.9152"/>
+<path content="1,宮城交通（株）,N46,2.5,0.0,0.0," xlink:title="1" d="M14087.4939,-3834.9914L14087.4955,-3834.99L14087.5001,-3834.9865L14087.5367,-3834.9551L14087.5687,-3834.9247L14087.5713,-3834.9218L14087.5771,-3834.9152"/>
+<path content="1,宮城交通（株）,仙台～加美線,6.0,6.0,6.0," xlink:title="1" d="M14087.5771,-3834.9152L14087.5713,-3834.9218L14087.5687,-3834.9247L14087.5367,-3834.9551L14087.5001,-3834.9865L14087.4955,-3834.99L14087.4939,-3834.9914"/>
+</g>
+</svg>

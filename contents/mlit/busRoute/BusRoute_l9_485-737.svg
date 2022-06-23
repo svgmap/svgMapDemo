@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13381.34765625 -3511.23046875 4.39453125 4.39453125" go:dataArea="13381.34765625 -3511.23046875 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,真庭市,久世・河内ルート,0.4,1.0,0.0," xlink:title="3" d="M13382.06,-3507.8887L13382.0388,-3507.8685L13382.0022,-3507.8637L13381.9722,-3507.8562L13381.9555,-3507.8473L13381.9555,-3507.8336L13381.9647,-3507.8049L13381.9622,-3507.7707L13381.953,-3507.7289L13381.9414,-3507.7145L13381.9422,-3507.6871L13381.9397,-3507.657L13381.9289,-3507.6331L13381.9231,-3507.5995L13381.9314,-3507.5365L13381.9206,-3507.4927L13381.9197,-3507.4626L13381.9022,-3507.4448L13381.8747,-3507.425L13381.8614,-3507.4085L13381.8597,-3507.3517L13381.8585,-3507.2493L13381.8531,-3507.1669L13381.8381,-3507.147L13381.7931,-3507.1114L13381.734,-3507.0793L13381.7065,-3507.0594L13381.6982,-3507.0368L13381.6873,-3506.9677L13381.6832,-3506.9588L13381.6315,-3506.9396L13381.5657,-3506.915L13381.5495,-3506.891L13381.5361,-3506.8578L13381.5277,-3506.8359"/>
+<path content="3,真庭市,樫東・余野ルート,1.0,1.0,0.0," xlink:title="3" d="M13381.7433,-3511.2305L13381.7398,-3511.1913L13381.6783,-3511.153L13381.6288,-3511.1143L13381.6049,-3511.0888L13381.5855,-3511.0601L13381.559,-3511.0098L13381.5085,-3510.9262L13381.4665,-3510.8774L13381.4217,-3510.8529L13381.3727,-3510.8331L13381.3477,-3510.8313"/>
+</g>
+</svg>

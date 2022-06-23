@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="11250.0 -6750.0 4500.0 4500.0" go:dataArea="11250.0 -6750.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<animation xlink:href="BusRoute_l11_2480-2906.svg" x="13974.6094" y="-3557.373" width="1.0986" height="1.0986" visibleMinZoom="36408.88"/>
+<image xlink:href="BusRoute/lvl15/tile2480_2906.png" preserveAspectRatio="none" x="13974.6094" y="-3557.373" width="1.0986" height="1.0986" visibleMinZoom="18204.44" visibleMaxZoom="36408.88"/>
+<image xlink:href="BusRoute/lvl15/tile2481_2906.png" preserveAspectRatio="none" x="13975.708" y="-3557.373" width="1.0986" height="1.0986" visibleMinZoom="18204.44" visibleMaxZoom="36408.88"/>
+<animation xlink:href="BusRoute_l11_2480-2907.svg" x="13974.6094" y="-3556.2744" width="1.0986" height="1.0986" visibleMinZoom="36408.88"/>
+<image xlink:href="BusRoute/lvl15/tile2480_2907.png" preserveAspectRatio="none" x="13974.6094" y="-3556.2744" width="1.0986" height="1.0986" visibleMinZoom="18204.44" visibleMaxZoom="36408.88"/>
+<image xlink:href="BusRoute/lvl16/tile4962_5812.png" preserveAspectRatio="none" x="13975.708" y="-3557.373" width="0.5493" height="0.5493" visibleMinZoom="36408.885" visibleMaxZoom="72817.77"/>
+<animation xlink:href="BusRoute_l12_4963-5812.svg" x="13976.2573" y="-3557.373" width="0.5493" height="0.5493" visibleMinZoom="72817.77"/>
+<image xlink:href="BusRoute/lvl16/tile4963_5812.png" preserveAspectRatio="none" x="13976.2573" y="-3557.373" width="0.5493" height="0.5493" visibleMinZoom="36408.885" visibleMaxZoom="72817.77"/>
+<animation xlink:href="BusRoute_l12_4962-5813.svg" x="13975.708" y="-3556.8237" width="0.5493" height="0.5493" visibleMinZoom="72817.77"/>
+<image xlink:href="BusRoute/lvl16/tile4962_5813.png" preserveAspectRatio="none" x="13975.708" y="-3556.8237" width="0.5493" height="0.5493" visibleMinZoom="36408.885" visibleMaxZoom="72817.77"/>
+<animation xlink:href="BusRoute_l12_4963-5813.svg" x="13976.2573" y="-3556.8237" width="0.5493" height="0.5493" visibleMinZoom="72817.77"/>
+<image xlink:href="BusRoute/lvl16/tile4963_5813.png" preserveAspectRatio="none" x="13976.2573" y="-3556.8237" width="0.5493" height="0.5493" visibleMinZoom="36408.885" visibleMaxZoom="72817.77"/>
+<animation xlink:href="BusRoute_l13_9924-11624.svg" x="13975.708" y="-3557.373" width="0.2747" height="0.2747" visibleMinZoom="145635.55"/>
+<image xlink:href="BusRoute/lvl17/tile9924_11624.png" preserveAspectRatio="none" x="13975.708" y="-3557.373" width="0.2747" height="0.2747" visibleMinZoom="72817.775" visibleMaxZoom="145635.55"/>
+<animation xlink:href="BusRoute_l13_9925-11624.svg" x="13975.9827" y="-3557.373" width="0.2747" height="0.2747" visibleMinZoom="145635.55"/>
+<image xlink:href="BusRoute/lvl17/tile9925_11624.png" preserveAspectRatio="none" x="13975.9827" y="-3557.373" width="0.2747" height="0.2747" visibleMinZoom="72817.775" visibleMaxZoom="145635.55"/>
+<animation xlink:href="BusRoute_l13_9924-11625.svg" x="13975.708" y="-3557.0984" width="0.2747" height="0.2747" visibleMinZoom="145635.55"/>
+<image xlink:href="BusRoute/lvl17/tile9924_11625.png" preserveAspectRatio="none" x="13975.708" y="-3557.0984" width="0.2747" height="0.2747" visibleMinZoom="72817.775" visibleMaxZoom="145635.55"/>
+<animation xlink:href="BusRoute_l13_9925-11625.svg" x="13975.9827" y="-3557.0984" width="0.2747" height="0.2747" visibleMinZoom="145635.55"/>
+<image xlink:href="BusRoute/lvl17/tile9925_11625.png" preserveAspectRatio="none" x="13975.9827" y="-3557.0984" width="0.2747" height="0.2747" visibleMinZoom="72817.775" visibleMaxZoom="145635.55"/>
+</svg>

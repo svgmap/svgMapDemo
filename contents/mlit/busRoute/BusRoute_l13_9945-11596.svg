@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13981.475830078125 -3565.0634765625 0.274658203125 0.274658203125" go:dataArea="13981.475830078125 -3565.0634765625 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,江東区,江東01,9.0,9.0,9.0," xlink:title="3" d="M13981.6526,-3564.7888L13981.6514,-3564.7973L13981.6485,-3564.8201L13981.6472,-3564.8299L13981.6454,-3564.8443L13981.6436,-3564.859L13981.6388,-3564.8993L13981.6359,-3564.9178L13981.6325,-3564.9409L13981.6234,-3565.0067L13981.6167,-3565.0572L13981.6158,-3565.0635"/>
+</g>
+</svg>

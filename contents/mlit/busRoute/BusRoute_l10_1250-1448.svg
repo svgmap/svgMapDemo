@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13996.58203125 -3568.359375 2.197265625 2.197265625" go:dataArea="13996.58203125 -3568.359375 2.197265625 2.197265625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,京成バスシステム,船61,13.0,20.5,20.5," xlink:title="1" d="M13996.582,-3567.344L13996.5832,-3567.3441L13996.5894,-3567.3487"/>
+<path content="1,京成バスシステム,船62,9.0,0.0,0.0," xlink:title="1" d="M13996.582,-3567.8141L13996.5846,-3567.8138L13996.6001,-3567.8111L13996.6695,-3567.7999L13996.6936,-3567.7961L13996.7111,-3567.7935L13996.7211,-3567.7979L13996.8481,-3567.7892L13996.8631,-3567.7888L13996.8808,-3567.788L13997.0169,-3567.7843L13997.0189,-3567.7899L13997.0393,-3567.7823L13997.0383,-3567.774L13997.0736,-3567.5811L13997.1057,-3567.4026L13997.1083,-3567.3814L13996.9329,-3567.3697L13996.76,-3567.3572L13996.5894,-3567.3487"/>
+<path content="1,京成バスシステム,船63,10.0,10.5,10.5," xlink:title="1" d="M13996.582,-3567.344L13996.5832,-3567.3441L13996.5894,-3567.3487"/>
+</g>
+</svg>

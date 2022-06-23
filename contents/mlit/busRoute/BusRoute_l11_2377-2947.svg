@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13861.4501953125 -3512.3291015625 1.0986328125 1.0986328125" go:dataArea="13861.4501953125 -3512.3291015625 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,山交タウンコーチ（株）,富原橋～蒲原中学校,4.0,2.0,2.0," xlink:title="1" d="M13862.3066,-3512.3291L13862.3038,-3512.3219L13862.2961,-3512.2809L13862.2927,-3512.2225L13862.2927,-3512.1742L13862.2931,-3512.1573L13862.2536,-3512.155L13862.2255,-3512.155L13862.1884,-3512.1502L13862.1377,-3512.1478L13862.1297,-3512.1473L13862.0952,-3512.145L13862.0768,-3512.1433L13862.0569,-3512.1422L13862.0398,-3512.1405L13862.0404,-3512.2385L13861.9805,-3512.274L13861.9596,-3512.2864L13861.9452,-3512.2937L13861.9363,-3512.2999L13861.902,-3512.3185L13861.8897,-3512.3269L13861.8844,-3512.3291"/>
+</g>
+</svg>

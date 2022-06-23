@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13968.017578125 -3566.71142578125 0.54931640625 0.54931640625" go:dataArea="13968.017578125 -3566.71142578125 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,東急バス・東急トランセ,渋55,32.0,32.0,32.0," xlink:title="1" d="M13968.5669,-3566.2629L13968.5476,-3566.2699L13968.514,-3566.2816L13968.4794,-3566.2942L13968.4433,-3566.3026L13968.4212,-3566.3063L13968.3995,-3566.3074L13968.3788,-3566.3085L13968.3478,-3566.3059L13968.3114,-3566.3021L13968.2855,-3566.3011L13968.2644,-3566.3067L13968.2241,-3566.3145L13968.1905,-3566.3249L13968.1353,-3566.3435L13968.0918,-3566.3595L13968.0305,-3566.3816L13968.0176,-3566.3856"/>
+</g>
+</svg>

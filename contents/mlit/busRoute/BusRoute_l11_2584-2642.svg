@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14088.8671875 -3847.412109375 1.0986328125 1.0986328125" go:dataArea="14088.8671875 -3847.412109375 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,宮城交通（株）,仙台～加美線,6.0,6.0,6.0," xlink:title="1" d="M14089.9658,-3847.272L14089.8431,-3847.2583L14089.7826,-3847.2506L14089.7357,-3847.2451L14089.6684,-3847.2373L14089.5756,-3847.2243L14089.5324,-3847.2169L14089.4936,-3847.2093L14089.4296,-3847.1938L14089.3999,-3847.1848L14089.3761,-3847.175L14089.3585,-3847.1661L14089.3426,-3847.1567"/>
+<path content="1,宮城交通（株）,仙台～加美線,6.0,6.0,6.0," xlink:title="1" d="M14089.3426,-3847.1567L14089.3136,-3847.1356L14089.2874,-3847.1153L14089.2573,-3847.091L14089.2273,-3847.0675"/>
+<path content="1,宮城交通（株）,仙台～加美線,6.0,6.0,6.0," xlink:title="1" d="M14089.3426,-3847.1567L14089.2062,-3847.3752L14089.183,-3847.4121"/>
+</g>
+</svg>

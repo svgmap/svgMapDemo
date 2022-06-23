@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="12374.693694 -4552.224923 2206.5089170000006 2126.3241730000004" go:dataArea="12374.693694 -4552.224923 2206.5089170000006 2126.3241730000004" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<g >
+<image xlink:href="tile920_1505.png" preserveAspectRatio="none" x="13271.484375" y="-3443.115234" width="2.197266" height="2.197266"/>
+<image xlink:href="tile920_1504.png" preserveAspectRatio="none" x="13271.484375" y="-3445.3125" width="2.197266" height="2.197266"/>
+<image xlink:href="tile921_1505.png" preserveAspectRatio="none" x="13273.681641" y="-3443.115234" width="2.197266" height="2.197266"/>
+<image xlink:href="tile921_1504.png" preserveAspectRatio="none" x="13273.681641" y="-3445.3125" width="2.197266" height="2.197266"/>
+<image xlink:href="tile912_1513.png" preserveAspectRatio="none" x="13253.90625" y="-3425.537109" width="2.197266" height="2.197266"/>
+<image xlink:href="tile912_1512.png" preserveAspectRatio="none" x="13253.90625" y="-3427.734375" width="2.197266" height="2.197266"/>
+<image xlink:href="tile913_1513.png" preserveAspectRatio="none" x="13256.103516" y="-3425.537109" width="2.197266" height="2.197266"/>
+<image xlink:href="tile913_1512.png" preserveAspectRatio="none" x="13256.103516" y="-3427.734375" width="2.197266" height="2.197266"/>
+<image xlink:href="tile914_1513.png" preserveAspectRatio="none" x="13258.300781" y="-3425.537109" width="2.197266" height="2.197266"/>
+<image xlink:href="tile915_1513.png" preserveAspectRatio="none" x="13260.498047" y="-3425.537109" width="2.197266" height="2.197266"/>
+</g>
+</svg>

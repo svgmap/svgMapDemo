@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13973.5107421875 -3566.162109375 0.1373291015625 0.1373291015625" go:dataArea="13973.5107421875 -3566.162109375 0.1373291015625 0.1373291015625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,JRバス関東（株）,かぐや姫EXPRESS・ヤキソバEXPRESS,3.0,3.0,3.0," xlink:title="1" d="M13973.6345,-3566.1621L13973.6381,-3566.1611L13973.6481,-3566.1581"/>
+<path content="1,JRバス関東（株）,東京～山中湖畔・河口湖,4.0,5.0,5.0," xlink:title="1" d="M13973.6481,-3566.1581L13973.6381,-3566.1611L13973.6345,-3566.1621"/>
+<path content="1,京浜急行バス（株）,エディ号,2.0,2.0,2.0," xlink:title="1" d="M13973.6481,-3566.1581L13973.6381,-3566.1611L13973.6345,-3566.1621"/>
+<path content="1,京浜急行バス（株）,キャメル号,1.0,1.0,1.0," xlink:title="1" d="M13973.6481,-3566.1581L13973.6381,-3566.1611L13973.6345,-3566.1621"/>
+<path content="1,京浜急行バス（株）,シルフィード号,1.0,1.0,1.0," xlink:title="1" d="M13973.6345,-3566.1621L13973.6381,-3566.1611L13973.6481,-3566.1581"/>
+<path content="1,富士急行（株）,ヤキソバEXPRESS,5.5,6.0,6.0," xlink:title="1" d="M13973.6345,-3566.1621L13973.6381,-3566.1611L13973.6481,-3566.1581"/>
+<path content="1,東京空港交通（株）,六本木エリア～成田空港線,14.5,14.5,14.5," xlink:title="1" d="M13973.6345,-3566.1621L13973.6381,-3566.1611L13973.6481,-3566.1581"/>
+<path content="1,東京空港交通（株）,六本木エリア～羽田空港線,4.0,4.0,4.0," xlink:title="1" d="M13973.6481,-3566.1581L13973.6381,-3566.1611L13973.6345,-3566.1621"/>
+<path content="2,都営バス,反96,52.0,58.0,58.0," xlink:title="2" d="M13973.6481,-3566.1581L13973.6381,-3566.1611L13973.6345,-3566.1621"/>
+<path content="2,都営バス,渋88,36.0,29.0,31.0," xlink:title="2" d="M13973.6481,-3566.1581L13973.6381,-3566.1611L13973.6345,-3566.1621"/>
+</g>
+</svg>

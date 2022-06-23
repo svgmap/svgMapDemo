@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13975.845336914062 -3564.788818359375 0.1373291015625 0.1373291015625" go:dataArea="13975.845336914062 -3564.788818359375 0.1373291015625 0.1373291015625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,両備ホールディングス（株）,ルブラン　倉敷・岡山・津山～東京線,1.0,1.0,1.0," xlink:title="1" d="M13975.8453,-3564.7117L13975.8733,-3564.7029L13975.8532,-3564.6515"/>
+<path content="1,東北急行バス（株）,スイート号,0.2,1.0,1.0," xlink:title="1" d="M13975.8484,-3564.6515L13975.8717,-3564.7076L13975.8453,-3564.7162"/>
+<path content="1,東北急行バス（株）,レインボー号,1.0,1.0,1.0," xlink:title="1" d="M13975.8484,-3564.6515L13975.8717,-3564.7076L13975.8453,-3564.7162"/>
+<path content="2,都営バス,虹01,52.0,44.0,44.0," xlink:title="2" d="M13975.8484,-3564.6515L13975.8717,-3564.7076L13975.8453,-3564.7162"/>
+</g>
+</svg>

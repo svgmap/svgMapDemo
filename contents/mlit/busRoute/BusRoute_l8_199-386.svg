@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="12999.0234375 -3357.421875 8.7890625 8.7890625" go:dataArea="12999.0234375 -3357.421875 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,昭和自動車（株）,からつ号・よぶこ号,35.5,34.5,34.5," xlink:title="1" d="M13007.8125,-3349.5161L13007.8038,-3349.5089L13007.7356,-3349.4617L13007.7016,-3349.4406L13007.6329,-3349.4049L13007.542,-3349.3632L13007.4938,-3349.3421L13007.4077,-3349.307L13007.3614,-3349.2879L13007.2065,-3349.2307L13007.1606,-3349.2135L13007.0192,-3349.1604L13006.7507,-3349.0533L13006.5312,-3348.9572L13006.3601,-3348.8728L13006.1914,-3348.7792L13006.1112,-3348.7262L13006.064,-3348.6944L13005.9821,-3348.6328"/>
+<path content="1,昭和自動車（株）,伊万里号（特急）,17.0,17.0,17.0," xlink:title="1" d="M13007.8125,-3349.5161L13007.8038,-3349.5089L13007.7356,-3349.4617L13007.7016,-3349.4406L13007.6329,-3349.4049L13007.542,-3349.3632L13007.4938,-3349.3421L13007.4077,-3349.307L13007.3614,-3349.2879L13007.2065,-3349.2307L13007.1606,-3349.2135L13007.0192,-3349.1604L13006.7507,-3349.0533L13006.5312,-3348.9572L13006.3601,-3348.8728L13006.1914,-3348.7792L13006.1112,-3348.7262L13006.064,-3348.6944L13005.9821,-3348.6328"/>
+</g>
+</svg>

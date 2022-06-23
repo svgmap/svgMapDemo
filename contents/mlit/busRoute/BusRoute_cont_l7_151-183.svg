@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" viewBox="11250.0 -6750.0 4500.0 4500.0" go:dataArea="11250.0 -6750.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<image xlink:href="BusRoute/lvl12/tile302_366.png" preserveAspectRatio="none" x="13904.2969" y="-3533.2031" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<image xlink:href="BusRoute/lvl12/tile303_366.png" preserveAspectRatio="none" x="13913.0859" y="-3533.2031" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<image xlink:href="BusRoute/lvl12/tile302_367.png" preserveAspectRatio="none" x="13904.2969" y="-3524.4141" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="BusRoute_l8_303-367.svg" x="13913.0859" y="-3524.4141" width="8.7891" height="8.7891" visibleMinZoom="4551.11"/>
+<image xlink:href="BusRoute/lvl12/tile303_367.png" preserveAspectRatio="none" x="13913.0859" y="-3524.4141" width="8.7891" height="8.7891" visibleMinZoom="2275.555" visibleMaxZoom="4551.11"/>
+<animation xlink:href="BusRoute_l9_606-732.svg" x="13913.0859" y="-3533.2031" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile606_732.png" preserveAspectRatio="none" x="13913.0859" y="-3533.2031" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_607-732.svg" x="13917.4805" y="-3533.2031" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile607_732.png" preserveAspectRatio="none" x="13917.4805" y="-3533.2031" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile606_733.png" preserveAspectRatio="none" x="13913.0859" y="-3528.8086" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_607-733.svg" x="13917.4805" y="-3528.8086" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile607_733.png" preserveAspectRatio="none" x="13917.4805" y="-3528.8086" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_604-732.svg" x="13904.2969" y="-3533.2031" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile604_732.png" preserveAspectRatio="none" x="13904.2969" y="-3533.2031" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_605-732.svg" x="13908.6914" y="-3533.2031" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile605_732.png" preserveAspectRatio="none" x="13908.6914" y="-3533.2031" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_604-733.svg" x="13904.2969" y="-3528.8086" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile604_733.png" preserveAspectRatio="none" x="13904.2969" y="-3528.8086" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_605-733.svg" x="13908.6914" y="-3528.8086" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile605_733.png" preserveAspectRatio="none" x="13908.6914" y="-3528.8086" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile604_734.png" preserveAspectRatio="none" x="13904.2969" y="-3524.4141" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_605-734.svg" x="13908.6914" y="-3524.4141" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile605_734.png" preserveAspectRatio="none" x="13908.6914" y="-3524.4141" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_604-735.svg" x="13904.2969" y="-3520.0195" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile604_735.png" preserveAspectRatio="none" x="13904.2969" y="-3520.0195" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l9_605-735.svg" x="13908.6914" y="-3520.0195" width="4.3945" height="4.3945" visibleMinZoom="9102.22"/>
+<image xlink:href="BusRoute/lvl13/tile605_735.png" preserveAspectRatio="none" x="13908.6914" y="-3520.0195" width="4.3945" height="4.3945" visibleMinZoom="4551.11" visibleMaxZoom="9102.22"/>
+<animation xlink:href="BusRoute_l10_1212-1466.svg" x="13913.0859" y="-3528.8086" width="2.1973" height="2.1973" visibleMinZoom="18204.44"/>
+<image xlink:href="BusRoute/lvl14/tile1212_1466.png" preserveAspectRatio="none" x="13913.0859" y="-3528.8086" width="2.1973" height="2.1973" visibleMinZoom="9102.22" visibleMaxZoom="18204.44"/>
+<animation xlink:href="BusRoute_l10_1213-1466.svg" x="13915.2832" y="-3528.8086" width="2.1973" height="2.1973" visibleMinZoom="18204.44"/>
+<image xlink:href="BusRoute/lvl14/tile1213_1466.png" preserveAspectRatio="none" x="13915.2832" y="-3528.8086" width="2.1973" height="2.1973" visibleMinZoom="9102.22" visibleMaxZoom="18204.44"/>
+<animation xlink:href="BusRoute_l10_1212-1467.svg" x="13913.0859" y="-3526.6113" width="2.1973" height="2.1973" visibleMinZoom="18204.44"/>
+<image xlink:href="BusRoute/lvl14/tile1212_1467.png" preserveAspectRatio="none" x="13913.0859" y="-3526.6113" width="2.1973" height="2.1973" visibleMinZoom="9102.22" visibleMaxZoom="18204.44"/>
+<animation xlink:href="BusRoute_l10_1213-1467.svg" x="13915.2832" y="-3526.6113" width="2.1973" height="2.1973" visibleMinZoom="18204.44"/>
+<image xlink:href="BusRoute/lvl14/tile1213_1467.png" preserveAspectRatio="none" x="13915.2832" y="-3526.6113" width="2.1973" height="2.1973" visibleMinZoom="9102.22" visibleMaxZoom="18204.44"/>
+<animation xlink:href="BusRoute_l10_1208-1468.svg" x="13904.2969" y="-3524.4141" width="2.1973" height="2.1973" visibleMinZoom="18204.44"/>
+<image xlink:href="BusRoute/lvl14/tile1208_1468.png" preserveAspectRatio="none" x="13904.2969" y="-3524.4141" width="2.1973" height="2.1973" visibleMinZoom="9102.22" visibleMaxZoom="18204.44"/>
+<animation xlink:href="BusRoute_l10_1209-1468.svg" x="13906.4941" y="-3524.4141" width="2.1973" height="2.1973" visibleMinZoom="18204.44"/>
+<image xlink:href="BusRoute/lvl14/tile1209_1468.png" preserveAspectRatio="none" x="13906.4941" y="-3524.4141" width="2.1973" height="2.1973" visibleMinZoom="9102.22" visibleMaxZoom="18204.44"/>
+<animation xlink:href="BusRoute_l10_1208-1469.svg" x="13904.2969" y="-3522.2168" width="2.1973" height="2.1973" visibleMinZoom="18204.44"/>
+<image xlink:href="BusRoute/lvl14/tile1208_1469.png" preserveAspectRatio="none" x="13904.2969" y="-3522.2168" width="2.1973" height="2.1973" visibleMinZoom="9102.22" visibleMaxZoom="18204.44"/>
+<animation xlink:href="BusRoute_l10_1209-1469.svg" x="13906.4941" y="-3522.2168" width="2.1973" height="2.1973" visibleMinZoom="18204.44"/>
+<image xlink:href="BusRoute/lvl14/tile1209_1469.png" preserveAspectRatio="none" x="13906.4941" y="-3522.2168" width="2.1973" height="2.1973" visibleMinZoom="9102.22" visibleMaxZoom="18204.44"/>
+</svg>

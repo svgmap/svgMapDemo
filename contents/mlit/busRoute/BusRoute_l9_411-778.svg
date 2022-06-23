@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13056.15234375 -3331.0546875 4.39453125 4.39453125" go:dataArea="13056.15234375 -3331.0546875 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,西鉄バス久留米（株）,25,17.0,10.0,10.0," xlink:title="1" d="M13059.1591,-3331.0433L13059.1765,-3331.0387L13059.1984,-3331.037L13059.2305,-3331.0394L13059.3695,-3331.0472L13059.5017,-3331.0519L13059.6022,-3331.0547"/>
+<path content="1,西鉄バス久留米（株）,25,17.0,10.0,10.0," xlink:title="1" d="M13059.1591,-3331.0433L13059.159,-3331.0547"/>
+<path content="1,西鉄バス久留米（株）,25,17.0,10.0,10.0," xlink:title="1" d="M13059.1183,-3331.0547L13059.1437,-3331.048L13059.1591,-3331.0433"/>
+<path content="1,西鉄バス久留米（株）,9,18.0,22.5,21.0," xlink:title="1" d="M13056.1523,-3329.3706L13056.1554,-3329.3673L13056.193,-3329.34L13056.216,-3329.323L13056.2495,-3329.3051L13056.2773,-3329.2902L13056.3068,-3329.2702L13056.3433,-3329.2487L13056.3658,-3329.2331L13056.3891,-3329.2109L13056.4187,-3329.1822L13056.4416,-3329.1542L13056.4548,-3329.136L13056.4703,-3329.1229L13056.4874,-3329.1131L13056.5403,-3329.087"/>
+</g>
+</svg>

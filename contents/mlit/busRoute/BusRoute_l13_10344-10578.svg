@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14091.064453125 -3844.66552734375 0.274658203125 0.274658203125" go:dataArea="14091.064453125 -3844.66552734375 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,大和町,落合線,1.5,0.0,0.0," xlink:title="2" d="M14091.3134,-3844.3909L14091.3019,-3844.4055L14091.2922,-3844.4222L14091.2855,-3844.4414L14091.2691,-3844.4831L14091.2554,-3844.5095L14091.2218,-3844.5636L14091.1917,-3844.6075L14091.1839,-3844.6179L14091.1645,-3844.6458L14091.1509,-3844.6621L14091.1482,-3844.6655"/>
+</g>
+</svg>

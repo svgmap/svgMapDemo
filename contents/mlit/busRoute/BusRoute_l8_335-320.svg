@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14194.3359375 -3937.5 8.7890625 8.7890625" go:dataArea="14194.3359375 -3937.5 8.7890625 8.7890625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,岩手県交通（株）,赤浜・浪板線,32.5,27.0,27.0," xlink:title="1" d="M14194.3359,-3936.9086L14194.3423,-3936.9108L14194.3554,-3936.9176L14194.3749,-3936.926L14194.3829,-3936.9328L14194.4097,-3936.9604L14194.4264,-3936.9835L14194.4315,-3936.9964L14194.4373,-3937.0088L14194.4489,-3937.0426L14194.4525,-3937.0601L14194.4525,-3937.0933L14194.4496,-3937.1063L14194.4445,-3937.1189L14194.4424,-3937.1243L14194.4329,-3937.1383L14194.4177,-3937.1558L14194.3964,-3937.1766L14194.3359,-3937.2306"/>
+</g>
+</svg>

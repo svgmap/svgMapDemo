@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="12971.5576171875 -3316.7724609375 0.54931640625 0.54931640625" go:dataArea="12971.5576171875 -3316.7724609375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,佐世保市,2961_黒髪→勝山風平→おし分,1.0,1.0,1.0," xlink:title="2" d="M12972.0409,-3316.7725L12972.0683,-3316.7623L12972.0707,-3316.7725"/>
+<path content="2,佐世保市,3001_新み→総病・みなとターミナル,5.0,5.0,5.0," xlink:title="2" d="M12972.0683,-3316.7623L12972.0911,-3316.7468L12972.1069,-3316.734"/>
+<path content="2,佐世保市,3001_新み→総病・みなとターミナル,5.0,5.0,5.0," xlink:title="2" d="M12972.0683,-3316.7623L12972.0409,-3316.7725"/>
+<path content="2,佐世保市,3001_新み→総病・みなとターミナル,5.0,5.0,5.0," xlink:title="2" d="M12972.0707,-3316.7725L12972.0683,-3316.7623"/>
+<path content="2,佐世保市,7612_佐駅→高俵平→ＳＳＫ西門口,12.0,12.0,12.0," xlink:title="2" d="M12972.0409,-3316.7725L12972.0683,-3316.7623L12972.0707,-3316.7725"/>
+<path content="2,佐世保市,7622_佐駅→俵高平Ｓ→おし分,13.0,13.0,13.0," xlink:title="2" d="M12972.0409,-3316.7725L12972.0683,-3316.7623L12972.0707,-3316.7725"/>
+</g>
+</svg>

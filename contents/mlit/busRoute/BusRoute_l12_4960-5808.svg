@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13974.609375 -3559.5703125 0.54931640625 0.54931640625" go:dataArea="13974.609375 -3559.5703125 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,京浜急行バス・羽田京急バス,井12,13.0,13.0,13.0," xlink:title="1" d="M13974.8893,-3559.5703L13974.9435,-3559.568L13975.072,-3559.5606L13975.0861,-3559.5598L13975.1187,-3559.5585L13975.1191,-3559.5703"/>
+<path content="1,京浜急行バス・羽田京急バス,森22,56.5,51.5,51.5," xlink:title="1" d="M13974.8893,-3559.5703L13974.9435,-3559.568L13975.072,-3559.5606L13975.0861,-3559.5598L13975.1187,-3559.5585L13975.1191,-3559.5703"/>
+<path content="1,京浜急行バス・羽田京急バス,森30,3.0,3.0,3.0," xlink:title="1" d="M13974.8893,-3559.5703L13974.9435,-3559.568L13975.072,-3559.5606L13975.0861,-3559.5598L13975.1187,-3559.5585L13975.1546,-3559.5567L13975.1587,-3559.5566"/>
+<path content="1,京浜急行バス・羽田京急バス,森40,1.0,1.0,1.0," xlink:title="1" d="M13975.0673,-3559.021L13975.0763,-3559.1071L13975.0846,-3559.1984L13975.0969,-3559.3285L13975.1007,-3559.362L13975.1058,-3559.4179L13975.1164,-3559.5159L13975.1168,-3559.5242L13975.1187,-3559.5585L13975.1546,-3559.5567L13975.1587,-3559.5566"/>
+<path content="1,京浜急行バス（株）,品川シーサイド・大井町～羽田空港線,27.5,27.5,27.5," xlink:title="1" d="M13975.1587,-3559.5566L13975.1546,-3559.5567L13975.1187,-3559.5585L13975.0861,-3559.5598L13975.072,-3559.5606L13974.9435,-3559.568L13974.8893,-3559.5703"/>
+</g>
+</svg>

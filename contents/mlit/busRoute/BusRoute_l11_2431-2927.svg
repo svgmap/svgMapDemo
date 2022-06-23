@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13920.7763671875 -3534.3017578125 1.0986328125 1.0986328125" go:dataArea="13920.7763671875 -3534.3017578125 1.0986328125 1.0986328125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,湘南神奈交バス,二31,6.0,3.0,3.0," xlink:title="1" d="M13921.5956,-3533.2031L13921.5912,-3533.2043L13921.5817,-3533.2041L13921.4636,-3533.2283L13921.4399,-3533.2345L13921.436,-3533.2281L13921.4204,-3533.2031"/>
+<path content="1,神奈川中央交通（株）,二31,7.0,6.5,6.5," xlink:title="1" d="M13921.5956,-3533.2031L13921.5912,-3533.2043L13921.5817,-3533.2041L13921.4636,-3533.2283L13921.4399,-3533.2345L13921.436,-3533.2281L13921.4204,-3533.2031"/>
+<path content="1,神奈川中央交通（株）,秦15,7.5,6.0,6.0," xlink:title="1" d="M13921.875,-3533.2139L13921.8722,-3533.2132L13921.8341,-3533.2031"/>
+<path content="1,神奈川中央交通（株）,秦92,26.5,18.5,18.5," xlink:title="1" d="M13921.875,-3533.2139L13921.8722,-3533.2132L13921.8341,-3533.2031"/>
+<path content="1,神奈川中央交通（株）,秦96,3.5,0.0,0.0," xlink:title="1" d="M13921.875,-3533.2139L13921.8722,-3533.2132L13921.8341,-3533.2031"/>
+</g>
+</svg>

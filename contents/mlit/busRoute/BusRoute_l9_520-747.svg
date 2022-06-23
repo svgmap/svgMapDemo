@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13535.15625 -3467.28515625 4.39453125 4.39453125" go:dataArea="13535.15625 -3467.28515625 4.39453125 4.39453125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,北港観光バス（株）,舞洲アクティブバス,60.0,60.0,45.0," xlink:title="1" d="M13539.5508,-3466.427L13539.5388,-3466.4262L13539.527,-3466.4248L13539.5115,-3466.4206L13539.4738,-3466.4084L13539.455,-3466.4035L13539.4369,-3466.3998L13539.422,-3466.398L13539.4044,-3466.3955L13539.4028,-3466.3963L13539.3854,-3466.3958L13539.3507,-3466.3952L13539.305,-3466.3991L13539.2751,-3466.4042L13539.2498,-3466.411L13539.2205,-3466.4211L13539.1905,-3466.4341L13539.1435,-3466.4594L13539.138,-3466.4634L13539.1121,-3466.4825L13539.1002,-3466.4954L13539.0924,-3466.5006L13539.0713,-3466.5248L13539.0582,-3466.5382"/>
+<path content="1,大阪運輸振興（株）,USJ直行バス,1.0,1.3,1.3," xlink:title="1" d="M13539.5508,-3465.3848L13539.17,-3464.9947L13539.5508,-3464.5681"/>
+<path content="2,大阪市,81,14.0,21.5,21.5," xlink:title="2" d="M13539.5508,-3466.427L13539.5388,-3466.4262L13539.527,-3466.4248L13539.5115,-3466.4206L13539.4738,-3466.4084L13539.455,-3466.4035L13539.4369,-3466.3998L13539.422,-3466.398L13539.4044,-3466.3955L13539.3854,-3466.3958L13539.3507,-3466.3952L13539.305,-3466.3991L13539.2751,-3466.4042L13539.2498,-3466.411L13539.2205,-3466.4211L13539.1905,-3466.4341L13539.1435,-3466.4594L13539.138,-3466.4634L13539.1121,-3466.4825L13539.1002,-3466.4954"/>
+</g>
+</svg>

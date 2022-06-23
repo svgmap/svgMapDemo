@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="12972.10693359375 -3316.7724609375 0.274658203125 0.274658203125" go:dataArea="12972.10693359375 -3316.7724609375 0.274658203125 0.274658203125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="2,佐世保市,3001_新み→総病・みなとターミナル,5.0,5.0,5.0," xlink:title="2" d="M12972.1069,-3316.734L12972.1744,-3316.6795L12972.2152,-3316.6478L12972.28,-3316.6016L12972.3373,-3316.564L12972.377,-3316.5376L12972.3816,-3316.5336"/>
+<path content="2,佐世保市,3021_新みなと→総病→佐世保駅,5.0,5.0,5.0," xlink:title="2" d="M12972.3816,-3316.7302L12972.2328,-3316.6352L12972.28,-3316.6016L12972.3373,-3316.564L12972.377,-3316.5376L12972.3816,-3316.5336"/>
+<path content="2,佐世保市,6651_新みなとﾀｰﾐﾅﾙ前→佐世保商業高校,5.0,5.0,5.0," xlink:title="2" d="M12972.3816,-3316.5336L12972.377,-3316.5376L12972.3373,-3316.564L12972.28,-3316.6016L12972.2328,-3316.6352L12972.3816,-3316.7302"/>
+</g>
+</svg>

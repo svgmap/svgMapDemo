@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="14085.845947265625 -3826.263427734375 0.034332275390625 0.034332275390625" go:dataArea="14085.845947265625 -3826.263427734375 0.034332275390625 0.034332275390625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="1,北陸鉄道（株）,高速バス　金沢⇔仙台,1.0,1.0,1.0," xlink:title="1" d="M14085.846,-3826.2291L14085.8459,-3826.2291"/>
+<path content="1,名鉄バス（株）,名古屋～仙台,1.0,1.0,1.0," xlink:title="1" d="M14085.846,-3826.2291L14085.8459,-3826.2291"/>
+<path content="1,富山地方鉄道（株）,仙台（高速バス）,1.0,1.0,1.0," xlink:title="1" d="M14085.8459,-3826.2291L14085.846,-3826.2291"/>
+<path content="1,新潟交通（株）・JRバス東北,仙台高速バス,8.0,8.0,8.0," xlink:title="1" d="M14085.8459,-3826.2291L14085.846,-3826.2291"/>
+<path content="1,近鉄バス（株）,大阪・京都⇔仙台,1.0,1.0,1.0," xlink:title="1" d="M14085.8459,-3826.2291L14085.846,-3826.2291"/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="N07_001,N07_002,N07_003,N07_004,N07_005,N07_006,N07_007" viewBox="13951.5380859375 -3566.162109375 0.54931640625 0.54931640625" go:dataArea="13951.5380859375 -3566.162109375 0.54931640625 0.54931640625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <circle cx="0.0" cy="0.0" r="3" stroke="green" stroke-width="0.75" vector-effect="non-scaling-stroke" />
+ </g>
+</defs>
+<g fill="none" fill-rule="evenodd" stroke="#FF00FF" stroke-width="0.75" opacity="0.5" vector-effect="non-scaling-stroke" stroke-linejoin="bevel" >
+<path content="3,府中市,押立町ルート,11.0,11.0,11.0," xlink:title="3" d="M13951.7571,-3565.6128L13951.7421,-3565.6369L13951.7235,-3565.6638L13951.6931,-3565.7032L13951.6704,-3565.7263L13951.6428,-3565.7528L13951.6186,-3565.7736L13951.5903,-3565.7984L13951.589,-3565.7995L13951.5841,-3565.8023L13951.5683,-3565.8119L13951.5538,-3565.8203L13951.5502,-3565.8306L13951.5531,-3565.844L13951.5689,-3565.8823L13951.5703,-3565.8925L13951.5662,-3565.9049L13951.5565,-3565.9195L13951.5482,-3565.9347L13951.5425,-3565.962L13951.5381,-3565.963"/>
+</g>
+</svg>
