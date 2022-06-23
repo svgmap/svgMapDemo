@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="13500.0 -9000.0 4500.0 4500.0" go:dataArea="13500.0 -9000.0 4500.0 4500.0" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f17" content="陸上自衛隊礼文分屯地,3,ヘリポート等（場外離着陸場含む）陸上自衛隊,1,礼文町,,50×50" xlink:title="陸上自衛隊礼文分屯地" transform="ref(svg,14105.0741,-4543.6557)" x="0" y="0"/>
+<use xlink:href="#p0" id="f31" content="航空自衛隊稚内分屯基地,3,ヘリポート等（場外離着陸場含む）航空自衛隊,1,稚内市,,45×35" xlink:title="航空自衛隊稚内分屯基地" transform="ref(svg,14164.826,-4543.7885)" x="0" y="0"/>
+<use xlink:href="#p0" id="f126" content="旧須古頓小学校グランド,3,飛行場外離陸場,1,礼文郡礼文町大字船泊村字スコトントマリ738-1,," xlink:title="旧須古頓小学校グランド" transform="ref(svg,14097.0597,-4545.7013)" x="0" y="0"/>
+<use xlink:href="#p0" id="f127" content="緑ヶ丘公園グランド,3,飛行場外離陸場,1,礼文郡礼文町大字香深村字カフカイ1140,," xlink:title="緑ヶ丘公園グランド" transform="ref(svg,14104.5987,-4534.2629)" x="0" y="0"/>
+<use xlink:href="#p0" id="f289" content="幌延小学校グランド,3,指定離陸場（道防災航空室）,1,幌延町25-1,,170×140" xlink:title="幌延小学校グランド" transform="ref(svg,14185.6787,-4501.465)" x="0" y="0"/>
+<use xlink:href="#p0" id="f290" content="稚内空港,3,指定離陸場（道防災航空室）,1,稚内市大字声間村字声間6744,,'2,120×487'" xlink:title="稚内空港" transform="ref(svg,14179.7059,-4540.0341)" x="0" y="0"/>
+<use xlink:href="#p0" id="f291" content="鬼志別小学校グランド,3,指定離陸場（道防災航空室）,1,猿払村字鬼志別北町178,,130×100" xlink:title="鬼志別小学校グランド" transform="ref(svg,14211.43,-4533.4847)" x="0" y="0"/>
+<use xlink:href="#p0" id="f292" content="浜頓別高校グランド,3,指定離陸場（道防災航空室）,1,浜頓別町緑ヶ丘5-15,,200×100" xlink:title="浜頓別高校グランド" transform="ref(svg,14236.0565,-4511.6669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f296" content="豊富,1,指定離陸場（道防災航空室）,1,天塩郡豊富町字西豊富,豊富町,25×20" xlink:title="豊富" transform="ref(svg,14175.8869,-4510.0485)" x="0" y="0"/>
+<use xlink:href="#p0" id="f297" content="礼文空港,3,指定離陸場（道防災航空室）,1,礼文町大字船泊村字幌泊377,,800×25" xlink:title="礼文空港" transform="ref(svg,14104.1792,-4545.2673)" x="0" y="0"/>
+<use xlink:href="#p0" id="f298" content="利尻町ヘリポート,3,指定離陸場（道防災航空室）,1,利尻町沓形字蘭泊174,,7×21" xlink:title="利尻町ヘリポート" transform="ref(svg,14114.8523,-4516.1865)" x="0" y="0"/>
+<use xlink:href="#p0" id="f299" content="利尻空港,3,指定離陸場（道防災航空室）,1,利尻富士町鴛泊本泊,,'1,800×45'" xlink:title="利尻空港" transform="ref(svg,14118.426,-4524.3387)" x="0" y="0"/>
+</g>
+</svg>

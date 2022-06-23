@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="12375.0 -3937.5 562.5 562.5" go:dataArea="12375.0 -3937.5 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f11842" content="豊玉ヘリポート,3,離着陸場,42,対馬市豊玉町仁位,," xlink:title="豊玉ヘリポート" transform="ref(svg,12930.5872,-3438.4612)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11843" content="対馬空港,3,離着陸場,42,対馬市美津島町知乙440,," xlink:title="対馬空港" transform="ref(svg,12932.645,-3428.6613)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11943" content="陸上自衛隊訓練場,3,離着陸適地,42,対馬市厳原町厳原東里,陸上自衛隊,'140×80（11,200m2）'" xlink:title="陸上自衛隊訓練場" transform="ref(svg,12929.8518,-3420.4098)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11944" content="鶏知中学校,3,離着陸適地,42,対馬市美津島町知甲555,対馬市長,'130×80（10,400m2）'" xlink:title="鶏知中学校" transform="ref(svg,12931.099,-3426.8123)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11945" content="美津島北部小学校,3,離着陸適地,42,対馬市美津島町芦浦60,対馬市長,'107×107（11,449m2）'" xlink:title="美津島北部小学校" transform="ref(svg,12936.4365,-3434.7138)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11946" content="豊玉小学校,3,離着陸適地,42,対馬市豊玉町仁位1903,対馬市長,'113×78（8,814m2）'" xlink:title="豊玉小学校" transform="ref(svg,12931.1419,-3439.0155)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11947" content="陸上競技場,3,離着陸適地,42,対馬市峰町三根,対馬市長,'180×160（28,800m2）'" xlink:title="陸上競技場" transform="ref(svg,12931.4101,-3446.2604)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11952" content="佐護小中学校運動場,3,離着陸適地,42,対馬市上県町佐護北里993,対馬市長,'85×88（7,480m2）'" xlink:title="佐護小中学校運動場" transform="ref(svg,12935.2625,-3461.8707)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11953" content="仁田小学校運動場,3,離着陸適地,42,対馬市上県町樫滝326,対馬市長,'120×80（9,600m2）'" xlink:title="仁田小学校運動場" transform="ref(svg,12935.5047,-3453.1356)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11954" content="仁田中学校運動場,3,離着陸適地,42,対馬市上県町樫滝702,対馬市長,'120×83（9,960m2）'" xlink:title="仁田中学校運動場" transform="ref(svg,12934.8251,-3452.9417)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11955" content="久原小中学校運動場,3,離着陸適地,42,対馬市上県町久原212,対馬市長,'80×80（6,400m2）'" xlink:title="久原小中学校運動場" transform="ref(svg,12931.0872,-3451.19)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11956" content="旧伊奈小中学校運動場,3,離着陸適地,42,対馬市上県町伊奈1427,対馬市長,'80×50（4,000m2）'" xlink:title="旧伊奈小中学校運動場" transform="ref(svg,12931.2218,-3456.2277)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11957" content="上県町総合運動公園野球場,3,離着陸適地,42,対馬市上県町樫滝685,対馬市長,'120×110（13,200m2）'" xlink:title="上県町総合運動公園野球場" transform="ref(svg,12934.9539,-3452.8798)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11958" content="上県町総合運動公園多目的広場,3,離着陸適地,42,対馬市上県町樫滝685,対馬市長,'200×100（20,000m2）'" xlink:title="上県町総合運動公園多目的広場" transform="ref(svg,12934.3346,-3453.0442)" x="0" y="0"/>
+</g>
+</svg>

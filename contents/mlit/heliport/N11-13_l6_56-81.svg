@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="12937.5 -3304.6875 70.3125 70.3125" go:dataArea="12937.5 -3304.6875 70.3125 70.3125" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f11763" content="大野原屋外運動場,3,災害時に活用する臨時へリポート一覧,41,嬉野市嬉野町大字岩屋川内丙,嬉野市,100×80" xlink:title="大野原屋外運動場" transform="ref(svg,12999.5695,-3303.9725)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11865" content="長崎空港Ａ地区,3,離着陸場,42,大村市今津町201,," xlink:title="長崎空港Ａ地区" transform="ref(svg,12993.2555,-3293.0786)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11866" content="ＮＢＣ、十八銀行グランド,3,離着陸適地,42,長崎市戸石町,ＮＢＣ十八銀行,'112×100（12,100m2）'" xlink:title="ＮＢＣ、十八銀行グランド" transform="ref(svg,12997.5824,-3276.2621)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11867" content="松山陸上競技場,3,離着陸適地,42,長崎市松山町,長崎市長,'97×195（18,915m2）'" xlink:title="松山陸上競技場" transform="ref(svg,12986.1326,-3277.2815)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11868" content="旧長崎式見高等学校,3,離着陸適地,42,長崎市四杖町363,長崎県知事,'100×110（11,000m2）'" xlink:title="旧長崎式見高等学校" transform="ref(svg,12978.6535,-3279.265)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11869" content="神ノ島,3,離着陸適地,42,長崎市神の島3-525-1,長崎県知事,'50×50（2,500m2）'" xlink:title="神ノ島" transform="ref(svg,12982.0041,-3272.249)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11870" content="唐八景,3,離着陸適地,42,長崎市田上町278-1,長崎市長," xlink:title="唐八景" transform="ref(svg,12988.8814,-3271.9015)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11871" content="南部地区公園（ソフトボール）,3,離着陸適地,42,長崎市ダイヤランド4-4,長崎市長,'174×96（16,704m2）'" xlink:title="南部地区公園（ソフトボール）" transform="ref(svg,12986.1192,-3269.9913)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11872" content="稲佐山公園駐車場,3,離着陸適地,42,長崎市稲佐町364,長崎市長,'240×120（28,800m2）'" xlink:title="稲佐山公園駐車場" transform="ref(svg,12984.6337,-3275.8299)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11873" content="長崎市総合運動競技場（補助競技場）,3,離着陸適地,42,長崎市柿泊町2210,長崎市長,'160×82（13,600m2）'" xlink:title="長崎市総合運動競技場（補助競技場）" transform="ref(svg,12981.9086,-3277.406)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11874" content="長崎鶴洋高等学校,3,離着陸適地,42,長崎市末石町157-1,長崎県知事,'100×100（10,000m2）'" xlink:title="長崎鶴洋高等学校" transform="ref(svg,12983.7325,-3268.4672)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11875" content="外海総合公園,3,離着陸適地,42,長崎市下黒崎町252-1,長崎市長,'108×70（7,185m2）'" xlink:title="外海総合公園" transform="ref(svg,12972.1389,-3284.0159)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11876" content="西海岸公園,3,離着陸適地,42,長崎市高島町2707,長崎市長,'170×77（10,780m2）'" xlink:title="西海岸公園" transform="ref(svg,12975.1409,-3265.6756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11877" content="もとみや公園内｢衣笠球場｣,3,離着陸適地,42,長崎市為石町,長崎市長,'110×130（14,300m2）'" xlink:title="もとみや公園内｢衣笠球場｣" transform="ref(svg,12983.1102,-3265.2221)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11878" content="香焼小学校,3,離着陸適地,42,長崎市香焼町493,長崎市長,'100×100（10,000m2）'" xlink:title="香焼小学校" transform="ref(svg,12981.4591,-3268.9575)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11879" content="香焼中学校,3,離着陸適地,42,長崎市香焼町563,長崎市長,'70×100（7,000m2）'" xlink:title="香焼中学校" transform="ref(svg,12981.2059,-3268.8103)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11880" content="総合公園グランド,3,離着陸適地,42,長崎市香焼町字岩原2582,長崎市長,'150×90（13,500m2）'" xlink:title="総合公園グランド" transform="ref(svg,12979.9066,-3269.0071)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11881" content="伊王島小学校,3,離着陸適地,42,長崎市伊王島町1-3273,長崎市長,'50×106（5,300m2）'" xlink:title="伊王島小学校" transform="ref(svg,12977.645,-3270.5998)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11882" content="野母崎高等学校,3,離着陸適地,42,長崎市野母崎町高浜1995,長崎県知事,'72×120（9,144m2）'" xlink:title="野母崎高等学校" transform="ref(svg,12978.9335,-3260.6229)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11883" content="野母崎中学校,3,離着陸適地,42,長崎市野母崎町1,長崎市長,'92×120（9,900m2）'" xlink:title="野母崎中学校" transform="ref(svg,12975.9826,-3258.2764)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11884" content="川原小学校,3,離着陸適地,42,長崎市三和町大字宮崎271,長崎市長,'70×75（5,040m2）'" xlink:title="川原小学校" transform="ref(svg,12983.4235,-3262.575)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11885" content="松島炭坑株式会社池島鉱業所所有地池島小学校,3,離着陸適地,42,長崎市池島町1522,松嶋炭坑（株）池島鉱業所,'84×123（10,332m2）'" xlink:title="松島炭坑株式会社池島鉱業所所有地池島小学校" transform="ref(svg,12959.6147,-3288.3281)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11886" content="北部グランド,3,離着陸適地,42,長崎市琴海町大平郷638-10,長崎市長,'160×130（20,800m2）'" xlink:title="北部グランド" transform="ref(svg,12980.0922,-3295.4061)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11921" content="市営野球場,3,離着陸適地,42,諫早市宇都町9-1,諫早市長,'100×100（193,400m2）'" xlink:title="市営野球場" transform="ref(svg,13003.8379,-3284.5626)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11922" content="喜々津中学校,3,離着陸適地,42,諫早市多良見町中里30,諫早市長,'65×100（15,126m2）'" xlink:title="喜々津中学校" transform="ref(svg,12997.4011,-3282.6672)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11924" content="飯盛東小学校,3,離着陸適地,42,諫早市飯盛町中山653,諫早市長,'60×100（12,903m2）'" xlink:title="飯盛東小学校" transform="ref(svg,13002.2415,-3278.2214)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11927" content="緊急ヘリポート（半造川）,3,離着陸適地,42,諫早市鷲崎町半造川右岸2k000付近,国土交通省長崎河川国道事務所,20×20（400m2）" xlink:title="緊急ヘリポート（半造川）" transform="ref(svg,13006.8055,-3283.4912)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11928" content="緊急ヘリポート（本明川河川敷）,3,離着陸適地,42,諫早市仲沖町本明川右岸3k600付近,国土交通省長崎河川国道事務所,20×20（400m2）" xlink:title="緊急ヘリポート（本明川河川敷）" transform="ref(svg,13006.2814,-3284.6942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11929" content="ロザ・モタ広場,3,離着陸適地,42,大村市東野岳町1113,大村市長,'Ｄ＝７５（4,416m2）'" xlink:title="ロザ・モタ広場" transform="ref(svg,12998.5105,-3297.7065)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11984" content="西彼中学校,3,離着陸適地,42,西海市西彼町喰場郷1173,西海市長,'12,000m2'" xlink:title="西彼中学校" transform="ref(svg,12976.1543,-3299.2805)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11986" content="大崎高等学校,3,離着陸適地,42,西海市大島町3520,長崎県知事,'100×110（19,265m2）'" xlink:title="大崎高等学校" transform="ref(svg,12958.8691,-3302.7704)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11987" content="大瀬戸中学校,3,離着陸適地,42,西海市大瀬戸町瀬戸樫浦郷1624,西海市長,'130×90（11,700m2）'" xlink:title="大瀬戸中学校" transform="ref(svg,12965.3203,-3293.9669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11988" content="西海スポーツガーデングラウンド,3,離着陸適地,42,西海市西海町木場郷,西海市長,'120×80（9,600m2）'" xlink:title="西海スポーツガーデングラウンド" transform="ref(svg,12969.7818,-3304.3592)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11989" content="大島総合公園,3,離着陸適地,42,西海市大島町2620,西海市長,'150×100（15,000m2）'" xlink:title="大島総合公園" transform="ref(svg,12960.5058,-3303.0443)" x="0" y="0"/>
+<use xlink:href="#p0" id="f11990" content="大島東小学校,3,離着陸適地,42,西海市大島町1922-2,西海市長,'100×100（10,000m2）'" xlink:title="大島東小学校" transform="ref(svg,12962.3441,-3303.346)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12011" content="長与北小学校,3,離着陸適地,42,長与町斉藤郷370,長与町長,'150×80（12,000m2）'" xlink:title="長与北小学校" transform="ref(svg,12986.9673,-3283.9257)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12012" content="長与総合公園ふれあい広場,3,離着陸適地,42,長与町岡郷1474-8,長与町長,'120×85（10,200m2）'" xlink:title="長与総合公園ふれあい広場" transform="ref(svg,12986.919,-3285.0092)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12013" content="長与総合公園運動広場,3,離着陸適地,42,長与町岡郷658-13,長与町長,'150×92（13,800m2）'" xlink:title="長与総合公園運動広場" transform="ref(svg,12987.0853,-3284.7253)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12014" content="とぎつ海と緑の運動公園,3,離着陸適地,42,時津町日並郷,時津町長,'25,364m2'" xlink:title="とぎつ海と緑の運動公園" transform="ref(svg,12983.3838,-3284.8487)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12015" content="南公園,3,離着陸適地,42,時津町元村郷、野田郷,時津町長,'13,564m2'" xlink:title="南公園" transform="ref(svg,12984.4771,-3281.9135)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12016" content="時津ウオーターフロント公園,3,離着陸適地,42,時津町浦郷,時津町長,'20,000m2'" xlink:title="時津ウオーターフロント公園" transform="ref(svg,12984.938,-3283.1667)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12017" content="町営屋外運動場,3,離着陸適地,42,東彼杵町彼杵宿郷,東彼杵町長,'100×130（13,400m2）'" xlink:title="町営屋外運動場" transform="ref(svg,12993.1187,-3303.0222)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12018" content="彼杵中学校,3,離着陸適地,42,東彼杵町蔵本郷1663,東彼杵町長,'110×80（8,800m2）'" xlink:title="彼杵中学校" transform="ref(svg,12991.0839,-3304.1092)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12030" content="長崎新聞,2,,42,長崎市,（株）長崎新聞社,24×22.5" xlink:title="長崎新聞" transform="ref(svg,12986.3065,-3276.4371)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12031" content="宮崎病院,2,,42,諫早市,（医）三佼会宮崎病院,21×18" xlink:title="宮崎病院" transform="ref(svg,13000.229,-3283.0292)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12032" content="長崎医療センター,2,,42,大村市,独立行政法人国立病院機構長崎医療センター,21×17" xlink:title="長崎医療センター" transform="ref(svg,12997.2847,-3289.5252)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12695" content="福連木山村広場,3,ヘリコプター発着予定地（天草管内）,43,天草市天草町福連木3646,,64*81" xlink:title="福連木山村広場" transform="ref(svg,13007.1805,-3242.1088)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12696" content="下田北小学校,3,ヘリコプター発着予定地（天草管内）,43,天草市天草町下田北1489,,106*40" xlink:title="下田北小学校" transform="ref(svg,13001.051,-3242.308)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12697" content="高浜小学校,3,ヘリコプター発着予定地（天草管内）,43,天草市天草町高浜南2714,,88*60" xlink:title="高浜小学校" transform="ref(svg,12999.8612,-3237.2087)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12698" content="天草中学校,3,ヘリコプター発着予定地（天草管内）,43,天草市天草町高浜南488-1,,150*80" xlink:title="天草中学校" transform="ref(svg,12999.8236,-3237.8929)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12700" content="天草十三仏公園,3,ヘリコプター発着予定地（天草管内）,43,天草市天草町高浜字北小崎185,,70*70" xlink:title="天草十三仏公園" transform="ref(svg,12999.0763,-3238.514)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12701" content="下田南小学校グラウンド,3,ヘリコプター発着予定地（天草管内）,43,天草市天草町下田南737-1,,70*70" xlink:title="下田南小学校グラウンド" transform="ref(svg,13000.9673,-3239.7682)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12702" content="天草総合グラウンド,3,ヘリコプター発着予定地（天草管内）,43,天草市天草町高浜高浜北1675-1,,120*100" xlink:title="天草総合グラウンド" transform="ref(svg,13000.1627,-3238.1665)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12732" content="都呂々公民館,3,ヘリコプター発着予定地（天草管内）,43,苓北町都呂々狸川内,,60*50" xlink:title="都呂々公民館" transform="ref(svg,13004.0658,-3247.0396)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12735" content="志岐小学校,3,ヘリコプター発着予定地（天草管内）,43,苓北町志岐天神木,,90*70" xlink:title="志岐小学校" transform="ref(svg,13005.3383,-3251.2078)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12736" content="苓北中学校,3,ヘリコプター発着予定地（天草管内）,43,苓北町志岐紺屋町,,70*120" xlink:title="苓北中学校" transform="ref(svg,13004.5958,-3250.7826)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12737" content="熊本県立苓洋高校,3,ヘリコプター発着予定地（天草管内）,43,苓北町富岡出来町,,150*100" xlink:title="熊本県立苓洋高校" transform="ref(svg,13003.804,-3251.1426)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12738" content="富岡小学校,3,ヘリコプター発着予定地（天草管内）,43,苓北町富岡2,,80*60" xlink:title="富岡小学校" transform="ref(svg,13003.3019,-3252.2844)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12739" content="都呂々中学校,3,ヘリコプター発着予定地（天草管内）,43,苓北町都呂々浜,,100*60" xlink:title="都呂々中学校" transform="ref(svg,13003.9006,-3246.8712)" x="0" y="0"/>
+<use xlink:href="#p0" id="f12740" content="農村運動広場,3,ヘリコプター発着予定地（天草管内）,43,苓北町志岐城下,,120*90" xlink:title="農村運動広場" transform="ref(svg,13005.5636,-3250.4351)" x="0" y="0"/>
+</g>
+</svg>

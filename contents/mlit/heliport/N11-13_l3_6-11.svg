@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="12375.0 -2812.5 562.5 562.5" go:dataArea="12375.0 -2812.5 562.5 562.5" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f13374" content="請島ヘリポート、請阿室ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,瀬戸内町請阿室岬8、阿室崎8、池地コン間原27,瀬戸内町長（総務課消防防災係）、瀬戸内町,'1,125'" xlink:title="請島ヘリポート、請阿室ヘリポート" transform="ref(svg,12924.834,-2803.6233)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13375" content="与路島ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,瀬戸内町与路武田原2178,瀬戸内町長（総務課消防防災係）、瀬戸内町,'2,919'" xlink:title="与路島ヘリポート" transform="ref(svg,12915.3523,-2803.6484)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13376" content="徳和瀬総合グランド,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,徳之島町徳和瀬シミヨ765,徳之島町長（総務課消防交通係）、徳之島町," xlink:title="徳和瀬総合グランド" transform="ref(svg,12901.1988,-2775.6004)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13377" content="天城町中央公民館グランド,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,天城町天城字権幕430,天城町長（総務課消防係）、天城町," xlink:title="天城町中央公民館グランド" transform="ref(svg,12889.4347,-2781.6428)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13378" content="伊仙町ヘリポート,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,伊仙町阿三字トシ1380,奄美群島広域事務組合管理者（奄美群島広域事務組合）," xlink:title="伊仙町ヘリポート" transform="ref(svg,12892.1352,-2768.378)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13379" content="和泊町民運動広場,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,和泊町内城字中村279-4,和泊町長（総務課消防係）、和泊町,'29,967'" xlink:title="和泊町民運動広場" transform="ref(svg,12861.6128,-2738.2588)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13380" content="知名町総合グランド,3,場外離着陸場、ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,知名町黒貫字窪川1181-1,知名町長（総務課防災係）、知名町," xlink:title="知名町総合グランド" transform="ref(svg,12857.4155,-2736.1972)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13381" content="与論町緊急用ヘリポート,3,場外離着陸場,46,与論町立長地先与論港茶花地区,与論町長（総務課）," xlink:title="与論町緊急用ヘリポート" transform="ref(svg,12840.5853,-2704.8128)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13664" content="徳之島高校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,徳之島町亀津784,県," xlink:title="徳之島高校" transform="ref(svg,12901.7439,-2773.5261)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13665" content="徳之島空港,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,天城町浅間1-1,県," xlink:title="徳之島空港" transform="ref(svg,12888.2534,-2783.2606)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13666" content="沖永良部空港,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,和泊町国頭,県," xlink:title="沖永良部空港" transform="ref(svg,12870.5143,-2743.2842)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13667" content="知名小学校,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,知名町知名333,知名町," xlink:title="知名小学校" transform="ref(svg,12857.4365,-2733.2287)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13668" content="大山自衛隊ヘリポート,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,知名町住吉,航空自衛隊," xlink:title="大山自衛隊ヘリポート" transform="ref(svg,12856.5957,-2736.2901)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13669" content="与論空港,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,与論町立長,県," xlink:title="与論空港" transform="ref(svg,12840.0456,-2704.3518)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13670" content="町総合グラウンド,3,ヘリコプタ－緊急時離着陸場予定地（場外離着陸場を含む）,46,与論町茶花2030,与論町," xlink:title="町総合グラウンド" transform="ref(svg,12842.2943,-2705.1988)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13671" content="鏡水那覇駐屯地,3,使用可能なヘリポート,47,那覇市,," xlink:title="鏡水那覇駐屯地" transform="ref(svg,12766.1706,-2620.8652)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13672" content="新都心公園多目的広場,3,使用可能なヘリポート,47,那覇市,," xlink:title="新都心公園多目的広場" transform="ref(svg,12769.6403,-2622.912)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13673" content="浦添港川ヘリポート,3,,47,浦添市字港川512-23,浦添総合病院,532.40m2" xlink:title="浦添港川ヘリポート" transform="ref(svg,12771.3205,-2627.4339)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13674" content="島尻消防本部,3,ドクターヘリランデブーポイント,47,南城市玉城字屋嘉部194,通信指令室," xlink:title="島尻消防本部" transform="ref(svg,12777.1237,-2614.7919)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13675" content="志喜屋漁港,3,ドクターヘリランデブーポイント,47,南城市知念字志喜屋9-2,南城市教育委員会," xlink:title="志喜屋漁港" transform="ref(svg,12780.4684,-2614.8205)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13676" content="あざまサンサンビーチ,3,ドクターヘリランデブーポイント,47,南城市知念字安座真1141-3,南城市役所," xlink:title="あざまサンサンビーチ" transform="ref(svg,12782.9185,-2617.8025)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13677" content="冨祖崎公園,3,ドクターヘリランデブーポイント,47,南城市佐敷字仲伊保390-2,南城市長," xlink:title="冨祖崎公園" transform="ref(svg,12779.1477,-2617.7263)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13678" content="大里内原公園,3,ドクターヘリランデブーポイント,47,南城市大里字大里1071,南城市長," xlink:title="大里内原公園" transform="ref(svg,12775.9779,-2619.002)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13679" content="久高,3,ドクターヘリランデブーポイント,47,南城市知念字久高282,久高公民館," xlink:title="久高" transform="ref(svg,12788.957,-2615.8698)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13680" content="堀川農村公園,3,ドクターヘリランデブーポイント,47,南城市玉城字堀川428-1,堀川公民館," xlink:title="堀川農村公園" transform="ref(svg,12776.1747,-2613.4553)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13681" content="ユンイチホテル駐車場,3,ドクターヘリランデブーポイント,47,南城市佐敷字新里1688,タピック沖縄," xlink:title="ユンイチホテル駐車場" transform="ref(svg,12776.8383,-2616.4567)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13682" content="海野漁港,3,ドクターヘリランデブーポイント,47,南城市知念字知名1198,知念漁港協同組合," xlink:title="海野漁港" transform="ref(svg,12781.581,-2619.0588)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13683" content="新開球場,3,ドクターヘリランデブーポイント,47,南城市佐敷字新開1-240,南城市教育委員会," xlink:title="新開球場" transform="ref(svg,12777.637,-2617.4504)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13684" content="新開球場サブグラウンド,3,ドクターヘリランデブーポイント,47,南城市佐敷字新開1-240,南城市教育委員会," xlink:title="新開球場サブグラウンド" transform="ref(svg,12777.7953,-2617.4109)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13685" content="知念体育館駐車場,3,ドクターヘリランデブーポイント,47,南城市知念字久手堅530,南城市教育委員会," xlink:title="知念体育館駐車場" transform="ref(svg,12782.9033,-2616.7644)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13686" content="知念野外運動場,3,ドクターヘリランデブーポイント,47,南城市知念字久手堅819-6,南城市教育委員会," xlink:title="知念野外運動場" transform="ref(svg,12781.6174,-2617.3291)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13687" content="守礼カントリー,3,ドクターヘリランデブーポイント,47,南城市知念字知名1029,守礼カントリー," xlink:title="守礼カントリー" transform="ref(svg,12781.0483,-2617.9338)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13688" content="グスクロード公園,3,ドクターヘリランデブーポイント,47,南城市玉城字中山1212,南城市都市建設課," xlink:title="グスクロード公園" transform="ref(svg,12777.5024,-2614.3915)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13689" content="琉球ゴルフ場,3,ドクターヘリランデブーポイント,47,南城市玉城字親慶原1,玉城園地," xlink:title="琉球ゴルフ場" transform="ref(svg,12778.0864,-2614.6717)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13690" content="玉城中学校グランド,3,ドクターヘリランデブーポイント,47,南城市玉城字冨里153,玉城中学校," xlink:title="玉城中学校グランド" transform="ref(svg,12776.6328,-2614.5499)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13691" content="佐敷中学校グランド,3,ドクターヘリランデブーポイント,47,南城市佐敷字兼久16-1,佐敷中学校," xlink:title="佐敷中学校グランド" transform="ref(svg,12778.4471,-2617.1693)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13692" content="大里中学校グランド,3,ドクターヘリランデブーポイント,47,南城市大里字仲間978,大里中学校," xlink:title="大里中学校グランド" transform="ref(svg,12774.6094,-2617.875)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13693" content="大里南小学校グランド,3,ドクターヘリランデブーポイント,47,南城市大里字仲間1375,大里南小学校," xlink:title="大里南小学校グランド" transform="ref(svg,12774.876,-2617.229)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13694" content="大里北小学校グランド,3,ドクターヘリランデブーポイント,47,南城市大里字嶺井1,大里北小学校," xlink:title="大里北小学校グランド" transform="ref(svg,12775.4982,-2619.3986)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13695" content="玉城小学校グランド,3,ドクターヘリランデブーポイント,47,南城市玉城字屋嘉部3,玉城小学校," xlink:title="玉城小学校グランド" transform="ref(svg,12776.5084,-2614.548)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13696" content="百名小学校グランド,3,ドクターヘリランデブーポイント,47,南城市玉城字百名53,百名小学校," xlink:title="百名小学校グランド" transform="ref(svg,12779.0683,-2614.2533)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13697" content="馬天小学校グランド,3,ドクターヘリランデブーポイント,47,南城市佐敷字津波古1800,馬天小学校," xlink:title="馬天小学校グランド" transform="ref(svg,12776.8753,-2618.0772)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13698" content="知念中学校グランド,3,ドクターヘリランデブーポイント,47,南城市知念字久手堅700,知念中学校," xlink:title="知念中学校グランド" transform="ref(svg,12781.9961,-2617.2193)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13699" content="知念小学校グランド,3,ドクターヘリランデブーポイント,47,南城市知念字久手堅679,知念小学校," xlink:title="知念小学校グランド" transform="ref(svg,12782.0616,-2617.1057)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13700" content="佐敷小学校グランド,3,ドクターヘリランデブーポイント,47,南城市佐敷字佐敷1193,佐敷小学校," xlink:title="佐敷小学校グランド" transform="ref(svg,12778.4363,-2616.8014)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13701" content="久高小中学校グランド,3,ドクターヘリランデブーポイント,47,南城市知念字久高46,久高小中学校," xlink:title="久高小中学校グランド" transform="ref(svg,12788.5021,-2615.5948)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13702" content="徳仁港,3,ドクターヘリランデブーポイント,47,南城市知念字久高,南城市都市建設課," xlink:title="徳仁港" transform="ref(svg,12788.617,-2615.4066)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13703" content="久高港,3,ドクターヘリランデブーポイント,47,南城市知念字久高,南城市都市建設課," xlink:title="久高港" transform="ref(svg,12788.5821,-2616.0383)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13704" content="有銘小中学校グラウンド,3,ヘリポート予定地,47,東村字有銘839,東村教育委員会," xlink:title="有銘小中学校グラウンド" transform="ref(svg,12811.9903,-2660.3344)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13705" content="ふれあいひるぎ公園広場,3,ヘリポート予定地,47,東村字慶佐次54-1,慶佐次区長," xlink:title="ふれあいひるぎ公園広場" transform="ref(svg,12814.4963,-2660.4356)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13706" content="村営グラウンド,3,ヘリポート予定地,47,東村字平良550-2,東村教育委員会," xlink:title="村営グラウンド" transform="ref(svg,12815.4696,-2663.1113)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13707" content="東小中学校グラウンド,3,ヘリポート予定地,47,東村字川田837,東村教育委員会," xlink:title="東小中学校グラウンド" transform="ref(svg,12816.6042,-2663.0849)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13708" content="宮城区グラウンド,3,ヘリポート予定地,47,東村字宮城184-1,宮城区長," xlink:title="宮城区グラウンド" transform="ref(svg,12818.4377,-2662.52)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13709" content="高江小中学校グラウンド,3,ヘリポート予定地,47,東村字高江83-27,東村教育委員会," xlink:title="高江小中学校グラウンド" transform="ref(svg,12825.2737,-2666.2139)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13710" content="福地ダムヘリポート（多目的広場）,3,ヘリポート予定地,47,東村字川田1105-108,北部ダム統合管理事務所," xlink:title="福地ダムヘリポート（多目的広場）" transform="ref(svg,12817.1986,-2664.4997)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13711" content="大保ダムヘリポート（多目的広場）,3,ヘリポート予定地,47,大宜味村田港1357-18,北部ダム統合管理事務所," xlink:title="大保ダムヘリポート（多目的広場）" transform="ref(svg,12814.5416,-2664.8672)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13712" content="喜瀬武原小学校,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,教育長,'8,000m2'" xlink:title="喜瀬武原小学校" transform="ref(svg,12791.0897,-2648.9616)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13713" content="安富祖小学校,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,教育長,'9,000m2'" xlink:title="安富祖小学校" transform="ref(svg,12789.8589,-2651.1945)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13714" content="恩納小学校,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,教育長,'12,000m2'" xlink:title="恩納小学校" transform="ref(svg,12784.4112,-2649.0087)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13715" content="仲泊小学校,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,教育長,'14,000m2'" xlink:title="仲泊小学校" transform="ref(svg,12780.2474,-2644.144)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13716" content="山田小学校,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,教育長,'18,000m2'" xlink:title="山田小学校" transform="ref(svg,12777.6108,-2643.4298)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13717" content="赤間運動場,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,教育長,'17,000m2'" xlink:title="赤間運動場" transform="ref(svg,12784.2224,-2647.1543)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13718" content="恩納漁港,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,村長,'30,000m2'" xlink:title="恩納漁港" transform="ref(svg,12785.7036,-2649.9862)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13719" content="真栄田漁港,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,村長,'18,000m2'" xlink:title="真栄田漁港" transform="ref(svg,12776.3646,-2643.9139)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13720" content="前兼久漁港,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,村長,'15,000m2'" xlink:title="前兼久漁港" transform="ref(svg,12780.1125,-2644.534)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13721" content="瀬良垣漁港,3,（緊急時）ヘリポート予定地,47,国頭郡恩納村,村長,'20,000m2'" xlink:title="瀬良垣漁港" transform="ref(svg,12787.145,-2651.0548)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13722" content="宜野座村総合グランド,3,臨時離着陸場,47,国頭郡宜野座村宜野座246,宜野座村," xlink:title="宜野座村総合グランド" transform="ref(svg,12797.4275,-2648.227)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13723" content="漢那ダム,3,臨時離着陸場,47,国頭郡宜野座村漢那2015,宜野座村," xlink:title="漢那ダム" transform="ref(svg,12795.2619,-2648.4148)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13724" content="読谷ヘリポート,3,ヘリポート,47,中頭郡読谷村,," xlink:title="読谷ヘリポート" transform="ref(svg,12771.4948,-2642.4493)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13725" content="北谷公園野球場,3,使用可能なヘリポート候補地,47,中頭郡北谷町,," xlink:title="北谷公園野球場" transform="ref(svg,12775.8335,-2631.1699)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13726" content="北谷公園陸上競技場,3,使用可能なヘリポート候補地,47,中頭郡北谷町,," xlink:title="北谷公園陸上競技場" transform="ref(svg,12775.6672,-2631.192)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13727" content="桑江総合運動場,3,使用可能なヘリポート候補地,47,中頭郡北谷町,," xlink:title="桑江総合運動場" transform="ref(svg,12776.9557,-2632.3893)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13728" content="北谷小学校運動場,3,使用可能なヘリポート候補地,47,中頭郡北谷町,," xlink:title="北谷小学校運動場" transform="ref(svg,12777.8289,-2632.6182)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13729" content="北谷第二小学校運動場,3,使用可能なヘリポート候補地,47,中頭郡北谷町,," xlink:title="北谷第二小学校運動場" transform="ref(svg,12777.2685,-2632.5215)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13730" content="北玉小学校運動場,3,使用可能なヘリポート候補地,47,中頭郡北谷町,," xlink:title="北玉小学校運動場" transform="ref(svg,12777.3323,-2631.3305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13731" content="浜川小学校運動場,3,使用可能なヘリポート候補地,47,中頭郡北谷町,," xlink:title="浜川小学校運動場" transform="ref(svg,12774.8692,-2632.6259)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13732" content="黄金森公園陸上競技場,3,臨時離着陸場,47,島尻郡南風原町字宮平718-1,南風原町教育委員会," xlink:title="黄金森公園陸上競技場" transform="ref(svg,12773.3551,-2619.0448)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13733" content="救急用ヘリコプター離着陸場,3,ヘリポート,47,渡嘉敷村字渡嘉敷2760,渡嘉敷村,1600m2" xlink:title="救急用ヘリコプター離着陸場" transform="ref(svg,12737.0923,-2620.4855)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13734" content="座間味ヘリポート,3,場外離着陸場,47,座間味村座間味1208,座間味村長," xlink:title="座間味ヘリポート" transform="ref(svg,12730.7177,-2623.2459)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13735" content="阿嘉ヘリポート,3,場外離着陸場,47,座間味村阿嘉953,座間味村長," xlink:title="阿嘉ヘリポート" transform="ref(svg,12728.5988,-2619.5661)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13736" content="慶留間ヘリポート,3,慶良間空港,47,座間味村慶留間942,," xlink:title="慶留間ヘリポート" transform="ref(svg,12729.3353,-2617.0479)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13737" content="粟国空港,3,交通確保・緊急輸送計画,47,島尻郡粟国村字浜4550,沖縄県,20000m2" xlink:title="粟国空港" transform="ref(svg,12723.9681,-2659.2825)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13738" content="渡名喜ヘリポート,3,空中輸送等離着陸場,47,島尻郡渡名喜村,渡名喜村長," xlink:title="渡名喜ヘリポート" transform="ref(svg,12713.9352,-2637.4906)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13741" content="伊是名村緊急患者輸送用ヘリポート,3,緊急患者輸送用ヘリポート,47,島尻郡伊是名村字仲田1687-21,伊是名村長,706.5m2" xlink:title="伊是名村緊急患者輸送用ヘリポート" transform="ref(svg,12794.2067,-2692.3093)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13742" content="東風平運動公園陸上競技場,3,指定ヘリポート、ドクターヘリランデブーポイント,47,八重瀬町字東風平1074、字志多伯440,東風平運動公園," xlink:title="東風平運動公園陸上競技場" transform="ref(svg,12771.469,-2615.383)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13743" content="具志頭運動公園陸上競技場,3,指定ヘリポート、ドクターヘリランデブーポイント,47,八重瀬町字具志頭1300,具志頭運動公園," xlink:title="具志頭運動公園陸上競技場" transform="ref(svg,12774.4903,-2613.1059)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13744" content="東風平中学校運動場,3,指定ヘリポート,47,八重瀬町字東風平267,," xlink:title="東風平中学校運動場" transform="ref(svg,12772.441,-2615.1143)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13745" content="南部徳洲会病院屋上,3,ドクターヘリランデブーポイント,47,八重瀬町字外間171-1,地域連携室," xlink:title="南部徳洲会病院屋上" transform="ref(svg,12771.5646,-2617.8243)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13746" content="南部徳洲会病院駐車場,3,ドクターヘリランデブーポイント,47,八重瀬町字外間170-1,地域連携室," xlink:title="南部徳洲会病院駐車場" transform="ref(svg,12771.6236,-2617.7831)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13747" content="サザンリンクスゴルフクラブ,3,ドクターヘリランデブーポイント,47,八重瀬町字玻名城697,サザンリンクスゴルフクラブ," xlink:title="サザンリンクスゴルフクラブ" transform="ref(svg,12774.0102,-2611.5302)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13748" content="那覇ゴルフクラブ,3,ドクターヘリランデブーポイント,47,八重瀬町字富盛2270,那覇ゴルフクラブ," xlink:title="那覇ゴルフクラブ" transform="ref(svg,12772.1503,-2612.5826)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13749" content="多良間空港,3,緊急時ヘリポート,47,宮古郡多良間村,沖縄県,'1,500m×45m'" xlink:title="多良間空港" transform="ref(svg,12467.6617,-2465.394)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13750" content="波照間空港,3,離着陸場,47,竹富町字波照間4566-27,竹富町,920×60" xlink:title="波照間空港" transform="ref(svg,12380.4988,-2405.9967)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13751" content="竹富島ヘリポート,3,離着陸場,47,竹富町字竹富2357,竹富町,22×22" xlink:title="竹富島ヘリポート" transform="ref(svg,12409.1997,-2433.5093)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13752" content="西表島東部地区（大原ヘリポート）,3,離着陸場,47,竹富町字191-78,竹富町,22×22" xlink:title="西表島東部地区（大原ヘリポート）" transform="ref(svg,12387.6541,-2427.5242)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13753" content="西表島西部地区（住吉ヘリポート）,3,離着陸場,47,竹富町字上原10-302,竹富町,22×22" xlink:title="西表島西部地区（住吉ヘリポート）" transform="ref(svg,12376.973,-2443.2664)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13754" content="小浜ヘリ離着陸場施設,3,離着陸場,47,竹富町字小浜669-2,竹富町,22×22" xlink:title="小浜ヘリ離着陸場施設" transform="ref(svg,12398.1222,-2434.4541)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13755" content="黒島ヘリ離着陸場施設,3,離着陸場,47,竹富町字黒島825-1,竹富町,22×22" xlink:title="黒島ヘリ離着陸場施設" transform="ref(svg,12399.731,-2424.0733)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13756" content="鳩間ヘリ離着陸場施設,3,離着陸場,47,竹富町字鳩間607,竹富町,22×22" xlink:title="鳩間ヘリ離着陸場施設" transform="ref(svg,12382.3857,-2446.8362)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13757" content="新城ヘリ離着陸場施設,3,離着陸場,47,竹富町字新城上地地内,竹富町,22×22" xlink:title="新城ヘリ離着陸場施設" transform="ref(svg,12394.064,-2423.3616)" x="0" y="0"/>
+<use xlink:href="#p0" id="f13758" content="沖縄県警察,2,,47,那覇市,沖縄県,18×15" xlink:title="沖縄県警察" transform="ref(svg,12768.1166,-2621.1424)" x="0" y="0"/>
+</g>
+</svg>

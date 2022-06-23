@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:go="http://purl.org/svgmap/profile" property="名称,航空法分類,地域防災計画分類,都道府県コード,所在地,管理者名,滑走路面積" viewBox="13500.0 -3656.25 140.625 140.625" go:dataArea="13500.0 -3656.25 140.625 140.625" >
+<metadata>
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:crs="http://opengis.org/xmldtds/transformations.dtd" xmlns:svg="http://www.w3.org/svg" >
+  <rdf:Description>
+   <crs:CoordinateReferenceSystem rdf:resource="http://purl.org/crs/84" svg:transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+  </rdf:Description>
+ </rdf:RDF>
+</metadata>
+<globalCoordinateSystem srsName="http://purl.org/crs/84" transform="matrix(100.0,0.0,0.0,-100.0,0.0,0.0)" />
+<defs>
+ <g id="p0" >
+  <image xlink:href="mappin.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p1" >
+  <image xlink:href="mappin1.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p2" >
+  <image xlink:href="mappin2.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p3" >
+  <image xlink:href="mappin3.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p4" >
+  <image xlink:href="mappin4.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+ <g id="p5" >
+  <image xlink:href="mappin5.png" preserveAspectRatio="none" x="-8" y="-25" width="19" height="27"/>
+ </g>
+</defs>
+<g fill="green" fill-rule="evenodd" >
+<use xlink:href="#p0" id="f4677" content="加賀市陸上競技場,3,場外着陸場（加賀市消防本部管内）,17,加賀市山田町リ245-2,加賀市教育委員会スポーツ課," xlink:title="加賀市陸上競技場" transform="ref(svg,13633.1631,-3632.6875)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4678" content="竹の浦館前グランド,3,場外着陸場（加賀市消防本部管内）,17,加賀市大聖寺瀬越町東濱上木境1-2,加賀市地域振興部農林水産課," xlink:title="竹の浦館前グランド" transform="ref(svg,13626.505,-3629.5653)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4679" content="錦城小学校グランド,3,場外着陸場（加賀市消防本部管内）,17,加賀市大聖寺八間道57,錦城小学校," xlink:title="錦城小学校グランド" transform="ref(svg,13630.6824,-3630.801)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4680" content="山中球場,3,場外着陸場（加賀市消防本部管内）,17,加賀市山中温泉東桂木町ヌ11-2,加賀市教育委員会スポーツ課," xlink:title="山中球場" transform="ref(svg,13637.3124,-3625.5218)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4681" content="菅谷小学校グランド,3,場外着陸場（加賀市消防本部管内）,17,加賀市山中温泉菅谷町ニ32,菅谷小学校," xlink:title="菅谷小学校グランド" transform="ref(svg,13636.2052,-3623.0055)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4684" content="福井空港,3,空港,18,坂井市春江町江留中50-1-2,福井県," xlink:title="福井空港" transform="ref(svg,13622.3891,-3614.0097)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4685" content="若狭,1,公共用ヘリポート,18,小浜市高塚地係,福井県、福井県嶺南振興局小浜土木事務所,35×30" xlink:title="若狭" transform="ref(svg,13578.5199,-3549.0306)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4686" content="福井県立病院,2,非公共用ヘリポート,18,福井市四ッ井8-1,福井県、福井県立病院,21×17" xlink:title="福井県立病院" transform="ref(svg,13623.9167,-3606.8889)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4687" content="防災ステーション,3,場外離着陸場,18,福井市土橋町3-80-1,福井市," xlink:title="防災ステーション" transform="ref(svg,13618.53,-3610.1518)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4688" content="和田公園,3,場外離着陸場,18,福井市御幸4-4,福井市," xlink:title="和田公園" transform="ref(svg,13623.8391,-3605.6207)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4689" content="足羽川木田橋河川敷,3,場外離着陸場,18,福井市勝見1地係,福井市," xlink:title="足羽川木田橋河川敷" transform="ref(svg,13622.2806,-3605.4024)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4690" content="越廼グラウンド,3,場外離着陸場,18,福井市茱崎町地係,福井市," xlink:title="越廼グラウンド" transform="ref(svg,13601.5955,-3604.2602)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4691" content="下宇坂小学校グラウンド,3,場外離着陸場,18,福井市市波町55-5,福井市," xlink:title="下宇坂小学校グラウンド" transform="ref(svg,13633.2176,-3601.5964)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4692" content="きららパーク清水,3,場外離着陸場,18,福井市風巻町20-17,福井市," xlink:title="きららパーク清水" transform="ref(svg,13614.644,-3602.6764)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4693" content="九頭竜森田河川敷,3,場外離着陸場,18,福井市上野本町地係,福井市," xlink:title="九頭竜森田河川敷" transform="ref(svg,13623.3548,-3610.733)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4694" content="福井運動公園補助球場,3,場外離着陸場,18,福井市福町地係,福井県運動公園事務所," xlink:title="福井運動公園補助球場" transform="ref(svg,13618.1797,-3604.9992)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4695" content="鷹巣海水浴場駐車場,3,場外離着陸場,18,福井市免鳥町地係,鷹巣観光協会," xlink:title="鷹巣海水浴場駐車場" transform="ref(svg,13607.1881,-3613.4342)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4696" content="福井赤十字病院,3,場外離着陸場,18,福井市月見2-4-1,福井赤十字病院," xlink:title="福井赤十字病院" transform="ref(svg,13621.2667,-3604.7475)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4697" content="消防学校グラウンド,3,場外離着陸場,18,福井市大畑町97-21-3,福井県消防学校," xlink:title="消防学校グラウンド" transform="ref(svg,13628.4172,-3604.8132)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4698" content="おいわけ,3,場外離着陸場,18,福井市末町地係,北日本不動産（株）," xlink:title="おいわけ" transform="ref(svg,13610.2581,-3606.2972)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4699" content="敦賀総合運動公園陸上競技場,3,場外離着陸場,18,敦賀市沓見地係,敦賀市," xlink:title="敦賀総合運動公園陸上競技場" transform="ref(svg,13603.3625,-3564.0575)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4700" content="松原運動場,3,場外離着陸場,18,敦賀市松島町地係,敦賀市," xlink:title="松原運動場" transform="ref(svg,13605.2594,-3565.584)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4701" content="田結海水浴場駐車場,3,場外離着陸場,18,敦賀市田結地係,福井県嶺南振興局敦賀港湾事務所," xlink:title="田結海水浴場駐車場" transform="ref(svg,13608.2474,-3568.0385)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4702" content="敦賀港,3,場外離着陸場,18,敦賀市金ヶ崎地係,福井県嶺南振興局敦賀港湾事務所," xlink:title="敦賀港" transform="ref(svg,13607.277,-3567.9052)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4703" content="敦賀原子力館グラウンド,3,場外離着陸場,18,敦賀市明神町1,日本原電（株）敦賀発電所," xlink:title="敦賀原子力館グラウンド" transform="ref(svg,13602.7731,-3574.8156)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4704" content="白木漁港,3,場外離着陸場,18,敦賀市白木1地係,敦賀市," xlink:title="白木漁港" transform="ref(svg,13597.5395,-3573.2527)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4705" content="小浜市中央グラウンド,3,場外離着陸場,18,小浜市後瀬町地係,小浜市," xlink:title="小浜市中央グラウンド" transform="ref(svg,13575.0809,-3549.4652)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4706" content="小浜市総合運動場,3,場外離着陸場,18,小浜市口田縄5-23,小浜市," xlink:title="小浜市総合運動場" transform="ref(svg,13572.6184,-3545.8291)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4717" content="鯖江市御幸公園,3,場外離着陸場,18,鯖江市御幸町4-1,鯖江市," xlink:title="鯖江市御幸公園" transform="ref(svg,13618.8945,-3597.7121)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4718" content="鯖江市陸上競技場,3,場外離着陸場,18,鯖江市東鯖江3-6,鯖江市," xlink:title="鯖江市陸上競技場" transform="ref(svg,13619.9008,-3594.5128)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4719" content="鯖江市丸山公園,3,場外離着陸場,18,鯖江市丸山町4地係,鯖江市," xlink:title="鯖江市丸山公園" transform="ref(svg,13617.9033,-3598.4188)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4720" content="河和田小学校グラウンド,3,場外離着陸場,18,鯖江市西袋町67-8,鯖江市," xlink:title="河和田小学校グラウンド" transform="ref(svg,13627.8903,-3595.2641)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4721" content="国影グラウンド,3,場外離着陸場,18,あわら市国影地係,あわら市," xlink:title="国影グラウンド" transform="ref(svg,13620.6885,-3622.7918)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4722" content="湯のまちグラウンド,3,場外離着陸場,18,あわら市田中々地係,あわら市," xlink:title="湯のまちグラウンド" transform="ref(svg,13619.4397,-3622.1755)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4723" content="トリムパークかなづ,3,場外離着陸場,18,あわら市山室67-30-1,あわら市," xlink:title="トリムパークかなづ" transform="ref(svg,13624.7483,-3621.7453)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4724" content="剱岳グラウンド,3,場外離着陸場,18,あわら市鎌谷地係,あわら市," xlink:title="剱岳グラウンド" transform="ref(svg,13628.8532,-3620.2711)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4725" content="武生東運動公園陸上競技場,3,場外離着陸場,18,越前市西尾町32-2,越前市," xlink:title="武生東運動公園陸上競技場" transform="ref(svg,13621.9406,-3589.4856)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4726" content="日野川武生河川敷,3,場外離着陸場,18,越前市帆山町地係,越前市," xlink:title="日野川武生河川敷" transform="ref(svg,13617.3498,-3590.0221)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4727" content="武生中央公園野球場,3,場外離着陸場,18,越前市高瀬2-7,越前市," xlink:title="武生中央公園野球場" transform="ref(svg,13615.8944,-3589.9949)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4728" content="岡本小学校グラウンド,3,場外離着陸場,18,越前市定友町10-15,越前市," xlink:title="岡本小学校グラウンド" transform="ref(svg,13624.4756,-3591.4409)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4729" content="八ツ杉千年の森広場,3,場外離着陸場,18,越前市別印町地係,越前市," xlink:title="八ツ杉千年の森広場" transform="ref(svg,13630.8236,-3588.719)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4730" content="太陽の広場,3,場外離着陸場,18,越前市安養寺町地係,越前市," xlink:title="太陽の広場" transform="ref(svg,13608.0662,-3592.209)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4731" content="サンドーム福井,3,場外離着陸場,18,越前市瓜生町5-1-1,越前市," xlink:title="サンドーム福井" transform="ref(svg,13618.5981,-3593.1894)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4732" content="テクノ９号,3,場外離着陸場,18,坂井市三国町新保地係,福井県港湾事務所," xlink:title="テクノ９号" transform="ref(svg,13613.4126,-3620.5304)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4733" content="テクノ１２号,3,場外離着陸場,18,坂井市三国町新保地係,福井県港湾事務所," xlink:title="テクノ１２号" transform="ref(svg,13612.9713,-3620.4321)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4734" content="テクノ訓練場,3,場外離着陸場,18,坂井市三国町黒目24字52,福井県港湾事務所," xlink:title="テクノ訓練場" transform="ref(svg,13612.9665,-3618.9507)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4735" content="三国運動公園陸上競技場,3,場外離着陸場,18,坂井市三国町運動公園1地係,坂井市," xlink:title="三国運動公園陸上競技場" transform="ref(svg,13614.7855,-3622.6498)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4736" content="福井大学病院,3,場外離着陸場,18,永平寺町松岡下合月23-3,福井大学," xlink:title="福井大学病院" transform="ref(svg,13628.5859,-3611.1357)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4737" content="九頭竜川五松橋河川敷,3,場外離着陸場,18,永平寺町松岡上合月地係,永平寺町," xlink:title="九頭竜川五松橋河川敷" transform="ref(svg,13629.8521,-3609.8894)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4738" content="ゆめパーク松岡,3,場外離着陸場,18,永平寺町松岡湯谷53-8-1,永平寺町," xlink:title="ゆめパーク松岡" transform="ref(svg,13629.4517,-3606.3514)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4739" content="永平寺緑の村,3,場外離着陸場,18,永平寺町山9-4-1,永平寺町," xlink:title="永平寺緑の村" transform="ref(svg,13632.6265,-3608.9607)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4740" content="永平寺河川公園,3,場外離着陸場,18,永平寺町谷口地係,永平寺町," xlink:title="永平寺河川公園" transform="ref(svg,13633.8217,-3609.408)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4741" content="上志比中学校グラウンド,3,場外離着陸場,18,永平寺町栗住波16-47,永平寺町," xlink:title="上志比中学校グラウンド" transform="ref(svg,13639.5386,-3607.4914)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4743" content="浄法寺山青少年旅行村,3,場外離着陸場,18,永平寺町上浄法寺68-1-2,永平寺町," xlink:title="浄法寺山青少年旅行村" transform="ref(svg,13636.8789,-3612.4383)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4744" content="千石平飛行場,3,場外離着陸場,18,永平寺町鳴鹿山鹿地係,高嶋善彦," xlink:title="千石平飛行場" transform="ref(svg,13633.6528,-3610.8045)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4745" content="池田能楽の里,3,場外離着陸場,18,池田町藪田5-1,池田町," xlink:title="池田能楽の里" transform="ref(svg,13634.554,-3589.5312)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4746" content="シーサイドパーク,3,場外離着陸場,18,南越前町河野地係,南越前町," xlink:title="シーサイドパーク" transform="ref(svg,13606.5805,-3582.818)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4747" content="レインボーパーク,3,場外離着陸場,18,南越前町牧谷地係,南越前町," xlink:title="レインボーパーク" transform="ref(svg,13619.9042,-3583.1827)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4748" content="南条総合運動公園,3,場外離着陸場,18,南越前町牧谷123-6,南越前町," xlink:title="南条総合運動公園" transform="ref(svg,13621.181,-3583.6837)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4749" content="今庄３６５スキー場駐車場,3,場外離着陸場,18,南越前町板取85-37,南越前町," xlink:title="今庄３６５スキー場駐車場" transform="ref(svg,13615.0237,-3572.2232)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4750" content="今庄中学校グラウンド,3,場外離着陸場,18,南越前町今庄27-20,南越前町," xlink:title="今庄中学校グラウンド" transform="ref(svg,13619.7573,-3577.9133)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4751" content="今庄スポーツパーク４７６,3,場外離着陸場,18,南越前町古木50-59,南越前町," xlink:title="今庄スポーツパーク４７６" transform="ref(svg,13626.7482,-3579.3842)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4752" content="越前町営球技場,3,場外離着陸場,18,越前町上川去字11-1-1,越前町," xlink:title="越前町営球技場" transform="ref(svg,13613.6317,-3596.8985)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4753" content="越前町営球技場駐車場,3,場外離着陸場,18,越前町上川去字地係,越前町," xlink:title="越前町営球技場駐車場" transform="ref(svg,13613.5432,-3597.0174)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4754" content="旧糸生中学校グラウンド,3,場外離着陸場,18,越前町小倉89-53,越前町," xlink:title="旧糸生中学校グラウンド" transform="ref(svg,13609.5059,-3599.4683)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4755" content="宮崎総合運動場,3,場外離着陸場,18,越前町樫津地係,越前町," xlink:title="宮崎総合運動場" transform="ref(svg,13608.5403,-3593.9074)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4756" content="越前陶芸村スポーツ広場,3,場外離着陸場,18,越前町小曽原地係,越前町," xlink:title="越前陶芸村スポーツ広場" transform="ref(svg,13605.959,-3593.4301)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4757" content="アクティブランド運動場,3,場外離着陸場,18,越前町厨地係,越前町," xlink:title="アクティブランド運動場" transform="ref(svg,13599.6697,-3591.8693)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4758" content="織田小学校グラウンド,3,場外離着陸場,18,越前町大王丸20-17,越前町," xlink:title="織田小学校グラウンド" transform="ref(svg,13604.4472,-3595.6897)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4759" content="美浜町民広場,3,場外離着陸場,18,美浜町久々子27-1-2,美浜町," xlink:title="美浜町民広場" transform="ref(svg,13591.2572,-3560.2829)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4760" content="美浜町オフサイトセンター,3,場外離着陸場,18,美浜町佐田地係,美浜町," xlink:title="美浜町オフサイトセンター" transform="ref(svg,13598.3946,-3562.4155)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4761" content="美浜北小学校グラウンド,3,場外離着陸場,18,美浜町笹田15-1,美浜町," xlink:title="美浜北小学校グラウンド" transform="ref(svg,13590.1607,-3561.1526)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4762" content="新庄小学校グラウンド,3,場外離着陸場,18,美浜町新庄65-104,美浜町," xlink:title="新庄小学校グラウンド" transform="ref(svg,13597.2857,-3556.4341)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4763" content="若狭和田マリーナ,3,場外離着陸場,18,高浜町和田167,若狭高浜漁業協同組合," xlink:title="若狭和田マリーナ" transform="ref(svg,13557.8289,-3549.905)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4764" content="高浜町立球場,3,場外離着陸場,18,高浜町宮崎92-1-1,高浜町," xlink:title="高浜町立球場" transform="ref(svg,13554.496,-3548.5366)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4765" content="旧日引小学校グラウンド,3,場外離着陸場,18,高浜町日引21-6,高浜町," xlink:title="旧日引小学校グラウンド" transform="ref(svg,13546.9799,-3554.0551)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4766" content="旧音海小中学校グラウンド,3,場外離着陸場,18,高浜町音海30-13,高浜町," xlink:title="旧音海小中学校グラウンド" transform="ref(svg,13551.3256,-3553.607)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4767" content="おおい町多目的グラウンド,3,場外離着陸場,18,おおい町成和2-1-1,おおい町," xlink:title="おおい町多目的グラウンド" transform="ref(svg,13560.876,-3548.3305)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4768" content="おおいオフサイトセンター,3,場外離着陸場,18,おおい町成和1-1-1,おおい町," xlink:title="おおいオフサイトセンター" transform="ref(svg,13560.5149,-3548.3394)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4769" content="名田庄中学校グラウンド,3,場外離着陸場,18,おおい町名田庄小倉3-5,おおい町," xlink:title="名田庄中学校グラウンド" transform="ref(svg,13566.5847,-3540.3756)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4770" content="しーまいる,3,場外離着陸場,18,おおい町大島91-71,おおい町," xlink:title="しーまいる" transform="ref(svg,13564.23,-3552.4265)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4771" content="野木小学校グラウンド,3,場外離着陸場,18,若狭町武生14-5,若狭町," xlink:title="野木小学校グラウンド" transform="ref(svg,13582.9781,-3547.523)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4772" content="市姫運動公園,3,場外離着陸場,18,若狭町市場8-27,若狭町," xlink:title="市姫運動公園" transform="ref(svg,13586.0452,-3545.9337)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4773" content="若狭町営ゲートボール場,3,場外離着陸場,18,若狭町北前川27-8,若狭町," xlink:title="若狭町営ゲートボール場" transform="ref(svg,13590.8346,-3555.0079)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4774" content="三方中学校グラウンド,3,場外離着陸場,18,若狭町北前川48-10,若狭町," xlink:title="三方中学校グラウンド" transform="ref(svg,13591.2872,-3555.069)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4775" content="岬小学校グラウンド,3,場外離着陸場,18,若狭町神子14-4,若狭町," xlink:title="岬小学校グラウンド" transform="ref(svg,13583.9637,-3561.7012)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4776" content="常神漁港岩壁,3,場外離着陸場,18,若狭町常神地係,若狭町," xlink:title="常神漁港岩壁" transform="ref(svg,13582.3334,-3563.7492)" x="0" y="0"/>
+<use xlink:href="#p0" id="f4777" content="小川漁港岩壁,3,場外離着陸場,18,若狭町小川地係,若狭町," xlink:title="小川漁港岩壁" transform="ref(svg,13583.9845,-3560.7655)" x="0" y="0"/>
+<use xlink:href="#p0" id="f5796" content="坂内遊らんど駐車場（坂内村）,3,防災ヘリコプター飛行場外離着陸場,21,揖斐川町坂内広瀬甚田原1366,,250×50" xlink:title="坂内遊らんど駐車場（坂内村）" transform="ref(svg,13640.4629,-3561.3226)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7658" content="大津　和邇市民運動広場,3,飛行場外離着陸場,25,大津市和邇今宿851,," xlink:title="大津　和邇市民運動広場" transform="ref(svg,13592.2656,-3515.8525)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7659" content="大津　比良げんき村グラウンド,3,飛行場外離着陸場,25,大津市北小松,," xlink:title="大津　比良げんき村グラウンド" transform="ref(svg,13596.5958,-3525.679)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7661" content="彦根　彦根市消防署南分署,3,飛行場外離着陸場,25,彦根市稲里町320,," xlink:title="彦根　彦根市消防署南分署" transform="ref(svg,13619.8743,-3522.0854)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7662" content="彦根　荒神山公園多目的広場,3,飛行場外離着陸場,25,彦根市日夏町4769,," xlink:title="彦根　荒神山公園多目的広場" transform="ref(svg,13620.3226,-3523.9906)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7663" content="彦根　パナソニック彦根グラウンド,3,飛行場外離着陸場,25,彦根市岡町33,," xlink:title="彦根　パナソニック彦根グラウンド" transform="ref(svg,13625.1152,-3524.9807)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7664" content="彦根　彦根総合運動場陸上競技場,3,飛行場外離着陸場,25,彦根市松原町3028,," xlink:title="彦根　彦根総合運動場陸上競技場" transform="ref(svg,13625.6484,-3528.1754)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7665" content="彦根　鳥居本公園多目的広場,3,飛行場外離着陸場,25,彦根市鳥居本町西山の上1165,," xlink:title="彦根　鳥居本公園多目的広場" transform="ref(svg,13629.1857,-3527.6762)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7666" content="長浜　湖北地域消防本部グラウンド,3,飛行場外離着陸場,25,長浜市加田町977,," xlink:title="長浜　湖北地域消防本部グラウンド" transform="ref(svg,13629.0458,-3536.0929)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7667" content="長浜　神照運動公園グラウンド,3,飛行場外離着陸場,25,長浜市神照町215-1,," xlink:title="長浜　神照運動公園グラウンド" transform="ref(svg,13627.9295,-3539.5247)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7668" content="長浜　豊公園自由広場,3,飛行場外離着陸場,25,長浜市大島町公園10-1,," xlink:title="長浜　豊公園自由広場" transform="ref(svg,13626.1173,-3537.5562)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7669" content="長浜　浅井グラウンドゴルフ場,3,飛行場外離着陸場,25,長浜市西主計町地先,," xlink:title="長浜　浅井グラウンドゴルフ場" transform="ref(svg,13631.2747,-3542.8645)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7670" content="長浜　奥びわスポーツの森多目的広場,3,飛行場外離着陸場,25,長浜市早崎町1667,," xlink:title="長浜　奥びわスポーツの森多目的広場" transform="ref(svg,13620.667,-3541.365)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7671" content="長浜　びわ南小学校グラウンド,3,飛行場外離着陸場,25,長浜市川道町3456,," xlink:title="長浜　びわ南小学校グラウンド" transform="ref(svg,13623.9308,-3540.5885)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7672" content="長浜　虎姫高校グラウンド,3,飛行場外離着陸場,25,長浜市宮部町2410,," xlink:title="長浜　虎姫高校グラウンド" transform="ref(svg,13626.7042,-3541.9701)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7673" content="長浜　虎姫運動広場,3,飛行場外離着陸場,25,長浜市宮部町3378-1,," xlink:title="長浜　虎姫運動広場" transform="ref(svg,13626.5346,-3542.2945)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7674" content="長浜　山本山運動広場,3,飛行場外離着陸場,25,長浜市湖北町山本2868,," xlink:title="長浜　山本山運動広場" transform="ref(svg,13620.7529,-3544.1416)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7675" content="長浜　湖北中学校グラウンド,3,飛行場外離着陸場,25,長浜市湖北町速水1191,," xlink:title="長浜　湖北中学校グラウンド" transform="ref(svg,13624.2221,-3544.3566)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7676" content="長浜　高時川運動広場,3,飛行場外離着陸場,25,長浜市湖北町速水2024,," xlink:title="長浜　高時川運動広場" transform="ref(svg,13624.4457,-3544.4947)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7677" content="長浜　高月運動広場,3,飛行場外離着陸場,25,長浜市高月町高月820-1,," xlink:title="長浜　高月運動広場" transform="ref(svg,13622.4926,-3546.9535)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7678" content="長浜　高月中学校グラウンド,3,飛行場外離着陸場,25,長浜市高月町高月560,," xlink:title="長浜　高月中学校グラウンド" transform="ref(svg,13623.5864,-3547.2458)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7679" content="長浜　木之本運動広場,3,飛行場外離着陸場,25,長浜市木之本町西山350,," xlink:title="長浜　木之本運動広場" transform="ref(svg,13621.3247,-3549.6639)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7680" content="長浜　木之本中学校グラウンド,3,飛行場外離着陸場,25,長浜市木之本町木之本682,," xlink:title="長浜　木之本中学校グラウンド" transform="ref(svg,13622.8439,-3550.5295)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7681" content="長浜　伊香分署駐車場,3,飛行場外離着陸場,25,長浜市木之本町大音151,," xlink:title="長浜　伊香分署駐車場" transform="ref(svg,13621.0953,-3550.2697)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7682" content="長浜　鏡岡中学校グラウンド,3,飛行場外離着陸場,25,長浜市余呉町中之郷771,," xlink:title="長浜　鏡岡中学校グラウンド" transform="ref(svg,13620.3173,-3554.4981)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7683" content="長浜　ウッディパル余呉駐車場,3,飛行場外離着陸場,25,長浜市余呉町下丹生506-1,," xlink:title="長浜　ウッディパル余呉駐車場" transform="ref(svg,13622.3955,-3554.939)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7684" content="長浜　西浅井中学校グラウンド,3,飛行場外離着陸場,25,長浜市西浅井町塩津中312,," xlink:title="長浜　西浅井中学校グラウンド" transform="ref(svg,13615.9099,-3552.3687)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7687" content="近江八幡　沖島前浜,3,飛行場外離着陸場,25,近江八幡市沖島町前浜,," xlink:title="近江八幡　沖島前浜" transform="ref(svg,13606.0764,-3520.4067)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7690" content="近江八幡　安土大中グラウンド,3,飛行場外離着陸場,25,近江八幡市安土町下豊浦地先,," xlink:title="近江八幡　安土大中グラウンド" transform="ref(svg,13612.4262,-3516.7853)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7721" content="高島　ピックランドグラウンド,3,飛行場外離着陸場,25,高島市マキノ町寺久保835-1,," xlink:title="高島　ピックランドグラウンド" transform="ref(svg,13603.9161,-3547.0789)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7722" content="高島　陸自大供グラウンド,3,飛行場外離着陸場,25,高島市今津町平郷923,," xlink:title="高島　陸自大供グラウンド" transform="ref(svg,13602.0137,-3540.3865)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7723" content="高島　高島市消防本部グラウンド,3,飛行場外離着陸場,25,高島市今津町日置前5150,," xlink:title="高島　高島市消防本部グラウンド" transform="ref(svg,13601.7292,-3542.3264)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7724" content="高島　総合運動公園駐車場,3,飛行場外離着陸場,25,高島市今津町日置前3110,," xlink:title="高島　総合運動公園駐車場" transform="ref(svg,13599.8156,-3541.5294)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7725" content="高島　朽木中学校グラウンド,3,飛行場外離着陸場,25,高島市朽木市場1055,," xlink:title="高島　朽木中学校グラウンド" transform="ref(svg,13591.364,-3535.2936)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7726" content="高島　京都精華大学朽木グラウンド,3,飛行場外離着陸場,25,高島市朽木古屋472,," xlink:title="高島　京都精華大学朽木グラウンド" transform="ref(svg,13581.0477,-3533.9468)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7727" content="高島　グリーンパーク想い出の森,3,飛行場外離着陸場,25,高島市朽木柏341-3,," xlink:title="高島　グリーンパーク想い出の森" transform="ref(svg,13591.9294,-3534.3214)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7728" content="高島　梅ノ子運動公園,3,飛行場外離着陸場,25,高島市安曇川町南古賀地先,," xlink:title="高島　梅ノ子運動公園" transform="ref(svg,13600.6513,-3534.3765)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7729" content="高島　びわ湖こどもの国芝生広場,3,飛行場外離着陸場,25,高島市安曇川町北船木2981,," xlink:title="高島　びわ湖こどもの国芝生広場" transform="ref(svg,13607.5146,-3532.0623)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7730" content="高島　高島市横山農村広場,3,飛行場外離着陸場,25,高島市武曽横山468,," xlink:title="高島　高島市横山農村広場" transform="ref(svg,13599.2394,-3532.5079)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7731" content="高島　高島運動公園,3,飛行場外離着陸場,25,高島市宮野1516,," xlink:title="高島　高島運動公園" transform="ref(svg,13600.2372,-3530.5661)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7732" content="高島　新旭グラウンド,3,飛行場外離着陸場,25,高島市新旭町新庄地先,," xlink:title="高島　新旭グラウンド" transform="ref(svg,13603.591,-3534.0606)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7733" content="高島　森林スポーツ公園野球場,3,飛行場外離着陸場,25,高島市新旭町熊野本245,," xlink:title="高島　森林スポーツ公園野球場" transform="ref(svg,13602.5503,-3535.6121)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7743" content="東近江　愛知消防署,3,飛行場外離着陸場,25,東近江市小八木町16,," xlink:title="東近江　愛知消防署" transform="ref(svg,13626.2368,-3515.651)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7744" content="東近江　愛知消防署訓練場,3,飛行場外離着陸場,25,東近江市小八木町16,," xlink:title="東近江　愛知消防署訓練場" transform="ref(svg,13626.0562,-3515.7429)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7746" content="東近江　滋賀県消防学校,3,飛行場外離着陸場,25,東近江市神郷町314,," xlink:title="東近江　滋賀県消防学校" transform="ref(svg,13619.0235,-3517.7627)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7747" content="東近江　ふれあい運動公園,3,飛行場外離着陸場,25,東近江市福堂町地先,," xlink:title="東近江　ふれあい運動公園" transform="ref(svg,13613.0043,-3521.0511)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7748" content="東近江　市民スポーツセンター,3,飛行場外離着陸場,25,東近江市山路町600,," xlink:title="東近江　市民スポーツセンター" transform="ref(svg,13615.7275,-3518.5945)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7749" content="米原　グリーンパーク山東,3,飛行場外離着陸場,25,米原市池下80-1,," xlink:title="米原　グリーンパーク山東" transform="ref(svg,13636.1573,-3537.6008)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7750" content="米原　奥伊吹スキー場第4駐車場,3,飛行場外離着陸場,25,米原市甲津原530,," xlink:title="米原　奥伊吹スキー場第4駐車場" transform="ref(svg,13638.3235,-3552.0823)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7751" content="米原　蓮池公園グラウンド,3,飛行場外離着陸場,25,米原市朝妻筑摩2483,," xlink:title="米原　蓮池公園グラウンド" transform="ref(svg,13627.188,-3532.1064)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7752" content="米原　双葉中学校グラウンド,3,飛行場外離着陸場,25,米原市顔戸233,," xlink:title="米原　双葉中学校グラウンド" transform="ref(svg,13630.9028,-3533.7249)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7753" content="米原　米原消防署グラウンド,3,飛行場外離着陸場,25,米原市長岡2811-1,," xlink:title="米原　米原消防署グラウンド" transform="ref(svg,13636.0458,-3534.0006)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7754" content="米原　伊吹3合目グラウンド,3,飛行場外離着陸場,25,米原市上野伊吹山地先,," xlink:title="米原　伊吹3合目グラウンド" transform="ref(svg,13639.5143,-3540.4156)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7761" content="愛荘　秦荘グラウンド,3,飛行場外離着陸場,25,愛知郡愛荘町軽野甲248,," xlink:title="愛荘　秦荘グラウンド" transform="ref(svg,13625.3105,-3516.3266)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7763" content="愛荘　愛荘町ふれあいスポーツ公園,3,飛行場外離着陸場,25,愛知郡愛荘町長野1973,," xlink:title="愛荘　愛荘町ふれあいスポーツ公園" transform="ref(svg,13620.4117,-3518.5954)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7764" content="豊郷　スポーツ公園グラウンド,3,飛行場外離着陸場,25,犬上郡豊郷町下枝147,," xlink:title="豊郷　スポーツ公園グラウンド" transform="ref(svg,13621.828,-3519.0368)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7765" content="甲良　運動公園,3,飛行場外離着陸場,25,犬上郡甲良町池寺1232-8,," xlink:title="甲良　運動公園" transform="ref(svg,13626.8758,-3518.7927)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7766" content="甲良　防災ステーション,3,飛行場外離着陸場,25,犬上郡甲良町小川原906-8,," xlink:title="甲良　防災ステーション" transform="ref(svg,13625.802,-3522.563)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7767" content="多賀　町民グラウンド,3,飛行場外離着陸場,25,犬上郡多賀町多賀赤坂351-8,," xlink:title="多賀　町民グラウンド" transform="ref(svg,13629.3048,-3521.8566)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7768" content="多賀　滝の宮スポーツ公園グラウンド,3,飛行場外離着陸場,25,犬上郡多賀町富之尾1586-5,," xlink:title="多賀　滝の宮スポーツ公園グラウンド" transform="ref(svg,13629.676,-3519.1697)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7769" content="多賀　調整池駐車場,3,飛行場外離着陸場,25,犬上郡多賀町多賀315,," xlink:title="多賀　調整池駐車場" transform="ref(svg,13629.3789,-3522.0534)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7771" content="彦根市立病院,3,病院関係（屋上）飛行場外離着陸場,25,彦根市八坂町1882,," xlink:title="彦根市立病院" transform="ref(svg,13622.5312,-3526.2195)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7772" content="長浜赤十字病院,3,病院関係（屋上）飛行場外離着陸場,25,長浜市宮前町14-7,," xlink:title="長浜赤十字病院" transform="ref(svg,13627.3373,-3538.3321)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7780" content="大宮自然運動公園,3,臨時ヘリポート,26,京丹後市大宮町善王寺364,," xlink:title="大宮自然運動公園" transform="ref(svg,13507.8346,-3558.9669)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7781" content="峰山総合公園補助グラウンド,3,臨時ヘリポート,26,京丹後市峰山町荒山248,," xlink:title="峰山総合公園補助グラウンド" transform="ref(svg,13506.6303,-3561.9654)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7782" content="弥栄総合運動公園グラウンド,3,臨時ヘリポート,26,京丹後市弥栄町木橋1146,," xlink:title="弥栄総合運動公園グラウンド" transform="ref(svg,13508.1082,-3566.7839)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7784" content="網野グラウンド,3,臨時ヘリポート,26,京丹後市網野町浅茂川43,," xlink:title="網野グラウンド" transform="ref(svg,13501.9031,-3568.0411)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7785" content="竹野グラウンド,3,臨時ヘリポート,26,京丹後市丹後町竹野564,," xlink:title="竹野グラウンド" transform="ref(svg,13511.1846,-3574.0739)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7786" content="（株）ＹＡＫＩＮ大江山,3,臨時ヘリポート,26,与謝野町岩滝2520,," xlink:title="（株）ＹＡＫＩＮ大江山" transform="ref(svg,13515.1404,-3555.6927)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7787" content="宮津市運動公園,3,臨時ヘリポート,26,宮津市字上司297,," xlink:title="宮津市運動公園" transform="ref(svg,13522.5948,-3554.9922)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7788" content="京都府立与謝の海病院,3,臨時ヘリポート,26,与謝郡与謝野町字男山481,," xlink:title="京都府立与謝の海病院" transform="ref(svg,13516.7194,-3556.9942)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7789" content="東舞鶴公園グラウンド,3,臨時ヘリポート,26,舞鶴市字行永,," xlink:title="東舞鶴公園グラウンド" transform="ref(svg,13539.2652,-3545.3469)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7790" content="海上自衛隊舞鶴教育隊第３グラウンド,3,臨時ヘリポート,26,舞鶴市字泉源寺,," xlink:title="海上自衛隊舞鶴教育隊第３グラウンド" transform="ref(svg,13539.748,-3548.2365)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7791" content="西運動広場,3,臨時ヘリポート,26,舞鶴市字伊佐津,," xlink:title="西運動広場" transform="ref(svg,13533.4191,-3544.9274)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7792" content="海上自衛隊グラウンド,3,臨時ヘリポート,26,舞鶴市字余部下,," xlink:title="海上自衛隊グラウンド" transform="ref(svg,13536.9071,-3547.5551)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7793" content="舞鶴海上保安航空支援センター,3,臨時ヘリポート,26,舞鶴市字長浜,," xlink:title="舞鶴海上保安航空支援センター" transform="ref(svg,13535.3625,-3549.2051)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7794" content="加佐運動場,3,臨時ヘリポート,26,舞鶴市字岡田由里,," xlink:title="加佐運動場" transform="ref(svg,13522.3652,-3544.1976)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7795" content="舞鶴工業高等専門学校グラウンド,3,臨時ヘリポート,26,舞鶴市字白屋,," xlink:title="舞鶴工業高等専門学校グラウンド" transform="ref(svg,13543.8572,-3549.6508)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7796" content="青葉山ろく公園グラウンド,3,臨時ヘリポート,26,舞鶴市字岡安,," xlink:title="青葉山ろく公園グラウンド" transform="ref(svg,13543.8379,-3549.979)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7797" content="東舞鶴高等学校グラウンド,3,臨時ヘリポート,26,舞鶴市字泉源寺,," xlink:title="東舞鶴高等学校グラウンド" transform="ref(svg,13541.5054,-3548.3091)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7798" content="海上自衛隊舞鶴航空基地,3,臨時ヘリポート,26,舞鶴市字長浜,," xlink:title="海上自衛隊舞鶴航空基地" transform="ref(svg,13537.7171,-3549.0403)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7799" content="西舞鶴高等学校グラウンド,3,臨時ヘリポート,26,舞鶴市字引土,," xlink:title="西舞鶴高等学校グラウンド" transform="ref(svg,13532.7599,-3543.7784)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7800" content="由良川猪崎河川敷運動広場,3,臨時ヘリポート,26,福知山市字猪崎768-1,," xlink:title="由良川猪崎河川敷運動広場" transform="ref(svg,13513.0328,-3530.4689)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7801" content="府立福知山高等学校岳南グラウンド,3,臨時ヘリポート,26,福知山市字土師776-1,," xlink:title="府立福知山高等学校岳南グラウンド" transform="ref(svg,13514.6995,-3529.4935)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7802" content="府立工業高等学校グラウンド,3,臨時ヘリポート,26,福知山市字石原1300,," xlink:title="府立工業高等学校グラウンド" transform="ref(svg,13517.4278,-3529.567)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7803" content="自衛隊グラウンド,3,臨時ヘリポート,26,福知山市南天田町,," xlink:title="自衛隊グラウンド" transform="ref(svg,13511.9056,-3528.5486)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7804" content="福知山市営球場,3,臨時ヘリポート,26,福知山市和久市223,," xlink:title="福知山市営球場" transform="ref(svg,13511.6251,-3530.95)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7805" content="三段池公園（体育館下）,3,臨時ヘリポート,26,福知山市字猪崎377,," xlink:title="三段池公園（体育館下）" transform="ref(svg,13513.4946,-3531.2709)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7806" content="長田野グラウンド,3,臨時ヘリポート,26,福知山市長田野町2-1,," xlink:title="長田野グラウンド" transform="ref(svg,13515.9847,-3528.7798)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7807" content="三和中学校グラウンド,3,臨時ヘリポート,26,福知山市三和町字千束660,," xlink:title="三和中学校グラウンド" transform="ref(svg,13523.6247,-3521.8733)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7808" content="三和町運動広場,3,臨時ヘリポート,26,福知山市三和町字寺尾4,," xlink:title="三和町運動広場" transform="ref(svg,13522.157,-3522.2396)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7811" content="明正小学校グラウンド,3,臨時ヘリポート,26,福知山市夜久野町字井田522,," xlink:title="明正小学校グラウンド" transform="ref(svg,13500.6136,-3532.1323)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7814" content="教育文化会館グラウンド,3,臨時ヘリポート,26,福知山市夜久野町字額田48-1,," xlink:title="教育文化会館グラウンド" transform="ref(svg,13500.3711,-3531.8338)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7815" content="大江中学校運動場,3,臨時ヘリポート,26,福知山市大江町字波美40,," xlink:title="大江中学校運動場" transform="ref(svg,13516.2407,-3539.0073)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7816" content="福知山市消防防災センターヘリポート,3,臨時ヘリポート,26,福知山市東羽合町46-1,," xlink:title="福知山市消防防災センターヘリポート" transform="ref(svg,13511.5286,-3529.0604)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7817" content="綾部工業団地ヘリストップ,3,臨時ヘリポート,26,綾部市とよさか町9,," xlink:title="綾部工業団地ヘリストップ" transform="ref(svg,13528.5059,-3532.8151)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7818" content="綾部市第1市民グラウンド,3,臨時ヘリポート,26,綾部市川糸町天王森1の1,," xlink:title="綾部市第1市民グラウンド" transform="ref(svg,13526.383,-3530.1081)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7819" content="田野グラウンド,3,臨時ヘリポート,26,綾部市田野町田野山2-167,," xlink:title="田野グラウンド" transform="ref(svg,13524.9032,-3528.7955)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7820" content="高津グラウンド,3,臨時ヘリポート,26,綾部市高津町西ノ開市8-1,," xlink:title="高津グラウンド" transform="ref(svg,13520.2318,-3530.1576)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7821" content="綾部市総合運動公園グラウンド,3,臨時ヘリポート,26,綾部市上杉町大宝山10,," xlink:title="綾部市総合運動公園グラウンド" transform="ref(svg,13531.5701,-3536.3375)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7822" content="東綾中学校運動場,3,臨時ヘリポート,26,綾部市東山町山家99,," xlink:title="東綾中学校運動場" transform="ref(svg,13531.5245,-3529.7308)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7823" content="東部グラウンド,3,臨時ヘリポート,26,綾部市十倉中町段畠60,," xlink:title="東部グラウンド" transform="ref(svg,13534.0081,-3533.3604)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7824" content="豊里小学校運動場,3,臨時ヘリポート,26,綾部市栗町土居ノ内19,," xlink:title="豊里小学校運動場" transform="ref(svg,13522.1694,-3531.4561)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7825" content="綾部市うずい野農村広場,3,臨時ヘリポート,26,綾部市小畑町埋野84,," xlink:title="綾部市うずい野農村広場" transform="ref(svg,13520.3107,-3534.3091)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7826" content="綾部市西部グラウンド,3,臨時ヘリポート,26,綾部市物部町東野24-1,," xlink:title="綾部市西部グラウンド" transform="ref(svg,13522.8786,-3535.214)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7827" content="志賀小学校運動場,3,臨時ヘリポート,26,綾部市志賀郷町丁田8,," xlink:title="志賀小学校運動場" transform="ref(svg,13524.1718,-3537.0604)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7828" content="上林中学校運動場,3,臨時ヘリポート,26,綾部市八津合町片山17,," xlink:title="上林中学校運動場" transform="ref(svg,13541.506,-3536.8865)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7832" content="宮島小学校グランド,3,臨時ヘリポート,26,南丹市美山町島,," xlink:title="宮島小学校グランド" transform="ref(svg,13554.9368,-3527.2549)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7835" content="蒲生野中学校グランド,3,臨時ヘリポート,26,船井郡京丹波町蒲生,," xlink:title="蒲生野中学校グランド" transform="ref(svg,13542.2806,-3516.4972)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7837" content="下山小学校グランド,3,臨時ヘリポート,26,船井郡京丹波町下山,," xlink:title="下山小学校グランド" transform="ref(svg,13542.1031,-3521.5899)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7838" content="グリーンランドみずほ多目的グランド,3,臨時ヘリポート,26,船井郡京丹波町大朴,," xlink:title="グリーンランドみずほ多目的グランド" transform="ref(svg,13536.5744,-3516.4161)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7839" content="和知中学校グランド,3,臨時ヘリポート,26,船井郡京丹波町市場,," xlink:title="和知中学校グランド" transform="ref(svg,13541.1616,-3525.8814)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7840" content="和知小学校グランド,3,臨時ヘリポート,26,船井郡京丹波町本庄,," xlink:title="和知小学校グランド" transform="ref(svg,13540.0684,-3526.5664)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7843" content="花背山の家グラウンド,3,臨時ヘリポート,26,京都市左京区花背別所町,," xlink:title="花背山の家グラウンド" transform="ref(svg,13578.4411,-3517.9469)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7844" content="八丁平,3,臨時ヘリポート,26,京都市左京区久多下の町,," xlink:title="八丁平" transform="ref(svg,13582.9446,-3522.8899)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7845" content="原地,3,臨時ヘリポート,26,京都市左京区花背原地町,," xlink:title="原地" transform="ref(svg,13576.8994,-3523.5945)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7847" content="元久多小学校グランド,3,臨時ヘリポート,26,京都市左京区久多下ノ町,," xlink:title="元久多小学校グランド" transform="ref(svg,13582.348,-3526.34)" x="0" y="0"/>
+<use xlink:href="#p0" id="f7860" content="京都府立ゼミナールハウス,3,臨時ヘリポート,26,京都市右京区京北下中町,," xlink:title="京都府立ゼミナールハウス" transform="ref(svg,13563.2282,-3519.8934)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8324" content="口藤農村公園,3,ヘリコプター臨時離着陸場適地（但馬県民局管内）,28,豊岡市但東町口藤201,豊岡市長（豊岡市但東総合支所地域整備課）,50×40m" xlink:title="口藤農村公園" transform="ref(svg,13501.2079,-3551.4928)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8359" content="丹波少年自然の家事務組合グラウンド,3,ヘリコプター臨時離着陸場適地（丹波県民局管内）,28,丹波市青垣町西芦田32-2（第2グランド）,丹波少年自然の家事務組合管理者,110×63m" xlink:title="丹波少年自然の家事務組合グラウンド" transform="ref(svg,13500.5835,-3523.0968)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8360" content="青垣総合運動公園（グリーンベル青垣グランド）,3,ヘリコプター臨時離着陸場適地（丹波県民局管内）,28,丹波市青垣町田井縄782,丹波市教育委員会（丹波市青垣公民館＜ｸﾞﾘｰﾝﾍﾞﾙ青垣＞）,190×110m" xlink:title="青垣総合運動公園（グリーンベル青垣グランド）" transform="ref(svg,13502.1585,-3523.6252)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8363" content="丹波市立氷上中学校,3,ヘリコプター臨時離着陸場適地（丹波県民局管内）,28,丹波市氷上町成松103,丹波市立氷上中学校,180×100m" xlink:title="丹波市立氷上中学校" transform="ref(svg,13503.6744,-3517.5396)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8364" content="丹波市立春日中学校,3,ヘリコプター臨時離着陸場適地（丹波県民局管内）,28,丹波市春日町野村2476,丹波市立春日中学校,170×100m" xlink:title="丹波市立春日中学校" transform="ref(svg,13511.4153,-3516.0012)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8367" content="丹波市立市島中学校,3,ヘリコプター臨時離着陸場適地（丹波県民局管内）,28,丹波市市島町上垣2002,丹波市立市島中学校,140×85m" xlink:title="丹波市立市島中学校" transform="ref(svg,13514.0837,-3521.3364)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8368" content="スポーツピアいちじま,3,ヘリコプター臨時離着陸場適地（丹波県民局管内）,28,丹波市市島町中竹田6121-3,スポーツピアいちじま,122×105m" xlink:title="スポーツピアいちじま" transform="ref(svg,13512.3723,-3523.7417)" x="0" y="0"/>
+<use xlink:href="#p0" id="f8371" content="VIPｱﾙﾊﾟｲﾝﾛｰｽﾞﾋﾞﾚｯｼﾞ野球場,3,ヘリコプター臨時離着陸場適地（丹波県民局管内）,28,篠山市遠方字獅子尾谷16-3,（株）ｼﾞｪｲ･ｱｰﾙ（VIPｱﾙﾊﾟｲﾝﾛｰｽﾞﾋﾞﾚｯｼﾞ）,90×85m" xlink:title="VIPｱﾙﾊﾟｲﾝﾛｰｽﾞﾋﾞﾚｯｼﾞ野球場" transform="ref(svg,13527.0815,-3516.5547)" x="0" y="0"/>
+</g>
+</svg>
