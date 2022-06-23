@@ -23,8 +23,6 @@
 	// (JavaScriptをインポートSVGコンテンツに置くことができる。)
 	// 地図データとしては、OpenStreetMapを利用（比較的容易に他にも置き換えられる）
 	//
-	// この実装の注意：
-	// ＞(&gt;)・＜(&lt;)・＆(&amp;)符号はエスケープしないと動かない
 	// 
 	// このコードの動作環境では、以下があらかじめ設定される
 	// document:このドキュメント自身
@@ -53,9 +51,9 @@
 	onzoom = function(){
 		var level = 8;
 		var level = Math.floor( Math.LOG2E * Math.log(this.scale) + 7.5);
-		if (level &gt; 18 ){
+		if (level > 18 ){
 			level = 18;
-		} else if ( level &lt; 3 ){
+		} else if ( level < 3 ){
 			level = 3;
 		}
 		++ testIscript2;
@@ -65,7 +63,7 @@
 		var currentTiles =  document.getElementsByTagName("image");
 //		console.log(currentTiles);
 		
-		for ( var i = currentTiles.length - 1 ; i &gt;= 0 ; i-- ){
+		for ( var i = currentTiles.length - 1 ; i >= 0 ; i-- ){
 			var oneTile = currentTiles[i];
 			var qkey = oneTile.getAttribute("metadata");
 			if ( tileSet[qkey] ){
@@ -109,17 +107,18 @@
 		cl.setAttribute("xlink:href" , tileURL.URL);
 //		cl.setAttribute("opacity" , "0.5");
 		cl.setAttribute("metadata" , tileURL.Key);
+		cl.setAttribute("data-mercator-tile" , "true");
 		
 		return ( cl );
 	}
 	
 	function getTileSet( geoViewBox , level ){
 		var TileSet = new Object();
-		if ( geoViewBox.y + geoViewBox.height &gt; 85.05113 ){
+		if ( geoViewBox.y + geoViewBox.height > 85.05113 ){
 			geoViewBox.height = 85.05113 -  geoViewBox.y;
 		}
 		
-		if ( geoViewBox.y &lt; -85.05113 ){
+		if ( geoViewBox.y < -85.05113 ){
 			geoViewBox.y = -85.05113;
 		}
 		
@@ -129,8 +128,8 @@
 		var brxy = latLng2XY( geoViewBox.y , geoViewBox.x + geoViewBox.width, level );
 		var tileBRxy = XY2TileXY( brxy );
 		
-		for ( var i = tileTLxy.y ; i &lt;= tileBRxy.y ; i++ ){
-			for ( var j = tileTLxy.x ; j &lt;= tileBRxy.x  ; j++ ){
+		for ( var i = tileTLxy.y ; i <= tileBRxy.y ; i++ ){
+			for ( var j = tileTLxy.x ; j <= tileBRxy.x  ; j++ ){
 				var qkey = getKey( j, i, level);
 				TileSet[qkey] = new Object();
 				TileSet[qkey].x = j;
@@ -165,7 +164,7 @@
 	var tilePix = 256;
 	function lvl2Res( lvl ){
 		var j = 1;
-		for(var i = 0 ; i &lt; lvl ; i++){
+		for(var i = 0 ; i < lvl ; i++){
 			j = j * 2;
 		}
 		return ( j * tilePix );
@@ -190,11 +189,11 @@
 		);
 	var svNumb = 0;
 	var culture ="en-US";
-	var bingRoadSearchPart = ".jpeg?g=849&amp;amp;mkt=" + culture + "&amp;amp;shading=hill";
+	var bingRoadSearchPart = ".jpeg?g=849&amp;mkt=" + culture + "&amp;shading=hill";
 	
 	function getURL( tx , ty , lvl ){
 		var tile_ans = getKey( tx , ty , lvl );
-		var mapServerURL = "http://" + sva[svNumb] + ".tile.openstreetmap.org/" + lvl + "/" + tx + "/" + ty + ".png";
+		var mapServerURL = "https://" + sva[svNumb] + ".tile.openstreetmap.org/" + lvl + "/" + tx + "/" + ty + ".png";
 		++ svNumb;
 		if ( svNumb > 2 ){
 			svNumb = 0;
