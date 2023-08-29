@@ -10,18 +10,16 @@
 <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/baseMap/dynamicOSM_r10.svg" title="OpenStreetMap(Global)" class="basemap switch" visibility="visible" data-controller="../../demos/osmTile.html" />
 
 <!-- geoCoders -->
-<!--
 <animation class="geoCoders" title="geohashCoder" xlink:href="./toolLayers/geoHashCoder/geoHashCoder.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.75" />
 <animation class="geoCoders" title="UTMGridCoder" xlink:href="./toolLayers/utmGridCoder/utmGridCoder.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.75" />
 <animation class="geoCoders" title="CSIS_GeoCoder" xlink:href="./toolLayers/csisGeocoder/csisGeocoder.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.75" />
 <animation class="geoCoders" title="GSI_GeoCoder" xlink:href="./toolLayers/gsiGeoCoder/gsiGeoCoder.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.75" />
--->
 
 <!-- GIS tools -->
 <!--
 <animation class="Tools" title="CSV入力可視化" xlink:href="./toolLayers/csvLayer/csvXhr_r18.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.75" />
-<animation class="Tools editable" title="Raster GIS" xlink:href="./toolLayers/rasterGisLayer/rasterGisLayer6.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6" />
 -->
+<animation class="Tools editable" title="Raster GIS" xlink:href="./toolLayers/rasterGisLayer/rasterGisLayer6.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6" />
 
 <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="./contents/gsi/gsiTilesListLayer.svg" title="地理院タイル：各種" class="国土地理院 clickable" visibility="hidden" opacity="0.6"/>
 
