@@ -1,0 +1,145 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>SVGMapのwebAppレイヤーで、geoJsonを描画するサンプル</title>
+</head>
+
+<script>
+var usgsEarthquakeService="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/";
+var timeSpanKeys=["hour","day","week","month"]; // 配信データの期間設定の選択枝
+var timeSpanDefault=2; // 過去1週間のデータの表示をデフォルトに
+var levelKeys=["significant","4.5","2.5","1.0","all"]; // マグニチュード別の配信データの選択枝
+var levelDefault=2; // M2.5以上の地震の表示をデフォルトに
+var intervalMinutes=10; // 10分おきに更新する
+var metaSchema; // SVGMap.jsの標準で用意されているジオメトリ選択時のメタデータ表示UIの正規化されたスキーマを格納する
+
+var initHash;
+
+addEventListener("load", function(){
+	if ( svgImageProps.Path.indexOf("#")>0){
+		initHash = svgImageProps.Path.substring(svgImageProps.Path.indexOf("#")+1).split("_");
+		if ( initHash.length == 2 ){
+			var tsd = timeSpanKeys.indexOf(initHash[0]);
+			if ( tsd>=0){
+				timeSpanDefault = tsd;
+			}
+			var ld = levelKeys.indexOf(initHash[1]);
+			if ( ld>=0){
+				levelDefault = ld;
+			}
+		}
+	}
+	
+	buildDataSelect();
+	changeData();
+	setInterval(function(){
+		changeData();
+		messageDiv.innerText=new Date().toLocaleString() + " update";
+	} ,intervalMinutes * 60 * 1000);
+});
+
+function changeData(){
+	var param1 = dataSelect1.selectedIndex;
+	var param2 = dataSelect2.selectedIndex;
+	var path = getUSGSURL(param1,param2);
+	loadAndDrawGeoJson(path);
+}
+
+async function loadAndDrawGeoJson(dataPath){
+	var gjs = await loadJSON(dataPath);
+	buildSchema(gjs.features);
+	setMagColors(gjs.features);
+	console.log("geoJson:",gjs);
+	var parentElm = svgImage.getElementById("mapContents");
+	removeChildren(parentElm);
+	svgMapGIStool.drawGeoJson(gjs, layerID, "orange", 2, "orange", "p0", "poi", "", parentElm, metaSchema);
+	svgMap.refreshScreen();
+}
+
+function buildDataSelect(){
+	var first=true;
+	for ( var i = 0 ; i < timeSpanKeys.length; i++){
+		var timeSpanKey = timeSpanKeys[i];
+		var selectedOpt="";
+		if ( timeSpanDefault == i){
+			selectedOpt="selected";
+		}
+		dataSelect1.insertAdjacentHTML('beforeend', `<option value="${timeSpanKey}" ${selectedOpt}>${timeSpanKey}</option>`);
+	}
+	for ( var i = 0 ; i < levelKeys.length ; i++){
+		var levelKey = levelKeys[i];
+		var selectedOpt="";
+		if ( levelDefault == i){
+			selectedOpt="selected";
+		}
+		dataSelect2.insertAdjacentHTML('beforeend',  `<option value="${levelKey}" ${selectedOpt}>${levelKey}+</option>`);
+	}
+}
+
+async function loadJSON(url){
+	var response = await fetch(url+"?time="+new Date().getTime()); // 常に最新のデータを得るには何かダミーのクエリパートを付けるBad Tips..
+	// https://stackoverflow.com/questions/37204296/cache-invalidation-using-the-query-string-bad-practice
+	// https://stackoverflow.com/questions/9692665/cache-busting-via-params
+	var json = await response.json();
+	return ( json );
+}
+
+function removeChildren(element){
+	while (element.firstChild) element.removeChild(element.firstChild);
+}
+
+function getUSGSURL(timeSpan, level){
+	if (!timeSpanKeys[timeSpan]){return};
+	if (!levelKeys[level]){return};
+	var ans = `${usgsEarthquakeService}${levelKeys[level]}_${timeSpanKeys[timeSpan]}.geojson`;
+	console.log("getUSGSURL:",ans);
+	return (ans);
+}
+
+function buildSchema(features){ // geojsonのfeatureのproprerty名から正規化されたスキーマを生成
+	metaSchema={};
+	for ( var feature of features){ // 一応全データをトレース
+		for ( var propName in feature.properties){
+			if (!metaSchema[propName]){
+				metaSchema[propName]=true;
+			}
+		}
+	}
+	metaSchema=Object.keys(metaSchema);
+	svgImage.documentElement.setAttribute("property",metaSchema.join());
+}
+
+function setMagColors(features){ // [[解説書#drawGeoJson]]のスタイリング仕様を使い、マグニチュードに応じた色を付ける
+	features.sort(function(a,b){ //マグニチュード昇順でソート
+		return(a.properties.mag - b.properties.mag);
+	});
+	
+	for ( var feature of features){
+		var cmag = feature.properties.mag;
+		// マグニチュード3...7でクリッピング
+		cmag = Math.max(3,cmag);
+		cmag = Math.min(7,cmag);
+		// 色相(hue)に変換し、そこからRGBカラーを生成
+		var hue = (7-cmag)/(4)*240;
+		var rgb = svgMapGIStool.hsv2rgb(hue,100,100);
+		console.log(rgb);
+		if ( rgb){
+			feature.properties["marker-color"]=`#${rgb.r.toString(16).padStart(2, '0')}${rgb.g.toString(16).padStart(2, '0')}${rgb.b.toString(16).padStart(2, '0')}`;
+		}
+	}
+	console.log(features);
+}
+
+</script>
+<body>
+<h3>USGS Earthquake Hazards Program : Real-time Feeds Layer</h3>
+<ul>
+<li>Source: <a href="https://earthquake.usgs.gov/earthquakes/feed/" target="_blank">USGS Earthquake Hazards Program : Real-time Feeds Layer</a>
+
+<li>Period<select id="dataSelect1" onchange="changeData()"></select><br>
+<li>Magnitude <select id="dataSelect2" onchange="changeData()"></select>
+</ul>
+<div id="messageDiv"></div>
+</body>
+</html>
