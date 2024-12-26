@@ -26,22 +26,21 @@
  #copyPermaLink:active:hover{filter: grayscale(100%) sepia(100%) hue-rotate(300deg) brightness(60%) saturate(720%);}
  </style>
 
+<!-- SVGMapのコアAPIの読み込み -->
 <script type="text/javascript" src="https://unpkg.com/jsts@1.6.1/dist/jsts.min.js"></script>
+<script type="module">
+import { CorsProxy } from 'https://cdn.jsdelivr.net/gh/svgmap/svgmapjs@latest/CorsProxyModule.js';
+import { svgMap } from 'https://cdn.jsdelivr.net/gh/svgmap/svgmapjs@latest/SVGMapLv0.1_r18module.js';
+window.svgMap=svgMap
+var corsProxy = new CorsProxy();
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/svgmap/svgMapLv0.1/SVGMapLv0.1_r17.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/svgmap/svgMapLv0.1/SVGMapLv0.1_LayerUI2_r4.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/svgmap/svgMapLv0.1/SVGMapLv0.1_GIS_r3.js"></script>
-<script type="text/javascript" src="./js/corsProxy.js"></script>
-
-<!--
-<script type="text/javascript" src="../rev14/SVGMapLv0.1_Authoring_r7.js"></script>
---> 
-
-<script>
-    const proxyPath = "https://service.svgmap.org/corsaw/"; // CORS anywhere proxyのURL(ラスタGIS等が使用する。そのページ用に調整されたものを準備する必要がある。)
-    corsProxy.setService(proxyPath, null, true, false);
-    svgMap.setProxyURLFactory(null, null, null, corsProxy.getURL, true); // ビットイメージ非線形図法変換の時のみプロキシを使う
+// プロキシの設定
+//var proxyPath = "[[[Set Your CORS Proxy]]]"; // CORS anywhere for svgmap.org / service.svgmap.org
+//corsProxy.setService(proxyPath, null, true,false);
+//window.corsProxy = corsProxy;
+//svgMap.setProxyURLFactory(null,null,null, corsProxy.getURLfunction(), true); // ビットイメージ非線形図法変換の時のみプロキシを使う
 </script>
+
 
 <body bgcolor="#ffffff" style="overflow:hidden;" >
  <div id="mapcanvas" data-src="ContainerDemo0.svg"></div>
