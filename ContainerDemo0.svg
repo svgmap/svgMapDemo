@@ -23,6 +23,7 @@
   <animation xlink:href="/svgmapAppLayers/geoCoders/csisGeocoder/csisGeocode.svg" title="CSIS_GeoCoder" x="-30000" y="-30000" width="60000" height="60000" class="geoCoder" opacity="1" visibility="hidden"/> <!-- csisGeocode.svg#jageocoderEndpoint=[JageocoderEndpointURLwithQueryPart] とすることでJageocoderを使用します-->
   <animation xlink:href="/svgmapAppLayers/geoCoders/gsiGeocoder/gsiGeoCoder.svg" title="GSI_GeoCoder" x="-30000" y="-30000" width="60000" height="60000" class="geoCoder" opacity="1" visibility="hidden"/>
   <!-- GIS的なもののグループ -->
+  <animation class="GIS" title="Street View" xlink:href="./appLayers/streetView/instantStreetView.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="1" />
   <animation class="GIS clickable editable" title="経路検索(graphhopper)" xlink:href="/svgmapAppLayers/geoProcessingLayers/routing/routingD.svg#graphhopperurl=https://service.svgmap.org/graphhopper/route" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="1"/>
   <animation class="GIS" title="標高検索" xlink:href="/svgmapAppLayers/geoProcessingLayers/gsiAltCoder/altCoder.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="1"/>
   <animation class="GIS" title="GeoidHeightCalculator" xlink:href="/svgmapAppLayers/geoProcessingLayers/gsiGeoidCoder/geoidCalc.svg" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.6"/>
