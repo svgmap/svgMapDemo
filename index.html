@@ -6,25 +6,8 @@
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<style>
- body {
- 	font-family: Meiryo;
- }
- #layerTable{
- 	background:#ffE0E0;
- 	border: 2px solid #bbb;
- }
- .layerItem{
- 	background-color: white;
- }
- .noGroup{
- 	background-color: #fff0f0;
- }
- #layerList{
- 	background-color: #ffff80;opacity:0.8;
- }
- #copyPermaLink:active:hover{filter: grayscale(100%) sepia(100%) hue-rotate(300deg) brightness(60%) saturate(720%);}
- </style>
+<!-- レイヤーリストUIのスタイルシート読み込み -->
+<link href="./imgs/layerListStyle.css" rel="stylesheet" type="text/css">
 
 <!-- SVGMapのコアAPIの読み込み -->
 <script type="text/javascript" src="https://unpkg.com/jsts@1.6.1/dist/jsts.min.js"></script>
@@ -71,7 +54,7 @@ if ( svgMap.setDefaultHilightStyle ){
 
 
 
-  <div id="layerList" style="left :30px; top: 10px; width:300px;height:90%; position: absolute; ">
+  <div id="layerList" style="left :30px; top: 10px; width:300px;height:90%; position: absolute; "  data-layerstylecontroller data-hiddenfilter>
   </div>
 
   <div id="layerSpecificUI" style="right :10px; top: 40px; width:400px;height:400px; position: absolute; background-color: white;opacity:0.8;display:none;">
