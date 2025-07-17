@@ -1,0 +1,21 @@
+/** レイヤーリストUIのスタイルシート **/
+ body {
+ 	font-family: Meiryo;
+ }
+ #layerTable{
+ 	background:#ffE0E0;
+ 	border: 2px solid #bbb;
+ }
+ .layerItem{
+ 	background-color: white;
+ }
+ .noGroup{
+ 	background-color: #fff0f0;
+ }
+ #layerList{
+ 	background-color: #ffff80;opacity:0.8;font-size:12px;
+ }
+ 
+ #layerList button{
+ 	padding: 1px 3px;
+ }
