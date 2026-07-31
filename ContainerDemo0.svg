@@ -174,9 +174,15 @@
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/publicTransportation/shareCycleGbfs/shareCycleGbfs.svg#system=hellocycling" title="HELLO CYCLING" opacity="0.75" class="モビリティ clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/publicTransportation/shareCycleGbfs/shareCycleGbfs.svg#system=docomo-cycle" title="ドコモ・バイクシェア（全国）" opacity="0.75" class="モビリティ clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/publicTransportation/odptRealtimeKantoBusAllLinesVehicle/odptRealtimeKantoBusAllLinesVehicle.svg#proxy=https://kantobus-odpt-proxy.svgmap.workers.dev" title="関東バスロケーション" opacity="0.75" class="モビリティ clickable" visibility="hidden"/>
+
+  <!-- 自治体 -->
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/prefecturesJA/okinawa/okinawaOpenData.svg" title="沖縄県オープンデータ" data-cross-origin-proxy-required="true" opacity="0.75" class="自治体 clickable" visibility="hidden"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/prefecturesJA/yamaguchi/yamaguchi_lawa.svg" title="山口県オープンデータ" data-cross-origin-proxy-required="true" opacity="0.75" class="自治体 clickable" visibility="hidden"/>
   
   <!-- その他政府/民間 アプリレイヤー -->
   <animation xlink:href="/svgmapAppLayers/appLayers/multiCsvView/multiCsvView.svg" title="OpenStreetMap各種ポイント情報" x="-30000" y="-30000" width="60000" height="60000" class="poi" opacity="0.75" visibility="hidden"/>
+  <animation  x="-30000"  y="-30000"  width="60000"  height="60000"  xlink:href="/svgmapAppLayers/appLayers/accessibility/accessibilityInformationJR/accessibilityInformationJR.svg"  class="POI"  title="鉄道施設に関するバリアフリー情報（JR）"  visibility="hidden"/>
+  <animation  x="-30000"  y="-30000"  width="60000"  height="60000"  xlink:href="/svgmapAppLayers/appLayers/iot100WeatherBox/iot100WeatherBox.svg"  class="POI"  title="IoT百葉箱"  visibility="hidden"/>
   <animation xlink:href="/svgmapAppLayers/appLayers/npaGoJp/ta.svg" title="警察庁_交通事故データ2021" x="-30000" y="-30000" width="60000" height="60000" class="poi" opacity="0.6" visibility="hidden"/>
   <animation xlink:href="/svgmapAppLayers/appLayers/mhlw_IryouNet/IryouNetPoi.svg" title="厚労省 病院・診療所・薬局等" data-cross-origin-proxy-required="true" x="-30000" y="-30000" width="60000" height="60000" class="poi" opacity="0.6" visibility="hidden"/>
   <animation xlink:href="/svgmapAppLayers/appLayers/gsiEvacuation/shelter.svg" title="地理院 指定避難所" data-cross-origin-proxy-required="true" x="-30000" y="-30000" width="60000" height="60000" class="poi" opacity="0.6" visibility="hidden"/>
