@@ -1,11 +1,15 @@
 # ディレクトリの位置づけ
-このディレクトリのデータは、svgmapAppLayers/appLayers/multiCsvViewレイヤーがアクセスすることを想定したものです。
+
+このディレクトリのデータは、OpenStreetMapデータから特定の地物をポイント情報の主題情報として抽出、[svgmapAppLayers/appLayers/multiCsvViewレイヤー](https://github.com/svgmap/svgmapAppLayers/tree/main/appLayers/multiCsvView)がアクセスすることを想定したものです。
 
 # データセット追加方法
 
 以下の手順に従って、データセットをレイヤーに追加します。
 
 ## 追加手順
+1. **OpenSetrretMapデータから所望の地物データセットのCSVデータを構築する**
+
+   [こちらのwikiページに詳細な手順を記載しています](https://www.svgmap.org/wiki/index.php?title=OpenStreetMap%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
 
 1. **データの可視化**
 
