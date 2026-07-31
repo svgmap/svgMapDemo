@@ -167,7 +167,9 @@
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/jice/CCTVcontainerB.svg#cat=road" title="道路(国土技術研究センター)" data-cross-origin-proxy-required="true" opacity="0.75" class="ライブカメラ clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/jice/CCTVcontainerB.svg#cat=river" title="河川(国土技術研究センター)" data-cross-origin-proxy-required="true" opacity="0.75" class="ライブカメラ clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/mlitRiver/CCTV.svg" title="国交省川の防災情報" data-cross-origin-proxy-required="true" opacity="0.75" class="ライブカメラ" visibility="hidden"/>
+  
   <!-- モビリティ -->
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/publicTransportation/shareCycleGbfs/shareCycleGbfs.svg" title="シェアサイクル・マイクロモビリティ(GBFS)" opacity="0.75" class="モビリティ clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/publicTransportation/odptRealtimeKantoBusAllLinesVehicle/odptRealtimeKantoBusAllLinesVehicle.svg#proxy=https://kantobus-odpt-proxy.svgmap.workers.dev" title="関東バスロケーション" opacity="0.75" class="モビリティ clickable" visibility="hidden"/>
   
   <!-- その他政府/民間 アプリレイヤー -->
