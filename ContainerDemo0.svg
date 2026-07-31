@@ -167,6 +167,9 @@
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/jice/CCTVcontainerB.svg#cat=road" title="道路(国土技術研究センター)" data-cross-origin-proxy-required="true" opacity="0.75" class="ライブカメラ clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/jice/CCTVcontainerB.svg#cat=river" title="河川(国土技術研究センター)" data-cross-origin-proxy-required="true" opacity="0.75" class="ライブカメラ clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/mlitRiver/CCTV.svg" title="国交省川の防災情報" data-cross-origin-proxy-required="true" opacity="0.75" class="ライブカメラ" visibility="hidden"/>
+  <!-- モビリティ -->
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/publicTransportation/odptRealtimeKantoBusAllLinesVehicle/odptRealtimeKantoBusAllLinesVehicle.svg#proxy=https://odpt-bus-proxy.svgmap.workers.dev/" title="関東バスロケーション" opacity="0.75" class="モビリティ clickable" visibility="hidden"/>
+  
   <!-- その他政府/民間 アプリレイヤー -->
   <animation xlink:href="/svgmapAppLayers/appLayers/multiCsvView/multiCsvView.svg" title="OpenStreetMap各種ポイント情報" x="-30000" y="-30000" width="60000" height="60000" class="poi" opacity="0.75" visibility="hidden"/>
   <animation xlink:href="/svgmapAppLayers/appLayers/npaGoJp/ta.svg" title="警察庁_交通事故データ2021" x="-30000" y="-30000" width="60000" height="60000" class="poi" opacity="0.6" visibility="hidden"/>
