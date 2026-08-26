@@ -4,10 +4,10 @@
   <!-- ほとんどのレイヤーは、svgmaporgのsvgmapAppLayers GitHubPagesを参照 -->
   <!-- Basemap Layers -->
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicWMTS.svg" title="sentinel2_2018_WMTS" class="basemap switch" visibility="hidden"/>
-  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo2016.svg#map=ort" title="DenshiKokudo:orthoPhoto" class="basemap switch" visibility="hidden"/>
-  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo2016.svg#map=pale" title="DenshiKokudo:淡色" class="basemap switch" visibility="hidden"/>
-  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo2016.svg#map=relief" title="DenshiKokudo:relief" class="basemap switch" visibility="hidden"/>
-  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo2016.svg" title="DenshiKokudo" class="basemap switch" visibility="hidden"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg#map=ort" title="DenshiKokudo:orthoPhoto" class="basemap switch" visibility="hidden"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg#map=pale" title="DenshiKokudo:淡色" class="basemap switch" visibility="hidden"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg#map=relief" title="DenshiKokudo:relief" class="basemap switch" visibility="hidden"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg" title="DenshiKokudo" class="basemap switch" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/osmTileProviders/osmtp.svg" title="OpenStreetMap Etc" class="basemap switch" visibility="hidden"/>
   <animation x="-300" y="-300" width="600" height="600" xlink:href="/svgmapAppLayers/basemaps/dynamicOSM_r11.svg" title="OpenStreetMap(Global)" class="basemap switch" visibility="visible"/>
   <!-- vectorEtcData -->
@@ -49,8 +49,8 @@
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/droneBird/droneBird.svg" title="DRONEBIRD" class="災害" visibility="hidden" opacity="0.7"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/nasa_FIRMS/firms.svg" title="火災情報(NASA FIRMS)" class="災害" visibility="hidden" opacity="0.7"/>
   <!-- 海洋情報系 -->
-  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo2016.svg#map=ccm2" title="沿岸海域土地条件図:昭和63年以前" class="MARINE" visibility="hidden"/>
-  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo2016.svg#map=ccm1" title="沿岸海域土地条件図:平成元年以降" class="MARINE" visibility="hidden"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg#map=ccm2" title="沿岸海域土地条件図:昭和63年以前" class="MARINE" visibility="hidden"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg#map=ccm1" title="沿岸海域土地条件図:平成元年以降" class="MARINE" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/openSeaMap/dynamicOpenSeaMap.svg" title="dynamicOpenSeaMap seamark" class="MARINE" visibility="hidden"/>
   <!-- 海しる系 -->
   <animation class="MARINE" title="衛星画像(海しる)" xlink:href="/svgmapAppLayers/appLayers/msil/dynamicWebTile.svg#globe&amp;baseURL=none&amp;zmax=11" data-controller="msil_jma.html#exec=appearOnLayerLoad&amp;requiredWidth=400" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.4"/>
@@ -64,7 +64,7 @@
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/openinframap/openinframap.svg" title="Open Infrastructure Map" class="インフラ情報 clickable" visibility="hidden"/>
   <!-- others gov layers -->
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/genshiryokuKisei/doseRate.svg" title="空間線量率(モニタリングポスト:原子力規制委員会)" class="GOV_LAYERS clickable" visibility="hidden" opacity="0.6"/>
-  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo2016.svg#map=did2015" title="人口集中地区(DID)H27(総務省統計局/地理院地図)" class="GOV_LAYERS" visibility="hidden" opacity="0.6"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg#map=did2015" title="人口集中地区(DID)H27(総務省統計局/地理院地図)" class="GOV_LAYERS" visibility="hidden" opacity="0.6"/>
   <!-- その他 ハザードマップ -->
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/bosaiKakenNankai/dynamic_WMS_general.svg#server=null" title="防災科研　南海トラフ広域地震防災研究PF" class="ハザードマップ" data-controller="./nankaiBosaiController.html#exec=appearOnLayerLoad&amp;requiredWidth=400&amp;cat=12" visibility="hidden" opacity="0.8"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/bosaiKakenJSHIS/dynamicPCtile.svg#server=https%3A%2F%2Fwww.j-shis.bosai.go.jp%2Fmapcache%2FA%2Fwmts%3Flayer%3DA-V8-MAP-AVR-TTL_MTTL-A0500_SI2%26style%3Ddefault%26tilematrixset%3DWGS84%26Service%3DWMTS%26Request%3DGetTile%26Version%3D1.0.0%26Format%3Dimage%252Fpng%26TileMatrix%3D%5B%5Blevel%5D%5D%26TileCol%3D%5B%5Bx%5D%5D%26TileRow%3D%5B%5By%5D%5D&amp;comment=%E5%87%BA%E5%85%B8:%E9%98%B2%E7%81%BD%E7%A7%91%E7%A0%94J-SHIS&amp;link=https://www.j-shis.bosai.go.jp/&amp;legend=https://www.j-shis.bosai.go.jp/JSHIS2/IMAGE/etc/P-Y2020-SI.png" title="防災科研_J_SHIS_長期間平均ハザード(再現期間500年)" class="ハザードマップ" visibility="hidden" opacity="0.7"/>
