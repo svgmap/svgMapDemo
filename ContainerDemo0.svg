@@ -180,6 +180,7 @@
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/publicTransportation/odptRealtimeTracking/odptBusLoc.svg" title="公共交通ロケーション" opacity="0.75" class="モビリティ clickable" visibility="hidden"/>
 
   <!-- 自治体 -->
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/prefecturesJA/okayama/opendata/okayamaOpenData.svg" title="岡山県オープンデータ" data-cross-origin-proxy-required="true" opacity="0.75" class="自治体 clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/prefecturesJA/okinawa/okinawaOpenData.svg" title="沖縄県オープンデータ" data-cross-origin-proxy-required="true" opacity="0.75" class="自治体 clickable" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/prefecturesJA/yamaguchi/yamaguchi_lawa.svg" title="山口県オープンデータ" data-cross-origin-proxy-required="true" opacity="0.75" class="自治体 clickable" visibility="hidden"/>
   
