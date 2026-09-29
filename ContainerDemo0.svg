@@ -51,7 +51,7 @@
   <!-- 海洋情報系 -->
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg#map=ccm2" title="沿岸海域土地条件図:昭和63年以前" class="MARINE" visibility="hidden"/>
   <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/basemaps/dynamicDenshiKokudo.svg#map=ccm1" title="沿岸海域土地条件図:平成元年以降" class="MARINE" visibility="hidden"/>
-  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/openSeaMap/dynamicOpenSeaMap.svg" title="dynamicOpenSeaMap seamark" class="MARINE" visibility="hidden"/>
+  <animation x="-30000" y="-30000" width="60000" height="60000" xlink:href="/svgmapAppLayers/appLayers/openSeaMap/OpenSeaMap.svg" title="dynamicOpenSeaMap seamark" class="MARINE" visibility="hidden"/>
   <!-- 海しる系 -->
   <animation class="MARINE clickable" title="海底ケーブル(海しる)" xlink:href="/svgmapAppLayers/appLayers/msil/msilAllLayers.svg#海底ケーブル_line" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.75" />
   <animation class="MARINE clickable" title="漁港(海しる)" xlink:href="/svgmapAppLayers/appLayers/msil/msilAllLayers.svg#漁港" x="-30000" y="-30000" width="60000" height="60000" visibility="hidden" opacity="0.75" />
