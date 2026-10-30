@@ -12,16 +12,13 @@
 <!-- SVGMapのコアAPIの読み込み -->
 <script type="text/javascript" src="https://unpkg.com/jsts@1.6.1/dist/jsts.min.js"></script>
 <script type="module">
-import { CorsProxy } from 'https://cdn.jsdelivr.net/gh/svgmap/svgmapjs@latest/CorsProxyModule.js';
 import { svgMap } from 'https://cdn.jsdelivr.net/gh/svgmap/svgmapjs@202610/SVGMapLv0.1_r18module.js';
-window.svgMap=svgMap
-var corsProxy = new CorsProxy();
+import { setupSecuredCorsProxy } from './js/proxySetup.js';
 
-// プロキシの設定
-var proxyPath = "https://service.svgmap.org/corsaw/"; // CORS anywhere for svgmap.org / service.svgmap.org
-corsProxy.setService(proxyPath, null, true,false);
-window.corsProxy = corsProxy;
-svgMap.setProxyURLFactory(null,null,null, corsProxy.getURLfunction(), true); // ビットイメージ非線形図法変換の時のみプロキシを使う
+window.svgMap = svgMap;
+
+// プロキシの初期化・登録（完了まで待機）
+await setupSecuredCorsProxy(svgMap);
 
 // ハイライトの設定
 if ( svgMap.setDefaultHilightStyle ){
